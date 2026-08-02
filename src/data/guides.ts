@@ -1002,5 +1002,130 @@ export const guides: Guide[] = [
         "url": "https://www.nsw.gov.au/family-and-relationships/grandparents-day/about"
       }
     ]
+  },
+  {
+    "slug": "national-bosses-day",
+    "category": "Observances",
+    "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
+    "description": "National Boss's Day falls on October 16 every year, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958. The date itself is documented; the widely repeated rule that it shifts to the nearest weekday when October 16 falls on a Saturday or Sunday is not.",
+    "updated": "2026-08-02",
+    "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation is available to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 16 every year in the United States, the date Patricia Bays Haroski chose in 1958 because it was her father's birthday. The calendar date itself does not move.",
+      "source": {
+        "label": "Hallmark Corporate — National Boss Day",
+        "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
+      },
+      "occurrences": [
+        { "date": "2026-10-16", "weekday": "Friday" },
+        { "date": "2027-10-16", "weekday": "Saturday" },
+        { "date": "2028-10-16", "weekday": "Monday" },
+        { "date": "2029-10-16", "weekday": "Tuesday" },
+        { "date": "2030-10-16", "weekday": "Wednesday" },
+        { "date": "2031-10-16", "weekday": "Thursday" }
+      ],
+      "caveat": "Hallmark's corporate site, Wikipedia's infobox, and several calendar-tracking sites all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day — Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski's 1958 Chamber of Commerce registration nor Governor Kerner's 1962 proclamation is available online to confirm a weekend-shift clause was part of the original rule, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday — he was also her boss at the time — and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and several calendar-tracking sites, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and no scan turns up a reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation — every account, including this one, is repeating a secondhand telling rather than pointing at the primary document.",
+      "source": {
+        "label": "Hallmark Corporate — National Boss Day",
+        "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Boss's Day is",
+        "body": [
+          "National Boss's Day is an informal US observance held on October 16, aimed at employees thanking supervisors for fair and supportive management over the year. It is not a public holiday: no federal or state law requires it, government offices and banks operate on a normal schedule, and there is no day off attached to it. In 2026 it falls on a Friday.",
+          "The day works mainly through workplace gestures — cards, small gifts, a team lunch — rather than through any organized civic or religious observance. Hallmark's own history of the day, and its slow initial rollout of Boss's Day cards, is the clearest evidence of how commercial the day's growth has been rather than how official its founding was."
+        ]
+      },
+      {
+        "heading": "Where the October 16 date comes from",
+        "body": [
+          "The origin traces to one named person: Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, who registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She chose October 16 because it was her father's birthday, and her father was, at the time, also her boss. Four years later, in 1962, Illinois Governor Otto Kerner lent the observance a measure of state recognition with a proclamation backing Haroski's registration.",
+          "That is a more specific origin than most entries on this calendar have — a named founder, a named employer and city, a stated reason for the date, and a named public official who later endorsed it. It is repeated with the same details by Hallmark's corporate site, Wikipedia, and multiple calendar-tracking sites, which is a level of agreement this site does not usually see for \"national day\" observances. It is still a state governor's proclamation, not federal law — a step below [National Grandparents Day](/national-grandparents-day/), which Congress wrote directly into the U.S. Code.",
+          "It still is not a fully closed case. Wikipedia flags the founding sentence with a citation-needed tag, and no search here turned up a scan or transcript of the actual 1958 U.S. Chamber of Commerce registration or the 1962 Kerner proclamation — every telling of the story, including this one, is repeating an account rather than quoting the primary document."
+        ],
+        "image": {
+          "src": "/images/national-bosses-day-timeline.svg",
+          "alt": "Timeline of National Boss's Day: 1958 registration by Patricia Bays Haroski, 1962 proclamation by Illinois Governor Otto Kerner, 1979 first Hallmark card, 2007 Hallmark expands its card line by 28 percent"
+        }
+      },
+      {
+        "heading": "Does the date actually move on a weekend?",
+        "body": [
+          "This is the question this page exists to answer honestly, because most calendar sites answer it without showing their work. Hallmark's corporate site states plainly that \"if the holiday falls on a weekend, it is celebrated on the closest work day,\" and Wikipedia's infobox lists the date as \"October 16 (or nearest working day),\" a formulation several other calendar-tracking sites repeat as well.",
+          "The trouble is tracing that clause back to anything. Haroski's 1958 registration and Kerner's 1962 proclamation are the only two events anyone points to as the founding record, and neither is available online to check whether a weekend adjustment was part of the original design or added later by convenience. It is entirely plausible that the shift is just an obvious practical accommodation — thanking a boss on a Saturday when nobody is in the office makes little sense — that calendar sites adopted independently of one another and that has since hardened into an assumed rule.",
+          "Because that clause cannot be attributed to a primary source, this page's date table lists October 16 itself in every year, including the years it lands on a weekend (2027 and 2032). Readers whose workplace follows the nearest-working-day convention can apply it themselves: in 2027, October 16 is a Saturday, so the office observance under that convention would move to Friday, October 15."
+        ]
+      },
+      {
+        "heading": "How a private registration became a retail season",
+        "body": [
+          "Hallmark did not move quickly on National Boss's Day. Its own corporate history states that the company did not put a Boss's Day card on shelves until 1979 — 21 years after Haroski's original registration. From there the line grew steadily: reporting from 2008 noted Hallmark had expanded its National Boss' Day card offering by 28 percent the year before, a sign the day had become commercially significant enough to warrant it.",
+          "The commercial growth has drawn its own pushback. Writing in U.S. News & World Report, Alison Green argued that traditional office etiquette runs from boss to employee, not the other way around, and that expecting subordinates to buy gifts for people who hold power over their employment sits awkwardly next to that norm. The Society for Human Resource Management has made a related point, suggesting that in larger organizations, formal recognition of supervisors is better handled through HR programs than through employee-funded gestures on a specific date.",
+          "Boss's Day is not the only observance on this calendar that spread through private registration rather than legislation. [National Sons Day](/national-sons-day/) has an even messier paper trail: a documented March 4 date from a named 2018 founder, and a second, undocumented September 28 date that circulates just as widely on social media — a reminder that \"National ___ Day\" branding is no guarantee that only one date, or one founder, is in circulation."
+        ]
+      },
+      {
+        "heading": "Observed outside the United States, on the same date",
+        "body": [
+          "Boss's Day did not stay confined to the United States. Sources tracking the day describe it as also observed, generally on the same October 16 date, in Canada, India, Ireland, Australia, and the United Kingdom — with India's version concentrated mainly in multinational companies and IT firms in cities such as Bangalore, Hyderabad, and Mumbai, where Western corporate norms carry more weight than they do in most local workplaces.",
+          "This is a different pattern from some of the other entries on this calendar. [National Coffee Day](/national-coffee-day/), for instance, genuinely splits by country: the US date (September 29) and International Coffee Day (October 1) are two different observances with two different institutional histories, not one date drifting in translation. Boss's Day, by contrast, appears to be the same date exported alongside the same corporate culture, rather than a date that different countries independently settled on."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Boss's Day in 2026?",
+        "answer": "Friday, October 16, 2026. The date is fixed at October 16 every year and does not depend on the day of the week; in 2026 it happens to land on a Friday."
+      },
+      {
+        "question": "Does National Boss's Day move to a different day when October 16 falls on a weekend?",
+        "answer": "Hallmark's corporate site and Wikipedia's infobox both describe a convention where the workplace observance shifts to the nearest working day — Friday if October 16 is a Saturday, Monday if it is a Sunday. That convention is widely repeated, but no primary document from the 1958 registration or the 1962 proclamation is available to confirm it was part of the original rule rather than added later. This page lists October 16 itself for every year on that basis."
+      },
+      {
+        "question": "Who started National Boss's Day?",
+        "answer": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958, choosing October 16 because it was her father's birthday and he was also her boss. Illinois Governor Otto Kerner backed the registration with a state proclamation in 1962. The story is consistent across multiple sources, though Wikipedia flags the underlying claim with a citation-needed tag and no primary document has surfaced online."
+      },
+      {
+        "question": "Is National Boss's Day a federal holiday?",
+        "answer": "No. It has no federal or state legal status. Government offices, banks, and most businesses operate on their normal schedule on October 16, and no time off is attached to the day."
+      },
+      {
+        "question": "Why do some people criticize Boss's Day?",
+        "answer": "The main objection is about the direction gifts flow. Writing in U.S. News & World Report, Alison Green argued that workplace gift-giving etiquette normally runs from a manager to an employee, not the reverse, and that a day built around employees buying gifts for the person who controls their job sits uncomfortably against that norm. The Society for Human Resource Management has separately suggested that larger companies are better served handling supervisor appreciation through HR programs than through an employee-funded observance."
+      },
+      {
+        "question": "Is Boss's Day observed outside the United States?",
+        "answer": "Yes, generally on the same October 16 date. It is also described as observed in Canada, India, Ireland, Australia, and the United Kingdom, most visibly in workplaces with Western corporate influence, such as multinational and IT firms in Indian cities like Bangalore, Hyderabad, and Mumbai."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hallmark Corporate — National Boss Day",
+        "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
+      },
+      {
+        "label": "Wikipedia — Boss's Day",
+        "url": "https://en.wikipedia.org/wiki/Boss%27s_Day"
+      },
+      {
+        "label": "U.S. News & World Report — 5 Reasons Boss's Day Is Total BS (Alison Green)",
+        "url": "https://money.usnews.com/money/blogs/outside-voices-careers/2015/10/12/4-reasons-bosss-day-is-total-bs"
+      },
+      {
+        "label": "SHRM — The Challenges of Showing Appreciation on Boss's Day",
+        "url": "https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/the-challenges-of-showing-appreciation-on-boss-day.aspx"
+      },
+      {
+        "label": "Digital Hygge — Boss's Day",
+        "url": "https://digitalhygge.com/boss-day/"
+      }
+    ]
   }
 ];

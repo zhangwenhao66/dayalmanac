@@ -1,0 +1,50 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of National Boss's Day, 1958 to 2007</title>
+  <desc id="desc">1958: Patricia Bays Haroski registers National Boss' Day with the U.S. Chamber of Commerce. 1962: Illinois Governor Otto Kerner proclaims the day. 1979: Hallmark sells its first Boss's Day card. 2007: Hallmark expands its Boss's Day card line by 28 percent.</desc>
+  <rect width="900" height="300" fill="#faf7f0" />
+
+  <line x1="60" y1="150" x2="840" y2="150" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1958 -->
+  <circle cx="120" cy="150" r="7" fill="#a8352b" />
+  <text x="120" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1958</text>
+  <text x="120" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="120" dy="0">Haroski registers</tspan>
+    <tspan x="120" dy="16">"National Boss' Day"</tspan>
+    <tspan x="120" dy="16">with the U.S. Chamber</tspan>
+    <tspan x="120" dy="16">of Commerce</tspan>
+  </text>
+
+  <!-- 1962 -->
+  <circle cx="360" cy="150" r="7" fill="#a8352b" />
+  <text x="360" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1962</text>
+  <text x="360" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="360" dy="0">Illinois Gov. Otto Kerner</tspan>
+    <tspan x="360" dy="16">proclaims the day,</tspan>
+    <tspan x="360" dy="16">backing Haroski's</tspan>
+    <tspan x="360" dy="16">registration</tspan>
+  </text>
+
+  <!-- 1979 -->
+  <circle cx="600" cy="150" r="7" fill="#8a6a2f" />
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1979</text>
+  <text x="600" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="600" dy="0">Hallmark sells its</tspan>
+    <tspan x="600" dy="16">first Boss's Day</tspan>
+    <tspan x="600" dy="16">greeting card —</tspan>
+    <tspan x="600" dy="16">21 years after 1958</tspan>
+  </text>
+
+  <!-- 2007 -->
+  <circle cx="820" cy="150" r="7" fill="#8a6a2f" />
+  <text x="820" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">2007</text>
+  <text x="820" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="820" dy="0">Hallmark expands</tspan>
+    <tspan x="820" dy="16">its Boss's Day card</tspan>
+    <tspan x="820" dy="16">line by 28%</tspan>
+  </text>
+
+  <text x="450" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.5">
+    Every step after 1962 is commercial, not governmental — no federal law or later proclamation follows.
+  </text>
+</svg>

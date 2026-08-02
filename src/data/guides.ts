@@ -826,5 +826,181 @@ export const guides: Guide[] = [
         "url": "https://en.wikipedia.org/wiki/International_Coffee_Day"
       }
     ]
+  },
+  {
+    "slug": "national-grandparents-day",
+    "category": "Observances",
+    "title": "National Grandparents Day: The Date Rule in US Federal Law",
+    "description": "National Grandparents Day falls on the first Sunday in September after Labor Day, not the first Sunday in September. The statutory rule, explained.",
+    "updated": "2026-08-02",
+    "coreSummary": "In the United States, National Grandparents Day is observed on the first Sunday in September after Labor Day, the wording used in 36 U.S.C. § 125. Because Labor Day is the first Monday in September, the observance always lands between September 7 and September 13.",
+    "dateRule": {
+      "kind": "offset",
+      "text": "The first Sunday in September after Labor Day. Labor Day is the first Monday in September (5 U.S.C. § 6103(a)), so National Grandparents Day is the Sunday six days after that Monday, always falling between September 7 and September 13.",
+      "source": {
+        "label": "36 U.S.C. § 125 — National Grandparents Day (Office of the Law Revision Counsel)",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section125&num=0&edition=prelim"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-13",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-09-12",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-09-10",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-09-09",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-09-08",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-07",
+          "weekday": "Sunday"
+        }
+      ],
+      "caveat": "The rule is widely paraphrased as \"the first Sunday in September.\" That paraphrase is wrong in most years: the first Sunday in September falls between September 1 and September 7, while the statutory date falls between September 7 and September 13. The two coincide only when September 1 is a Monday. Note also that this is the United States rule only. Italy observes its Festa nazionale dei nonni on October 2 by statute, Canada marks Grandparents Day on the second Sunday in September, and New South Wales in Australia runs a government-backed Grandparents Day in late October."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The campaign behind the observance was led by Marian McQuade (1917–2008) of Oak Hill, West Virginia, elected vice-chairman of the West Virginia Committee on Aging in 1971, who lobbied state and federal officials through the 1970s for a day honoring grandparents. West Virginia recognized a Grandparents Day of its own before the federal designation: Governor Arch Moore proclaimed the state's first observance in 1973, the same year Senator Jennings Randolph introduced a Senate resolution for a national one. Two further particulars circulate with it — that the state observance was held on May 27, and that West Virginia was the first state in the country to hold such a day. Both appear only in the West Virginia University finding aid, whose biographical note is adapted from Wikipedia, and e-WV says only that the 1973 observance was West Virginia's own first. Those two are not treated as established here. Federal recognition arrived in two stages: President Jimmy Carter issued Proclamation 4580 on August 3, 1978 designating September 10, 1978 alone, and Congress then made the designation annual through H.J. Res. 244, enacted as Pub. L. 96-62 on September 6, 1979. McQuade's campaign papers are held as a 25-linear-foot collection at West Virginia University.",
+      "source": {
+        "label": "e-WV: The West Virginia Encyclopedia — Grandparents Day",
+        "url": "https://www.wvencyclopedia.org/entries/2081"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What the statute actually says",
+        "body": [
+          "National Grandparents Day is defined in Title 36 of the United States Code, the title covering patriotic and national observances. Section 125 reads in full: \"The President is requested to issue each year a proclamation— (1) designating the first Sunday in September after Labor Day as National Grandparents Day; and (2) calling on the people of the United States and interested groups and organizations to observe National Grandparents Day with appropriate ceremonies and activities.\"",
+          "That single phrase, \"the first Sunday in September after Labor Day,\" is the whole rule. It is a relative date, anchored to another observance rather than to a fixed calendar day. To resolve it you need Labor Day first, and Labor Day has its own statutory definition: 5 U.S.C. § 6103(a) lists the legal public holidays and gives Labor Day as \"the first Monday in September.\"",
+          "Chain the two together and the date is fully determined. Find the first Monday in September, then take the following Sunday. Because the first Monday in September can be as early as the 1st and as late as the 7th, the Sunday after it can be as early as September 7 and as late as September 13. The observance never leaves that seven-day window, which is why the statute can say \"in September after Labor Day\" without ever contradicting itself."
+        ]
+      },
+      {
+        "heading": "Why \"the first Sunday in September\" is the wrong rule",
+        "body": [
+          "The most common error about this date is a paraphrase that drops Labor Day entirely and calls it the first Sunday in September. It appears in calendar listings, school newsletters, and greeting-card marketing. It is not a minor rewording. It produces a different date in most years, and the gap is always exactly one week.",
+          "The arithmetic is easy to check. The first Sunday in September falls somewhere between September 1 and September 7. The statutory date falls between September 7 and September 13. The two ranges overlap at a single point, September 7, and they only meet there when September 1 happens to be a Monday. In that case Labor Day is September 1, the Sunday after it is September 7, and the first Sunday of the month is also September 7. September 1 fell on a Monday in 2025, and will next in 2031.",
+          "In every other year the paraphrase is off by seven days. Take 2026: Labor Day is Monday, September 7, so National Grandparents Day is Sunday, September 13. The first Sunday in September 2026 is the 6th, a full week earlier and the day before Labor Day itself. The same seven-day gap holds for 2027, 2028, 2029 and 2030. If you have seen an early-September date for this observance and September 1 that year was not a Monday, you were looking at the wrong rule."
+        ]
+      },
+      {
+        "heading": "How the day became federal law",
+        "body": [
+          "Federal recognition happened in two separate steps a year apart, and the two are often collapsed into one in popular accounts.",
+          "The first step was a one-year proclamation. On August 3, 1978, President Jimmy Carter signed Proclamation 4580, which designated \"Sunday, September 10, 1978, as 'National Grandparents Day.'\" That proclamation set no ongoing rule and cited no act of Congress. It covered a single date in a single year.",
+          "The second step created the recurring observance. H.J. Res. 244 passed the House on July 27, 1979 and the Senate on August 3, 1979, and was approved on September 6, 1979 as Public Law 96-62 (93 Stat. 410). Its operative text reads that \"the President is authorized and requested to issue a proclamation designating the first Sunday of September after Labor Day as 'National Grandparents Day', and calling upon the people of the United States and interested groups and organizations to observe such day with appropriate ceremonies and activities.\" The wording shifted as it moved: the resolution's caption says annually and following Labor Day of each year, the operative sentence says neither, and the codified version at 36 U.S.C. § 125 says each year. All three refer to the same observance. Carter issued the matching proclamation, number 4679, the same day, naming \"Sunday, September 9, 1979 and the first Sunday following Labor Day in each succeeding year\" as the observance.",
+          "That 1979 resolution was codified as 36 U.S.C. § 142b. When Congress reorganized Title 36 in 1998 under Pub. L. 105-225, the provision was restated without substantive change at its current address, 36 U.S.C. § 125. The Historical and Revision Notes printed with § 125 still trace it back to the September 6, 1979 statute.",
+          "A caution on sources: many otherwise careful accounts, including some archival and encyclopedia entries, say that Carter signed the grandparents legislation in 1978. The Statutes at Large do not support that. The 1978 item is a proclamation covering one day, and the annual statute is dated 1979. Public Law 95-276, occasionally cited for this observance, is unrelated; it is a May 10, 1978 joint resolution appointing a citizen regent to the Smithsonian Board of Regents."
+        ]
+      },
+      {
+        "heading": "What the designation does and does not do",
+        "body": [
+          "National Grandparents Day is an observance, not a federal holiday. The list of legal public holidays in 5 U.S.C. § 6103(a) runs from New Year's Day to Christmas Day and does not include it. No federal offices close, no employees receive paid leave, and no pay or leave rules attach to the date.",
+          "The statute is also unusually indirect in its drafting. It does not declare the day itself. It requests that the President issue a proclamation each year doing so, which is standard construction for observances in Title 36 and is why a fresh presidential proclamation typically appears each September. The underlying date rule does not depend on whether a given proclamation is issued.",
+          "One practical consequence of the rule is that the observance always falls on a Sunday, and always on the Sunday of the weekend following the Labor Day long weekend. Schools and community organizations that schedule events around it are working with a date that shifts by up to six days between years, which is the usual reason listings drift out of sync."
+        ]
+      },
+      {
+        "heading": "Grandparents Day in other countries",
+        "body": [
+          "The American date rule is specific to the United States, and other countries that keep a grandparents observance set it independently. There is no shared international date.",
+          "Italy fixes its observance to a calendar day rather than a weekday. Law 159 of 31 July 2005, \"Istituzione della Festa nazionale dei nonni,\" establishes the Festa nazionale dei nonni and states at Article 1(3) that it falls on October 2 of each year. The same provision specifies that the day carries none of the civil effects of Italy's public holiday law, so it is an observance rather than a day off.",
+          "Canada uses the second Sunday in September, which lands on the same day as the American date in most years. The two separate only when September 1 is a Monday, and then the Canadian date is a week later, not earlier: 2025 and 2031 are the near-term cases. The date entered federal debate through a private member's bill, C-274, given first reading in the House of Commons on September 27, 1994, whose sponsor described designating \"the second Sunday in September every year as national grandparents' day, as we do in many provinces and cities in the country.\"",
+          "In Australia, the observance is run at state level rather than nationally. New South Wales holds an official Grandparents Day organised by its Department of Communities and Justice, scheduled in late October; the 2025 edition was held on Sunday, October 26."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Grandparents Day the first Sunday in September?",
+        "answer": "No. Under 36 U.S.C. § 125 the rule is the first Sunday in September after Labor Day, which is a different day in most years. Labor Day is the first Monday in September, so National Grandparents Day always falls between September 7 and September 13, while the first Sunday of the month falls between September 1 and September 7. The two dates coincide only in years when September 1 is a Monday, such as 2025 and 2031. In 2026 through 2030 the popular paraphrase is off by exactly one week."
+      },
+      {
+        "question": "How do I work out the date for any given year?",
+        "answer": "Find the first Monday in September, which is Labor Day under 5 U.S.C. § 6103(a), then take the next Sunday, six days later. For example, if Labor Day is Monday, September 7, National Grandparents Day is Sunday, September 13. The result is always a Sunday between September 7 and September 13 inclusive."
+      },
+      {
+        "question": "Is National Grandparents Day a federal holiday in the United States?",
+        "answer": "No. It is a designated observance, not a legal public holiday. The federal holidays are listed in 5 U.S.C. § 6103(a) and National Grandparents Day is not among them. The day always falls on a Sunday, so no federal office schedule is affected either way, no paid leave attaches to it, and the statute only requests that the President issue an annual proclamation marking it."
+      },
+      {
+        "question": "Who started National Grandparents Day?",
+        "answer": "Marian McQuade of Oak Hill, West Virginia, who was elected vice-chairman of the West Virginia Committee on Aging in 1971, campaigned through the 1970s for an official day honoring grandparents. West Virginia recognized one before the federal designation, when Governor Arch Moore proclaimed the state's first observance in 1973. The exact date often attached to that proclamation, and the claim that West Virginia was the first state in the country, come from an archive finding aid adapted from Wikipedia and are not stated as fact here. Her campaign papers are held at the West Virginia & Regional History Center at West Virginia University."
+      },
+      {
+        "question": "When did National Grandparents Day become official at the federal level?",
+        "answer": "In two stages. President Jimmy Carter signed Proclamation 4580 on August 3, 1978, designating September 10, 1978 as National Grandparents Day for that year only. Congress then made it annual through H.J. Res. 244, approved September 6, 1979 as Public Law 96-62, which set the first Sunday in September after Labor Day as the recurring date. That provision is now codified at 36 U.S.C. § 125. Accounts that describe Carter signing the annual legislation in 1978 conflate the two steps."
+      },
+      {
+        "question": "Do other countries observe Grandparents Day on the same date?",
+        "answer": "No. There is no international standard, though the Canadian and American dates happen to coincide most years. Italy observes the Festa nazionale dei nonni on October 2 every year under Law 159 of 31 July 2005. Canada marks Grandparents Day on the second Sunday in September, which coincides with the American date in most years and falls a week later in the rest. In Australia, New South Wales runs a state-organised Grandparents Day in late October, held on October 26 in 2025."
+      }
+    ],
+    "sources": [
+      {
+        "label": "36 U.S.C. § 125 — National Grandparents Day, Office of the Law Revision Counsel",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section125&num=0&edition=prelim"
+      },
+      {
+        "label": "36 U.S.C. § 125 with Historical and Revision Notes, US Code (GPO/govinfo PDF)",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-subtitleI-partA-chap1-sec125.pdf"
+      },
+      {
+        "label": "Public Law 96-62 (H.J. Res. 244), approved September 6, 1979, 93 Stat. 410",
+        "url": "https://uscode.house.gov/statutes/pl/96/62.pdf"
+      },
+      {
+        "label": "Proclamation 4580 — National Grandparents Day, 1978 (August 3, 1978)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-4580-national-grandparents-day-1978"
+      },
+      {
+        "label": "Proclamation 4679 — National Grandparents Day (September 6, 1979)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-4679-national-grandparents-day"
+      },
+      {
+        "label": "5 U.S.C. § 6103 — Holidays (Labor Day, the first Monday in September)",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim"
+      },
+      {
+        "label": "Public Law 95-276, approved May 10, 1978, 92 Stat. 235 (Smithsonian regent appointment; unrelated to this observance)",
+        "url": "https://uscode.house.gov/statutes/pl/95/276.pdf"
+      },
+      {
+        "label": "Marian McQuade Papers, West Virginia & Regional History Center, West Virginia University",
+        "url": "https://archives.lib.wvu.edu/repositories/2/resources/1523"
+      },
+      {
+        "label": "e-WV: The West Virginia Encyclopedia — Grandparents Day (Peggy Ross)",
+        "url": "https://www.wvencyclopedia.org/entries/2081"
+      },
+      {
+        "label": "e-WV: The West Virginia Encyclopedia — Holidays and Celebrations (Ken Sullivan)",
+        "url": "https://www.wvencyclopedia.org/entries/419"
+      },
+      {
+        "label": "Legge 31 luglio 2005, n. 159 — Istituzione della Festa nazionale dei nonni (Parlamento italiano)",
+        "url": "https://www.parlamento.it/parlam/leggi/05159l.htm"
+      },
+      {
+        "label": "House of Commons of Canada, Debates (Hansard) No. 98, September 27, 1994 — Bill C-274 first reading",
+        "url": "https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-98/hansard"
+      },
+      {
+        "label": "About NSW Grandparents Day, NSW Government",
+        "url": "https://www.nsw.gov.au/family-and-relationships/grandparents-day/about"
+      }
+    ]
   }
 ];

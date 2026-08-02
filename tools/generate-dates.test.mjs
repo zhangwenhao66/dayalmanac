@@ -12,8 +12,10 @@
  *    Management at https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
  *    which lists the observed date for each year. The governing rule text is
  *    5 U.S.C. §6103.
- *  - National Grandparents Day: Pub. L. 95-276 (1978) designates "the first Sunday
- *    after Labor Day"; the derived dates follow from the Labor Day dates above.
+ *  - National Grandparents Day: 36 U.S.C. §125 requests a proclamation designating "the
+ *    first Sunday in September after Labor Day". Enacted by Pub. L. 96-62 (Sept 6, 1979);
+ *    the 1978 item often cited instead is Proclamation 4580, which named a single date and
+ *    created no annual rule. Derived dates follow from the Labor Day dates above.
  *  - Weekday anchors: 2026-01-01 is a Thursday and 2026-08-01 is a Saturday.
  *
  * Run with:  node --test tools/
@@ -101,7 +103,7 @@ test('Birthday of Martin Luther King, Jr. is the third Monday in January', () =>
 // ---------------------------------------------------------------------------
 
 test('Grandparents Day is the first Sunday AFTER Labor Day', () => {
-	// Pub. L. 95-276. Derived from the OPM Labor Day dates above:
+	// 36 U.S.C. §125. Derived from the OPM Labor Day dates above:
 	// 2026 Labor Day Mon 09-07 -> Sun 09-13; 2027 Mon 09-06 -> Sun 09-12;
 	// 2028 Mon 09-04 -> Sun 09-10; 2029 Mon 09-03 -> Sun 09-09; 2030 Mon 09-02 -> Sun 09-08.
 	const expected = ['2026-09-13', '2027-09-12', '2028-09-10', '2029-09-09', '2030-09-08'];
@@ -111,11 +113,59 @@ test('Grandparents Day is the first Sunday AFTER Labor Day', () => {
 });
 
 test('Grandparents Day is NOT the first Sunday in September', () => {
-	// The common paraphrase. It is wrong whenever September starts on a Sunday or the
-	// first Sunday falls before Labor Day — 2030 is such a year (first Sunday 09-01,
-	// statutory date 09-08), so a page repeating the paraphrase would be a week early.
+	// The common paraphrase. The two rules agree ONLY when September 1 is a Monday (then
+	// Labor Day is the 1st and the first Sunday is the 7th either way — 2025 and 2031 are
+	// such years). In every other year the paraphrase runs a week early. 2030 is the
+	// starkest case: first Sunday 09-01, statutory date 09-08.
 	assert.equal(nthWeekdayOf(2030, 9, 'Sunday', 1).date, '2030-09-01');
 	assert.equal(occurrenceFor(RULES.usGrandparentsDay, 2030).date, '2030-09-08');
+});
+
+test('the paraphrase and the statute coincide when September 1 is a Monday', () => {
+	// 2025 and 2031 both start September on a Monday, so Labor Day is the 1st and the first
+	// Sunday is the 7th under either reading. Worth pinning: someone spot-checking the page
+	// against 2025 would otherwise conclude the rule is wrong.
+	for (const year of [2025, 2031]) {
+		assert.equal(nthWeekdayOf(year, 9, 'Monday', 1).date, `${year}-09-01`);
+		assert.equal(nthWeekdayOf(year, 9, 'Sunday', 1).date, occurrenceFor(RULES.usGrandparentsDay, year).date);
+	}
+});
+
+test('the Canadian second-Sunday rule is never EARLIER than the US statutory date', () => {
+	// The article once said Canada's second Sunday in September runs "one week earlier than
+	// the American date in most years". It is backwards, and the backwardness is the mirror
+	// image of the paraphrase this site exists to correct: the SECOND Sunday is the one that
+	// usually coincides, the FIRST Sunday is the one that runs early. Pinned so it cannot be
+	// written the wrong way round again.
+	let same = 0, caLater = 0, caEarlier = 0;
+	for (let y = 2020; y <= 2060; y++) {
+		const us = occurrenceFor(RULES.usGrandparentsDay, y).date;
+		const ca = nthWeekdayOf(y, 9, 'Sunday', 2).date;
+		if (us === ca) same++;
+		else if (ca > us) caLater++;
+		else caEarlier++;
+	}
+	assert.equal(caEarlier, 0, 'Canada is never earlier than the US date');
+	assert.equal(same, 35);
+	assert.equal(caLater, 6);
+	// The 6 divergent years are exactly the years September 1 falls on a Monday.
+	assert.equal(nthWeekdayOf(2025, 9, 'Sunday', 2).date, '2025-09-14');
+	assert.equal(occurrenceFor(RULES.usGrandparentsDay, 2025).date, '2025-09-07');
+});
+
+test('a year never begins on a Monday AND starts September on a Monday', () => {
+	// The article briefly offered readers a self-check phrased as "a year beginning on a
+	// Monday" when it meant "a year whose September begins on a Monday". The two are
+	// mutually exclusive, so the shortcut returned the wrong answer in every year -- and
+	// most damagingly for 2025, the year a reader is likeliest to look up. Pinned so the
+	// two conditions can never be conflated again.
+	let both = 0;
+	for (let y = 1900; y <= 2100; y++) {
+		if (weekdayName(y, 1, 1) === 'Monday' && weekdayName(y, 9, 1) === 'Monday') both++;
+	}
+	assert.equal(both, 0);
+	assert.equal(weekdayName(2025, 1, 1), 'Wednesday');
+	assert.equal(weekdayName(2025, 9, 1), 'Monday');
 });
 
 test('offsetFrom crosses month and year boundaries', () => {

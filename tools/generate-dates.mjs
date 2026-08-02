@@ -158,7 +158,11 @@ export const RULES = {
 	usMemorialDay: { kind: 'nth-weekday', month: 5, weekday: 'Monday', nth: -1 },
 	// 5 U.S.C. §6103 — "the third Monday in January".
 	usMlkDay: { kind: 'nth-weekday', month: 1, weekday: 'Monday', nth: 3 },
-	// Pub. L. 95-276 — "the first Sunday after Labor Day".
+	// 36 U.S.C. §125 — "the first Sunday in September after Labor Day".
+	// Enacted by Pub. L. 96-62 (Sept 6, 1979), 93 Stat. 410; recodified 1998 by Pub. L. 105-225.
+	// NOT Pub. L. 95-276, which is an unrelated 1978 Smithsonian appointment — most secondary
+	// sources, including the WVU archive finding aid, misdate this to a 1978 statute. The 1978
+	// item is Proclamation 4580, which designated one date only and created no annual rule.
 	usGrandparentsDay: {
 		kind: 'offset',
 		base: { kind: 'nth-weekday', month: 9, weekday: 'Monday', nth: 1 },

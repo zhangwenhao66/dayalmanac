@@ -60,7 +60,20 @@ export interface DateRule {
 	kind: DateRuleKind;
 	/** Plain-English statement of the rule, worded the way the founding source words it. */
 	text: string;
-	/** Where the RULE is documented — not where the dates happened to be computed. */
+	/**
+	 * How well-established the rule is. Mirrors `Founding.status`, and for the same reason:
+	 * plenty of observances are kept on a date that no authority ever set.
+	 *
+	 * 'documented'   — an authority states the recurring rule, and `source` points at it.
+	 * 'conventional' — the date is consistently observed but nothing establishes it as a
+	 *                  recurring rule. `source` then points at the best evidence of the
+	 *                  convention, and the page must say so rather than dressing a
+	 *                  single-year mention up as a founding document.
+	 *
+	 * Defaults to 'documented' when omitted, so existing entries keep their meaning.
+	 */
+	status?: 'documented' | 'conventional';
+	/** Where the rule (or, when status is 'conventional', the convention) is evidenced. */
 	source: Source;
 	/**
 	 * Upcoming occurrences, covering at least the next five years, so that a missed
@@ -155,4 +168,663 @@ export function formatOccurrence(o: Occurrence): string {
 	return `${o.weekday}, ${MONTHS[m - 1]} ${d}, ${y}`;
 }
 
-export const guides: Guide[] = [];
+export const guides: Guide[] = [
+  {
+    "slug": "national-boyfriend-day",
+    "category": "Observances",
+    "title": "National Boyfriend Day: October 3, and Its Unverified Origin",
+    "description": "National Boyfriend Day falls on October 3 every year. The date is consistent across sources, but no founder, registration, or proclamation can be verified.",
+    "updated": "2026-08-02",
+    "coreSummary": "National Boyfriend Day is an unofficial observance held on October 3 every year, most visible as a social media hashtag. No founder, registering organization, or government proclamation has ever been documented for it.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 3 every year. The date does not shift for weekends or weekdays.",
+      "source": {
+        "label": "National Day Calendar — National Boyfriend Day, October 3",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-03",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-10-03",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-10-03",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2029-10-03",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2030-10-03",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2031-10-03",
+          "weekday": "Friday"
+        }
+      ],
+      "caveat": "The spelling variants National Boyfriend Day, National Boyfriend's Day and National Boyfriends Day all refer to the same October 3 observance. Holiday Insights reports finding a small number of references that place it on October 4 instead; no other source does."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles rather than anything contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
+      "source": {
+        "label": "National Day Calendar — National Boyfriend Day (history section)",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Boyfriend Day is",
+        "body": [
+          "National Boyfriend Day is an unofficial observance on October 3 set aside for acknowledging a romantic partner. Nothing organizes it and nothing is scheduled; the customs, such as they are, formed by imitation. In practice it works as a prompt for a social media post and as a slot on brand marketing calendars.",
+          "The word \"National\" in the name is honorific and carries no legal weight. Holiday Insights, which tracks this category of observance, reports finding no congressional record and no presidential proclamation behind it. That places National Boyfriend Day alongside the several thousand other \"national days\" circulating online: named by someone at some point, kept alive by repetition, recognized by no official body.",
+          "It is often described as the counterpart to National Girlfriend Day on August 1, but that pairing is contested. National Today and National Day Calendar both define the August date as a celebration of female friendship rather than of romantic partners, and Bustle states directly that there is no equivalent day for women in relationships. Only Holiday Insights treats the two as a romantic pair."
+        ]
+      },
+      {
+        "heading": "The date: October 3, every year",
+        "body": [
+          "October 3 is fixed. It does not move to the nearest weekend and does not shift by weekday. National Day Calendar, National Today, Sprout Social and Wikipedia all give October 3. Holiday Insights gives October 3 as well but notes that it found a small number of references putting the day on October 4, which is the only dissent anyone has recorded. For an observance with this little documentation behind it, the date itself is unusually stable.",
+          "The name appears in three spellings: National Boyfriend Day, National Boyfriend’s Day, and National Boyfriends Day. Holiday Insights uses the plural form, most other sources use the singular. They all describe the same October 3 observance. No source was found that assigns a different date to any spelling variant.",
+          "October 3 is a crowded date. It is also Mean Girls Day, another unofficial internet observance, which comes from a line in the 2004 film in which Cady Heron is asked what day it is and answers that it is October 3. Mean Girls Day has been marked online since around 2011, which makes it older than either proposed origin date for National Boyfriend Day. October 3 is additionally German Unity Day, an actual public holiday in Germany marking the 1990 reunification.",
+          "Dictionary.com argues that the Mean Girls overlap is why boyfriend appreciation posts landed on October 3 rather than some other day: the date was already a fixture in the same corner of social media. That is a plausible reading of the timing, but it is an interpretation offered after the fact, not a documented decision by anyone."
+        ]
+      },
+      {
+        "heading": "Nobody can show who started it",
+        "body": [
+          "This is the part most calendar sites smooth over, so it is worth being specific about what does and does not exist.",
+          "National Day Calendar does not credit a founder. Its entry says the exact origin \"remains a bit of a mystery\" and that the site is \"still digging for the full story.\" That matters because when a day has been registered with them by a company, a trade group, or an individual, National Day Calendar normally names that party in the history section. Here there is nobody to name.",
+          "Two origin claims circulate, and they do not agree. Dictionary.com’s pop culture entry says the day began on October 3, 2012, started by a group of Twitter users writing appreciation posts about their boyfriends, and embeds a tweet from that date as an illustration. It identifies no originator. National Today gives a different account: the earliest reference it found was to \"Boyfriend Day,\" probably dated October 4, 2014, and the page states plainly that no sole source is credited with initiating it. The word \"probably\" is National Today’s own.",
+          "The 2014 version is the one that spread. Wikipedia repeats it as something the day is thought to have originated from, and its citations are mostly lifestyle roundups published years later rather than contemporaneous coverage. Repetition across dozens of calendar pages has hardened a hedged guess into a stated fact. Sprout Social, writing about the same observance, says flatly that it is unclear why the internet chose October at all.",
+          "One frequently repeated statistic deserves a flag. Many pages, Wikipedia included, state that the day gained traction in March 2016 with more than 46,000 tweets. The same figure appears on National Today with no underlying data and no statement of what was counted or how; Wikipedia sources it to a 2023 news article rather than to any original measurement. March is also seven months away from the date the day is observed, which makes the number hard to interpret even if it is accurate. It gets copied anyway.",
+          "What would actually settle the question is a dated original post, a registration with a calendar registrar, or a proclamation. None of those has surfaced. An observance emerging from a hashtag without a founder is ordinary and not suspicious in itself. The difference here is that the sources presenting a confident origin date are presenting someone else’s guess."
+        ]
+      },
+      {
+        "heading": "How people mark it",
+        "body": [
+          "Almost entirely by posting. The standard form is a photo of a partner with a short caption and the hashtag #NationalBoyfriendDay. There is no gift convention, no card industry, and no expected spend attached to the day, which separates it from Valentine’s Day and its commercial infrastructure.",
+          "A counter-tradition runs alongside the sincere posts and has proven durable. Covering the day on October 3, 2017, Bustle documented people responding by naming fictional characters, celebrities, pets and food as their boyfriends instead of real partners. That joke now accounts for a substantial share of what actually circulates on October 3, and it has been a recurring feature of the day for years rather than a one-off.",
+          "Brands treat the date as a scheduled opportunity. Sprout Social lists National Boyfriend Day in its social media holiday calendar and suggests that businesses post customer photos, run discounts, and build hashtag campaigns around it. This is worth knowing if you are wondering why the day appears in your feed from accounts that have no obvious connection to it."
+        ]
+      },
+      {
+        "heading": "Official status",
+        "body": [
+          "National Boyfriend Day is not a public holiday in the United States or anywhere else. It closes nothing and confers no time off, and it has no standing in law. Federal holidays in the US are created by statute, and this is not one of them.",
+          "Many awareness observances that lack federal holiday status still have a presidential proclamation or a state resolution behind them, which gives them a traceable paper trail. National Boyfriend Day has neither. Holiday Insights specifically notes finding no documentation confirming it as a \"national\" day at all."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Boyfriend Day?",
+        "answer": "National Boyfriend Day is October 3 every year. The date is fixed and does not move to a weekend or shift by weekday."
+      },
+      {
+        "question": "Who created National Boyfriend Day?",
+        "answer": "No one knows, and no source can document it. Nobody is named as its founder, no organization registered it, and no proclamation exists. National Day Calendar says the origin remains a mystery and that it is still researching. Dictionary.com attributes the day to unnamed Twitter users in October 2012, while National Today says the earliest reference it found was probably dated October 4, 2014. Those accounts are two years apart and neither identifies a person."
+      },
+      {
+        "question": "Is National Boyfriend Day an official holiday?",
+        "answer": "No. It is not a federal or public holiday in the United States or elsewhere. Nothing closes, no one receives time off, and there is no congressional record or presidential proclamation establishing it. The word \"National\" in the name is honorific and was not conferred by any government body."
+      },
+      {
+        "question": "Is National Boyfriend’s Day the same as National Boyfriend Day?",
+        "answer": "Yes. National Boyfriend Day, National Boyfriend’s Day and National Boyfriends Day all refer to the same October 3 observance. Different calendar sites use different spellings, but no source places any variant on a different date."
+      },
+      {
+        "question": "Why is National Boyfriend Day on October 3?",
+        "answer": "No documented reason exists. Dictionary.com suggests October 3 was adopted because it was already Mean Girls Day, an internet observance marked since around 2011 that comes from a line in the 2004 film. That is an after-the-fact interpretation rather than a recorded decision. Sprout Social says it is simply unclear why October was chosen."
+      },
+      {
+        "question": "Is there a National Girlfriend Day?",
+        "answer": "Yes, National Girlfriend Day is observed on August 1. It is often cited as the reason the boyfriend version exists, but the two registries that define it, National Today and National Day Calendar, both describe August 1 as a day for female friendship rather than for romantic partners. Its own origin is undocumented too."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Day Calendar — National Boyfriend Day, October 3",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+      },
+      {
+        "label": "National Today — National Boyfriend Day",
+        "url": "https://nationaltoday.com/national-boyfriend-day/"
+      },
+      {
+        "label": "Dictionary.com Pop Culture Dictionary — National Boyfriend Day",
+        "url": "https://www.dictionary.com/culture/pop-culture/national-boyfriend-day"
+      },
+      {
+        "label": "Holiday Insights — National Boyfriends Day, October 3",
+        "url": "https://www.holidayinsights.com/moreholidays/october/national-boyfriends-day.htm"
+      },
+      {
+        "label": "Wikipedia — National Boyfriend Day",
+        "url": "https://en.wikipedia.org/wiki/National_Boyfriend_Day"
+      },
+      {
+        "label": "Bustle (October 3, 2017) — people celebrating imaginary significant others",
+        "url": "https://www.bustle.com/p/its-national-boyfriend-day-people-on-twitter-are-celebrating-by-honoring-their-imaginary-significant-others-2776400"
+      },
+      {
+        "label": "Sprout Social — National Boyfriend Day social media holiday listing",
+        "url": "https://sproutsocial.com/social-media-holidays/national-boyfriend-day/"
+      }
+    ]
+  },
+  {
+    "slug": "national-daughters-day",
+    "category": "Observances",
+    "title": "National Daughters Day: Date, Origin, and Why Sources Disagree",
+    "description": "National Daughters Day falls on September 25 in the US, but other calendars use the fourth Sunday in September. Here is which is which, and who says what.",
+    "updated": "2026-08-02",
+    "coreSummary": "In the United States, National Daughters Day is observed on September 25 each year. A separate observance, International Daughters Day, falls on the fourth Sunday in September and is the date used in India. The two are separate observances and are frequently conflated. Neither is an official US holiday, and no verifiable founder has ever been identified for the September 25 date.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 25 every year",
+      "source": {
+        "label": "National Day Calendar — National Daughter's Day, September 25",
+        "url": "https://nationaldaycalendar.com/celebrations/national-daughters-day-september-25"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-25",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2027-09-25",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2028-09-25",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2029-09-25",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2030-09-25",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2031-09-25",
+          "weekday": "Thursday"
+        }
+      ],
+      "caveat": "September 25 is the dominant US date, used by National Day Calendar, National Today, and Days of the Year. It is not universal. National Day Calendar separately lists International Daughters Day on the fourth Sunday in September, which is the date observed in India, where the modern observance originated. That rule produced September 22 in 2024, September 28 in 2025, and September 27 in 2026. The same National Day Calendar entry also notes that in some places the day is marked on October 1, without naming which places. A fourth date exists only on paper: a 1950 bill in Congress proposed the second Sunday in April, and it never passed."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No one has produced a founder, a registration, or a proclamation for the September 25 observance. National Day Calendar, the largest US registrar of these days, says on its own entry that it \"continues researching the origins of this family holiday.\" Snopes, which searched newspaper archives in 2021, concluded that the exact origins of a late-September National Daughters Day are unclear. The claim repeated across most listicle sites, that the Indian greeting card company Archies Limited created the day in 2007, is a real claim with a real interview behind it, but it describes the Indian observance on the fourth Sunday in September rather than the American September 25 date, and in that 2007 interview the company's managing director took only partial credit for the idea. The oldest American records point somewhere else again: a 1932 newspaper mention of a Daughters of Union Veterans event, and a 1950 congressional bill for a date in April.",
+      "source": {
+        "label": "Snopes — fact check on the origins of National Daughters Day (2021)",
+        "url": "https://www.snopes.com/fact-check/national-daughters-day-privacy/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Daughters Day is",
+        "body": [
+          "National Daughters Day is an informal observance in which parents, grandparents, and other relatives mark the daughters in their lives, most visibly by posting about them on social media. In the United States it is kept on September 25.",
+          "It carries no official status. There is no presidential proclamation and no act of Congress behind it, which puts it in a different category from Mother's Day, designated by Congress in 1914. Snopes, reviewing the day in 2021, described it plainly as not an officially designated special day in the United States. That is not a knock on it. Most of the days on any given calendar are unofficial, kept because enough people decided to keep them. But it does mean there is no authority to appeal to when sources disagree about the date, which is exactly what has happened here.",
+          "No single body organizes the day, and nothing has been registered or incorporated around it. What it has is a hashtag and a widely shared date."
+        ]
+      },
+      {
+        "heading": "Which date to use, and who uses which",
+        "body": [
+          "Three different dates circulate, and they are not simply competing answers to the same question. Two of them belong to observances that are genuinely distinct.",
+          "September 25 is the American answer. National Day Calendar lists National Daughter's Day on September 25, and the large calendar aggregators that most search results surface, including National Today and Days of the Year, agree. Snopes found that US social media activity around the day settled on the last week of September, typically September 25 or 26, starting around 2015.",
+          "The fourth Sunday in September is a different observance with a different name. National Day Calendar maintains a separate entry for International Daughters Day on that rule, and describes it as originating in India. This is the working date across India: in 2024, when September contained five Sundays and the fourth and last Sundays fell apart from each other, Indian coverage marked the day on Sunday, September 22, the fourth Sunday, not September 29. That settles a small ambiguity in the wording. Snopes, cited elsewhere on this page, is among the sources that call it the final Sunday; National Day Calendar's own published table for the international entry runs 22 September 2024, 28 September 2025 and 27 September 2026, which is the fourth Sunday in each case, not the last. The rule is the fourth.",
+          "October 1 appears once, in National Day Calendar's own note that the day is observed on that date in some places. The entry does not say where, and no other source consulted here supports it. Treat it as a loose end rather than a real fourth option.",
+          "The practical guidance: if you are in the US and want the date most people around you are using, September 25 is it. If you are marking the day with family in India, or you are working from an international calendar, the fourth Sunday in September is the one that will line up with everyone else. In many years the two land within days of each other, which is part of why they blur together."
+        ]
+      },
+      {
+        "heading": "Where the origin story comes from, and what it actually supports",
+        "body": [
+          "Nearly every page about this day tells the same origin story: the Indian greeting card company Archies Limited created Daughters Day in 2007 to counter the stigma attached to having a daughter rather than a son. Unusually for a widely copied claim, there is something real underneath it. In a 2007 interview quoted by Snopes, Archies managing director Anil Moolchandani discussed the company's push behind the occasion, framing it as an effort to counter gender discrimination and to make the case that a daughter is no lesser than a son. He described the idea growing out of a conversation with census officials about the situation of the girl child, followed by the company canvassing parents and members of the public.",
+          "Two things get lost when that story is compressed into a one-line origin. The first is that Moolchandani claimed partial responsibility, not authorship. The second, and more consequential, is that the observance he was describing is the Indian one on the fourth Sunday in September. Using it to explain the American September 25 date quietly merges two observances that the same sources otherwise keep apart. A greeting card company promoting a card-buying occasion also has an obvious commercial interest in being remembered as its originator, which is worth holding in mind without treating it as disqualifying.",
+          "The older American thread runs somewhere else entirely. Snopes found the earliest reference to a National Daughters Day in a December 1932 news article about a celebration run by a Vermont chapter of the Daughters of Union Veterans, with scattered mentions following in 1939, 1940, and 1949. Then, in the spring of 1950, the idea reached Congress. The Congressional Record for March 31, 1950 shows Representative Tom Steed of Oklahoma introducing, by request, \"H. R. 7938. A bill designating the second Sunday in April as National Daughter's Day,\" referred to the Committee on the Judiciary. It died there. The phrase \"by request\" is a standing congressional convention indicating that a member is introducing a measure on someone else's behalf rather than championing it, so even this record does not name the person behind the idea.",
+          "After the 1950s the day drops out of American archives almost entirely, and does not reappear until scattered social media mentions in the 2010s. Snopes traced its modern spread to posts by prominent celebrities from 2015 onward rather than to any organization or campaign. So the honest position is that the September 25 observance has no traceable founder. What can be documented is a failed 1950 bill for a different date, and an Indian observance on a different date whose promoter took partial credit."
+        ]
+      },
+      {
+        "heading": "How the day is actually marked",
+        "body": [
+          "In the US the day lives almost entirely on social media. The typical observance is a parent posting photographs of a daughter with the hashtag #NationalDaughtersDay. There is no ceremony attached, no traditional gift, and no widely followed convention about who the day is for. Adult daughters, young children, stepdaughters, and daughters-in-law all get included depending on the family.",
+          "In India the day retains more of its original framing. National Day Calendar describes the observance there as directed at the status of the girl child and at the stigma some families still attach to daughters. Gifts and cards are common, unsurprisingly given the day's commercial promotion, but so is public messaging about girls' education and equal treatment.",
+          "One practical note about the social media custom. In 2021, a widely forwarded warning claimed the day was manufactured by foreign actors to harvest family photographs for facial recognition. Snopes rated that claim False, finding no evidence for it and pointing out that the reasoning does not hold up, since photographs of children are already posted online in enormous volume without any need to engineer a trend. Ordinary privacy judgment about posting pictures of children applies here as it does any other day, but there is no specific plot to worry about."
+        ]
+      },
+      {
+        "heading": "Days it gets confused with",
+        "body": [
+          "International Daughters Day, the fourth Sunday in September, is the closest neighbor and the source of most of the date confusion. It is a separate listing with a separate history, not an alternative name for the September 25 day.",
+          "National Son's and Daughter's Day falls on August 11 and covers children of both sexes. Its own origins are similarly murky. National Day Calendar traces an August 11 observance back to a 1988 Canadian newspaper mention and describes earlier, unrelated efforts, including a 1936 push by J. Henry Dusenberry in Missouri and a 1970s congressional request that proposed the last Sunday in January. Like National Daughters Day, it never became official.",
+          "The International Day of the Girl Child, October 11, is the one observance in this cluster with unambiguous provenance. The United Nations General Assembly adopted resolution 66/170 on December 19, 2011 to establish it. If you want a date in this territory that is documented rather than inferred, that is the one.",
+          "Take Our Daughters to Work Day, which began in 1992 and later expanded to include sons, is sometimes cited as a precursor. Snopes notes it as a separate development that ran during the decades when National Daughters Day itself had vanished from American records."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Daughters Day?",
+        "answer": "In the United States, National Daughters Day is observed on September 25 every year. The date does not move, so it falls on a different weekday each year. Some international calendars instead use the fourth Sunday in September for a related observance called International Daughters Day."
+      },
+      {
+        "question": "Is National Daughters Day the same as International Daughters Day?",
+        "answer": "No. They are listed as separate observances with separate dates. National Daughters Day is fixed on September 25 and is the version used in the US. International Daughters Day falls on the fourth Sunday in September and originated in India. They often land within a few days of each other, which is why they are frequently treated as one day."
+      },
+      {
+        "question": "Who created National Daughters Day?",
+        "answer": "No one has been able to document it. National Day Calendar states on its own entry that it is still researching the origins, and Snopes concluded in 2021 that the origins of the late-September observance are unclear. The commonly repeated claim that the Indian greeting card company Archies Limited created it in 2007 refers to the Indian observance on the fourth Sunday in September, and in the 2007 interview behind that claim the company took only partial credit for the idea."
+      },
+      {
+        "question": "Is National Daughters Day an official US holiday?",
+        "answer": "No. It has no presidential proclamation and no act of Congress behind it, and it is not a federal holiday. Nothing closes and no one gets the day off. The closest it ever came to official status was in March 1950, when Representative Tom Steed of Oklahoma introduced H.R. 7938 to designate the second Sunday in April as National Daughter's Day. The bill was referred to the House Judiciary Committee and never passed."
+      },
+      {
+        "question": "Why do some websites say the fourth Sunday in September?",
+        "answer": "Because they are describing the Indian and international observance rather than the American one. In India, Daughters Day falls on the fourth Sunday in September, which produced September 22 in 2024, September 28 in 2025, and September 27 in 2026. A few sources, Snopes among them, loosely describe it as the last Sunday. 2024 settles it: September had five Sundays and the day was kept on the 22nd, the fourth, not the 29th."
+      },
+      {
+        "question": "How is National Daughters Day different from National Son's and Daughter's Day?",
+        "answer": "They are different dates covering different groups. National Son's and Daughter's Day is on August 11 and includes children of both sexes. National Daughters Day is on September 25 in the US and is specific to daughters. Neither has official status, and the origins of both are poorly documented."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Day Calendar — National Daughter's Day, September 25",
+        "url": "https://nationaldaycalendar.com/celebrations/national-daughters-day-september-25"
+      },
+      {
+        "label": "National Day Calendar — International Daughters Day, fourth Sunday in September",
+        "url": "https://nationaldaycalendar.com/celebrations/international-daughters-day-fourth-sunday-in-september"
+      },
+      {
+        "label": "Snopes — Is \"National Daughters Day\" Just a Sinister Plot To Extract Private Data? (Dan MacGuill, October 1, 2021)",
+        "url": "https://www.snopes.com/fact-check/national-daughters-day-privacy/"
+      },
+      {
+        "label": "Congressional Record, March 31, 1950, p. 4444 — H.R. 7938 introduced by Rep. Steed (by request)",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt4/pdf/GPO-CRECB-1950-pt4-3-1.pdf"
+      },
+      {
+        "label": "Business Today — Daughters Day coverage dated September 22, 2024 (India, fourth Sunday)",
+        "url": "https://www.businesstoday.in/india/story/happy-daughters-day-2024-60-heartfelt-wishes-messages-and-whatsapp-texts-for-parents-to-share-with-their-daughters-446931-2024-09-22"
+      },
+      {
+        "label": "National Day Calendar — National Son's and Daughter's Day, August 11",
+        "url": "https://nationaldaycalendar.com/celebrations/national-sons-and-daughters-day-august-11"
+      },
+      {
+        "label": "United Nations — International Day of the Girl Child, October 11 (resolution 66/170, adopted December 19, 2011)",
+        "url": "https://www.un.org/en/observances/girl-child-day"
+      },
+      {
+        "label": "National Today — National Daughters Day (September 25; describes origins as obscure)",
+        "url": "https://nationaltoday.com/national-daughters-day/"
+      }
+    ]
+  },
+  {
+    "slug": "national-sons-day",
+    "category": "Observances",
+    "title": "National Sons Day: March 4, and Why September 28 Keeps Showing Up",
+    "description": "National Sons Day is listed on March 4 by the registries that track it. September 28 circulates widely online but has no traceable origin. Here is the evidence.",
+    "updated": "2026-08-02",
+    "coreSummary": "National Sons Day is observed on March 4, the date created by Jill Nico in 2018 and listed by National Day Calendar and Checkiday. A second date, September 28, is repeated by many calendar sites and by most social media posts about the day, but no source has produced a founder, a registration, or a first observance for it.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "March 4 every year. The date is fixed and does not move for weekends.",
+      "source": {
+        "label": "National Day Calendar - National Sons Day (March 4)",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-sons-day-march-4"
+      },
+      "occurrences": [
+        {
+          "date": "2026-03-04",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2028-03-04",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2029-03-04",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-03-04",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-03-04",
+          "weekday": "Tuesday"
+        }
+      ],
+      "caveat": "September 28 is widely published as National Sons Day and is the date most social media activity follows. It is carried by aggregator calendars such as WinCalendar, and by Calendarr, which lists both dates. No registry that documents provenance supports it: National Day Calendar lists the observance only on March 4, and Checkiday states outright that the September 28 date is incorrect and does not include it in its September 28 listing. Treat March 4 as the documented date and September 28 as a widely repeated date with no established origin."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The March 4 observance has a named founder. Jill Nico created National Sons Day in 2018, and National Day Calendar credits her by name in its history section for the day. Checkiday also credits her and dates annual observance from 2019. The September 28 date has no comparable provenance: nobody has produced a founder, an organizing body, a registration, or a documented first observance for it, and the researcher who looked hardest at it concluded there is nothing there to find.",
+      "source": {
+        "label": "National Day Calendar - National Sons Day history",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-sons-day-march-4"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The two dates, and who keeps each",
+        "body": [
+          "Search for National Sons Day and you will get two answers. March 4 is the date held by the sources that document where observances come from. National Day Calendar lists it on March 4 and names its founder. Checkiday lists it on March 4. Days of the Year lists it on March 4. All three trace the day to the same person and the same year.",
+          "September 28 is held by a different kind of source. Aggregator calendars such as WinCalendar place it at the end of September. Calendarr lists both dates and describes the situation as unsettled. Most of the volume, though, is not calendar sites at all: it is social posts, seasonal roundups, and quote lists that appear every year in late September, plus press coverage that follows the posts rather than leading them. WinCalendar's own entry says only that the day is typically celebrated around the end of September. It gives no founder and no year.",
+          "Neither date is a federal holiday. Coverage that has looked into it, including a USA Today piece syndicated widely, describes National Sons Day as a quasi-holiday: real in the sense that people observe it, unofficial in the sense that no government body established it."
+        ]
+      },
+      {
+        "heading": "Where March 4 comes from",
+        "body": [
+          "Jill Nico created National Sons Day in 2018. Her stated reason was straightforward: a day for daughters already existed and there was no equivalent for sons. National Day Calendar's National Daughter's Day sits on September 25, and Nico positioned her day as its counterpart.",
+          "The explanations for why she picked March 4 specifically do not fully agree across sources, which is worth being honest about. National Day Calendar says there is no single reason, and reports the founder's account that spring seemed right, that the date carries momentum when it is spoken aloud, and that many sons play spring sports. Days of the Year gives a different pair of reasons: that March sits opposite National Daughter's Day on the calendar, and that the number four is personally significant to the founder. A third explanation circulating on smaller sites reads the date as the pun march forth. Only the first two trace back to the founder in any direct way, and they were written up by different editors, so the date-choice story should be treated as loose rather than settled.",
+          "What is not loose is the attribution itself. A named person created the day in a known year, submitted it, and maintains a public page for it. That is more documentation than most informal observances of this size can offer."
+        ]
+      },
+      {
+        "heading": "Where September 28 comes from, as far as anyone can show",
+        "body": [
+          "The most thorough attempt to trace the September date was published in September 2022 by Seth Westphal, who runs Checkiday, and it worked from newspaper archives rather than from other calendar sites. His conclusion was that the date has no source.",
+          "What he did find explains the name, not the date. In 1996, students at Columbia Middle School in Berkeley Heights, New Jersey formed an organization called National Sons Day. It was an organization, not a holiday. Its purpose was to create a counterpart to Take Our Daughters to Work Day, and it ran Take Our Sons to Work Day on the first Thursday in May from 1996 through at least 2001, the last year the group's website was updated. Calendar sites date the launch to 1998 instead; the 1996 start is from the one researcher who worked through newspaper archives rather than from other calendar sites, so it is the version followed here. In 2003 the daughters and sons programs merged into the combined workplace day that still runs today.",
+          "So an entity named National Sons Day genuinely existed in the 1990s, which is enough for a phrase to enter circulation and later be mistaken for a holiday with a date. But its events were in May. A separate sons' day floated in 1996 was penciled in for October 20 and then abandoned when its organizers could not agree on a name and theme. Neither is September 28."
+        ]
+      },
+      {
+        "heading": "One observance or two?",
+        "body": [
+          "Some sites present the two dates as two separate observances with different lineages: September 28 as the older date inherited from the 1990s workplace effort, and March 4 as a modern revival by Nico. The reading is tidy, and it is the one most likely to be repeated back at you.",
+          "The problem is that the 1990s effort never observed September 28. Its events were in May. Handing September the older lineage gives it a provenance the archives do not support. The better-supported reading is that there is one documented observance, March 4, plus a second date that spread on its own and now has real usage behind it but no origin behind it.",
+          "That distinction matters less to families than to anyone publishing a calendar. If you are a parent posting a photo in late September, you are participating in something genuine regardless of where the date came from. If you are printing a school newsletter or scheduling a program, the difference between a date with a founder and a date without one is the whole question."
+        ]
+      },
+      {
+        "heading": "How the day is actually observed",
+        "body": [
+          "Nothing about National Sons Day is transactional: no gift convention formed around it, and greeting-card publishers have left it alone. In practice it is a social media day. Parents post photographs with the hashtag, write a few lines about a son, and that is the extent of it for most people.",
+          "National Day Calendar's suggestions for the day lean practical rather than sentimental: teach a son a specific skill he will need, such as changing a tire or handling a bank account; find or become a mentor for boys without a male role model in their lives; pass along something your own father taught you; take a photograph with all the sons together. Organizations that mentor boys tend to see the day as a low-cost hook for recruitment posts rather than a fundraising moment.",
+          "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is Take Our Daughters and Sons to Work Day in April, which is a scheduled program with participating employers rather than a hashtag."
+        ]
+      },
+      {
+        "heading": "Which date should you use",
+        "body": [
+          "If you need one date and you need to defend it, use March 4. It is the date with a named founder, a registry listing, and a documented year of creation. Anything published on a school calendar, a newsletter, or a client-facing schedule should use it.",
+          "If your audience lives on social media, expect the traffic in late September anyway, and there is nothing dishonest about acknowledging that. Marking the day in September because that is when the people around you mark it is fine. Stating that September 28 is the official date is not, because there is no evidence for it and there is direct evidence against it from the people who research these dates for a living.",
+          "The safest phrasing, if you have to write one line about it: National Sons Day is observed on March 4, and also widely marked on September 28."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Sons Day?",
+        "answer": "National Sons Day is on March 4 each year, according to National Day Calendar, Checkiday, and Days of the Year, all of which trace the observance to founder Jill Nico in 2018. A second date, September 28, is widely published and is when most social media activity happens, but it has no documented origin."
+      },
+      {
+        "question": "Why do some websites say National Sons Day is September 28?",
+        "answer": "Nobody has been able to show where September 28 came from. Research published by Seth Westphal of Checkiday in 2022 found no founder, registration, or first observance for the date, and concluded it spread by repetition. The likely seed of the confusion is that an organization called National Sons Day did exist in the 1990s, but it was an organization rather than a holiday, and its Take Our Sons to Work Day events were held on the first Thursday in May."
+      },
+      {
+        "question": "Who created National Sons Day?",
+        "answer": "Jill Nico created National Sons Day in 2018 and submitted it for the March 4 date. National Day Calendar credits her by name; Checkiday credits her independently. No founder has ever been identified for the September 28 version."
+      },
+      {
+        "question": "Is National Sons Day an official or federal holiday?",
+        "answer": "No. Neither March 4 nor September 28 is a federal holiday, and nothing closes for it. National Sons Day is an unofficial observance, sometimes described in press coverage as a quasi-holiday, meaning people genuinely observe it but no government body established it."
+      },
+      {
+        "question": "Is National Sons Day the same as Take Our Sons to Work Day?",
+        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization called National Sons Day in 1996 and ran Take Our Sons to Work Day on the first Thursday in May from 1996. Some calendar sites date that launch to 1998 instead. That program merged with the daughters' program in 2003 into the combined Take Our Daughters and Sons to Work Day held in April. The modern National Sons Day on March 4 is a separate observance created in 2018."
+      },
+      {
+        "question": "Is there a National Daughters Day as well?",
+        "answer": "Yes. National Day Calendar lists National Daughter's Day on September 25. Its existence is part of the stated reason National Sons Day was created, since the founder set out to give sons an equivalent day."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Day Calendar - National Sons Day (March 4)",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-sons-day-march-4"
+      },
+      {
+        "label": "National Day Calendar - National Daughter's Day (September 25)",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-daughters-day-september-25"
+      },
+      {
+        "label": "Checkiday - National Sons Day",
+        "url": "https://www.checkiday.com/e2dc737da19aea2325e895d766c8aeb2/national-sons-day"
+      },
+      {
+        "label": "Checkiday - holidays listed for September 28",
+        "url": "https://www.checkiday.com/9/28/2026"
+      },
+      {
+        "label": "Seth Westphal, No, September 28th is Not National Sons Day (Medium, September 29, 2022)",
+        "url": "https://westy92.medium.com/no-september-28th-is-not-national-sons-day-bcc3b9cc5c15"
+      },
+      {
+        "label": "Days of the Year - National Sons Day",
+        "url": "https://www.daysoftheyear.com/days/national-sons-day/"
+      },
+      {
+        "label": "WinCalendar - National Son's Day",
+        "url": "https://www.wincalendar.com/Sons-Day"
+      },
+      {
+        "label": "Calendarr - National Sons Day (lists both dates)",
+        "url": "https://www.calendarr.com/united-states/national-sons-day/"
+      },
+      {
+        "label": "USA TODAY via AOL - When is National Son's Day?",
+        "url": "https://www.aol.com/national-sons-day-know-holiday-163910451.html"
+      },
+      {
+        "label": "Wikipedia - Take Our Daughters and Sons to Work Day",
+        "url": "https://en.wikipedia.org/wiki/Take_Our_Daughters_and_Sons_to_Work_Day"
+      }
+    ]
+  },
+  {
+    "slug": "national-coffee-day",
+    "category": "Observances",
+    "title": "National Coffee Day: September 29 in the United States",
+    "description": "National Coffee Day falls on September 29 in the US every year. Its origin is undocumented. International Coffee Day is a separate day, October 1.",
+    "updated": "2026-08-02",
+    "coreSummary": "National Coffee Day is observed in the United States on September 29 every year, on a fixed date that does not shift. It has no documented founder and no federal designation, and it is separate from International Coffee Day, which falls on October 1 and was designated by the UN General Assembly in March 2026.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 29 in the United States, the same calendar date every year. No statute, proclamation or founding body establishes it as a recurring date; September 29 is simply the date the observance is kept on, year after year.",
+      "source": {
+        "label": "National Coffee Association — National Coffee Day on Capitol Hill",
+        "url": "https://www.ncausa.org/Newsroom/National-Coffee-Day-gives-Grounds-for-Celebration-on-Capitol-Hill"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-29",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-09-29",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-29",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-09-29",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-29",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-29",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "International Coffee Day is a different observance held on October 1. It was organized by the International Coffee Organization, first held on October 1, 2015, and designated by the UN General Assembly on March 10, 2026 in resolution A/RES/80/249. Several countries hold their national coffee day on October 1 rather than September 29, and others use unrelated dates entirely.",
+      "status": "conventional"
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No primary record establishes who created the September 29 observance or when. There is no US federal law behind it, and a search of presidential documents in the Federal Register returns no results for \"National Coffee Day\". The National Coffee Association, the industry trade body that promotes the day most visibly, does not claim to have created it. The closest thing to official recognition is H.Res. 784 in the 119th Congress, introduced on September 30, 2025 and referred to the Committee on Energy and Commerce; its text supports the designation but treats the date as already established, stating that National Coffee Day \"will be recognized this year on September 29, 2025\". Secondary sources repeat that the term appeared publicly around 2005, but none of them point to a registration, proclamation, or founding announcement. By contrast, International Coffee Day on October 1 has a fully documented institutional origin.",
+      "source": {
+        "label": "H.Res. 784, 119th Congress (GovInfo)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres784ih/pdf/BILLS-119hres784ih.pdf"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Coffee Day is",
+        "body": [
+          "National Coffee Day is an informal US observance held on September 29. It is not a public holiday, it carries no time off, and no federal or state authority is required to declare it each year. Nothing about the date rotates or shifts: it is September 29 whether that lands on a Tuesday or a Sunday.",
+          "Three groups do most of the observing. Coffee chains and convenience stores run one-day promotions. The National Coffee Association, the US coffee industry trade body founded in 1911, times its consumer research and its Washington advocacy around the date. And members of Congress in the bipartisan Congressional Coffee Caucus use it as a hook for briefings on coffee trade and coffee economics.",
+          "In 2025 the National Coffee Association held a Capitol Hill briefing tied to the day, co-hosted with the caucus and opened by its co-chairs, Representatives Jill Tokuda of Hawaii and William Timmons of South Carolina. The briefing covered coffee's economic contribution, health research, and supply chain resilience rather than anything to do with the observance itself."
+        ]
+      },
+      {
+        "heading": "Why the September 29 origin cannot be traced",
+        "body": [
+          "Most widely observed days can be traced to something: an act of Congress, a presidential proclamation, a UN resolution, a founding organization, or at minimum a dated announcement by whoever started it. National Coffee Day has none of these. A search of the Federal Register for presidential documents mentioning National Coffee Day returns zero results. No statute creates it. No trade body claims authorship.",
+          "The congressional record is the clearest evidence of the gap. On September 30, 2025, the day after that year's observance, Representative Tokuda and seven co-sponsors introduced H.Res. 784, titled \"Recognizing the value of coffee to the United States and expressing support for September 29, 2025, to be designated as 'National Coffee Day'\". The resolution was referred to the Committee on Energy and Commerce. Read closely, it is not a founding document. Its final whereas clause simply observes that \"National Coffee Day will be recognized this year on September 29, 2025\", and the resolving text says the House \"supports the designation\" without saying who made it. A simple House resolution of this kind expresses the sense of the chamber; it does not create law, and it was written for one specific year.",
+          "The origin stories circulating online do not hold up either. One version says the National Coffee Association launched the day in 2005. What Sprudge actually found is narrower: the day is not mentioned publicly in the United States until a 2005 reference by the NCA. That is a first sighting, not a founding announcement, and the NCA does not claim to have created it. Sprudge, a coffee trade publication that went looking for the answer, concluded the origins are murky.",
+          "The honest position is that September 29 is observed because it is observed. The date became self-reinforcing once retailers, listing sites, and newsrooms began treating it as fixed, and no one has produced the document that started it."
+        ]
+      },
+      {
+        "heading": "International Coffee Day, October 1, is a separate and documented observance",
+        "body": [
+          "The observance with a paper trail is International Coffee Day, and it is on October 1, not September 29. In March 2014, member states of the International Coffee Organization agreed to organize International Coffee Day on 1 October, in the ICO's words to create a single day of celebration for coffee lovers around the world. It did not displace the national days already in use: dozens of countries still keep their own, and a large share of those fall on September 29. The ICO then announced that the first official International Coffee Day would take place on October 1, 2015. Each year since, the ICO has run the day as a campaign with a stated theme; the 2025 theme, announced in a press release on September 19, 2025, was \"Embracing Collaboration More Than Ever\".",
+          "October 1 is also the first day of the coffee year, the twelve-month accounting period the ICO runs its production and trade statistics on. That gave the date a practical logic the September 29 observance never had.",
+          "International Coffee Day was elevated further on March 10, 2026, when the UN General Assembly adopted resolution A/RES/80/249 proclaiming October 1 as International Coffee Day. The resolution was introduced by Brazil with a core group of 18 countries and drew 97 co-sponsors. The Food and Agriculture Organization, which welcomed the adoption the same day, was invited to facilitate the annual observance in collaboration with relevant organizations, in particular the ICO.",
+          "The two days therefore have different scopes as well as different dates. September 29 is a US consumer observance with no institutional owner. October 1 is an intergovernmental observance about the coffee sector, its producers, and its supply chain, with the ICO, the FAO, and now the UN General Assembly behind it."
+        ]
+      },
+      {
+        "heading": "In practice it functions as a retail promotion day",
+        "body": [
+          "Whatever its origins, National Coffee Day in the United States now works mainly as a promotional event for coffee retailers. Chains, doughnut shops, and convenience stores announce one-day free or discounted coffee offers in the days beforehand, and news outlets aggregate them. CNN Business, covering the 2025 observance, framed the day around which chains were giving drinks away.",
+          "The mechanics matter more than the individual offers. Most promotions in recent years have been gated behind a loyalty program or a mobile app order rather than being open to anyone who walks in, which makes the day a customer acquisition event as much as a giveaway. Offers change completely from year to year, are usually confirmed only a week or two ahead, and are typically valid for that single day at participating locations.",
+          "This page does not list current offers, because they expire. If you are looking for them, check individual chains' apps and newsrooms in the last week of September."
+        ]
+      },
+      {
+        "heading": "The numbers usually quoted around the day",
+        "body": [
+          "The National Coffee Association releases its National Coffee Data Trends survey ahead of September 29, so most of the US statistics that circulate on the day come from it. The Fall 2025 edition, fielded by Dig Insights, reported that 66% of American adults had drunk coffee in the past day, more than any beverage other than bottled water, and that past-day drinkers averaged close to three cups. It also put past-day specialty coffee consumption at a record 48% of American adults, up from 37% in 2021.",
+          "For the industry side, H.Res. 784 cites more than 150 million Americans drinking over 400 million cups a day, a coffee industry supporting more than 2.2 million US jobs, and a contribution of over $343 billion a year to the national economy, including $38 billion in federal, state, and local tax revenue. It also notes that more than 99% of coffee consumed in the United States is imported.",
+          "Global figures normally come from the FAO or the ICO rather than the NCA. In its March 2026 statement on the UN resolution, the FAO said global coffee production passed 11 million tonnes in 2024, that world trade in coffee beans reached roughly $34 billion, and that coffee accounted for 27.9% of total merchandise exports in Ethiopia, 20.1% in Uganda, and 19.5% in Burundi that year. When a figure appears on September 29 without a named source, it is usually one of these, second-hand."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Coffee Day?",
+        "answer": "National Coffee Day is September 29 in the United States, every year. It is a fixed calendar date rather than a floating one, so it does not move to the nearest weekday and falls on a different day of the week each year."
+      },
+      {
+        "question": "Is National Coffee Day the same as International Coffee Day?",
+        "answer": "No. They are two different observances on two different dates. National Coffee Day in the United States is September 29 and has no documented founder. International Coffee Day is October 1; it was agreed by member states of the International Coffee Organization in March 2014, first held on October 1, 2015, and designated by the UN General Assembly on March 10, 2026 in resolution A/RES/80/249. Some countries observe their own coffee day on October 1 instead of September 29, and others use unrelated dates."
+      },
+      {
+        "question": "Who started National Coffee Day?",
+        "answer": "Nobody has been able to show who started it. No US law or presidential proclamation created it, and no organization has ever announced founding it. The National Coffee Association promotes the day but does not claim to have created it. The earliest public mention anyone has traced is a 2005 reference by the National Coffee Association, reported by the trade publication Sprudge — a first sighting, not a founding."
+      },
+      {
+        "question": "Is National Coffee Day a federal holiday?",
+        "answer": "No. It is not a federal holiday and carries no legal status. Government offices, banks, schools, and businesses operate normally on September 29. The closest official action is H.Res. 784 in the 119th Congress, a non-binding resolution introduced on September 30, 2025 that expressed support for the designation and was referred to committee."
+      },
+      {
+        "question": "Why do coffee chains give away free coffee on September 29?",
+        "answer": "Because the day functions as a retail promotion in the United States. Coffee chains and convenience stores use the date to run one-day free or discounted drink offers, most of them requiring a loyalty account or a mobile app order. The offers change every year, are announced shortly beforehand, and generally apply only on September 29 at participating locations."
+      },
+      {
+        "question": "Does National Coffee Day ever fall on a different date?",
+        "answer": "Not in the United States. It is September 29 regardless of the day of the week. What varies is which country you are in: a number of countries mark their coffee day on October 1 alongside International Coffee Day, and some use entirely different dates."
+      }
+    ],
+    "sources": [
+      {
+        "label": "H.Res. 784, 119th Congress: Recognizing the value of coffee to the United States (GovInfo, introduced 30 September 2025)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres784ih/pdf/BILLS-119hres784ih.pdf"
+      },
+      {
+        "label": "H.Res. 784 bill record, Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/784"
+      },
+      {
+        "label": "Federal Register search: presidential documents mentioning \"National Coffee Day\" (no results)",
+        "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National+Coffee+Day%22&conditions%5Btype%5D%5B%5D=PRESDOCU"
+      },
+      {
+        "label": "International Coffee Organization: International Coffee Day (ICD)",
+        "url": "https://ico.org/international-coffee-day/"
+      },
+      {
+        "label": "ICO news: First official International Coffee Day to take place on 1 October 2015 (archived, original ico.org page retired)",
+        "url": "https://web.archive.org/web/20240528020419/https://www.ico.org/show_news.asp?id=490"
+      },
+      {
+        "label": "ICO Press Release 362/25, 19 September 2025: International Coffee Day 2025 campaign",
+        "url": "https://ico.org/documents/cy2024-25/pr-362e-international-coffee-day-2025.pdf"
+      },
+      {
+        "label": "FAO, 10 March 2026: FAO welcomes UN resolution instituting International Coffee Day",
+        "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en"
+      },
+      {
+        "label": "UN General Assembly meetings coverage, 10 March 2026 (GA/12753)",
+        "url": "https://press.un.org/en/2026/ga12753.doc.htm"
+      },
+      {
+        "label": "United Nations observances: International Coffee Day, 1 October",
+        "url": "https://www.un.org/en/observances/international-coffee-day"
+      },
+      {
+        "label": "National Coffee Association: National Coffee Day gives \"Grounds for Celebration\" on Capitol Hill (30 September 2025)",
+        "url": "https://www.ncausa.org/Newsroom/National-Coffee-Day-gives-Grounds-for-Celebration-on-Capitol-Hill"
+      },
+      {
+        "label": "National Coffee Association, Fall 2025 National Coffee Data Trends (release, 9 September 2025)",
+        "url": "https://www.prnewswire.com/news-releases/grounds-for-celebration-americans-remain-committed-to-coffee-302550720.html"
+      },
+      {
+        "label": "Sprudge: What Is National Coffee Day?",
+        "url": "https://sprudge.com/what-is-national-coffee-day-181677.html"
+      },
+      {
+        "label": "CNN Business, 29 September 2025: National Coffee Day 2025 coverage",
+        "url": "https://www.cnn.com/2025/09/29/business/national-coffee-day-2025-free-drinks-at-dunkin-smoothie-king-and-more"
+      },
+      {
+        "label": "Wikipedia: International Coffee Day (country-by-country dates)",
+        "url": "https://en.wikipedia.org/wiki/International_Coffee_Day"
+      }
+    ]
+  }
+];

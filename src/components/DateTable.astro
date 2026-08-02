@@ -56,7 +56,9 @@ const next = rule.occurrences.find((o) => o.date >= cutoff);
 	</table>
 
 	<p class="mt-4 mb-0 text-xs leading-relaxed text-[var(--ink)]/50">
-		Rule per <a href={rule.source.url} target="_blank" rel="noopener noreferrer" class="text-[var(--ink)]/65 underline underline-offset-2">{rule.source.label}</a>.
+		{rule.status === 'conventional'
+			? 'No authority sets this as a recurring date; it is simply the date the observance is kept on. Evidence: '
+			: 'Rule per '}<a href={rule.source.url} target="_blank" rel="noopener noreferrer" class="text-[var(--ink)]/65 underline underline-offset-2">{rule.source.label}</a>.
 		{rule.kind === 'table'
 			? ' Dates transcribed from that source rather than computed here.'
 			: ' Dates generated from the rule and unit-tested against published tables.'}

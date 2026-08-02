@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<Layout
+	title="Terms of Use"
+	description="The terms governing your use of DayAlmanac."
+>
+	<div class="mx-auto max-w-[720px]">
+		<h1 class="font-display text-3xl font-bold text-[var(--ink)] md:text-4xl">Terms of Use</h1>
+		<p class="mt-2 text-xs uppercase tracking-wide text-[var(--ink)]/40">Last updated: July 31, 2026</p>
+
+		<div class="prose-content mt-7 max-w-[640px] text-[0.9375rem] leading-[1.85] text-[var(--ink)]/70">
+			<p>
+				These Terms of Use govern your access to and use of {SITE_TITLE} (dayalmanac.com, the
+				"Site"). By using the Site, you agree to these terms.
+			</p>
+
+			<h2>Content</h2>
+			<p>
+				DayAlmanac publishes reference content about observances, public holidays, awareness
+				periods and other calendar dates: when each falls, what it is, and who established it.
+				Articles reflect our own research at the time of publication and are provided for general
+				informational purposes only, not as professional, legal, or academic advice.
+			</p>
+
+			<h2>Dates</h2>
+			<p>
+				Date tables on this Site are generated from the stated rule and checked against published
+				authorities, and each page cites the source of its rule. They are still a secondary
+				source. Rules can be amended, observances can be moved or discontinued, and the same
+				observance is sometimes kept on different dates in different countries or organisations.
+				Before committing to anything that matters — booking travel, scheduling paid time off,
+				setting a campaign or filing date — confirm the date against the official body that owns
+				it. We are not liable for losses arising from reliance on a date published here.
+			</p>
+
+			<h2>Intellectual property</h2>
+			<p>
+				Unless otherwise noted, the text and original graphics on this Site are owned by DayAlmanac.
+				You're welcome to link to our articles or quote brief excerpts with attribution. Republishing
+				full articles elsewhere without permission isn't allowed.
+			</p>
+
+			<h2>Third-party links and ads</h2>
+			<p>
+				The Site may display ads served by advertising partners and may link to third-party sites.
+				We aren't responsible for the content, accuracy, or practices of external sites we link to or
+				that serve ads on this Site. See our <a href="/privacy/">Privacy Policy</a> for how advertising
+				cookies work.
+			</p>
+
+			<h2>No warranty</h2>
+			<p>
+				The Site is provided "as is" without warranties of any kind. We try to keep articles
+				accurate and up to date but make no guarantee that content is complete, current, or free of
+				errors.
+			</p>
+
+			<h2>Changes</h2>
+			<p>
+				We may update these terms as the Site evolves. Continued use of the Site after changes take
+				effect means you accept the updated terms.
+			</p>
+
+			<h2>Contact</h2>
+			<p>
+				Questions about these terms can be sent to Owen Zhang via the contact information on the
+				<a href="/about/">About</a> page.
+			</p>
+		</div>
+	</div>
+</Layout>
+
+<style>
+	.prose-content :global(h2) {
+		margin-top: 1.75rem;
+		margin-bottom: 0.75rem;
+		font-size: 1.1rem;
+		font-weight: 700;
+		font-family: "Fraunces", serif;
+		color: var(--ink);
+	}
+	.prose-content :global(h2:first-child) {
+		margin-top: 0;
+	}
+	.prose-content :global(p) {
+		margin-bottom: 1rem;
+	}
+	.prose-content :global(a) {
+		color: var(--flag-dark);
+		text-decoration: underline;
+	}
+</style>

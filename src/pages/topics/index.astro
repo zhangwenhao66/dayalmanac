@@ -1,0 +1,57 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { guides, categorySlug } from '../../data/guides';
+
+const categories = [...new Set(guides.map((g) => g.category))]
+	.sort()
+	.map((name) => ({
+		name,
+		slug: categorySlug(name),
+		count: guides.filter((g) => g.category === name).length,
+	}));
+---
+
+<Layout
+	title="Topics"
+	description="Every family of pages on DayAlmanac: observances, public holidays, awareness months, birthstones and zodiac dates."
+>
+	<div class="mx-auto max-w-[760px]">
+		<nav class="mb-8 text-sm text-[var(--ink)]/40">
+			<a href="/" class="no-underline hover:text-[var(--ink)] hover:underline">Home</a>
+		</nav>
+
+		<h1 class="font-display m-0 text-[2.1rem] leading-tight font-semibold text-[var(--ink)]">Topics</h1>
+		<p class="mt-4 text-[1.02rem] leading-relaxed text-[var(--ink)]/65">
+			The calendar splits into a handful of families. Each grows as entries are checked and added.
+		</p>
+
+		{categories.length > 0 ? (
+			<ul class="m-0 mt-10 list-none p-0">
+				{categories.map((c) => (
+					<li class="border-b border-[var(--rule)] first:border-t">
+						<a href={`/topics/${c.slug}/`} class="entry flex items-baseline justify-between gap-4 py-4 no-underline">
+							<span class="font-display entry-title text-[1.15rem] font-semibold text-[var(--ink)]">{c.name}</span>
+							<span class="shrink-0 text-[0.85rem] text-[var(--ink)]/45 tabular-nums">
+								{c.count} {c.count === 1 ? 'entry' : 'entries'}
+							</span>
+						</a>
+					</li>
+				))}
+			</ul>
+		) : (
+			<div class="panel mt-10 px-6 py-7">
+				<p class="m-0 text-[0.975rem] leading-relaxed text-[var(--ink)]/70">
+					No topics yet. The first entries are still being checked against their founding documents.
+				</p>
+			</div>
+		)}
+	</div>
+</Layout>
+
+<style>
+	.entry:hover .entry-title {
+		color: var(--flag-dark);
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
+</style>

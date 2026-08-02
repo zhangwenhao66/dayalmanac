@@ -1,0 +1,31 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+	title="Page Not Found"
+	description="This page doesn't exist on DayAlmanac. Head back to the homepage to find what you were after."
+>
+	<meta slot="head" name="robots" content="noindex, follow" />
+
+	<div class="mx-auto max-w-[720px]">
+		<p class="rubric m-0">404</p>
+		<h1 class="font-display mt-3 text-[2.1rem] leading-tight font-semibold text-[var(--ink)] md:text-[2.4rem]">
+			Page not found
+		</h1>
+
+		<div class="mt-6 max-w-[600px] text-[1rem] leading-[1.85] text-[var(--ink)]/70">
+			<p class="mb-4">
+				There's nothing at this address. The link may be mistyped, or it may point to a page that
+				was never published here.
+			</p>
+			<p class="m-0">
+				Try the <a class="text-[var(--flag-dark)] underline underline-offset-2" href="/">homepage</a>
+				for what's coming up, or browse every family of entries under <a
+					class="text-[var(--flag-dark)] underline underline-offset-2"
+					href="/topics/">Topics</a
+				>.
+			</p>
+		</div>
+	</div>
+</Layout>

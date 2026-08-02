@@ -1,0 +1,21 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-[var(--paper)]">
+	<div class="mx-auto max-w-6xl px-5 md:px-8">
+		<div class="border-t border-[var(--rule)]"></div>
+		<div class="mt-[3px] border-t-2 border-[var(--ink)]"></div>
+		<p class="m-0 max-w-2xl pt-6 text-sm leading-relaxed text-[var(--ink)]/50">{SITE_DESCRIPTION}</p>
+		<div class="flex flex-col gap-4 py-7 text-sm text-[var(--ink)]/55 md:flex-row md:items-center md:justify-between">
+			<p class="font-display m-0 text-[0.95rem]">&copy; {year} {SITE_TITLE}</p>
+			<nav class="flex flex-wrap gap-5">
+				<a href="/topics/" class="text-[var(--ink)]/55 no-underline hover:text-[var(--flag-dark)] hover:underline">Topics</a>
+				<a href="/about/" class="text-[var(--ink)]/55 no-underline hover:text-[var(--flag-dark)] hover:underline">About</a>
+				<a href="/privacy/" class="text-[var(--ink)]/55 no-underline hover:text-[var(--flag-dark)] hover:underline">Privacy</a>
+				<a href="/terms/" class="text-[var(--ink)]/55 no-underline hover:text-[var(--flag-dark)] hover:underline">Terms</a>
+			</nav>
+		</div>
+	</div>
+</footer>

@@ -1,0 +1,6 @@
+export const SITE_TITLE = 'DayAlmanac';
+export const SITE_DESCRIPTION =
+	'What each observance is, when it actually falls, and who started it — the founding traced to a named source, or said plainly when nobody can find one.';
+export const SITE_ORIGIN = 'https://dayalmanac.com';
+export const AUTHOR_NAME = 'Owen Zhang';
+export const ADSENSE_PUBLISHER_ID = 'pub-5245502795720653';

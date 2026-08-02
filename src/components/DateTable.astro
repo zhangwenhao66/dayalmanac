@@ -1,0 +1,64 @@
+---
+/**
+ * The "when does it fall" block — the reason most readers open one of these pages, so
+ * it sits above the prose rather than under it.
+ *
+ * The nearest future occurrence is marked at build time. Cloudflare Pages rebuilds on
+ * every push and the publishing task pushes daily, so the highlight stays current
+ * without shipping any client JS; if a build ever goes stale the row is merely
+ * un-highlighted, and the table beneath it is still correct.
+ */
+import { formatOccurrence, type DateRule } from '../data/guides';
+
+interface Props {
+	rule: DateRule;
+	/** ISO date used as "today"; defaults to build time. Injectable so tests can pin it. */
+	today?: string;
+}
+
+const { rule, today } = Astro.props;
+const cutoff = today ?? new Date().toISOString().slice(0, 10);
+const next = rule.occurrences.find((o) => o.date >= cutoff);
+---
+
+<div class="leaf px-5 py-5 sm:px-6">
+	<p class="rubric m-0">When it falls</p>
+
+	{next && (
+		<p class="font-display mt-2 mb-0 text-[1.6rem] leading-tight font-semibold text-[var(--ink)] sm:text-[1.85rem]">
+			{formatOccurrence(next)}
+		</p>
+	)}
+
+	<p class="mt-3 mb-0 text-[0.95rem] leading-relaxed text-[var(--ink)]/70">
+		{rule.text}
+	</p>
+
+	{rule.caveat && (
+		<p class="mt-2.5 mb-0 text-[0.875rem] leading-relaxed text-[var(--ink)]/60 italic">{rule.caveat}</p>
+	)}
+
+	<table class="date-table mt-5">
+		<thead>
+			<tr>
+				<th scope="col">Year</th>
+				<th scope="col">Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			{rule.occurrences.map((o) => (
+				<tr data-next={next && o.date === next.date ? '' : undefined}>
+					<th scope="row" class="font-display font-semibold">{o.date.slice(0, 4)}</th>
+					<td>{formatOccurrence(o)}</td>
+				</tr>
+			))}
+		</tbody>
+	</table>
+
+	<p class="mt-4 mb-0 text-xs leading-relaxed text-[var(--ink)]/50">
+		Rule per <a href={rule.source.url} target="_blank" rel="noopener noreferrer" class="text-[var(--ink)]/65 underline underline-offset-2">{rule.source.label}</a>.
+		{rule.kind === 'table'
+			? ' Dates transcribed from that source rather than computed here.'
+			: ' Dates generated from the rule and unit-tested against published tables.'}
+	</p>
+</div>

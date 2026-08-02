@@ -1,0 +1,99 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/bitter';
+
+/*
+ * Almanac house style.
+ *
+ * The design bet: this reads as a printed almanac page, not a blog. Almanacs are dense,
+ * ruled and typographically plain, and their one flourish is the red ink reserved for
+ * feast days — which is where "red-letter day" comes from. So the palette is warm paper,
+ * near-black ink, and a single holiday red used ONLY for dates and category labels.
+ * Anything else that wants to be red has to earn it.
+ *
+ * Type: Bitter (slab serif, self-hosted variable) for display and dates. Slab serifs are
+ * what almanac and calendar printing actually used, and the heavy verticals hold up at
+ * the small sizes a date table needs. System sans for UI chrome.
+ */
+:root {
+	--ink: #1f1d1a;
+	--paper: #faf7f0;
+	--rule: #e2dbcc;
+	--flag: #a8352b;
+	--flag-dark: #862a22;
+	--leaf: #fffdf8;
+}
+
+body {
+	background-color: var(--paper);
+	color: var(--ink);
+	font-family: system-ui, -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif;
+}
+
+.font-display {
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+}
+
+.font-prose {
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+}
+
+/* Ruled panel: the almanac's boxed table, hairline rules on slightly lighter stock. */
+.panel {
+	background: var(--leaf);
+	border: 1px solid var(--rule);
+}
+
+/* Category / section label in small caps, set in the red reserved for calendar ink. */
+.rubric {
+	font-size: 0.65rem;
+	font-weight: 700;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+	color: var(--flag-dark);
+}
+
+/*
+ * Torn calendar leaf: the big "when is it" answer at the top of an observance page.
+ * The red edge stands in for the perforation a tear-off calendar leaves behind.
+ */
+.leaf {
+	background: var(--leaf);
+	border: 1px solid var(--rule);
+	border-left: 3px solid var(--flag);
+	box-shadow: 0 1px 2px rgb(31 29 26 / 0.05);
+}
+
+/* Date table: ruled rows, tabular figures so the columns line up. */
+.date-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-variant-numeric: tabular-nums;
+}
+.date-table th,
+.date-table td {
+	text-align: left;
+	padding: 0.55rem 0.75rem;
+	border-bottom: 1px solid var(--rule);
+}
+.date-table thead th {
+	font-size: 0.65rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+	color: var(--ink);
+	opacity: 0.55;
+	border-bottom: 1.5px solid var(--ink);
+}
+.date-table tbody tr:last-child th,
+.date-table tbody tr:last-child td {
+	border-bottom: 0;
+}
+/* The nearest upcoming occurrence, picked out in calendar red. */
+.date-table tbody tr[data-next] {
+	background: color-mix(in srgb, var(--flag) 5%, transparent);
+}
+.date-table tbody tr[data-next] th,
+.date-table tbody tr[data-next] td {
+	color: var(--flag-dark);
+	font-weight: 600;
+}

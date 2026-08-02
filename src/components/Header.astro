@@ -1,0 +1,40 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<!-- Almanac masthead: slab wordmark over a thick/thin rule pair, the way an almanac
+     cover sets its year banner. -->
+<header class="bg-[var(--paper)]">
+	<div class="mx-auto max-w-6xl px-5 md:px-8">
+		<nav class="flex items-end justify-between gap-2 pt-6 pb-3">
+			<a href="/" class="flex shrink-0 items-center gap-2.5 no-underline" aria-label={`${SITE_TITLE} home`}>
+				<!-- A tear-off calendar leaf: red header bar, two hanger holes, one marked day. -->
+				<svg width="21" height="21" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+					<rect x="3" y="4" width="18" height="17" rx="2" fill="var(--leaf)" stroke="var(--ink)" stroke-width="1.4"/>
+					<path d="M3 6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v3H3V6Z" fill="var(--flag)"/>
+					<rect x="7.2" y="2" width="1.6" height="4" rx="0.8" fill="var(--ink)"/>
+					<rect x="15.2" y="2" width="1.6" height="4" rx="0.8" fill="var(--ink)"/>
+					<rect x="10.4" y="12.4" width="3.2" height="3.2" rx="0.6" fill="var(--flag)"/>
+				</svg>
+				<span class="font-display text-[1.6rem] leading-none font-semibold tracking-tight text-[var(--ink)]">{SITE_TITLE}</span>
+			</a>
+
+			<div class="flex items-baseline gap-6 pb-1">
+				<a href="/topics/" class="nav-link text-[0.85rem] text-[var(--ink)]/70 no-underline">Topics</a>
+				<a href="/about/" class="nav-link text-[0.85rem] text-[var(--ink)]/70 no-underline">About</a>
+			</div>
+		</nav>
+	</div>
+	<div class="mx-auto max-w-6xl px-5 md:px-8">
+		<div class="border-b-2 border-[var(--ink)]"></div>
+		<div class="mt-[3px] border-b border-[var(--rule)]"></div>
+	</div>
+</header>
+
+<style>
+	.nav-link:hover {
+		color: var(--flag-dark);
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
+</style>

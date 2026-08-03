@@ -8,5 +8,10 @@
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
     "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin."
+  },
+  "https://dayalmanac.com/national-cat-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data."
   }
 }

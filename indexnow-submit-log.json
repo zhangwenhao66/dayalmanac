@@ -3,5 +3,10 @@
     "submitted_date": "2026-08-02",
     "verified_status": "pending",
     "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission."
+  },
+  "https://dayalmanac.com/national-boyfriend-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin."
   }
 }

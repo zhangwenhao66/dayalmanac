@@ -12,6 +12,11 @@
  * guidance is that event markup should represent events a user can still attend. An
  * annual observance also has no venue and no organiser, so `eventAttendanceMode` is
  * left off deliberately rather than guessed at.
+ *
+ * `location` is a required field for Google's Event rich result (GSC flagged all
+ * occurrences as invalid with "Missing field location" until this was added). These
+ * observances have no physical venue, so `VirtualLocation` pointing at the guide's own
+ * page is the truthful choice -- the "event" is the page itself, not a fabricated address.
  */
 import { jsonLdStringify } from '../../vendor/site-toolkit/packages/schema/src/jsonLdStringify';
 import type { Occurrence } from '../data/guides';
@@ -38,6 +43,10 @@ const data = upcoming.map((o) => ({
 	startDate: o.date,
 	endDate: o.date,
 	url,
+	location: {
+		'@type': 'VirtualLocation',
+		url,
+	},
 }));
 ---
 

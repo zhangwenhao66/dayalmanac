@@ -656,7 +656,11 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Coffee Day: September 29 in the United States",
     "description": "National Coffee Day falls on September 29 in the US every year. Its origin is undocumented. International Coffee Day is a separate day, October 1.",
-    "updated": "2026-08-02",
+    "published": "2026-08-02",
+    "updated": "2026-08-03",
+    "image": "/images/national-coffee-day.jpg",
+    "imageAlt": "A black cup of coffee on a saucer",
+    "imageCredit": "Photo by [Ross Parmly](https://unsplash.com/@rparmly) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_coffee_cup_(Unsplash).jpg), CC0",
     "coreSummary": "National Coffee Day is observed in the United States on September 29 every year, on a fixed date that does not shift. It has no documented founder and no federal designation, and it is separate from International Coffee Day, which falls on October 1 and was designated by the UN General Assembly in March 2026.",
     "dateRule": {
       "kind": "fixed",

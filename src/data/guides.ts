@@ -1332,7 +1332,7 @@ export const guides: Guide[] = [
         "heading": "National, international, or something else entirely",
         "body": [
           "\"National Dog Day\" and \"International Dog Day\" are not two different holidays the way National Cat Day and International Cat Day are. They are the same August 26 event, founded by the same person in the same year, referred to by two different names. Wikipedia's own article opens by defining them as interchangeable: \"International Dog Day or National Dog Day is an annual observance held on August 26.\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \"International\" version of Dog Day. The word appears to be a rebrand applied by some sites, not a second observance.",
-          "Real distinct dog-themed observances do exist elsewhere on the calendar. World Dog Day, founded in 2016 by the Vanderpump Dog Foundation in West Hollywood, California, is held in May on a date that moves year to year (May 26 in 2025, May 17 in 2026) rather than staying fixed, and it centers specifically on discouraging purchases from breeders in favor of shelter adoption. National Rescue Dog Day falls on May 20. International Homeless Animals Day, run by a different set of animal welfare organizations, falls on the third Saturday in August, close enough to National Dog Day on the calendar that the two get confused despite having separate founders and separate purposes."
+          "Real distinct dog-themed observances do exist elsewhere on the calendar. World Dog Day, founded in 2016 by the Vanderpump Dog Foundation in West Hollywood, California, is held in May on a date that moves year to year (Saturday, May 17 in 2025) rather than staying fixed, and it centers specifically on discouraging purchases from breeders in favor of shelter adoption. National Rescue Dog Day falls on May 20. International Homeless Animals Day, run by a different set of animal welfare organizations, falls on the third Saturday in August, close enough to National Dog Day on the calendar that the two get confused despite having separate founders and separate purposes."
         ]
       },
       {
@@ -1395,8 +1395,8 @@ export const guides: Guide[] = [
         "url": "https://www.aspca.org/helping-shelters-people-pets/us-animal-shelter-statistics"
       },
       {
-        "label": "Impactful Ninja — World Dog Day",
-        "url": "https://impactful.ninja/world-dog-day/"
+        "label": "City of West Hollywood — World Dog Day 2025",
+        "url": "https://www.weho.org/Home/Components/News/News/11660/1400"
       },
       {
         "label": "AlphaPaw — National Dog Day, Founder Colleen Paige",

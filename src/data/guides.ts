@@ -1131,5 +1131,133 @@ export const guides: Guide[] = [
         "url": "https://digitalhygge.com/boss-day/"
       }
     ]
+  },
+  {
+    "slug": "national-cat-day",
+    "category": "Observances",
+    "title": "National Cat Day: October 29, and Which Cat Holiday You Mean",
+    "description": "National Cat Day falls on October 29 in the US, founded in 2005 by Colleen Paige. At least three other cat observances use similar names but different dates.",
+    "updated": "2026-08-03",
+    "coreSummary": "National Cat Day is a US observance held every October 29, founded in 2005 by pet lifestyle expert Colleen Paige to draw attention to shelter cats needing adoption. It is one of at least four differently dated, differently named cat observances in circulation, and is frequently confused with the others.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 29 every year in the United States. No source describes a weekend-shift convention for this date.",
+      "source": {
+        "label": "National Day Calendar — National Cat Day, October 29",
+        "url": "https://nationaldaycalendar.com/celebrations/national-cat-day-october-29"
+      },
+      "occurrences": [
+        { "date": "2026-10-29", "weekday": "Thursday" },
+        { "date": "2027-10-29", "weekday": "Friday" },
+        { "date": "2028-10-29", "weekday": "Sunday" },
+        { "date": "2029-10-29", "weekday": "Monday" },
+        { "date": "2030-10-29", "weekday": "Tuesday" },
+        { "date": "2031-10-29", "weekday": "Wednesday" }
+      ],
+      "caveat": "October 29 is the date for National Cat Day specifically, a US observance. It is not the only cat-themed observance on the calendar and gets confused with at least three others that use different dates and have different founders: International Cat Day (August 8, founded 2002 by the International Fund for Animal Welfare), Black Cat Appreciation Day (August 17, founded 2011 by Wayne H. Morris in the US), and National Black Cat Day (October 27, founded 2011 by the UK charity Cats Protection). Social posts and calendar aggregators routinely apply the wrong date or the wrong founding story to whichever one they happen to be writing about."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Colleen Paige, a pet and family lifestyle expert, founded National Cat Day in 2005. In her own stated mission, the goal was \"to help galvanize the public to recognize the number of cats that need to be rescued each year and also to encourage cat lovers to celebrate the cat(s) in their lives for the unconditional love and companionship they bestow upon us.\" Paige is a prolific founder of pet-themed US observances: she also created National Dog Day in 2004, plus National Puppy Day, National Mutt Day, National Wildlife Day, and National Beach Day, among others. Her account of founding Cat Day is repeated consistently, with the same name and year, by National Today, National Day Calendar, and Wikipedia; unlike this calendar's entry for National Boss's Day, Wikipedia's National Cat Day article carries no citation-needed tag on the founding claim. No source explains why she picked October 29 specifically, in contrast to National Dog Day, where she has stated the August 26 date marks the day her family adopted a shelter dog when she was a child. As with most observances on this calendar founded by a single private individual rather than a government body, there is no registration filing or trademark record available online to inspect independently; every account, including this one, is repeating Paige's own telling.",
+      "source": {
+        "label": "National Today — National Cat Day",
+        "url": "https://nationaltoday.com/national-cat-day/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Cat Day is",
+        "body": [
+          "National Cat Day is a US observance held on October 29, encouraging people to adopt shelter cats, support rescue organizations, and spend extra time with the cats they already have. It carries no legal status: no federal or state law recognizes it, government offices and banks run a normal schedule, and no day off is attached to it. In 2026 it falls on a Thursday.",
+          "Like most observances on this calendar, it spreads mainly through social media and pet-brand marketing rather than through any civic or religious institution. Retailers and shelters use the date as a hook for adoption events and product promotions, which is a large part of how it has stayed visible since 2005."
+        ]
+      },
+      {
+        "heading": "Who started it, and why October 29",
+        "body": [
+          "The origin traces to one named person: Colleen Paige, a pet and family lifestyle expert, who founded National Cat Day in 2005. Her stated goal was to draw public attention to the number of cats that need rescuing each year, and to give cat owners a reason to celebrate the animals already in their homes.",
+          "Paige did not stop at cats. She is also credited as the founder of National Dog Day (2004), National Puppy Day, National Mutt Day, National Wildlife Day, and National Beach Day, among other pet- and animal-themed US observances. That is a different pattern from [National Boss's Day](/national-bosses-day/), where Patricia Bays Haroski registered one specific day in 1958 and the record stops there. Paige's founding claims are, by the same standard applied throughout this calendar, still just one person's account: there is no registration filing, trademark record, or proclamation available online to check independently, even though National Today, National Day Calendar, and Wikipedia all repeat the same name and year without contradiction.",
+          "One detail is notably absent: a stated reason for the October 29 date itself. For National Dog Day, Paige has said August 26 marks the day her family adopted a shelter dog when she was ten years old. No source carries an equivalent explanation for why Cat Day landed on October 29 rather than any other date."
+        ]
+      },
+      {
+        "heading": "Four cat days, four dates, four founders",
+        "body": [
+          "\"Cat day\" is not one observance; it is a name loosely shared by at least four of them, and calendar sites frequently mix up which date and origin story belongs to which.",
+          "National Cat Day itself is the one covered on this page: October 29, US-only, founded by Colleen Paige in 2005. International Cat Day falls on August 8 and has an entirely separate, older institutional history: the International Fund for Animal Welfare (IFAW) created it in 2002, and in 2020 stewardship passed to International Cat Care, a UK-based nonprofit that has worked on feline welfare since 1958. Black Cat Appreciation Day, observed August 17 in the US, was founded in 2011 by Wayne H. Morris in memory of his sister and her black cat, Sinbad, who both died that year; Morris built it around dispelling superstitions that made black cats harder to place for adoption. National Black Cat Day, October 27 in the UK, was launched the same year, 2011, by the British charity Cats Protection, for a closely related reason: at launch, the charity's own data showed black and black-and-white cats took seven days longer on average to find a home than cats of other colors, a gap Cats Protection reported had narrowed to two days by 2019.",
+          "Two of those four (the American Black Cat Appreciation Day and the British National Black Cat Day) share almost the same name, launched in the same year, for a similar adoption-equity reason, on dates two days apart. That is enough overlap that a reader searching for one can easily land on coverage of the other. The safest way to keep them straight is by founder and country: Paige for the US's general National Cat Day, IFAW/International Cat Care for the global August observance, Morris for the US black-cat day, and Cats Protection for the UK black-cat day."
+        ]
+      },
+      {
+        "heading": "The shelter numbers behind the adoption push",
+        "body": [
+          "Coverage of National Cat Day commonly cites shelter statistics to make the case for adoption, and the numbers in circulation do not agree with each other. Some blog posts state 6.3 million animals surrendered annually with 920,000 euthanized; others, covering the same day, cite 7.6 million surrendered and 2.7 million cats euthanized. Neither figure is attributed to a specific report in the articles that use it.",
+          "The ASPCA's own current shelter statistics, current as of 2025, put the real numbers well below either of those recycled figures: 5.8 million dogs and cats entered US shelters and rescues that year, 3 million of them cats, and approximately 597,000 animals were euthanized in shelters, 277,000 of them cats. Those figures reflect a shelter system that has improved substantially since the older, larger numbers still being repeated on some observance pages were first published. Readers who want a current, sourced number for how many cats need adoption should use the ASPCA's own statistics page rather than a figure repeated from an uncredited older post, a caution that applies just as well to [National Coffee Day](/national-coffee-day/) and any other observance page that leans on a statistic to make its case."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Cat Day in 2026?",
+        "answer": "Thursday, October 29, 2026. The date is fixed at October 29 every year in the United States and does not shift for weekends."
+      },
+      {
+        "question": "Who founded National Cat Day?",
+        "answer": "Colleen Paige, a pet and family lifestyle expert, founded it in 2005 to draw attention to shelter cats needing adoption. She has also founded several other pet-themed observances, including National Dog Day. No source documents why she chose October 29 specifically."
+      },
+      {
+        "question": "Is National Cat Day the same as International Cat Day?",
+        "answer": "No. International Cat Day falls on August 8 and was founded in 2002 by the International Fund for Animal Welfare, with stewardship passing to International Cat Care in 2020. National Cat Day falls on October 29 and was founded separately, in 2005, by Colleen Paige in the United States."
+      },
+      {
+        "question": "Is National Cat Day the same as Black Cat Appreciation Day or National Black Cat Day?",
+        "answer": "No, and those two are also not each other. Black Cat Appreciation Day (US) falls on August 17 and was founded in 2011 by Wayne H. Morris in memory of his sister and her cat, Sinbad. National Black Cat Day (UK) falls on October 27 and was launched the same year, 2011, by the charity Cats Protection to improve adoption rates for black cats. National Cat Day, the subject of this page, is a separate US observance on October 29."
+      },
+      {
+        "question": "How many cats are in US shelters?",
+        "answer": "According to the ASPCA's current shelter statistics, 3 million cats entered US shelters and rescues in 2025 out of 5.8 million companion animals total, and approximately 277,000 cats were euthanized that year. Older, unsourced figures still circulating on some observance pages (such as 2.7 million cats euthanized) are well above the ASPCA's current numbers."
+      },
+      {
+        "question": "Is National Cat Day a federal holiday?",
+        "answer": "No. It has no legal status. Government offices, banks, and most businesses operate on their normal schedule on October 29, and no time off is attached to the day."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Today — National Cat Day",
+        "url": "https://nationaltoday.com/national-cat-day/"
+      },
+      {
+        "label": "National Day Calendar — National Cat Day, October 29",
+        "url": "https://nationaldaycalendar.com/celebrations/national-cat-day-october-29"
+      },
+      {
+        "label": "Wikipedia — National Cat Day",
+        "url": "https://en.wikipedia.org/wiki/National_Cat_Day"
+      },
+      {
+        "label": "Wikipedia — International Cat Day",
+        "url": "https://en.wikipedia.org/wiki/International_Cat_Day"
+      },
+      {
+        "label": "Catster — National Black Cat Appreciation Day",
+        "url": "https://www.catster.com/lifestyle/national-black-cat-appreciation-day/"
+      },
+      {
+        "label": "Cats Protection — The history of National Black Cat Day",
+        "url": "https://www.cats.org.uk/cats-blog/history-of-national-black-cat-day"
+      },
+      {
+        "label": "ASPCA — U.S. Animal Shelter Statistics",
+        "url": "https://www.aspca.org/helping-shelters-people-pets/us-animal-shelter-statistics"
+      },
+      {
+        "label": "AlphaPaw — National Dog Day, Founder Colleen Paige",
+        "url": "https://learn.alphapaw.com/blog/august-26-is-national-dog-day-celebrate-with-founder-colleen-paige/"
+      }
+    ],
+    "image": "/images/national-cat-day.jpg",
+    "imageAlt": "Close-up of a grey and white cat with green eyes lying down and looking at the camera",
+    "imageCredit": "Photo by [Mikhail Vasilyev](https://unsplash.com/photos/Z1YtN-kmHCI) on Unsplash, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_unsplash.jpg), CC0"
   }
 ];

@@ -1263,5 +1263,148 @@ export const guides: Guide[] = [
     "image": "/images/national-cat-day.jpg",
     "imageAlt": "Close-up of a grey and white cat with green eyes lying down and looking at the camera",
     "imageCredit": "Photo by [Mikhail Vasilyev](https://unsplash.com/photos/Z1YtN-kmHCI) on Unsplash, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_unsplash.jpg), CC0"
+  },
+  {
+    "slug": "national-dog-day",
+    "category": "Observances",
+    "title": "National Dog Day: August 26, and Two Origin Stories That Don't Agree",
+    "description": "National Dog Day falls on August 26, founded in 2004 by Colleen Paige. Her own organization's website gives two different, unreconciled reasons for why the day exists.",
+    "updated": "2026-08-04",
+    "coreSummary": "National Dog Day is a US observance held every August 26, founded in 2004 by pet lifestyle expert Colleen Paige. The founder's own organization gives two different reasons for it: her personal account says the date marks a childhood shelter adoption, while a 2013 New York State Senate resolution reproduced on the same website says the day was created over the uncredited service of search-and-rescue dogs at Ground Zero. Neither telling mentions the other.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "August 26 every year in the United States. The date does not shift for weekends or weekdays.",
+      "source": {
+        "label": "National Dog Day (official site) — About",
+        "url": "https://www.nationaldogday.com/about1"
+      },
+      "occurrences": [
+        { "date": "2026-08-26", "weekday": "Wednesday" },
+        { "date": "2027-08-26", "weekday": "Thursday" },
+        { "date": "2028-08-26", "weekday": "Saturday" },
+        { "date": "2029-08-26", "weekday": "Sunday" },
+        { "date": "2030-08-26", "weekday": "Monday" },
+        { "date": "2031-08-26", "weekday": "Tuesday" }
+      ],
+      "caveat": "Every source found agrees on August 26, including the founder's own site, a 2013 New York State Senate resolution, and every third-party calendar page checked. The one outlier is Wikipedia's own International Dog Day article, which lists August 26 in its infobox but states in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog\" — an internal contradiction inside a single article, not evidence that August 14 is used anywhere else. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year rather than staying fixed."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Colleen Paige, a pet and family lifestyle expert, founded National Dog Day in 2004. Her own site states the date is personal: August 26 is the day her family adopted her first dog, a Sheltie, from a local shelter when she was ten years old. That is the version repeated by nearly every third-party source checked, including AlphaPaw and UPI. But the same organization's website also reproduces a second, different account: New York State Senate Resolution J2656, sponsored by Senator Terry Gipson and adopted June 20, 2013, states that National Dog Day \"was created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero.\" The resolution commemorates August 26, 2013 as that year's National Dog Day; it credits Paige as founder and repeats the 2004 date, but gives no reason at all for why August 26 specifically was chosen, and never mentions the childhood-adoption story. Neither document acknowledges the other's version. Paige also filed a federal trademark application for \"NATIONAL DOG DAY\" (U.S. Serial No. 78631456) on May 17, 2005, covering charitable fundraising services for dog adoption; records show the application drew a final refusal from the examining attorney in November 2006 and was formally abandoned in June 2007 for failure to respond. The ™ symbol displayed on the organization's website today reflects a common-law claim to the name, not a granted federal registration.",
+      "source": {
+        "label": "National Dog Day (official site) — About",
+        "url": "https://www.nationaldogday.com/about1"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Dog Day is",
+        "body": [
+          "National Dog Day is a US observance held on August 26, built around adopting shelter dogs, supporting rescue organizations, and appreciating the dogs people already have. It carries no legal status: no federal law recognizes it, government offices and banks run their normal schedule, and no time off is attached to it. In 2026 it falls on a Wednesday.",
+          "It spreads mainly through social media posts, pet-brand marketing, and shelter adoption drives rather than through any civic institution. A New York State Senate resolution gave it a brief moment of formal government attention in 2013, but that recognition stopped at the state legislative level and was never picked up federally."
+        ]
+      },
+      {
+        "heading": "The date: August 26, with one source confusing itself",
+        "body": [
+          "August 26 is fixed and does not move for weekends. The founder's own site gives that date, a 2013 New York State Senate resolution names that date, and every general calendar and pet-brand page checked for this article agrees.",
+          "The one inconsistency found sits inside a single Wikipedia article. Wikipedia's \"International Dog Day\" page uses that date, August 26, in its infobox, but its history section states that \"the date, August 14, was chosen to mark the day her family adopted their first dog.\" No other source anywhere repeats August 14; it reads as a copy-editing slip inside one article rather than a second date genuinely in circulation. It is included here only because catching exactly this kind of quiet inconsistency, rather than repeating whichever number a source happens to print first, is the point of this calendar."
+        ]
+      },
+      {
+        "heading": "Who started it, and two accounts of why",
+        "body": [
+          "The founder is not in dispute: Colleen Paige, a pet and family lifestyle expert, created National Dog Day in 2004. What is unusual is that her own organization's website presents two different, non-overlapping explanations for it, on two different pages, with neither one mentioning the other.",
+          "The version that spreads furthest is personal. National Dog Day's About page states that Paige chose August 26 because it is the day her family adopted her first dog, a Sheltie, from a local animal shelter, when she was ten years old. AlphaPaw, UPI, and most general calendar sites repeat this account, sometimes word for word.",
+          "The second version comes from New York State Senate Resolution J2656, sponsored by Senator Terry Gipson and adopted June 20, 2013, commemorating August 26, 2013 as National Dog Day statewide. Its text, which is reproduced in full on National Dog Day's own legislation page, states that the observance \"was created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero.\" That is a civic, tribute-driven motivation with no connection to a childhood pet. The resolution credits Paige and the 2004 founding date, so it is describing the same observance, but it gives no explanation at all for why August 26 was the date chosen, and it never references the Sheltie story that appears one click away on the same organization's site.",
+          "Both accounts could be true at once; a founder can have more than one reason for starting something. What is notable is that the organization itself has never reconciled them into one story, and that almost every outside source that covers National Dog Day repeats only the personal account, leaving the resolution's Ground Zero framing to sit unread on a legislation page most visitors never open."
+        ]
+      },
+      {
+        "heading": "A trademark that was applied for, then abandoned",
+        "body": [
+          "The National Dog Day website displays the phrase \"National Dog Day™\" with a trademark symbol and a copyright notice reading \"©2004-2026 National Dog Day. All Rights Reserved.\" That presentation reads as an active, registered trademark.",
+          "The U.S. Patent and Trademark Office's own record tells a different story. Colleen M. Paige filed a federal trademark application for NATIONAL DOG DAY, serial number 78631456, on May 17, 2005, for \"charitable fundraising services for promoting adoption, compassion education and public awareness of homeless dogs.\" The application drew office actions in December 2005 and May 2006, received a final refusal in November 2006, and was recorded as abandoned for failure to respond on June 7, 2007. There is no record of a later, successful application replacing it.",
+          "That means the ™ symbol on the site today represents what trademark law calls a common-law claim, an assertion of use rather than a government-granted registration. It is a real and legally meaningful distinction, and it is the kind of detail that a page built from the organization's own promotional copy would never surface on its own."
+        ]
+      },
+      {
+        "heading": "National, international, or something else entirely",
+        "body": [
+          "\"National Dog Day\" and \"International Dog Day\" are not two different holidays the way National Cat Day and International Cat Day are. They are the same August 26 event, founded by the same person in the same year, referred to by two different names. Wikipedia's own article opens by defining them as interchangeable: \"International Dog Day or National Dog Day is an annual observance held on August 26.\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \"International\" version of Dog Day. The word appears to be a rebrand applied by some sites, not a second observance.",
+          "Real distinct dog-themed observances do exist elsewhere on the calendar. World Dog Day, founded in 2016 by the Vanderpump Dog Foundation in West Hollywood, California, is held in May on a date that moves year to year (May 26 in 2025, May 17 in 2026) rather than staying fixed, and it centers specifically on discouraging purchases from breeders in favor of shelter adoption. National Rescue Dog Day falls on May 20. International Homeless Animals Day, run by a different set of animal welfare organizations, falls on the third Saturday in August, close enough to National Dog Day on the calendar that the two get confused despite having separate founders and separate purposes."
+        ]
+      },
+      {
+        "heading": "The shelter numbers behind the adoption push",
+        "body": [
+          "New York's 2013 resolution states that \"approximately one million dogs have been saved through adoptions nationwide\" since National Dog Day's 2004 founding. No source is cited for that figure inside the resolution, and no independent count of adoptions attributable specifically to this observance appears to exist anywhere; it reads as a promotional estimate rather than a measured statistic.",
+          "For a current, sourced number, the ASPCA's own shelter statistics, current as of 2025, report that 2.8 million dogs entered US shelters and rescues that year, about 2 million were adopted, and approximately 320,000 were euthanized. Those figures come from an organization that publishes and updates its methodology, which is more than can be said for the resolution's decade-plus-old round number. The same caution about unattributed statistics applies to the shelter figures cited on [National Cat Day](/national-cat-day/): a specific, sourced number from an organization that shows its work is worth more than a bigger number nobody can trace."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Dog Day in 2026?",
+        "answer": "Wednesday, August 26, 2026. The date is fixed at August 26 every year and does not shift for weekends."
+      },
+      {
+        "question": "Who founded National Dog Day?",
+        "answer": "Colleen Paige, a pet and family lifestyle expert, founded it in 2004. Her organization's own website gives two different, unreconciled reasons for it: a personal account that August 26 marks the day her family adopted a shelter dog when she was ten, and a 2013 New York State Senate resolution stating the day was created to recognize search-and-rescue dogs at Ground Zero. Neither document mentions the other."
+      },
+      {
+        "question": "Is National Dog Day trademarked?",
+        "answer": "The organization's website displays a ™ symbol, but U.S. Patent and Trademark Office records show the federal application (Serial No. 78631456), filed in 2005, received a final refusal in 2006 and was abandoned in 2007 for failure to respond. No later successful application has been found, so the ™ reflects a common-law claim rather than a granted federal registration."
+      },
+      {
+        "question": "Is National Dog Day the same as International Dog Day?",
+        "answer": "Effectively yes. Both names refer to the same August 26 observance founded by Colleen Paige in 2004; Wikipedia's own article defines them as interchangeable. This differs from International Cat Day, which has a genuinely separate founding history through the International Fund for Animal Welfare."
+      },
+      {
+        "question": "What's the difference between National Dog Day, World Dog Day, and National Rescue Dog Day?",
+        "answer": "All three promote dog adoption but are separate observances. National Dog Day is August 26, founded 2004 by Colleen Paige. World Dog Day falls in May on a date that moves year to year, founded in 2016 by the Vanderpump Dog Foundation. National Rescue Dog Day falls on May 20. A fourth, International Homeless Animals Day, falls on the third Saturday in August under different organizers."
+      },
+      {
+        "question": "How many dogs are in US shelters right now?",
+        "answer": "According to the ASPCA's current shelter statistics, 2.8 million dogs entered US shelters and rescues in 2025, about 2 million were adopted, and approximately 320,000 were euthanized. A 2013 New York State resolution's claim of \"approximately one million dogs saved through adoptions\" since 2004 is not tied to any cited source."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Dog Day (official site) — About",
+        "url": "https://www.nationaldogday.com/about1"
+      },
+      {
+        "label": "National Dog Day (official site) — Legislation",
+        "url": "https://www.nationaldogday.com/legislation"
+      },
+      {
+        "label": "New York State Senate — Resolution J2656 (2013), National Dog Day",
+        "url": "https://www.nysenate.gov/legislation/resolutions/2013/2013-j2656"
+      },
+      {
+        "label": "Justia Trademarks — NATIONAL DOG DAY, Serial No. 78631456",
+        "url": "https://trademarks.justia.com/786/31/national-dog-day-78631456.html"
+      },
+      {
+        "label": "Wikipedia — International Dog Day",
+        "url": "https://en.wikipedia.org/wiki/International_Dog_Day"
+      },
+      {
+        "label": "ASPCA — U.S. Animal Shelter Statistics",
+        "url": "https://www.aspca.org/helping-shelters-people-pets/us-animal-shelter-statistics"
+      },
+      {
+        "label": "Impactful Ninja — World Dog Day",
+        "url": "https://impactful.ninja/world-dog-day/"
+      },
+      {
+        "label": "AlphaPaw — National Dog Day, Founder Colleen Paige",
+        "url": "https://learn.alphapaw.com/blog/august-26-is-national-dog-day-celebrate-with-founder-colleen-paige/"
+      }
+    ],
+    "image": "/images/national-dog-day.jpg",
+    "imageAlt": "Close-up portrait of a golden retriever puppy lying in grass, looking to the side",
+    "imageCredit": "Photo by Camilo Arango, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golden_Retriever_puppy.jpg), CC BY-SA 3.0"
   }
 ];

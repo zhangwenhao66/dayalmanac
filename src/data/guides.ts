@@ -174,7 +174,8 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Boyfriend Day: October 3, and Its Unverified Origin",
     "description": "National Boyfriend Day falls on October 3 every year. The date is consistent across sources, but no founder, registration, or proclamation can be verified.",
-    "updated": "2026-08-02",
+    "published": "2026-08-02",
+    "updated": "2026-08-03",
     "coreSummary": "National Boyfriend Day is an unofficial observance held on October 3 every year, most visible as a social media hashtag. No founder, registering organization, or government proclamation has ever been documented for it.",
     "dateRule": {
       "kind": "fixed",
@@ -287,7 +288,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is there a National Girlfriend Day?",
-        "answer": "Yes, National Girlfriend Day is observed on August 1. It is often cited as the reason the boyfriend version exists, but the two registries that define it, National Today and National Day Calendar, both describe August 1 as a day for female friendship rather than for romantic partners. Its own origin is undocumented too."
+        "answer": "Yes, National Girlfriend Day is observed on August 1. It is often cited as the reason the boyfriend version exists, but the two registries that define it, National Today and National Day Calendar, both describe August 1 as a day for female friendship rather than for romantic partners. Its own origin is disputed rather than settled, with different sources crediting different people or groups depending on which account you read."
       }
     ],
     "sources": [
@@ -319,7 +320,10 @@ export const guides: Guide[] = [
         "label": "Sprout Social — National Boyfriend Day social media holiday listing",
         "url": "https://sproutsocial.com/social-media-holidays/national-boyfriend-day/"
       }
-    ]
+    ],
+    "image": "/images/national-boyfriend-day-hug.jpg",
+    "imageAlt": "A couple hugging outdoors in winter clothing",
+    "imageCredit": "Photo by [freestocks](https://unsplash.com/@freestocks) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hugging_in_the_winter_(Unsplash).jpg), CC0"
   },
   {
     "slug": "national-daughters-day",

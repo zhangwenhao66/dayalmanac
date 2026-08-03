@@ -85,3 +85,81 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-coffee-day",
+  "last_audited": "2026-08-03",
+  "published_date": "2026-08-02",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding.status为'unverified'，全文用防守性措辞展开（'No primary record establishes who created the September 29 observance or when'），与本站已知的'过度断言起源'模式相反，是恰当的怀疑式写作。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebFetch/WebSearch核实）",
+      "detail": "H.Res. 784（GovInfo PDF全文+WebSearch交叉核实）：提案人Tokuda+7位联署人（Timmons/Case/Hernández/Tran/Gottheimer/Torres/Bonamici）、2025-09-30提出、归口Energy and Commerce委员会、'1.5亿+美国人/4亿+杯每天/220万工作岗位/3430亿美元/380亿美元税收/99%依赖进口'，全部逐字准确。Sprudge原文核实'2005年NCA首次公开提及'准确（Sprudge另提到日本All Japan Coffee Association 1983年已有咖啡日，本文未纳入，属信息深度机会非错误）。NCA Fall 2025数据（66%/48%/37%[2021]/近3杯）WebSearch交叉核实准确。UN决议A/RES/80/249（2026-03-10，巴西+18国核心小组+97联署国）WebSearch交叉核实准确。NCA创立于1911年（本文提及）核实准确。Congressional Coffee Caucus共同主席Tokuda(HI)/Timmons(SC)核实准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "updated 2026-08-02（本次审计改为2026-08-03），下次occurrence（2026-09-29）尚未发生，无过期年份问题。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "get_serp_results实测'national coffee day'/'when is national coffee day'：dayalmanac.com未进前20（站点太新，符合预期）。WebFetch核实头部竞品nationaltoday.com起源部分仅模糊猜测（原文'a bit, well, cloudy'，'We believe September 29 came about as a jolting reminder to get back to work'），未引用任何具体立法/机构文件；本文的H.Res.784/UN决议/ICO具体信源构成真实增量价值，非同质化内容。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 70字符、meta description 148字符、canonical自指、单一h1、6个h2无跳级、URL evergreen不带年份，均通过。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约90/99（权威引语与统计数据完整性突出：H.Res.784/NCA/FAO/ICO/UN多方数据均带具体数字与出处），已达标≥80。本次两处修复（配图/published字段）不涉及GEO薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本站发布流程从建站第一篇起即含Skill(humanizer)强制步骤，不存在早期内容例外。机械扫描正文：仅2处em-dash，1处在sources.label引用元数据，1处在FAQ答案中的正当用法（'a first sighting, not a founding'）；AI高频词扫描仅1处'elevate'，且是'International Coffee Day was elevated further'（获得更高官方地位）的正常语义用法，非AI套话。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（一处需说明的例外）",
+      "detail": "14条sources链接curl实测：13条直接200。congress.gov对自动化curl请求返回403（Cloudflare bot拦截特征，与此前national-boyfriend-day审计中nationaldaycalendar.com案例相同判定标准），WebSearch证实该页面内容仍可被搜索引擎正常索引和摘要，判定为bot拦截而非真实链接失效，未采取行动。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "全站7篇文章、全部同属Observances分类，轮转窗口算法（categoryPeers.length=6≤6）返回全部6篇同类文章作为侧栏推荐。此外grep确认national-bosses-day和national-cat-day两篇文章正文已用自然锚文本内链指向本文（'National Coffee Day'链接），非孤儿页。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "确认问题，已修复",
+      "detail": "见actions_taken——datePublished此前依赖guide.published??guide.updated回退逻辑，当前巧合正确但无显式锚点，一旦本文未来被再编辑将导致datePublished被错误推移。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及的实体（NCA、国会议员Tokuda/Timmons及联署人、ICO、FAO、UN、Sprudge、CNN Business、Wikipedia）均为中性引用，无现实世界新增争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "确认问题，已修复",
+      "detail": "文章无image字段，og:image/twitter:image回退到/favicon.svg（SVG），页面正文也无任何可见<img>标签。独立复核agent确认SVG不被Facebook/X/LinkedIn等平台的Open Graph解析器支持，属真实技术缺陷，与national-boyfriend-day审计发现的同批次缺陷模式完全一致（两文同属commit 2557193）。"
+    }
+  ],
+  "actions_taken": [
+    "从Wikimedia Commons下载配图：'Black coffee cup (Unsplash).jpg'，摄影者Ross Parmly（via Unsplash），CC0协议，5184×3456原图用sips缩至1600×1066/248KB，写入image/imageAlt/imageCredit三个字段",
+    "新增published字段回填原始发布日2026-08-02（据git log核实）；updated字段改为2026-08-03",
+    "npm run build（Node 22.22.2）14页0报错；commit 3298e5b并push（仅暂存src/data/guides.ts+新图片两个文件，规避同目录并发会话未提交的gsc-index-submit-log.json/外链建设进度.json/外链执行日志.md）；git自动部署后轮询确认线上og:image已为真实JPEG（200，248358字节与本地一致）且hero<img>已渲染；IndexNow提交（Bing 200/Yandex 202），记入indexnow-submit-log.json；内容发布日志.md追加审计记录"
+  ],
+  "seo_score": "审计前后均为技术SEO全项通过（本次未发现需修复的SEO技术项，标题/描述/canonical/heading/schema均未改动）",
+  "geo_score": "自评约90/99（已达标≥80），本次两处修复均为schema/社交分享层面，不涉及GEO薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

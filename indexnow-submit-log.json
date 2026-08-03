@@ -13,5 +13,10 @@
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
     "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data."
+  },
+  "https://dayalmanac.com/national-coffee-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found."
   }
 }

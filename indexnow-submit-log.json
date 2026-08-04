@@ -18,5 +18,15 @@
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
     "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found."
+  },
+  "https://dayalmanac.com/national-dog-day/": {
+    "submitted_date": "2026-08-03",
+    "last_submitted_date": "2026-08-03",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/december-birthstone/": {
+    "submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-08-04",
+    "verified_status": "pending"
   }
 }

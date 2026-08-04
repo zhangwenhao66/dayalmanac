@@ -1406,5 +1406,139 @@ export const guides: Guide[] = [
     "image": "/images/national-dog-day.jpg",
     "imageAlt": "Close-up portrait of a golden retriever puppy lying in grass, looking to the side",
     "imageCredit": "Photo by Camilo Arango, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golden_Retriever_puppy.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "december-birthstone",
+    "category": "Birthstones",
+    "title": "December Birthstone: Turquoise, Zircon, and Tanzanite",
+    "description": "December's three official birthstones are turquoise, blue zircon, and tanzanite — not blue topaz, despite how often retailers market it as one.",
+    "published": "2026-08-04",
+    "updated": "2026-08-04",
+    "coreSummary": "December's three official birthstones — turquoise, blue zircon, and tanzanite — were assembled by trade organizations across three separate revisions: turquoise carried over from ancient tradition when the modern US list was first adopted in 1912, zircon was added in 1952, and tanzanite was added in 2002. Blue topaz is heavily marketed by jewelry retailers as a fourth December birthstone, but Jewelers of America's own current list has never included it.",
+    "sections": [
+      {
+        "heading": "December's three official birthstones",
+        "body": [
+          "Jewelers of America, the trade association that has maintained the US birthstone list since 1912, currently names exactly three official birthstones for December: turquoise, tanzanite, and blue zircon. That is the complete list on the organization's own gift guide page — no fourth stone appears on it.",
+          "Search for \"december birthstone\" anywhere online, though, and blue topaz shows up constantly, often presented as if it carries the same official standing as the other three. It doesn't. Blue topaz's cool, wintry tone happens to match the palette of December's real birthstones, and large retailers — Blue Nile, Kay, JCPenney, and Gabriel & Co. among them — have built entire product lines marketing it as \"the December birthstone.\" None of that marketing changes what is actually on Jewelers of America's list. A page repeating that blue topaz is official is repeating retail copy, not the trade group's own record."
+        ]
+      },
+      {
+        "heading": "Turquoise: the one stone here with an actual ancient pedigree",
+        "body": [
+          "Turquoise is the only December birthstone that predates the whole idea of an official US list. Egyptian tombs dating to roughly 3000 BCE contain turquoise jewelry, and King Tutankhamun's burial mask is set with it; the oldest known turquoise mines sit in Egypt's Sinai Peninsula, near a temple dedicated to the goddess Hathor. Egyptians called the stone mefkat, meaning \"joy\" and \"delight.\"",
+          "Ancient Persia treated the stone just as seriously. Persians called it pirouzeh, meaning \"victory,\" set it into palace decoration for its sky-blue color, and believed a turquoise would change color to warn its wearer of approaching danger. The English name arrived later and secondhand: \"turquoise\" comes from the French pierre tourques, \"Turkish stone,\" because Turkish merchants were the ones who carried it into Europe along 13th-century Silk Road trade routes — the stone itself was never mined in Turkey.",
+          "A separate, unrelated turquoise tradition developed in the American Southwest, where Indigenous peoples mined the stone long before European contact and used it in ceremonial and protective objects. The now-familiar silver-and-turquoise jewelry style associated with Navajo artisans is more recent than the mining tradition itself: it dates to the 1880s, when a trader is credited with encouraging Navajo silversmiths to begin working turquoise into silver settings.",
+          "Because turquoise was already established as a birthstone through centuries of separate folk traditions, it didn't need a 20th-century trade group to add it to any list — it was simply carried over when one got written down."
+        ]
+      },
+      {
+        "heading": "Zircon: added in 1952, and its blue color mostly comes from one province in Cambodia",
+        "body": [
+          "Zircon the mineral is genuinely ancient — geologists have dated microscopic zircon crystals from the Jack Hills region of Western Australia to as old as roughly 4.4 billion years, the oldest material yet identified as originating on Earth. That finding is about zircon's use in dating rock formations, though, not about the gem-grade crystals cut into December birthstone jewelry; those come from unrelated, far younger deposits, chiefly in Cambodia and historically Sri Lanka. Colorless zircon from Sri Lanka was once traded under the name \"Matara zircon,\" after the Sri Lankan town near where it was mined.",
+          "Most of the blue zircon sold today owes its color to a single Cambodian province, Ratanakiri, near the borders with Laos and Vietnam. The rough stone comes out of the ground brown; heating it — the International Colored Gemstone Association describes the exact temperatures as a closely held trade secret — turns it blue. The ICA calls Ratanakiri \"the world's only deposit of material used to create such rich blue zircon,\" which makes December's blue zircon considerably more geographically concentrated than either of the month's other two stones.",
+          "Zircon's high refractive index gives it real brilliance and fire, historically close enough to diamond's that it was used as a cheaper substitute — a reputation that later got tangled up with cubic zirconia, a lab-made material with a similar name but no mineral relationship to zircon at all. Zircon joined the official December list in 1952, in the same trade-group revision that added alexandrite to June, citrine to November, and pink tourmaline to October. Sources disagree on exactly which body carried out that 1952 revision: some accounts attribute it directly to Jewelers of America's own predecessor association, while others name a separate group, the Jewelry Industry Council of America. This piece did not find a primary document that settles which is correct."
+        ],
+        "image": {
+          "src": "/images/december-birthstone-zircon.jpg",
+          "alt": "Bi-pyramidal zircon crystal specimen from Mont Saint-Hilaire, Quebec",
+          "credit": "Photo by Modris Baum, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zircon-192914.jpg), public domain"
+        }
+      },
+      {
+        "heading": "Tanzanite: the newest addition, and still found in exactly one place on Earth",
+        "body": [
+          "Tanzanite is by far the youngest of December's three birthstones, in every sense. According to the Gemological Institute of America, a Maasai herder came across a cluster of transparent violet-to-blue crystals in the Merelani Hills, at the foot of Mount Kilimanjaro in northern Tanzania, in 1967, and alerted a prospector, Manuel d'Souza, who registered mining claims on the site. The stone turned out to be a blue-violet variety of the mineral zoisite; rough crystals pulled from the ground are typically a dull brown and only reveal their blue-violet color after heat treatment.",
+          "Tiffany & Co. became the gem's principal distributor and gave it its name: vice president Henry B. Platt named it tanzanite, after the country where it was found, and the company launched a publicity campaign built around the new stone in 1968. A 122.7-carat tanzanite from that deposit is now held by the Smithsonian's National Museum of Natural History.",
+          "Nearly six decades later, the Merelani Hills remain the only known commercial source of tanzanite anywhere in the world — no other deposit has been found. The American Gem Trade Association added tanzanite to the official December birthstone list in 2002, fifty years after the previous revision, making it an additional option alongside turquoise and zircon rather than a replacement for either."
+        ],
+        "image": {
+          "src": "/images/december-birthstone-tanzanite.jpg",
+          "alt": "Trichroic tanzanite gemstone showing blue, violet, and purple faces",
+          "credit": "Photo by Chromalys (DanBalance), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trichroic_Tanzanite_Gem_-_blue,_violet_%26_purple.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Where the official list actually came from",
+        "body": [
+          "The US birthstone list traces back to a single meeting: in 1912, the American National Retail Jewelers Association — the organization now known as Jewelers of America — met in Kansas City and adopted a standardized list, aiming to settle the many competing folk birthstone traditions that had accumulated across centuries into one list retailers could use consistently. Turquoise entered December's slot at that point, carried over from its older traditions rather than newly assigned.",
+          "The list has been revised only a handful of times since. In 1952, a trade-industry update added zircon to December along with new stones for three other months. In 2002, the American Gem Trade Association added tanzanite to December, the list's first change to any month in fifty years. Most recently, in 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August, showing that the same small set of trade groups is still actively willing to revise the list rather than treating it as fixed.",
+          "Blue topaz has never gone through that process. It shows up in retailer catalogs because it happens to look the part, not because any trade group ever voted it onto the list — which is a different kind of gap from the disputed founding stories behind observance days on this calendar. [National Dog Day](/national-dog-day/)'s origin comes down to one person's word against her own organization's paperwork; December's birthstone list, by contrast, has a dated, attributable paper trail for almost every change made to it. The one piece that's murky is who exactly carried out the 1952 revision — everything else about who added what, and when, is on the record."
+        ]
+      },
+      {
+        "heading": "Choosing among three real options",
+        "body": [
+          "For anyone shopping by birth month rather than by observance — the same instinct that drives gift-giving around a manufactured single day like [National Boyfriend Day](/national-boyfriend-day/) — December actually offers three legitimately different official stones, not one default choice. Turquoise is the most widely available and least expensive of the three, and the only one with a documented history stretching back thousands of years. Zircon offers a diamond-rivaling brilliance at a fraction of the cost, though nearly all of the blue supply traces back to that single Cambodian province. Tanzanite is the rarest and priciest of the three, and the only one where the entire world's known supply comes from one hillside in Tanzania. Checking which of the three a piece of jewelry actually is — rather than assuming \"blue stone in December\" automatically means birthstone-correct — is worth doing before a birthday purchase, the same way it's worth checking whether an occasion like [National Grandparents Day](/national-grandparents-day/) has a real founding story behind it or just a marketing one."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are December's official birthstones?",
+        "answer": "Turquoise, blue zircon, and tanzanite, per Jewelers of America's current birthstone list. All three appear on the trade association's own gift guide with no fourth stone listed."
+      },
+      {
+        "question": "Is blue topaz a December birthstone?",
+        "answer": "Not officially. Retailers market it heavily as a December birthstone because its cool blue tone matches the month's other stones, but it has never been added to Jewelers of America's official list, which names only turquoise, zircon, and tanzanite."
+      },
+      {
+        "question": "When was tanzanite added as a December birthstone?",
+        "answer": "In 2002, when the American Gem Trade Association added it to the official list as an additional December stone alongside turquoise and zircon — the list's first change to any month in fifty years."
+      },
+      {
+        "question": "Why does December have three birthstones instead of one?",
+        "answer": "Because two later revisions (1952 and 2002) added stones on top of the original 1912 list rather than replacing what was already there. Several other months picked up extra stones through the same kind of revisions — most recently August, which gained spinel alongside peridot in 2016."
+      },
+      {
+        "question": "Where does tanzanite come from?",
+        "answer": "Exclusively the Merelani Hills at the foot of Mount Kilimanjaro in Tanzania, discovered in 1967. It remains the only known commercial source of tanzanite anywhere in the world."
+      },
+      {
+        "question": "Why is December's zircon usually a specific shade of blue?",
+        "answer": "Most of it starts out brown and is heat-treated to turn blue. Nearly all of that treated rough comes from Ratanakiri province in Cambodia, which the International Colored Gemstone Association describes as the world's only deposit of material capable of producing that rich blue color."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      },
+      {
+        "label": "GIA — December Birthstones",
+        "url": "https://www.gia.edu/birthstones/december-birthstones"
+      },
+      {
+        "label": "GIA — Tanzanite History and Lore",
+        "url": "https://www.gia.edu/tanzanite-history-lore"
+      },
+      {
+        "label": "GIA — Zircon",
+        "url": "https://www.gia.edu/zircon"
+      },
+      {
+        "label": "American Gem Society — History of Turquoise",
+        "url": "https://www.americangemsociety.org/birthstones/december-birthstones/history-of-turquoise/"
+      },
+      {
+        "label": "International Colored Gemstone Association — Blue Zircon (Cambolite)",
+        "url": "https://www.gemstone.org/blue-zircon-cambolite"
+      },
+      {
+        "label": "Live Science — Confirmed: Oldest Fragment of Early Earth Is 4.4 Billion Years Old",
+        "url": "https://www.livescience.com/43584-earth-oldest-rock-jack-hills-zircon.html"
+      },
+      {
+        "label": "IAJA — Four Gemstones Introduced by Tiffany & Co.",
+        "url": "https://iaja.com/2024/10/16/four-gemstones-introduced-by-tiffany-co/"
+      }
+    ],
+    "image": "/images/december-birthstone-turquoise.jpg",
+    "imageAlt": "Sky-blue turquoise microcrystals covering a rock matrix",
+    "imageCredit": "Photo by Rob Lavinsky, iRocks.com, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turquoise-216415.jpg), CC BY-SA 3.0"
   }
 ];

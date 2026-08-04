@@ -1679,5 +1679,135 @@ export const guides: Guide[] = [
     "image": "/images/virgo-dates-uranias-mirror.jpg",
     "imageAlt": "Hand-colored 1825 star chart of the Virgo constellation from Urania's Mirror, showing the Maiden holding a sheaf of wheat",
     "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Virgo.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
+  },
+  {
+    "slug": "march-birthstone",
+    "category": "Birthstones",
+    "title": "March Birthstone: Aquamarine and Bloodstone",
+    "description": "March's birthstone is aquamarine on Jewelers of America's current chart. GIA and the American Gem Society both also list bloodstone as a second option.",
+    "published": "2026-08-05",
+    "updated": "2026-08-05",
+    "coreSummary": "March is commonly described as having two birthstones, aquamarine and bloodstone, and GIA and the American Gem Society both present it that way, but Jewelers of America's own current chart names only aquamarine. The two stones swapped which one was listed as primary in a 1952 revision to the list Jewelers of America's predecessor created in 1912.",
+    "sections": [
+      {
+        "heading": "How many birthstones does March actually have?",
+        "body": [
+          "Ask which birthstones belong to March and most sources give the same two-word answer: aquamarine and bloodstone. The Gemological Institute of America's page on the subject opens by describing \"Aquamarine and bloodstone, March's two birthstones.\" The American Gem Society covers both stones in comparable depth on its own site, under the heading \"March Birthstones: Aquamarine and Bloodstone.\"",
+          "Jewelers of America tells a narrower story. The organization is the direct descendant of the 1912 meeting that created the official U.S. birthstone list, and its own current chart of monthly birthstones names exactly one stone for March: aquamarine. Bloodstone doesn't appear on that chart at all, not as a second choice and not as a footnote.",
+          "That's not a case of the chart listing one stone per month across the board, so a reader shouldn't assume March is simply being treated like every other month. The same page lists three stones for June (pearl, moonstone, and alexandrite), two for August (peridot and spinel), and three for December (turquoise, tanzanite, and blue zircon). March's single-stone entry stands out against that pattern rather than fitting it.",
+          "The International Gem Society splits the difference by calling aquamarine the \"modern\" birthstone and bloodstone the \"traditional\" one, treating both as legitimate but rooted in different eras of the list. That framing tracks with how the list actually took shape, which is a longer story than any single chart shows."
+        ]
+      },
+      {
+        "heading": "Bloodstone came first, for centuries before there was an official list",
+        "body": [
+          "Long before 1912, bloodstone was already the birthstone people associated with March, alongside a related dark stone called jasper, according to a historical table maintained on Wikipedia's birthstone entry that tracks lists from the 15th through 20th centuries. That folk tradition predates any trade organization's involvement by hundreds of years.",
+          "Where that older, pre-1912 tradition itself came from is its own unresolved question. Sources don't agree on where it originated: some trace the custom to 18th-century Poland, while the Gemological Institute of America places its start in Germany in the 1560s. Neither claim was verifiable against a primary document for this piece, so both are presented as reported positions rather than settled fact.",
+          "What is documented is that this older tradition was eventually judged too inconsistent for retail use. Practices varied by region and by list, and jewelers had no single reference to point a customer to. That gap is what the 1912 meeting in Kansas City was convened to close."
+        ]
+      },
+      {
+        "heading": "How bloodstone lost its lead in 1952",
+        "body": [
+          "In August 1912, the American National Retail Jewelers Association, the organization now known as Jewelers of America, met in Kansas City and adopted the first standardized U.S. birthstone list. For March, that original list named bloodstone as the primary stone and aquamarine as the listed alternate, per the same Wikipedia table.",
+          "The list didn't stay fixed after that. A 1952 revision, credited by Wikipedia to a group called the Jewelry Industry Council of America, added alexandrite to June, citrine to November, and pink tourmaline to October, and replaced December's lapis lazuli with zircon. That same revision is described as having also flipped March's internal order, moving aquamarine into the primary spot it has held ever since.",
+          "As with the other stones touched by that 1952 update, sources don't agree on exactly which organization carried it out. Some accounts credit Jewelers of America's own predecessor association directly; Wikipedia's account names the separate Jewelry Industry Council of America. This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here rather than confirmed. The list has been revised only a handful of times since: the American Gem Trade Association added tanzanite to December in 2002, and the American Gem Trade Association and Jewelers of America jointly added spinel to August in 2016, showing the same small set of trade groups is still willing to revise the list rather than treat it as closed."
+        ]
+      },
+      {
+        "heading": "Aquamarine: named for the sea, and tied to some of the largest gems ever cut",
+        "body": [
+          "Aquamarine's name comes directly from Latin: aqua for water, marina for of the sea. The American Gem Society traces the association back to Roman sailors, who called the stone \"water of the sea\" and carried it as a talisman for calm waves, safe voyages, and luck at fishing. The stone's link to sea travel later attached to the apostle Thomas, who is said to have traveled frequently by boat.",
+          "The gem's history stretches back much further than Rome. Egyptian tombs from roughly the era of the pharaohs have turned up aquamarine beads buried with mummies, and Sumerian, Hebrew, and Greek writers all recorded admiration for the stone. Roughly two thousand years ago, Greek carvers engraved aquamarine into intaglios, and one account holds that the High Priest of the Second Temple wore aquamarine stones engraved with the names of the tribes of Israel.",
+          "It's a variety of the mineral beryl, rating 7.5 to 8 on the Mohs hardness scale, harder than opal or turquoise and durable enough for daily wear, though softer than sapphire, ruby, or diamond. Most of the aquamarine sold today still traces back to Brazil's Minas Gerais state, which has been a major source for roughly two centuries.",
+          "Two aquamarines stand out in the historical record. In 1936, the Brazilian government presented First Lady Eleanor Roosevelt with a 1,298-carat rectangular step-cut aquamarine, cut from a piece of rough that weighed nearly three pounds; it's now held at the Franklin D. Roosevelt Presidential Library in Hyde Park, New York. The Smithsonian's Dom Pedro Aquamarine, carved into a roughly 14-inch obelisk by German lapidary Bernd Munsteiner using his signature fantasy-cut technique, weighs 10,363 carats and is generally considered the largest faceted aquamarine in the world. More recently, both Princess Diana and Queen Elizabeth II owned notable aquamarine jewelry sets. Aquamarine is also the traditional gift for a 19th wedding anniversary."
+        ],
+        "image": {
+          "src": "/images/march-birthstone-aquamarine.jpg",
+          "alt": "Pale blue-green aquamarine beryl crystal specimen",
+          "credit": "Photo by Thomas Quine, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquamarine_Beryl_(40626821831).jpg), CC BY 2.0"
+        }
+      },
+      {
+        "heading": "Bloodstone: a quartz variety named after a Christian legend",
+        "body": [
+          "Bloodstone is a form of chalcedony, a cryptocrystalline variety of quartz, appearing as dark green stone flecked with red spots of iron oxide, usually hematite. Its alternate name, heliotrope, comes from ancient Greek for \"to turn the sun,\" tied to an old belief that submerging the stone in water while facing the sun would tint the reflection red.",
+          "The name bloodstone itself traces to a separate, later legend, unconnected to the heliotrope name, holding that the red spots represent the blood of Christ. During the Roman Empire the stone was carved into engraved gems, cameos, and seals; examples of that work are now held in museum collections, including the J. Paul Getty Museum. Over the centuries the stone also picked up a collection of folk beliefs about increasing strength, granting invisibility, and preserving health and youth. None of that is independently verifiable, but the strength association has stuck around in a diluted, secular form: some athletes today still carry bloodstone as a good-luck charm, and in parts of India the stone is reportedly still crushed into powder and used as a folk aphrodisiac.",
+          "Most bloodstone sold today comes from India, with additional supply from Brazil, Australia, China, and the United States. The rock forms by filling fractures or cavities in other rock, or turns up as loose pebbles in riverbeds. At 6.5 to 7 on the Mohs scale it's a bit softer than aquamarine and opaque rather than transparent, which is why it's typically shaped into cabochons or carved rather than faceted."
+        ],
+        "image": {
+          "src": "/images/march-birthstone-bloodstone.jpg",
+          "alt": "Polished bloodstone specimen showing dark green chalcedony with red iron-oxide spots",
+          "credit": "Photo by James St. John, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloodstone_1_(49035782298).jpg), CC BY 2.0"
+        }
+      },
+      {
+        "heading": "Which one to buy, and why the disagreement isn't unique to March",
+        "body": [
+          "Since the lists disagree, the practical approach is to know what's actually being offered before buying. Aquamarine is the pricier, more widely available option in fine jewelry, easy to find faceted into rings, pendants, and earrings. Bloodstone is inexpensive, historically distinct, and shows up more often in cabochons, carved seals, or vintage-style signet rings than in mainstream engagement jewelry. Neither is a wrong choice; they're simply answering to different lists.",
+          "March isn't the only month where the record is this tangled. [December's three official birthstones](/december-birthstone/) came from three separate revisions spread across ninety years, and even that settled list gets padded out in stores by blue topaz, a stone no trade group has ever actually adopted. The same pattern of \"looks fixed, isn't\" shows up outside birthstones, too: [Virgo's date range](/virgo-dates/) shifts by a day in some years for reasons just as tied to which authority and which calculation a reader is looking at.",
+          "None of this makes aquamarine the \"real\" March birthstone and bloodstone a pretender, or the other way around. It means the birthstone list was never handed down complete and permanent. It's been edited in pieces by a handful of trade groups over more than a century, the same way plenty of claims repeated as settled fact online, like [National Dog Day's founding story](/national-dog-day/), turn out to have more than one version once the primary source gets checked instead of the retelling."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are March's birthstones?",
+        "answer": "Aquamarine and bloodstone are the two stones most commonly cited for March, by GIA, the American Gem Society, and the International Gem Society. Jewelers of America's own current chart, however, lists only aquamarine."
+      },
+      {
+        "question": "Why does Jewelers of America list only one birthstone for March?",
+        "answer": "The organization's chart doesn't explain the omission. It lists two or three stones for several other months, including June, August, and December, so March's single-stone entry isn't the result of a chart-wide policy of one stone per month."
+      },
+      {
+        "question": "Which birthstone came first for March, aquamarine or bloodstone?",
+        "answer": "Bloodstone. It was March's folk birthstone for generations before any official list existed, and the first standardized U.S. list, adopted in 1912, still named bloodstone as the primary stone with aquamarine as the alternate. A 1952 revision swapped that order."
+      },
+      {
+        "question": "Is bloodstone still considered an official March birthstone?",
+        "answer": "According to GIA and the American Gem Society, yes. The International Gem Society lists it as March's \"traditional\" birthstone, alongside aquamarine as the \"modern\" one."
+      },
+      {
+        "question": "How hard is aquamarine, and is it durable enough for daily wear?",
+        "answer": "Aquamarine rates 7.5 to 8 on the Mohs hardness scale, harder than opal or turquoise, which makes it durable enough for rings and other jewelry worn daily. It's softer than sapphire, ruby, or diamond."
+      },
+      {
+        "question": "Where does the name \"bloodstone\" come from?",
+        "answer": "From a legend that its red iron-oxide spots represent the blood of Christ. Its alternate name, heliotrope, is a separate and older reference, from ancient Greek for \"to turn the sun.\""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstones",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
+      },
+      {
+        "label": "GIA — March Birthstones",
+        "url": "https://www.gia.edu/birthstones/march-birthstones"
+      },
+      {
+        "label": "American Gem Society — March Birthstones",
+        "url": "https://www.americangemsociety.org/birthstones/march-birthstones/"
+      },
+      {
+        "label": "International Gem Society — Birthstone Chart: Modern and Traditional",
+        "url": "https://www.gemsociety.org/article/birthstone-chart/"
+      },
+      {
+        "label": "Wikipedia — Birthstone",
+        "url": "https://en.wikipedia.org/wiki/Birthstone"
+      },
+      {
+        "label": "Wikipedia — Aquamarine (gem)",
+        "url": "https://en.wikipedia.org/wiki/Aquamarine_(gem)"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      }
+    ],
+    "image": "/images/march-birthstone-aquamarine.jpg",
+    "imageAlt": "Pale blue-green aquamarine beryl crystal specimen",
+    "imageCredit": "Photo by Thomas Quine, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquamarine_Beryl_(40626821831).jpg), CC BY 2.0"
   }
 ];

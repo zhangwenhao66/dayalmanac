@@ -330,7 +330,8 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Daughters Day: Date, Origin, and Why Sources Disagree",
     "description": "National Daughters Day falls on September 25 in the US, but other calendars use the fourth Sunday in September. Here is which is which, and who says what.",
-    "updated": "2026-08-02",
+    "published": "2026-08-02",
+    "updated": "2026-08-04",
     "coreSummary": "In the United States, National Daughters Day is observed on September 25 each year. A separate observance, International Daughters Day, falls on the fourth Sunday in September and is the date used in India. The two are separate observances and are frequently conflated. Neither is an official US holiday, and no verifiable founder has ever been identified for the September 25 date.",
     "dateRule": {
       "kind": "fixed",
@@ -480,7 +481,10 @@ export const guides: Guide[] = [
         "label": "National Today — National Daughters Day (September 25; describes origins as obscure)",
         "url": "https://nationaltoday.com/national-daughters-day/"
       }
-    ]
+    ],
+    "image": "/images/national-daughters-day.jpg",
+    "imageAlt": "A father laughing with his young daughter, her head resting on his shoulder, in a sunlit field",
+    "imageCredit": "Photo by [Caroline Hernandez](https://unsplash.com/@carolinehdz) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Father_and_Daughter_(Unsplash).jpg), CC0"
   },
   {
     "slug": "national-sons-day",

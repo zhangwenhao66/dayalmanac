@@ -175,7 +175,7 @@ export const guides: Guide[] = [
     "title": "National Boyfriend Day: October 3, and Its Unverified Origin",
     "description": "National Boyfriend Day falls on October 3 every year. The date is consistent across sources, but no founder, registration, or proclamation can be verified.",
     "published": "2026-08-02",
-    "updated": "2026-08-03",
+    "updated": "2026-08-04",
     "coreSummary": "National Boyfriend Day is an unofficial observance held on October 3 every year, most visible as a social media hashtag. No founder, registering organization, or government proclamation has ever been documented for it.",
     "dateRule": {
       "kind": "fixed",
@@ -247,6 +247,14 @@ export const guides: Guide[] = [
           "The 2014 version is the one that spread. Wikipedia repeats it as something the day is thought to have originated from, and its citations are mostly lifestyle roundups published years later rather than contemporaneous coverage. Repetition across dozens of calendar pages has hardened a hedged guess into a stated fact. Sprout Social, writing about the same observance, says flatly that it is unclear why the internet chose October at all.",
           "One frequently repeated statistic deserves a flag. Many pages, Wikipedia included, state that the day gained traction in March 2016 with more than 46,000 tweets. The same figure appears on National Today with no underlying data and no statement of what was counted or how; Wikipedia sources it to a 2023 news article rather than to any original measurement. March is also seven months away from the date the day is observed, which makes the number hard to interpret even if it is accurate. It gets copied anyway.",
           "What would actually settle the question is a dated original post, a registration with a calendar registrar, or a proclamation. None of those has surfaced. An observance emerging from a hashtag without a founder is ordinary and not suspicious in itself. The difference here is that the sources presenting a confident origin date are presenting someone else’s guess."
+        ]
+      },
+      {
+        "heading": "This mix-up isn't unique to Boyfriend Day",
+        "body": [
+          "Marketers who build content calendars around \"National\" days run into this same problem regularly, and not always with a day this obscure. Deb Szabo, a marketing strategist, described planning a campaign around Cabernet Day and stopping to check the date first because two different observances were being listed online under similar names. The research showed they weren't the same thing at all: National Cabernet Sauvignon Day fell on August 27, while International Cabernet Sauvignon Day was September 3 in 2026, and several calendar sites had blurred the two names and dates together.",
+          "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;That is why I now verify the source before building a campaign around a &lsquo;National Day&rsquo;. A date can be a useful content prompt, but the campaign still needs a genuine business message behind it.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">Deb Szabo, marketing strategist, on the Cabernet Day mix-up</p></div>",
+          "The pattern is the same one this page documents for National Boyfriend Day: a name that sounds official, a date that gets repeated without anyone checking the source, and multiple similarly-named observances that get flattened into one by sites copying each other. It's a reason to verify a specific date and origin before publishing, not just for boyfriend-related content but for any \"National [Something] Day\" a content calendar is built around."
         ]
       },
       {

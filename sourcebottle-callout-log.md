@@ -19,3 +19,4 @@
 - **Deadline**：2026-08-25 17:00
 - **发布状态**：✅ 已提交，跳转 `thankyou.asp`，Pending approval。提交回执 product id = `ee2fa52c002514f2b2d005d1e829d80c`。
 - **上线复核**：⏳ 待下次任务运行时补查。
+- **回复采用**（2026-08-04 补记）：收到 Deb Szabo（marketing strategist）真实回复，讲的是 National Cabernet Sauvignon Day（8/27）与 International Cabernet Sauvignon Day（9/3）被多个日历站混淆的真实案例。已作为佐证案例写入 `national-boyfriend-day` 正文新增小节"This mix-up isn't unique to Boyfriend Day"，含引用卡片，commit `b5d05ff`，已部署上线核实（`dayalmanac.com/national-boyfriend-day/` 含"Deb Szabo"）。

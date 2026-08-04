@@ -163,3 +163,81 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-daughters-day",
+  "last_audited": "2026-08-04",
+  "published_date": "2026-08-02",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding.status为'unverified'，全文用具体史料链条展开（1932年佛蒙特州Daughters of Union Veterans、1950年H.R.7938法案、2015年Kris Jenner等名人带动社交媒体传播），非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实）",
+      "detail": "Snopes原文curl抓取核对：1932年12月佛蒙特记录、1939/1940/1949年零星提及、1950年3月众议员Tom Steed提出H.R.7938'designate the second Sunday in April'、法案死在众议院司法委员会、Moolchandani'claimed partial responsibility'措辞，均与Snopes原文逐字吻合。Archies创始人Anil Moolchandani 2007年采访引语经WebSearch交叉核实准确。UN 66/170号决议（2011-12-19通过，2012-10-11首次纪念）经WebSearch核实准确。National Son's and Daughter's Day（8/11，正文提及的另一观察日）的1936年密苏里州J. Henry Dusenberry、1988年加拿大Nanaimo Daily News报道、1972年国会议员Claude Pepper提议'last Sunday in January'（原文写'1970s'，核实实际1972年仍属该范围）均经WebSearch独立核实准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "dateRule的9/25固定日2026-2031六年、正文'9月第四个周日'2024/2025/2026三年，均用Python datetime独立重算全部吻合（2026年9/25=周五；2024/2025/2026第四个周日分别是9/22、9/28、9/27）。下次occurrence（2026-09-25）尚未发生，无过期问题。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "get_serp_results实测'national daughters day'/'when is national daughters day'：dayalmanac.com未进前20（站点太新，符合预期）。头部竞品（nationaldayarchives.com/awarenessdays.com/twinkl.com/nationaldaycalendar.com）均只平铺日期，未见任何一家正面拆解本文的三日期矛盾+Archies起源辨析。竞品peanut-app.io给出明显错误的'每月第三个周日'表述，侧面印证本文拆穿常见混淆的差异化价值真实。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title/meta description准确、canonical自指、单一h1、6个h2无跳级、URL evergreen不带年份、robots.txt允许抓取，均通过。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约87/99，已达标≥80。本次两处修复（配图/published字段）不涉及GEO薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本站发布流程从建站第一篇起即含Skill(humanizer)强制步骤。机械扫描正文：10处em-dash全部位于sources数组的label引用元数据，正文0处；AI高频词扫描0处命中。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（两处需说明的例外）",
+      "detail": "8条sources链接curl实测：nationaldaycalendar.com两个页面对自动化请求返回403（与此前boyfriend-day/coffee-day审计中相同的Cloudflare bot拦截特征，非真实链接失效），其余6条（businesstoday.in/govinfo.gov/un.org/nationaltoday.com/snopes.com等）全部200。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题（一项观察，非缺陷）",
+      "detail": "全站8篇Observances分类文章，pickRelatedGuides轮转窗口算法下本文被6/7个同类文章的侧栏'Also on the calendar'链接到，非孤儿页（全站整体覆盖率88.9%，仅december-birthstone因单独属于Birthstones分类未被链接，属结构性正常现象）。正文本身暂无手写锚文本内链指向其他文章，也未被其他文章手写锚文本链接（对比national-sons-day/national-coffee-day已有此类手写内链）；记录为观察项，侧栏链接已充分覆盖故不构成需修复的问题，且修复需改动其他已发布文章正文超出本次'只改被确认有问题部分'范围。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "确认问题，已修复",
+      "detail": "FAQPage.mainEntity/Event×6日期字段与guides.ts逐字一致。但Article.datePublished依赖guide.published ?? guide.updated回退逻辑，当前巧合正确（本文自2026-08-02发布后从未被编辑）但本次审计若只推进updated会导致datePublished被错误一并推移。独立复核agent确认与national-coffee-day（2026-08-03已修）完全相同的批次性缺陷，本文是该批次唯一还未补上的一篇。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及实体（Snopes、National Day Calendar、Archies Limited、UN、Congress）均中性引用，无新增现实争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "确认问题，已修复",
+      "detail": "文章无image字段，og:image/twitter:image/Article schema image三处均回退到/favicon.svg（SVG），正文也无任何可见<img>标签。独立复核agent实测curl线上HTML确认三处回退属实，并独立WebSearch确认Facebook Open Graph解析器与X/Twitter Card Validator均不支持SVG作为分享图（会渲染成空白/纯文字卡片，尽管页面声明twitter:card=summary_large_image），与national-boyfriend-day/national-coffee-day审计发现的同批次缺陷模式完全一致。"
+    }
+  ],
+  "actions_taken": [
+    "从Wikimedia Commons下载配图：'Father and Daughter (Unsplash).jpg'，摄影者Caroline Hernandez（via Unsplash），CC0协议（AttributionRequired=false），4898×3265原图用sips缩至1600×1066/180KB，写入image/imageAlt/imageCredit三个字段",
+    "新增published字段回填原始发布日2026-08-02（据git log核实，commit 2557193）；updated字段改为2026-08-04",
+    "npm run build（Node 22.22.2）17页0报错；node --test tools/**/*.test.mjs 17/17全过（未改动日期数据，仍按规则跑一遍确认无回归）；commit f4fe832并push（仅暂存src/data/guides.ts+新图片两个文件，规避同目录并发会话未提交的gsc-index-submit-log.json/wikipedia-opportunities.md/guest-post-outreach.json/podcast-pitch-log.md/外链*）；git自动部署后轮询4次确认线上og:image已为真实JPEG（200，180298字节与本地一致）且datePublished=2026-08-02T00:00:00+00:00/dateModified=2026-08-04T00:00:00+00:00；IndexNow提交时脚本首次误将命令行参数'--help'当作URL路径提交，发现后立即git checkout撤销该条脏数据，用正确路径/national-daughters-day/重新提交成功（Bing 200/Yandex 202），commit dc54f29记入indexnow-submit-log.json，未遗留错误记录；内容发布日志.md追加审计记录"
+  ],
+  "seo_score": "审计前后均为技术SEO全项通过（本次未发现需修复的SEO技术项，标题/描述/canonical/heading/schema均未改动）",
+  "geo_score": "自评约87/99（已达标≥80），本次两处修复均为schema/社交分享层面，不涉及GEO薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

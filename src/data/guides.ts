@@ -499,7 +499,11 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Sons Day: March 4, and Why September 28 Keeps Showing Up",
     "description": "National Sons Day is listed on March 4 by the registries that track it. September 28 circulates widely online but has no traceable origin. Here is the evidence.",
-    "updated": "2026-08-02",
+    "published": "2026-08-02",
+    "updated": "2026-08-06",
+    "image": "/images/national-sons-day.jpg",
+    "imageAlt": "A father and son together outdoors",
+    "imageCredit": "Photo by [Clem Onojeghuo](https://unsplash.com/@clemono2) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_father_and_son_on_a_ride_(Unsplash).jpg), CC0",
     "coreSummary": "National Sons Day is observed on March 4, the date created by Jill Nico in 2018 and listed by National Day Calendar and Checkiday. A second date, September 28, is repeated by many calendar sites and by most social media posts about the day, but no source has produced a founder, a registration, or a first observance for it.",
     "dateRule": {
       "kind": "fixed",
@@ -582,7 +586,7 @@ export const guides: Guide[] = [
         "body": [
           "Nothing about National Sons Day is transactional: no gift convention formed around it, and greeting-card publishers have left it alone. In practice it is a social media day. Parents post photographs with the hashtag, write a few lines about a son, and that is the extent of it for most people.",
           "National Day Calendar's suggestions for the day lean practical rather than sentimental: teach a son a specific skill he will need, such as changing a tire or handling a bank account; find or become a mentor for boys without a male role model in their lives; pass along something your own father taught you; take a photograph with all the sons together. Organizations that mentor boys tend to see the day as a low-cost hook for recruitment posts rather than a fundraising moment.",
-          "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is Take Our Daughters and Sons to Work Day in April, which is a scheduled program with participating employers rather than a hashtag."
+          "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is the April workplace program once called Take Our Daughters and Sons to Work Day: Junior Achievement took it over in 2024 and now runs it each spring as Take a Child to Work Day and Beyond, a scheduled program with participating employers rather than a hashtag."
         ]
       },
       {
@@ -613,7 +617,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Sons Day the same as Take Our Sons to Work Day?",
-        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization called National Sons Day in 1996 and ran Take Our Sons to Work Day on the first Thursday in May from 1996. Some calendar sites date that launch to 1998 instead. That program merged with the daughters' program in 2003 into the combined Take Our Daughters and Sons to Work Day held in April. The modern National Sons Day on March 4 is a separate observance created in 2018."
+        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization called National Sons Day in 1996 and ran Take Our Sons to Work Day on the first Thursday in May from 1996. Some calendar sites date that launch to 1998 instead. That program merged with the daughters' program in 2003 into the combined Take Our Daughters and Sons to Work Day, and Junior Achievement took the program over in 2024, running it each April as Take a Child to Work Day and Beyond. The modern National Sons Day on March 4 is a separate observance created in 2018."
       },
       {
         "question": "Is there a National Daughters Day as well?",
@@ -660,6 +664,10 @@ export const guides: Guide[] = [
       {
         "label": "Wikipedia - Take Our Daughters and Sons to Work Day",
         "url": "https://en.wikipedia.org/wiki/Take_Our_Daughters_and_Sons_to_Work_Day"
+      },
+      {
+        "label": "Junior Achievement USA via PR Newswire - Take Our Daughters and Sons to Work Day Becomes Take a Child to Work Day and Beyond (January 21, 2025)",
+        "url": "https://www.prnewswire.com/news-releases/take-our-daughters-and-sons-to-work-day-becomes-take-a-child-to-work-day-and-beyond-as-junior-achievement-inspires-participation-by-all-kids-and-families-302354953.html"
       }
     ]
   },

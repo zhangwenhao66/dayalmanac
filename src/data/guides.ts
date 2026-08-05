@@ -1921,5 +1921,132 @@ export const guides: Guide[] = [
     "image": "/images/september-birthstone-sapphire.jpg",
     "imageAlt": "Three natural sapphire crystals from Sri Lanka and Myanmar, displayed at the San Diego Natural History Museum",
     "imageCredit": "Photo by Stickpen, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3sapphirecrystals.jpg), public domain"
+  },
+  {
+    "slug": "scorpio-dates",
+    "category": "Zodiac Dates",
+    "title": "Scorpio Dates: October 23–November 21, in Three Systems",
+    "description": "Scorpio runs October 23–November 21 in tropical astrology, though Britannica dates it a day later. Sidereal astrology draws yet another line.",
+    "published": "2026-08-06",
+    "updated": "2026-08-06",
+    "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Scorpio from October 23 to November 21, the range given by AstroStyle, Farmers' Almanac, Almanac.com, and Wikipedia. Britannica's own reference entry is the outlier, dating the start to October 24. Vedic sidereal astrology, anchored to a different reference point, runs Scorpio roughly a month later, from about November 16 to December 15. The actual astronomical constellation the sign is named for holds the Sun for barely a week, the shortest stretch of any zodiac constellation, before the Sun crosses into Ophiuchus, a thirteenth constellation the tropical system has never counted as a sign. None of the four dates is wrong; each is answering a different question.",
+    "sections": [
+      {
+        "heading": "The range almost every horoscope site quotes, except one",
+        "body": [
+          "Ask an astrology publisher for Scorpio's dates and the answer is nearly unanimous: October 23 to November 21. AstroStyle gives that range, so does Farmers' Almanac, and so does Almanac.com and the English Wikipedia entry for Scorpio (astrology). None of these sources cites another as its authority; they're independently running the same tropical-zodiac calculation and landing on the same two calendar days.",
+          "Britannica breaks the pattern. Its own Scorpius entry describes the sign as \"considered as governing the period from about October 24 to about November 21,\" a full day later at the start than every other major reference checked for this page. That's not a typo repeated across mirror sites; it's Britannica's stated position, sitting a day apart from the consensus for reasons the entry itself doesn't explain. [Virgo's date range](/virgo-dates/) has the same kind of single-day fuzziness at its boundary, but there every source agrees on which day is the fuzzy one (August 22 or 23, depending on the year). Here, two different calendar dates are being presented flatly as the answer by different authorities, with no year-dependent hedge offered by either."
+        ]
+      },
+      {
+        "heading": "Why the boundary moves at all",
+        "body": [
+          "The tropical zodiac splits the solar year into twelve equal 30-degree arcs starting from the spring equinox, and Scorpio is the eighth of them, running from 210 to 240 degrees of tropical longitude. The calendar date attached to \"210 degrees\" isn't fixed once and for all, because the equinox that anchors the whole system doesn't land at the same clock time every year. Earth's orbit takes about 365.2422 days, not a clean 365, so the equinox arrives roughly six hours later each year until a leap day resets the count. That six-hour drift propagates to every 30-degree boundary downstream of it, Scorpio's October crossing included, which is enough to nudge the exact moment onto a different calendar date in some years than in others.",
+          "That explains a one-day wobble year to year within a single reference's own methodology. It does not explain why Britannica's stated range and the AstroStyle/Farmers' Almanac/Wikipedia range disagree by a full day as a matter of general description, not year-specific drift. That gap looks like a difference in rounding convention or source vintage between references, not the astronomical wobble itself. Neither side documents which it is."
+        ]
+      },
+      {
+        "heading": "Born right on the edge",
+        "body": [
+          "Whichever start date a given source prefers, anyone born within a day or two of it (October 22 through 24, or November 20 through 22 at the other end) can't settle their sign from a generic date range alone. The Sun crosses the 210-degree or 240-degree line at a specific hour in a specific year, and whether a birth falls on the Libra or Sagittarius side of that line depends on the exact birth time and time zone, not the date by itself. A birth at 10 p.m. on October 22 in one location could already be Scorpio; a birth three time zones west at what's locally still October 22 could still be Libra.",
+          "Settling an actual cusp birth requires an ephemeris check for the Sun's exact position on that date, time, and location, and no general reference can substitute for it. A published range like the one at the top of this page holds up for the large majority of readers and only breaks down for the narrow band born within roughly a day of either edge, this page's own range included."
+        ]
+      },
+      {
+        "heading": "A different Scorpio entirely: sidereal astrology",
+        "body": [
+          "Everything above describes the tropical zodiac used in Western horoscope astrology. Vedic astrology, practiced across South Asia, uses a sidereal zodiac instead, and assigns Scorpio (Vrishchika Rashi, from the Sanskrit word for scorpion) to a later stretch of the calendar: roughly November 16 to December 15. Wikipedia's own entry on the Vṛścika solar month places it across the same later-November-to-mid-December stretch, and Vedic astrology sources converge on the same range, with the kind of one-day spread at the edges (November 15 or 16, December 15 or 16) that the tropical sources show at their own boundaries.",
+          "The roughly 24-day gap between the tropical and sidereal ranges is precession: the slow 25,800-year wobble of Earth's rotational axis, first described mathematically by Hipparchus around 127 BCE. Tropical astrology resets to 0 degrees Aries at the equinox every year regardless of the background stars; sidereal astrology tracks those stars directly. India's most common reference point for the calculation, the Lahiri ayanamsha, currently puts the two zodiacs about 24 degrees apart, a gap widening by roughly one degree every 72 years, which is why sidereal Scorpio lands almost a month after tropical Scorpio rather than a few days off."
+        ]
+      },
+      {
+        "heading": "What astronomers actually see in the sky",
+        "body": [
+          "There's a third answer, arrived at by ignoring astrology's equal-arc convention altogether. In 1930 the International Astronomical Union drew fixed, irregular boundaries around the 88 constellations, including the pattern of stars actually named Scorpius, based on the stars' real positions rather than 30-degree divisions. Per EarthSky, the Sun passes through the true constellation Scorpius for only about a week, roughly November 23 to November 29, before crossing into Ophiuchus, where it stays until about December 18. Sky & Telescope's rundown of the same boundaries notes Scorpius as the shortest solar crossing of any zodiac constellation: a week, against more than forty days for Virgo, the longest.",
+          "Ophiuchus is the reason a \"secret 13th sign\" story periodically resurfaces in the press. It's a real IAU constellation the ecliptic genuinely passes through, wedged between Scorpius and Sagittarius, but it was never one of the twelve signs the Babylonian system counted, and nothing changed about the sky in 1930 beyond formalizing constellation borders that had been informal for centuries. The Sun spending three weeks in Ophiuchus and barely a week in the constellation Scorpius has no bearing on the tropical sign Scorpio, which is defined by degrees of solar longitude and doesn't reference star patterns at all."
+        ]
+      },
+      {
+        "heading": "Where the twelve-way division came from",
+        "body": [
+          "The equal 30-degree scheme underlying all of this (the one that gives Scorpio a clean October 23 start regardless of what the actual constellation is doing) originated with Babylonian astronomers by around the 5th century BCE and was adopted by Greek astronomers within decades. Ptolemy's Tetrabiblos, in the 2nd century CE, is the text most responsible for fixing the tropical version, tied to the equinoxes rather than the stars, as the standard that Western horoscope astrology still runs on.",
+          "That history means Scorpio's dates have no founding moment, not even the contested kind an observance like [National Boyfriend Day](/national-boyfriend-day/) has: two competing origin stories, neither one settled. Scorpio's date range isn't unsettled in that sense; it's simply not the kind of thing that has a founder at all. No trade group, government body, or astrologer signed off on October 23 specifically. It's the output of a mathematical convention refined across centuries by multiple cultures, which is also why a small, unexplained one-day gap between Britannica and everyone else can persist indefinitely: there's no registrar anyone could call to settle it."
+        ]
+      },
+      {
+        "heading": "What the tropical system also assigns to Scorpio",
+        "body": [
+          "Within the tropical framework, Scorpio carries the standard set of classifications that go back to the same ancient system as the dates: represented by the Scorpion, a Water sign, and Fixed in modality, the stubborn middle month of its season and the same modality pairing that Taurus, Leo, and Aquarius carry for their own seasons. Its roster of ruling planets has grown exactly once in recorded history. Mars ruled Scorpio alone for as long as the sign has existed, and modern astrology added Pluto as a co-ruler after the planet's 1930 discovery, with most contemporary astrologers treating the two as joint rulers.",
+          "Scorpio has no official birthstone the way a calendar month does. Jewelry retailers commonly list topaz or citrine as \"the\" Scorpio stone, but that's simply borrowed from November's monthly birthstone list, the same list documented back to [Jewelers of America's 1912 meeting](/december-birthstone/) for December's own entries, and repurposed here for a sign that happens to span late October into November. No trade body has ever issued a separate zodiac-sign birthstone list the way it issued the calendar-month one; retailers assign the stone by association, not by any documented ruling."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the official dates for Scorpio?",
+        "answer": "In Western tropical astrology, the system behind most horoscope columns and apps, Scorpio runs from October 23 to November 21. That's the range given by AstroStyle, Farmers' Almanac, Almanac.com, and Wikipedia."
+      },
+      {
+        "question": "Why does Britannica say Scorpio starts on October 24 instead of October 23?",
+        "answer": "Britannica's own reference entry states the period as \"about October 24 to about November 21,\" a full day later at the start than AstroStyle, Farmers' Almanac, Almanac.com, and Wikipedia all give. Neither side's entry explains the discrepancy, and it doesn't match the kind of year-to-year equinox drift that causes other one-day boundary wobbles in the tropical zodiac. It reads instead as a difference in convention or source vintage between references, not an astronomical fact either side is disputing."
+      },
+      {
+        "question": "What if I was born right on the boundary (October 22–24 or November 20–22)?",
+        "answer": "A generic date range can't settle it. The Sun crosses into or out of Scorpio at a specific hour each year, and whether a birth falls before or after that moment depends on the exact birth time and time zone, not just the date. Resolving a genuine cusp birth requires checking an ephemeris for that year, not reading a calendar page."
+      },
+      {
+        "question": "Are Scorpio's dates the same in every astrology system?",
+        "answer": "No. Vedic sidereal astrology assigns Vrishchika (Scorpio) to roughly November 16–December 15, about a month later than the Western tropical range, because it tracks the actual background stars rather than the equinox. The two systems are currently about 24 degrees apart, a gap caused by the precession of Earth's axis and growing by about one degree every 72 years."
+      },
+      {
+        "question": "Does the actual constellation Scorpius match the astrology sign's dates?",
+        "answer": "Not closely, and by a wide margin. Per EarthSky, the Sun passes through the astronomical constellation Scorpius for only about a week, roughly November 23 to November 29, before crossing into Ophiuchus, a genuine zodiac constellation that was never counted as one of the traditional twelve signs. Sky & Telescope notes Scorpius as the shortest solar crossing of any zodiac constellation, the opposite extreme from Virgo's more than forty days."
+      },
+      {
+        "question": "Who decided Scorpio's dates? Is there an official governing body?",
+        "answer": "No single body. The twelve equal-sign system originated with Babylonian astronomers by around the 5th century BCE, was adopted by Greek astronomers soon after, and was fixed in its tropical form by Ptolemy's Tetrabiblos in the 2nd century CE. It's a centuries-old mathematical convention, not a ruling any individual or organization made on a specific date."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Britannica — Scorpius",
+        "url": "https://www.britannica.com/place/Scorpius"
+      },
+      {
+        "label": "Wikipedia — Scorpio (astrology)",
+        "url": "https://en.wikipedia.org/wiki/Scorpio_(astrology)"
+      },
+      {
+        "label": "Wikipedia — Vṛścika",
+        "url": "https://en.wikipedia.org/wiki/V%E1%B9%9B%C5%9Bcika"
+      },
+      {
+        "label": "AstroStyle — Scorpio Dates",
+        "url": "https://astrostyle.com/astrology/scorpio-dates/"
+      },
+      {
+        "label": "Farmers' Almanac — Scorpio Zodiac Sign",
+        "url": "https://www.farmersalmanac.com/zodiac-zone-meet-scorpio"
+      },
+      {
+        "label": "Almanac.com — Scorpio Zodiac Sign",
+        "url": "https://www.almanac.com/content/scorpio-zodiac-sign"
+      },
+      {
+        "label": "EarthSky — Sun enters Ophiuchus on November 30",
+        "url": "https://earthsky.org/astronomy-essentials/sun-in-ophiuchus-november-30-to-december-18/"
+      },
+      {
+        "label": "Sky & Telescope — A Sign of the Times",
+        "url": "https://skyandtelescope.org/astronomy-news/observing-news/a-sign-of-the-times/"
+      },
+      {
+        "label": "TIME — Where Do Zodiac Signs Come From?",
+        "url": "https://time.com/5315377/are-zodiac-signs-real-astrology-history/"
+      }
+    ],
+    "image": "/images/scorpio-dates-uranias-mirror.jpg",
+    "imageAlt": "Hand-colored 19th-century star chart of the Scorpio constellation from Urania's Mirror, showing the scorpion against the night sky",
+    "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Scorpio.jpg) (1824), via Wikimedia Commons, public domain"
   }
 ];

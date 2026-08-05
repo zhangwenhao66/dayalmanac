@@ -1,0 +1,12 @@
+{
+  "quora": [
+    {
+      "date": "2026-08-03",
+      "target_page": "https://dayalmanac.com/national-boyfriend-day/",
+      "question_url": "https://www.quora.com/What-is-the-significance-of-October-3rd-in-Mean-Girls-among-fans-of-the-movie/answer/Owen-Zhang-161",
+      "question_title": "What is the significance of October 3rd in 'Mean Girls' among fans of the movie?",
+      "notes": "DayAlmanac首次外链建设。目标文章核心论点是National Boyfriend Day(10月3日)起源无从查证，且10月3日同时是Mean Girls Day，两者共用同一天。没有直接搜到问National Boyfriend Day起源的好问题(相关问题要么在dealzone.quora.com这种垃圾Space下，要么长期0答案但问题措辞本身混乱)，改用与站内文章直接相关的Mean Girls Day问题：该问题发布前仅1个真实答案，只解释了电影台词本身(Cady Heron/Aaron Samuels那场戏)，没有提及这个梗在网上何时开始被过节日化、也没提及它跟同一天的National Boyfriend Day有何关系。以站内文章骨架撰写(电影台词原文、粉丝自发标记始于约2011年、Dictionary.com关于'Boyfriend Day蹭Mean Girls Day同一天热度'的推测性解读)。额外用WebSearch找到站内原文没有的真实增量事实：2023年Paramount在新版电影上映前，把整部《贱女孩》拆成23段免费发布在TikTok上，专门选在10月3日当天，媒体报道称这是大型电影公司首次以这种方式把完整电影放上该平台——这是Mean Girls Day从纯粹网友自发行为第一次获得片方官方层面呼应的具体时间点和细节，站内文章没有提到这一点。过humanizer skill检查，确认无破折号、无三段式列举结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。已直接发布成功(非Space类问题)，发布后用javascript_tool核实渲染页面上确实是<a href>真实超链接。⚠️遵守流量站清单.md对本站的专属提醒：观察日内容易被视为营销，回答内容全程保持怀疑/事实核查视角，不带任何'快去庆祝'式营销语气。"
+    }
+  ],
+  "reddit": []
+}

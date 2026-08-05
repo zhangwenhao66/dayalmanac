@@ -2,7 +2,9 @@
   "https://dayalmanac.com/national-bosses-day/": {
     "submitted_date": "2026-08-02",
     "verified_status": "pending",
-    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission."
+    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission.",
+    "last_checked_date": "2026-08-05",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/national-boyfriend-day/": {
     "submitted_date": "2026-08-03",

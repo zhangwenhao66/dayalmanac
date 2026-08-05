@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-08-04",
+    "site": "dayalmanac",
+    "niche_focus": "holidays / observance days / date-authority (national days, \"when is X\", birthstone & zodiac series, awareness months, deadline calendars)",
+    "channels_researched": [
+      {
+        "name": "National Day Today (nationaldaytoday.us) — Write For Us",
+        "url": "https://www.nationaldaytoday.us/write-for-us/",
+        "status": "real and open, but poor fit — not pursued",
+        "notes": "确实开放投稿（info@nationaldaytoday.us，800-1500字，接受节日/observance历史类文章），主题看似高度匹配。但抓取首页发现明显content farm特征：无署名、无发布日期、'Write for Us'/'Advertise with Us'链接权重远高于实际内容，且反复在logicsofts/dewlance/magnetoitsolutions等通用guest-post-farm聚合搜索结果里同时出现，疑似链接买卖站而非真实编辑站点。从这类站拿反链对DayAlmanac的抓取信任没有帮助，也不值得投入800-1500字原创内容，未起草pitch。"
+      },
+      {
+        "name": "Calendar.com — Guest Post Guidelines",
+        "url": "https://www.calendar.com/guest-post-guidelines/",
+        "status": "real but stale + poor fit — not pursued",
+        "notes": "页面明确写'Updated January 2020'（6年多未更新，Typeform投稿链接是否仍受理存疑）。且主题要求是productivity/time-management/workflow/business advice方向，2000-5000字（理想3000-4500字），跟DayAlmanac的\"某个observance的日期/起源/为何存在争议\"类深度考据文章方向不符，勉强投会显得文不对题。"
+      },
+      {
+        "name": "Twello (trytwello.com) — workplace awareness-days calendar blog",
+        "url": "https://trytwello.com/",
+        "status": "no open guest-post channel found",
+        "notes": "该站发布大量HR/职场awareness-days月历内容，主题高度相关，但抓取首页发现Twello实际是企业健康福利服务商（卖线上/线下wellness课程），博客是获客内容而非开放投稿平台。导航栏和footer均无write-for-us/guest-post/contribute入口。"
+      },
+      {
+        "name": "National Day Classroom (nationaldayclassroom.com)",
+        "url": "https://nationaldayclassroom.com/about-us/",
+        "status": "no open guest-post channel found",
+        "notes": "National Day Calendar®旗下面向教师的教育资源子站，主题跟DayAlmanac重叠度高（都是national days衍生内容），但About页面完全没有投稿/合作/推荐节日的入口，只有newsletter订阅。作为National Day Calendar的关联站，即便找到投稿渠道也可能不愿意链到同类竞品。"
+      },
+      {
+        "name": "Saving Talents — Guest Post Opportunities",
+        "url": "https://savingtalents.com/guest-posts/",
+        "status": "real site, currently closed to submissions",
+        "notes": "该博主已发布过一篇\"weird/quirky holidays calendar\"文章，主题有交集，也是真实活跃的个人生活方式博客（非content farm）。但投稿页三次明确写\"We are not currently accepting guest posts\"，本轮无法投递；不排除未来重开，值得记录以便下次复查。"
+      },
+      {
+        "name": "Childhood101 — Contribute",
+        "url": "https://childhood101.com/contact/contribute/",
+        "status": "real but poor fit (policy exclusion) — not pursued",
+        "notes": "真实活跃的家庭教育类博客，节日/日历类内容常见，但Contribute页面明确写\"not accepting unsolicited guest posts or those from writers representing commercial enterprises\"，且只接受\"active and trusted community members\"投稿。DayAlmanac是商业广告变现内容站，明确落在其排除范围内，投稿大概率直接被拒，未起草pitch。"
+      }
+    ],
+    "actions_taken": "无表单提交，无pitch邮件起草——本轮6个候选渠道全部不满足\"真实+开放+主题匹配\"三重标准（2个是疑似content farm/主题不符、2个无公开投稿入口、1个明确关站、1个政策性排除商业站点），未进入起草/提交环节。",
+    "result_summary": "0/6 channels viable this round. Observance-day/national-day这个细分利基的guest-post环境比预期更差：真正的大站（National Day Calendar、National Today、Days of the Year）要么是直接竞品不太可能反向导流，要么其教育/职场衍生子站没有开放投稿口；中小型独立博客里跟主题最贴近的两个（Saving Talents、Childhood101）分别是暂时关站和政策性排除商业站点；剩下能搜到的\"write for us\"多是通用guest-post-farm聚合站（如nationaldaytoday.us），拿到的反链质量存疑且可能强化'observance内容=营销/垃圾'的负面观感，与项目对这一风险的既有警惕一致。下次调研建议换方向：(1) 定期复查Saving Talents是否重新开放投稿；(2) 尝试resource-page link building（面向教师/HR的holiday calendar列表页，走'建议收录'而非guest post）；(3) 结合已发布的7篇observance深度考据文章（起源可验证性、日期规则冲突等angle），针对fact-checking/misinformation类媒体或trivia类媒体单独调研一轮。"
+  }
+]

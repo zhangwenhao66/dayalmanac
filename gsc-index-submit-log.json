@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "date": "2026-08-03",
+    "action": "no_submission_needed_first_check",
+    "reason": "trafficsite-gsc-index-requests首次处理本站GSC索引提交（此前gsc-index-submit-log.json为空数组——站点8/2建站+8/2完成GSC domain property验证，但此任务此前从未实际跑过本站）。第0步核实dayalmanac.com（sc-domain:）已是已验证property。本站累计已发布6篇（首批5篇+national-bosses-day，2026-08-02），远超4篇首次提交门槛。今日dayalmanac-content-publishing尚未产出新文章（该任务定时19:30跑，晚于本次运行时刻）。按两轮制配额稀缺模式，本站round1取尚未提交、体量最高的页面：national-boyfriend-day（246,000/月）。URL Inspection结果为'URL is on Google, but has issues'——已自然收录，无需提交索引请求。副带发现：Events结构化数据6项无效（Enhancements & Experience面板），与索引提交无关，已另建task_ef38a138跟进排查（不在本任务范围内处理）。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-boyfriend-day/ (URL is on Google, but has issues — Events schema 6 invalid items，已建task_ef38a138跟进)"
+    ],
+    "quota_used": "0 (page already indexed, no request needed)"
+  },
+  {
+    "date": "2026-08-04",
+    "action": "submitted_partial_already_indexed",
+    "reason": "trafficsite-gsc-index-requests例行运行，跨天连续游标机制首次运行。今日新发布national-dog-day（URL is not on Google）提交成功。第二轮检查队列另外3个高代理项（national-daughters-day/national-sons-day/national-boyfriend-day），均已显示'URL is on Google'（自然收录，未消耗提交配额），本站第二轮无新提交，游标继续前进不重置。",
+    "submitted_urls": [
+      "https://dayalmanac.com/national-dog-day/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-daughters-day/",
+      "https://dayalmanac.com/national-sons-day/",
+      "https://dayalmanac.com/national-boyfriend-day/"
+    ],
+    "quota_used": "1 of shared account-wide daily quota (7th request this run)"
+  },
+  {
+    "date": "2026-08-05",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（virgo-dates/march-birthstone）。第一轮取virgo-dates（URL is not on Google）提交成功，第二轮取march-birthstone（同样未收录）提交成功。",
+    "submitted_urls": [
+      "https://dayalmanac.com/virgo-dates/",
+      "https://dayalmanac.com/march-birthstone/"
+    ],
+    "quota_used": "2 requests this run (round 1 and round 2)"
+  }
+]

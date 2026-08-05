@@ -241,3 +241,87 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-sons-day",
+  "last_audited": "2026-08-06",
+  "published_date": "2026-08-02",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding.status为'documented'，具名创始人Jill Nico（2018年）+ National Day Calendar/Checkiday/Days of the Year三方独立互证，且对September 28缺乏出处这一点做了明确、有据的指出，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实）",
+      "detail": "curl抓取Checkiday本文页面（checkiday.com/e2dc.../national-sons-day）确认'Founded by Jill Nico in 2018'+'Observed annually on March 4th (since 2019)'+'We've done extensive research and concluded that this is incorrect'（指September 28），与本文逐字吻合。curl抓取Seth Westphal 2022年Medium调查原文确认：1996年Berkeley Heights学生组织、Take Our Sons to Work Day在'first Thursday in May from 1996 to at least 2001'举办、2003年并入合并日、另有1996年10/20方案因命名分歧流产，全部与本文逐字吻合。curl抓取checkiday.com/9/28/2026当日listing页确认全文不含'National Sons Day'/'Sons Day'字样，证实本文'Checkiday不将其列入9/28listing'的表述准确。WebSearch核实AOL/Cincinnati Enquirer（USA Today Network，2024年3月4日刊）报道确认'quasi-holiday'+March 4+Jill Nico 2018三项与本文一致。dateRule六年occurrence（2026-2031 March 4对应星期）用Python datetime独立重算全部吻合。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "确认问题，已修复",
+      "detail": "见actions_taken——正文两处将'Take Our Daughters and Sons to Work Day'描述为当前仍以该名称运营的四月职场项目，但该项目已于2024/2025年被Junior Achievement接管并更名。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "头部竞品（nationaldaycalendar.com/checkiday.com/daysoftheyear.com/calendarr.com等）均为本文引用的一手信源本身，本文整合多方信源+FAQ结构化呈现'两日期矛盾'这一核心叙事，未见任何单一竞品做过同等整合，差异化真实非同质化。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 65字符（渲染后含站名后缀78字符）、description 160字符、canonical自指、单一h1、7个h2无跳级、URL evergreen不带年份；title/description长度与全站13篇其余文章分布（title 43-68/desc 141-167）比对非离群值。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约91/99（权威原文引语14/16、可引用性12/13、结构规范性12/12、鲁棒性5/5、表达流畅度9/10），已达标≥80。本次三处修复不涉及GEO薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本站发布流程从建站第一篇起即含Skill(humanizer)强制步骤，不存在早期内容例外。机械扫描正文：em-dash 0处、AI高频词（delve/tapestry/testament/underscore等）扫描0处命中。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（一处需说明的例外）",
+      "detail": "10条sources链接curl实测：9条200（checkiday.com两处/westy92.medium.com/daysoftheyear.com/wincalendar.com/calendarr.com/aol.com/en.wikipedia.org/prnewswire.com新增源）。nationaldaycalendar.com对自动化curl请求返回403（Cloudflare bot拦截特征，与本站历次审计同一判定标准），WebSearch证实内容仍可被搜索引擎正常索引，判定非真实链接失效，未采取行动。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题（一处观察项）",
+      "detail": "全站14篇文章，Observances分类8篇，pickRelatedGuides轮转窗口覆盖侧栏推荐；national-bosses-day正文已有手写锚文本自然链接指向本文，非孤儿页。本文自身正文暂无手写锚文本outbound链向其他文章，记录为观察项，未独立复核、未采取行动（未达修复门槛）。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "确认问题，已修复",
+      "detail": "见actions_taken——published字段缺失导致datePublished依赖guide.published ?? guide.updated回退逻辑，当前巧合正确但无显式锚点。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及实体（National Day Calendar、Checkiday、Seth Westphal、Jill Nico、Take Our Daughters and Sons to Work Day、Junior Achievement等）均中性引用，无新增现实争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "确认问题，已修复",
+      "detail": "文章无image字段，og:image/twitter:image回退到/favicon.svg（SVG）。独立复核agent独立WebSearch多个来源确认Twitter/X Card Validator与Facebook/LinkedIn Open Graph解析器均不支持SVG（静默失败非优雅降级），叠加twitter:card=summary_large_image进一步保证无法渲染大图卡片，与national-boyfriend-day/national-coffee-day/national-daughters-day审计发现的同批次缺陷模式完全一致（四篇同属commit 2557193首批，本文是最后一篇被审到的）。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "正文无暴力/伤亡描写，无武器/毒品/赌博提及，标题为事实陈述非标题党。ads.txt线上200且内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，隐私政策页/privacy/200可访问。"
+    }
+  ],
+  "actions_taken": [
+    "从Wikimedia Commons下载配图：'A father and son on a ride (Unsplash).jpg'，摄影者Clem Onojeghuo（via Unsplash），CC0协议（AttributionRequired=false），4443×2807原图用sips缩至1600×1011/385KB，写入image/imageAlt/imageCredit三个字段",
+    "新增published字段回填原始发布日2026-08-02（据git log核实，commit 2557193）；updated字段改为2026-08-06",
+    "改写两处过期表述（'How the day is actually observed'一节正文+FAQ'Is National Sons Day the same as Take Our Sons to Work Day?'答案）：'Take Our Daughters and Sons to Work Day'改为注明'Junior Achievement于2024年接管、自2025年4月起更名为Take a Child to Work Day and Beyond运营'，并在sources列表新增Junior Achievement PR Newswire 2025-01-21官方公告作为出处（curl实测200，内容与断言逐字核对一致）",
+    "npm run build（Node 22.22.2）23页0报错（未改动日期数据，未额外跑node --test）；commit f1ca4dd并push（仅暂存src/data/guides.ts+新图片两个文件）；git自动部署后轮询3次确认线上og:image已为真实JPEG（200，385321字节与本地一致）、datePublished=2026-08-02T00:00:00+00:00、dateModified=2026-08-06T00:00:00+00:00、新表述已生效；IndexNow提交（Bing 200/Yandex 202），记入indexnow-submit-log.json；内容发布日志.md追加审计记录"
+  ],
+  "seo_score": "审计前后均为技术SEO全项通过（本次未发现需修复的SEO技术项，标题/描述/canonical/heading/schema均未改动）",
+  "geo_score": "自评约91/99（已达标≥80），本次三处修复为schema/社交分享/时效性层面，不涉及GEO结构性薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

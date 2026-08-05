@@ -1809,5 +1809,117 @@ export const guides: Guide[] = [
     "image": "/images/march-birthstone-aquamarine.jpg",
     "imageAlt": "Pale blue-green aquamarine beryl crystal specimen",
     "imageCredit": "Photo by Thomas Quine, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquamarine_Beryl_(40626821831).jpg), CC BY 2.0"
+  },
+  {
+    "slug": "september-birthstone",
+    "category": "Birthstones",
+    "title": "September Birthstone: Sapphire, Unchanged Since 1912",
+    "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912 — though the UK trade list still adds a second stone, lapis lazuli.",
+    "published": "2026-08-05",
+    "updated": "2026-08-05",
+    "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912 — the three trade-group updates since then (1952, 2002, 2016) each touched a different month. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's own 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
+    "sections": [
+      {
+        "heading": "September's one official birthstone",
+        "body": [
+          "Jewelers of America's current birthstone chart lists exactly one stone for September: sapphire. There's no equivalent here to the argument this calendar had to untangle for [December](/december-birthstone/) (three stones, plus a widely marketed fourth that isn't official) or [March](/march-birthstone/) (two stones with a disputed primary/alternate order). September is one of the rare months where the trade association's own list and popular usage actually agree on how many stones belong.",
+          "Where September does have a gap is color, not count. Sapphire is best known as a deep blue stone, but the term covers any color of the mineral corundum except red; red corundum is classified as ruby, its own separate birthstone for July. According to the American Gem Society, sapphires occur in white, pink, orange, yellow, green, violet, purple, brown, and black, and a pinkish-orange variety called padparadscha, named for a Sinhala word for lotus flower, can sell for more than a blue stone of similar size and clarity. A page or a retailer that treats \"the September birthstone\" as meaning specifically blue sapphire is narrower than the actual definition."
+        ]
+      },
+      {
+        "heading": "Revised three times since 1912 — never for September",
+        "body": [
+          "The US birthstone list traces to a single 1912 meeting in Kansas City, where the American National Retail Jewelers Association, the organization now known as Jewelers of America, adopted a standardized list to replace the patchwork of regional folk traditions retailers had been drawing on. September's slot went to sapphire at that meeting.",
+          "The list has been revised three times since, and each revision landed on a different month. In 1952, a trade-industry update added alexandrite to June, citrine to November, pink tourmaline to October, and zircon to December (sources disagree on whether that specific revision was carried out by Jewelers of America's own predecessor or a separate body, the Jewelry Industry Council of America, the same unresolved attribution this calendar noted on [December's birthstone page](/december-birthstone/)). In 2002, the American Gem Trade Association added tanzanite to December. In 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August. None of the three touched September. The organization's live chart today still shows the single stone it named in 1912."
+        ]
+      },
+      {
+        "heading": "What came before 1912 is less settled than most pages let on",
+        "body": [
+          "Sites that describe a \"traditional\" birthstone list alongside the modern one don't always agree with each other about what that traditional list actually said for September. Wikipedia's birthstone chart, citing gemologist George Frederick Kunz's 1913 compilation of older European folk traditions, lists September's pre-1912 stone as chrysolite, an archaic name that, by multiple accounts, was applied inconsistently to what would now be called either peridot or topaz, since older mineral names tracked color rather than composition. The International Gem Society's own \"traditional birthstone list,\" published on its site, instead names sapphire for September on both the traditional and modern columns, treating them as the same stone all along.",
+          "Both pages are citing real sources; they just aren't citing the same one. That's a smaller-scale version of the same problem this calendar keeps running into with observance origins: a single word like \"traditional\" gets applied to more than one actual document, and a reader has no way to tell which document a given page means unless it says so."
+        ]
+      },
+      {
+        "heading": "The UK's own list still isn't the same as the US one",
+        "body": [
+          "Jewelers of America's list isn't the only current, active trade-group standard. Britain's own jewelry trade association, a successor to the British National Association of Goldsmiths that published its own list in 1937, revised its birthstone chart in 2013, and that revision gave September a second official stone: lapis lazuli, alongside sapphire. The US list does not currently include lapis lazuli for September; in the American tradition that stone belongs to December instead. A shopper checking the UK trade list and a shopper checking the US one currently get different, both-correct answers to \"how many official September birthstones are there.\""
+        ]
+      },
+      {
+        "heading": "Sapphire the mineral: hard, old, and mostly mined out of one famous source",
+        "body": [
+          "Sapphire is a variety of corundum, ranking 9 on the Mohs hardness scale, second only to diamond among natural minerals, with excellent toughness and no cleavage, meaning it resists chipping under normal wear. That combination is why it holds up in rings and other jewelry worn daily, per the Gemological Institute of America, though buyers are advised to ask whether a given stone has been heat-treated (common and well accepted in the trade) or treated by less common methods like lattice diffusion or fracture filling, which call for gentler cleaning.",
+          "The most famous source is one that stopped producing decades ago. In 1881, a landslide in the Zanskar range of Kashmir exposed a pocket of velvety cornflower-blue crystals; miners worked the site, later known as the Old Mine, from 1882 to 1887, before the original deposit was worked out. Production from the region has been sporadic ever since, but \"Kashmir blue\" remains the benchmark other sapphires are compared against at auction. Myanmar's Mogok region and Sri Lanka, which has supplied sapphire for more than two millennia, are the other two historically dominant sources; Sri Lanka's milky white \"geuda\" stones can be heat-treated to a rich blue. Thailand's Chanthaburi province isn't a major source itself but is a major cutting and treatment hub for stones mined elsewhere.",
+          "Two sapphires illustrate how far the stone's reputation has traveled: the 62.02-carat Rockefeller Sapphire, mined in Myanmar and acquired in 1934 by John D. Rockefeller Jr. from an Indian maharaja, later recut and reset by Tiffany & Co.; and the 12-carat blue sapphire in the engagement ring first worn by Princess Diana and later given by her son to Kate Middleton. Sapphire is also the gem associated with the 5th and 45th wedding anniversaries."
+        ],
+        "image": {
+          "src": "/images/september-birthstone-sapphire.jpg",
+          "alt": "Three natural sapphire crystals from Sri Lanka and Myanmar, displayed at the San Diego Natural History Museum",
+          "credit": "Photo by Stickpen, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3sapphirecrystals.jpg), public domain"
+        }
+      },
+      {
+        "heading": "A separate mismatch: the zodiac stone for Virgo isn't sapphire either",
+        "body": [
+          "September birthdays mostly fall under Virgo, and it's common to see gemstone sites claim sapphire as \"the\" Virgo zodiac stone, on top of it being the September birthstone. [This calendar's own Virgo dates page](/virgo-dates/) already flagged that retailers can't agree among sapphire, peridot, or carnelian for Virgo's stone, without a governing body behind any of the claims. Kunz's 1913 zodiacal table, the same one behind the \"chrysolite\" note above, actually assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead. Whatever a modern astrology blog says, the older documented Western tradition and the modern monthly birthstone list simply agree on sapphire by coincidence, not because one system was built from the other."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the official September birthstone?",
+        "answer": "Sapphire — the only stone on Jewelers of America's current birthstone list for September, unchanged since the list was first adopted in 1912."
+      },
+      {
+        "question": "Does the September birthstone have to be blue?",
+        "answer": "No. Sapphire covers any color of corundum except red, which is classified as ruby instead. The American Gem Society lists white, pink, orange, yellow, green, violet, purple, and black sapphires as equally valid, along with the rare pinkish-orange padparadscha variety."
+      },
+      {
+        "question": "Has September's birthstone ever changed?",
+        "answer": "Not on the US list. The three revisions since 1912 (1952, 2002, and 2016) added stones to June, November, October, December, and August at various points, but none of them touched September."
+      },
+      {
+        "question": "Is there a different September birthstone in the UK?",
+        "answer": "Yes. Britain's jewelry trade list, revised in 2013, names both sapphire and lapis lazuli for September. The US Jewelers of America list has never included lapis lazuli for September; that stone belongs to December in the American tradition."
+      },
+      {
+        "question": "What is padparadscha sapphire?",
+        "answer": "A rare pinkish-orange variety of sapphire, named after a Sinhala word for lotus flower. Because of its rarity, a padparadscha can sell for more than a blue sapphire of comparable size and clarity."
+      },
+      {
+        "question": "Is sapphire durable enough for an everyday ring?",
+        "answer": "Yes. It ranks 9 on the Mohs hardness scale, second only to diamond among natural minerals, and has no cleavage, meaning it resists chipping under normal wear."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
+      },
+      {
+        "label": "GIA — September Birthstones",
+        "url": "https://www.gia.edu/birthstones/september-birthstones"
+      },
+      {
+        "label": "American Gem Society — September Birthstone",
+        "url": "https://www.americangemsociety.org/birthstones/september-birthstone/"
+      },
+      {
+        "label": "International Gem Society — History of Birthstones",
+        "url": "https://www.gemsociety.org/article/history-of-birthstones/"
+      },
+      {
+        "label": "Wikipedia — Birthstone",
+        "url": "https://en.wikipedia.org/wiki/Birthstone"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      }
+    ],
+    "image": "/images/september-birthstone-sapphire.jpg",
+    "imageAlt": "Three natural sapphire crystals from Sri Lanka and Myanmar, displayed at the San Diego Natural History Museum",
+    "imageCredit": "Photo by Stickpen, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3sapphirecrystals.jpg), public domain"
   }
 ];

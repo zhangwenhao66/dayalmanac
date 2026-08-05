@@ -2048,5 +2048,133 @@ export const guides: Guide[] = [
     "image": "/images/scorpio-dates-uranias-mirror.jpg",
     "imageAlt": "Hand-colored 19th-century star chart of the Scorpio constellation from Urania's Mirror, showing the scorpion against the night sky",
     "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Scorpio.jpg) (1824), via Wikimedia Commons, public domain"
+  },
+  {
+    "slug": "january-birthstone",
+    "category": "Birthstones",
+    "title": "January Birthstone: Garnet, Unchanged Since Before 1912",
+    "description": "Garnet has held January's spot on every birthstone list checked, from a centuries-old tradition through 2019 — the only month in this series where no source disagrees.",
+    "published": "2026-08-06",
+    "updated": "2026-08-06",
+    "coreSummary": "Garnet is January's birthstone on every list checked: a centuries-old tradition, the 1912 US standard, a 2013 UK revision, and a 2019 update all name it, with no rival stone and no revision, an outcome none of DayAlmanac's other birthstone months can claim. Garnet is also not one gem but a mineral group of at least six species spanning nearly every color, including a blue, color-changing variety confirmed only in 1998.",
+    "sections": [
+      {
+        "heading": "The birthstone every list agrees on",
+        "body": [
+          "GIA and Jewelers of America both name exactly one official birthstone for January: garnet. No companion stone, no \"traditional versus modern\" split, no retailer-driven extra the way blue topaz gets marketed alongside [December's three real birthstones](/december-birthstone/). January's entry is just garnet, full stop.",
+          "Wikipedia's own comparison of birthstone lists makes the point more sharply than a single source can. It tracks four separate lists side by side, spanning centuries and two countries: a 15th-to-20th-century tradition, the US list adopted in 1912, a UK revision from 2013, and a US update from 2019. Every other row in that table shows some disagreement somewhere. February's oldest column throws in hyacinth and pearl alongside amethyst. March swaps which stone counts as primary. August picks up spinel in 2016. September's own \"traditional\" column names chrysolite while every modern column says sapphire, the exact split this site already dug into for [September's birthstone](/september-birthstone/). January's row reads, word for word: Garnet, Garnet, Garnet, Garnet. Four systems, four different eras, zero variation.",
+          "The International Gem Society runs an independent \"modern versus traditional\" chart with the same structure, and it lands on the identical answer without citing Wikipedia's table as its source: garnet on both sides, no asterisk."
+        ]
+      },
+      {
+        "heading": "Garnet isn't one gem — it's a family of at least six",
+        "body": [
+          "Most people picture a single deep-red stone when they hear \"garnet.\" GIA's own gemstone encyclopedia corrects that: garnets are a group of more than twenty related mineral species sharing one crystal structure but differing in chemical composition. Only five are common enough to matter commercially — pyrope, almandine, spessartine, grossular, and andradite — plus a sixth, uvarovite, a green garnet whose crystals are usually too small to cut and instead get set as tiny clusters.",
+          "Those species cover most of the color wheel. Pyrope and almandine run purple to orangy red, the shade most people mean by \"garnet.\" Spessartine is orange. Grossular spans colorless through tsavorite's saturated green, and andradite includes demantoid, a rare green variety discovered in Russia's Ural Mountains in 1868 and initially mistaken for emerald. Carl Fabergé later worked demantoid into pieces made for the Russian imperial family, and Tiffany & Co. sent its own gem expert, George Frederick Kunz, the same Kunz whose 1913 zodiac research turns up later on this page, to Russia to buy up demantoid rough. Rhodolite, a pyrope-almandine blend, reads as a distinct pinkish red.",
+          "Tsavorite has its own small piece of trivia that loops back to this site's own December page. A geologist named Campbell Bridges found the green grossular variety in northeastern Tanzania in 1967, in the Merelani Hills, the same slice of ground where a Maasai herder would turn up tanzanite crystals in that same decade. Export from Tanzania stalled, so Bridges traced the same geology across the border into Kenya and found more of it near Tsavo National Park in 1970. Tiffany & Co.'s Henry B. Platt, who had named [December's tanzanite](/december-birthstone/) five years earlier, in 1968, named this stone too, calling it tsavorite after the park in 1973."
+        ],
+        "image": {
+          "src": "/images/january-birthstone-tsavorite.jpg",
+          "alt": "Vivid green tsavorite garnet crystal on matrix from the Merelani Hills, Tanzania",
+          "credit": "Photo by Lech Darski, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Granat._grossular,tsaworyt_(Tsavorite)_-_Merelani_Hills,_Arusha_Region,_Tanzania.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "The blue garnet that wasn't supposed to exist",
+        "body": [
+          "For decades, gemologists treated blue as the one color garnet's chemistry couldn't produce. The mineral's structure was thought to preclude the exact kind of light absorption needed to read as blue to the eye, no matter which species or trace element was involved.",
+          "That held until 1998, when a genuinely blue, color-changing garnet turned up at Bekily, in southern Madagascar, and GIA's own research journal, Gems & Gemology, documented it in a Winter 1999 paper by Karl Schmetzer and coauthors. The stone is mostly a pyrope-spessartine mix carrying roughly 1% vanadium oxide, and that vanadium is what drives the effect: greenish-blue in daylight, shifting to purple under incandescent light, the same alexandrite-style color change that makes June's birthstone famous. Two decades on, Bekily remains close to the only commercial source for it, which puts January in the same position as December: a birthstone family whose newest, rarest member still traces back to one deposit."
+        ]
+      },
+      {
+        "heading": "Where the name — and the whole custom — actually come from",
+        "body": [
+          "\"Garnet\" traces to Medieval Latin granatum, \"pomegranate,\" by way of Old French grenate, \"seed-like\" — a nod to how the stone's small, glassy crystals resemble pomegranate seeds. The name has been in continuous use since the 14th century, roughly five hundred years before any trade group standardized a birthstone list.",
+          "The idea of tying twelve stones to twelve months goes back further still, and it's shakier than most calendar pages let on. The first-century historian Josephus connected the twelve stones on the biblical high priest's breastplate to the twelve months and the twelve zodiac signs, but Josephus himself recorded two different lists for those twelve stones in his own writing, and centuries of translators have disagreed about what he meant ever since. Gemologist George Frederick Kunz later argued Josephus was actually describing a later, Second Temple breastplate rather than the original one from Exodus, a detail modern retellings routinely skip.",
+          "Even the modern habit of wearing one birthstone per month is younger, and more contested, than it looks. Kunz places its start in 18th-century Poland; GIA instead traces it to Germany in the 1560s. Wikipedia's own summary of the history doesn't pick a side between them. What is settled is the 1912 meeting: the American National Retail Jewelers Association gathered in Kansas City that August and adopted the first standardized US list, garnet included, the same meeting already covered on [December's birthstone page](/december-birthstone/). At least one historian was unimpressed by the whole exercise, dismissing the 1912 list outright as \"nothing but a piece of unfounded salesmanship.\" Garnet's slot in it, unlike several other months, has simply never needed to be revised since."
+        ]
+      },
+      {
+        "heading": "Three thousand years of red stones, before any list existed",
+        "body": [
+          "Garnet didn't need a 1912 committee to matter. GIA's own history of the stone notes that red garnet necklaces were buried with Egyptian pharaohs as possessions for the afterlife, and that ancient Romans carved garnet into signet rings used to stamp wax seals on official documents. Under the loose ancient name \"carbuncle,\" applied to almost any glowing red stone, garnet was, per the Roman scholar Pliny writing around 23–79 AD, already one of the more widely traded gems of his era.",
+          "A second wave of garnet's history runs through Central Europe. Deposits discovered around 1500 in what's now the Czech Republic gave rise to a regional cutting industry, using the deep-red pyrope now traded under the name \"Bohemian garnet,\" that reached its peak in the late 1800s, squarely inside the Victorian era, when garnet jewelry covered in small rose-cut stones was in heavy fashion. The Smithsonian's National Museum of Natural History holds an antique pyrope hairpin from that same tradition."
+        ]
+      },
+      {
+        "heading": "Aquarius or Capricorn? The zodiac table disagrees with most retail sites",
+        "body": [
+          "Plenty of modern jewelry and astrology sites state flatly that Capricorn's zodiac birthstone is garnet. Checking that claim against the actual historical source, the same 1913 Kunz zodiac table, reproduced on Wikipedia, that this site already checked for [September's zodiac-stone claim](/september-birthstone/), tells a different story. That table assigns garnet to Aquarius (January 20 to February 18), not Capricorn. Capricorn (December 22 to January 19), in the same table, gets ruby instead.",
+          "It's the same pattern this site has already run into: September's popularly claimed Virgo sapphire turned out to be carnelian in Kunz's actual table, and Britannica's Scorpio start date turns out to sit a day off from every other reference on an unrelated question of tropical-zodiac dates. Retail sites tend to repeat each other rather than check the primary table, and garnet's zodiac sign is a third case of the repeated version drifting from the documented one."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is January's birthstone?",
+        "answer": "Garnet — the only birthstone GIA and Jewelers of America list for the month, with no companion or alternate stone the way several other months carry."
+      },
+      {
+        "question": "Has January's birthstone ever been changed or revised?",
+        "answer": "No. Wikipedia's comparison of four separate birthstone lists — a centuries-old tradition, the 1912 US standard, a 2013 UK list, and a 2019 US update — names garnet in every single column with no variation, an outcome no other month in that comparison matches."
+      },
+      {
+        "question": "Is garnet always red?",
+        "answer": "No. It's a mineral group of at least six commercially relevant species covering nearly every color, from spessartine's orange to tsavorite's saturated green. A genuinely blue, color-changing garnet wasn't documented until a 1998 find in Bekily, Madagascar."
+      },
+      {
+        "question": "How durable is garnet for everyday jewelry?",
+        "answer": "Garnet ranges from 6.5 to 7.5 on the Mohs hardness scale depending on the species, according to GIA — durable enough for daily wear, though it can still be scratched by harder stones like diamond or sapphire."
+      },
+      {
+        "question": "Where does the word \"garnet\" come from?",
+        "answer": "From Medieval Latin granatum, \"pomegranate,\" by way of Old French grenate, \"seed-like,\" a reference to the stone's resemblance to pomegranate seeds. The name has been in use since the 14th century."
+      },
+      {
+        "question": "Is garnet Capricorn's zodiac birthstone?",
+        "answer": "Depends on the source. Many modern sites say so, but the historical zodiac table traced to gemologist George Kunz's 1913 work, reproduced on Wikipedia, assigns garnet to Aquarius instead. In that same table, Capricorn's stone is ruby."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GIA — January Birthstone",
+        "url": "https://www.gia.edu/birthstones/january-birthstones"
+      },
+      {
+        "label": "GIA — Garnet Description",
+        "url": "https://www.gia.edu/garnet-description"
+      },
+      {
+        "label": "GIA — Garnet History and Lore",
+        "url": "https://www.gia.edu/garnet-history-lore"
+      },
+      {
+        "label": "GIA Gems & Gemology — Garnets from Madagascar with a Color Change of Blue-Green to Purple",
+        "url": "https://www.gia.edu/gems-gemology/winter-1999-color-change-garnets-madagascar-schmetzer"
+      },
+      {
+        "label": "International Colored Gemstone Association — Tsavorite",
+        "url": "https://www.gemstone.org/tsavorite"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      },
+      {
+        "label": "Wikipedia — Birthstone",
+        "url": "https://en.wikipedia.org/wiki/Birthstone"
+      },
+      {
+        "label": "International Gem Society — Birthstone Chart",
+        "url": "https://www.gemsociety.org/article/birthstone-chart/"
+      },
+      {
+        "label": "Etymonline — Garnet",
+        "url": "https://www.etymonline.com/word/garnet"
+      }
+    ],
+    "image": "/images/january-birthstone-garnet.jpg",
+    "imageAlt": "Raw dodecahedral almandine garnet crystal embedded in light-colored matrix rock",
+    "imageCredit": "Photo by Eurico Zimbres and Tom Epaminondas, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Almandine.jpeg), CC BY-SA 2.0"
   }
 ];

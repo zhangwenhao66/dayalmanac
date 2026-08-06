@@ -32,5 +32,17 @@
       "https://dayalmanac.com/march-birthstone/"
     ],
     "quota_used": "2 requests this run (round 1 and round 2)"
+  },
+  {
+    "date": "2026-08-06",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（scorpio-dates/january-birthstone，见内容发布日志.md；national-sons-day为同日审计更新非新发布）。第一轮取scorpio-dates已'URL is on Google'（自然收录，未消耗配额），改提交january-birthstone（URL is not on Google）成功。第二轮因Chrome扩展断连未能到达本站，队列后续候选本次未检查。",
+    "submitted_urls": [
+      "https://dayalmanac.com/january-birthstone/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/scorpio-dates/"
+    ],
+    "quota_used": "1 request this run (round 1 only; round 2 not reached due to Chrome extension disconnect)"
   }
 ]

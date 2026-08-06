@@ -279,6 +279,10 @@ export const guides: Guide[] = [
         "answer": "National Boyfriend Day is October 3 every year. The date is fixed and does not move to a weekend or shift by weekday."
       },
       {
+        "question": "What day of the week is National Boyfriend Day in 2026 and 2027?",
+        "answer": "October 3 falls on a Saturday in 2026 and a Sunday in 2027. The date itself never changes — National Boyfriend Day is always October 3 — only the weekday it lands on shifts from year to year."
+      },
+      {
         "question": "Who created National Boyfriend Day?",
         "answer": "No one knows, and no source can document it. Nobody is named as its founder, no organization registered it, and no proclamation exists. National Day Calendar says the origin remains a mystery and that it is still researching. Dictionary.com attributes the day to unnamed Twitter users in October 2012, while National Today says the earliest reference it found was probably dated October 4, 2014. Those accounts are two years apart and neither identifies a person."
       },

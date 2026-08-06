@@ -11,7 +11,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "node --test \"tools/**/*.test.mjs\""
+    "test": "node --test \"tools/**/*.test.mjs\" \"src/lib/*.test.ts\""
   },
   "dependencies": {
     "@astrojs/mdx": "5.0.4",

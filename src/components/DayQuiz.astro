@@ -1,0 +1,198 @@
+---
+// "True or false?" quiz island for observance/birthstone/zodiac claims -- same "logic
+// function + thin UI wrapper" split as DateTable.astro and the WarCrumbs/MythCairn/
+// Hollowvane/UmberLore myth-quiz islands, no Preact/React/Vue dependency added.
+//
+// Why this exists: an AI Overview can answer "is National Cat Day the same as
+// International Cat Day" in one sentence, so a visitor never needs to click through. A
+// quiz that requires picking an answer before the verdict + explanation appear can't be
+// resolved that way -- see 日期真假判断题-实施方案_20260806.md. DayAlmanac and LingoGrove
+// were the only two traffic-matrix sites with zero interactive element as of 2026-08-06.
+//
+// The full item deck is serialized into a data-* attribute at build time (server-only
+// module state doesn't exist client-side), and pickQuizSet(...) -- the pure, unit-tested
+// function in src/lib/dayQuiz.ts -- runs in the browser to draw this visitor's set so
+// repeat visits don't always see the same items in the same order.
+import { dayQuizItems } from '../data/dayQuiz';
+
+interface Props {
+	/** How many items to draw into a single play-through. */
+	count?: number;
+}
+
+const { count = 12 } = Astro.props;
+const deckJson = JSON.stringify(dayQuizItems);
+---
+
+<div class="day-quiz" data-deck={deckJson} data-count={count}>
+	<div id="day-quiz-progress" class="mb-4 flex items-center justify-between text-xs font-semibold uppercase tracking-[0.12em] text-[var(--ink)]/50">
+		<span id="day-quiz-position">Question 1 of 12</span>
+		<span id="day-quiz-score">Score: 0</span>
+	</div>
+
+	<div id="day-quiz-card" class="leaf px-6 py-6">
+		<p class="rubric m-0">True or false?</p>
+		<p id="day-quiz-claim" class="font-display m-0 mt-3 text-xl font-semibold leading-snug text-[var(--ink)]">&nbsp;</p>
+
+		<div id="day-quiz-choices" class="mt-5 flex flex-col gap-2.5 sm:flex-row">
+			<button
+				type="button"
+				data-choice="true"
+				class="day-quiz-choice-btn flex-1 rounded-[6px] border border-[var(--rule)] px-4 py-3 text-sm font-semibold uppercase tracking-wide text-[var(--ink)]/70 transition-colors hover:border-[var(--flag)] hover:text-[var(--flag-dark)]"
+			>
+				True
+			</button>
+			<button
+				type="button"
+				data-choice="false"
+				class="day-quiz-choice-btn flex-1 rounded-[6px] border border-[var(--rule)] px-4 py-3 text-sm font-semibold uppercase tracking-wide text-[var(--ink)]/70 transition-colors hover:border-[var(--flag)] hover:text-[var(--flag-dark)]"
+			>
+				False
+			</button>
+		</div>
+
+		<div id="day-quiz-reveal" class="mt-5" hidden>
+			<p id="day-quiz-verdict" class="font-display m-0 text-base font-bold"></p>
+			<p id="day-quiz-explanation" class="mt-2 mb-0 text-sm leading-relaxed text-[var(--ink)]/75"></p>
+			<a id="day-quiz-source-link" href="#" class="mt-3 inline-block text-sm font-semibold text-[var(--flag-dark)] no-underline hover:underline">Read the full story &rarr;</a>
+			<div class="mt-5">
+				<button id="day-quiz-next" type="button" class="rounded-[6px] border border-[var(--rule)] px-4 py-2 text-xs font-semibold uppercase tracking-wide text-[var(--ink)]/70 hover:border-[var(--flag)] hover:text-[var(--flag-dark)]">
+					Next question &rarr;
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<div id="day-quiz-done" class="panel mt-6 rounded-[10px] px-6 py-6 text-center" hidden>
+		<p class="rubric m-0">Round complete</p>
+		<p id="day-quiz-final-score" class="font-display m-0 mt-2 text-2xl font-bold text-[var(--ink)]"></p>
+		<button id="day-quiz-restart" type="button" class="mt-4 rounded-[6px] border border-[var(--rule)] px-4 py-2 text-xs font-semibold uppercase tracking-wide text-[var(--ink)]/70 hover:border-[var(--flag)] hover:text-[var(--flag-dark)]">
+			Play again with a new set &rarr;
+		</button>
+	</div>
+</div>
+
+<script>
+	import { pickQuizSet, renderInlineMarkdown } from '../lib/dayQuiz';
+	import type { DayQuizItem } from '../data/dayQuiz';
+
+	document.querySelectorAll<HTMLElement>('.day-quiz').forEach((root) => {
+		const deckRaw = root.dataset.deck;
+		if (!deckRaw) return;
+		const deck: DayQuizItem[] = JSON.parse(deckRaw);
+		const count = Number(root.dataset.count) || 12;
+
+		const positionEl = root.querySelector<HTMLElement>('#day-quiz-position');
+		const scoreEl = root.querySelector<HTMLElement>('#day-quiz-score');
+		const claimEl = root.querySelector<HTMLElement>('#day-quiz-claim');
+		const choicesEl = root.querySelector<HTMLElement>('#day-quiz-choices');
+		const revealEl = root.querySelector<HTMLElement>('#day-quiz-reveal');
+		const verdictEl = root.querySelector<HTMLElement>('#day-quiz-verdict');
+		const explanationEl = root.querySelector<HTMLElement>('#day-quiz-explanation');
+		const sourceLinkEl = root.querySelector<HTMLAnchorElement>('#day-quiz-source-link');
+		const nextBtn = root.querySelector<HTMLButtonElement>('#day-quiz-next');
+		const cardEl = root.querySelector<HTMLElement>('#day-quiz-card');
+		const doneEl = root.querySelector<HTMLElement>('#day-quiz-done');
+		const finalScoreEl = root.querySelector<HTMLElement>('#day-quiz-final-score');
+		const restartBtn = root.querySelector<HTMLButtonElement>('#day-quiz-restart');
+		const choiceButtons = root.querySelectorAll<HTMLButtonElement>('.day-quiz-choice-btn');
+
+		if (
+			!positionEl || !scoreEl || !claimEl || !choicesEl || !revealEl || !verdictEl ||
+			!explanationEl || !sourceLinkEl || !nextBtn || !cardEl || !doneEl || !finalScoreEl || !restartBtn
+		) {
+			return;
+		}
+
+		let set: DayQuizItem[] = [];
+		let index = 0;
+		let score = 0;
+		let answered = false;
+
+		function startRound() {
+			set = pickQuizSet(deck, count);
+			index = 0;
+			score = 0;
+			answered = false;
+			doneEl!.hidden = true;
+			cardEl!.hidden = false;
+			showQuestion();
+		}
+
+		function showQuestion() {
+			const item = set[index];
+			answered = false;
+			positionEl!.textContent = `Question ${index + 1} of ${set.length}`;
+			scoreEl!.textContent = `Score: ${score}`;
+			claimEl!.textContent = item.claim;
+			choicesEl!.hidden = false;
+			revealEl!.hidden = true;
+			choiceButtons.forEach((btn) => {
+				btn.disabled = false;
+				btn.classList.remove('day-quiz-choice-correct', 'day-quiz-choice-wrong');
+			});
+		}
+
+		function handleChoice(choiceIsTrue: boolean) {
+			if (answered) return;
+			answered = true;
+
+			const item = set[index];
+			const correct = choiceIsTrue === item.verdict;
+			if (correct) score += 1;
+
+			choiceButtons.forEach((btn) => {
+				btn.disabled = true;
+				const btnIsTrue = btn.dataset.choice === 'true';
+				if (btnIsTrue === item.verdict) btn.classList.add('day-quiz-choice-correct');
+				else if (btnIsTrue === choiceIsTrue) btn.classList.add('day-quiz-choice-wrong');
+			});
+
+			verdictEl!.textContent = correct
+				? item.verdict
+					? 'Correct — this is true.'
+					: 'Correct — this is false.'
+				: item.verdict
+					? 'Not quite — this is true.'
+					: 'Not quite — this is false.';
+			verdictEl!.style.color = correct ? 'var(--flag-dark)' : 'var(--ink)';
+			explanationEl!.innerHTML = renderInlineMarkdown(item.explanation);
+			sourceLinkEl!.href = `/${item.sourceSlug}/`;
+			sourceLinkEl!.textContent = `Read the full story: ${item.sourceTitle} →`;
+
+			scoreEl!.textContent = `Score: ${score}`;
+			revealEl!.hidden = false;
+		}
+
+		function nextQuestion() {
+			index += 1;
+			if (index >= set.length) {
+				cardEl!.hidden = true;
+				doneEl!.hidden = false;
+				finalScoreEl!.textContent = `${score} / ${set.length} correct`;
+				return;
+			}
+			showQuestion();
+		}
+
+		choiceButtons.forEach((btn) => {
+			btn.addEventListener('click', () => handleChoice(btn.dataset.choice === 'true'));
+		});
+		nextBtn!.addEventListener('click', nextQuestion);
+		restartBtn!.addEventListener('click', startRound);
+
+		startRound();
+	});
+</script>
+
+<style>
+	.day-quiz-choice-correct {
+		border-color: var(--flag) !important;
+		background-color: color-mix(in srgb, var(--flag) 10%, transparent);
+		color: var(--flag-dark) !important;
+	}
+	.day-quiz-choice-wrong {
+		border-color: var(--ink) !important;
+		opacity: 0.55;
+	}
+</style>

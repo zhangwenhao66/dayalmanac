@@ -43,5 +43,50 @@
     ],
     "actions_taken": "无表单提交，无pitch邮件起草——本轮6个候选渠道全部不满足\"真实+开放+主题匹配\"三重标准（2个是疑似content farm/主题不符、2个无公开投稿入口、1个明确关站、1个政策性排除商业站点），未进入起草/提交环节。",
     "result_summary": "0/6 channels viable this round. Observance-day/national-day这个细分利基的guest-post环境比预期更差：真正的大站（National Day Calendar、National Today、Days of the Year）要么是直接竞品不太可能反向导流，要么其教育/职场衍生子站没有开放投稿口；中小型独立博客里跟主题最贴近的两个（Saving Talents、Childhood101）分别是暂时关站和政策性排除商业站点；剩下能搜到的\"write for us\"多是通用guest-post-farm聚合站（如nationaldaytoday.us），拿到的反链质量存疑且可能强化'observance内容=营销/垃圾'的负面观感，与项目对这一风险的既有警惕一致。下次调研建议换方向：(1) 定期复查Saving Talents是否重新开放投稿；(2) 尝试resource-page link building（面向教师/HR的holiday calendar列表页，走'建议收录'而非guest post）；(3) 结合已发布的7篇observance深度考据文章（起源可验证性、日期规则冲突等angle），针对fact-checking/misinformation类媒体或trivia类媒体单独调研一轮。"
+  },
+  {
+    "date": "2026-08-06",
+    "site": "dayalmanac",
+    "niche_focus": "holidays / observance days / date-authority (national days, \"when is X\", birthstone & zodiac series, awareness months, deadline calendars)",
+    "channels_researched": [
+      {
+        "name": "Saving Talents — Guest Post Opportunities (rechecked per prior-round note)",
+        "url": "https://savingtalents.com/guest-posts/",
+        "status": "still closed — rechecked, no change",
+        "notes": "复查确认页面仍三次写着\"We are not currently accepting guest posts\"，与2026-08-04首次检查时状态相同，未重新开放。"
+      },
+      {
+        "name": "Twello (trytwello.com) — HR awareness-days blog, direct contact page",
+        "url": "https://trytwello.com/contact-us/",
+        "status": "confirmed no editorial channel — not pursued",
+        "notes": "上一轮只查了首页/footer没找到投稿入口；本轮直接打开contact-us页面确认：整页是\"Get An Instant Quote For Your Team\"销售询价表单（企业wellness课程销售线索收集），没有任何编辑/内容联系方式。坐实上一轮\"无开放投稿渠道\"的结论，不追加尝试。"
+      },
+      {
+        "name": "Mental Floss — How to Pitch a Story",
+        "url": "https://www.mentalfloss.com/article/625670/how-to-pitch-mental-floss",
+        "status": "real and open, but wrong channel type — not pursued",
+        "notes": "读了完整投稿指南：这是招募个人自由撰稿人的付费约稿渠道（要求作品集/过往发表链接、稿费面议后才动笔、编辑自己写文章而非我们投递现成内容换链接），本质是\"Owen以个人身份接活写稿\"而不是\"代表DayAlmanac做内容合作换反链\"。跟本任务的\"代表网站发起外链推广\"模型不匹配，即便National Sons Day两个日期互相打架的调研角度本身很适合他们的feature/list栏目，也不适合自动化外链任务处理，不追加尝试。"
+      },
+      {
+        "name": "Today I Found Out — Write for Us",
+        "url": "https://todayifoundout.com/index.php/write-for-us/",
+        "status": "real and open, but explicitly excludes link-building — not pursued",
+        "notes": "页面用大写加粗明确写\"We do NOT accept guest posts, nor will we post your... article... in exchange for link backs or any such thing\"，且接受的文章版权全部转移给站方（不署名反链）。与Mental Floss同属付费自由撰稿人渠道而非网站间外链合作，且该站明确排除了反链换稿这个动机本身，直接排除。"
+      },
+      {
+        "name": "Keep Indiana Learning — \"Month By Month Magic\" blog post (Abigail Carter, July 22 2026)",
+        "url": "https://keepindianalearning.org/month-by-month/",
+        "status": "real nonprofit educator site — factual date-correction pitch drafted, reviewed, and sent",
+        "notes": "Central Indiana Educational Service Center旗下面向教师的专业发展团队，真实机构+具名撰稿人，非content farm。核对发现文章9月条目把National Grandparents Day标成9月8日，但2026年实际是9月13日（36 U.S.C. § 125规定'Labor Day后的第一个周日'而非'9月的第一个周日'，两者只在9月1日恰逢周一时重合；2026年Labor Day是9月7日）；9月8日在2026年甚至不是周日，是可核实的具体错误。以此为由起草了礼貌的更正邮件，引用DayAlmanac已发布的National Grandparents Day页面（含36 U.S.C. §125源引用+2031年前逐年对照表）作为可核对的来源，过了humanizer后发给独立审核agent。审核agent独立核实了：全账号无该收件人14天内联系记录、36 U.S.C. §125条文与Labor Day/Grandparents Day日期换算数学关系、DayAlmanac页面确实在线、邮件语气非模板化，判定\"can send\"。已实际发信。"
+      },
+      {
+        "name": "Awareness Days (awarenessdays.com) — \"Add an Event\" calendar listing",
+        "url": "https://www.awarenessdays.com/add-an-event/",
+        "status": "poor fit independent of access issue — not pursued",
+        "notes": "站点被Cloudflare bot-check拦截（\"Just a moment...\"跳转），未强行绕过。但即便能访问，搜索结果显示这是付费活动/日历上刊服务（homepage slider套餐等），本质是营销刊登平台而非编辑型资源页；DayAlmanac的文章覆盖的是已存在的知名节日（不是要\"新增一个活动\"），跟该站\"Add an event\"的产品定位不匹配，即使无CAPTCHA问题也大概率不会追加尝试，因此不计入OWEN_TODO。"
+      }
+    ],
+    "actions_taken": "6个渠道调研（2个是复查/坐实上轮结论，4个是新查）。其中Keep Indiana Learning一条基于真实、可核实的日期错误（他们博客把National Grandparents Day 2026错标成9月8日，实际9月13日）起草了更正邮件，过humanizer后交独立agent复核（含反查14天内联系记录、独立核实统计/法条数学、确认落地页存活），复核结论can send，已实际发送。其余5个渠道分别因为：仍关闭(Saving Talents)、坐实无编辑联系方式(Twello)、渠道类型是付费自由撰稿人约稿而非网站间外链合作(Mental Floss、Today I Found Out)、CAPTCHA拦截+即便能访问也是付费营销刊登平台而非编辑资源页(Awareness Days)——均未提交表单/未发信。",
+    "result_summary": "1/6 channels viable and actioned this round(1封更正邮件已发出)，是该细分利基自2026-08-04首次调研以来第一次真正落地的外链推广动作。关键转折是把\"猜测性研究报道pitch\"换成\"针对已发布内容里可核实的具体日期错误做更正\"——后者不依赖编辑主观判断\"是否值得报道\"，只需要对方确认事实并顺手引用来源，成功率结构性更高。也验证了本轮任务点3提到的\"教师/HR受众resource page\"方向确实存在真实、非content-farm的目标（Keep Indiana Learning），但真正的杠杆不是笼统的\"建议收录\"，而是DayAlmanac深度考据文章天然具备的\"能挑出别人日期错误\"能力——National Sons Day(两个日期互相矛盾)、National Dog Day(两个起源故事不一致)等其余8篇observance文章大概率也能在其他日历类网站上找到类似可核实错误，值得下一轮系统性排查而不是逐个偶然发现。Mental Floss/Today I Found Out确认了\"付费自由撰稿人约稿\"和\"网站间外链交换\"是两类不同渠道，不能用同一套自动化流程处理，后续如果Owen想以个人身份给这类媒体投稿换取文中引用DayAlmanac，需要单独决策(见OWEN_TODO)。"
   }
 ]

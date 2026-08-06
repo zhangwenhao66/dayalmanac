@@ -6,6 +6,13 @@
       "question_url": "https://www.quora.com/What-is-the-significance-of-October-3rd-in-Mean-Girls-among-fans-of-the-movie/answer/Owen-Zhang-161",
       "question_title": "What is the significance of October 3rd in 'Mean Girls' among fans of the movie?",
       "notes": "DayAlmanac首次外链建设。目标文章核心论点是National Boyfriend Day(10月3日)起源无从查证，且10月3日同时是Mean Girls Day，两者共用同一天。没有直接搜到问National Boyfriend Day起源的好问题(相关问题要么在dealzone.quora.com这种垃圾Space下，要么长期0答案但问题措辞本身混乱)，改用与站内文章直接相关的Mean Girls Day问题：该问题发布前仅1个真实答案，只解释了电影台词本身(Cady Heron/Aaron Samuels那场戏)，没有提及这个梗在网上何时开始被过节日化、也没提及它跟同一天的National Boyfriend Day有何关系。以站内文章骨架撰写(电影台词原文、粉丝自发标记始于约2011年、Dictionary.com关于'Boyfriend Day蹭Mean Girls Day同一天热度'的推测性解读)。额外用WebSearch找到站内原文没有的真实增量事实：2023年Paramount在新版电影上映前，把整部《贱女孩》拆成23段免费发布在TikTok上，专门选在10月3日当天，媒体报道称这是大型电影公司首次以这种方式把完整电影放上该平台——这是Mean Girls Day从纯粹网友自发行为第一次获得片方官方层面呼应的具体时间点和细节，站内文章没有提到这一点。过humanizer skill检查，确认无破折号、无三段式列举结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。已直接发布成功(非Space类问题)，发布后用javascript_tool核实渲染页面上确实是<a href>真实超链接。⚠️遵守流量站清单.md对本站的专属提醒：观察日内容易被视为营销，回答内容全程保持怀疑/事实核查视角，不带任何'快去庆祝'式营销语气。"
+    },
+    {
+      "date": "2026-08-06",
+      "target_page": "https://dayalmanac.com/scorpio-dates/",
+      "question_url": "https://www.quora.com/How-many-constellations-does-the-Sun-move-every-day/answer/Owen-Zhang-161",
+      "question_title": "How many constellations does the Sun move every day?",
+      "notes": "尝试多个National Sons Day相关搜索词(谁创立/9月28日是否属实等)均零结果或无关，改用scorpio-dates文章的天文角度。发布时该问题有2个真实答案(前专业天文教授Thomas Wm. Hamilton给出准确数字8天，另一条也认同但更简短)，数字都对但都没解释'为什么'只有8天、也没连到占星学Scorpio日期争议这个更实用的延伸问题，判定为方向对但缺深度解释的空白，回答开头先认可两条现有答案。以站内文章骨架撰写(黄道十二宫在天文学上不是均分：Scorpius被蛇夫座Ophiuchus挤压，太阳每年12月要在蛇夫座停留约18天，这个真实存在的第十三个星座在黄道十二宫系统被正式确立时就被排除在外，太阳离开天蝎座后立刻进入蛇夫座地界，把天蝎座的实际天文学窗口压缩到约8天；西方回归黄道占星的'天蝎座'是完全不同的东西，从春分点起算的30度等分弧决定10/23-11/21这个日期，跟头顶实际星座位置无关；印度恒星黄道占星用不同参照点，把对应的'天蝎座'整体推后约一个月到11月中-12月中)。过humanizer skill检查，确认无破折号、无三段式列举、无负向排比结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布后用javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/scorpio-dates/。"
     }
   ],
   "reddit": []

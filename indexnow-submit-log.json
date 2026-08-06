@@ -9,7 +9,8 @@
   "https://dayalmanac.com/national-boyfriend-day/": {
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
-    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin."
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin.",
+    "last_submitted_date": "2026-08-06"
   },
   "https://dayalmanac.com/national-cat-day/": {
     "submitted_date": "2026-08-03",
@@ -67,6 +68,11 @@
     "verified_status": "pending"
   },
   "https://dayalmanac.com/red-ribbon-week/": {
+    "submitted_date": "2026-08-06",
+    "last_submitted_date": "2026-08-06",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/true-or-false/": {
     "submitted_date": "2026-08-06",
     "last_submitted_date": "2026-08-06",
     "verified_status": "pending"

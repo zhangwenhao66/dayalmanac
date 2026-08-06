@@ -2184,5 +2184,138 @@ export const guides: Guide[] = [
     "image": "/images/january-birthstone-garnet.jpg",
     "imageAlt": "Raw dodecahedral almandine garnet crystal embedded in light-colored matrix rock",
     "imageCredit": "Photo by Eurico Zimbres and Tom Epaminondas, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Almandine.jpeg), CC BY-SA 2.0"
+  },
+  {
+    "slug": "red-ribbon-week",
+    "category": "Observances",
+    "title": "Red Ribbon Week: October 23–31 Every Year, and Who Actually Runs It",
+    "description": "Red Ribbon Week runs October 23–31 every year, fixed dates set by the National Family Partnership. The DEA supports and promotes it but did not found or organize it.",
+    "updated": "2026-08-06",
+    "coreSummary": "Red Ribbon Week is observed on fixed calendar dates, October 23 through October 31, every year in the United States. It began as a grassroots tribute to DEA Special Agent Enrique \"Kiki\" Camarena after his 1985 murder, but the annual national campaign has been organized every year since 1988 by the nonprofit National Family Partnership, not by the DEA itself.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Red Ribbon Week runs from October 23 through October 31 every year, a fixed nine-day span on the calendar not tied to a particular weekday or a \"last week of the month\" rule. The National Family Partnership (NFP), the nonprofit that has organized the National Red Ribbon Campaign annually since 1988, sets these exact dates, and the DEA's own program pages state the same October 23–31 range. The table below lists October 23, the starting date, for each year; the observance runs through October 31 in every case.",
+      "source": {
+        "label": "DEA — Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
+        "url": "https://www.getsmartaboutdrugs.gov/rrw"
+      },
+      "occurrences": [
+        { "date": "2026-10-23", "weekday": "Friday" },
+        { "date": "2027-10-23", "weekday": "Saturday" },
+        { "date": "2028-10-23", "weekday": "Monday" },
+        { "date": "2029-10-23", "weekday": "Tuesday" },
+        { "date": "2030-10-23", "weekday": "Wednesday" },
+        { "date": "2031-10-23", "weekday": "Thursday" }
+      ],
+      "caveat": "DEA's own history page calls Red Ribbon Week \"an 8-day celebration,\" even though the October 23–31 range it cites in the same paragraph spans nine calendar days inclusive, a minor inconsistency in the agency's own material that is flagged here rather than silently corrected. Some secondary sources describe the observance loosely as \"the last week of October,\" which is imprecise: the dates are fixed to October 23 and October 31 specifically, so the span can start and end on any day of the week depending on the year, not on a floating weekly boundary."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Red Ribbon Week traces to the 1985 murder of DEA Special Agent Enrique \"Kiki\" Camarena. On February 7, 1985, at 2:00 p.m., Camarena left the American Consulate in Guadalajara, Mexico to meet his wife for lunch; he had spent four and a half years undercover tracking Mexican drug traffickers and was due to be reassigned in three weeks. Five men forced him into a beige Volkswagen outside the consulate. His body was found on March 5 on a ranch outside Zamora, Mexico, roughly 60 miles from Guadalajara; an autopsy found he had been tortured and beaten. He was returned to the United States for burial three days later.\n\nCongressman Duncan Hunter, a member of the House Select Committee on Narcotics Abuse and Control, and Henry Lozano, Camarena's high school friend and the director of the drug-prevention group Teen Challenge, met after his death to organize \"Camarena Clubs\" in the El Cajon, California area. The first club started April 20, 1985, at Calexico Union High School, Camarena's own alma mater and class of 1968. The following week, club members and Congressman Hunter's wife, Lynne, presented First Lady Nancy Reagan with a \"Camarena Club Proclamation.\" That summer, the Virginia Federation of Parents and the Illinois Drug Education Alliance called on Americans nationally to wear red ribbons in his memory.\n\nThe national campaign became an annual event in 1988, when the National Family Partnership (NFP), a nonprofit founded in 1980 as the National Federation of Parents for Drug-Free Youth, coordinated the first National Red Ribbon Week, described by the DEA as an \"8-day celebration\" proclaimed by Congress with President and Mrs. Reagan serving as honorary chairpersons. NFP, headquartered in Miami and long led by Peggy B. Sapp, has run the campaign every year since, including its annual student theme contest.\n\nA caution on sources: Wikipedia's account of this history places the presentation to Nancy Reagan in 1986 and the Virginia/Illinois ribbon-wearing campaign \"the following year,\" in \"late March and April.\" The DEA's own current history page places both events within 1985 instead: the proclamation the week after the April 20, 1985 club launch, and the ribbon-wearing campaign that same summer. The two accounts describe the same sequence of events roughly a year apart. This page follows the DEA's own institutional history over the secondary account, but the discrepancy is unresolved rather than silently corrected.",
+      "source": {
+        "label": "DEA — Red Ribbon Week History (Get Smart About Drugs)",
+        "url": "https://www.getsmartaboutdrugs.gov/get-involved/red-ribbon-week-history"
+      }
+    },
+    "sections": [
+      {
+        "heading": "Fixed dates, not a floating week",
+        "body": [
+          "Red Ribbon Week is anchored to two specific calendar dates, October 23 and October 31, rather than to a weekday-based rule like \"the fourth Thursday in November.\" That makes it simpler to compute than most observances on this calendar, since there is no nth-weekday arithmetic involved, but it also means the nine-day span lands on different days of the week every year and always swallows at least one full weekend. In 2026 it runs Friday the 23rd through Saturday the 31st; in 2028 it runs Monday through Tuesday of the following week.",
+          "Both organizations connected to the observance state the same range. The DEA's public program page reads simply \"RED RIBBON WEEK is Celebrated Annually October 23-31,\" and the National Family Partnership, the nonprofit that has run the national campaign since 1988, uses the identical dates in its own materials and annual theme announcements. Neither organization has shifted the range in recent years: 2025 and 2026 both ran October 23–31, which is why this page treats the rule as a settled fixed date rather than a loosely kept convention."
+        ]
+      },
+      {
+        "heading": "The murder that started it",
+        "body": [
+          "Enrique \"Kiki\" Camarena was a Drug Enforcement Administration special agent stationed in Guadalajara, Mexico, where he had spent more than four years working undercover against the country's marijuana and cocaine trafficking networks. His work had traced a lead to a multi-billion-dollar drug operation, and he was three weeks from a reassignment out of Mexico when, on February 7, 1985, he left the American Consulate to meet his wife for lunch. Five men forced him into a car outside the consulate; he was not seen again until his body was recovered on March 5 at a ranch outside Zamora, roughly 60 miles away. An autopsy found he had been tortured before he died.",
+          "The killing drew national press attention in the United States, and the response began almost immediately in Camarena's own community. Congressman Duncan Hunter, who sat on the House Select Committee on Narcotics Abuse and Control, and Henry Lozano, a childhood friend of Camarena's who ran the counseling group Teen Challenge, organized student groups called Camarena Clubs. The first opened on April 20, 1985, at Calexico Union High School in California, the school Camarena had graduated from in 1968, and the red ribbon began there as a chosen symbol of commitment to a drug-free community, not as a symbol handed down by any federal agency."
+        ]
+      },
+      {
+        "heading": "From one classroom to a national campaign",
+        "body": [
+          "The Camarena Clubs spread quickly within California through 1985. The week after the first club launched, its members and Congressman Hunter's wife, Lynne, presented a \"Camarena Club Proclamation\" to First Lady Nancy Reagan, who had already made drug prevention a signature issue with her \"Just Say No\" campaign. That same summer, the Virginia Federation of Parents and the Illinois Drug Education Alliance called on Americans well beyond California to start wearing red ribbons, extending a local symbol into a broader, unofficial national gesture.",
+          "The step that made it an annual, coordinated program came three years later. In 1988, the National Family Partnership, a Miami-based nonprofit that had already existed since 1980 under the name National Federation of Parents for Drug-Free Youth, organized the first National Red Ribbon Week, proclaimed by the U.S. Congress with President and Mrs. Reagan serving as honorary chairpersons. NFP has run the campaign, including its annual student-submitted theme, every year since, which is why the observance has a single stable set of dates rather than dozens of locally invented ones."
+        ]
+      },
+      {
+        "heading": "Who actually runs it: the DEA, or someone else?",
+        "body": [
+          "It is easy to assume the DEA runs Red Ribbon Week, since the observance began in memory of one of its own agents and the agency promotes it heavily every October. That assumption overstates the DEA's role. The DEA did not organize the first National Red Ribbon Week and has never been its annual sponsor; that has been the National Family Partnership's role continuously since 1988. The DEA's real contributions are narrower and mostly promotional: it publishes a planning toolkit and social-media campaign each year, links to a presidential proclamation, hosts a Campus Video PSA Contest, and ran a Boy Scout and Girl Scout Red Ribbon Week patch program, but that patch program was a one-time promotional effort limited to 2018, not a recurring DEA fixture.",
+          "This distinction matters for a simple reason: NFP, not the DEA, is the body that sets the dates, runs the annual theme contest, and would be the organization to contact for details on any given year's observance. Calendar sites that credit the DEA alone with \"running\" Red Ribbon Week are describing its public-facing promotional partner, not its organizer."
+        ]
+      },
+      {
+        "heading": "How Red Ribbon Week is observed",
+        "body": [
+          "Observance is informal and decentralized: there is no legal requirement to participate, and the DEA and NFP both describe it as a voluntary pledge campaign rather than a program with attendance or reporting requirements. Participants wear red ribbons, and schools, workplaces, and community groups build their own activities around the week: essay and poster contests, drug-free pledges, parades, and buildings decorated in red. The DEA and Broward County Public Schools both put annual participation above 80 million people nationwide, though that figure is self-reported by the organizing groups rather than independently measured.",
+          "Each year's observance also carries a fresh, student-submitted theme, chosen through NFP's annual contest. The 2026 theme is \"Make a Difference. Be a Hero. Stay Drug Free.™,\" submitted by Ava Tackett, a student at Griswold Middle School in Griswold, Connecticut. Red Ribbon Week is not a federal holiday: it carries no legal holiday status, closes no federal offices, and creates no paid leave, unlike the small number of dates covered by 5 U.S.C. § 6103. Its closest relatives on this calendar are other observances with a documented, named founding organization behind an informal date: [National Boss's Day](/national-bosses-day/) is one, registered by a private citizen rather than any government body; [National Daughters Day](/national-daughters-day/) is another, where competing origin stories are common enough that sorting out which one holds up is most of the point; and [National Grandparents Day](/national-grandparents-day/) is a third, whose recurring date took a presidential proclamation and a separate act of Congress, a year apart, to establish."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Red Ribbon Week?",
+        "answer": "Red Ribbon Week runs October 23 through October 31 every year in the United States. The dates are fixed calendar dates rather than a floating week, set nationally by the National Family Partnership and confirmed on the DEA's own Red Ribbon Week program pages."
+      },
+      {
+        "question": "Who founded Red Ribbon Week?",
+        "answer": "There is no single founder. It began as a grassroots response: \"Camarena Clubs\" organized by Congressman Duncan Hunter and Henry Lozano in April 1985, following the murder of DEA Special Agent Enrique \"Kiki\" Camarena. The first annual, national observance was organized in 1988 by the National Family Partnership, the nonprofit that has run it every year since."
+      },
+      {
+        "question": "Does the DEA organize Red Ribbon Week?",
+        "answer": "No. The DEA supports and promotes it: publishing a planning toolkit, hosting an annual video PSA contest, and running a one-time Boy Scout and Girl Scout patch program in 2018. The National Family Partnership, a private nonprofit headquartered in Miami, has been the official national organizer and sponsor since 1988."
+      },
+      {
+        "question": "Is Red Ribbon Week a federal holiday?",
+        "answer": "No. It is an awareness observance with no legal holiday status. No federal offices close and no paid leave attaches to it; participation by schools, workplaces, and communities is voluntary, through activities like ribbon-wearing, pledges, and classroom programs."
+      },
+      {
+        "question": "Why do some sources describe it as an 8-day event?",
+        "answer": "That phrasing comes from the DEA's own history page, which calls the 1988 campaign \"an 8-day celebration\" even though its cited October 23–31 range covers nine calendar days inclusive. The mismatch appears to be a simple miscount rather than a different set of dates: every source that states specific dates, including the DEA's, agrees on October 23 through October 31."
+      },
+      {
+        "question": "What is the Red Ribbon Week theme for 2026?",
+        "answer": "\"Make a Difference. Be a Hero. Stay Drug Free.™,\" selected through the National Family Partnership's annual student theme contest. The winning slogan was submitted by Ava Tackett, a student at Griswold Middle School in Griswold, Connecticut."
+      }
+    ],
+    "sources": [
+      {
+        "label": "DEA — Red Ribbon Week History (Get Smart About Drugs)",
+        "url": "https://www.getsmartaboutdrugs.gov/get-involved/red-ribbon-week-history"
+      },
+      {
+        "label": "DEA — Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
+        "url": "https://www.getsmartaboutdrugs.gov/rrw"
+      },
+      {
+        "label": "DEA — Red Ribbon (program landing page)",
+        "url": "https://www.dea.gov/redribbon"
+      },
+      {
+        "label": "National Family Partnership — About Us / Red Ribbon Campaign",
+        "url": "https://www.redribbon.org/about"
+      },
+      {
+        "label": "DEA Press Release — Connecticut Student Wins National Red Ribbon Theme Contest (April 9, 2026)",
+        "url": "https://www.dea.gov/press-releases/2026/04/09/connecticut-student-wins-national-red-ribbon-theme-contest"
+      },
+      {
+        "label": "National Family Partnership Blog — 2026 Red Ribbon Week Theme Announcement",
+        "url": "https://www.redribbon.org/blog/national-family-partnership-announces-2026-red-ribbon-week-theme-make-a-difference.-be-a-hero.-stay-drug-free"
+      },
+      {
+        "label": "Wikipedia — Red Ribbon Week",
+        "url": "https://en.wikipedia.org/wiki/Red_Ribbon_Week"
+      },
+      {
+        "label": "Broward County Public Schools — Red Ribbon Week",
+        "url": "https://www.browardschools.com/bcps-departments/school-culture-student-support/new-violence-prevention/substance-abuse-prevention/red-ribbon-week"
+      }
+    ],
+    "image": "/images/red-ribbon-week-camarena.jpg",
+    "imageAlt": "Official portrait of DEA Special Agent Enrique \"Kiki\" Camarena, whose 1985 murder led to the founding of Red Ribbon Week",
+    "imageCredit": "U.S. Drug Enforcement Administration, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enrique-camarena1.jpg)"
   }
 ];

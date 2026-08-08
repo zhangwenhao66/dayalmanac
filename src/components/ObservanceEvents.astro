@@ -9,14 +9,17 @@
  *
  * Only occurrences from `today` onward are emitted. Past-dated Events are legitimate
  * markup but they describe something that has already happened, and Google's own
- * guidance is that event markup should represent events a user can still attend. An
- * annual observance also has no venue and no organiser, so `eventAttendanceMode` is
- * left off deliberately rather than guessed at.
+ * guidance is that event markup should represent events a user can still attend.
  *
  * `location` is a required field for Google's Event rich result (GSC flagged all
  * occurrences as invalid with "Missing field location" until this was added). These
  * observances have no physical venue, so `VirtualLocation` pointing at the guide's own
  * page is the truthful choice -- the "event" is the page itself, not a fabricated address.
+ *
+ * `eventAttendanceMode` must be `OnlineEventAttendanceMode` whenever `location` is a
+ * `VirtualLocation` -- Google's Event rich result validator only accepts VirtualLocation
+ * paired with this attendance mode; without it, GSC reports "Invalid object type for
+ * field location" even though VirtualLocation is valid schema.org markup on its own.
  */
 import { jsonLdStringify } from '../../vendor/site-toolkit/packages/schema/src/jsonLdStringify';
 import type { Occurrence } from '../data/guides';
@@ -43,6 +46,7 @@ const data = upcoming.map((o) => ({
 	startDate: o.date,
 	endDate: o.date,
 	url,
+	eventAttendanceMode: 'https://schema.org/OnlineEventAttendanceMode',
 	location: {
 		'@type': 'VirtualLocation',
 		url,

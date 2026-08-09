@@ -865,7 +865,10 @@ export const guides: Guide[] = [
     "title": "National Grandparents Day: The Date Rule in US Federal Law",
     "description": "National Grandparents Day falls on the first Sunday in September after Labor Day, not the first Sunday in September. The statutory rule, explained.",
     "published": "2026-08-02",
-    "updated": "2026-08-02",
+    "updated": "2026-08-09",
+    "image": "/images/national-grandparents-day.jpg",
+    "imageAlt": "Grandparents holding two young grandchildren outdoors",
+    "imageCredit": "Photo by sylviebliss via [Pixabay](https://pixabay.com/en/grandparents-grandmother-people-1969824/) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grandparents-1969824.jpg), CC0",
     "coreSummary": "In the United States, National Grandparents Day is observed on the first Sunday in September after Labor Day, the wording used in 36 U.S.C. § 125. Because Labor Day is the first Monday in September, the observance always lands between September 7 and September 13.",
     "dateRule": {
       "kind": "offset",

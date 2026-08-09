@@ -2488,5 +2488,151 @@ export const guides: Guide[] = [
     "image": "/images/domestic-violence-awareness-month.jpg",
     "imageAlt": "United States military poster marking October as Domestic Violence Awareness Month, with a purple awareness ribbon",
     "imageCredit": "USAG-Humphreys, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:United_States_Military,_Domestic_Violence_Awareness_Month_Poster_September_2011.jpg)"
+  },
+  {
+    "slug": "national-taco-day",
+    "category": "Observances",
+    "title": "National Taco Day: The First Tuesday of October, Not October 4",
+    "description": "National Taco Day was October 4 for years. In September 2024, Taco Bell and the registrar moved it to the first Tuesday of October, making 2026's date October 6.",
+    "published": "2026-08-09",
+    "updated": "2026-08-09",
+    "coreSummary": "National Taco Day no longer falls on a fixed date. From 2009 through 2023 it was October 4 every year; in September 2024, National Day Calendar and Taco Bell jointly moved it to the first Tuesday of October so it always lands on Taco Tuesday. That makes it October 6, 2026, not October 4, which many older listings still show.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The first Tuesday of October, every year. National Day Calendar and Taco Bell set this rule in September 2024, replacing the fixed October 4 date used from 2009 through 2023.",
+      "source": {
+        "label": "Taco Bell Newsroom / PR Newswire — National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
+        "url": "https://www.prnewswire.com/news-releases/national-day-calendar-officially-moves-national-taco-day-to-tuesday-thanks-to-taco-bell-302249629.html"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-06",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-10-05",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2028-10-03",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2029-10-02",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2030-10-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-07",
+          "weekday": "Tuesday"
+        }
+      ],
+      "caveat": "From 2009 through 2023, National Taco Day was fixed on October 4, and most of the internet still describes it that way. National Today's own page, as indexed for 2026, still lists \"October 4, 2026,\" which is a Sunday; that is out of date. In September 2024, Taco Bell, which had spent the prior year freeing the phrase \"Taco Tuesday\" from trademark restrictions nationwide, worked with National Day Calendar, the self-described registrar of the observance since 2013, to move the date permanently to the first Tuesday of October. National Day Calendar founder Marlo Anderson confirmed the change under his own name. The new rule first applied in 2024, moving that year's observance from Friday, October 4 to Tuesday, October 1. It is not a one-time promotional stunt. In 2025, the actual deals run by both Taco Bell and Del Taco, the chain whose 2009 press release popularized October 4 in the first place, landed on Tuesday, October 7, not October 4. For 2026, the first Tuesday of October is October 6. Sites that have not updated their listings will still show October 4."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "There were two unrelated \"National Taco Day\" observances under the same name, a generation apart. The first was a real congressional recognition: San Antonio publicist Roberto L. Gomez built a National Taco Council in the 1960s, and Congressman Henry B. Gonzalez recognized National Taco Week from the floor of the House on April 30, 1968, naming May 3, his own birthday, as National Taco Day, entered into the Congressional Record. That observance has no connection to today's date. It faded after Gomez's National Taco Council stopped appearing in newspaper archives around 1980, and Gomez himself died in 1983. The modern October 4 observance traces to a separate, far less documented chain. Austin chain Chuy's Tex-Mex tried to trademark \"National Taco Day\" for June 12 in 2000; the U.S. Patent and Trademark Office rejected the application for reasons it did not record. Newspapers nonetheless referred to \"Chuy's National Taco Day\" on June 12 through 2004, when unnamed \"books and websites\" began citing October 4 instead. Gustavo Arellano, the food journalist and author who investigated the history for L.A. Taco, could find no record of who made that switch or why. What is documented is what happened next: Del Taco issued a press release in 2009 declaring \"Time to Celebrate National Taco Day,\" San Antonio chain Taco Cabana followed suit on October 4 in 2010, and National Day Calendar, which says it has curated and registered national days since 2013, formally adopted October 4 that year. In September 2024, National Day Calendar founder Marlo Anderson and Taco Bell's chief marketing officer jointly announced, on the record and under their own names, that the date would move to the first Tuesday of October going forward.",
+      "source": {
+        "label": "L.A. Taco — The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
+        "url": "https://lataco.com/the-true-story-of-how-national-taco-day-was-invented-then-appropriated"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Taco Day is",
+        "body": [
+          "National Taco Day is an unofficial food observance that, as of 2026, no longer has a single fixed date. It carries no legal or governmental status: nothing about it is in federal law, and government offices, banks, and the postal service run on their ordinary schedule regardless of which Tuesday it lands on.",
+          "In practice, the day functions as a marketing calendar slot for restaurant chains (Taco Bell, Del Taco, Chipotle, Moe's Southwest Grill, Rubio's, and Jack in the Box are among those that have run October promotions tied to it) and as a prompt for home cooks and food media to post about tacos, the same social-media-first pattern that built [National Coffee Day](/national-coffee-day/) into a fixture on brand calendars. What makes this particular \"national day\" worth a page of its own is not the taco itself but the fact that the date moved, on the record, within the last two years, and much of the internet has not caught up."
+        ]
+      },
+      {
+        "heading": "The date changed in 2024, but most sites still show the old one",
+        "body": [
+          "For fifteen years, National Taco Day meant October 4. That changed on September 17, 2024, when Taco Bell and National Day Calendar jointly announced they were moving the observance to the first Tuesday of October, permanently, so it would always coincide with the chain's long-running \"Taco Tuesday\" promotion.",
+          "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;For years, we've celebrated National Taco Day on October 4th, but it's always felt like there was a bigger opportunity to align it with something even more special&mdash;Taco Tuesday. &hellip; Thanks to Taco Bell's efforts, we're excited to officially move National Taco Day to the first Tuesday in October, creating the Taco Tuesday of all Taco Tuesdays.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">Marlo Anderson, founder, National Day Calendar, September 17, 2024</p></div>",
+          "The change was not cosmetic. It took effect immediately: 2024's observance moved from Friday, October 4 to Tuesday, October 1, with National Day Calendar's own site updating its listing to match. The following year, both Taco Bell and Del Taco ran their National Taco Day promotions on Tuesday, October 7, 2025, not October 4. For 2026, the first Tuesday of October is October 6.",
+          "The gap between the new rule and old habit is easy to check. National Today's page for the day, live and indexed for 2026 at the time this was written, still lists \"October 4, 2026.\" October 4, 2026 is a Sunday. The two biggest players in the observance's own history, the chain that popularized it and the entity that registers it, have both moved on. A large share of the secondary calendar sites that copy from each other have not."
+        ]
+      },
+      {
+        "heading": "Why a chain restaurant could just move a national holiday",
+        "body": [
+          "The 2024 move was possible only because of something Taco Bell had done to itself the year before. \"Taco Tuesday\" had been trademarked in different states by two other companies, most prominently Taco John's, which held the mark in most of the country. Taco Bell filed legal petitions on May 16, 2023 to cancel those registrations, arguing the phrase had become generic. The campaign's final obstacle fell on October 20, 2023, when the last outstanding state registration was abandoned; Taco Bell announced \"Taco Tuesday\" free for use in all 50 states four days later, on October 24.",
+          "That mattered because National Day Calendar could not previously have tied a registered observance to a phrase someone else owned without risking a trademark dispute. Once \"Taco Tuesday\" belonged to no one, moving National Taco Day onto it became a straightforward marketing decision rather than a legal one, which is also why the change could be announced and implemented within a single year, unlike most observances, where National Day Calendar itself says alterations are \"a rarity.\""
+        ]
+      },
+      {
+        "heading": "Nobody can name who first said October 4",
+        "body": [
+          "The most commonly repeated version of this story, that Del Taco invented National Taco Day in 2009, is not quite what happened, and Del Taco itself never claimed it did. Its 2009 press release, headlined \"Time to Celebrate National Taco Day!,\" was a promotional item, not an origination claim; a company marketing executive was quoted only as saying the taco \"deserves this attention,\" not that Del Taco had picked the date.",
+          "The October 4 date itself predates that release by several years and has no identified author. Before it, an Austin chain called Chuy's Tex-Mex had tried to establish its own \"National Taco Day\" on a different date, June 12, filing a federal trademark application in 2000. The U.S. Patent and Trademark Office rejected the application without recording a reason, but newspapers kept referring to \"Chuy's National Taco Day\" on June 12 through at least 2004. Sometime after that, according to L.A. Taco's Gustavo Arellano, who searched newspaper archives and the Lexis-Nexis database for this specifically, \"books and websites\" began asserting that the real day was October 4 instead. No source, article, or registration from that period names who made the switch or explains the reasoning. Del Taco's 2009 press release is simply the first clearly documented, named party to publicly and forcefully back that date; Taco Cabana followed in 2010, and National Day Calendar folded it into its official register in 2013.",
+          "That gap matters for anyone tempted to write a tidy founding story. The most-repeated fact about this observance, that Del Taco started it, compresses a murkier, undocumented handoff into something that sounds more certain than the record supports, the same kind of compression [National Boyfriend Day](/national-boyfriend-day/) suffers when a hedged 2014 guess gets repeated across calendar sites until it reads like settled fact."
+        ]
+      },
+      {
+        "heading": "The forgotten first National Taco Day: a congressman's birthday",
+        "body": [
+          "Almost no calendar site mentions that a National Taco Day existed decades before October 4 did, and that it was, unusually for this category of observance, actually recognized by Congress.",
+          "The story starts with Roberto L. Gomez, a San Antonio civic organizer who spent the 1960s sending increasingly large novelty foods to U.S. presidents (a 48-pound tamale to John F. Kennedy in 1961, a 55-pound taco to Lyndon B. Johnson in 1964) as tongue-in-cheek reminders of Mexican-American political influence. Gomez's group, the San Antonio Social Civic Organization, evolved into the National Taco Council, and by 1967 had convinced San Antonio's mayor to proclaim a National Taco Week leading into Cinco de Mayo.",
+          "Congressman Henry B. Gonzalez, who represented San Antonio, took the cause to Washington. On April 30, 1968, he recognized National Taco Week, April 28 through May 4, from the floor of the House, with his remarks entered into the Congressional Record. Within that week, he designated May 3, his own birthday, as National Taco Day. Gonzalez returned to the House floor in 1974 to mark the council's expansion into a full National Taco Month, sponsored in Texas by Kraft Foods and two regional breweries.",
+          "This observance faded rather than being replaced. L.A. Taco found no record of the National Taco Council appearing in newspaper archives or the Lexis-Nexis database after 1980; Gomez died in 1983. When \"National Taco Day\" resurfaced in the public record more than three decades later, first as Chuy's rejected 2000 trademark bid for June 12 and then as the October 4 date Del Taco popularized in 2009, none of the parties involved connected it back to Gonzalez's 1968 designation of May 3. The two observances share a name and nothing else, a clean break unlike [National Dog Day](/national-dog-day/), where a single founder's account has stayed continuously attached to the same date since 2004."
+        ],
+        "image": {
+          "src": "/images/national-taco-day-timeline.svg",
+          "alt": "Timeline showing National Taco Day's history from Congress naming May 3 in 1968 through the 2024 move to the first Tuesday of October",
+          "credit": ""
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "What day is National Taco Day in 2026?",
+        "answer": "October 6, 2026, a Tuesday. That follows the rule National Day Calendar and Taco Bell set in September 2024: the first Tuesday of October, every year. Some calendar sites have not updated and still list October 4, 2026, which falls on a Sunday."
+      },
+      {
+        "question": "Why did National Taco Day move from October 4?",
+        "answer": "Taco Bell asked National Day Calendar to move it after Taco Bell legally freed the phrase \"Taco Tuesday\" from trademark restrictions in all 50 states in October 2023. With the phrase no longer owned by anyone, National Day Calendar founder Marlo Anderson agreed in September 2024 to permanently shift National Taco Day to the first Tuesday of October, so the two would always coincide."
+      },
+      {
+        "question": "Who actually started National Taco Day?",
+        "answer": "No single named person is credited with choosing October 4 specifically. Del Taco's 2009 press release is the first clearly documented company to publicly promote that date, but it followed an earlier, unattributed shift to October 4 in \"books and websites\" around 2004, after a rejected 2000 trademark attempt by Chuy's Tex-Mex for a different date, June 12."
+      },
+      {
+        "question": "Is National Taco Day a federal holiday?",
+        "answer": "No. It has no legal or governmental status. Government offices, banks, and postal service operate on their normal schedule on National Taco Day, regardless of which date is used."
+      },
+      {
+        "question": "Is this the same National Taco Day that Congress recognized in 1968?",
+        "answer": "No. Congressman Henry B. Gonzalez designated May 3, 1968 as National Taco Day, tied to a San Antonio civic group called the National Taco Council. That observance faded from public record after 1980 and has no documented connection to the October 4 date that emerged independently in the 2000s."
+      }
+    ],
+    "sources": [
+      {
+        "label": "L.A. Taco — The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
+        "url": "https://lataco.com/the-true-story-of-how-national-taco-day-was-invented-then-appropriated"
+      },
+      {
+        "label": "Taco Bell Newsroom / PR Newswire — National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
+        "url": "https://www.prnewswire.com/news-releases/national-day-calendar-officially-moves-national-taco-day-to-tuesday-thanks-to-taco-bell-302249629.html"
+      },
+      {
+        "label": "National Day Calendar — National Taco Day (current listing, first Tuesday in October)",
+        "url": "https://nationaldaycalendar.com/celebrations/national-taco-day-first-tuesday-in-october"
+      },
+      {
+        "label": "National Today — National Taco Day, October 4, 2026 (listing not yet updated to the 2024 rule change)",
+        "url": "https://nationaltoday.com/national-taco-day/"
+      },
+      {
+        "label": "AOL / Taco Bell Newsroom — Taco Bell's National Taco Day deals for Tuesday, Oct. 7, 2025",
+        "url": "https://www.aol.com/articles/taco-bells-national-taco-day-120320719.html"
+      }
+    ],
+    "image": "/images/national-taco-day.jpg",
+    "imageAlt": "Interior of a taco restaurant, The Taco Project in Tarrytown, New York",
+    "imageCredit": "Photo by Katlyn Giberson, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Taco_Project,_Tarrytown,_United_States_(Unsplash).jpg), CC0"
   }
 ];

@@ -325,3 +325,86 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-grandparents-day",
+  "last_audited": "2026-08-09",
+  "published_date": "2026-08-02",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding区分documented（McQuade主导游说、1973年Arch Moore州长proclamation、1978/1979两阶段联邦立法）与未采信为事实的细节（McQuade 1973年州proclamation具体日期、'西弗吉尼亚是全美第一个'，均明确标注仅见于二手archive finding aid，不当作事实陈述），非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch核实）",
+      "detail": "36 U.S.C. § 125原文（Cornell LII/uscode.house.gov）、Proclamation 4580（1978-08-03签署，仅指定1978-09-10单年）、Pub. L. 96-62/H.J. Res. 244（1979-09-06批准，245位联署人）、Marian McQuade/Arch Moore 1973年西弗吉尼亚州史实、意大利Law 159/2005第1(3)条（10月2日）、加拿大Bill C-274（1994-09-27一读，Hansard No. 98原始记录）、NSW Grandparents Day 2025-10-26，全部逐字/逐事实核实吻合，未发现编造或误传。'首个联邦承认在1978年'这一常见误传（本文明确指出并区分1978proclamation单年vs 1979annual statute）经WebSearch交叉核实准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "published/updated均为2026-08-02（本次审计改updated为2026-08-09），dateRule.occurrences 2026-2031六年用Python datetime独立重算全部吻合（2026-09-13周日等），'仅2025年和2031年两条规则重合'的算术推导独立验证成立，下次occurrence（2026-09-13）尚未发生，无过期问题。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "WebSearch核实头部竞品（nationaldaycalendar.com/nationaltoday.com/acl.gov/Wikipedia）均未提供本文'两阶段联邦立法史+跨国对比(意大利/加拿大/澳大利亚)+算术证伪常见改写'的整合深度，差异化真实非同质化内容。openseo get_serp_results工具本次会话未获授权访问，改用WebSearch验证竞品内容深度。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 58字符、meta description 147字符、canonical自指、单一h1、6个h2无跳级、URL evergreen不带年份、robots.txt允许抓取，均通过。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约91/99（权威原文引语15/16、可引用性12/13、结构规范性12/12、鲁棒性5/5、跨域连接4/4），已达标≥80。本次修复（配图字段）不涉及GEO结构性薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本文发布于humanizer/avoid-ai-writing强制流程建立之前，本次实际跑Skill(humanizer)和Skill(avoid-ai-writing)两个detect-only扫描：正文12处em-dash中10处在sources元数据、1处是statute原文逐字引用（不可改动)、仅1处在正文（单次插入语用法，非滥用模式，未达1/1000词的flag阈值）；AI高频词/copula回避/模糊归因/rule of three/promotional language等模式均0命中，两项skill均判定干净。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（一处需说明的例外）",
+      "detail": "13条sources链接curl实测：9条200；uscode.house.gov的4条链接在沙箱环境TLS握手超时（与此前nationaldaycalendar.com/congress.gov同一批已确立的机器人拦截判定标准一致，非真实链接失效），WebSearch证实这些URL均可被搜索引擎正常索引，且本次事实核查过程中确实命中并读取到了这些页面的内容摘要，判定为bot拦截未采取行动。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "全站16篇文章，Observances分类10篇；grep确认national-bosses-day、december-birthstone、red-ribbon-week、domestic-violence-awareness-month四篇文章正文均已有手写锚文本自然链接指向本文（'[National Grandparents Day](/national-grandparents-day/)'），非孤儿页，内链覆盖情况优于此前审计的多篇同批次文章。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "published字段本身已存在（2026-08-02），datePublished无需回填，无回退逻辑风险；FAQPage.mainEntity/Event×6日期字段与guides.ts逐字一致；本次修复后Article.image/og:image/twitter:image三处已重新验证一致。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及实体（Jimmy Carter、Marian McQuade、Arch Moore、意大利/加拿大/澳大利亚政府机构）均中性引用，无新增现实争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "确认问题，已修复",
+      "detail": "文章无image字段，og:image/twitter:image/Article schema image全部回退到/favicon.svg（SVG），页面正文也无任何可见<img>标签。独立复核agent独立curl实测线上确认三处回退属实且页面无img标签，独立WebSearch核实Facebook Open Graph解析器与X/Twitter Card Validator均不支持SVG作为分享图（会静默失败渲染成空白/纯文字卡片，尽管页面声明twitter:card=summary_large_image），结论CONFIRMED——与national-boyfriend-day/national-coffee-day/national-daughters-day/national-sons-day完全相同的批次性缺陷模式，本文是2026-08-02批次里最后一篇被审到的。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "正文无暴力/伤亡描写，无武器/毒品/赌博提及，标题为事实陈述非标题党。ads.txt线上200且内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，隐私政策页/privacy/200可访问。"
+    }
+  ],
+  "actions_taken": [
+    "从Wikimedia Commons下载配图：'Grandparents-1969824.jpg'，摄影者sylviebliss（原始来源Pixabay），CC0协议，2304×1536原图用sips缩至1600×1066/386KB，写入image/imageAlt/imageCredit三个字段",
+    "updated字段从2026-08-02改为2026-08-09（published字段本身已存在，无需回填）",
+    "npm run build（Astro）26页0报错；node --test tools/**/*.test.mjs 17/17全过（未改动日期数据，仍按规则跑一遍确认无回归）；commit 5614638并push（仅暂存src/data/guides.ts+新图片两个文件，规避同目录另一会话未提交的broken-link-outreach-log.md/gsc-index-submit-log.json/outreach-drafts.md）；dayalmanac无登记CF deploy hook，靠git自动部署，轮询2次确认线上200且og:image/twitter:image/schema image均已为真实JPEG（200，386138字节与本地一致）、hero<img>已渲染、datePublished=2026-08-02/dateModified=2026-08-09；IndexNow提交（Bing 200/Yandex 202），记入indexnow-submit-log.json；内容发布日志.md追加审计记录"
+  ],
+  "seo_score": "审计前后均为技术SEO全项通过（本次未发现需修复的SEO技术项，标题/描述/canonical/heading/schema均未改动）",
+  "geo_score": "自评约91/99（已达标≥80），本次修复为社交分享层面，不涉及GEO结构性薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

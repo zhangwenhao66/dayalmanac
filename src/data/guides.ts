@@ -864,6 +864,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Grandparents Day: The Date Rule in US Federal Law",
     "description": "National Grandparents Day falls on the first Sunday in September after Labor Day, not the first Sunday in September. The statutory rule, explained.",
+    "published": "2026-08-02",
     "updated": "2026-08-02",
     "coreSummary": "In the United States, National Grandparents Day is observed on the first Sunday in September after Labor Day, the wording used in 36 U.S.C. § 125. Because Labor Day is the first Monday in September, the observance always lands between September 7 and September 13.",
     "dateRule": {
@@ -1040,6 +1041,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
     "description": "National Boss's Day falls on October 16 every year, registered by Patricia Bays Haroski in 1958. The weekend-shift rule widely repeated for it has no traceable source.",
+    "published": "2026-08-02",
     "updated": "2026-08-02",
     "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation is available to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
     "dateRule": {
@@ -1165,6 +1167,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Cat Day: October 29, and Which Cat Holiday You Mean",
     "description": "National Cat Day falls on October 29 in the US, founded in 2005 by Colleen Paige. At least three other cat observances use similar names but different dates.",
+    "published": "2026-08-03",
     "updated": "2026-08-03",
     "coreSummary": "National Cat Day is a US observance held every October 29, founded in 2005 by pet lifestyle expert Colleen Paige to draw attention to shelter cats needing adoption. It is one of at least four differently dated, differently named cat observances in circulation, and is frequently confused with the others.",
     "dateRule": {
@@ -1293,6 +1296,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "National Dog Day: August 26, and Two Origin Stories That Don't Agree",
     "description": "National Dog Day falls on August 26, founded in 2004 by Colleen Paige. Her own organization's website gives two different, unreconciled reasons for why the day exists.",
+    "published": "2026-08-04",
     "updated": "2026-08-04",
     "coreSummary": "National Dog Day is a US observance held every August 26, founded in 2004 by pet lifestyle expert Colleen Paige. The founder's own organization gives two different reasons for it: her personal account says the date marks a childhood shelter adoption, while a 2013 New York State Senate resolution reproduced on the same website says the day was created over the uncredited service of search-and-rescue dogs at Ground Zero. Neither telling mentions the other.",
     "dateRule": {
@@ -2194,6 +2198,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "Red Ribbon Week: October 23–31 Every Year, and Who Actually Runs It",
     "description": "Red Ribbon Week runs October 23–31 every year, fixed dates set by the National Family Partnership. The DEA supports and promotes it but did not found or organize it.",
+    "published": "2026-08-06",
     "updated": "2026-08-06",
     "coreSummary": "Red Ribbon Week is observed on fixed calendar dates, October 23 through October 31, every year in the United States. It began as a grassroots tribute to DEA Special Agent Enrique \"Kiki\" Camarena after his 1985 murder, but the annual national campaign has been organized every year since 1988 by the nonprofit National Family Partnership, not by the DEA itself.",
     "dateRule": {
@@ -2327,6 +2332,7 @@ export const guides: Guide[] = [
     "category": "Observances",
     "title": "Domestic Violence Awareness Month: All of October, Not Renewed",
     "description": "Domestic Violence Awareness Month covers all of October every year. Congress designated it by name for 1989 only; no comparable law has renewed it since.",
+    "published": "2026-08-09",
     "updated": "2026-08-09",
     "coreSummary": "Domestic Violence Awareness Month covers the entire month of October, every year, in the United States. It began as a single \"Day of Unity\" declared by the National Coalition Against Domestic Violence in October 1981, grew into a full month by 1987, and received federal recognition when Congress designated the single year of October 1989 in Public Law 101-112. No comparable law has renewed that designation since; every President has simply continued proclaiming the month on their own authority.",
     "dateRule": {

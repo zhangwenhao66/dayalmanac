@@ -2321,5 +2321,163 @@ export const guides: Guide[] = [
     "image": "/images/red-ribbon-week-camarena.jpg",
     "imageAlt": "Official portrait of DEA Special Agent Enrique \"Kiki\" Camarena, whose 1985 murder led to the founding of Red Ribbon Week",
     "imageCredit": "U.S. Drug Enforcement Administration, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enrique-camarena1.jpg)"
+  },
+  {
+    "slug": "domestic-violence-awareness-month",
+    "category": "Observances",
+    "title": "Domestic Violence Awareness Month: All of October, Not Renewed",
+    "description": "Domestic Violence Awareness Month covers all of October every year. Congress designated it by name for 1989 only; no comparable law has renewed it since.",
+    "updated": "2026-08-09",
+    "coreSummary": "Domestic Violence Awareness Month covers the entire month of October, every year, in the United States. It began as a single \"Day of Unity\" declared by the National Coalition Against Domestic Violence in October 1981, grew into a full month by 1987, and received federal recognition when Congress designated the single year of October 1989 in Public Law 101-112. No comparable law has renewed that designation since; every President has simply continued proclaiming the month on their own authority.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Domestic Violence Awareness Month is observed across all of October, every year, from October 1 through October 31, rather than on a single date or a floating week within the month. Congress first designated the observance by name for a specific year, October 1989, in Senate Joint Resolution 133, and every President has proclaimed or recognized the full month of October the same way since.",
+      "source": {
+        "label": "George Bush — Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
+      },
+      "occurrences": [
+        { "date": "2026-10-01", "weekday": "Thursday" },
+        { "date": "2027-10-01", "weekday": "Friday" },
+        { "date": "2028-10-01", "weekday": "Sunday" },
+        { "date": "2029-10-01", "weekday": "Monday" },
+        { "date": "2030-10-01", "weekday": "Tuesday" },
+        { "date": "2031-10-01", "weekday": "Wednesday" }
+      ],
+      "caveat": "There is no competing date range to sort out here: every source, federal and advocacy alike, agrees the entire month of October is Domestic Violence Awareness Month, so the table above lists October 1 as each year's start with the understanding that the observance runs through October 31 in every case. What has actually changed over the decades is the mechanism behind it, not the dates. Congress passed a fresh joint resolution requesting a proclamation for specific years in at least 1989 and 1991; by the 2020s, Presidents were proclaiming the month on their own executive authority with no new joint resolution attached, and the title and format of the annual White House statement have varied by administration, from \"Proclamation\" under Bush and Biden to a \"Presidential Message\" in 2025."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The organization behind this observance predates it by three years. In January 1978, the United States Commission on Civil Rights held a hearing, \"Consultation on Battered Women: Issues of Public Policy,\" and the National Coalition Against Domestic Violence (NCADV) formed out of that meeting, becoming the country's first national organization focused specifically on shelters and support services for battered women and their children.\n\nNCADV's first observance came in October 1981: a single \"Day of Unity\" meant to connect advocates who had been working on the issue in isolation across the country. It took six more years to become a month-long campaign. In October 1987, NCADV held the first full Domestic Violence Awareness Month, and that same year the organization also ran its own toll-free hotline for a period, a separate and short-lived effort from the federally created hotline that would arrive nearly a decade later.\n\nFederal recognition came in 1989, and it arrived as a one-year designation rather than a standing law. Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989, designated \"October 1989\" by name and authorized and requested the President to issue a proclamation marking it. President George Bush did so five days later, on October 11, 1989, in Proclamation 6043, the first presidential proclamation of this observance on record. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September.\n\nSomewhere after that, the pattern changed: by 2021, President Biden's proclamation cited no accompanying joint resolution at all, proclaiming the month solely under his general constitutional authority. Congress has not gone back to renewing the designation by name since 1991, though Representative Al Green has introduced his own version of the resolution in the House every year since at least 2020, without it ever reaching a floor vote.\n\nOne wrinkle in the federal record: Bush's own 1991 proclamation claims the month had been observed \"every autumn since 1985,\" two years earlier than the date any other record, including his own first proclamation, supports. The line reads as an uncorrected slip rather than evidence the observance is actually older than its documented history.",
+      "source": {
+        "label": "The National Domestic Violence Hotline — Domestic Violence Awareness Month",
+        "url": "https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, every year",
+        "body": [
+          "Domestic Violence Awareness Month covers all 31 days of October, not a single date or a floating week inside it. That makes the date question almost trivial by the standards of this calendar: there is no nth-weekday arithmetic to compute, no rival set of dates from a different organization, and no table to double-check each year. October 1 marks the start of each year's observance below; it runs through October 31 in every case.",
+          "The simplicity stops at the calendar, though. What has genuinely changed over more than three decades is not the dates but the paperwork behind them: whether a fresh act of Congress stands behind a given year's observance, or whether it now runs on custom alone. That distinction, not the date range, is the part most calendar sites skip past."
+        ]
+      },
+      {
+        "heading": "From one day to one month, 1978 to 1987",
+        "body": [
+          "The National Coalition Against Domestic Violence formed in January 1978, out of a United States Commission on Civil Rights hearing titled \"Consultation on Battered Women: Issues of Public Policy.\" It became the country's first national organization built specifically around shelters and support services for battered women and their children, at a time when there was little of either: fewer than a handful of dedicated shelters existed nationwide before the mid-1970s.",
+          "NCADV's first observance, in October 1981, was a single \"Day of Unity,\" intended to connect advocates who had mostly been working in isolation, state by state. The jump from one day to a full month took until October 1987, when NCADV held the first Domestic Violence Awareness Month and, separately, ran its own toll-free hotline for a period. That 1987 hotline is easy to confuse with the hotline most people call today; it was not the same organization, and the two would not come under one roof for another 35 years."
+        ]
+      },
+      {
+        "heading": "1989: Congress designates it, for one specific year",
+        "body": [
+          "Domestic Violence Awareness Month got its federal recognition through Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989. As President Bush's own proclamation quotes it, Congress \"designated October 1989 as 'National Domestic Violence Awareness Month' and...authorized and requested the President to issue a proclamation.\" Five days later, on October 11, 1989, Bush did exactly that in Proclamation 6043, the first presidential proclamation of this observance on record.",
+          "What is easy to miss is that this was, on paper, a one-year designation, not a standing law that automatically renews every October. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September. Whether Congress kept passing a fresh resolution every single year after that is not something any one source lays out cleanly, but by the time later administrations proclaimed the month, the practice had visibly changed."
+        ]
+      },
+      {
+        "heading": "A federal fixture that nobody has to keep renewing",
+        "body": [
+          "By 2021, President Biden's proclamation cited no accompanying joint resolution at all: he proclaimed \"National Domestic Violence Awareness and Prevention Month\" under \"the authority vested in me by the Constitution and the laws of the United States,\" full stop. Somewhere between the early 1990s and the 2020s, the month had become something Presidents simply do every October on their own authority, not something Congress hands them fresh each year. Individual members of Congress have kept a version of the earlier custom alive on their own: Representative Al Green has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" in the House annually since at least 2020, though a resolution from one member that never reaches a floor vote carries no legal force of its own.",
+          "The White House's own record on this observance is not entirely consistent, either. Bush's 1991 proclamation states that \"every autumn since 1985, we have set aside National Domestic Violence Awareness Month,\" but no proclamation, joint resolution, or advocacy timeline places the first observance before 1987 as a month or 1989 as a federal proclamation. It is a small, uncorrected slip in an otherwise precisely dated official record, the kind of detail most calendar sites smooth over rather than flag.",
+          "The observance's own name and format have also shifted by administration. Bush's original proclamations called it \"National Domestic Violence Awareness Month\"; Biden's called it \"National Domestic Violence Awareness and Prevention Month\" and issued it as a formal Proclamation; the White House's 2025 statement returned to the shorter name but issued it as a \"Presidential Message\" instead of a Proclamation. None of that changes the dates. It does mean a reader comparing two years' official statements side by side will notice the title and the format read differently depending on which October it is."
+        ]
+      },
+      {
+        "heading": "Two hotlines, one merged organization",
+        "body": [
+          "NCADV's short-lived 1987 hotline is often blurred together with the hotline most people call today. The National Domestic Violence Hotline, reachable at 1-800-799-7233, is a separate creation: it was authorized when President Clinton signed the Violence Against Women Act on September 13, 1994, funded the following year through a one million dollar grant to the Texas Council on Family Violence, and took its first call on February 21, 1996. For more than two decades, NCADV and the National Domestic Violence Hotline were separate organizations with overlapping missions and, at times, overlapping messaging about this same October observance.",
+          "That changed in 2022, when NCADV merged into the Hotline's parent organization and gave up its own independent nonprofit status. Today, ncadv.org redirects visitors straight to TheHotline.org, and the Domestic Violence Awareness Month materials once published under NCADV's own name live there instead. A reader who finds an older page still crediting NCADV alone as the month's sole current organizer is looking at a description that predates the merger."
+        ],
+        "image": {
+          "src": "/images/domestic-violence-awareness-month-timeline.svg",
+          "alt": "Timeline showing Domestic Violence Awareness Month's path from NCADV's 1978 founding through the 1989 congressional designation to the 2022 merger with the National Domestic Violence Hotline"
+        }
+      },
+      {
+        "heading": "How the month is actually observed",
+        "body": [
+          "Domestic Violence Awareness Month carries no legal holiday status: no federal offices close, no paid leave attaches to it, and nothing about it is mandatory for any workplace or school. What happens instead is decentralized and annual: state coalitions, shelters, and advocacy groups run their own local events throughout October, loosely tied together by a shared theme chosen each year, such as 2025's \"With Survivors, Always\" from the Hotline and its partner the Domestic Violence Awareness Project. Purple is the color most commonly associated with the campaign, worn at vigils and shared on social media. Within the month, the first Monday is set aside as the Day of Unity, a direct descendant of NCADV's original 1981 observance and the closest thing the month has to its own founding anniversary.",
+          "One thing this month is not: Teen Dating Violence Awareness Month, a separate campaign run each February through loveisrespect.org and aimed specifically at abuse in teenage dating relationships. It shares an audience and a cause with the October observance but runs on its own calendar, not as a subset of this one.",
+          "Domestic Violence Awareness Month sits alongside a small group of observances on this calendar with a similar shape: founded by an advocacy organization, later picked up by the federal government, and now sustained mostly by custom rather than fresh legislation. [Red Ribbon Week](/red-ribbon-week/), observed the same month, followed almost the same arc, a grassroots campaign that a nonprofit, not a federal agency, has organized every year since 1988. [National Grandparents Day](/national-grandparents-day/) needed both a presidential proclamation and a separate act of Congress, a year apart, before its date was fixed. [National Sons Day](/national-sons-day/), by contrast, has no federal recognition at all, a useful reminder of how little authority actually backs most \"national days.\""
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Domestic Violence Awareness Month?",
+        "answer": "The entire month of October, every year, from October 1 through October 31. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded Domestic Violence Awareness Month?",
+        "answer": "The National Coalition Against Domestic Violence (NCADV), formed in January 1978, held the first \"Day of Unity\" in October 1981 and expanded it into a full month-long observance in October 1987. Congress gave it federal recognition two years later, in 1989."
+      },
+      {
+        "question": "Did Congress pass a permanent law that automatically renews this observance every year?",
+        "answer": "Not in one step. Congress designated \"October 1989\" specifically as National Domestic Violence Awareness Month through Public Law 101-112, and passed at least one more year-specific joint resolution for October 1991. Since then, Presidents have proclaimed the month on their own executive authority rather than through a fresh law each year. Representative Al Green has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" in the House annually since at least 2020, but none of those introductions has ever come up for a vote, so none carries the weight of the 1989 and 1991 resolutions Congress actually passed."
+      },
+      {
+        "question": "Is Domestic Violence Awareness Month a federal holiday?",
+        "answer": "No. No federal offices close and no paid leave attaches to it. It is an awareness observance, marked through proclamations, local events, and advocacy campaigns, not a legal holiday."
+      },
+      {
+        "question": "Is the National Domestic Violence Hotline the same organization that started this observance?",
+        "answer": "Not originally. NCADV started the observance and ran its own short-lived hotline in 1987. The National Domestic Violence Hotline (1-800-799-7233) is a separate organization, authorized under the 1994 Violence Against Women Act and launched in 1996. The two merged in 2022, with NCADV becoming part of the Hotline's parent organization."
+      },
+      {
+        "question": "Why do some sources describe the observance as running \"since 1985\"?",
+        "answer": "That phrasing traces to a line in President George Bush's own 1991 proclamation, which states the month had been set aside \"every autumn since 1985.\" No other record, including Bush's own first proclamation of the observance in 1989, supports a date earlier than 1987 for the full-month observance or 1989 for a federal proclamation. The 1991 statement appears to be an unresolved error in the White House's own account."
+      },
+      {
+        "question": "Is this the same as Teen Dating Violence Awareness Month?",
+        "answer": "No. Teen Dating Violence Awareness Month is a separate campaign observed every February, focused specifically on abuse within teen dating relationships and run through loveisrespect.org, not this observance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "George Bush — Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
+      },
+      {
+        "label": "George Bush — Proclamation 6340, National Domestic Violence Awareness Month, 1991 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6340-national-domestic-violence-awareness-month-1991"
+      },
+      {
+        "label": "Public Law 101-112, 103 Stat. 685 (Congress.gov)",
+        "url": "https://www.congress.gov/101/statute/STATUTE-103/STATUTE-103-Pg685.pdf"
+      },
+      {
+        "label": "The White House — A Proclamation on National Domestic Violence Awareness and Prevention Month, 2021",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/"
+      },
+      {
+        "label": "The White House — Presidential Message on National Domestic Violence Awareness Month, 2025",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/10/presidential-message-on-national-youth-substance-abuse-prevention-month/"
+      },
+      {
+        "label": "Congress.gov — H.Res.846, Original National Domestic Violence Awareness Month Resolution of 2025",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/846/text/ih"
+      },
+      {
+        "label": "The National Domestic Violence Hotline — Domestic Violence Awareness Month",
+        "url": "https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/"
+      },
+      {
+        "label": "The National Domestic Violence Hotline — Our History",
+        "url": "https://www.thehotline.org/about/history-of-the-hotline/"
+      },
+      {
+        "label": "Connections for Abused Women and their Children (CAWC) — Things To Know About the History of the Domestic Violence Movement",
+        "url": "https://www.cawc.org/news/things-to-know-about-the-history-of-the-domestic-violence-movement/"
+      },
+      {
+        "label": "NCADV — merger notice (redirects to The National Domestic Violence Hotline)",
+        "url": "https://www.ncadv.org/"
+      }
+    ],
+    "image": "/images/domestic-violence-awareness-month.jpg",
+    "imageAlt": "United States military poster marking October as Domestic Violence Awareness Month, with a purple awareness ribbon",
+    "imageCredit": "USAG-Humphreys, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:United_States_Military,_Domestic_Violence_Awareness_Month_Poster_September_2011.jpg)"
   }
 ];

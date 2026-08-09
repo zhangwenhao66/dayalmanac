@@ -57,5 +57,52 @@
       "https://dayalmanac.com/national-boyfriend-day/"
     ],
     "quota_used": "0 requests (round 2, all checked candidates already indexed)"
+  },
+  {
+    "date": "2026-08-07",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行（跨天连续游标轮换，两轮）。按收入代理排序队列逐个URL Inspection检查：已收录（URL is on Google）的候选跳过不消耗配额，共7个；找到未收录候选后提交REQUEST INDEXING，两轮各提交1个，共2个。",
+    "submitted_urls": [
+      "https://dayalmanac.com/red-ribbon-week/",
+      "https://dayalmanac.com/national-bosses-day/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-boyfriend-day/",
+      "https://dayalmanac.com/scorpio-dates/",
+      "https://dayalmanac.com/december-birthstone/",
+      "https://dayalmanac.com/national-daughters-day/",
+      "https://dayalmanac.com/national-sons-day/",
+      "https://dayalmanac.com/national-cat-day/",
+      "https://dayalmanac.com/national-coffee-day/"
+    ],
+    "quota_used": "2 requests (2轮各1次)"
+  },
+  {
+    "date": "2026-08-08",
+    "action": "skipped_all_indexed",
+    "reason": "trafficsite-gsc-index-requests例行运行。队列内9个候选全部已'URL is on Google'（自然收录），未消耗提交配额。附带发现：至少6个页面（national-boyfriend-day/national-daughters-day/national-sons-day/national-cat-day/national-coffee-day/national-grandparents-day）在Enhancements区域显示Events结构化数据'5-6 invalid items detected'，不影响索引状态但已作为独立任务flag，非本次任务处理范围。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-boyfriend-day/",
+      "https://dayalmanac.com/scorpio-dates/",
+      "https://dayalmanac.com/december-birthstone/",
+      "https://dayalmanac.com/national-daughters-day/",
+      "https://dayalmanac.com/national-sons-day/",
+      "https://dayalmanac.com/national-cat-day/",
+      "https://dayalmanac.com/national-coffee-day/",
+      "https://dayalmanac.com/national-grandparents-day/",
+      "https://dayalmanac.com/september-birthstone/"
+    ],
+    "quota_used": "0 requests (全部候选已自然收录)"
+  },
+  {
+    "date": "2026-08-09",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行。处理今日新发布 domestic-violence-awareness-month，URL Inspection确认'URL is not on Google'，REQUEST INDEXING后确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/domestic-violence-awareness-month/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 request"
   }
 ]

@@ -2634,5 +2634,152 @@ export const guides: Guide[] = [
     "image": "/images/national-taco-day.jpg",
     "imageAlt": "Interior of a taco restaurant, The Taco Project in Tarrytown, New York",
     "imageCredit": "Photo by Katlyn Giberson, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Taco_Project,_Tarrytown,_United_States_(Unsplash).jpg), CC0"
+  },
+  {
+    "slug": "national-hispanic-heritage-month",
+    "category": "Observances",
+    "title": "National Hispanic Heritage Month: Signed 1988, Proclaimed 1989",
+    "description": "Hispanic Heritage Month runs September 15 to October 15 every year, set by a 1988 law, though the first month-long proclamation waited until 1989.",
+    "published": "2026-08-10",
+    "updated": "2026-08-10",
+    "coreSummary": "National Hispanic Heritage Month runs from September 15 through October 15 every year, a range now codified at 36 U.S.C. § 126. Congress expanded the observance from a single week to a full month in August 1988, but President Reagan's own proclamation that same September still covered only the old week and cited none of the new law. The first proclamation to actually designate a full Hispanic Heritage Month came a year later, from President George H.W. Bush in September 1989, one of the 19 cosponsors of the original 1968 bill that started the observance as a week.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "National Hispanic Heritage Month runs from September 15 through October 15 every year, under a standing federal law that requests an annual presidential proclamation. Unlike most awareness months on this calendar, it does not track a single calendar month: it begins in the middle of September and ends in the middle of October, crossing two months every year.",
+      "source": {
+        "label": "36 U.S.C. § 126 — National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
+        "url": "https://www.law.cornell.edu/uscode/text/36/126"
+      },
+      "occurrences": [
+        { "date": "2026-09-15", "weekday": "Tuesday" },
+        { "date": "2027-09-15", "weekday": "Wednesday" },
+        { "date": "2028-09-15", "weekday": "Friday" },
+        { "date": "2029-09-15", "weekday": "Saturday" },
+        { "date": "2030-09-15", "weekday": "Sunday" },
+        { "date": "2031-09-15", "weekday": "Monday" }
+      ],
+      "caveat": "There's no dispute about the boundaries themselves: federal law, advocacy groups, and calendar sites all agree the observance runs from September 15 through October 15, and the table above lists September 15 as each year's start with the range understood to extend through October 15. What genuinely varies between sources is which year gets credited as the first Hispanic Heritage Month. Congress signed the law expanding the week-long observance to a full month on August 17, 1988, in time for that year's September window, but President Reagan's own proclamation that September, dated September 13, 1988, still designated only \"the week beginning September 11, 1988\" and cited solely the original 1968 statute. The first proclamation to actually invoke a full month came from President George H.W. Bush the following year, on September 14, 1989. Sources that list 1988 as the founding year are describing when the law passed; 1989 is when a President first proclaimed the month the law created."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The observance began as a week, not a month. On June 11, 1968, California Congressman George E. Brown introduced House Joint Resolution 1299, asking the President to proclaim annually the week including September 15 and 16 as \"National Hispanic Heritage Week.\" Nineteen cosponsors signed on, including two of the small number of Hispanic members then in Congress, Edward R. Roybal of California and Henry B. Gonzalez of Texas, along with 16 other representatives from five southwestern states and one from New York. One freshman Republican cosponsor from Texas, George H.W. Bush, would later matter to this story in a different way.\n\nThe bill moved quickly: it passed the House with a single amendment trimming its supporting language, cleared the Senate Judiciary Committee without changes, and President Lyndon Johnson signed it on September 17, 1968, as Public Law 90-498. Johnson issued the first Hispanic Heritage Week proclamation that same day.\n\nNineteen years later, in 1987, Representative Esteban Torres of California introduced H.R. 3182 to stretch the single week into a full month, arguing that a week left too little time to properly organize events. Torres's bill died in a House committee. What actually became law was a separate Senate companion, S. 2200, introduced by Senator Paul Simon of Illinois; it passed both chambers, and Reagan signed it as Public Law 100-402 on August 17, 1988, replacing \"week\" with \"month\" in the 1968 statute and fixing the range at September 15 through October 15.\n\nThe first President to actually proclaim a full Hispanic Heritage Month, rather than the old week, was George H.W. Bush, on September 14, 1989. Twenty-one years earlier, as a young Texas congressman, Bush had been one of the 19 names on Brown's original bill.",
+      "source": {
+        "label": "National Archives, Pieces of History — Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
+        "url": "https://prologue.blogs.archives.gov/2017/09/25/origins-of-national-hispanic-heritage-month/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "September 15 to October 15, not a calendar month",
+        "body": [
+          "National Hispanic Heritage Month runs from September 15 through October 15 every year. That's a real oddity on this calendar: most federally designated months here, Domestic Violence Awareness Month among them, track a single calendar month start to finish. This one opens in the middle of September and closes in the middle of October, crossing two calendar months every year without exception.",
+          "The range wasn't picked as a round number. September 15 is the shared independence anniversary of five Central American countries (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua), all of which declared independence from Spain on that date in 1821. Mexico's independence day, September 16, and Chile's independence day, September 18, both fall within the first few days of the window. October 12, long marked across much of Latin America as Día de la Raza, lands near the end of it. The 31-day span was drawn to bracket that whole cluster of national days, not to round out a tidy month."
+        ]
+      },
+      {
+        "heading": "Nineteen cosponsors, one future President",
+        "body": [
+          "On June 11, 1968, California Congressman George E. Brown introduced House Joint Resolution 1299, asking the President to proclaim a week each September in recognition of the country's Hispanic population. Nineteen cosponsors signed on, including two of the small number of Hispanic members then serving in Congress, Edward R. Roybal of California and Henry B. Gonzalez of Texas, alongside representatives from Colorado, New Mexico, Arizona, and one from New York. One cosponsor was a Republican freshman from Texas: George H.W. Bush.",
+          "The bill had an easy path. It passed the House with a single amendment that trimmed its supporting language down to a short operative text, then cleared the Senate Judiciary Committee without further changes. President Lyndon Johnson signed it into law on September 17, 1968, as Public Law 90-498, and issued the first National Hispanic Heritage Week proclamation, Proclamation 3869, that same day."
+        ]
+      },
+      {
+        "heading": "The bill that died, and the one that didn't",
+        "body": [
+          "Nineteen years later, in 1987, Representative Esteban Torres of California introduced H.R. 3182 to stretch the single week into a full month, arguing that a week didn't leave enough time to properly coordinate events and activities. Torres's bill died in a House committee and never reached a vote.",
+          "What actually became law was a separate bill. Senator Paul Simon of Illinois introduced a companion measure, S. 2200, that used the same core change Torres had proposed: deleting \"week\" from the 1968 statute and inserting \"month.\" Simon's bill passed both chambers, and President Reagan signed it as Public Law 100-402 on August 17, 1988, fixing the new range at September 15 through October 15. It's a detail a lot of retrospectives flatten, crediting Torres alone with creating the month. His bill supplied the idea and the language Simon's bill reused, but it was Simon's Senate version, not Torres's House one, that Reagan actually signed."
+        ]
+      },
+      {
+        "heading": "The month nobody proclaimed in 1988",
+        "body": [
+          "Here's the part most calendar sites skip. Reagan signed the new month-long law on August 17, 1988, weeks before that year's September 15 start date. But when the White House issued its proclamation that September, it wasn't for a month. Proclamation 5859, dated September 13, 1988, designates \"the week beginning September 11, 1988\" as National Hispanic Heritage Week, and cites only \"the Congress, by Joint Resolution approved September 17, 1968 (Public Law 90-498)\" as its authority. There is no mention of the new law Reagan himself had signed a month earlier.",
+          "The first proclamation to actually invoke the amended law came from Reagan's successor. On September 14, 1989, President George H.W. Bush proclaimed \"the month beginning September 15, 1989, and ending October 15, 1989\" as National Hispanic Heritage Month, citing Public Law 90-498 \"as amended,\" language that acknowledges the 1988 change. By then, Bush was 21 years removed from being one of the freshman cosponsors of Brown's original week-long bill."
+        ],
+        "image": {
+          "src": "/images/national-hispanic-heritage-month-timeline.svg",
+          "alt": "Timeline showing National Hispanic Heritage Month's path from the 1968 bill, through the 1988 law expanding it to a month, to Bush's first month-long proclamation in 1989 and its 1998 recodification"
+        }
+      },
+      {
+        "heading": "Fixed in the U.S. Code, observed unevenly since",
+        "body": [
+          "The observance got a permanent home in federal law in 1998, when Congress recodified Title 36 of the U.S. Code, the \"Patriotic and National Observances\" title, and the statute became 36 U.S.C. § 126. The text is short: the President is \"requested\" to issue a proclamation each year designating September 15 through October 15 and calling on the country, \"especially the educational community,\" to observe it.",
+          "That standing law is why the date range itself has never been in real dispute the way some observances on this calendar have been. What varies from year to year is the timing of the proclamation, not the dates it covers. In 2025, the White House proclamation wasn't signed until September 22, according to the Federal Register's own record of the document, a full week after the observance had already begun and later than each of the four proclamations issued during the same President's first term, all of which had gone out at least a day before September 15.",
+          "This calendar carries a small cluster of federally designated months with a similar shape: grassroots or congressional origins, formal recognition years after the fact, and a modern practice of presidential proclamation that doesn't always move in lockstep with the underlying law. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/), whose October dates overlap the back half of this window, took a different route to federal status. Congress designated it by name for one specific year, 1989, then renewed that designation once more for 1991, before Presidents began proclaiming the month on their own authority rather than under a standing law like this one. [National Grandparents Day](/national-grandparents-day/), observed just days before this window opens each year, needed a presidential proclamation and a separate act of Congress a year apart before its own date was settled. National Hispanic Heritage Month carries no legal holiday status either: no federal offices close and no paid leave attaches to it anywhere in the country, and it does not appear among the holidays listed at 5 U.S.C. § 6103(a)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of National Hispanic Heritage Month?",
+        "answer": "September 15 through October 15 every year, fixed by federal law at 36 U.S.C. § 126 rather than tied to a weekday or a single calendar month. The range crosses September and October every year without exception."
+      },
+      {
+        "question": "Who founded National Hispanic Heritage Month?",
+        "answer": "California Congressman George E. Brown introduced the original bill, House Joint Resolution 1299, in June 1968, with 19 cosponsors including Edward Roybal, Henry Gonzalez, and a young Texas congressman named George H.W. Bush. President Lyndon Johnson signed it into law that September as Public Law 90-498, starting the observance as a single week rather than a month."
+      },
+      {
+        "question": "Was 1988 or 1989 the first National Hispanic Heritage Month?",
+        "answer": "The law expanding the week to a month, Public Law 100-402, was signed in August 1988, but the first proclamation to actually designate a full month came from President George H.W. Bush in September 1989. Reagan's own proclamation in September 1988 still covered only a week and cited exclusively the original 1968 law, not the new one he had just signed."
+      },
+      {
+        "question": "Why does National Hispanic Heritage Month start on September 15 specifically?",
+        "answer": "September 15 is the shared independence anniversary of five Central American countries (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua) that all declared independence from Spain on that date in 1821. Mexico's independence day, September 16, and Chile's independence day, September 18, both fall within the same window."
+      },
+      {
+        "question": "Why isn't Representative Esteban Torres usually credited as the sole founder of the month-long version?",
+        "answer": "Torres did introduce the original bill to expand the week into a month, H.R. 3182, in 1987, but it died in a House committee and never came to a vote. The bill that actually became law, Public Law 100-402, was a separate Senate measure introduced by Senator Paul Simon of Illinois, using language similar to what Torres had proposed."
+      },
+      {
+        "question": "Is National Hispanic Heritage Month a federal holiday?",
+        "answer": "No. It does not appear among the federal holidays listed at 5 U.S.C. § 6103(a), no federal offices close for it, and no paid leave attaches to it anywhere in the country. It is an awareness observance backed by a standing federal law that requests an annual presidential proclamation, not a legal holiday."
+      },
+      {
+        "question": "Does the President have to issue a proclamation every year?",
+        "answer": "The statute requests a proclamation rather than requiring one, and timing has varied by administration. In 2025, the proclamation wasn't signed until September 22, a week after the observance had already begun, according to the Federal Register's record of the document."
+      }
+    ],
+    "sources": [
+      {
+        "label": "36 U.S.C. § 126 — National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
+        "url": "https://www.law.cornell.edu/uscode/text/36/126"
+      },
+      {
+        "label": "National Archives, Pieces of History — Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
+        "url": "https://prologue.blogs.archives.gov/2017/09/25/origins-of-national-hispanic-heritage-month/"
+      },
+      {
+        "label": "H.J.Res.1299, 90th Congress (1968) — full text and status (GovTrack)",
+        "url": "https://www.govtrack.us/congress/bills/90/hjres1299"
+      },
+      {
+        "label": "Ronald Reagan — Proclamation 5859, National Hispanic Heritage Week, 1988 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-5859-national-hispanic-heritage-week-1988"
+      },
+      {
+        "label": "George Bush — Proclamation 6021, National Hispanic Heritage Month, 1989 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6021-national-hispanic-heritage-month-1989"
+      },
+      {
+        "label": "H.R.3182, 100th Congress (1987-1988) — bill to amend Public Law 90-498 (Congress.gov)",
+        "url": "https://www.congress.gov/bill/100th-congress/house-bill/3182"
+      },
+      {
+        "label": "The Creation and Evolution of the National Hispanic Heritage Celebration — U.S. House of Representatives: History, Art & Archives",
+        "url": "https://history.house.gov/HistoricalHighlight/Detail/15032398402"
+      },
+      {
+        "label": "Federal Register — National Hispanic Heritage Month, 2025 (signing date record)",
+        "url": "https://www.federalregister.gov/documents/2025/09/25/2025-18708/national-hispanic-heritage-month-2025"
+      },
+      {
+        "label": "Forbes — Trump Hasn't Proclaimed Hispanic Heritage Month (Yet)—Unlike In First Term (Conor Murray, Sept. 15, 2025)",
+        "url": "https://www.forbes.com/sites/conormurray/2025/09/15/trump-hasnt-proclaimed-hispanic-heritage-month-yet-unlike-in-first-term/"
+      }
+    ],
+    "image": "/images/hispanic-heritage-month.jpg",
+    "imageAlt": "U.S. Military District of Washington Joint Armed Forces Color Guard presenting the colors at a National Hispanic Heritage Month observance",
+    "imageCredit": "USDA photo, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2016_Hispanic_Heritage_Observance_(20160915-DM-RBN-6802).jpg)"
   }
 ];

@@ -2781,5 +2781,145 @@ export const guides: Guide[] = [
     "image": "/images/hispanic-heritage-month.jpg",
     "imageAlt": "U.S. Military District of Washington Joint Armed Forces Color Guard presenting the colors at a National Hispanic Heritage Month observance",
     "imageCredit": "USDA photo, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2016_Hispanic_Heritage_Observance_(20160915-DM-RBN-6802).jpg)"
+  },
+  {
+    "slug": "no-shave-november",
+    "category": "Observances",
+    "title": "No-Shave November: All of November, Not the Same as Movember",
+    "description": "No-Shave November runs the full month of November every year. A Chicago family started it on Facebook in 2009, and it is a separate campaign from Movember.",
+    "published": "2026-08-10",
+    "updated": "2026-08-10",
+    "coreSummary": "No-Shave November is observed across all of November, every year, in the United States. It began in 2009 as a Facebook page started by the Hill family of the Chicago area in memory of their father, Matthew Hill, who died of colon cancer, and it now operates under Fight Colorectal Cancer. No act of Congress or presidential proclamation established it, and it is a separate campaign from Movember, not another name for the same thing.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "No-Shave November is observed across all of November, every year, from November 1 through November 30, rather than on a single date or a floating week within the month. The nonprofit that runs the campaign sets and repeats this range each year on its own; no law fixes it.",
+      "status": "conventional",
+      "source": {
+        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "url": "https://no-shave.org/"
+      },
+      "occurrences": [
+        { "date": "2026-11-01", "weekday": "Sunday" },
+        { "date": "2027-11-01", "weekday": "Monday" },
+        { "date": "2028-11-01", "weekday": "Wednesday" },
+        { "date": "2029-11-01", "weekday": "Thursday" },
+        { "date": "2030-11-01", "weekday": "Friday" },
+        { "date": "2031-11-01", "weekday": "Saturday" }
+      ],
+      "caveat": "There is no rival date range to sort out: every source, from the organizing nonprofit to news coverage to competing calendar sites, agrees the full month of November is No-Shave November. What is missing, compared to most other observances on this calendar, is any government body behind that date. Louisiana's legislature is the only one found to have recognized the campaign by name, and even that was for a single year: House Concurrent Resolution No. 20 of the 2014 Regular Session urged the state to recognize \"November 2014\" as No-Shave November, not a standing annual designation. No President has ever proclaimed it, and Congress has not designated it nationally in any year. The month itself is not in question; the legal authority behind it simply does not exist."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "No-Shave November traces to a single family's loss. Matthew Hill, of the Chicago area, died of colon cancer in November 2007. In 2009, his eldest daughter, Rebecca Hill, working with a friend, started a Facebook page called No-Shave November on behalf of the family, asking people to skip shaving and grooming for the month and donate what they would have spent on razors and haircuts to cancer research instead. The idea was to let hair grow as a visible stand-in for what chemotherapy patients lose. The first year raised about $2,000.\n\nThe campaign grew fast from there. It is widely reported to have partnered with the American Cancer Society in 2013, broadening its reach beyond the Hill family's own network. Nonprofit registries list the Matthew Hill Foundation, Inc. (EIN 47-3673254) as the organization formed in 2015 to run the campaign as a registered 501(c)(3). In 2024, the campaign changed hands again: it moved to Fight Colorectal Cancer (Fight CRC), a Springfield, Missouri-based nonprofit focused on colorectal cancer, which now operates No-Shave November directly. Fight CRC's own materials describe the current partner charities as Man Up To Cancer and the Prevent Cancer Foundation alongside Fight CRC itself, and state plainly, in their own words, \"We proudly carry forward the Hill family's inspiring legacy.\"\n\nWhat is documented and what is not documented are worth separating here. That the campaign began in 2009 as a Hill family project and that it moved to Fight CRC in 2024 both appear on the organization's own site, in general terms. The specific details of who led the 2009 launch, Rebecca Hill and a friend, and the roughly $2,000 raised in the first year, come from contemporaneous news coverage rather than the organization's own current site text. The 2013 American Cancer Society partnership and the 2015 foundation date rest on nonprofit trackers and news coverage in the same way, rather than a single primary announcement. That is a lower bar than a founder naming their own year on the record, but a considerably higher one than the vague \"has been celebrated since\" language most calendar sites use for this observance.",
+      "source": {
+        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "url": "https://no-shave.org/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, run by a nonprofit, not a government",
+        "body": [
+          "No-Shave November covers all 30 days of November, not a single date or a week inside it. On the calendar question, that makes this one of the simpler entries on this site: there is no nth-weekday arithmetic, no floating date, and no rival organization proposing different days. November 1 marks the start of each year's observance in the table above; it runs through November 30 in every case.",
+          "What sets this observance apart from most others on this calendar is not the date but the absence of any government behind it. Domestic Violence Awareness Month needed a joint resolution and a presidential proclamation. National Hispanic Heritage Month needed two separate acts of Congress a generation apart. No-Shave November has never had either. It is, from 2009 to today, a campaign a private nonprofit runs on its own authority, and that distinction matters more here than the dates do."
+        ]
+      },
+      {
+        "heading": "A family's tribute, 2007 to 2009",
+        "body": [
+          "Matthew Hill, of the Chicago area, died of colon cancer in November 2007. Two years later, his eldest daughter, Rebecca Hill, working with a friend, started a Facebook page called No-Shave November, inviting anyone to stop shaving for the month and give the money they would have spent on razors, haircuts, and shaving cream to cancer research instead. The reasoning the family gave for the idea was simple: cancer patients undergoing chemotherapy often lose their hair, so growing hair out for a month was a way to grow it for those who could not.",
+          "The first year raised roughly $2,000, a small enough sum that nothing about the campaign's early history reads as inevitable. What followed was closer to how a lot of internet fundraising actually spreads: word of mouth, then local news coverage, then eventually national attention, with the family's youngest members handling logistics like bracelet orders and support emails alongside their older siblings well into the campaign's second decade."
+        ],
+        "image": {
+          "src": "/images/no-shave-november-timeline.svg",
+          "alt": "Timeline showing No-Shave November's path from Matthew Hill's death in 2007 through the Hill family's 2009 Facebook launch to the campaign's 2024 move to Fight Colorectal Cancer"
+        }
+      },
+      {
+        "heading": "From a Facebook page to a registered nonprofit",
+        "body": [
+          "The campaign's organizational history since 2009 runs through a few identifiable steps, though not all of them are documented with the same precision as the founding itself. Reporting on the campaign describes a 2013 partnership with the American Cancer Society, which broadened its scope from the Hill family's own network into a more general cancer-research fundraising effort. Nonprofit registries separately list the Matthew Hill Foundation, Inc. as formed in 2015 to formalize the campaign as a tax-exempt organization.",
+          "The most recent change is also the best documented, because the organization itself states it plainly: in 2024, No-Shave November moved to Fight Colorectal Cancer, a national nonprofit headquartered in Springfield, Missouri. Fight CRC's own site describes the current arrangement as continuing the Hill family's work rather than replacing it, and lists Man Up To Cancer and the Prevent Cancer Foundation as the campaign's other current partner charities."
+        ]
+      },
+      {
+        "heading": "No-Shave November is not Movember",
+        "body": [
+          "The two campaigns are frequently confused, and the confusion runs in both directions: some assume No-Shave November is simply the American name for Movember, and others assume the reverse. Neither is true. Movember started in 2003 in Melbourne, Australia, when Travis Garone and Luke Slattery encouraged friends to grow mustaches for the month, initially in support of prostate cancer research; it later broadened to cover men's mental health and suicide prevention as well. No-Shave November started six years later and an ocean away, out of one Chicago family's loss.",
+          "The rules differ, too. Movember asks participants to start the month clean-shaven and grow a mustache only, nothing else. No-Shave November has no such requirement: the instruction is simply not to shave, full stop, whether that means a beard, a mustache, or, for women who choose to participate, skipping other hair removal. Fight CRC's own rules page puts it this way: some people avoid shaving anything, others focus on one area, and the campaign leaves the specifics up to the participant. Two different nonprofits, two different rule sets, and two founding stories that never intersect."
+        ]
+      },
+      {
+        "heading": "What counts as participating",
+        "body": [
+          "No-Shave November carries no legal status of any kind. No federal or state offices close for it, and no workplace is required to recognize it. Participation is entirely informal: skip shaving and grooming for the month, and either pledge the money saved directly or simply donate to one of the campaign's partner charities. Fight CRC's fundraising pages let individuals or teams set their own targets, and businesses can register as sponsors.",
+          "Because the campaign was reinvented by a family rather than legislated into existence, its shape has shifted more than most observances on this calendar without ever changing its dates. What has stayed constant since 2009 is the core idea: let hair grow as a visible reminder of what cancer patients lose, and redirect a month of grooming money toward research instead."
+        ]
+      },
+      {
+        "heading": "Where this fits among grassroots observances",
+        "body": [
+          "No-Shave November belongs to a small group of observances on this calendar that a private individual or family started and that never picked up federal backing at all. [National Sons Day](/national-sons-day/) has a documented founder for its March 4 date, Jill Nico in 2018, but like this campaign, no federal recognition of any kind; a rival September 28 date for that same observance circulates widely with no traceable origin at all. [Red Ribbon Week](/red-ribbon-week/), by contrast, has been organized every year since 1988 by a single nonprofit, not a federal agency, much like this campaign, though its founding traces to a slain DEA agent rather than a private family's loss. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) shows the other path entirely: an advocacy-founded observance that did eventually get a congressional designation, if only for two specific years."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the dates of No-Shave November?",
+        "answer": "The entire month of November, every year, from November 1 through November 30. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded No-Shave November?",
+        "answer": "The Hill family of the Chicago area, in 2009. Matthew Hill died of colon cancer in November 2007, and two years later his eldest daughter, Rebecca Hill, working with a friend, started a Facebook page inviting people to skip shaving for the month and donate what they saved to cancer research."
+      },
+      {
+        "question": "Is No-Shave November the same as Movember?",
+        "answer": "No. Movember started in 2003 in Melbourne, Australia, and asks participants to start the month clean-shaven and grow a mustache only. No-Shave November started in 2009 in the Chicago area and has no clean-shave requirement, allowing any form of not shaving. They are separately founded, separately run campaigns that happen to overlap on the calendar."
+      },
+      {
+        "question": "Is No-Shave November a federal holiday or an official government observance?",
+        "answer": "No. No President has ever proclaimed it and Congress has not designated it nationally. Louisiana's legislature passed a one-year resolution recognizing \"November 2014\" specifically, but no comparable federal or standing state recognition exists."
+      },
+      {
+        "question": "What organization runs No-Shave November today?",
+        "answer": "Fight Colorectal Cancer (Fight CRC), a national nonprofit based in Springfield, Missouri, which took over operating the campaign in 2024. Its current partner charities are Man Up To Cancer and the Prevent Cancer Foundation, alongside Fight CRC itself."
+      },
+      {
+        "question": "Can women participate in No-Shave November?",
+        "answer": "Yes. The campaign has no gender restriction. Women commonly participate by skipping other forms of hair removal for the month, fundraising, or simply supporting participants and donating directly."
+      },
+      {
+        "question": "Do I have to start the month clean-shaven?",
+        "answer": "No, and this is one of the clearest differences from Movember. No-Shave November has no clean-shave starting requirement and no restriction to a mustache; the organizers leave the specifics of what not to shave up to each participant."
+      }
+    ],
+    "sources": [
+      {
+        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "url": "https://no-shave.org/"
+      },
+      {
+        "label": "Fight Colorectal Cancer — No Shave November Rules",
+        "url": "https://fightcolorectalcancer.org/no-shave-november-rules/"
+      },
+      {
+        "label": "TODAY — 'No-Shave November' family pays tribute to dad with cancer fundraiser (Eun Kyung Kim, Nov. 2, 2015)",
+        "url": "https://www.today.com/health/no-shave-november-family-pays-tribute-dad-cancer-fundraiser-t53456"
+      },
+      {
+        "label": "Daffy — Matthew Hill Foundation Inc (EIN 47-3673254) nonprofit profile",
+        "url": "https://www.daffy.org/charities/473673254-matthew-hill-foundation-inc-emeryville-ca"
+      },
+      {
+        "label": "Louisiana Legislature — House Concurrent Resolution No. 20, 2014 Regular Session",
+        "url": "https://legis.la.gov/Legis/ViewDocument.aspx?d=881792"
+      },
+      {
+        "label": "The Manual — No-Shave November vs. Movember: There's a difference between these 2 causes",
+        "url": "https://www.themanual.com/grooming/no-shave-november-vs-movember/"
+      }
+    ],
+    "image": "/images/no-shave-november.jpg",
+    "imageAlt": "Timeline illustration showing No-Shave November's path from a 2007 family loss to the 2024 move to Fight Colorectal Cancer"
   }
 ];

@@ -104,5 +104,17 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 request"
+  },
+  {
+    "date": "2026-08-10",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行。今日两篇新发布：national-hispanic-heritage-month查询已收录未提交；no-shave-november查询确认'URL is unknown to Google'，REQUEST INDEXING后确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/no-shave-november/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-hispanic-heritage-month/"
+    ],
+    "quota_used": "1 request"
   }
 ]

@@ -2921,5 +2921,162 @@ export const guides: Guide[] = [
     ],
     "image": "/images/no-shave-november.jpg",
     "imageAlt": "Timeline illustration showing No-Shave November's path from a 2007 family loss to the 2024 move to Fight Colorectal Cancer"
+  },
+  {
+    "slug": "breast-cancer-awareness-month",
+    "category": "Observances",
+    "title": "Breast Cancer Awareness Month: All of October, and Who Started It",
+    "description": "Breast Cancer Awareness Month covers all of October. It began in 1985 as a drug-company campaign, and no permanent federal law renews it automatically.",
+    "published": "2026-08-10",
+    "updated": "2026-08-10",
+    "coreSummary": "Breast Cancer Awareness Month is observed across all of October, every year, in the United States. The American Cancer Society's own materials date its founding to 1985 and describe the ACS as a co-creator, without naming a corporate partner; Wikipedia and other secondary accounts add that the pharmaceutical arm of Imperial Chemical Industries (later Zeneca, then AstraZeneca) was a founding partner, and a peer-reviewed 2003 academic study dates the founding to 1984 and credits the drugmaker alone. Congress designated specific years by name through 1994; no permanent statute renews the observance automatically, and every President has simply kept proclaiming it since.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Breast Cancer Awareness Month is observed across all of October, every year, from October 1 through October 31, rather than on a single date or a floating week within the month. Congress first designated the observance by name for a specific year, October 1990, in Senate Joint Resolution 301, and President George Bush issued the first federal proclamation, Number 6202, that October.",
+      "source": {
+        "label": "George Bush — Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6202-national-breast-cancer-awareness-month-1990"
+      },
+      "occurrences": [
+        { "date": "2026-10-01", "weekday": "Thursday" },
+        { "date": "2027-10-01", "weekday": "Friday" },
+        { "date": "2028-10-01", "weekday": "Sunday" },
+        { "date": "2029-10-01", "weekday": "Monday" },
+        { "date": "2030-10-01", "weekday": "Tuesday" },
+        { "date": "2031-10-01", "weekday": "Wednesday" }
+      ],
+      "caveat": "There is no rival date range to sort out: every source, corporate, federal, and advocacy alike, agrees the entire month of October is Breast Cancer Awareness Month, so the table above lists October 1 as each year's start with the understanding that the observance runs through October 31 in every case. What is genuinely unsettled is the founding year and the legal footing behind it. The American Cancer Society's own 2025 fortieth-anniversary materials date the founding to 1985; a peer-reviewed 2003 study in the Quarterly Journal of Speech instead states \"since 1984, October has been recognized\" as the observance, citing the founding organization's own website. Neither the 1985 nor the 1984 account is a Congressional or Presidential source, since the observance began purely as a corporate and nonprofit initiative five years before any government body acted on it. Once Congress did act, it designated specific years by name rather than passing one standing law: Senate Joint Resolution 301 for October 1990, Public Law 102-120 for October 1991, House Joint Resolution 11 for October 1993, and Public Law 103-367 for October 1994. No such year-specific designation has been found on the record since 1994; President Clinton's own October 1996 proclamation opens \"each year we set aside the month of October\" without citing any accompanying resolution, and every proclamation since has read the same way."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "National Breast Cancer Awareness Month (NBCAM) began as a campaign with a pharmaceutical company involved from the start, not as a project of a government agency alone. The American Cancer Society's own materials, including its 2025 fortieth-anniversary press release, state that the ACS \"co-led the effort to start Breast Cancer Awareness Month\" as a week-long campaign in 1985 — but that ACS material does not itself name a corporate partner. The corporate partner most secondary accounts name, including Wikipedia's article on the observance, is the pharmaceutical division of Imperial Chemical Industries (ICI), a British conglomerate whose drug arm was spun off as a separate company, Zeneca, in 1993, and which merged with the Swedish company Astra AB in 1999 to form AstraZeneca.\n\nA third account complicates both of the above. A peer-reviewed 2003 study by Phaedra C. Pezzullo in the Quarterly Journal of Speech opens by stating plainly, \"Since 1984, October has been recognized in the U.S. as National Breast Cancer Awareness Month,\" and credits the founding to \"Zeneca, a subsidiary of Imperial Chemical Industries Limited\" alone, citing the observance's own website as her source, with no mention of the American Cancer Society as a founding partner at all. Between the three tellings, only the drugmaker's involvement is undisputed; the year (1985 versus 1984), whether a health charity co-founded the campaign or the drug company acted alone, and which specific company is named all vary depending on which account is followed. This page follows the ACS's own more recent and more widely repeated 1985 date while presenting the other two accounts' details, rather than silently picking one telling as definitive.\n\nNBCAM's own FAQ page, archived by the observance's organizers in 2011, credits former First Lady Betty Ford and her daughter Susan Ford Bales with an early televised appeal that \"call[ed] attention to the importance of screening\" and helped galvanize wider public interest soon after the campaign began; Ford's own mastectomy, eleven years earlier in 1974, is what first made her a public figure on the subject, but the appeal credited with helping launch the observance itself was a separate, later event.\n\nFederal recognition came five years after the campaign's own founding date, not alongside it. Congress designated \"October 1990\" as National Breast Cancer Awareness Month by Senate Joint Resolution 301, and President George Bush issued the first federal proclamation, Number 6202, that same October. Congress repeated the exercise for specific years at least three more times: Public Law 102-120 for October 1991, House Joint Resolution 11 for October 1993, and Public Law 103-367 for October 1994. No comparable year-specific designation has been found on the record after 1994. By October 1996, President Clinton's proclamation cited no resolution at all, opening simply \"each year we set aside the month of October,\" and every proclamation since has followed that same pattern: an annual custom carried out under general executive authority, not a fresh act of Congress.\n\nA separate strand of the record documents why some public-health researchers and advocacy groups have called the observance's origins into question. Zeneca Inc., the U.S. arm of the ICI drug business, began an in-house breast-cancer screening program for its own employees in 1989. In 1996, the company totaled the direct healthcare and lost-productivity costs of that program and found it had cost $400,000 to run, against an estimated $1.5 million the company would have spent had employees' cancers instead been caught at later, more expensive stages, for a calculated savings of $1.1 million. Pezzullo's peer-reviewed analysis, reading that figure directly off AstraZeneca's own NBCAM website, concludes that \"(Astra)Zeneca's initial justification for NBCAM was one of basic accounting, not a critique of how women's healthcare has been assessed or implemented nor a desire to prevent women from developing breast cancer.\"",
+      "source": {
+        "label": "American Cancer Society — Turning Awareness Into Action: American Cancer Society Recognizes 40 Years of Breast Cancer Awareness Month (press release)",
+        "url": "https://pressroom.cancer.org/40-years-of-breast-cancer-awareness-month"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, every year",
+        "body": [
+          "There is no rival date range to reconcile here: corporate sponsors, federal proclamations, and advocacy groups all treat the full 31 days of October as Breast Cancer Awareness Month, with no nth-weekday arithmetic or floating week involved. October 1 marks the start of each year's observance in the table above; it runs through October 31 in every case.",
+          "What is unsettled is not the calendar but the paperwork behind it, on two separate points: exactly which year the campaign began, and whether any law currently requires it to happen again next October. Most calendar sites skip past both questions entirely."
+        ]
+      },
+      {
+        "heading": "Founded in 1985, or 1984, by a drug company",
+        "body": [
+          "The American Cancer Society's own materials, including its 2025 fortieth-anniversary press release, state that the ACS \"co-led the effort to start Breast Cancer Awareness Month\" as a week-long campaign in 1985 — but that ACS material does not itself name which company it partnered with. The corporate partner most secondary accounts name, including Wikipedia's article on the observance, is the pharmaceutical division of Imperial Chemical Industries (ICI). That drug division was spun off as its own company, Zeneca, in 1993, and merged with Sweden's Astra AB in 1999 to form AstraZeneca, the company most sources now credit as the observance's corporate sponsor.",
+          "A peer-reviewed 2003 study by communication scholar Phaedra C. Pezzullo, published in the Quarterly Journal of Speech, opens with a flatly different claim: \"Since 1984, October has been recognized in the U.S. as National Breast Cancer Awareness Month,\" founded, in her account, by \"Zeneca, a subsidiary of Imperial Chemical Industries Limited\" alone, without crediting the American Cancer Society as a co-founder at all. Pezzullo's source for that claim was the observance's own website as it read at the time she wrote. Between the three tellings, only the drugmaker's involvement is undisputed; the year, whether a health charity co-founded the campaign, and which specific document actually names the corporate partner all vary depending on which account is followed. Neither the ACS's nor Pezzullo's account has been shown to be simply mistaken, so both are presented here rather than one being silently preferred."
+        ]
+      },
+      {
+        "heading": "Federal recognition arrived five years later, and it was never permanent",
+        "body": [
+          "The campaign's own founding date, whichever year is correct, predates any government involvement by roughly five years. Congress first designated the observance by name in Senate Joint Resolution 301, which named \"October 1990\" specifically, and President George Bush issued the first federal proclamation, Number 6202, that same month. That was a one-year designation, not a standing law that renews itself.",
+          "Congress went back and repeated the exercise, by name, at least three more times: Public Law 102-120 designated October 1991, House Joint Resolution 11 designated October 1993, and Public Law 103-367 designated October 1994. No comparable year-specific designation from Congress has turned up on the record since. By October 1996, President Clinton's proclamation opened with \"each year we set aside the month of October\" and cited no accompanying resolution at all, and every proclamation issued in the decades since, across multiple administrations, has followed that same pattern: an annual custom under general executive authority, not a fresh act of Congress behind each year's observance."
+        ],
+        "image": {
+          "src": "/images/breast-cancer-awareness-month-timeline.svg",
+          "alt": "Timeline from the observance's 1985 founding by the American Cancer Society and Imperial Chemical Industries through the 1990-1994 congressional designations to the 2003 academic critique of its corporate origins"
+        }
+      },
+      {
+        "heading": "The pink ribbon is a separate, later story",
+        "body": [
+          "It is easy to assume the pink ribbon and the awareness month arrived together. They did not. The observance itself dates to the mid-1980s, but the pink ribbon as its now-familiar symbol traces to the early 1990s: in the fall of 1991, the Susan G. Komen Foundation handed out pink ribbons to participants at its New York City Race for the Cure, and separately, a California woman named Charlotte Haley had already been distributing peach-colored ribbons of her own to protest what she saw as inadequate research funding. In 1993, Evelyn Lauder, senior corporate vice president of the Estée Lauder Companies, founded the Breast Cancer Research Foundation and formally adopted the pink ribbon as that foundation's symbol, well after Haley's peach ribbons and Komen's pink ones had already appeared. A reader who assumes the ribbon was chosen at the observance's 1985 (or 1984) founding is off by roughly a decade."
+        ]
+      },
+      {
+        "heading": "Why some public-health researchers call it pinkwashing",
+        "body": [
+          "The observance's corporate origins are the basis for a specific, documented line of criticism rather than a vague complaint. Zeneca Inc., the U.S. drug-business arm behind the observance's founding, started an in-house breast-cancer screening program for its own employees in 1989. In 1996, the company tallied the direct healthcare and lost-productivity costs of running that program and found it had cost $400,000, against an estimated $1.5 million the company projected it would otherwise have spent on employees whose cancers were instead caught at later, costlier stages, a calculated savings of $1.1 million. Pezzullo's 2003 peer-reviewed analysis, reading that figure directly from AstraZeneca's own NBCAM website, concludes that \"(Astra)Zeneca's initial justification for NBCAM was one of basic accounting, not a critique of how women's healthcare has been assessed or implemented nor a desire to prevent women from developing breast cancer.\"",
+          "The advocacy group Breast Cancer Action has used the term pinkwashing specifically to describe companies that manufacture or use chemicals linked to cancer while simultaneously sponsoring campaigns to fight it, and ran an ongoing \"Think Before You Pink\" campaign directed in part at the observance's sponsor list. A separate coalition, the Toxic Links Coalition, formed in the San Francisco Bay Area in 1994 and has organized annual \"Stop Cancer Where It Starts\" walking tours since at least 1997, deliberately reframing October as what it calls Cancer Industry Awareness Month rather than accepting the corporate-sponsored name. The New York Times reported in October 2015 that fine-print disclaimers on some pink-branded products sold by Dick's Sporting Goods showed that, in certain cases, no money at all reached breast-cancer research, and that other companies capped their research donations each October without disclosing to shoppers when that cap had already been reached."
+        ]
+      },
+      {
+        "heading": "What the month does and does not carry with it",
+        "body": [
+          "Breast Cancer Awareness Month carries no federal holiday status: no federal offices close, and no paid leave attaches to it. What happens instead is decentralized: the White House has illuminated itself pink every October in recent years, NFL teams and officials incorporate pink into games throughout the month, and hospitals, employers, and local organizations run their own screening drives and fundraising walks on no fixed national schedule.",
+          "One narrower observance sits inside the month and is easy to conflate with it: National Metastatic Breast Cancer Awareness Day, October 13, which the House and Senate designated by simple resolution, S.Res. 295 and H.Res. 787, specifically for 2009. Unlike the joint resolutions and public laws behind the broader month, a simple chamber resolution does not require the President's signature and does not carry the force of law, and no comparable resolution renewing the specific date has surfaced since. Advocacy groups have kept observing October 13 every year regardless, but that continuity comes from custom, not from a renewed act of Congress, the same pattern that now governs the month around it.",
+          "This calendar has covered a small cluster of October observances that reached their current shape through different routes. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) followed a similar arc, a single congressional designation in 1989, repeated once in 1991, then sustained by presidential custom alone, though its founding sat with a single advocacy nonprofit rather than a drug company. [Red Ribbon Week](/red-ribbon-week/) got its own congressional proclamation for its first national year, 1988, but no standing federal statute follows it either, and it is the National Family Partnership, not the DEA, that has actually run it on fixed dates every year since. [No-Shave November](/no-shave-november/), which follows immediately after this month ends, has never had any federal recognition whatsoever, not even a one-year designation, a useful reminder that this month's history of at least four congressional acts, however discontinued, puts it on firmer legal ground than most of the observances that share its shape."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Breast Cancer Awareness Month?",
+        "answer": "The entire month of October, every year, from October 1 through October 31. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded Breast Cancer Awareness Month, and in what year?",
+        "answer": "The American Cancer Society's own materials, most recently repeated in its 2025 fortieth-anniversary press release, say the ACS \"co-led the effort\" to start the observance in 1985, without naming a corporate partner. Secondary accounts, including Wikipedia, add that the pharmaceutical division of Imperial Chemical Industries (later Zeneca, then AstraZeneca) was that partner. A peer-reviewed 2003 academic study instead states the observance began in 1984 and credits the drugmaker alone, without the American Cancer Society as a co-founder. All three accounts are documented, and none has been shown to be simply mistaken."
+      },
+      {
+        "question": "Did Congress pass a permanent law that automatically renews this observance every year?",
+        "answer": "No. Congress designated specific years by name at least four times: Senate Joint Resolution 301 (October 1990), Public Law 102-120 (October 1991), House Joint Resolution 11 (October 1993), and Public Law 103-367 (October 1994). No comparable year-specific designation has been found on the record since 1994. Every presidential proclamation since, across multiple administrations, has cited only general executive authority rather than a new act of Congress."
+      },
+      {
+        "question": "Is Breast Cancer Awareness Month a federal holiday?",
+        "answer": "No. No federal offices close and no paid leave attaches to it. It is an awareness observance marked through proclamations, corporate campaigns, and local fundraising events, not a legal holiday."
+      },
+      {
+        "question": "What is \"pinkwashing,\" and why is that term used for this observance?",
+        "answer": "Pinkwashing is a term the advocacy group Breast Cancer Action has used to describe companies that manufacture or use chemicals linked to cancer while also publicly sponsoring campaigns to fight it. The criticism traces to the observance's own corporate origins: its founding sponsor's U.S. drug arm ran a 1989 employee screening program, and a 1996 internal cost analysis of that program, showing a $1.1 million calculated savings, was later read by a peer-reviewed 2003 academic study as evidence the campaign's initial justification was corporate cost accounting rather than a critique of women's healthcare."
+      },
+      {
+        "question": "Did the pink ribbon originate at the same time as the awareness month?",
+        "answer": "No. The observance itself dates to the mid-1980s, but the pink ribbon traces to the early 1990s: pink ribbons appeared at the Susan G. Komen Foundation's 1991 Race for the Cure in New York, alongside California resident Charlotte Haley's separate peach-ribbon protest campaign, and the pink ribbon was not formally adopted as a foundation symbol until Evelyn Lauder founded the Breast Cancer Research Foundation in 1993."
+      },
+      {
+        "question": "Is National Metastatic Breast Cancer Awareness Day (October 13) a permanent federal designation?",
+        "answer": "No. The House and Senate designated October 13 specifically for 2009 through simple resolutions, S.Res. 295 and H.Res. 787, which do not require a presidential signature and do not carry the force of law. No comparable resolution renewing that specific date has surfaced in later years; advocacy groups have simply kept observing it every October 13 by custom."
+      }
+    ],
+    "sources": [
+      {
+        "label": "George Bush — Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-6202-national-breast-cancer-awareness-month-1990"
+      },
+      {
+        "label": "William J. Clinton — Proclamation, National Breast Cancer Awareness Month, 1996 (Clinton White House Archives)",
+        "url": "https://clintonwhitehouse6.archives.gov/1996/10/1996-10-03-proclamation-of-breast-cancer-awareness-month.html"
+      },
+      {
+        "label": "American Cancer Society — Turning Awareness Into Action: 40 Years of Breast Cancer Awareness Month",
+        "url": "https://www.cancer.org/cancer/latest-news/our-impact/turning-awareness-into-action-40-years-of-breast-cancer-awareness-month.html"
+      },
+      {
+        "label": "Phaedra C. Pezzullo — \"Resisting 'National Breast Cancer Awareness Month': The Rhetoric of Counterpublics and their Cultural Performances,\" Quarterly Journal of Speech, Vol. 89, No. 4 (November 2003), pp. 345-365",
+        "url": "https://doi.org/10.1080/0033563032000160981"
+      },
+      {
+        "label": "National Breast Cancer Awareness Month — official FAQ (archived 2011, AstraZeneca HealthCare Foundation)",
+        "url": "https://web.archive.org/web/20110716123431/http://www.nbcam.org/about_faq.cfm"
+      },
+      {
+        "label": "Wikipedia — Breast Cancer Awareness Month",
+        "url": "https://en.wikipedia.org/wiki/Breast_Cancer_Awareness_Month"
+      },
+      {
+        "label": "The New York Times — A Growing Disenchantment With October 'Pinkification' (Gina Kolata, Oct. 30, 2015)",
+        "url": "https://www.nytimes.com/2015/10/31/health/breast-cancer-awareness-pink.html"
+      },
+      {
+        "label": "GovTrack — S.Res. 295 (111th Congress), National Metastatic Breast Cancer Awareness Day",
+        "url": "https://www.govtrack.us/congress/bills/111/sres295/text"
+      },
+      {
+        "label": "Congress.gov — Public Law 102-120, 105 Stat. 609",
+        "url": "https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg609.pdf"
+      },
+      {
+        "label": "Congress.gov — Public Law 103-367, 108 Stat. 3473",
+        "url": "https://www.congress.gov/103/statute/STATUTE-108/STATUTE-108-Pg3473.pdf"
+      }
+    ],
+    "image": "/images/breast-cancer-awareness-month.jpg",
+    "imageAlt": "The White House illuminated pink at night in honor of National Breast Cancer Awareness Month, October 2017",
+    "imageCredit": "Official White House Photo by D. Myles Cullen, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_House_illuminated_pink_in_2017.jpg)"
   }
 ];

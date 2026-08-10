@@ -1,0 +1,72 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of National Breast Cancer Awareness Month, 1985 to 2003</title>
+  <desc id="desc">1985: the American Cancer Society and, according to most secondary accounts, the pharmaceutical arm of Imperial Chemical Industries found National Breast Cancer Awareness Month, though a 2003 peer-reviewed account instead dates the founding to 1984 and credits the drugmaker alone. 1989: Zeneca Inc. starts an in-house employee breast-cancer screening program. 1990: Congress designates October 1990 by joint resolution and President Bush issues the first federal proclamation. 1994: Congress designates a specific year by name for the last time on record. 1999: Zeneca merges with Astra AB to form AstraZeneca. 2003: a peer-reviewed academic critique in the Quarterly Journal of Speech documents the corporate origins critics have called pinkwashing.</desc>
+  <rect width="1200" height="400" fill="#faf7f0" />
+
+  <text x="600" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">A drugmaker's campaign, then a federal one, then a contested one</text>
+
+  <line x1="70" y1="210" x2="1130" y2="210" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1985 -->
+  <circle cx="120" cy="210" r="8" fill="#8a6d3b" />
+  <text x="120" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1985</text>
+  <text x="120" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="120" dy="0">ACS and ICI's drug</tspan>
+    <tspan x="120" dy="16">arm found NBCAM</tspan>
+    <tspan x="120" dy="16">(a 2003 paper says 1984,</tspan>
+    <tspan x="120" dy="16">drugmaker alone)</tspan>
+  </text>
+
+  <!-- 1989 -->
+  <circle cx="330" cy="210" r="8" fill="#8a6d3b" />
+  <text x="330" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1989</text>
+  <text x="330" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="330" dy="0">Zeneca Inc. starts an</tspan>
+    <tspan x="330" dy="16">in-house employee</tspan>
+    <tspan x="330" dy="16">screening program</tspan>
+  </text>
+
+  <!-- 1990 -->
+  <circle cx="540" cy="210" r="8" fill="#a8352b" />
+  <text x="540" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1990</text>
+  <text x="540" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="540" dy="0">Congress designates</tspan>
+    <tspan x="540" dy="16">October 1990 by name;</tspan>
+    <tspan x="540" dy="16">Bush issues the first</tspan>
+    <tspan x="540" dy="16">federal proclamation</tspan>
+  </text>
+
+  <!-- 1994 -->
+  <circle cx="750" cy="210" r="8" fill="#a8352b" />
+  <text x="750" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1994</text>
+  <text x="750" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="750" dy="0">Congress designates a</tspan>
+    <tspan x="750" dy="16">specific year by name</tspan>
+    <tspan x="750" dy="16">for the last time on</tspan>
+    <tspan x="750" dy="16">record</tspan>
+  </text>
+
+  <!-- 1999 -->
+  <circle cx="945" cy="210" r="8" fill="#8a6d3b" />
+  <text x="945" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1999</text>
+  <text x="945" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="945" dy="0">Zeneca merges with</tspan>
+    <tspan x="945" dy="16">Astra AB to form</tspan>
+    <tspan x="945" dy="16">AstraZeneca</tspan>
+  </text>
+
+  <!-- 2003 -->
+  <circle cx="1140" cy="210" r="8" fill="#5b6d45" />
+  <text x="1085" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2003</text>
+  <text x="1085" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="1085" dy="0">Peer-reviewed critique</tspan>
+    <tspan x="1085" dy="16">documents the origins</tspan>
+    <tspan x="1085" dy="16">critics have called</tspan>
+    <tspan x="1085" dy="16">"pinkwashing"</tspan>
+  </text>
+
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Gold marks corporate action, red marks congressional or presidential action, green marks the academic record.</tspan>
+    <tspan x="600" dy="19">Congress has not designated a specific year by name since 1994; every proclamation since has cited only presidential authority.</tspan>
+  </text>
+</svg>

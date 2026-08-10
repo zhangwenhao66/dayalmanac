@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of American Diabetes Month, 1975 to 2025</title>
+  <desc id="desc">1975: the American Diabetes Association says it first declared a National Diabetes Awareness Month, a claim not verified in its own current materials. 1981: President Reagan proclaims National Diabetes Week, a single week in October, not a month. 1982: Reagan proclaims the first National Diabetes Month, for November, under Senate Joint Resolution 257. 1985: Congress renews the designation by name again, under Senate Joint Resolution 145. 1991 and 2006: the International Diabetes Federation and World Health Organization create World Diabetes Day, November 14, later made an official United Nations day, a separate single-day observance. 2021 to 2025: Congress shifts to non-binding, Senate-only resolutions, and the White House format varies between a formal Proclamation and a shorter Presidential Message.</desc>
+  <rect width="1200" height="630" fill="#faf7f0" />
+
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#1f1d1a">American Diabetes Month, from a claim to a custom</text>
+  <text x="600" y="111" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1f1d1a" opacity="0.6">A week became a month in 1982; no law has ever made either permanent</text>
+
+  <line x1="70" y1="360" x2="1130" y2="360" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1975 -->
+  <circle cx="130" cy="360" r="8" fill="#8a8471" />
+  <text x="130" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1975</text>
+  <text x="130" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="130" dy="0">ADA says it first</tspan>
+    <tspan x="130" dy="17">marked the month;</tspan>
+    <tspan x="130" dy="17">unverified today</tspan>
+  </text>
+
+  <!-- 1981 -->
+  <circle cx="315" cy="360" r="8" fill="#a8352b" />
+  <text x="315" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1981</text>
+  <text x="315" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="315" dy="0">Reagan proclaims</tspan>
+    <tspan x="315" dy="17">a single WEEK,</tspan>
+    <tspan x="315" dy="17">Oct. 4 to 10</tspan>
+  </text>
+
+  <!-- 1982 -->
+  <circle cx="500" cy="360" r="9" fill="#5b6d45" />
+  <text x="500" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">1982</text>
+  <text x="500" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="500" dy="0">First MONTH</tspan>
+    <tspan x="500" dy="17">proclamation, per</tspan>
+    <tspan x="500" dy="17">S.J.Res. 257</tspan>
+  </text>
+
+  <!-- 1985 -->
+  <circle cx="685" cy="360" r="8" fill="#5b6d45" />
+  <text x="685" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1985</text>
+  <text x="685" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="685" dy="0">Congress renews</tspan>
+    <tspan x="685" dy="17">by name again,</tspan>
+    <tspan x="685" dy="17">S.J.Res. 145</tspan>
+  </text>
+
+  <!-- 1991/2006 -->
+  <circle cx="870" cy="360" r="8" fill="#8a6a2f" />
+  <text x="870" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1991 / 2006</text>
+  <text x="870" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="870" dy="0">IDF/WHO create</tspan>
+    <tspan x="870" dy="17">World Diabetes Day,</tspan>
+    <tspan x="870" dy="17">later a UN day</tspan>
+  </text>
+
+  <!-- 2021-2025 -->
+  <circle cx="1065" cy="360" r="8" fill="#2f4858" />
+  <text x="1065" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2021&#8211;25</text>
+  <text x="1065" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="1065" dy="0">Congress goes</tspan>
+    <tspan x="1065" dy="17">symbolic-only; White</tspan>
+    <tspan x="1065" dy="17">House format varies</tspan>
+  </text>
+
+  <!-- Legend -->
+  <g font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.7">
+    <circle cx="220" cy="470" r="6" fill="#8a8471" /><text x="234" y="474">Unverified organizational claim</text>
+    <circle cx="220" cy="496" r="6" fill="#a8352b" /><text x="234" y="500">Proclaims a week, not a month</text>
+    <circle cx="600" cy="470" r="6" fill="#5b6d45" /><text x="614" y="474">Congressional joint resolution + proclamation</text>
+    <circle cx="600" cy="496" r="6" fill="#8a6a2f" /><text x="614" y="500">International / United Nations action</text>
+    <circle cx="220" cy="522" r="6" fill="#2f4858" /><text x="234" y="526">Non-binding resolution / presidential custom</text>
+  </g>
+</svg>

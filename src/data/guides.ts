@@ -1188,7 +1188,7 @@ export const guides: Guide[] = [
         { "date": "2030-10-29", "weekday": "Tuesday" },
         { "date": "2031-10-29", "weekday": "Wednesday" }
       ],
-      "caveat": "October 29 is the date for National Cat Day specifically, a US observance. It is not the only cat-themed observance on the calendar and gets confused with at least three others that use different dates and have different founders: International Cat Day (August 8, founded 2002 by the International Fund for Animal Welfare), Black Cat Appreciation Day (August 17, founded 2011 by Wayne H. Morris in the US), and National Black Cat Day (October 27, founded 2011 by the UK charity Cats Protection). Social posts and calendar aggregators routinely apply the wrong date or the wrong founding story to whichever one they happen to be writing about."
+      "caveat": "October 29 is the date for National Cat Day specifically, a US observance. It is not the only cat-themed observance on the calendar and gets confused with at least three others that use different dates and have different founders: International Cat Day (August 8, founded 2002 by the International Fund for Animal Welfare), Black Cat Appreciation Day (August 17, founded 2011 by Wayne H. Morris in the US), and National Black Cat Day (October 27, founded 2011 by the UK charity Cats Protection). Social posts and calendar aggregators routinely apply the wrong date or the wrong founding story to whichever one they happen to be writing about; the two black-cat observances specifically are covered in depth on this calendar's National Black Cat Day page."
     },
     "founding": {
       "status": "documented",
@@ -1218,8 +1218,8 @@ export const guides: Guide[] = [
         "heading": "Four cat days, four dates, four founders",
         "body": [
           "\"Cat day\" is not one observance; it is a name loosely shared by at least four of them, and calendar sites frequently mix up which date and origin story belongs to which.",
-          "National Cat Day itself is the one covered on this page: October 29, US-only, founded by Colleen Paige in 2005. International Cat Day falls on August 8 and has an entirely separate, older institutional history: the International Fund for Animal Welfare (IFAW) created it in 2002, and in 2020 stewardship passed to International Cat Care, a UK-based nonprofit that has worked on feline welfare since 1958. Black Cat Appreciation Day, observed August 17 in the US, was founded in 2011 by Wayne H. Morris in memory of his sister and her black cat, Sinbad, who both died that year; Morris built it around dispelling superstitions that made black cats harder to place for adoption. National Black Cat Day, October 27 in the UK, was launched the same year, 2011, by the British charity Cats Protection, for a closely related reason: at launch, the charity's own data showed black and black-and-white cats took seven days longer on average to find a home than cats of other colors, a gap Cats Protection reported had narrowed to two days by 2019.",
-          "Two of those four (the American Black Cat Appreciation Day and the British National Black Cat Day) share almost the same name, launched in the same year, for a similar adoption-equity reason, on dates two days apart. That is enough overlap that a reader searching for one can easily land on coverage of the other. The safest way to keep them straight is by founder and country: Paige for the US's general National Cat Day, IFAW/International Cat Care for the global August observance, Morris for the US black-cat day, and Cats Protection for the UK black-cat day."
+          "National Cat Day itself is the one covered on this page: October 29, US-only, founded by Colleen Paige in 2005. International Cat Day falls on August 8 and has an entirely separate, older institutional history: the International Fund for Animal Welfare (IFAW) created it in 2002, and in 2020 stewardship passed to International Cat Care, a UK-based nonprofit that has worked on feline welfare since 1958. The remaining two, Black Cat Appreciation Day (August 17, US) and National Black Cat Day (October 27, UK), are the pair readers confuse most often: launched the same year, 2011, by two unrelated founders, for a similar adoption-equity reason, on dates about two months apart rather than close together. [National Black Cat Day](/national-black-cat-day/) covers both origin stories, and a discrepancy inside one of them, in full.",
+          "The safest way to keep all four straight is by founder and country: Paige for the US's general National Cat Day, IFAW/International Cat Care for the global August observance, Morris for the US black-cat day, and Cats Protection for the UK black-cat day."
         ]
       },
       {
@@ -1245,7 +1245,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Cat Day the same as Black Cat Appreciation Day or National Black Cat Day?",
-        "answer": "No, and those two are also not each other. Black Cat Appreciation Day (US) falls on August 17 and was founded in 2011 by Wayne H. Morris in memory of his sister and her cat, Sinbad. National Black Cat Day (UK) falls on October 27 and was launched the same year, 2011, by the charity Cats Protection to improve adoption rates for black cats. National Cat Day, the subject of this page, is a separate US observance on October 29."
+        "answer": "No, and those two are also not each other; see [National Black Cat Day](/national-black-cat-day/) for the full comparison. Black Cat Appreciation Day (US) falls on August 17 and was founded in 2011 by Wayne H. Morris in memory of his sister and her cat, Sinbad. National Black Cat Day (UK) falls on October 27 and was launched the same year, 2011, by the charity Cats Protection to improve adoption rates for black cats. National Cat Day, the subject of this page, is a separate US observance on October 29."
       },
       {
         "question": "How many cats are in US shelters?",
@@ -3240,5 +3240,155 @@ export const guides: Guide[] = [
   "image": "/images/diabetes-awareness-month-banting-best.jpg",
   "imageAlt": "Frederick Banting (right) and Charles Best, who co-discovered insulin in 1921; Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's date, a separate observance from American Diabetes Month",
   "imageCredit": "Library and Archives Canada / C-001350, copyright expired, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banting_and_Best.jpg)"
+},
+{
+  "slug": "national-black-cat-day",
+  "category": "Observances",
+  "title": "National Black Cat Day: October 27 in the UK, August 17 in the US",
+  "description": "National Black Cat Day runs October 27, created by the UK charity Cats Protection. A similarly named US campaign, founded by Wayne H. Morris, falls August 17.",
+  "published": "2026-08-10",
+  "updated": "2026-08-10",
+  "coreSummary": "National Black Cat Day, October 27, was created by the UK charity Cats Protection in 2011 to help black cats get adopted faster. A separately founded, similarly purposed US campaign, Black Cat Appreciation Day, falls August 17 and was started the same year by a private individual, Wayne H. Morris, in memory of his sister and her black cat. The two are frequently confused for one another, despite different founders, different countries, and dates two months apart.",
+  "dateRule": {
+    "kind": "fixed",
+    "text": "October 27 every year, the date used by Cats Protection, the UK charity that created National Black Cat Day. A separate, similarly named US observance, Black Cat Appreciation Day, falls August 17 every year; see the caveat below.",
+    "status": "documented",
+    "source": {
+      "label": "Cats Protection — The history of National Black Cat Day",
+      "url": "https://www.cats.org.uk/cats-blog/history-of-national-black-cat-day"
+    },
+    "occurrences": [
+      {
+        "date": "2026-10-27",
+        "weekday": "Tuesday"
+      },
+      {
+        "date": "2027-10-27",
+        "weekday": "Wednesday"
+      },
+      {
+        "date": "2028-10-27",
+        "weekday": "Friday"
+      },
+      {
+        "date": "2029-10-27",
+        "weekday": "Saturday"
+      },
+      {
+        "date": "2030-10-27",
+        "weekday": "Sunday"
+      },
+      {
+        "date": "2031-10-27",
+        "weekday": "Monday"
+      }
+    ],
+    "caveat": "Two differently named, differently dated observances exist for the same basic idea, and search results and calendar sites frequently blend them together. National Black Cat Day, October 27, is a UK charity campaign, created by Cats Protection in 2011. Black Cat Appreciation Day, August 17, is a separate US observance, created the same year, 2011, by a private individual, Wayne H. Morris, unconnected to Cats Protection. Both continue to run annually, under their original organizations, as of the most recent year checked. In 2026, October 27 falls on a Tuesday and August 17 falls on a Monday; in every year listed above, the two dates are two months and ten days apart, never adjacent. Readers searching \"national black cat day\" most often mean the UK, October 27 observance specifically, since that is the literal name Cats Protection uses for its own campaign and the name major US calendar aggregators (National Today, National Day Calendar) apply to their own, separate October 27 page, distinct from the August 17 page the same aggregators run for Black Cat Appreciation Day."
+  },
+  "founding": {
+    "status": "documented",
+    "text": "This calendar found two independently documented origins for two differently dated observances, both launched in 2011, both aimed at helping black cats get adopted.\n\nThe UK observance, National Black Cat Day, was created by Cats Protection, a British cat welfare charity, and launched on October 27, 2011, initially under the name \"Black Cat Awareness Day.\" The charity's own account, published on its blog, says the campaign began after internal data showed black and black-and-white cats in its care took, on average, seven days longer to be adopted than cats of other colors. The first year's campaign used a fictional mascot, Billy Noir-Mates, and reportedly reached the top ten UK Twitter trends. The name changed to \"National Black Cat Day\" in the campaign's second year, 2012. Cats Protection's current page for the campaign says black and black-and-white cats \"now spend less time\" in its care than when the campaign began, but does not give a specific up-to-date figure for how much the gap has closed; an earlier, more specific claim of a narrowed gap could not be verified against the charity's current published material and is not repeated here.\n\nThe US observance, Black Cat Appreciation Day, was created independently, also in 2011, by Wayne H. Morris, a private individual with no connection to Cats Protection. Morris set the date, August 17, in memory of his sister, June, and her black cat, Sinbad, who lived to be 20 years old. Sources disagree on the underlying timeline: a 2022 UPI wire report states June and Sinbad \"both died\" in 2011, the founding year, while Rikki's Refuge Animal Sanctuary, the Virginia nonprofit Morris partnered with to run the campaign as an annual fundraiser, states on its own page that June \"passed away... a few years before the first official Black Cat Appreciation Day began,\" and that Sinbad died separately, \"two short months after her passing.\" This calendar could not resolve which account is correct; Rikki's Refuge, as Morris's direct partner organization, is arguably closer to a primary source than a general-interest wire report, but neither claim is independently documented beyond the organization repeating it. Morris died on July 13, 2022, at age 69, according to the same UPI report; Rikki's Refuge continues to run the August 17 fundraiser in his memory.",
+    "source": {
+      "label": "Cats Protection — The history of National Black Cat Day",
+      "url": "https://www.cats.org.uk/cats-blog/history-of-national-black-cat-day"
+    }
+  },
+  "sections": [
+    {
+      "heading": "What National Black Cat Day is",
+      "body": [
+        "National Black Cat Day, October 27, and Black Cat Appreciation Day, August 17, both exist to push back against the superstition that black cats are unlucky or hard to love, a bias that shelters say measurably slows their adoption. Neither carries legal status: no law creates a holiday, and government offices, banks, and schools run a normal schedule on both dates.",
+        "The two campaigns spread the same way most observances on this calendar do, through the founding organizations' own social media, adoption drives at shelters, and pet-brand marketing, rather than through any government or civic body. October 27's campaign is UK-centered, run by a national cat charity; August 17's is US-centered, run by a much smaller Virginia sanctuary in partnership with the individual who started it."
+      ]
+    },
+    {
+      "heading": "Two campaigns, the same year, unrelated organizations",
+      "body": [
+        "Cats Protection, a UK charity, launched what it called Black Cat Awareness Day on October 27, 2011, after its own adoption data showed black and black-and-white cats waited about a week longer, on average, to be adopted than cats of other colors. It renamed the campaign National Black Cat Day the following year and has run it every October 27 since, currently promoted under the hashtag #BlackCatDay.",
+        "Wayne H. Morris, an American with no connection to Cats Protection, separately declared August 17, 2011, Black Cat Appreciation Day, in memory of his sister June and her black cat, Sinbad. He partnered with Rikki's Refuge Animal Sanctuary, a 450-acre no-kill sanctuary in Orange, Virginia, to turn the date into an annual fundraiser supporting the black cats in its care. Morris died in 2022; the sanctuary has continued the campaign since."
+      ],
+      "image": {
+        "src": "/images/national-black-cat-day-comparison.svg",
+        "alt": "Side-by-side comparison of National Black Cat Day, October 27, founded by the UK charity Cats Protection, and Black Cat Appreciation Day, August 17, founded by Wayne H. Morris in the United States, both launched in 2011"
+      }
+    },
+    {
+      "heading": "A discrepancy inside the US origin story",
+      "body": [
+        "Even within the documented US account, two of Morris's own affiliated sources disagree on a basic timeline detail. A 2022 UPI wire report, published the day of Morris's death, states that his sister June and her cat Sinbad \"both died\" in 2011, the year Black Cat Appreciation Day began. Rikki's Refuge's own page, by contrast, says June died \"a few years before the first official Black Cat Appreciation Day began,\" and that Sinbad, her cat, died separately, \"two short months after her passing,\" implying both deaths predate 2011 rather than coinciding with it.",
+        "This calendar could not find a source resolving the discrepancy. Rikki's Refuge is Morris's direct partner organization and plausibly closer to how he told the story himself, but a charity's own promotional page is not automatically more reliable than a wire report, and neither cites primary documentation like an obituary or death record. The founding date itself, August 17, and the founder's identity, Morris, are not in dispute; only the exact year of his sister's death is."
+      ]
+    },
+    {
+      "heading": "Why the adoption gap is real, and probably isn't superstition",
+      "body": [
+        "Both campaigns assume black cats are genuinely harder to place, and shelter intake data backs that up. What is less settled is why. Superstition is the explanation both campaigns lead with, but a peer-reviewed study published in March 2026 in the journal Animals, by researchers Jill A. Villarreal, Reese Gebauer, and James C. Ha, tested that explanation directly and did not find much support for it.",
+        "The researchers showed 1,004 US-based participants 40 real cat adoption photos, ten each of black, white, orange tabby, and brown tabby cats sourced from Petfinder, and asked them to judge each cat's emotion and how likely it was to be adopted within two weeks. Black cats were rated significantly less adoptable, and viewers more often read fear or anger into their expressions, with lower confidence overall in reading their emotions correctly. But when the researchers tested for superstition and skin-color bias specifically as explanations, neither showed a significant effect. The factor that did line up with lower adoptability ratings was simply how hard black cats' faces are to read in a typical shelter photo, where reduced contrast around the eyes and whiskers makes their expressions harder to interpret.",
+        "That does not rule out superstition playing some role, and it is not a claim this calendar can verify beyond one study. But it is a reminder that the common explanation repeated across pet blogs, that black cats lose out mainly because people still associate them with bad luck, is not the same as a tested one; the newest research on the question points more toward a photography and perception problem than a folklore problem."
+      ]
+    },
+    {
+      "heading": "Which one is \"the\" National Black Cat Day",
+      "body": [
+        "\"National Black Cat Day\" is, strictly, the name Cats Protection uses for its own October 27 UK campaign, not a generic term. Major US calendar aggregators keep the two observances on separate pages rather than merging them: National Today and National Day Calendar each run one page titled \"National Black Cat Day\" for October 27 and a separate page titled \"Black Cat Appreciation Day\" for August 17, treating them as two distinct entries rather than variant names for one thing.",
+        "That distinction gets lost in casual use. Readers, and some smaller blogs, use \"national black cat day\" loosely to mean either date, and a few round-up articles blend details from both origin stories into a single, inaccurate account. This calendar's related page, [National Cat Day](/national-cat-day/), covers four differently dated cat observances at a higher level, including both of these; this page is the deeper look at just this pair, since they are the two most frequently confused with each other."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "When is National Black Cat Day in 2026?",
+      "answer": "Tuesday, October 27, 2026, the UK date used by Cats Protection, the charity that created the observance in 2011."
+    },
+    {
+      "question": "Is Black Cat Appreciation Day the same as National Black Cat Day?",
+      "answer": "No. They are two separately founded observances that happen to share a launch year, 2011, and a similar purpose. National Black Cat Day falls October 27 and was created by the UK charity Cats Protection. Black Cat Appreciation Day falls August 17 and was created by a private American, Wayne H. Morris, unconnected to Cats Protection."
+    },
+    {
+      "question": "When is Black Cat Appreciation Day in 2026?",
+      "answer": "Monday, August 17, 2026, the US date established by Wayne H. Morris in 2011 in memory of his sister and her black cat, Sinbad."
+    },
+    {
+      "question": "Who founded National Black Cat Day?",
+      "answer": "Cats Protection, a UK cat welfare charity, launched it on October 27, 2011, initially as \"Black Cat Awareness Day,\" after internal data showed black cats in its care took about a week longer, on average, to be adopted than cats of other colors."
+    },
+    {
+      "question": "Who founded Black Cat Appreciation Day?",
+      "answer": "Wayne H. Morris, a private individual with no connection to Cats Protection, declared August 17, 2011, in memory of his sister June and her black cat, Sinbad. He partnered with Rikki's Refuge Animal Sanctuary in Virginia to run it as an annual fundraiser, which has continued since his death in 2022."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cats Protection — The history of National Black Cat Day (official blog)",
+      "url": "https://www.cats.org.uk/cats-blog/history-of-national-black-cat-day"
+    },
+    {
+      "label": "Cats Protection — National Black Cat Day event page (current)",
+      "url": "https://www.cats.org.uk/support-us/events/black-cats"
+    },
+    {
+      "label": "UPI — Black Cat Appreciation Day seeks to bring good luck to black cats (Aug. 17, 2022)",
+      "url": "https://www.upi.com/Odd_News/2022/08/17/Black-Cat-Appreciation-Day-started-2011/1841660746432/"
+    },
+    {
+      "label": "Rikki's Refuge Animal Sanctuary — Black Cat Appreciation Day, August 17",
+      "url": "https://rikkisrefuge.org/black-cat-appreciation-day-august-17-2/"
+    },
+    {
+      "label": "National Today — Black Cat Appreciation Day, August 17",
+      "url": "https://nationaltoday.com/black-cat-appreciation-day/"
+    },
+    {
+      "label": "National Today — National Black Cat Day, October 27",
+      "url": "https://nationaltoday.com/national-black-cat-day/"
+    },
+    {
+      "label": "Villarreal, Gebauer & Ha — Do Black Cats Look Less Adoptable? (Animals, March 2026, PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41897846/"
+    }
+  ],
+  "image": "/images/national-black-cat-day.jpg",
+  "imageAlt": "A black cat perched on a stump",
+  "imageCredit": "Photo by Lisafern, CC0 1.0 Universal Public Domain Dedication, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_barn_cat_-_Public_Domain_(2014_photo;_cropped_2022).jpg)"
 }
 ];

@@ -440,6 +440,18 @@ export const guides: Guide[] = [
         "answer": "In the United States, National Daughters Day is observed on September 25 every year. The date does not move, so it falls on a different weekday each year. Some international calendars instead use the fourth Sunday in September for a related observance called International Daughters Day."
       },
       {
+        "question": "When is National Daughters Day 2026?",
+        "answer": "Friday, September 25, 2026. The date is fixed at September 25 every year in the US and does not shift for weekends."
+      },
+      {
+        "question": "When is National Daughters Day 2027?",
+        "answer": "Saturday, September 25, 2027. The date is fixed at September 25 every year in the US; only the day of the week changes."
+      },
+      {
+        "question": "Is today National Daughters Day?",
+        "answer": "Only if today is September 25, since that's the fixed US date every year. In 2026, that falls on a Friday; in 2027, a Saturday. On any other day, it isn't National Daughters Day in the US, though International Daughters Day, a separate observance on the fourth Sunday in September, can fall nearby in the same month."
+      },
+      {
         "question": "Is National Daughters Day the same as International Daughters Day?",
         "answer": "No. They are listed as separate observances with separate dates. National Daughters Day is fixed on September 25 and is the version used in the US. International Daughters Day falls on the fourth Sunday in September and originated in India. They often land within a few days of each other, which is why they are frequently treated as one day."
       },
@@ -1644,6 +1656,10 @@ export const guides: Guide[] = [
       {
         "question": "What are the official dates for Virgo?",
         "answer": "In Western tropical astrology, the system behind most horoscope columns and apps, Virgo runs from August 23 to September 22. That's the range Britannica and every major astrology publisher cite, though the exact start can shift to August 22 in some years depending on the calendar's leap-year cycle."
+      },
+      {
+        "question": "What is the date range for Virgo?",
+        "answer": "August 23 to September 22, in Western tropical astrology, the system used by most horoscope columns and apps. Vedic sidereal astrology puts the range about a month later, roughly September 17 to October 16, and the actual astronomical constellation holds the Sun longer still, from about September 16 to October 30."
       },
       {
         "question": "Why do some sources say Virgo starts on August 22 instead of August 23?",

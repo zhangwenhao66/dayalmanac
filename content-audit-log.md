@@ -408,3 +408,85 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-cat-day",
+  "last_audited": "2026-08-11",
+  "published_date": "2026-08-03",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding.status为'documented'，全文用具名史料展开（Colleen Paige 2005年创立，本人使命原话逐字引用），并明确指出'为何选10月29日'这一细节缺失（对比National Dog Day有具体理由），以及Wikipedia本条目'无citation-needed标签'（对比National Boss's Day条目有），属实证怀疑式写作。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实，共7条核心论断）",
+      "detail": "1) curl抓取nationaltoday.com原文逐字核对Colleen Paige使命引语'To help galvanize the public...unconditional love and companionship they bestow upon us'完全吻合；2) WebSearch核实International Cat Day（8/8，2002年IFAW创立，2020年移交International Cat Care）准确；3) WebSearch核实Black Cat Appreciation Day（8/17，2011年Wayne H. Morris为纪念其姐姐June与猫Sinbad创立）准确；4) WebSearch核实National Black Cat Day（英国，10/27，2011年Cats Protection发起，'黑猫平均多花7天找到家'统计）准确；5) curl抓取PubMed 41897846确认Villarreal, Gebauer & Ha论文（Animals期刊，2026年3月11日，16卷6期869页，作者单位）与文中描述逐字吻合；6) WebSearch核实ASPCA 2025数据（580万只狗猫入收容所=280万狗+300万猫，共59.7万只被安乐死，其中猫27.7万只）与文中数字逐一吻合；7) WebSearch确认'无信源解释为何选10月29日'这一空白属实（多方搜索均未找到官方解释）；8) curl抓取Wikipedia National Cat Day条目确认无citation-needed标签，与文中对比National Boss's Day条目的表述准确。dateRule六年occurrences（2026-2031周几）用Python datetime独立重算全部吻合。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "published/updated均为2026-08-02改08-03（本次审计改updated为2026-08-11），下次occurrence（2026-10-29）尚未发生。ASPCA'current as of 2025'数据、2026年3月发表的peer-reviewed study均已是文中引用的最新信息，未发现有更新数据需要补充。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "WebSearch实测'national cat day when is it'：dayalmanac.com未进前9条结果（站点太新，符合预期），头部竞品为nationaldaycalendar.com/Wikipedia/nationaltoday.com/awarenessdays.com/catster.com。搜索摘要显示这些竞品仅提及'International Cat Day是另一个日期'一句带过，未见任何一家像本文一样系统区分四个同名/近名观察日（含各自创始人/年份/国家）、也未引用2026年3月的黑猫可领养性研究反驳'迷信论'解释，差异化真实。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 73字符（含站名后缀）、meta description 157字符、canonical自指、单一h1、4个正文h2+FAQ h2无跳级、URL evergreen不带年份；robots.txt对GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended均显式Allow；json-ld确认FAQPage(7问)/Article/BreadcrumbList/Event×6全部有效。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约92/99（权威原文引语15/16、统计数据完整性13/14、可引用性12/13、结构规范性12/12、表达流畅度9/10、语义密度7/8、权威信号7/8、专业术语5/6、鲁棒性5/5、跨域连接4/4、易懂表达3/3），已达标≥80，为本站目前审计过的6篇文章中最高分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本文published 2026-08-03，早于avoid-ai-writing 2026-08-07接入日期，属回溯检查范围。机械扫描正文+FAQ：em-dash共11处，全部位于sources数组的label引用元数据，正文/FAQ 0处；curly quote 0处；AI高频词表（delve/tapestry/testament/underscore/robust/leverage/harness/showcas/despite challenges等约25个）逐一grep检索0命中。判定干净。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（两处需说明的例外）",
+      "detail": "9条sources链接curl实测：7条200（nationaltoday.com/en.wikipedia.org×2/cats.org.uk/pubmed.ncbi.nlm.nih.gov/aspca.org/learn.alphapaw.com）。nationaldaycalendar.com与catster.com两处对自动化curl请求返回403（Cloudflare bot拦截特征，与本站历次审计同一判定标准），WebSearch分别核实两页内容仍可被搜索引擎正常索引并返回原文摘要（catster.com页面本次WebSearch核实其内容与本文黑猫观察日部分逐字对应），判定为bot拦截而非真实链接失效，未采取行动。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "grep确认national-dog-day、virgo-dates两篇文章正文均已有手写锚文本自然链接指向本文（分别引用'[International Cat Day](/national-cat-day/)'的四天观察日对比、'[this calendar's Cat Day page](/national-cat-day/)'的多重定义对比）；本文正文自身也有出链至national-bosses-day与national-coffee-day。非孤儿页，双向内链健康。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "published字段本身已存在（2026-08-03），datePublished无需回填。线上json-ld实测：Article.datePublished=2026-08-03T00:00:00+00:00/dateModified=2026-08-03T00:00:00+00:00（更新为08-11前），FAQPage.mainEntity 7问与guides.ts faq数组逐字一致，Article.image指向真实JPEG（非favicon.svg回退）。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及实体（Colleen Paige、Wayne H. Morris、Cats Protection、IFAW/International Cat Care、Villarreal/Gebauer/Ha三位研究者、ASPCA）均中性引用，无新增现实争议。黑猫迷信话题本身是文章主动质疑的对象而非渲染对象，无敏感度风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "文章image字段已指向/images/national-cat-day.jpg，curl实测线上200/content-type image/jpeg（非SVG回退，本站此前批次的favicon.svg缺陷不适用于本文）。og:image/twitter:image均指向同一真实图片。Wikimedia Commons File:Cat_unsplash.jpg页面curl实测仍标注CC0/Public domain，摄影者Mikhail Vasilyev via Unsplash，imageCredit字段与之一致，许可状态未变化。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "正文无暴力/伤亡描写，无武器/毒品/赌博提及，标题为事实陈述非标题党。ads.txt线上200且内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，隐私政策页/privacy/200可访问。"
+    }
+  ],
+  "actions_taken": [
+    "本次13维度审计未发现任何需要修复的问题（本文已有published字段与真实配图，不受此前批次'favicon.svg回退'与'published字段缺失'两类系统性缺陷影响；7条一手信源逐条WebSearch/curl核实全部准确，含一处此前未审过的Wikipedia citation-needed标签对比核实）。因无confirmed findings，未触发第3步独立复核agent（该步骤仅在发现疑似问题时触发），未做任何代码修改，未commit/push/部署，未跑IndexNow（页面未变更，无需重新提交索引）",
+    "仅更新本文件的last_audited字段为2026-08-11"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约92/99（已达标≥80，本站6篇已审文章中最高分），未做结构性改动",
+  "escalation": null
+}
+```

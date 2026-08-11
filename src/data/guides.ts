@@ -3523,5 +3523,130 @@ export const guides: Guide[] = [
     ],
     "image": "/images/international-mens-day-timeline.svg",
     "imageAlt": "Timeline showing International Men's Day's split history: a February 7 observance kept alive only by Malta from 1992 to 2009, running alongside the November 19 observance Jerome Teelucksingh revived in Trinidad and Tobago in 1999, until Malta switched to November 19 in 2009, and Romania made that date law in 2016"
+  },
+  {
+    "slug": "august-birth-flower",
+    "category": "Birth Flowers",
+    "title": "August Birth Flower: Gladiolus, and a Poppy Species Left Out",
+    "description": "August's birth flowers are gladiolus and poppy, but almost no guide names the poppy species: the same field poppy behind World War I's remembrance symbol.",
+    "published": "2026-08-11",
+    "updated": "2026-08-11",
+    "coreSummary": "August's birth flowers are gladiolus, named by the Roman naturalist Pliny for its sword-shaped leaves rather than for gladiators, and poppy, specifically the corn poppy (Papaver rhoeas), the wild field species behind World War I's remembrance poppy rather than the ornamental Oriental poppy most florist photos show. Unlike birthstones, which trace to a documented 1912 US trade convention, no single body ever fixed one official birth-flower list.",
+    "sections": [
+      {
+        "heading": "Two flowers, and only one gets debated",
+        "body": [
+          "The Old Farmer's Almanac and the florist trade lists that follow it agree on August's pair: gladiolus and poppy. Gladiolus, the Almanac says, symbolizes strength, integrity, and honor, its height and color reading as a last burst of color before summer ends. Poppy stands for remembrance and imagination, and a beauty that, in the Almanac's own phrasing, doesn't cling to permanence.",
+          "Two flowers in one month isn't unusual; most months on a modern birth-flower list carry a primary and a secondary. Unlike birthstones (this site's own [birthstones by month](/birthstones-by-month/) page traced that series to a documented 1912 US trade convention), no equivalent meeting ever forced birth flowers into one agreed list, a gap this page comes back to below. What August has, more than the symbolism itself, is a real gap between the two names on that list and what a shopper actually gets handed at a flower counter."
+        ]
+      },
+      {
+        "heading": "Gladiolus: named for a leaf shape, centuries before the flower sold today existed",
+        "body": [
+          "Gladiolus comes from the Latin gladiolus, \"small sword,\" the diminutive of gladius. The Online Etymology Dictionary traces the coinage to the Roman naturalist Pliny the Elder, writing in the first century, who used it for the plant's sword-shaped leaves, not for any connection to Roman fighters. Gladiator shares the same root, gladius, but that's a shared ancestor in Latin, not a shared story.",
+          "English didn't borrow the Latin word right away. Etymonline records an Old English name for the same family, gladdon, in use around the year 1000, long before the Latin-derived form appeared. \"Gladiol\" is attested from the mid-15th century, and the modern spelling, gladiolus, likely arrived later still, as a second, separate borrowing from Latin sometime around the 1560s. The plant had an English name of its own for centuries before the Latin form displaced it.",
+          "The genus is larger, and further from Rome, than the word's origin suggests. Wikipedia's summary of the genus, sourced to Plants of the World Online, counts roughly 260 species native to southern Africa, about 76 more in tropical Africa, and only around 10 native to Eurasia, the small corner of the genus Pliny would actually have seen growing wild around the Mediterranean.",
+          "The tall, ruffled, saturated-color spikes sold at florists today trace to one specific 19th-century cross, not to any wild species directly. Missouri Botanical Garden's plant records describe the cross behind it, Gladiolus × gandavensis, bred in Belgium in 1837 and put on the market in 1841 by the Ghent nurseryman Louis van Houtte, as \"an important foundation plant in the history of gladiolus hybrids\" behind most of what's grown commercially now.",
+          "The exact parents of that 1837 cross aren't settled. Missouri Botanical Garden lists them as G. natalensis × G. oppositiflorus, which lines up with Kew's Plants of the World Online once an older taxonomic synonym is accounted for, but several older horticultural references, including the 1911 Encyclopaedia Britannica, instead name G. psittacinus × G. cardinalis as the parent pair. Nothing checked for this page resolves the discrepancy, so both pairings are noted here rather than treating one institution's record as the final word. What both accounts agree on is the plant itself and its date: Pliny's small sword-lily and the florist's gladiolus are the same genus and the same borrowed word, separated by roughly 1,800 years of plant breeding that most retail copy skips over entirely."
+        ],
+        "image": {
+          "src": "/images/august-birth-flower-gladiolus.jpg",
+          "alt": "Pink gladiolus 'Priscilla' cultivar in bloom, the type of hybrid grown commercially today rather than the wild Mediterranean species Pliny originally named",
+          "credit": "Photo by Pharaoh Hound, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gladiolus_cultivar_Priscilla_2.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "Poppy is a shorthand. The species behind it is specific.",
+        "body": [
+          "Almost no florist page naming poppy as August's birth flower says which poppy. The species carrying the actual symbolic weight, remembrance in particular, is Papaver rhoeas: the corn poppy, field poppy, or Flanders poppy, native across North Africa and temperate Eurasia and, per Wikipedia's entry on the plant, \"used in the Commonwealth as a symbol of remembrance for fallen soldiers\" since World War I, because it commonly grew in fields disturbed by the fighting.",
+          "That symbolism traces to a specific poem. Canadian physician John McCrae wrote \"In Flanders Fields\" on May 3, 1915, after presiding over a fellow soldier's funeral near Ypres; it was first published that December in the London magazine Punch. Wikipedia's account of the poem describes how its image of red poppies over soldiers' graves made the remembrance poppy one of the most recognized memorial symbols in the world. American professor Moina Michael read the poem and began wearing a poppy in response; the artificial poppies sold for veterans' charities today, in Commonwealth countries especially, descend from the campaign she and French fundraiser Anna Guérin built around it near the end of the war.",
+          "The showy perennial most florists actually carry as a cut flower is a different plant. Oriental poppy, Papaver orientale, is native to the Caucasus, northeastern Turkey, and northern Iran, an entirely separate range from the corn poppy's Mediterranean and North African home, with no documented tie to the remembrance tradition. It's the bigger, more photogenic bloom, so it's what shows up in most \"August birth flower\" photo galleries. The flower actually carrying the meaning most of those galleries describe is the smaller red field poppy most of them never picture."
+        ]
+      },
+      {
+        "heading": "Why birth flowers never got their own 1912",
+        "body": [
+          "This site's own [birthstones by month](/birthstones-by-month/) page found a specific event behind that series: the American National Retail Jewelers Association met in Kansas City in August 1912 and adopted the first standardized US birthstone list. Birth flowers have no equivalent meeting on record. Cornell University Library's exhibit on Victorian floriography traces the modern tradition instead to a wave of competing 19th-century French and British dictionaries, whose authors, in the library's own description, \"linked flowers with classical mythology, folklore, heraldry, fortune-telling, and birthdays\" as the fashion for flower symbolism spread through the newly prosperous middle classes of Britain, France, and the US.",
+          "No single one of those books became the standard the way the 1912 jewelers' meeting did for gemstones. That's the practical reason August, and most other months, ended up with two flowers rather than one: different 19th-century compilers reached different answers, and later florist trade lists absorbed both rather than picking a winner."
+        ]
+      },
+      {
+        "heading": "If August only covers part of your birthday",
+        "body": [
+          "Gladiolus and poppy apply to the whole month, but the zodiac sign attached to an August birthday splits partway through. Leo runs from late July to August 22; Virgo picks up August 23 and holds it through most of September. Readers born in the back half of the month who want the zodiac side of the picture, not the flower side, can check this site's [Virgo dates](/virgo-dates/) page for how three different systems draw that particular boundary."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is August's birth flower?",
+        "answer": "Gladiolus and poppy, per The Old Farmer's Almanac and the florist trade lists that follow it. August is a two-flower month, like most months on a modern birth-flower list."
+      },
+      {
+        "question": "What does the gladiolus mean as a birth flower?",
+        "answer": "Strength, integrity, and honor, in the Almanac's framing. The name itself comes from Latin for \"small sword,\" a reference the Roman naturalist Pliny the Elder gave it for its sword-shaped leaves, not for any tie to Roman gladiators."
+      },
+      {
+        "question": "Which poppy is August's actual birth flower?",
+        "answer": "The corn poppy, Papaver rhoeas, also called the field poppy or Flanders poppy: the species tied to World War I remembrance through the poem \"In Flanders Fields.\" It's a different plant from Papaver orientale, the Oriental poppy most florists sell as a cut flower."
+      },
+      {
+        "question": "Why does August have two birth flowers instead of one?",
+        "answer": "Because no single body ever standardized a birth-flower list the way the American jewelry trade standardized birthstones in 1912. Competing 19th-century floriography dictionaries assigned different flowers to the same months, and modern lists kept both rather than choosing."
+      },
+      {
+        "question": "Is the Oriental poppy sold by florists the same as the remembrance poppy?",
+        "answer": "No. Oriental poppy (Papaver orientale) is native to the Caucasus, northeastern Turkey, and northern Iran and has no documented connection to World War I remembrance. The corn poppy (Papaver rhoeas), native to the Mediterranean and North Africa, is the species behind that symbolism."
+      },
+      {
+        "question": "I was born in late August. Is my zodiac sign Leo or Virgo?",
+        "answer": "Depends on the exact date. Leo runs through August 22; Virgo starts August 23. This site's Virgo dates page checks that boundary against three separate date systems."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — August Birth Flowers: Gladiolus and Poppy",
+        "url": "https://www.almanac.com/content/august-birth-flowers"
+      },
+      {
+        "label": "Etymonline — Gladiolus",
+        "url": "https://www.etymonline.com/word/gladiolus"
+      },
+      {
+        "label": "Wikipedia — Gladiolus",
+        "url": "https://en.wikipedia.org/wiki/Gladiolus"
+      },
+      {
+        "label": "Missouri Botanical Garden — Gladiolus × gandavensis",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254915&isprofile=0"
+      },
+      {
+        "label": "1911 Encyclopædia Britannica — Gladiolus (via Wikisource)",
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gladiolus"
+      },
+      {
+        "label": "Wikipedia — Papaver rhoeas",
+        "url": "https://en.wikipedia.org/wiki/Papaver_rhoeas"
+      },
+      {
+        "label": "Wikipedia — Papaver orientale",
+        "url": "https://en.wikipedia.org/wiki/Papaver_orientale"
+      },
+      {
+        "label": "Wikipedia — In Flanders Fields",
+        "url": "https://en.wikipedia.org/wiki/In_Flanders_Fields"
+      },
+      {
+        "label": "Wikipedia — Remembrance poppy",
+        "url": "https://en.wikipedia.org/wiki/Remembrance_poppy"
+      },
+      {
+        "label": "Cornell University Library — Written in Petals: History",
+        "url": "https://exhibits.library.cornell.edu/written-in-petals/about/history"
+      }
+    ],
+    "image": "/images/august-birth-flower-poppy.jpg",
+    "imageAlt": "Red corn poppy (Papaver rhoeas) in bloom, the wild field poppy species behind August's birth-flower symbolism",
+    "imageCredit": "Photo by Diego Delso, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amapola_(Papaver_rhoeas),_centro_de_Tallinn,_Estonia,_2012-08-05,_DD_01.JPG), CC BY-SA 3.0"
   }
 ];

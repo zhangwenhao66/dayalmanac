@@ -1,0 +1,77 @@
+<svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of International Men's Day, 1992 to 2016</title>
+  <desc id="desc">1992: Thomas Oaster organizes small February 7 events in the US, Australia and Malta; only Malta keeps observing it every year after 1995. 1999: Jerome Teelucksingh independently revives the day on November 19 in Trinidad and Tobago. 2003: Australia re-establishes its own observance, on November 19. 2009: Malta's Association for Men's Rights votes to move its long-running February 7 event to November 19, ending a decade of two different dates. 2016: Romania's parliament passes Law No. 22/2016, making November 19 the country's legally declared Men's Day.</desc>
+  <rect width="1200" height="700" fill="#faf7f0" />
+
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#1f1d1a">International Men's Day: one name, two dates, for a decade</text>
+  <text x="600" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1f1d1a" opacity="0.6">February 7 (Malta only) and November 19 both ran until 2009</text>
+
+  <!-- February lane -->
+  <text x="70" y="200" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#8a6a3a">February 7 lane</text>
+  <line x1="70" y1="220" x2="700" y2="220" stroke="#e6d9c2" stroke-width="3" />
+  <line x1="700" y1="220" x2="700" y2="330" stroke="#c9bba0" stroke-width="2" stroke-dasharray="4 4" />
+
+  <!-- November lane -->
+  <text x="70" y="380" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#2f4858" />
+  <text x="70" y="380" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#2f4858">November 19 lane</text>
+  <line x1="70" y1="400" x2="1140" y2="400" stroke="#d8e0e2" stroke-width="3" />
+
+  <!-- 1992 Oaster -->
+  <circle cx="150" cy="220" r="8" fill="#8a6a3a" />
+  <text x="150" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="600" fill="#1f1d1a">1992</text>
+  <text x="150" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="150" dy="0">Thomas Oaster holds</tspan>
+    <tspan x="150" dy="16">Feb 7 events in the US,</tspan>
+    <tspan x="150" dy="16">Australia and Malta</tspan>
+  </text>
+
+  <!-- 1995 fizzle -->
+  <circle cx="420" cy="220" r="7" fill="#b3a487" />
+  <text x="420" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a" opacity="0.85">1995</text>
+  <text x="420" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.7">
+    <tspan x="420" dy="0">US and Australian events</tspan>
+    <tspan x="420" dy="16">stop; only Malta keeps</tspan>
+    <tspan x="420" dy="16">observing Feb 7 yearly</tspan>
+  </text>
+
+  <!-- 1999 Teelucksingh -->
+  <circle cx="150" cy="400" r="9" fill="#2f4858" />
+  <text x="150" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">1999</text>
+  <text x="150" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="150" dy="0">Jerome Teelucksingh</tspan>
+    <tspan x="150" dy="16">independently revives it</tspan>
+    <tspan x="150" dy="16">on Nov 19, Trinidad</tspan>
+  </text>
+
+  <!-- 2003 Australia -->
+  <circle cx="480" cy="400" r="7" fill="#5b6d45" />
+  <text x="480" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2003</text>
+  <text x="480" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="480" dy="0">Australia re-establishes</tspan>
+    <tspan x="480" dy="16">its own observance,</tspan>
+    <tspan x="480" dy="16">now on Nov 19</tspan>
+  </text>
+
+  <!-- 2009 Malta switches -->
+  <circle cx="820" cy="400" r="9" fill="#2f4858" />
+  <text x="820" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">2009</text>
+  <text x="820" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="820" dy="0">Malta votes to move</tspan>
+    <tspan x="820" dy="16">from Feb 7 to Nov 19 —</tspan>
+    <tspan x="820" dy="16">one date, worldwide</tspan>
+  </text>
+
+  <!-- 2016 Romania -->
+  <circle cx="1110" cy="400" r="9" fill="#7a3b3b" />
+  <text x="1090" y="440" text-anchor="end" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">2016</text>
+  <text x="1090" y="460" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="1090" dy="0" text-anchor="end">Romania's parliament</tspan>
+    <tspan x="1090" dy="16" text-anchor="end">passes Law No. 22/2016,</tspan>
+    <tspan x="1090" dy="16" text-anchor="end">the only statute of its kind</tspan>
+  </text>
+
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Tan marks the earlier, February-dated attempt that only Malta kept alive. Navy marks the November 19 lineage that</tspan>
+    <tspan x="600" dy="20">absorbed it in 2009. Red marks the one country — Romania — that has since given the date the force of law.</tspan>
+  </text>
+</svg>

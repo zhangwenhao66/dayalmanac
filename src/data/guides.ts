@@ -3358,5 +3358,154 @@ export const guides: Guide[] = [
     ],
     "image": "/images/birthstones-by-month-grid.svg",
     "imageAlt": "Grid chart of all twelve months' official birthstones, flagging March and August where Jewelers of America's own current list is narrower than GIA's and the American Gem Society's, and September where Britain's list adds a second stone"
+  },
+  {
+    "slug": "international-mens-day",
+    "category": "Observances",
+    "title": "International Men's Day: November 19, and a Match It Lost",
+    "description": "International Men's Day falls every November 19, founded in 1999 by Jerome Teelucksingh. The 1989 match behind the date's origin story ended in a loss, not a win.",
+    "published": "2026-08-11",
+    "updated": "2026-08-11",
+    "coreSummary": "International Men's Day is observed every November 19, revived in 1999 by Dr. Jerome Teelucksingh, a history lecturer at the University of the West Indies in Trinidad and Tobago, who chose the date to honor his father's birthday and Trinidad and Tobago's November 19, 1989 World Cup qualifying match against the United States. That match, at a sold-out Hasely Crawford Stadium, ended 1-0 to the US on Paul Caligiuri's \"Shot Heard 'Round the World\" goal; the US advanced to the 1990 World Cup, and Trinidad and Tobago did not. An earlier, separate February 7 observance, organized by Thomas Oaster from 1992, survived only in Malta until Malta's men's-rights association voted in 2009 to switch to November 19. The day has no United Nations recognition, unlike International Women's Day; Romania is the one country found to have given it the force of law, in 2016.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "November 19 every year, worldwide. The date is fixed and does not shift for weekends.",
+      "status": "conventional",
+      "source": {
+        "label": "International Men's Day (official site) — History & Background",
+        "url": "https://internationalmensday.com/about/history-background/"
+      },
+      "occurrences": [
+        { "date": "2026-11-19", "weekday": "Thursday" },
+        { "date": "2027-11-19", "weekday": "Friday" },
+        { "date": "2028-11-19", "weekday": "Sunday" },
+        { "date": "2029-11-19", "weekday": "Monday" },
+        { "date": "2030-11-19", "weekday": "Tuesday" },
+        { "date": "2031-11-19", "weekday": "Wednesday" }
+      ],
+      "caveat": "November 19 is now the universal date, but it was not always the only one in circulation. Thomas Oaster, who directed the Missouri Center for Men's Studies at the University of Missouri–Kansas City, organized small February 7 events in the US, Australia, and Malta starting in 1992. The US and Australian versions stopped after a poorly attended 1995 attempt (Australia later re-established its own observance, on November 19, in 2003); Malta's Association for Men's Rights was the only group that kept observing the day every February 7 after that, continuing through 2008. Because no other country still used the February date, Malta's committee voted unanimously on January 17, 2009 to move its own observance to November 19, aligning with the version Jerome Teelucksingh had independently revived in Trinidad and Tobago a decade earlier. Since that 2009 vote, no source found here shows any country still marking the day on a different date."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Dr. Jerome Teelucksingh, a history lecturer at the University of the West Indies in Trinidad and Tobago, revived International Men's Day in 1999, choosing November 19 for two stated reasons: it was his father's birthday, and it was the date, in 1989, that Trinidad and Tobago's men's football team played its World Cup qualifying match at home against the United States, a game the organization's own history page describes as having \"united the country with their endeavours to qualify for the World Cup.\" That description is carefully worded and does not claim the team won or qualified. Independent sources, including Wikipedia's separate article on the match and US Soccer's own retrospective, confirm what actually happened that night: in front of a sold-out crowd of roughly 35,000 at Hasely Crawford Stadium in Port of Spain, the United States won 1-0 on a second-half goal from Paul Caligiuri, a result remembered in US soccer history as \"the Shot Heard 'Round the World\" because it sent the US, not Trinidad and Tobago, to the 1990 World Cup after a 40-year American absence from the tournament. Trinidad and Tobago's campaign ended in that loss. Teelucksingh's account does not misstate this, but calendar sites and social posts that summarize the story as commemorating a qualifying campaign, without noting how it ended, can leave the impression of a win where the record shows a defeat. Teelucksingh was not the first person to attempt an international men's day: Thomas Oaster organized small February 7 events in 1992, and the idea of a men's counterpart to International Women's Day had been raised in print as early as a 1969 New York Times report on informal calls for a February 23 observance. Teelucksingh's 1999 event is the one that took root and grew into the November 19 observance now marked, per the organization's own 2026 count, in more than eighty countries.",
+      "source": {
+        "label": "International Men's Day (official site) — History & Background",
+        "url": "https://internationalmensday.com/about/history-background/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What International Men's Day is",
+        "body": [
+          "International Men's Day is an annual civil-society observance held on November 19, built around six stated objectives: promoting positive male role models, celebrating men's contributions to family and community, focusing on men's health, highlighting discrimination against men and boys, improving gender relations, and working toward a safer world. Those \"six pillars\" come from the organizing team behind the modern, November 19 version of the day, not from any government or UN body.",
+          "It carries no legal holiday status in the large majority of countries that mark it: no day off work, no closed banks or government offices. It spreads mainly through school and university events, parliamentary speeches, workplace campaigns, and social media, coordinated locally rather than through a single central authority. Romania, covered below, is the one country found here where the date carries actual statutory weight rather than informal recognition.",
+          "Each year also carries an optional secondary theme, set by volunteer coordinators rather than any fixed institution. The 2026 theme, marking the 28th annual observance, is \"The Future Is Everyone,\" a concept first proposed by American writer Lisa Britton in 2020 and adopted as the global theme for 2026."
+        ]
+      },
+      {
+        "heading": "The date: one name, two observances, for a decade",
+        "body": [
+          "Calls for a men's counterpart to International Women's Day go back further than most people assume. A 1969 New York Times report noted that \"many men have been agitating privately to make February 23 International Men's Day, the equivalent of March 8,\" but nothing organized came of it for another two decades.",
+          "The first real attempt was Thomas Oaster's, in 1992: small events on February 7, held in the United States, Australia, and Malta at his invitation. The US and Australian versions fizzled after a poorly attended 1995 event (Australia later revived its own observance independently, on November 19, in 2003). Malta was the exception: the Maltese Association for Men's Rights kept holding a February 7 event every year from 1994 through 2008, making it, for a time, the single longest-running local IMD observance anywhere.",
+          "Jerome Teelucksingh's 1999 revival, on November 19 in Trinidad and Tobago, grew separately and faster, spreading to dozens of countries through the 2000s. For about a decade, two different dates for the same-named observance existed side by side, kept alive mainly by one country each. That ended on January 17, 2009, when Malta's committee voted unanimously to abandon the February date and align with November 19 \"to coincide with all the others around the world,\" as the vote was described at the time. No source checked for this article shows any country still using a different date since."
+        ],
+        "image": {
+          "src": "/images/international-mens-day-timeline.svg",
+          "alt": "Timeline showing International Men's Day's split history: a February 7 observance kept alive only by Malta from 1992 to 2009, running alongside the November 19 observance Jerome Teelucksingh revived in Trinidad and Tobago in 1999, until Malta switched to November 19 in 2009, and Romania made that date law in 2016"
+        }
+      },
+      {
+        "heading": "Who started it, and the match behind the date",
+        "body": [
+          "The founder is documented and not in dispute: Jerome Teelucksingh, then a history lecturer at the University of the West Indies, revived International Men's Day in Trinidad and Tobago in 1999. His organization's own history page gives two reasons for choosing November 19, both personal to him rather than tied to any external body: it was his father's birthday, and it was the date of a Trinidad and Tobago World Cup qualifying match that, in the organization's words, \"united the country with their endeavours to qualify for the World Cup.\"",
+          "That match is independently well documented, under a name of its own: \"the Shot Heard 'Round the World.\" On November 19, 1989, in front of a sold-out crowd of about 35,000 at Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago needed only a draw at home against the United States to reach its first-ever World Cup. The US won 1-0 on a second-half goal by Paul Caligiuri, eliminating Trinidad and Tobago and sending the United States to the 1990 World Cup instead, ending a 40-year American absence from the tournament. Trinidad and Tobago's own qualifying campaign, in other words, ended in a home defeat, not a celebrated advance.",
+          "This does not make Teelucksingh's stated reason inaccurate: uniting a country around a team's effort to qualify is a real thing that can happen regardless of the final score, and his own wording never claims a win. But general retellings of the founding story, on other calendar sites and in casual social posts, sometimes compress \"united the country with their endeavours to qualify\" into language implying the team succeeded. The record, from Wikipedia's article on the match to US Soccer's own retrospective, is unambiguous that it did not."
+        ]
+      },
+      {
+        "heading": "No United Nations recognition, but Romania made it law",
+        "body": [
+          "International Men's Day has never been adopted by the United Nations. That is a real contrast with International Women's Day, which the UN General Assembly formally recognized in a 1977 resolution inviting member states to proclaim March 8 as a UN observance, according to the UN's own background page on the day. No equivalent resolution exists for November 19. The organizing team's own March 2026 media release states one of its explicit goals for the year is \"formal recognition of International Men's Day on the UN calendar,\" describing it as \"the first official day for men or boys, when there are already 13 days for women and girls,\" language that itself confirms the recognition has not yet happened.",
+          "One country is the exception. Romania's Parliament passed Law No. 22/2016, adopted March 4, 2016 and published in Monitorul Oficial no. 169 on March 7, 2016, declaring March 8 \"Ziua femeii\" (Women's Day) and November 19 \"Ziua bărbatului\" (Men's Day) in a single two-article statute; the full text, reproduced by the Romanian legal-news site contabun.ro, matches those dates. Two independent Romanian outlets, Mediafax and AGERPRES, both reported the Chamber of Deputies passing the bill on February 3, 2016 by the same tally: 204 votes in favor, 16 against, and 63 abstentions. The law itself is narrow: it declares the date and permits local public authorities to organize events and state broadcasters to air related programming, but it does not create a paid public holiday or a day off work, unlike, for instance, [National Grandparents Day](/national-grandparents-day/), which US federal law fixes to a specific formula (36 U.S.C. § 125) without making it a non-working holiday either. Romania is nonetheless the only country found here with a standing national statute naming November 19 as Men's Day, rather than relying on informal or year-by-year recognition."
+        ]
+      },
+      {
+        "heading": "Eighty-plus countries, coordinated locally",
+        "body": [
+          "International Men's Day's spread since 1999 owes as much to individual national organizers as to any central campaign. India's celebration is described by the organizing team as the single largest in the world, driven largely by one person: Uma Challa, a men's advocate in Bangalore who began organizing IMD events there in 2007, reportedly without knowing where the November 19 date had originated, and who went on to found the Save the Indian Family Foundation. Elsewhere, the day has taken different local forms: parliamentary speeches in the UK and Australia, university and workplace events, and, in several countries, no organized event at all beyond scattered social media posts.",
+          "That patchwork pattern, a fixed global date marked with wildly different levels of formality from one country to the next, is not unusual among the awareness observances on this calendar; [No-Shave November](/no-shave-november/), which runs for the same month, has similarly never had a government body behind it anywhere. What sets November 19 apart is the range at the extremes: from Romania's actual statute at one end to countries where the day passes with no recorded local recognition at all, sourced only to the international coordinating team's own country-by-country notes rather than any local government or press record independent of it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is International Men's Day in 2026?",
+        "answer": "Thursday, November 19, 2026. The date is fixed at November 19 every year and does not shift for weekends."
+      },
+      {
+        "question": "Who founded International Men's Day, and why November 19?",
+        "answer": "Jerome Teelucksingh, then a history lecturer at the University of the West Indies, revived it in Trinidad and Tobago in 1999. He chose November 19 for two personal reasons stated on his organization's own site: it was his father's birthday, and it was the date of a 1989 Trinidad and Tobago World Cup qualifying match against the United States that, in the organization's words, united the country around the team's effort."
+      },
+      {
+        "question": "Did Trinidad and Tobago win the 1989 match the day partly commemorates?",
+        "answer": "No. Trinidad and Tobago lost 1-0 at home to the United States on November 19, 1989, in a match remembered in US soccer history as \"the Shot Heard 'Round the World.\" The result sent the United States, not Trinidad and Tobago, to the 1990 World Cup. The founder's own account does not claim a win, but some retellings elsewhere blur this detail."
+      },
+      {
+        "question": "Is International Men's Day recognized by the United Nations?",
+        "answer": "No. Unlike International Women's Day, which the UN General Assembly formally recognized in a 1977 resolution, International Men's Day has no UN resolution behind it. The organizing team's own 2026 materials list UN calendar recognition as an explicit, not-yet-achieved goal."
+      },
+      {
+        "question": "Is International Men's Day legally official anywhere?",
+        "answer": "Romania is the one country found with a standing statute: Law No. 22/2016, passed by Parliament in March 2016, declares November 19 \"Ziua bărbatului\" (Men's Day) alongside March 8 as Women's Day. The law permits local public authorities and state broadcasters to organize related events and programming; it does not create a paid public holiday."
+      },
+      {
+        "question": "Was there an earlier version of International Men's Day before 1999?",
+        "answer": "Yes. Thomas Oaster organized small February 7 events in the US, Australia, and Malta starting in 1992. Only Malta kept observing it every year after 1995, continuing through 2008, until Malta's men's-rights association voted in 2009 to switch to November 19 and align with the version Jerome Teelucksingh had revived in Trinidad and Tobago a decade earlier."
+      }
+    ],
+    "sources": [
+      {
+        "label": "International Men's Day (official site) — History & Background",
+        "url": "https://internationalmensday.com/about/history-background/"
+      },
+      {
+        "label": "International Men's Day — Media Release: Theme for 2026, \"The Future Is Everyone\"",
+        "url": "https://internationalmensday.com/wp-content/uploads/2026/03/Media-Release-IMD-2026-Theme-Announcement.pdf"
+      },
+      {
+        "label": "Wikipedia — International Men's Day",
+        "url": "https://en.wikipedia.org/wiki/International_Men%27s_Day"
+      },
+      {
+        "label": "Wikipedia — Shot heard round the world (soccer)",
+        "url": "https://en.wikipedia.org/wiki/Shot_heard_round_the_world_(soccer)"
+      },
+      {
+        "label": "US Soccer — Paul Caligiuri: The Shot Heard Around The World",
+        "url": "https://www.ussoccer.com/stories/2023/11/paul-caligiuri-shot-heard-around-the-world"
+      },
+      {
+        "label": "United Nations — International Women's Day: Background",
+        "url": "https://www.un.org/en/observances/womens-day/background"
+      },
+      {
+        "label": "contabun.ro — Full text of Legea nr. 22/2016 (Monitorul Oficial no. 169, March 7, 2016)",
+        "url": "https://www.contabun.ro/2016/03/09/legea-nr-222016-8-martie-ziua-femeii-si-19-noiembrie-ziua-barbatului/"
+      },
+      {
+        "label": "Romania Insider — Parliament makes Men's Day official in Romania",
+        "url": "https://www.romania-insider.com/romania-sets-date-for-mens-day"
+      },
+      {
+        "label": "Mediafax — E oficial! Românii vor avea Ziua Bărbatului în 19 noiembrie (vote count)",
+        "url": "https://www.mediafax.ro/politic/e-oficial-romanii-vor-avea-ziua-barbatului-in-19-noiembrie-sarbatorirea-celor-doua-zile-este-un-prilej-de-a-imbunatatii-relatiile-dintre-sexe-15028018"
+      },
+      {
+        "label": "AGERPRES — Camera Deputaților: 19 noiembrie devine legal Ziua bărbatului, iar 8 martie - Ziua femeii",
+        "url": "https://www.agerpres.ro/politica/2016/02/03/camera-deputatilor-19-noiembrie-devine-legal-ziua-barbatului-iar-8-martie-ziua-femeii-13-05-41"
+      }
+    ],
+    "image": "/images/international-mens-day-timeline.svg",
+    "imageAlt": "Timeline showing International Men's Day's split history: a February 7 observance kept alive only by Malta from 1992 to 2009, running alongside the November 19 observance Jerome Teelucksingh revived in Trinidad and Tobago in 1999, until Malta switched to November 19 in 2009, and Romania made that date law in 2016"
   }
 ];

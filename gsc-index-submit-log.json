@@ -116,5 +116,15 @@
       "https://dayalmanac.com/national-hispanic-heritage-month/"
     ],
     "quota_used": "1 request"
+  },
+  {
+    "date": "2026-08-11",
+    "action": "submitted",
+    "reason": "游标第9站。今日新发布birthstones-by-month（S层参考页，13:35档）URL Inspection显示未收录（URL is unknown to Google），REQUEST INDEXING后确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/birthstones-by-month/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 request"
   }
 ]

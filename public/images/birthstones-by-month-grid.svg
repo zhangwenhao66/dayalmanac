@@ -1,0 +1,136 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Birthstones by month, per Jewelers of America's current chart</title>
+  <desc id="desc">January garnet. February amethyst. March aquamarine, though GIA and the American Gem Society both also list bloodstone. April diamond. May emerald. June pearl, moonstone, and alexandrite. July ruby. August peridot and spinel, though GIA and the American Gem Society both also list sardonyx. September sapphire, though Britain's 2013 trade list adds a second stone, lapis lazuli. October opal and tourmaline. November topaz and citrine. December turquoise, zircon, and tanzanite.</desc>
+
+  <rect width="1200" height="800" fill="#faf7f0" />
+
+  <text x="600" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">Birthstones by month, per Jewelers of America's current chart</text>
+  <text x="600" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.7">Marked months: an authority's own current page differs from this chart. See the caveats below.</text>
+
+  <!-- Grid: 4 cols x 3 rows, cell 280x210, gaps 20, origin x=20 y=100 -->
+
+  <!-- Row 1 -->
+  <!-- Jan -->
+  <g transform="translate(20,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#7a2e3a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">January</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Garnet</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">One stone. Every list checked</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">agrees, back to before 1912.</text>
+  </g>
+
+  <!-- Feb -->
+  <g transform="translate(320,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#6b4a8a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">February</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Amethyst</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">One stone, no revision, no</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">rival on any list checked.</text>
+  </g>
+
+  <!-- Mar -->
+  <g transform="translate(620,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#4f9a92" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">March <tspan fill="#a8352b" font-size="15">†</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Aquamarine</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#a8352b">GIA and AGS both also</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#a8352b">list bloodstone; JA doesn't.</text>
+  </g>
+
+  <!-- Apr -->
+  <g transform="translate(920,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#cfcac0" stroke="#b7b0a2" stroke-width="1.5" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">April</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Diamond</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">One stone on every current</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">US and UK trade list.</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- May -->
+  <g transform="translate(20,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#2f6b46" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">May</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Emerald</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">One stone, no revision on</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">the current US chart.</text>
+  </g>
+
+  <!-- Jun -->
+  <g transform="translate(320,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#e8e0c8" stroke="#cbb994" stroke-width="1.5" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">June</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Pearl, moonstone, alexandrite</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Three stones since 1952. GIA,</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">JA, and AGS now all agree.</text>
+  </g>
+
+  <!-- Jul -->
+  <g transform="translate(620,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#a51c30" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">July</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Ruby</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">One stone, no revision on</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">the current US chart.</text>
+  </g>
+
+  <!-- Aug -->
+  <g transform="translate(920,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#8a9a3a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">August <tspan fill="#a8352b" font-size="15">†</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Peridot, spinel</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#a8352b">GIA and AGS both also add</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#a8352b">sardonyx, the original stone.</text>
+  </g>
+
+  <!-- Row 3 -->
+  <!-- Sep -->
+  <g transform="translate(20,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#6d4470" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#2f4f8f" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">September <tspan fill="#6d4470" font-size="15">‡</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Sapphire</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#6d4470">Britain's 2013 list adds a</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#6d4470">second stone: lapis lazuli.</text>
+  </g>
+
+  <!-- Oct -->
+  <g transform="translate(320,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#c79bc2" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">October</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Opal, tourmaline</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Tourmaline added 1952.</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">GIA and JA agree today.</text>
+  </g>
+
+  <!-- Nov -->
+  <g transform="translate(620,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#c98a2e" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">November</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Topaz, citrine</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Citrine added 1952.</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">GIA and JA agree today.</text>
+  </g>
+
+  <!-- Dec -->
+  <g transform="translate(920,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#3fa6a0" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">December</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Turquoise, zircon, tanzanite</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Blue topaz is a retail myth,</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">not on any trade group's list.</text>
+  </g>
+
+  <text x="20" y="790" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.7">† Jewelers of America's own current buying guide lists fewer stones here than GIA and the American Gem Society.   ‡ Britain's National Association of Goldsmiths, revised 2013.</text>
+</svg>

@@ -3249,5 +3249,114 @@ export const guides: Guide[] = [
   "image": "/images/diabetes-awareness-month-banting-best.jpg",
   "imageAlt": "Frederick Banting (right) and Charles Best, who co-discovered insulin in 1921; Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's date, a separate observance from American Diabetes Month",
   "imageCredit": "Library and Archives Canada / C-001350, copyright expired, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banting_and_Best.jpg)"
-}
+},
+  {
+    "slug": "birthstones-by-month",
+    "category": "Birthstones",
+    "title": "Birthstones by Month: The Full Chart, and Where They Disagree",
+    "description": "All twelve official birthstones in one chart, checked against Jewelers of America, GIA, and the American Gem Society, plus where their current pages disagree.",
+    "published": "2026-08-11",
+    "updated": "2026-08-11",
+    "coreSummary": "Jewelers of America's current buying guide names one stone for seven months and two or three for the rest, but its own live chart is narrower than GIA's and the American Gem Society's for two months specifically: March (JA lists aquamarine alone; GIA and AGS both still add bloodstone) and August (JA lists peridot and spinel; GIA and AGS both still add sardonyx, the month's original stone). Britain's own trade list, last revised in 2013, adds a further stone to September that the US chart has never carried in that slot.",
+    "sections": [
+      {
+        "heading": "The current chart, checked directly rather than copied from another list",
+        "body": [
+          "Most pages titled \"birthstones by month\" are working from a chart somebody else compiled, sometimes years ago. This one was checked against Jewelers of America's own live buying guide the week this page was published: January is garnet. February is amethyst. March is aquamarine. April is diamond. May is emerald. June is pearl, moonstone, and alexandrite. July is ruby. August is peridot and spinel. September is sapphire. October is opal and tourmaline. November is citrine and topaz. December is turquoise, tanzanite, and blue zircon.",
+          "Split by count, that's seven months with a single official stone on Jewelers of America's current chart (January, February, March, April, May, July, and September) and five months with two or three. June and December each carry three; August, October, and November each carry two. None of that is exotic trivia: it's the direct answer to \"how many official birthstones does my month have,\" read straight off the trade association's own current page rather than assembled from whatever a dozen retail blogs happen to agree on."
+        ]
+      },
+      {
+        "heading": "One 1912 meeting, three later revisions",
+        "body": [
+          "Jewelers of America itself dates to 1906, when it organized under an earlier name to represent retail jewelers as a trade. The birthstone list came six years later: in 1912, that organization, then called the American National Retail Jewelers Association, met in Kansas City and adopted a single standardized chart, replacing the tangle of regional and folk birthstone traditions retailers had been drawing on until then.",
+          "The chart has been revised three times since, and each revision landed on different months. A 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December. Trade histories disagree on whether Jewelers of America's own predecessor carried that revision out or whether a separate body, the Jewelry Industry Council of America, did it instead, and this page did not find a document that settles the question either way. Tanzanite joined December's roster in 2002, added by the American Gem Trade Association. Spinel followed for August in 2016, this time a joint announcement from the American Gem Trade Association and Jewelers of America together. No revision since 1912 has touched January, February, March, April, May, July, or September. Jewelers of America's own chart for March has stood at aquamarine alone the entire time, even though GIA and the American Gem Society both currently pair it with bloodstone."
+        ]
+      },
+      {
+        "heading": "Two months where Jewelers of America's own chart is the narrow one",
+        "body": [
+          "Checking three organizations' own current pages side by side turns up something most \"complete\" birthstone charts don't mention: on two months, Jewelers of America's own live chart is the narrower one.",
+          "March is the clearest case. Jewelers of America's current buying guide names aquamarine alone. GIA's own March birthstone page, though, names aquamarine and bloodstone together, and the American Gem Society's own current March page does the same, titling the pair \"March Birthstones: Aquamarine and Bloodstone\" and describing bloodstone as the original stone the month carried before aquamarine was added later. [This calendar's own earlier page on March](/march-birthstone/) goes further into how the two stones swapped which one counted as primary. A trade article once described the American Gem Trade Association as the outlier for including bloodstone, with Jewelers of America and the American Gem Society both leaving it off. That description no longer matches the American Gem Society's own page, which currently includes it.",
+          "August works the same way. Jewelers of America's live chart lists peridot and spinel, the pairing set by 2016's revision. GIA's own August page and the American Gem Society's own August page both currently list a third stone alongside those two: sardonyx, which the American Gem Society's own page describes as August's original birthstone, the one peridot was later added beside. Sardonyx never left GIA's or the American Gem Society's own charts; it simply isn't on Jewelers of America's live page. Three organizations, checked directly on their own current sites, give two different answers for how many official birthstones August actually has."
+        ]
+      },
+      {
+        "heading": "A stone that moved from December to September: Britain's separate list",
+        "body": [
+          "The US chart isn't the only current trade standard. Britain's National Association of Goldsmiths published its own birthstone list in 1937 and revised it in 2013, and per Wikipedia's own sourced comparison of the historic and current lists, that 2013 revision still gives September a second stone the American chart doesn't carry there: lapis lazuli, alongside sapphire, a gap [this calendar's own September page](/september-birthstone/) already covers from the sapphire side.",
+          "Lapis lazuli isn't new to this calendar's own December, though. The same comparison table shows the original 1912 American list actually paired turquoise with lapis lazuli for December, before the 1952 revision dropped lapis lazuli and put zircon in its place. [This calendar's page on December](/december-birthstone/) covers that month's other well-known mismatch: a fourth stone, blue topaz, that heavy retail marketing treats as official even though no trade group's chart, American or British, has ever listed it. Britain's current list didn't carry lapis lazuli forward on the same month the old American one had it; the stone resurfaced attached to a different one instead, and nothing in the sourced comparison explains why September specifically was where it landed."
+        ]
+      },
+      {
+        "heading": "Why the charts don't converge",
+        "body": [
+          "There's no single body with the authority to force Jewelers of America, GIA, the American Gem Trade Association, the American Gem Society, and Britain's National Association of Goldsmiths onto one chart. Each maintains and revises its own list on its own schedule, the same way this calendar's own [observance pages](/national-cat-day/) keep finding multiple organizations each claiming to have started the same day. A shopper who checks two of these sites for March or August, or checks a US site against a UK one for September, isn't finding a mistake on either page; both are accurately reporting what their own organization currently says.",
+          "A birth-month stone and a zodiac-sign stone are also not the same tradition, even when they land on the same gem by coincidence. [This calendar's page on Virgo's date range](/virgo-dates/) already found that astrology sites can't agree among sapphire, peridot, or carnelian for Virgo's own stone, with no trade group behind any of the three claims. That's a separate and considerably less settled question than which stone belongs to whichever birth month a Virgo happens to be born in."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the official birthstones for every month?",
+        "answer": "Per Jewelers of America's current chart: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, December turquoise/tanzanite/blue zircon."
+      },
+      {
+        "question": "Which months have more than one official birthstone?",
+        "answer": "On Jewelers of America's current chart, June and December each carry three, and August, October, and November each carry two. The other seven months carry exactly one."
+      },
+      {
+        "question": "Is bloodstone still an official March birthstone?",
+        "answer": "It depends which organization's page is checked. GIA's and the American Gem Society's own current March pages both name aquamarine and bloodstone together. Jewelers of America's own current buying guide names aquamarine alone."
+      },
+      {
+        "question": "Does August still have three official birthstones?",
+        "answer": "GIA and the American Gem Society both currently list peridot, spinel, and sardonyx for August. Jewelers of America's live chart lists only peridot and spinel. Sardonyx, the month's original stone by the American Gem Society's own account, isn't on it."
+      },
+      {
+        "question": "Is blue topaz an official birthstone for any month?",
+        "answer": "No. It doesn't appear on Jewelers of America's, GIA's, or the American Gem Society's current charts for any month, despite heavy retailer marketing of it as December's fourth stone."
+      },
+      {
+        "question": "Does the UK use a different birthstone list than the US?",
+        "answer": "For at least one month, yes. Britain's National Association of Goldsmiths revised its list in 2013 and still pairs September with sapphire and lapis lazuli, a stone the US chart hasn't carried in any month since a 1952 revision dropped it from December in favor of zircon."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstones Buying Guide",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
+      },
+      {
+        "label": "GIA — March Birthstones",
+        "url": "https://www.gia.edu/birthstones/march-birthstones"
+      },
+      {
+        "label": "GIA — August Birthstones",
+        "url": "https://www.gia.edu/birthstones/august-birthstones"
+      },
+      {
+        "label": "American Gem Society — March Birthstones",
+        "url": "https://www.americangemsociety.org/birthstones/march-birthstones/"
+      },
+      {
+        "label": "American Gem Society — August Birthstones",
+        "url": "https://www.americangemsociety.org/birthstones/august-birthstones/"
+      },
+      {
+        "label": "American Gem Society — June Birthstones",
+        "url": "https://www.americangemsociety.org/birthstones/june-birthstones/"
+      },
+      {
+        "label": "Wikipedia — Birthstone (historic, US 1912, UK 2013, and US 2019 comparison table)",
+        "url": "https://en.wikipedia.org/wiki/Birthstone"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      }
+    ],
+    "image": "/images/birthstones-by-month-grid.svg",
+    "imageAlt": "Grid chart of all twelve months' official birthstones, flagging March and August where Jewelers of America's own current list is narrower than GIA's and the American Gem Society's, and September where Britain's list adds a second stone"
+  }
 ];

@@ -3648,5 +3648,133 @@ export const guides: Guide[] = [
     "image": "/images/august-birth-flower-poppy.jpg",
     "imageAlt": "Red corn poppy (Papaver rhoeas) in bloom, the wild field poppy species behind August's birth-flower symbolism",
     "imageCredit": "Photo by Diego Delso, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amapola_(Papaver_rhoeas),_centro_de_Tallinn,_Estonia,_2012-08-05,_DD_01.JPG), CC BY-SA 3.0"
+  },
+  {
+    "slug": "september-birth-flower",
+    "category": "Birth Flowers",
+    "title": "September Birth Flower: Aster and Morning Glory, Reclassified",
+    "description": "September's birth flowers are aster and morning glory, but most New World asters haven't technically been genus Aster since a 1990s reclassification.",
+    "published": "2026-08-12",
+    "updated": "2026-08-12",
+    "coreSummary": "September's birth flowers are aster, named from the Greek word for star, and morning glory, whose scientific name Ipomoea literally means \"worm-resembling\" and has nothing to do with the bloom. Most asters native to North America, including the New England aster common on US birth-flower lists, were reclassified out of genus Aster into Symphyotrichum by botanist Guy Nesom in the mid-1990s. Morning glory carries a second, separate history: the garden vine sold under that name, Ipomoea purpurea, is a different species from the morning glory relatives Aztec priests used in ritual divination.",
+    "sections": [
+      {
+        "heading": "Aster and morning glory, and one gap already covered",
+        "body": [
+          "The Old Farmer's Almanac, the trade source behind most modern birth-flower lists, names aster and morning glory as September's pair. This site's [August birth flower](/august-birth-flower/) page found why no single body ever fixed one official birth-flower list, unlike birthstones, which trace to a documented 1912 trade convention: competing 19th-century floriography dictionaries assigned different flowers to the same months, and later trade lists absorbed more than one rather than picking a winner. That gap holds for September's pair too.",
+          "What follows here goes past that argument, into the two plants themselves, which carry more specific history than \"aster\" and \"morning glory\" suggest on their own."
+        ]
+      },
+      {
+        "heading": "Aster: named for a star, then split away from most of its own genus",
+        "body": [
+          "Aster comes directly from the Greek word for star, itself descended from a Proto-Indo-European root that also produced the English word star, according to the Online Etymology Dictionary. Greek and Roman gardeners used the name for the plant's flower heads, whose thin ray petals radiate out from a center in roughly the shape the word describes.",
+          "One version of the story behind that name involves the goddess Astraea. Astraea herself is a genuine classical figure: Hyginus and the astronomical poet Aratus both describe her living among mortals in an earlier, more virtuous age, then leaving earth as humanity turned cruel and becoming, in most tellings, the constellation Virgo. The detail tying her tears specifically to asters doesn't trace to Aratus, Hyginus, or any other classical source checked for this page. It reads instead like the kind of flower-myth embroidery that flourished during the same 19th-century floriography boom this site's August page traces the wider birth-flower tradition to, not an ancient account in its own right.",
+          "The bigger surprise sits in the plant's scientific name, not its myth. Most asters native to North America, including the New England aster (Symphyotrichum novae-angliae) that shows up on the American side of most birth-flower photo galleries, haven't been classified in genus Aster for three decades. American botanist Guy Nesom laid out the molecular and structural evidence behind the split in a 1994 taxonomic overview of the genus, then formally transferred hundreds of New World species into new genera over the following year, the largest share landing in Symphyotrichum, a name first proposed back in 1832 but rarely used until Nesom's work revived it. Kew's Plants of the World Online currently lists more than 100 accepted Symphyotrichum species, New England aster among them, while Old World species like Aster amellus kept the original genus name. \"Aster\" still works as a common name across both groups. The scientific one no longer does, for most of the plants sold as September's birth flower in the US."
+        ],
+        "image": {
+          "src": "/images/september-birth-flower-aster.jpg",
+          "alt": "New England aster (Symphyotrichum novae-angliae) in bloom, one of the North American asters reclassified out of genus Aster in the mid-1990s",
+          "credit": "Photo by The Cosmonaut, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Symphyotrichum_novae-angliae3.jpg), CC BY-SA 2.5 Canada"
+        }
+      },
+      {
+        "heading": "Morning glory: a name about timing, and two different plants behind its ritual history",
+        "body": [
+          "Morning glory's scientific name doesn't describe the flower at all. Ipomoea comes from two Greek words, ips (\"worm\") and homoios (\"resembling\"); North Carolina State University's Extension plant database traces the reference either to the genus's sprawling underground roots or to its worm-like twining growth habit, without settling on one over the other. The common English name covers the part the Latin skips: morning glory flowers unfurl fully at dawn and begin closing again by early afternoon, spent well before evening.",
+          "The vine sold at nurseries and pictured on most birth-flower lists is usually the common morning glory, Ipomoea purpurea, native to Mexico and Central America and now naturalized worldwide, aggressively enough that parts of the southeastern United States classify it as a noxious weed, not a garden plant.",
+          "That garden vine isn't the plant behind morning glory's other, older history. Aztec priests used the seeds of different morning glory relatives in religious divination, a practice recorded in Spanish colonial-era accounts of Aztec religious life. Ololiuqui, per Britannica, is the name recorded for what botanists currently classify as Ipomoea corymbosa, a plant long placed in its own genus, Turbina, and folded back into Ipomoea only as recently as 2020 on the strength of newer phylogenetic work. Tlitliltzin is a second plant that ethnobotanist R. Gordon Wasson identified as Ipomoea tricolor, an identification other researchers in the field, including Richard Evans Schultes, have disputed rather than confirmed. Both plants carry ergoline compounds structurally related to LSD, the reason for their ritual role. Both are also genuinely different species from Ipomoea purpurea, the common ornamental vine that carries morning glory's birth-flower symbolism today."
+        ],
+        "image": {
+          "src": "/images/september-birth-flower-morning-glory.jpg",
+          "alt": "Common morning glory (Ipomoea purpurea) in bloom, the garden species behind September's birth-flower symbolism and a different plant from the morning glory relatives used in Aztec ritual divination",
+          "credit": "Photo by Derek Ramsey (Ram-Man), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ipomoea_purpurea_2400px.jpg), CC BY-SA 2.5"
+        }
+      },
+      {
+        "heading": "What the two flowers are said to mean, and one date that's still disputed",
+        "body": [
+          "The Old Farmer's Almanac gives aster the reading of love, wisdom, patience, beauty, faith, friendship, and purity, and ties specific shades to narrower meanings: purple for royalty and wisdom, white for innocence, red for devotion and passion, pink for love and kindness. For morning glory, the Almanac's own framing centers on love, and specifically unrequited love, tied to a flower that closes again the same afternoon it opens. Other florist sources instead read the same vine as a symbol of affection and a fresh start, without the two readings settling on one interpretation.",
+          "Aster also shows up on some wedding-anniversary flower lists as the marker for a 20th anniversary, though not every list agrees; several give that slot to the daylily instead and list aster only as a secondary or alternate choice. As with the birth-flower assignments themselves, there's no single governing list settling which flower belongs to which year."
+        ]
+      },
+      {
+        "heading": "If your birthday falls in the back half of September",
+        "body": [
+          "Aster and morning glory cover the whole month, but the zodiac sign attached to a September birthday changes partway through. In Western tropical astrology, Virgo holds the date through September 22; Libra picks up on September 23. Readers born in the first three weeks of September, or close enough to that boundary to wonder which side they land on, can check this site's [Virgo dates](/virgo-dates/) page, which walks through why the exact boundary can shift by a day and what the same range looks like in two other systems."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is September's birth flower?",
+        "answer": "Aster and morning glory, per The Old Farmer's Almanac and the florist trade lists that follow it. Like most months on a modern birth-flower list, September carries two flowers rather than one."
+      },
+      {
+        "question": "What does aster mean as a birth flower?",
+        "answer": "Love, wisdom, patience, beauty, faith, friendship, and purity, in the Old Farmer's Almanac's framing, with narrower meanings tied to color: purple for royalty and wisdom, white for innocence, red for devotion and passion, pink for love and kindness. The name itself comes from the Greek word for star, a reference to the shape of its ray petals."
+      },
+      {
+        "question": "Are all asters still classified in the genus Aster?",
+        "answer": "No. Most asters native to North America, including the New England aster common on US birth-flower lists, were reclassified into the genus Symphyotrichum by botanist Guy Nesom starting in the mid-1990s. Old World species like Aster amellus kept the original genus name; \"aster\" still works as a common name across both groups, but the scientific name no longer does."
+      },
+      {
+        "question": "What does morning glory mean as a birth flower?",
+        "answer": "The Old Farmer's Almanac frames it around love, specifically unrequited love, tied to a flower that opens at dawn and closes again the same afternoon. Other florist sources instead read it as a symbol of affection and a fresh start; the two readings don't fully agree."
+      },
+      {
+        "question": "Is the morning glory sold at nurseries the same plant Aztec priests used in rituals?",
+        "answer": "No. The garden vine sold as September's birth flower is usually Ipomoea purpurea, the common morning glory. The plants tied to Aztec ritual divination, ololiuqui and tlitliltzin, are classified as different species: Ipomoea corymbosa and, per one contested identification, Ipomoea tricolor."
+      },
+      {
+        "question": "I was born in late September. Is my zodiac sign Virgo or Libra?",
+        "answer": "Depends on the exact date. In Western tropical astrology, Virgo runs through September 22; Libra starts September 23. This site's Virgo dates page checks that boundary against three separate date systems."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — September Birth Flowers: Aster and Morning Glory",
+        "url": "https://www.almanac.com/september-birth-flowers"
+      },
+      {
+        "label": "Etymonline — Aster",
+        "url": "https://www.etymonline.com/word/aster"
+      },
+      {
+        "label": "Theoi.com — Astraea",
+        "url": "https://www.theoi.com/Titan/Astraia.html"
+      },
+      {
+        "label": "Wikipedia — Astraea",
+        "url": "https://en.wikipedia.org/wiki/Astraea"
+      },
+      {
+        "label": "Guy Nesom — Name Changes in Aster",
+        "url": "https://www.guynesom.com/NameChangesInAsterWEB.htm"
+      },
+      {
+        "label": "Kew Plants of the World Online — Symphyotrichum novae-angliae",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:981863-1"
+      },
+      {
+        "label": "North Carolina State University Extension — Ipomoea",
+        "url": "https://plants.ces.ncsu.edu/plants/ipomoea/"
+      },
+      {
+        "label": "North Carolina State University Extension — Ipomoea purpurea",
+        "url": "https://plants.ces.ncsu.edu/plants/ipomoea-purpurea/"
+      },
+      {
+        "label": "Britannica — Ololiuqui",
+        "url": "https://www.britannica.com/plant/ololiuqui"
+      },
+      {
+        "label": "Kew Plants of the World Online — Ipomoea corymbosa",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458008-2/general-information"
+      }
+    ],
+    "image": "/images/september-birth-flower-aster.jpg",
+    "imageAlt": "New England aster (Symphyotrichum novae-angliae) in bloom, one of the North American asters reclassified out of genus Aster in the mid-1990s",
+    "imageCredit": "Photo by The Cosmonaut, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Symphyotrichum_novae-angliae3.jpg), CC BY-SA 2.5 Canada"
   }
 ];

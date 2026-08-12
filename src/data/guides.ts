@@ -3908,5 +3908,138 @@ export const guides: Guide[] = [
     "image": "/images/july-birth-flower-larkspur.jpg",
     "imageAlt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than the Eurasian hybrid sold at florists",
     "imageCredit": "Photo by Matt Lavin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delphinium_bicolor_(3625586495).jpg), CC BY-SA 2.0"
+  },
+  {
+    "slug": "talk-like-a-pirate-day",
+    "category": "Observances",
+    "title": "Talk Like a Pirate Day: September 19, and Its Undisputed Origin",
+    "description": "Talk Like a Pirate Day falls on September 19, invented in 1995 during a racquetball game, with an origin story fully documented by its two named founders.",
+    "published": "2026-08-12",
+    "updated": "2026-08-12",
+    "coreSummary": "Talk Like a Pirate Day is a novelty US observance held every September 19, invented in 1995 by John Baur and Mark Summers of Albany, Oregon, and popularized internationally after humor columnist Dave Barry wrote about it in 2002. Unlike most observances on this calendar, both founders are named, still alive, and have told the same origin story consistently for three decades, including the specific reasoning behind the September 19 date.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 19 every year, worldwide. No source describes a weekend-shift convention or a regional variant date.",
+      "source": {
+        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
+      },
+      "occurrences": [
+        { "date": "2026-09-19", "weekday": "Saturday" },
+        { "date": "2027-09-19", "weekday": "Sunday" },
+        { "date": "2028-09-19", "weekday": "Tuesday" },
+        { "date": "2029-09-19", "weekday": "Wednesday" },
+        { "date": "2030-09-19", "weekday": "Thursday" },
+        { "date": "2031-09-19", "weekday": "Friday" }
+      ]
+    },
+    "founding": {
+      "status": "documented",
+      "text": "John Baur (\"Ol' Chumbucket\") and Mark Summers (\"Cap'n Slappy\"), two friends from Albany, Oregon, invented Talk Like a Pirate Day on June 6, 1995, during a game of racquetball. By their own account, one of them strained a muscle reaching for a low shot and yelled out \"Oh, jeez, my hamstring!,\" and for reasons neither has ever fully explained, they kept trading encouragement in pirate slang for the rest of the game. By the end of the match they had agreed the world needed a day devoted to talking like a pirate. They deliberately did not set the observance on June 6 itself, out of respect for that date's significance as the anniversary of the D-Day landings, and instead picked September 19 because it was Summers's ex-wife's birthday: a date he would have no trouble remembering, and one not already claimed by a bigger observance. For seven years the pair marked the day quietly with a small circle of friends. In 2002 they wrote to Miami Herald humor columnist Dave Barry asking him to serve as the holiday's spokesman; Barry agreed and devoted his September 8, 2002 column to the idea, which is what carried it from a private joke between two men to an internationally recognized novelty holiday. Baur and Summers still run the holiday's official website and have repeated the same account, with the same names, date, and reasoning, in press coverage spanning from the early 2000s through recent years.",
+      "source": {
+        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What Talk Like a Pirate Day is",
+        "body": [
+          "Talk Like a Pirate Day is a novelty observance held every September 19, when participants greet each other in mock-pirate slang (\"ahoy,\" \"arrr,\" \"matey\") for the fun of it. It carries no legal status anywhere: no government recognizes it, no country gives workers the day off, and banks and offices run their normal schedule. In 2026 it falls on a Saturday.",
+          "The day spreads almost entirely through social media, novelty retail, and restaurant marketing rather than any civic or religious institution. Krispy Kreme has run pirate-talk promotions offering free doughnuts to customers who order in pirate speak, and bars and pubs use the date as a hook for rum-drink specials and costume nights. That commercial pickup, more than any formal recognition, is what has kept the day visible for three decades."
+        ]
+      },
+      {
+        "heading": "The racquetball game that started it",
+        "body": [
+          "The origin traces to one specific afternoon: June 6, 1995, when John Baur and Mark Summers, two friends from Albany, Oregon, were playing racquetball. One of them strained a muscle reaching for a low shot and blurted out \"Oh, jeez, my hamstring!\" Neither has ever fully explained why, but the pair started trading encouragement in exaggerated pirate slang for the rest of the game, and by their own telling, decided on the spot that a whole day should be built around it.",
+          "The date itself took more thought than the joke did. June 6 is the anniversary of the D-Day landings, and Baur and Summers did not want their gag holiday sitting on top of that anniversary, so they looked for a different date. They landed on September 19 for a practical reason: it was Summers's ex-wife's birthday, a date he already had memorized and wasn't going to forget, and it wasn't already occupied by a bigger observance. Neither man has offered a grander explanation than that in the three decades since. Most \"why this date\" questions on this calendar don't have an answer this specific."
+        ]
+      },
+      {
+        "heading": "How one newspaper column made it real",
+        "body": [
+          "For the first seven years, Talk Like a Pirate Day stayed exactly what it started as: a private joke between Baur, Summers, and a small circle of friends. That changed in 2002, when the pair wrote to Miami Herald humor columnist Dave Barry and asked him to become the holiday's official spokesman. Barry, apparently charmed by the pitch, devoted his September 8, 2002 column to the idea and ran with it. That single column is what carried the day from a regional in-joke to an internationally recognized novelty observance.",
+          "That popularity has never converted into official recognition. In the early 2010s, a petition asking the Obama White House to formally recognize Talk Like a Pirate Day was filed on the administration's \"We the People\" platform, which required petitions to clear a signature threshold before earning an official response. This one did not reach that threshold and was archived without a response, alongside a long list of similarly off-beat petitions from the same era. It remains, thirty years on, exactly what its founders built: a widely celebrated but entirely unofficial day."
+        ]
+      },
+      {
+        "heading": "The pirate voice almost nobody in the Golden Age of Piracy actually used",
+        "body": [
+          "The exaggerated \"arrr, matey\" accent that Talk Like a Pirate Day participants reach for traces to a specific performance, not to any historical record of how pirates actually spoke: English actor Robert Newton playing Long John Silver in Walt Disney's 1950 film adaptation of Treasure Island. Newton, born in Dorset and raised near Land's End in Cornwall, leaned hard into his own native West Country accent for the role, a dialect that rolls its r's and swaps in \"be\" for \"is\" and \"are.\" Audiences loved it, Newton reprised the same voice in Blackbeard the Pirate (1952) and the television series The Adventures of Long John Silver, and the accent stuck as pop culture's default idea of how a pirate sounds, according to both History.com and Smithsonian Magazine's accounts of the film's legacy.",
+          "The accent may be less invented than it looks, though. During the Golden Age of Piracy in the late 17th and early 18th centuries, a large share of well-known pirates, including Blackbeard, who was most likely born in Bristol, came from that same stretch of England: Bristol, Devon, and Cornwall. Newton wasn't inventing a voice from nothing so much as exaggerating the regional accent of the part of England that produced many of the era's best-known pirates. That doesn't make the Hollywood version historically precise, since Newton's delivery was still a theatrical amplification built for the screen rather than a linguist's reconstruction, but it means pop culture's \"fake\" pirate voice landed closer to how real pirates from that region actually talked than most people would guess."
+        ]
+      },
+      {
+        "heading": "A rare case of a documented founding",
+        "body": [
+          "Most \"national day\" observances covered on this calendar trace back to a founding story that is vague, undocumented, or contested in some way. [National Boss's Day](/national-bosses-day/) rests on a 1958 registration whose Wikipedia entry still carries an unresolved citation-needed tag. [National Dog Day](/national-dog-day/) has two different, unreconciled explanations for its own existence, coming from the same founder's organization. [National Cat Day](/national-cat-day/) has a named founder, Colleen Paige, but no source has ever recorded why she picked October 29 specifically, as opposed to any other date.",
+          "Talk Like a Pirate Day is the exception. Both founders are named, both are still alive, both still run the holiday's official website, and the reasoning behind the date, avoiding D-Day and landing on an easy-to-remember birthday, has been told the same way in interviews spanning more than two decades. That level of consistency is unusual among the observances this calendar covers. The pirate jokes are beside the point; what sets this entry apart is that there's nothing left to fact-check."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Talk Like a Pirate Day in 2026?",
+        "answer": "Saturday, September 19, 2026. The date is fixed at September 19 every year and does not shift for weekends."
+      },
+      {
+        "question": "Who invented Talk Like a Pirate Day?",
+        "answer": "John Baur (\"Ol' Chumbucket\") and Mark Summers (\"Cap'n Slappy\"), two friends from Albany, Oregon, who came up with the idea during a racquetball game on June 6, 1995. They still run the holiday's official website."
+      },
+      {
+        "question": "Why is Talk Like a Pirate Day on September 19?",
+        "answer": "The founders didn't want the holiday sitting on June 6, the day they invented it, out of respect for that date's significance as the D-Day anniversary. They chose September 19 instead because it was co-founder Mark Summers's ex-wife's birthday, a date he already had memorized and one not claimed by a bigger observance."
+      },
+      {
+        "question": "Is Talk Like a Pirate Day an official holiday?",
+        "answer": "No. It has no legal status anywhere. A petition asking the Obama White House to formally recognize it, filed on the \"We the People\" platform in the early 2010s, did not reach the signature threshold required for an official response and was archived."
+      },
+      {
+        "question": "How did Talk Like a Pirate Day become popular?",
+        "answer": "For its first seven years it was a private joke among a small circle of friends. In 2002, the founders asked Miami Herald humor columnist Dave Barry to serve as spokesman; Barry devoted his September 8, 2002 column to the idea, and that column is what carried it to national and then international attention."
+      },
+      {
+        "question": "Where does the stereotypical pirate accent come from?",
+        "answer": "English actor Robert Newton's performance as Long John Silver in Disney's 1950 film Treasure Island. Newton exaggerated his own native West Country English accent for the role, and it became the pop-culture template for how pirates are supposed to sound, per History.com and Smithsonian Magazine."
+      },
+      {
+        "question": "Is the pirate accent historically accurate?",
+        "answer": "Partly, by coincidence rather than design. Robert Newton's 1950 film accent was a theatrical exaggeration, not a researched reconstruction, but the West Country region he drew it from (Bristol, Devon, and Cornwall) really did produce a large share of Golden Age of Piracy's most famous pirates, including Blackbeard, who was most likely born in Bristol."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
+      },
+      {
+        "label": "International Talk Like a Pirate Day (official site) — How It All Started",
+        "url": "https://talklikeapiratecom.wpcomstaging.com/sample-page/"
+      },
+      {
+        "label": "National Today — Talk Like a Pirate Day",
+        "url": "https://nationaltoday.com/talk-like-a-pirate-day/"
+      },
+      {
+        "label": "Britannica — Ahoy! It's Talk Like a Pirate Day",
+        "url": "https://www.britannica.com/story/ahoy-its-talk-like-a-pirate-day"
+      },
+      {
+        "label": "History.com — The Origins of the Pirate Accent",
+        "url": "https://www.history.com/articles/pirate-talk-accent-origins-robert-newton"
+      },
+      {
+        "label": "Smithsonian Magazine — This Film Version of 'Treasure Island' Gave Us Our Image of Pirates",
+        "url": "https://www.smithsonianmag.com/smart-news/film-version-treasure-island-gave-us-our-image-pirates-180967149/"
+      },
+      {
+        "label": "We the People (Obama White House archive) — Recognize International Talk Like a Pirate Day",
+        "url": "https://petitions.obamawhitehouse.archives.gov/petition/recognize-international-talk-pirate-day-september-19/"
+      }
+    ],
+    "image": "/images/talk-like-a-pirate-day.jpg",
+    "imageAlt": "Illustrated black flag reconstruction of pirate Bartholomew Roberts's Jolly Roger, showing a pirate figure standing on two skulls",
+    "imageCredit": "Illustration by TheLastBrunnenG, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jolly_Roger_flag_of_pirate_Bartholomew_Roberts.jpg), CC BY-SA 4.0"
   }
 ];

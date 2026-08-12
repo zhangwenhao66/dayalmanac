@@ -1057,7 +1057,7 @@ export const guides: Guide[] = [
     "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
     "description": "National Boss's Day falls on October 16 every year, registered by Patricia Bays Haroski in 1958. The weekend-shift rule widely repeated for it has no traceable source.",
     "published": "2026-08-02",
-    "updated": "2026-08-02",
+    "updated": "2026-08-12",
     "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation is available to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
     "dateRule": {
       "kind": "fixed",
@@ -1175,7 +1175,10 @@ export const guides: Guide[] = [
         "label": "Digital Hygge — Boss's Day",
         "url": "https://digitalhygge.com/boss-day/"
       }
-    ]
+    ],
+    "image": "/images/national-bosses-day.jpg",
+    "imageAlt": "A businessman and businesswoman shaking hands in an office",
+    "imageCredit": "Photo by perzon seo, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Business_man_and_woman_handshake_in_work_office.jpg), CC BY 2.0"
   },
   {
     "slug": "national-cat-day",

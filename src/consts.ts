@@ -4,3 +4,4 @@ export const SITE_DESCRIPTION =
 export const SITE_ORIGIN = 'https://dayalmanac.com';
 export const AUTHOR_NAME = 'Owen Zhang';
 export const ADSENSE_PUBLISHER_ID = 'pub-5245502795720653';
+export const GA4_ID = 'G-8DXH1M0D1B';

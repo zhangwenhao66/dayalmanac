@@ -20,3 +20,15 @@
 - **发布状态**：✅ 已提交，跳转 `thankyou.asp`，Pending approval。提交回执 product id = `ee2fa52c002514f2b2d005d1e829d80c`。
 - **上线复核**：⏳ 待下次任务运行时补查。
 - **回复采用**（2026-08-04 补记）：收到 Deb Szabo（marketing strategist）真实回复，讲的是 National Cabernet Sauvignon Day（8/27）与 International Cabernet Sauvignon Day（9/3）被多个日历站混淆的真实案例。已作为佐证案例写入 `national-boyfriend-day` 正文新增小节"This mix-up isn't unique to Boyfriend Day"，含引用卡片，commit `b5d05ff`，已部署上线核实（`dayalmanac.com/national-boyfriend-day/` 含"Deb Szabo"）。
+
+### 2026-08-12 — DayAlmanac（dayalmanac.com）
+
+- **问题标题**：Jewelers and gemologists: which birthstone assignment do customers get most confused about because the lists disagree?
+- **角度**：绑定`birthstones-by-month`一文列出的传统（1912年前）与现代（美国珠宝商协会1912年清单）生辰石归属分歧，征集珠宝商/宝石学家/宝石学教育者举出一个具体月份/宝石——两套清单归属不一致、且真实在跟客户对话中造成过困惑，以及他们实际会推荐客户参考哪一套清单、为什么。
+- **绑定文章**：DayAlmanac `birthstones-by-month`（Birthstones by Month: The Full Chart, and Where They Disagree）。
+- **分类标签**：Topics = General + Lifestyle, Food & Fashion；Countries = UK & Republic of Ireland + Canada + United States。
+- **表单设置**：Job title = Content Creator；Organisation = DayAlmanac；Contact = Email；Unpaid；Email address 和 Contact email 均填 `contact@dayalmanac.com`。
+- **Deadline**：2026-09-02 17:00
+- **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `ea3c5050668bd8480b6c185dcfec959d`。
+- **上线复核**：⏳ 待补做（当天提交，通常需要1-2天过审）。
+- **备注**：本次是08-04登录失效连续三次导致周二排期落空后的补做。

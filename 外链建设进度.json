@@ -13,6 +13,13 @@
       "question_url": "https://www.quora.com/How-many-constellations-does-the-Sun-move-every-day/answer/Owen-Zhang-161",
       "question_title": "How many constellations does the Sun move every day?",
       "notes": "尝试多个National Sons Day相关搜索词(谁创立/9月28日是否属实等)均零结果或无关，改用scorpio-dates文章的天文角度。发布时该问题有2个真实答案(前专业天文教授Thomas Wm. Hamilton给出准确数字8天，另一条也认同但更简短)，数字都对但都没解释'为什么'只有8天、也没连到占星学Scorpio日期争议这个更实用的延伸问题，判定为方向对但缺深度解释的空白，回答开头先认可两条现有答案。以站内文章骨架撰写(黄道十二宫在天文学上不是均分：Scorpius被蛇夫座Ophiuchus挤压，太阳每年12月要在蛇夫座停留约18天，这个真实存在的第十三个星座在黄道十二宫系统被正式确立时就被排除在外，太阳离开天蝎座后立刻进入蛇夫座地界，把天蝎座的实际天文学窗口压缩到约8天；西方回归黄道占星的'天蝎座'是完全不同的东西，从春分点起算的30度等分弧决定10/23-11/21这个日期，跟头顶实际星座位置无关；印度恒星黄道占星用不同参照点，把对应的'天蝎座'整体推后约一个月到11月中-12月中)。过humanizer skill检查，确认无破折号、无三段式列举、无负向排比结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布后用javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/scorpio-dates/。"
+    },
+    {
+      "date": "2026-08-12",
+      "target_page": "https://dayalmanac.com/september-birth-flower/",
+      "question_url": "https://www.quora.com/How-can-you-identify-the-September-birth-flower/answer/Owen-Zhang-161",
+      "question_title": "How can you identify the September birth flower?",
+      "notes": "发布时该问题0答案(1条折叠垃圾答案不计)。以站内文章骨架撰写(aster希腊词源、1994 Guy Nesom分类学重分类、morning glory昼夜节律、Ipomoea词源、Aztec占卜用种)。额外WebSearch找到Ipomoea purpurea在亚利桑那州(2020重分类后仍列入)和阿肯色州被列为有害杂草的增量事实。过humanizer+avoid-ai-writing自查，全程怀疑视角无营销语气。用Quora Add Link功能(Cmd+K)插入真实超链接，全程只填URL字段不碰Text字段，发布前DOM核实class为span link。已直接发布成功(非Space类问题)，发布后javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/september-birth-flower/。"
     }
   ],
   "reddit": []

@@ -3779,5 +3779,134 @@ export const guides: Guide[] = [
     "image": "/images/september-birth-flower-aster.jpg",
     "imageAlt": "New England aster (Symphyotrichum novae-angliae) in bloom, one of the North American asters reclassified out of genus Aster in the mid-1990s",
     "imageCredit": "Photo by The Cosmonaut, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Symphyotrichum_novae-angliae3.jpg), CC BY-SA 2.5 Canada"
+  },
+  {
+    "slug": "july-birth-flower",
+    "category": "Birth Flowers",
+    "title": "July Birth Flower: Larkspur and Water Lily, Egypt's Other Lotus",
+    "description": "July's birth flowers are larkspur and water lily, but the plant behind ancient Egypt's 'lotus' myth is a water lily, and only distantly related to a true lotus.",
+    "published": "2026-08-12",
+    "updated": "2026-08-12",
+    "coreSummary": "July's birth flowers are larkspur, whose scientific name Delphinium comes from a Greek word for dolphin describing the shape of its nectary rather than the lark's-claw spur its English name describes, and water lily, the flower behind ancient Egypt's 'lotus' creation myth. The larkspur sold at flower shops, Delphinium elatum, is a Eurasian hybrid; a separate wild North American species, Delphinium bicolor, is the one a documented Kainai (Blackfoot Confederacy) tradition used for blue dye and medicine. The water lily's Egyptian 'lotus' association is also a naming leftover: the true lotus, Nelumbo nucifera, is only distantly related to water lilies, with sycamore trees among its closer living relatives.",
+    "sections": [
+      {
+        "heading": "Larkspur and water lily, and two names apiece",
+        "body": [
+          "July's pair, per The Old Farmer's Almanac and the florist trade lists built on it, is larkspur and water lily. Larkspur is read as positivity, loving bonds, dedication, and sincerity; water lily as purity, innocence, and rebirth. Neither name is quite as simple as it looks once the actual plants behind it get checked.",
+          "Start with larkspur itself: it's not one plant. The Almanac's own entry says the common name covers two closely related genera, annual Consolida and perennial Delphinium, and that Consolida is often treated as a subgroup of Delphinium rather than its own separate line. That's the smaller of the two naming problems this page runs into."
+        ]
+      },
+      {
+        "heading": "Larkspur: a dolphin-shaped name, and a different larkspur behind the older uses",
+        "body": [
+          "Delphinium comes from the Greek delphínion, itself built on delphís, \"dolphin\"; Dictionary.com's etymology entry dates the English borrowing to the mid-17th century and attributes the name to the shape of the flower's nectary, not to any dolphin-colored bloom. \"Larkspur,\" the separate English common name, comes from an unrelated comparison: Wiktionary traces it to lark plus spur, describing the flower's backward-pointing spur as a match for the hind toe of a lark.",
+          "The plant sold at florists under either name is usually Delphinium elatum, a tall hybrid, 3 to 5 feet at bloom, native across Europe and northern and central Asia, according to the Missouri Botanical Garden's plant records. It is toxic if ingested, a warning the Almanac repeats alongside the symbolism.",
+          "That garden plant isn't the species behind the dye-and-medicine tradition many florist pages attribute to \"Native Americans\" without saying which nation or which plant. The Galileo Educational Network's Kainai Plants and Culture project, built with the Kainai (Blood Tribe) of the Blackfoot Confederacy in Alberta, documents that specific use for Delphinium bicolor, or little larkspur: a wild prairie and foothill species under 16 inches tall, native to a range from British Columbia to South Dakota, a different continent from the Eurasian species sold as cut flowers. Per that record, a weak tea from the flowers was used for children with severe diarrhea and for fainting spells, a stronger tea dyed arrow quills blue, and a third preparation was used on a woman's hair to make it shine and lie straight. The same source is explicit that only someone taught the correct dose by an elder should prepare any of it, since the plant, especially its seed, is poisonous.",
+          "Color carries its own meaning on the Almanac's chart: blue, rare among flowers, for dignity and grace; pink for fickleness; white for happiness and joy; purple for first love. The Almanac also traces a separate, older origin story back to Greek mythology, where larkspur is said to have grown from the spilled blood of the warrior Ajax after the Battle of Troy, and records a later English folk belief that scattering the flower in bathwater warded off ghosts. Neither claim is the kind of thing a botanist could verify; both simply show how much unrelated symbolism has attached itself to one plant name over the centuries, alongside the specific, documented Kainai use above."
+        ],
+        "image": {
+          "src": "/images/july-birth-flower-larkspur.jpg",
+          "alt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than the Eurasian hybrid sold at florists",
+          "credit": "Photo by Matt Lavin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delphinium_bicolor_(3625586495).jpg), CC BY-SA 2.0"
+        }
+      },
+      {
+        "heading": "Water lily: the flower behind Egypt's 'lotus'",
+        "body": [
+          "Nymphaea, the water lily genus, is named for the nymphs of Greek myth, water-dwelling minor goddesses; the family name Nymphaeaceae follows the same root. On the Almanac's Western color chart, white water lilies read as purity, innocence, and chastity, pink as joy and friendship, red as passion and romance, blue as calm and wisdom, and yellow as energy and new beginnings; the Almanac separately notes that in Buddhism and Hinduism, the same flower is read as resurrection and rebirth, tied to how the bloom opens and closes each day.",
+          "The flower's older, larger association is Egyptian. In the creation account centered on Heliopolis, the sun god Ra was said to have arisen from a flower that emerged from Nun, the primordial waters, at the start of the world; Wikipedia's entry on the god Nefertem, tied to the same myth, quotes a line from the Book of the Dead calling on the reader to \"rise like Nefertem from the blue water lily, to the nostrils of Ra (the creator and sungod), and come forth upon the horizon each day.\" Nefertem's own listed symbol is the water lily, and the species behind both the myth and the flower's frequent appearance in Egyptian art is Nymphaea caerulea, the Egyptian blue water lily, per that same entry and Wikipedia's separate disambiguation page for \"blue lotus,\" which identifies N. caerulea specifically as \"a water lily in the genus Nymphaea that was known to the Ancient Egyptian civilizations.\""
+        ],
+        "image": {
+          "src": "/images/july-birth-flower-water-lily.jpg",
+          "alt": "Nymphaea caerulea, the Egyptian blue water lily, in bloom, the species behind ancient Egypt's Nefertem and sun-god creation mythology",
+          "credit": "Photo by Ermell, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymphaea_caerulea-20091014-RM-115245.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Why \"lotus\" and \"water lily\" keep getting confused",
+        "body": [
+          "\"Lotus\" gets attached to Egypt's water lily constantly, in translations of the myth above and in casual usage generally, and the mix-up isn't only a modern one. Wikipedia's classification section for Nelumbo nucifera, the true lotus, notes that older botanical systems, including the Bentham & Hooker system still referenced in parts of the Indian subcontinent, filed that species under an old synonym, Nymphaea nelumbo, naming it as if it were a water lily outright.",
+          "Genetic classification settled the question the other way. Under the current APG IV system, Nelumbo nucifera and its one surviving relative, Nelumbo lutea, sit in their own family, Nelumbonaceae, inside the order Proteales, and Wikipedia's article on the species states plainly that the closest living relatives of Nelumbo, per that classification, are the sycamores, family Platanaceae, not any water lily. Nymphaeaceae, the water lily family, belongs to an entirely separate order, Nymphaeales, with a fossil record Wikipedia's own taxobox traces back roughly 130 million years to the Early Cretaceous, placing it among the earliest-diverging lineages of living flowering plants.",
+          "So the plant behind Egypt's own myth, a water lily, and the plant most modern retellings translate that myth's name as, a lotus, turn out to be, by descent, two of the more distantly related branches on the entire flowering-plant tree. The water lily's own daily rhythm, opening its bloom and closing it again later the same day, is what gave it the sun-god symbolism at Heliopolis in the first place and, on the Almanac's own chart, the separate tie to rebirth in Buddhist and Hindu tradition. Both plants grow rooted in water and produce a large, showy, symbolically loaded flower, similar enough on sight that later Western botany itself, not just casual translation, mixed them up more than once: the Bentham & Hooker system filed true lotus under that same water-lily synonym, and the separate, more recent Cronquist system independently grouped Nelumbo with the water lilies again, this time explicitly on anatomical grounds, before DNA evidence in the current APG IV system split the two apart for good."
+        ]
+      },
+      {
+        "heading": "July's other reference points",
+        "body": [
+          "For the gemstone side of a July birthday rather than the flower side, this site's [birthstones by month](/birthstones-by-month/) page lists July's current official stone as ruby alone, per Jewelers of America's live buying guide, with no second stone the way June or December carry three. And for why birth flowers, unlike birthstones, never settled on one standardized list in the first place, this site's [August birth flower](/august-birth-flower/) page traces that gap to a wave of competing 19th-century flower dictionaries that never had their own version of the single 1912 trade meeting that fixed the birthstone chart."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is July's birth flower?",
+        "answer": "Larkspur and water lily, per The Old Farmer's Almanac and the florist trade lists that follow it. \"Larkspur\" itself covers two closely related genera, Consolida and Delphinium, often treated as one group."
+      },
+      {
+        "question": "What does larkspur mean as a birth flower?",
+        "answer": "Positivity, loving bonds, dedication, and sincerity, in the Almanac's framing, with color adding a narrower meaning: blue for dignity and grace, pink for fickleness, white for happiness and joy, purple for first love. The name Delphinium comes from Greek for \"dolphin,\" describing the shape of the nectary; \"larkspur\" is a separate English name comparing the flower's spur to a lark's hind claw."
+      },
+      {
+        "question": "Is the larkspur used in Native American dye traditions the same plant sold at florists?",
+        "answer": "Not usually. Florist larkspur is typically Delphinium elatum, a hybrid bred from species native to Europe and Siberia. A documented Kainai (Blood Tribe, Blackfoot Confederacy) tradition recorded by the Galileo Educational Network describes dye and medicinal tea uses specifically for Delphinium bicolor, a smaller wild species native to western North America, a different plant from a different continent."
+      },
+      {
+        "question": "What does water lily mean as a birth flower?",
+        "answer": "Purity, innocence, and rebirth, in the Almanac's framing, with color adding narrower meanings: white for purity and chastity, pink for joy and friendship, red for passion and romance, blue for calm and wisdom, and yellow for energy and new beginnings."
+      },
+      {
+        "question": "Is July's water lily the same plant as the Egyptian lotus?",
+        "answer": "The plant behind ancient Egypt's lotus imagery, including the myth of the sun god Ra and the god Nefertem, is specifically Nymphaea caerulea, a true water lily, not the unrelated plant most modern usage calls \"true lotus,\" Nelumbo nucifera. The two have been mixed up for centuries, including in some historical taxonomy, but current genetic classification places Nelumbo closer to sycamore trees than to any water lily."
+      },
+      {
+        "question": "What is July's birthstone?",
+        "answer": "Ruby, per Jewelers of America's current buying guide, which lists July as a single-stone month. This site's birthstones by month page has the full chart."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — July Birth Flowers: Larkspur and Water Lily",
+        "url": "https://www.almanac.com/content/july-birth-flowers"
+      },
+      {
+        "label": "Dictionary.com — Delphinium (Etymology)",
+        "url": "https://www.dictionary.com/browse/delphinium"
+      },
+      {
+        "label": "Wiktionary — Larkspur",
+        "url": "https://en.wiktionary.org/wiki/larkspur"
+      },
+      {
+        "label": "Missouri Botanical Garden — Delphinium elatum",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=299459"
+      },
+      {
+        "label": "Galileo Educational Network — Kainai Plants and Culture: Larkspur",
+        "url": "https://galileo.org/kainai/larkspur/"
+      },
+      {
+        "label": "Wikipedia — Delphinium bicolor",
+        "url": "https://en.wikipedia.org/wiki/Delphinium_bicolor"
+      },
+      {
+        "label": "Wikipedia — Nefertem",
+        "url": "https://en.wikipedia.org/wiki/Nefertem"
+      },
+      {
+        "label": "Wikipedia — Blue lotus (disambiguation)",
+        "url": "https://en.wikipedia.org/wiki/Blue_lotus"
+      },
+      {
+        "label": "Wikipedia — Nelumbo nucifera",
+        "url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera"
+      },
+      {
+        "label": "Wikipedia — Nymphaeaceae",
+        "url": "https://en.wikipedia.org/wiki/Nymphaeaceae"
+      }
+    ],
+    "image": "/images/july-birth-flower-larkspur.jpg",
+    "imageAlt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than the Eurasian hybrid sold at florists",
+    "imageCredit": "Photo by Matt Lavin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delphinium_bicolor_(3625586495).jpg), CC BY-SA 2.0"
   }
 ];

@@ -490,3 +490,86 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-bosses-day",
+  "last_audited": "2026-08-12",
+  "published_date": "2026-08-02",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "founding.status为'documented'，具名人物Patricia Bays Haroski（1958年注册）+Illinois州长Otto Kerner（1962年proclamation），但明确标注局限：Wikipedia该句挂citation-needed标签、未见1958注册原件或1962proclamation原件在线可查，'周末顺延到最近工作日'这一广泛流传的惯例同样标注为无法追溯到原始文件，属实证怀疑式写作而非过度断言。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实，含专属该文的5条核心断言）",
+      "detail": "WebSearch核实Haroski 1958年向美国商会注册、选10/16因是其父亲生日（父亲同时是其老板）、Illinois州长Otto Kerner 1962年proclamation背书，均与多个独立信源一致；WebSearch核实Hallmark直到1979年才上架首张Boss's Day贺卡（晚注册21年）、'2007年贺卡系列扩大28%（2008年被报道）'两项具体数字准确。直接curl抓取Wikipedia原文确认：citation-needed标签确实紧跟在Haroski那句话后（Category:Articles with unsourced statements from June 2025），infobox确实写'October 16 (or nearest working day)'，且当前infobox的Observed by字段仅列'United States'（不含加拿大/印度等其他国家）。直接curl抓取Digital Hygge原文确认'Canada, India, Ireland, Australia, and the United Kingdom'这份跨国观察清单逐字出自该来源，本文措辞'sources tracking the day'未误挂在Wikipedia头上，归因准确。直接curl抓取SHRM原文（301跳转后的现址）逐字核对Cord Himelstein（HALO Recognition VP）与Paul White（Wichita心理学家）两条引语，含带引号的具体措辞'needs to be personal rather than organizational'，与本文完全一致，两人观点均正确归于个人而非SHRM机构立场。dateRule六个occurrence（2026 Friday/2027 Saturday/2028 Monday/2029 Tuesday/2030 Wednesday/2031 Thursday）及'2027/2032顺延至10/15（均为Friday）'均用Python datetime独立复核全部吻合。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "published 2026-08-02、本次审计前updated同为2026-08-02（本次改为2026-08-12）。dateRule覆盖2026-2031六年，下次occurrence（2026-10-16）尚未发生，无过期年份问题。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "WebSearch实测'national boss's day origin history'：头部竞品nationaltoday.com/nationaldaycalendar.com/nationaldayarchives.com/calendar-365.com/icalendars.net/timeanddate.com/NBC Chicago等均只平铺'1958年注册+1962年proclamation'的标准叙事，未见任何一家像本文一样正面追问'周末顺延到最近工作日这个惯例，到底有没有原始文件依据'并如实回答'找不到'，增量价值真实、非同质化内容。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title/meta description准确、canonical自指、单一h1、5个正文h2+FAQ h2无跳级、URL evergreen不带年份；robots.txt对GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended均显式Allow。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约90/99，已达标≥80。本次修复（配图字段）不涉及GEO结构性薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本文published 2026-08-02，早于avoid-ai-writing 2026-08-07接入日期，属回溯检查范围。本次实际过Skill(humanizer)和Skill(avoid-ai-writing)两个detect-only扫描：正文0处em-dash/花体引号/AI高频词表（delve/tapestry/testament/underscore/robust/leverage等约25个）命中；7处em-dash全部位于sources.label/dateRule.source.label/founding.source.label等引用元数据字段，非正文；'genuinely'一词单次出现，未达聚集阈值不构成flag；段落/句长有真实变化（含多处3-8词的短句），非均匀节奏。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（两处需说明的例外）",
+      "detail": "5条sources链接实测：Hallmark corporate/Wikipedia/Digital Hygge直接curl 200。US News（money.usnews.com）对自动化curl请求TLS握手后连接被重置（HTTP/2 INTERNAL_ERROR，HTTP/1.1同样超时），但WebSearch证实该文章标题、作者、发布日期（2015-10-12）仍可正常检索到，与本站历次审计对同类站点的bot拦截判定标准一致，判定为反爬拦截而非真实链接失效。SHRM旧URL（301跳转，非本站控制）跳转到现址后200，内容与本文引用一致，属正常URL迁移非死链，未采取行动（两条sources链接均保留原样）。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "全站Observances分类现有16篇（>6篇触发轮转窗口），用vendor/site-toolkit的pickRelatedGuides算法独立模拟全站25篇文章的选择结果，确认覆盖率100%（25/25，无孤儿页），本文自身的轮转窗口选中national-cat-day/national-dog-day/red-ribbon-week/domestic-violence-awareness-month/national-taco-day/national-hispanic-heritage-month六篇，经curl实测线上'Also on the calendar'侧栏确认六篇链接全部命中。grep确认national-cat-day、red-ribbon-week两篇文章正文已有手写锚文本自然链接指向本文，非孤儿页。本文自身outbound内链指向national-grandparents-day/national-sons-day/national-coffee-day三篇，逐条核对桥接句的具体描述（federal law的位阶对比、Sons Day双日期的founding状态、Coffee Day跨国双重历史）均与三篇姊妹文章各自审计确认的实际内容一致，未发现L-0805-4类桥接句失实。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "确认问题，已修复",
+      "detail": "见actions_taken——本次修复前Article/og:image/twitter:image三处均回退到/favicon.svg，与guides.ts无image字段一致（数据源本身缺失，非渲染层bug）；FAQPage.mainEntity 6问与guides.ts faq数组逐字一致；Event×6日期字段与occurrences逐字一致。修复后重新curl线上确认三处image均指向真实JPEG。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及实体（Patricia Bays Haroski、Illinois州长Otto Kerner、Hallmark、Alison Green、SHRM/Cord Himelstein/Paul White）均中性引用。Otto Kerner后来在1973年因受贿/邮件欺诈被定罪入狱，属其本人后续无关丑闻，与本文引用的1962年proclamation这一具体史实本身的准确性无关，非本文断言的可信度风险，未纳入正文（判断为与本文话题无实质关联的历史八卦，不属于本维度要核查的'新增现实争议'）。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "确认问题，已修复",
+      "detail": "文章无image字段，og:image/twitter:image/Article schema image全部回退到/favicon.svg（SVG），页面正文也无任何可见<img>标签（仅第二节有一张内联SVG时间线插图，非社交分享图）。独立复核agent独立curl实测线上确认三处回退属实，独立WebSearch核实X/Twitter官方文档及第三方指南明确twitter:image仅支持JPG/PNG/WEBP/GIF、SVG会静默失败；Facebook Sharing Debugger对SVG的支持证据不完全一致但多份实操指南建议避免使用，判定风险真实存在（非100%确证但证据充分），结论CONFIRMED——与national-boyfriend-day/national-coffee-day/national-daughters-day/national-sons-day/national-grandparents-day完全相同的批次性缺陷模式，五篇均属2026-08-02批次commit 2557193，本文是该批次最后一篇被审到、也是最后一篇仍未修复的。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "正文无暴力/伤亡描写，无武器/毒品/赌博提及，标题为事实陈述非标题党。ads.txt线上200且内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，隐私政策页/privacy/200可访问。"
+    }
+  ],
+  "actions_taken": [
+    "从Wikimedia Commons下载配图：'Business man and woman handshake in work office.jpg'，摄影者perzon seo，CC BY 2.0协议（需署名，非CC0，已在imageCredit注明），4000×2667原图用sips缩至1600×1067/205KB，写入image/imageAlt/imageCredit三个字段",
+    "updated字段从2026-08-02改为2026-08-12（published字段本身已存在，无需回填）",
+    "npm run build（Node 22.22.2）36页0报错；node --test tools/**/*.test.mjs 17/17全过（未改动日期数据，仍按规则跑一遍确认无回归）；commit 49cd36c并push（仅暂存src/data/guides.ts+新图片两个文件，规避同目录另一并发会话未提交的gsc-index-submit-log.json/sourcebottle-callout-log.md）；dayalmanac无登记CF deploy hook，靠git自动部署，轮询3次（20s间隔）确认线上og:image/twitter:image/schema image均已为真实JPEG（200，与本地一致）、dateModified已更新为2026-08-12；IndexNow提交（Bing 200/Yandex 202），记入indexnow-submit-log.json（commit 4b2be65单独提交）；内容发布日志.md追加审计记录（commit c800497）"
+  ],
+  "seo_score": "审计前后均为技术SEO全项通过（本次未发现需修复的SEO技术项，标题/描述/canonical/heading/schema均未改动）",
+  "geo_score": "自评约90/99（已达标≥80），本次修复为社交分享/schema层面，不涉及GEO结构性薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

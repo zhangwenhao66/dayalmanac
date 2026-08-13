@@ -4182,5 +4182,148 @@ export const guides: Guide[] = [
     "image": "/images/epilepsy-awareness-month-capitol.jpg",
     "imageAlt": "The United States Capitol building, where three separate resolutions to designate National Epilepsy Awareness Month were introduced in 2002, 2003, and 2011 and died in committee without a vote",
     "imageCredit": "U.S. House of Representatives, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_United_States_Capitol_118th_Congress,_sunrise.jpg)"
+  },
+  {
+    "slug": "adhd-awareness-month",
+    "category": "Observances",
+    "title": "ADHD Awareness Month: Five Senate Resolutions, Then Silence",
+    "description": "ADHD Awareness Month runs every October. The Senate approved a single September day five years straight, 2004 to 2008, then stopped, and never approved the month.",
+    "published": "2026-08-13",
+    "updated": "2026-08-13",
+    "coreSummary": "ADHD Awareness Month runs every October in the United States, organized by a coalition of the Attention Deficit Disorder Association (ADDA), CHADD, and the ADHD Coaches Organization. The federal record is more specific than a single resolution: the Senate designated a single September date as \"National Attention Deficit Disorder Awareness Day\" five years running, 2004 through 2008, always sponsored by Senator Maria Cantwell and agreed to without objection each time. Then the practice stopped. No sixth resolution, no recurring annual designation, and no statute or proclamation naming October has been found since.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of October, every year, in the United States — not a single date within the month, and not any of the five single September dates the Senate actually designated between 2004 and 2008.",
+      "status": "conventional",
+      "source": {
+        "label": "ADDA — Where Did ADHD Awareness Month Get Its Start? (add.org)",
+        "url": "https://add.org/adhd-awareness-history/"
+      },
+      "occurrences": [
+        { "date": "2026-10-01", "weekday": "Thursday" },
+        { "date": "2027-10-01", "weekday": "Friday" },
+        { "date": "2028-10-01", "weekday": "Sunday" },
+        { "date": "2029-10-01", "weekday": "Monday" },
+        { "date": "2030-10-01", "weekday": "Tuesday" },
+        { "date": "2031-10-01", "weekday": "Wednesday" }
+      ],
+      "caveat": "Do not confuse the October month observed today with the five dates Congress actually acted on. The Senate designated a single date each year as \"National Attention Deficit Disorder Awareness Day\" five years running: September 7, 2004 (S.Res.370), September 14, 2005 (S.Res.201), September 20, 2006 (S.Res.544), September 19, 2007 (S.Res.295), and September 18, 2008 (S.Res.649). Every one was a fresh, one-time designation for that year only, none of them a recurring rule, and no sixth resolution has been found after 2008. One secondary account of this history, on the blog ImpactADHD.com, describes the origin as \"the 3rd Wednesday of September.\" That happens to match two of the five actual dates, September 20, 2006 and September 19, 2007, which genuinely were the third Wednesday of their respective Septembers, but it does not match the other three: September 7, 2004 fell on a Tuesday, September 14, 2005 was the second Wednesday, and September 18, 2008 was a Thursday. None of the five resolutions ever stated a recurring weekday rule; each named one specific calendar date, decided fresh by the Senate each year, so the \"3rd Wednesday\" description is a coincidence that held for two years out of five, not a rule anyone actually passed."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The part of this history that is fully checkable against primary legislative documents turns out to be larger than a single resolution. On June 7, 2004, Senator Maria Cantwell of Washington, joined by Senator Richard Durbin of Illinois, introduced Senate Resolution 370 in the 108th Congress. It was referred to the Senate Judiciary Committee the same day, reported out without amendment by Committee Chairman Orrin Hatch on June 18, 2004, and agreed to by the full Senate, by unanimous consent, on July 6, 2004. Its text designates a single date, September 7, 2004, as \"National Attention Deficit Disorder Awareness Day,\" recognizes AD/HD as a major public health concern, and, uniquely among the five resolutions described below, requests that the President issue a proclamation calling on federal, state, and local administrators to observe the day. The Attention Deficit Disorder Association (ADDA) served as the resolution's sponsoring organization, and according to ADDA's own contemporaneous press release, worked directly with Cantwell's office on its drafting. David Giwerc, ADDA's president at the time, called the designation \"a monumental first step,\" adding, \"It is our hope that September 7, 2004 will be the beginning of a nationwide awareness leading to greater understanding and acceptance of AD/HD.\"\n\nWhat this calendar did not expect, and found only by searching Congress's own bill database beyond the 2004 resolution, is that the Senate repeated this exact act four more times. Cantwell and Durbin returned the following year with Senate Resolution 201, designating September 14, 2005, agreed to July 27, 2005. They returned again with Senate Resolution 544, designating September 20, 2006, agreed to July 28, 2006. In 2007, Cantwell submitted Senate Resolution 295 alone, without a co-sponsor, designating September 19, 2007, agreed to the same day it was submitted. In 2008, Cantwell was joined by Senator Gordon Smith of Oregon for Senate Resolution 649, designating September 18, 2008, agreed to September 8, 2008. All five were simple resolutions, all five passed without a recorded vote, and all five named a single calendar date for that year only, never a recurring day and never a month. One consistent change across the five: starting with the 2005 resolution, the text dropped the clause asking the President for a proclamation that the 2004 original had included, replacing it with language that only \"calls on Federal, State and local administrators and the people of the United States to observe the day.\" This calendar could not find a stated reason for that change, or a record of whether a proclamation was ever issued in response to the 2004 request.\n\nThen the pattern stops. This calendar searched Congress's bill database for any resolution matching this same title after 2008, and for any using the shorter \"ADHD Awareness\" phrasing in place of \"Attention Deficit Disorder,\" and found nothing: no sixth Senate resolution, no House companion, and no presidential proclamation naming an annual day or a month at the federal level in any year since 2008. What filled that gap afterward is not a sixth resolution but an advocacy coalition. The same organizations behind the Senate pushes, ADDA together with CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder) and the ADHD Coaches Organization (ACO), kept the campaign going on their own, past the single September date, into a longer observance that today runs every October under the shared site ADHDAwarenessMonth.org. ADDA's own history page states that \"ADHD Awareness has grown from one day each year in 2004 to a full month, the month of October,\" without giving a specific year for that particular shift, and this calendar could not independently verify one, so no exact date for the week-to-month transition is claimed here.\n\nThe distinction that matters for a reader planning around this observance is not whether Congress ever acted, it did, five years running, but whether that action ever became permanent. It did not. Compare that to [American Diabetes Month](/diabetes-awareness-month/), where a single 1982 presidential proclamation was later renewed by name and has effectively continued since. ADHD Awareness had the opposite trajectory: five consecutive years of real Senate approval, then an abrupt stop, with the annual repetition, the move to October, and the month-long scope all left to the coalition's own doing from 2008 onward.",
+      "source": {
+        "label": "S.Res.370 — 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-108sres370ats/html/BILLS-108sres370ats.htm"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What ADHD Awareness Month is",
+        "body": [
+          "ADHD Awareness Month is a US observance held every October, built around public education about Attention-Deficit/Hyperactivity Disorder: how it is diagnosed, how it is treated, and how often it goes undiagnosed, especially in adults. The Centers for Disease Control and Prevention's data page puts current ADHD diagnoses at roughly 7 million US children and adolescents ages 3 to 17, about 11.7 percent, based on a national parent survey CDC ran in 2024; an earlier CDC-cited 2022 survey had put the ever-diagnosed figure at 11.4 percent, about 7.1 million, with 10.5 percent, about 6.5 million, carrying a current diagnosis at that time.",
+          "The month carries no legal status. It creates no day off, and government offices, schools, and businesses run a normal October around it. It is organized, every year, by a coalition of three advocacy groups: the Attention Deficit Disorder Association (ADDA), CHADD, and the ADHD Coaches Organization (ACO), which jointly run webinars, public-education toolkits, and community events under the shared campaign site ADHDAwarenessMonth.org."
+        ]
+      },
+      {
+        "heading": "Five Septembers, five resolutions, then nothing",
+        "body": [
+          "Congress did not approve a single ADHD awareness day and stop there. It approved one every year for five years straight. Senator Maria Cantwell of Washington sponsored all five, always in the Senate, always as a simple resolution that passed the same day or within days of being introduced, by unanimous consent or without objection: Senate Resolution 370 in 2004 (with Senator Richard Durbin, designating September 7), Senate Resolution 201 in 2005 (again with Durbin, designating September 14), Senate Resolution 544 in 2006 (again with Durbin, designating September 20), Senate Resolution 295 in 2007 (Cantwell alone, designating September 19), and Senate Resolution 649 in 2008 (with Senator Gordon Smith of Oregon, designating September 18).",
+          "Each resolution named a single calendar date for that year only. None of the five ever states a recurring rule, an annual formula, or a month. Read together, they show the Senate doing the same specific thing five years in a row rather than setting up a standing designation once and letting it run on its own; each year required a new bill, a new introduction, and a new vote. After 2008, this calendar could not find a sixth."
+        ],
+        "image": {
+          "src": "/images/adhd-awareness-month-timeline.svg",
+          "alt": "Timeline showing five separate Senate resolutions, sponsored by Maria Cantwell, designating a single September date as National Attention Deficit Disorder Awareness Day in 2004, 2005, 2006, 2007, and 2008, followed by no further resolution and today's coalition-run October observance"
+        }
+      },
+      {
+        "heading": "Why the Senate stopped, and what came after",
+        "body": [
+          "This calendar searched Congress's bill database for any later resolution using the same title, and for the shorter \"ADHD Awareness\" phrasing that later replaced \"Attention Deficit Disorder\" in common usage, and found nothing after Senate Resolution 649 in 2008: no sixth Senate resolution, no House companion measure, and no presidential proclamation naming an annual day or the October month at the federal level in any year since. No source consulted for this page states why the annual pattern stopped.",
+          "What took its place was not further legislation but an advocacy coalition. ADDA, CHADD, and the ADHD Coaches Organization, the same groups behind the Senate resolutions, continued the campaign on their own authority, past the single September date Congress had last approved in 2008, into what is now a full month observed every October. The Centers for Disease Control and Prevention hosts its own ADHD Awareness partner toolkit each October, with shareable social media content and links to educational material; that is collaborative, informational support for the coalition's campaign, not an independent federal recognition, and it should not be read as a proclamation or statute, neither of which this calendar could find behind the October observance."
+        ]
+      },
+      {
+        "heading": "A secondary source that's partly right, for the wrong reason",
+        "body": [
+          "One account of this history, published on the blog ImpactADHD.com, describes the origin as declaring \"the 3rd Wednesday of September\" to be National ADHD Awareness Day. Checked against the actual dates the Senate designated, that description is a coincidence, not a rule. September 20, 2006 and September 19, 2007 genuinely were the third Wednesday of their respective months, so for those two years the blog's shorthand happens to land on the right date. But September 7, 2004 was a Tuesday, September 14, 2005 was the second Wednesday of that September, and September 18, 2008 was a Thursday. None of the five resolutions themselves state a weekday-based formula; each designates one specific date, decided fresh by the Senate that year.",
+          "The gap between the primary text and the paraphrase is a useful reminder for a reader trying to plan around any of these observances: a summary that gets two years right out of five can still be describing something that never existed as a rule. What existed was five separate acts of Congress, not one recurring one."
+        ]
+      },
+      {
+        "heading": "Where this sits next to its fall neighbors",
+        "body": [
+          "This calendar has now checked the federal paper trail behind several October and November health observances, and ADHD Awareness Month's pattern is the most unusual of the group so far. [American Diabetes Month](/diabetes-awareness-month/) has an actual presidential proclamation on record, Reagan's Proclamation 4994 in 1982, renewed by name again in 1985. [National Epilepsy Awareness Month](/epilepsy-awareness-month/) has the opposite record: three separate congressional resolutions, in 2002, 2003, and 2011, were introduced and every one of them died in committee without a vote. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) sits between those two: Congress designated it by name for one specific year, 1989, in a joint resolution, and every President since has kept proclaiming the month on independent executive authority.",
+          "ADHD Awareness Month fits none of those three patterns. Unlike Epilepsy Awareness Month, Congress did not fail, it succeeded, five years running, passing a fresh resolution every year from 2004 through 2008 without a single one dying in committee. Unlike Diabetes Month and Domestic Violence Awareness Month, that repeated success was never converted into a standing designation, a proclamation, or a rule that would keep applying without a new bill each year, and after 2008 no new bill came. Five straight years of real, unopposed Senate approval, followed by an abrupt and unexplained stop, with nothing federal since, is a pattern this calendar has not documented on another page yet."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is ADHD Awareness Month in 2026?",
+        "answer": "All of October 2026, running Thursday, October 1 through Saturday, October 31. It is a month-long observance, not a single date, and does not shift for weekends."
+      },
+      {
+        "question": "Did Congress officially designate ADHD Awareness Month?",
+        "answer": "Not the month. The Senate designated a single September date as \"National Attention Deficit Disorder Awareness Day\" five years running, from 2004 (S.Res.370) through 2008 (S.Res.649), each one a fresh, one-year-only designation. No sixth resolution and no proclamation naming October or an annual day has been found since 2008; the current October month is run by an advocacy coalition, not by federal designation."
+      },
+      {
+        "question": "Who started ADHD Awareness Month?",
+        "answer": "The Attention Deficit Disorder Association (ADDA), working with Senator Maria Cantwell, sponsored the first Senate resolution in 2004 and three more through 2008. The ongoing October observance is organized by a coalition of ADDA, CHADD, and the ADHD Coaches Organization, without further federal action behind it since 2008."
+      },
+      {
+        "question": "Is ADHD Awareness Month the same as ADHD Awareness Week?",
+        "answer": "They describe the same underlying coalition campaign at different points in its growth. ADDA's own history page says the observance grew \"from one day each year in 2004 to a full month, the month of October,\" without giving a specific year for that change, and this calendar could not independently verify one, so no exact date for a week-to-month shift is claimed here."
+      },
+      {
+        "question": "How common is ADHD, according to the CDC?",
+        "answer": "The CDC's data page puts current ADHD diagnoses at roughly 7 million US children and adolescents ages 3 to 17, about 11.7 percent, from a national parent survey CDC ran in 2024. An earlier, CDC-cited 2022 survey had found 11.4 percent, about 7.1 million, ever diagnosed, with 10.5 percent, about 6.5 million, carrying a current diagnosis at that time."
+      },
+      {
+        "question": "Did the Senate ever designate ADHD Awareness Day more than once?",
+        "answer": "Yes, five times. Senator Maria Cantwell sponsored a fresh Senate resolution designating a single September date every year from 2004 through 2008: S.Res.370 (2004), S.Res.201 (2005), S.Res.544 (2006), S.Res.295 (2007), and S.Res.649 (2008). Each passed without opposition. No sixth resolution has been found in any year since."
+      }
+    ],
+    "sources": [
+      {
+        "label": "S.Res.370 — 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-108sres370ats/html/BILLS-108sres370ats.htm"
+      },
+      {
+        "label": "S.Res.201 — 109th Congress, designating September 14, 2005 (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-109sres201ats/html/BILLS-109sres201ats.htm"
+      },
+      {
+        "label": "S.Res.544 — 109th Congress, designating September 20, 2006 (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-109sres544ats/html/BILLS-109sres544ats.htm"
+      },
+      {
+        "label": "S.Res.295 — 110th Congress, designating September 19, 2007 (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-110sres295ats/html/BILLS-110sres295ats.htm"
+      },
+      {
+        "label": "S.Res.649 — 110th Congress, designating September 18, 2008, the last resolution of its kind found on record (GovInfo.gov, official bill text)",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-110sres649ats/html/BILLS-110sres649ats.htm"
+      },
+      {
+        "label": "ADDA — Where Did ADHD Awareness Month Get Its Start? (add.org)",
+        "url": "https://add.org/adhd-awareness-history/"
+      },
+      {
+        "label": "Senate Resolution Declares September 7th AD/HD Awareness Day — ADDA press release, source of the David Giwerc quote above (ADD Coach Academy)",
+        "url": "https://addca.com/adhd-coach-training/ADHD-Blog-Details/senate_resolution_declares_september_7th_ad_hd_awareness_day/"
+      },
+      {
+        "label": "Data and Statistics on ADHD (CDC)",
+        "url": "https://www.cdc.gov/adhd/data/index.html"
+      },
+      {
+        "label": "A Brief History of ADHD (& ADHD Awareness Week) — ImpactADHD.com, source of the \"3rd Wednesday\" description discussed above",
+        "url": "https://impactadhd.com/a-brief-history-of-adhd-awareness-week/"
+      }
+    ],
+    "image": "/images/adhd-awareness-month-cantwell.jpg",
+    "imageAlt": "Official 2007 portrait of Senator Maria Cantwell of Washington, who sponsored all five Senate resolutions designating a National Attention Deficit Disorder Awareness Day between 2004 and 2008",
+    "imageCredit": "Office of U.S. Senator Maria Cantwell, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maria_Cantwell,_official_portrait,_110th_Congress.jpg)"
   }
 ];

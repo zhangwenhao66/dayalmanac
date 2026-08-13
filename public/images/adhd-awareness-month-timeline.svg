@@ -1,0 +1,64 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of ADHD Awareness Month, 2004 to today</title>
+  <desc id="desc">2004: Senator Maria Cantwell, joined by Senator Richard Durbin, sponsors Senate Resolution 370, designating September 7, 2004 as National Attention Deficit Disorder Awareness Day, agreed to by unanimous consent. 2005: Cantwell and Durbin do it again for September 14, 2005, S.Res.201. 2006: Cantwell and Durbin again, September 20, 2006, S.Res.544. 2007: Cantwell alone, September 19, 2007, S.Res.295. 2008: Cantwell with Senator Gordon Smith, September 18, 2008, S.Res.649, the fifth and last one found. Today: no sixth resolution and no presidential proclamation naming an annual day or an October month has been found; ADDA, CHADD, and the ADHD Coaches Organization now run ADHD Awareness Month every October as a coalition campaign, without federal designation behind it.</desc>
+  <rect width="1200" height="630" fill="#faf7f0" />
+
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#1f1d1a">Five Septembers, five Senate resolutions, then nothing</text>
+  <text x="600" y="111" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1f1d1a" opacity="0.6">Cantwell sponsored a fresh one-year designation every year from 2004 to 2008 — then it stopped</text>
+
+  <line x1="55" y1="360" x2="1145" y2="360" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 2004 -->
+  <circle cx="115" cy="360" r="8" fill="#2f4858" />
+  <text x="115" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2004</text>
+  <text x="115" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="115" dy="0">S.Res.370</tspan>
+    <tspan x="115" dy="15">Sept 7, Tuesday</tspan>
+    <tspan x="115" dy="15">Cantwell + Durbin</tspan>
+  </text>
+
+  <!-- 2005 -->
+  <circle cx="321" cy="360" r="8" fill="#2f4858" />
+  <text x="321" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2005</text>
+  <text x="321" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="321" dy="0">S.Res.201</tspan>
+    <tspan x="321" dy="15">Sept 14, Wed.</tspan>
+    <tspan x="321" dy="15">Cantwell + Durbin</tspan>
+  </text>
+
+  <!-- 2006 -->
+  <circle cx="527" cy="360" r="8" fill="#2f4858" />
+  <text x="527" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2006</text>
+  <text x="527" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="527" dy="0">S.Res.544</tspan>
+    <tspan x="527" dy="15">Sept 20, Wed.</tspan>
+    <tspan x="527" dy="15">Cantwell + Durbin</tspan>
+  </text>
+
+  <!-- 2007 -->
+  <circle cx="733" cy="360" r="8" fill="#2f4858" />
+  <text x="733" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2007</text>
+  <text x="733" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="733" dy="0">S.Res.295</tspan>
+    <tspan x="733" dy="15">Sept 19, Wed.</tspan>
+    <tspan x="733" dy="15">Cantwell alone</tspan>
+  </text>
+
+  <!-- 2008 -->
+  <circle cx="939" cy="360" r="9" fill="#a8352b" />
+  <text x="939" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">2008</text>
+  <text x="939" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="939" dy="0">S.Res.649</tspan>
+    <tspan x="939" dy="15">Sept 18, last</tspan>
+    <tspan x="939" dy="15">one found</tspan>
+  </text>
+
+  <!-- Today -->
+  <circle cx="1145" cy="360" r="8" fill="#6d4470" />
+  <text x="1120" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">Today</text>
+  <text x="1120" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="1120" dy="0">No 6th</tspan>
+    <tspan x="1120" dy="15">resolution;</tspan>
+    <tspan x="1120" dy="15">coalition runs Oct.</tspan>
+  </text>
+</svg>

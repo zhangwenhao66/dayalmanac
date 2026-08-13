@@ -11,7 +11,7 @@
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
     "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin.",
-    "last_submitted_date": "2026-08-06",
+    "last_submitted_date": "2026-08-13",
     "last_checked_date": "2026-08-12",
     "verified_method": "bwt_url_inspection"
   },

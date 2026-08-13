@@ -136,5 +136,17 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 request"
+  },
+  {
+    "date": "2026-08-13",
+    "action": "submitted",
+    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布National Epilepsy Awareness Month（13:35档）。首次误按标题拼出URL national-epilepsy-awareness-month/（实际slug无national-前缀），URL Inspection的Live Test确认该URL确为404（Not found），REQUEST INDEXING被GSC拒绝（Indexing request rejected），未计入成功提交、且404请求本身大概率不消耗真实索引配额。核对guides.ts确认正确slug为epilepsy-awareness-month后重新检查，'URL is not on Google'，REQUEST INDEXING提交成功，等待约20秒确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/epilepsy-awareness-month/"
+    ],
+    "rejected_wrong_url": [
+      "https://dayalmanac.com/national-epilepsy-awareness-month/ (404, slug错误未消耗有效配额)"
+    ],
+    "quota_used": "1 of shared account-wide daily quota (8th request this run; 1 additional rejected 404 attempt on wrong slug)"
   }
 ]

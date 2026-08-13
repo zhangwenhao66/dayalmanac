@@ -4041,5 +4041,144 @@ export const guides: Guide[] = [
     "image": "/images/talk-like-a-pirate-day.jpg",
     "imageAlt": "Illustrated black flag reconstruction of pirate Bartholomew Roberts's Jolly Roger, showing a pirate figure standing on two skulls",
     "imageCredit": "Illustration by TheLastBrunnenG, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jolly_Roger_flag_of_pirate_Bartholomew_Roberts.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "epilepsy-awareness-month",
+    "category": "Observances",
+    "title": "National Epilepsy Awareness Month: The Resolution That Never Passed",
+    "description": "November is National Epilepsy Awareness Month. Congress tried three times to make it official, in 2002, 2003, and 2011 — none of the resolutions ever passed.",
+    "published": "2026-08-13",
+    "updated": "2026-08-13",
+    "coreSummary": "National Epilepsy Awareness Month runs every November in the United States, an observance the Epilepsy Foundation says it began organizing in 1969. The widely repeated claim that Congress formally recognized the month in 2003 does not hold up against the primary congressional record: a Senate resolution in 2002, a House resolution in 2003, and a second House resolution in 2011 were each introduced and referred to committee, and none of the three ever came to a vote in either chamber.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of November, every year, in the United States — not a single date within the month.",
+      "status": "documented",
+      "source": {
+        "label": "Epilepsy Foundation of Northeastern New York — The History of National Epilepsy Awareness Month (NEAM)",
+        "url": "https://efneny.org/2024/10/25/the-history-of-national-epilepsy-awareness-month-neam/"
+      },
+      "occurrences": [
+        { "date": "2026-11-01", "weekday": "Sunday" },
+        { "date": "2027-11-01", "weekday": "Monday" },
+        { "date": "2028-11-01", "weekday": "Wednesday" },
+        { "date": "2029-11-01", "weekday": "Thursday" },
+        { "date": "2030-11-01", "weekday": "Friday" },
+        { "date": "2031-11-01", "weekday": "Saturday" }
+      ],
+      "caveat": "Do not confuse this month-long US observance with Purple Day, a single day, March 26, founded separately in Canada in 2008 and now marked in more than 100 countries. Purple Day falls inside National Epilepsy Awareness Month only when the two are compared loosely; its own date and origin have nothing to do with November or with any of the congressional resolutions described below. Readers should also treat the commonly repeated claim that \"Congress declared November National Epilepsy Awareness Month in 2003\" with caution: no resolution on the primary congressional record ever passed either chamber. Every November recognition to date has come from the Epilepsy Foundation's own campaign, from individual state governors issuing their own proclamations in some years, or from advocacy groups asking a sitting president for federal recognition that, as of this page's research, had not been issued."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The Epilepsy Foundation, a national nonprofit founded in 1968, says it began organizing a November awareness campaign in 1969; this calendar found that claim repeated by an actual Foundation regional affiliate, the Epilepsy Foundation of Northeastern New York, but could not check it against a dated primary Foundation document, so it is treated as an organizational self-report rather than an independently verifiable fact, the same caveat this calendar applies to the American Diabetes Association's parallel 1975 claim for [American Diabetes Month](/diabetes-awareness-month/).\n\nWhat is independently checkable, in the primary congressional record, is that Congress has tried three separate times to put a federal designation behind that campaign, and none of the three attempts succeeded. On September 5, 2002, Senator Blanche Lincoln of Arkansas, joined by four original co-sponsors, introduced Senate Resolution 322 in the 107th Congress, which would have had the Senate designate November 2002 as \"National Epilepsy Awareness Month\" and asked the President to issue a proclamation. The resolution was referred to the Senate Judiciary Committee and never received a vote; it died there when that Congress ended.\n\nThe House tried next. On May 22, 2003, in the 108th Congress, a resolution \"supporting the goals and ideals of 'National Epilepsy Awareness Month' and urging funding for epilepsy research and service programs\" was introduced as House Concurrent Resolution 194, gathering 86 co-sponsors. It, too, was referred to committee and never came to a floor vote. A third attempt followed eight years later: House Resolution 298, introduced June 3, 2011, in the 112th Congress with 107 co-sponsors, expressed the sense of the House that federal agencies should coordinate existing epilepsy-awareness programs. It also died in committee without a vote.\n\nNo other resolution on the primary congressional record has attempted a fourth try since 2011. No sitting president has issued a proclamation naming November \"National Epilepsy Awareness Month\" at the federal level; the closest federal-adjacent action found in researching this page is the Epilepsy Foundation and allied advocacy groups asking a president to do exactly that, a request that, as of this page's research, had gone unanswered. Some state governors, Michigan's among them, have issued their own state-level proclamations in individual years. The month persists on the calendar the way it started: as the Epilepsy Foundation's own campaign, amplified by hospitals, regional Foundation affiliates, and advocacy groups, not by any standing federal statute.",
+      "source": {
+        "label": "S.Res.322 — 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/322"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Epilepsy Awareness Month is",
+        "body": [
+          "National Epilepsy Awareness Month (NEAM) is a US observance held every November, built around education, screening awareness, seizure first aid training, and reducing the stigma still attached to seizure disorders. The Centers for Disease Control and Prevention's most recent national estimate, from 2015 data, puts active epilepsy at 3.4 million Americans, 3 million adults and 470,000 children; a newer CDC survey covering 2021 to 2023 counted more than 3.1 million adults with active epilepsy on its own. The Epilepsy Foundation, the nonprofit that runs the campaign, cites a broader lifetime figure: roughly 1 in 10 people will have at least one seizure in their life, and about 1 in 26 will develop epilepsy at some point.",
+          "The month carries no legal status. No federal law creates a day off, and government offices, banks, and schools run a normal November schedule around it. What does mark it is color: purple is the designated awareness shade, worn and displayed under the Epilepsy Foundation's own \"Share Your Purple Power\" campaign banner, along with wristbands, ribbon pins, and building light-ups in individual cities during the month."
+        ]
+      },
+      {
+        "heading": "Who started it, and the claim that doesn't hold up",
+        "body": [
+          "The Epilepsy Foundation, itself founded in 1968, says it began organizing a November campaign the following year, 1969. This calendar found that specific claim on a Foundation regional affiliate's own site, the Epilepsy Foundation of Northeastern New York, rather than on a dated document from the national organization, so it is recorded here as an organizational self-report, plausible and consistently repeated, but not independently checkable the way the congressional record below is.",
+          "That same regional-affiliate page, and dozens of other health-media and nonprofit sites, go on to say that \"in 2003, the campaign was officially recognized by Congress.\" Checked against the primary congressional record, that claim does not hold up. No resolution making that designation ever passed either chamber of Congress, in 2003 or in any other year on record. What actually happened in and around that period is a pattern of introduced-but-failed resolutions, detailed below, which is a meaningfully different thing from an \"official\" congressional recognition, and a distinction this calendar has found blurred on sites that otherwise cover epilepsy carefully."
+        ]
+      },
+      {
+        "heading": "Three resolutions, and three times they died in committee",
+        "body": [
+          "The first attempt came from the Senate. On September 5, 2002, Senator Blanche Lincoln of Arkansas introduced Senate Resolution 322 in the 107th Congress, with Senators Susan Collins, Mary Landrieu, Tim Hutchinson, and Peter Fitzgerald as original co-sponsors. The resolution's text, read in full at GovTrack's mirror of the Congress.gov record, would have had the Senate \"designate[] November 2002, as 'National Epilepsy Awareness Month'\" and \"request[] that the President issue a proclamation calling upon the people of the United States to observe the month.\" It was referred to the Senate Committee on the Judiciary the same day it was introduced. It never received a vote and died when the 107th Congress ended in January 2003.",
+          "The second attempt moved to the House the following spring. On May 22, 2003, in the 108th Congress, House Concurrent Resolution 194, \"supporting the goals and ideals of 'National Epilepsy Awareness Month' and urging funding for epilepsy research and service programs,\" was introduced with 86 co-sponsors, a substantial bipartisan list by the standard of most single-issue awareness resolutions. It followed the same path as its Senate predecessor: referred to committee, never brought to a floor vote, dead by the end of that Congress.",
+          "A third try followed eight years later. House Resolution 298, introduced June 3, 2011, in the 112th Congress, gathered 107 co-sponsors and expressed \"the sense of the House of Representatives that there is need for specified agencies to coordinate and capitalize on existing programs for epilepsy awareness.\" Its fate matched the first two: committee referral, no vote, no passage. Three separate Congresses, three resolutions, three failures to reach a floor vote in either chamber, a pattern this calendar did not find repeated at quite this scale on any other US health observance it has checked so far."
+        ],
+        "image": {
+          "src": "/images/epilepsy-awareness-month-timeline.svg",
+          "alt": "Timeline from 1969 to today showing the Epilepsy Foundation's unverified 1969 claim, three failed congressional resolutions in 2002, 2003, and 2011, the 2008 founding of the separate Purple Day observance, and the absence of any federal statute or proclamation to date"
+        }
+      },
+      {
+        "heading": "Not the same as Purple Day",
+        "body": [
+          "A separate, better-documented observance shares the same purple color and the same general cause but not the same date or the same origin. Purple Day falls on a single day, March 26, and traces to one named person with a specific, well-corroborated founding story: Cassidy Megan, a nine-year-old in Nova Scotia living with epilepsy herself, who held the first Purple Day event on March 26, 2008. \"In Grade 3, I didn't want people to feel alone and afraid like I did,\" Megan told CBC News in 2016. \"I wanted them to know there were other people out there and what to do if they see someone having a seizure.\" Purple Day launched internationally the following year, 2009, backed by the Anita Kaufmann Foundation and the Epilepsy Association of the Maritimes, and by 2016 was marked in more than 100 countries.",
+          "The contrast is worth naming directly: Purple Day has a documented founder, a specific first event date, and a traceable international expansion, none of which this calendar could establish for National Epilepsy Awareness Month's broader November campaign. The two observances are frequently run together in the same promotional material, since both use purple and both concern epilepsy, but a reader planning around either one should treat them as genuinely separate: one day in March with a clear founding story, one month in November with an organizational claim this calendar could not independently verify and a congressional history of three resolutions that never passed."
+        ]
+      },
+      {
+        "heading": "Where the record stands, next to its November neighbors",
+        "body": [
+          "This calendar has now covered several November observances with different, checkable relationships to federal law, and Epilepsy Awareness Month's is the weakest of the group. [American Diabetes Month](/diabetes-awareness-month/) has an actual proclamation on record, Reagan's Proclamation 4994 in 1982 under Senate Joint Resolution 257, renewed by name again in 1985, before Congress moved to non-binding resolutions after that. [No-Shave November](/no-shave-november/) sits at the other extreme: a private family's fundraising campaign that has never had any federal recognition attempted at all, successful or not. Epilepsy Awareness Month falls between those two but closer to No-Shave November's end: unlike Diabetes Month, it has no proclamation and no passed resolution on record at any point; unlike No-Shave November, three separate Congresses did attempt one, in 2002, 2003, and 2011, and all three tries died in committee. A resolution introduced and left to die is not the same as no resolution ever being introduced, but neither one adds up to the \"Congress declared it in 2003\" language that keeps circulating."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Epilepsy Awareness Month in 2026?",
+        "answer": "All of November 2026, running Sunday, November 1 through Monday, November 30. It is a month-long observance, not a single date, and does not shift for weekends."
+      },
+      {
+        "question": "Did Congress officially declare November National Epilepsy Awareness Month in 2003?",
+        "answer": "No, despite how often that claim is repeated, including by Epilepsy Foundation regional affiliates. A House resolution supporting the month's goals was introduced in 2003 (H.Con.Res.194, 108th Congress) but was referred to committee and never received a vote. No resolution about National Epilepsy Awareness Month has ever passed either chamber of Congress."
+      },
+      {
+        "question": "Who founded National Epilepsy Awareness Month?",
+        "answer": "The Epilepsy Foundation says it began organizing a November campaign in 1969, a claim this calendar found on a Foundation regional affiliate's site but could not check against a dated national-organization document. Three later attempts to formalize the month through Congress, in 2002, 2003, and 2011, were all introduced and all died in committee without a vote."
+      },
+      {
+        "question": "Is National Epilepsy Awareness Month the same as Purple Day?",
+        "answer": "No. Purple Day is a single day, March 26, founded in 2008 by Cassidy Megan, a nine-year-old in Nova Scotia, with a documented founding story and a traceable 2009 international launch. National Epilepsy Awareness Month is the broader, month-long US campaign covering all of November, with a less independently verifiable founding claim and no successful congressional designation."
+      },
+      {
+        "question": "Why is purple the color for epilepsy awareness?",
+        "answer": "Purple is used by both November's National Epilepsy Awareness Month, under the Epilepsy Foundation's \"Share Your Purple Power\" campaign, and by the separate March 26 Purple Day. Purple Day's founder, Cassidy Megan, has said the color reflects lavender's long association with epilepsy awareness and the many different shades that, to her, mirror the many different types of seizures."
+      },
+      {
+        "question": "Has a US president ever issued a federal proclamation for National Epilepsy Awareness Month?",
+        "answer": "Not as of this page's research. Advocacy groups, including the Epilepsy Foundation, have asked presidents to issue one; some individual state governors have issued their own state-level proclamations in specific years, but no standing federal proclamation or statute names November for epilepsy the way one does for, for example, American Diabetes Month."
+      }
+    ],
+    "sources": [
+      {
+        "label": "S.Res.322 — 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/322"
+      },
+      {
+        "label": "H.Con.Res.194 — 108th Congress, supporting the goals and ideals of \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "url": "https://www.congress.gov/bill/108th-congress/house-concurrent-resolution/194"
+      },
+      {
+        "label": "H.Res.298 — 112th Congress, on coordinating existing epilepsy-awareness programs (Congress.gov)",
+        "url": "https://www.congress.gov/bill/112th-congress/house-resolution/298"
+      },
+      {
+        "label": "Epilepsy Foundation of Northeastern New York — The History of National Epilepsy Awareness Month (NEAM), source of the \"recognized by Congress\" claim identified above",
+        "url": "https://efneny.org/2024/10/25/the-history-of-national-epilepsy-awareness-month-neam/"
+      },
+      {
+        "label": "Epilepsy Foundation — National Epilepsy Awareness Month (NEAM)",
+        "url": "https://www.epilepsy.com/volunteer/spreading-awareness/national-epilepsy-awareness-month"
+      },
+      {
+        "label": "National and State Estimates of the Numbers of Adults and Children with Active Epilepsy — United States, 2015 (CDC, MMWR)",
+        "url": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a1.htm"
+      },
+      {
+        "label": "Purple Day, epilepsy awareness day, turned 8 on March 26 (CBC News, 2016, source of the Cassidy Megan quote above)",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/purple-day-2016-cassidy-megan-epilepsy-1.3508615"
+      },
+      {
+        "label": "Purple Day (Epilepsy Foundation)",
+        "url": "https://www.epilepsy.com/volunteer/spreading-awareness/purple-day"
+      }
+    ],
+    "image": "/images/epilepsy-awareness-month-capitol.jpg",
+    "imageAlt": "The United States Capitol building, where three separate resolutions to designate National Epilepsy Awareness Month were introduced in 2002, 2003, and 2011 and died in committee without a vote",
+    "imageCredit": "U.S. House of Representatives, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023_United_States_Capitol_118th_Congress,_sunrise.jpg)"
   }
 ];

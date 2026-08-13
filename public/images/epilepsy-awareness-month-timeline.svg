@@ -1,0 +1,72 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of National Epilepsy Awareness Month, 1969 to today</title>
+  <desc id="desc">1969: the Epilepsy Foundation says it began marking November, a claim not checked against a current primary Foundation document. 2002: Senator Blanche Lincoln introduces Senate Resolution 322, designating November 2002 as National Epilepsy Awareness Month; it is referred to the Judiciary Committee and never receives a vote. 2003: House Concurrent Resolution 194, with 86 co-sponsors, is introduced in the House; it also dies in committee without a vote. 2008: Cassidy Megan, a nine-year-old in Nova Scotia, founds Purple Day, a separate single-day observance on March 26. 2011: House Resolution 298, with 107 co-sponsors, is introduced; it too dies without a vote. Today: no federal statute or presidential proclamation has ever formally designated the month; only the Foundation's own campaign and, in some years, individual state governors keep it on the calendar.</desc>
+  <rect width="1200" height="630" fill="#faf7f0" />
+
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#1f1d1a">National Epilepsy Awareness Month, from claim to committee</text>
+  <text x="600" y="111" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1f1d1a" opacity="0.6">Three resolutions were introduced in Congress; none of them ever passed</text>
+
+  <line x1="55" y1="360" x2="1145" y2="360" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1969 -->
+  <circle cx="115" cy="360" r="8" fill="#8a8471" />
+  <text x="115" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1969</text>
+  <text x="115" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="115" dy="0">Foundation says</tspan>
+    <tspan x="115" dy="16">it began marking</tspan>
+    <tspan x="115" dy="16">November</tspan>
+  </text>
+
+  <!-- 2002 -->
+  <circle cx="330" cy="360" r="8" fill="#a8352b" />
+  <text x="330" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2002</text>
+  <text x="330" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="330" dy="0">S.Res.322 dies</tspan>
+    <tspan x="330" dy="16">in Judiciary</tspan>
+    <tspan x="330" dy="16">Committee</tspan>
+  </text>
+
+  <!-- 2003 -->
+  <circle cx="545" cy="360" r="8" fill="#a8352b" />
+  <text x="545" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2003</text>
+  <text x="545" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="545" dy="0">H.Con.Res.194,</tspan>
+    <tspan x="545" dy="16">86 co-sponsors,</tspan>
+    <tspan x="545" dy="16">no vote either</tspan>
+  </text>
+
+  <!-- 2008 -->
+  <circle cx="760" cy="360" r="9" fill="#6d4470" />
+  <text x="760" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">2008</text>
+  <text x="760" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="760" dy="0">Cassidy Megan, 9,</tspan>
+    <tspan x="760" dy="16">founds Purple Day —</tspan>
+    <tspan x="760" dy="16">a separate single day</tspan>
+  </text>
+
+  <!-- 2011 -->
+  <circle cx="975" cy="360" r="8" fill="#a8352b" />
+  <text x="975" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2011</text>
+  <text x="975" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="975" dy="0">H.Res.298,</tspan>
+    <tspan x="975" dy="16">107 co-sponsors,</tspan>
+    <tspan x="975" dy="16">dies again</tspan>
+  </text>
+
+  <!-- Today -->
+  <circle cx="1145" cy="360" r="8" fill="#2f4858" />
+  <text x="1120" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">Today</text>
+  <text x="1120" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="1120" dy="0">No federal</tspan>
+    <tspan x="1120" dy="15">statute or</tspan>
+    <tspan x="1120" dy="15">proclamation</tspan>
+  </text>
+
+  <!-- Legend -->
+  <g font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.7">
+    <circle cx="220" cy="470" r="6" fill="#8a8471" /><text x="234" y="474">Unverified organizational claim</text>
+    <circle cx="220" cy="496" r="6" fill="#a8352b" /><text x="234" y="500">Congressional resolution, introduced then died without a vote</text>
+    <circle cx="700" cy="470" r="6" fill="#6d4470" /><text x="714" y="474">Separate, documented single-day observance (Purple Day)</text>
+    <circle cx="700" cy="496" r="6" fill="#2f4858" /><text x="714" y="500">No binding federal action to date</text>
+  </g>
+</svg>

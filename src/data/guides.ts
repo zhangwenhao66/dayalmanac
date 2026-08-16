@@ -1069,12 +1069,30 @@ export const guides: Guide[] = [
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
       },
       "occurrences": [
-        { "date": "2026-10-16", "weekday": "Friday" },
-        { "date": "2027-10-16", "weekday": "Saturday" },
-        { "date": "2028-10-16", "weekday": "Monday" },
-        { "date": "2029-10-16", "weekday": "Tuesday" },
-        { "date": "2030-10-16", "weekday": "Wednesday" },
-        { "date": "2031-10-16", "weekday": "Thursday" }
+        {
+          "date": "2026-10-16",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2027-10-16",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2028-10-16",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2029-10-16",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2030-10-16",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2031-10-16",
+          "weekday": "Thursday"
+        }
       ],
       "caveat": "Hallmark's corporate site, Wikipedia's infobox, and the calendar site Digital Hygge all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day: Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski's 1958 Chamber of Commerce registration nor Governor Kerner's 1962 proclamation is available online to confirm a weekend-shift clause was part of the original rule, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
     },
@@ -1198,12 +1216,30 @@ export const guides: Guide[] = [
         "url": "https://nationaldaycalendar.com/celebrations/national-cat-day-october-29"
       },
       "occurrences": [
-        { "date": "2026-10-29", "weekday": "Thursday" },
-        { "date": "2027-10-29", "weekday": "Friday" },
-        { "date": "2028-10-29", "weekday": "Sunday" },
-        { "date": "2029-10-29", "weekday": "Monday" },
-        { "date": "2030-10-29", "weekday": "Tuesday" },
-        { "date": "2031-10-29", "weekday": "Wednesday" }
+        {
+          "date": "2026-10-29",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-10-29",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-29",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-10-29",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-29",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-29",
+          "weekday": "Wednesday"
+        }
       ],
       "caveat": "October 29 is the date for National Cat Day specifically, a US observance. It is not the only cat-themed observance on the calendar and gets confused with at least three others that use different dates and have different founders: International Cat Day (August 8, founded 2002 by the International Fund for Animal Welfare), Black Cat Appreciation Day (August 17, founded 2011 by Wayne H. Morris in the US), and National Black Cat Day (October 27, founded 2011 by the UK charity Cats Protection). Social posts and calendar aggregators routinely apply the wrong date or the wrong founding story to whichever one they happen to be writing about."
     },
@@ -1336,12 +1372,30 @@ export const guides: Guide[] = [
         "url": "https://www.nationaldogday.com/about1"
       },
       "occurrences": [
-        { "date": "2026-08-26", "weekday": "Wednesday" },
-        { "date": "2027-08-26", "weekday": "Thursday" },
-        { "date": "2028-08-26", "weekday": "Saturday" },
-        { "date": "2029-08-26", "weekday": "Sunday" },
-        { "date": "2030-08-26", "weekday": "Monday" },
-        { "date": "2031-08-26", "weekday": "Tuesday" }
+        {
+          "date": "2026-08-26",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2027-08-26",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2028-08-26",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2029-08-26",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-08-26",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-08-26",
+          "weekday": "Tuesday"
+        }
       ],
       "caveat": "Every source found agrees on August 26, including the founder's own site, a 2013 New York State Senate resolution, and every third-party calendar page checked. The one outlier is Wikipedia's own International Dog Day article, which lists August 26 in its infobox but states in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog\" — an internal contradiction inside a single article, not evidence that August 14 is used anywhere else. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year rather than staying fixed."
     },
@@ -2242,12 +2296,30 @@ export const guides: Guide[] = [
         "url": "https://www.getsmartaboutdrugs.gov/rrw"
       },
       "occurrences": [
-        { "date": "2026-10-23", "weekday": "Friday" },
-        { "date": "2027-10-23", "weekday": "Saturday" },
-        { "date": "2028-10-23", "weekday": "Monday" },
-        { "date": "2029-10-23", "weekday": "Tuesday" },
-        { "date": "2030-10-23", "weekday": "Wednesday" },
-        { "date": "2031-10-23", "weekday": "Thursday" }
+        {
+          "date": "2026-10-23",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2027-10-23",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2028-10-23",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2029-10-23",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2030-10-23",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2031-10-23",
+          "weekday": "Thursday"
+        }
       ],
       "caveat": "DEA's own history page calls Red Ribbon Week \"an 8-day celebration,\" even though the October 23–31 range it cites in the same paragraph spans nine calendar days inclusive, a minor inconsistency in the agency's own material that is flagged here rather than silently corrected. Some secondary sources describe the observance loosely as \"the last week of October,\" which is imprecise: the dates are fixed to October 23 and October 31 specifically, so the span can start and end on any day of the week depending on the year, not on a floating weekly boundary."
     },
@@ -2376,12 +2448,30 @@ export const guides: Guide[] = [
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
       },
       "occurrences": [
-        { "date": "2026-10-01", "weekday": "Thursday" },
-        { "date": "2027-10-01", "weekday": "Friday" },
-        { "date": "2028-10-01", "weekday": "Sunday" },
-        { "date": "2029-10-01", "weekday": "Monday" },
-        { "date": "2030-10-01", "weekday": "Tuesday" },
-        { "date": "2031-10-01", "weekday": "Wednesday" }
+        {
+          "date": "2026-10-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-10-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-10-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-01",
+          "weekday": "Wednesday"
+        }
       ],
       "caveat": "There is no competing date range to sort out here: every source, federal and advocacy alike, agrees the entire month of October is Domestic Violence Awareness Month, so the table above lists October 1 as each year's start with the understanding that the observance runs through October 31 in every case. What has actually changed over the decades is the mechanism behind it, not the dates. Congress passed a fresh joint resolution requesting a proclamation for specific years in at least 1989 and 1991; by the 2020s, Presidents were proclaiming the month on their own executive authority with no new joint resolution attached, and the title and format of the annual White House statement have varied by administration, from \"Proclamation\" under Bush and Biden to a \"Presidential Message\" in 2025."
     },
@@ -2681,12 +2771,30 @@ export const guides: Guide[] = [
         "url": "https://www.law.cornell.edu/uscode/text/36/126"
       },
       "occurrences": [
-        { "date": "2026-09-15", "weekday": "Tuesday" },
-        { "date": "2027-09-15", "weekday": "Wednesday" },
-        { "date": "2028-09-15", "weekday": "Friday" },
-        { "date": "2029-09-15", "weekday": "Saturday" },
-        { "date": "2030-09-15", "weekday": "Sunday" },
-        { "date": "2031-09-15", "weekday": "Monday" }
+        {
+          "date": "2026-09-15",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-09-15",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-15",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-09-15",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-15",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-15",
+          "weekday": "Monday"
+        }
       ],
       "caveat": "There's no dispute about the boundaries themselves: federal law, advocacy groups, and calendar sites all agree the observance runs from September 15 through October 15, and the table above lists September 15 as each year's start with the range understood to extend through October 15. What genuinely varies between sources is which year gets credited as the first Hispanic Heritage Month. Congress signed the law expanding the week-long observance to a full month on August 17, 1988, in time for that year's September window, but President Reagan's own proclamation that September, dated September 13, 1988, still designated only \"the week beginning September 11, 1988\" and cited solely the original 1968 statute. The first proclamation to actually invoke a full month came from President George H.W. Bush the following year, on September 14, 1989. Sources that list 1988 as the founding year are describing when the law passed; 1989 is when a President first proclaimed the month the law created."
     },
@@ -2829,12 +2937,30 @@ export const guides: Guide[] = [
         "url": "https://no-shave.org/"
       },
       "occurrences": [
-        { "date": "2026-11-01", "weekday": "Sunday" },
-        { "date": "2027-11-01", "weekday": "Monday" },
-        { "date": "2028-11-01", "weekday": "Wednesday" },
-        { "date": "2029-11-01", "weekday": "Thursday" },
-        { "date": "2030-11-01", "weekday": "Friday" },
-        { "date": "2031-11-01", "weekday": "Saturday" }
+        {
+          "date": "2026-11-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-11-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-11-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-11-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-11-01",
+          "weekday": "Saturday"
+        }
       ],
       "caveat": "There is no rival date range to sort out: every source, from the organizing nonprofit to news coverage to competing calendar sites, agrees the full month of November is No-Shave November. What is missing, compared to most other observances on this calendar, is any government body behind that date. Louisiana's legislature is the only one found to have recognized the campaign by name, and even that was for a single year: House Concurrent Resolution No. 20 of the 2014 Regular Session urged the state to recognize \"November 2014\" as No-Shave November, not a standing annual designation. No President has ever proclaimed it, and Congress has not designated it nationally in any year. The month itself is not in question; the legal authority behind it simply does not exist."
     },
@@ -2968,12 +3094,30 @@ export const guides: Guide[] = [
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6202-national-breast-cancer-awareness-month-1990"
       },
       "occurrences": [
-        { "date": "2026-10-01", "weekday": "Thursday" },
-        { "date": "2027-10-01", "weekday": "Friday" },
-        { "date": "2028-10-01", "weekday": "Sunday" },
-        { "date": "2029-10-01", "weekday": "Monday" },
-        { "date": "2030-10-01", "weekday": "Tuesday" },
-        { "date": "2031-10-01", "weekday": "Wednesday" }
+        {
+          "date": "2026-10-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-10-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-10-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-01",
+          "weekday": "Wednesday"
+        }
       ],
       "caveat": "There is no rival date range to sort out: every source, corporate, federal, and advocacy alike, agrees the entire month of October is Breast Cancer Awareness Month, so the table above lists October 1 as each year's start with the understanding that the observance runs through October 31 in every case. What is genuinely unsettled is the founding year and the legal footing behind it. The American Cancer Society's own 2025 fortieth-anniversary materials date the founding to 1985; a peer-reviewed 2003 study in the Quarterly Journal of Speech instead states \"since 1984, October has been recognized\" as the observance, citing the founding organization's own website. Neither the 1985 nor the 1984 account is a Congressional or Presidential source, since the observance began purely as a corporate and nonprofit initiative five years before any government body acted on it. Once Congress did act, it designated specific years by name rather than passing one standing law: Senate Joint Resolution 301 for October 1990, Public Law 102-120 for October 1991, House Joint Resolution 11 for October 1993, and Public Law 103-367 for October 1994. No such year-specific designation has been found on the record since 1994; President Clinton's own October 1996 proclamation opens \"each year we set aside the month of October\" without citing any accompanying resolution, and every proclamation since has read the same way."
     },
@@ -3109,168 +3253,168 @@ export const guides: Guide[] = [
     "imageAlt": "The White House illuminated pink at night in honor of National Breast Cancer Awareness Month, October 2017",
     "imageCredit": "Official White House Photo by D. Myles Cullen, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_House_illuminated_pink_in_2017.jpg)"
   },
-{
-  "slug": "diabetes-awareness-month",
-  "category": "Observances",
-  "title": "American Diabetes Month: A Week in 1981, a Month in 1982",
-  "description": "American Diabetes Month covers all of November. The ADA traces it to 1975, but Reagan's first proclamation, in 1981, set aside only a single week.",
-  "published": "2026-08-10",
-  "updated": "2026-08-10",
-  "coreSummary": "American Diabetes Month runs the entire month of November in the United States, traced informally by the American Diabetes Association to a 1975 declaration this calendar could not verify in the ADA's own current materials. The first confirmed federal action, a Reagan proclamation, set aside only a single week in October 1981; the first proclamation actually naming a full “National Diabetes Month” came a year later, for November 1982, a distinction that at least two current health-media sites get wrong.",
-  "dateRule": {
-    "kind": "fixed",
-    "text": "All of November, every year, in the United States, not a single date or a floating week within the month.",
-    "status": "documented",
-    "source": {
-      "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
-      "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
+  {
+    "slug": "diabetes-awareness-month",
+    "category": "Observances",
+    "title": "American Diabetes Month: A Week in 1981, a Month in 1982",
+    "description": "American Diabetes Month covers all of November. The ADA traces it to 1975, but Reagan's first proclamation, in 1981, set aside only a single week.",
+    "published": "2026-08-10",
+    "updated": "2026-08-10",
+    "coreSummary": "American Diabetes Month runs the entire month of November in the United States, traced informally by the American Diabetes Association to a 1975 declaration this calendar could not verify in the ADA's own current materials. The first confirmed federal action, a Reagan proclamation, set aside only a single week in October 1981; the first proclamation actually naming a full “National Diabetes Month” came a year later, for November 1982, a distinction that at least two current health-media sites get wrong.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of November, every year, in the United States, not a single date or a floating week within the month.",
+      "status": "documented",
+      "source": {
+        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
+        "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-11-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-11-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-11-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-11-01",
+          "weekday": "Saturday"
+        }
+      ],
+      "caveat": "Three names circulate for the same November observance: American Diabetes Month, the American Diabetes Association's own branding for its campaigns since 1997 according to secondary sources this calendar could not verify against an ADA primary document; National Diabetes Month, the name every White House proclamation or message has used from 1982 through 2025; and Diabetes Awareness Month, a generic label used by hospitals, pharmacy chains, and calendar aggregators that does not trace to either the ADA or the federal government specifically. All three point at the same 30 days. Separately, Diabetes Self-Management currently states that Reagan proclaimed “November 1981” a National Diabetes Month, and Dictionary.com states, without naming Reagan or anyone else, that November was “officially declared” National Diabetes Month in 1981; neither claim matches the primary proclamation record. Reagan's actual 1981 proclamation, issued September 28 that year, designated only National Diabetes Week, October 4 through 10, a single week in a different month. The first proclamation to name a full “National Diabetes Month” is dated November 2, 1982, for that same November, issued under Senate Joint Resolution 257. Readers should also not confuse this US, month-long observance with World Diabetes Day, a single day, November 14, created separately by international health bodies and now an official United Nations day."
     },
-    "occurrences": [
+    "founding": {
+      "status": "documented",
+      "text": "The American Diabetes Association (ADA) says, and multiple secondary sources repeat, that it first declared a “National Diabetes Awareness Month” in November 1975. This calendar could not locate that claim on any current ADA page or in an ADA-published primary document; it appears only in secondary aggregator articles (Diabetes Self-Management, Dictionary.com) that do not cite a specific ADA proclamation, press release, or archival source. The claim may be accurate to the ADA's own internal history, but it is not independently checkable the way the federal record below is.\n\nThe first confirmed federal action came six years later, and it was smaller than a month. On September 28, 1981, President Ronald Reagan issued Proclamation 4861, National Diabetes Week, setting aside October 4 through 10, 1981, a single week, not a month and not in November. The first proclamation to name a full month came a year after that: on November 2, 1982, Reagan issued Proclamation 4994, National Diabetes Month, 1982, “in accordance with Senate Joint Resolution 257,” proclaiming “the month of November, 1982, as National Diabetes Month” (quoted directly from the proclamation's own text, read in full at the Reagan Presidential Library). Despite that clear primary-source distinction, Diabetes Self-Management currently describes Reagan as having proclaimed “November 1981” a National Diabetes Month, and Dictionary.com states, without naming Reagan or any other authority, that November was “officially declared” the month in 1981; the 1981 proclamation on record was for a week in October, and the first Month proclamation was for 1982, not 1981.\n\nCongress did not stop at 1982. Senate Joint Resolution 145, in the 99th Congress, designated November 1985 as National Diabetes Month by name, one of at least several single-year joint resolutions Congress passed through the 1980s, each requiring the President's signature to take effect. That pattern eventually gave way to something looser: by the 117th Congress (2021 to 2022), the vehicle was Senate Resolution 479, a Senate-only resolution “supporting the goals and ideals of American Diabetes Month” that carries a companion House Resolution 810 but neither requires the President's signature nor creates a binding designation the way the 1982 and 1985 joint resolutions did. No joint resolution has ever made November a standing, permanent observance in US law; each year's federal recognition, from 1982 to the present, rests on that year's own proclamation or message.\n\nThe White House has issued something for National Diabetes Month every November since 1982, through Presidents of both parties, though the format is not fixed. Proclamations under Reagan, both Bushes, Obama, and Biden (most recently Proclamation 10849, National Diabetes Month, 2024) used the full “Proclamation” format. In November 2025, the Trump White House instead issued a “Presidential Message on National Diabetes Month,” a shorter document that does not require the procedural steps a formal Proclamation does. The underlying November date has not moved regardless of which format a given administration reaches for.",
+      "source": {
+        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
+        "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
+      }
+    },
+    "sections": [
       {
-        "date": "2026-11-01",
-        "weekday": "Sunday"
+        "heading": "What American Diabetes Month is",
+        "body": [
+          "American Diabetes Month is a US observance held every November, encouraging screening, education about prediabetes and Type 2 risk factors, and support for people living with diabetes. The Centers for Disease Control and Prevention's most recent National Diabetes Statistics Report puts the number at 40.1 million Americans with diagnosed or undiagnosed diabetes, about 12 percent of the population, plus more than 115 million adults with prediabetes. It carries no legal status: no federal law creates a day off, and government offices, banks, and schools run a normal November schedule around it.",
+          "The observance spreads mainly through the American Diabetes Association's own campaigns, hospital and pharmacy-chain messaging, and an annual White House statement that has appeared every November since 1982. It is not a single-day event with one clear ceremony; the whole 30 days serve as a loosely organized push for screening and awareness rather than a specific action tied to a date."
+        ]
       },
       {
-        "date": "2027-11-01",
-        "weekday": "Monday"
+        "heading": "Who started it, and the year most sites get wrong",
+        "body": [
+          "The American Diabetes Association says it first declared a “National Diabetes Awareness Month” in November 1975. This calendar looked for that claim on the ADA's own site and could not find a current page repeating it with a citation; it exists only in secondary round-up articles that do not name a specific ADA document. The claim is plausible and widely repeated, but it is not independently checkable the way everything that follows is.",
+          "The federal record is clearer, and it does not start where several current articles say it does. On September 28, 1981, President Reagan issued Proclamation 4861, National Diabetes Week, covering October 4 through 10 of that year, a single week, in October, not November. The first proclamation to actually name a full month came thirteen months later: Proclamation 4994, issued November 2, 1982, under Senate Joint Resolution 257, proclaiming “the month of November, 1982, as National Diabetes Month,” in the document's own words.",
+          "Diabetes Self-Management currently states that Reagan proclaimed “November 1981” a National Diabetes Month. Dictionary.com makes a related but not identical error: without naming Reagan or anyone else, it states that November was “officially declared” the month in 1981. Checked against the primary proclamation text, both dates are wrong: the 1981 document on record set aside a week in October, not a month in November; the month-long November designation is a 1982 document, backed by a different congressional resolution. The error is small on the calendar, a year and a scope, but it is exactly the kind of detail that is easy to check and, in practice, rarely is, a pattern this calendar has also documented for [National Hispanic Heritage Month](/national-hispanic-heritage-month/), where a similar signed-versus-proclaimed year gets conflated."
+        ]
       },
       {
-        "date": "2028-11-01",
-        "weekday": "Wednesday"
+        "heading": "Three names for one month",
+        "body": [
+          "“American Diabetes Month,” “National Diabetes Month,” and “Diabetes Awareness Month” all refer to the same 30 days. The ADA began branding its own campaigns “American Diabetes Month” in 1997, according to secondary sources this calendar could not verify against an ADA primary document. Every White House proclamation or message checked, from Reagan's in 1982 through Trump's in 2025, has instead used “National Diabetes Month.” “Diabetes Awareness Month” is a looser, generic label used by hospitals, pharmacy chains, and calendar aggregators that does not trace specifically to either the ADA or the federal government.",
+          "The three names create real confusion for search and citation purposes, but not for planning: whichever name a source uses, it describes the same full month of November, not a different date range, unlike [No-Shave November](/no-shave-november/), which shares the month but is a wholly separate, privately run campaign with no federal recognition at all."
+        ]
       },
       {
-        "date": "2029-11-01",
-        "weekday": "Thursday"
+        "heading": "From a week, to a month, to a message",
+        "body": [
+          "Congress renewed the designation by name at least once more after 1982: Senate Joint Resolution 145, in the 99th Congress, designated November 1985 as National Diabetes Month, following the same pattern as 1982, a single-year resolution requiring the President's signature. That pattern of Congress passing a fresh joint resolution eventually stopped; by the 117th Congress (2021 to 2022), the vehicle was Senate Resolution 479, a Senate-only resolution “supporting the goals and ideals of American Diabetes Month,” paired with a similar House Resolution 810. Neither requires the President's signature, and neither creates a binding designation the way the 1982 and 1985 joint resolutions did. No joint resolution has ever made November a permanent, standing observance in US law, a pattern this calendar has also found for [Domestic Violence Awareness Month](/domestic-violence-awareness-month/); each year's recognition rests on that year's own White House document, not a standing statute.",
+          "The White House has issued something every November since 1982, but the format is not fixed. Reagan, both Bushes, Obama, and Biden (most recently in a 2024 proclamation) all used the full “Proclamation” format, with the President's formal seal-bearing language. In November 2025, the Trump White House instead issued a shorter “Presidential Message,” a format that does not require the procedural steps a formal Proclamation does. The date itself has not moved regardless of which format a given administration reaches for."
+        ]
       },
       {
-        "date": "2030-11-01",
-        "weekday": "Friday"
-      },
-      {
-        "date": "2031-11-01",
-        "weekday": "Saturday"
+        "heading": "Not the same as World Diabetes Day",
+        "body": [
+          "A single day, November 14, is a separate, distinct observance: World Diabetes Day, created by the International Diabetes Federation and the World Health Organization in 1991 and made an official United Nations International Day in 2006. It falls inside American Diabetes Month every year but is not the same thing; it is international rather than US-specific, and it marks one day rather than thirty.",
+          "November 14 is the birthday of Sir Frederick Banting, who co-discovered insulin with Charles Best in Toronto in 1921. Banting's 1923 Nobel Prize in Physiology or Medicine was officially shared with John Macleod, the University of Toronto physiologist who directed the research; Best was not an official co-recipient, though Banting split his own share of the prize money with him afterward. Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's specific date. No source found in researching this page ties that same reasoning to why the ADA picked November for its 1975 claim, or why Reagan's 1981 and 1982 proclamations landed in that month; those choices predate World Diabetes Day by a decade, and nothing in the proclamation text or in ADA materials checked mentions Banting. The Banting explanation appears to belong specifically to the newer, UN-recognized single day, not the older, US-only month, even though search results and calendar sites frequently apply it to both without distinction."
+        ],
+        "image": {
+          "src": "/images/diabetes-awareness-month-timeline.svg",
+          "alt": "Timeline from 1975 to 2025 showing the American Diabetes Association's unverified 1975 claim, Reagan's 1981 week and 1982 month proclamations, the 1985 congressional renewal, the 1991/2006 creation of World Diabetes Day, and the 2021-2025 shift to non-binding resolutions and a varying White House format"
+        }
       }
     ],
-    "caveat": "Three names circulate for the same November observance: American Diabetes Month, the American Diabetes Association's own branding for its campaigns since 1997 according to secondary sources this calendar could not verify against an ADA primary document; National Diabetes Month, the name every White House proclamation or message has used from 1982 through 2025; and Diabetes Awareness Month, a generic label used by hospitals, pharmacy chains, and calendar aggregators that does not trace to either the ADA or the federal government specifically. All three point at the same 30 days. Separately, Diabetes Self-Management currently states that Reagan proclaimed “November 1981” a National Diabetes Month, and Dictionary.com states, without naming Reagan or anyone else, that November was “officially declared” National Diabetes Month in 1981; neither claim matches the primary proclamation record. Reagan's actual 1981 proclamation, issued September 28 that year, designated only National Diabetes Week, October 4 through 10, a single week in a different month. The first proclamation to name a full “National Diabetes Month” is dated November 2, 1982, for that same November, issued under Senate Joint Resolution 257. Readers should also not confuse this US, month-long observance with World Diabetes Day, a single day, November 14, created separately by international health bodies and now an official United Nations day."
-  },
-  "founding": {
-    "status": "documented",
-    "text": "The American Diabetes Association (ADA) says, and multiple secondary sources repeat, that it first declared a “National Diabetes Awareness Month” in November 1975. This calendar could not locate that claim on any current ADA page or in an ADA-published primary document; it appears only in secondary aggregator articles (Diabetes Self-Management, Dictionary.com) that do not cite a specific ADA proclamation, press release, or archival source. The claim may be accurate to the ADA's own internal history, but it is not independently checkable the way the federal record below is.\n\nThe first confirmed federal action came six years later, and it was smaller than a month. On September 28, 1981, President Ronald Reagan issued Proclamation 4861, National Diabetes Week, setting aside October 4 through 10, 1981, a single week, not a month and not in November. The first proclamation to name a full month came a year after that: on November 2, 1982, Reagan issued Proclamation 4994, National Diabetes Month, 1982, “in accordance with Senate Joint Resolution 257,” proclaiming “the month of November, 1982, as National Diabetes Month” (quoted directly from the proclamation's own text, read in full at the Reagan Presidential Library). Despite that clear primary-source distinction, Diabetes Self-Management currently describes Reagan as having proclaimed “November 1981” a National Diabetes Month, and Dictionary.com states, without naming Reagan or any other authority, that November was “officially declared” the month in 1981; the 1981 proclamation on record was for a week in October, and the first Month proclamation was for 1982, not 1981.\n\nCongress did not stop at 1982. Senate Joint Resolution 145, in the 99th Congress, designated November 1985 as National Diabetes Month by name, one of at least several single-year joint resolutions Congress passed through the 1980s, each requiring the President's signature to take effect. That pattern eventually gave way to something looser: by the 117th Congress (2021 to 2022), the vehicle was Senate Resolution 479, a Senate-only resolution “supporting the goals and ideals of American Diabetes Month” that carries a companion House Resolution 810 but neither requires the President's signature nor creates a binding designation the way the 1982 and 1985 joint resolutions did. No joint resolution has ever made November a standing, permanent observance in US law; each year's federal recognition, from 1982 to the present, rests on that year's own proclamation or message.\n\nThe White House has issued something for National Diabetes Month every November since 1982, through Presidents of both parties, though the format is not fixed. Proclamations under Reagan, both Bushes, Obama, and Biden (most recently Proclamation 10849, National Diabetes Month, 2024) used the full “Proclamation” format. In November 2025, the Trump White House instead issued a “Presidential Message on National Diabetes Month,” a shorter document that does not require the procedural steps a formal Proclamation does. The underlying November date has not moved regardless of which format a given administration reaches for.",
-    "source": {
-      "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
-      "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
-    }
-  },
-  "sections": [
-    {
-      "heading": "What American Diabetes Month is",
-      "body": [
-        "American Diabetes Month is a US observance held every November, encouraging screening, education about prediabetes and Type 2 risk factors, and support for people living with diabetes. The Centers for Disease Control and Prevention's most recent National Diabetes Statistics Report puts the number at 40.1 million Americans with diagnosed or undiagnosed diabetes, about 12 percent of the population, plus more than 115 million adults with prediabetes. It carries no legal status: no federal law creates a day off, and government offices, banks, and schools run a normal November schedule around it.",
-        "The observance spreads mainly through the American Diabetes Association's own campaigns, hospital and pharmacy-chain messaging, and an annual White House statement that has appeared every November since 1982. It is not a single-day event with one clear ceremony; the whole 30 days serve as a loosely organized push for screening and awareness rather than a specific action tied to a date."
-      ]
-    },
-    {
-      "heading": "Who started it, and the year most sites get wrong",
-      "body": [
-        "The American Diabetes Association says it first declared a “National Diabetes Awareness Month” in November 1975. This calendar looked for that claim on the ADA's own site and could not find a current page repeating it with a citation; it exists only in secondary round-up articles that do not name a specific ADA document. The claim is plausible and widely repeated, but it is not independently checkable the way everything that follows is.",
-        "The federal record is clearer, and it does not start where several current articles say it does. On September 28, 1981, President Reagan issued Proclamation 4861, National Diabetes Week, covering October 4 through 10 of that year, a single week, in October, not November. The first proclamation to actually name a full month came thirteen months later: Proclamation 4994, issued November 2, 1982, under Senate Joint Resolution 257, proclaiming “the month of November, 1982, as National Diabetes Month,” in the document's own words.",
-        "Diabetes Self-Management currently states that Reagan proclaimed “November 1981” a National Diabetes Month. Dictionary.com makes a related but not identical error: without naming Reagan or anyone else, it states that November was “officially declared” the month in 1981. Checked against the primary proclamation text, both dates are wrong: the 1981 document on record set aside a week in October, not a month in November; the month-long November designation is a 1982 document, backed by a different congressional resolution. The error is small on the calendar, a year and a scope, but it is exactly the kind of detail that is easy to check and, in practice, rarely is, a pattern this calendar has also documented for [National Hispanic Heritage Month](/national-hispanic-heritage-month/), where a similar signed-versus-proclaimed year gets conflated."
-      ]
-    },
-    {
-      "heading": "Three names for one month",
-      "body": [
-        "“American Diabetes Month,” “National Diabetes Month,” and “Diabetes Awareness Month” all refer to the same 30 days. The ADA began branding its own campaigns “American Diabetes Month” in 1997, according to secondary sources this calendar could not verify against an ADA primary document. Every White House proclamation or message checked, from Reagan's in 1982 through Trump's in 2025, has instead used “National Diabetes Month.” “Diabetes Awareness Month” is a looser, generic label used by hospitals, pharmacy chains, and calendar aggregators that does not trace specifically to either the ADA or the federal government.",
-        "The three names create real confusion for search and citation purposes, but not for planning: whichever name a source uses, it describes the same full month of November, not a different date range, unlike [No-Shave November](/no-shave-november/), which shares the month but is a wholly separate, privately run campaign with no federal recognition at all."
-      ]
-    },
-    {
-      "heading": "From a week, to a month, to a message",
-      "body": [
-        "Congress renewed the designation by name at least once more after 1982: Senate Joint Resolution 145, in the 99th Congress, designated November 1985 as National Diabetes Month, following the same pattern as 1982, a single-year resolution requiring the President's signature. That pattern of Congress passing a fresh joint resolution eventually stopped; by the 117th Congress (2021 to 2022), the vehicle was Senate Resolution 479, a Senate-only resolution “supporting the goals and ideals of American Diabetes Month,” paired with a similar House Resolution 810. Neither requires the President's signature, and neither creates a binding designation the way the 1982 and 1985 joint resolutions did. No joint resolution has ever made November a permanent, standing observance in US law, a pattern this calendar has also found for [Domestic Violence Awareness Month](/domestic-violence-awareness-month/); each year's recognition rests on that year's own White House document, not a standing statute.",
-        "The White House has issued something every November since 1982, but the format is not fixed. Reagan, both Bushes, Obama, and Biden (most recently in a 2024 proclamation) all used the full “Proclamation” format, with the President's formal seal-bearing language. In November 2025, the Trump White House instead issued a shorter “Presidential Message,” a format that does not require the procedural steps a formal Proclamation does. The date itself has not moved regardless of which format a given administration reaches for."
-      ]
-    },
-    {
-      "heading": "Not the same as World Diabetes Day",
-      "body": [
-        "A single day, November 14, is a separate, distinct observance: World Diabetes Day, created by the International Diabetes Federation and the World Health Organization in 1991 and made an official United Nations International Day in 2006. It falls inside American Diabetes Month every year but is not the same thing; it is international rather than US-specific, and it marks one day rather than thirty.",
-        "November 14 is the birthday of Sir Frederick Banting, who co-discovered insulin with Charles Best in Toronto in 1921. Banting's 1923 Nobel Prize in Physiology or Medicine was officially shared with John Macleod, the University of Toronto physiologist who directed the research; Best was not an official co-recipient, though Banting split his own share of the prize money with him afterward. Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's specific date. No source found in researching this page ties that same reasoning to why the ADA picked November for its 1975 claim, or why Reagan's 1981 and 1982 proclamations landed in that month; those choices predate World Diabetes Day by a decade, and nothing in the proclamation text or in ADA materials checked mentions Banting. The Banting explanation appears to belong specifically to the newer, UN-recognized single day, not the older, US-only month, even though search results and calendar sites frequently apply it to both without distinction."
-      ],
-      "image": {
-        "src": "/images/diabetes-awareness-month-timeline.svg",
-        "alt": "Timeline from 1975 to 2025 showing the American Diabetes Association's unverified 1975 claim, Reagan's 1981 week and 1982 month proclamations, the 1985 congressional renewal, the 1991/2006 creation of World Diabetes Day, and the 2021-2025 shift to non-binding resolutions and a varying White House format"
+    "faq": [
+      {
+        "question": "When is American Diabetes Month in 2026?",
+        "answer": "All of November 2026, running Sunday, November 1 through Monday, November 30. It is a month-long observance, not a single date, and does not shift for weekends."
+      },
+      {
+        "question": "Who founded American Diabetes Month?",
+        "answer": "The American Diabetes Association says it first marked the month in 1975, a claim this calendar could not verify in the ADA's own current materials. The first confirmed federal action was President Reagan's, and it was not a month: a single week in October 1981. The first proclamation naming a full “National Diabetes Month” followed in November 1982, under Senate Joint Resolution 257."
+      },
+      {
+        "question": "Was National Diabetes Month first proclaimed in 1981?",
+        "answer": "No, despite what a couple of current health-media articles say. Reagan's 1981 proclamation, Proclamation 4861, designated National Diabetes Week, a single week in October, not a month and not in November. The first proclamation to name a full “National Diabetes Month” is dated November 2, 1982."
+      },
+      {
+        "question": "Is American Diabetes Month the same as World Diabetes Day?",
+        "answer": "No. World Diabetes Day falls on a single day, November 14, created by the International Diabetes Federation and World Health Organization in 1991 and made an official United Nations day in 2006. American Diabetes Month is the entire US observance covering all of November, with separate origins that predate World Diabetes Day by roughly a decade."
+      },
+      {
+        "question": "What is the difference between American Diabetes Month and National Diabetes Month?",
+        "answer": "Only the name. The American Diabetes Association has branded its own campaigns “American Diabetes Month” since 1997, according to secondary sources; every White House proclamation or message checked, from 1982 through 2025, has instead used “National Diabetes Month.” Both names describe the same 30 days in November."
       }
-    }
-  ],
-  "faq": [
-    {
-      "question": "When is American Diabetes Month in 2026?",
-      "answer": "All of November 2026, running Sunday, November 1 through Monday, November 30. It is a month-long observance, not a single date, and does not shift for weekends."
-    },
-    {
-      "question": "Who founded American Diabetes Month?",
-      "answer": "The American Diabetes Association says it first marked the month in 1975, a claim this calendar could not verify in the ADA's own current materials. The first confirmed federal action was President Reagan's, and it was not a month: a single week in October 1981. The first proclamation naming a full “National Diabetes Month” followed in November 1982, under Senate Joint Resolution 257."
-    },
-    {
-      "question": "Was National Diabetes Month first proclaimed in 1981?",
-      "answer": "No, despite what a couple of current health-media articles say. Reagan's 1981 proclamation, Proclamation 4861, designated National Diabetes Week, a single week in October, not a month and not in November. The first proclamation to name a full “National Diabetes Month” is dated November 2, 1982."
-    },
-    {
-      "question": "Is American Diabetes Month the same as World Diabetes Day?",
-      "answer": "No. World Diabetes Day falls on a single day, November 14, created by the International Diabetes Federation and World Health Organization in 1991 and made an official United Nations day in 2006. American Diabetes Month is the entire US observance covering all of November, with separate origins that predate World Diabetes Day by roughly a decade."
-    },
-    {
-      "question": "What is the difference between American Diabetes Month and National Diabetes Month?",
-      "answer": "Only the name. The American Diabetes Association has branded its own campaigns “American Diabetes Month” since 1997, according to secondary sources; every White House proclamation or message checked, from 1982 through 2025, has instead used “National Diabetes Month.” Both names describe the same 30 days in November."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library, full text)",
-      "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
-    },
-    {
-      "label": "Proclamation 4861 — National Diabetes Week (The American Presidency Project)",
-      "url": "https://www.presidency.ucsb.edu/documents/proclamation-4861-national-diabetes-week"
-    },
-    {
-      "label": "S.J.Res.145 — 99th Congress, designating November 1985 as National Diabetes Month (Congress.gov)",
-      "url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/145"
-    },
-    {
-      "label": "S.Res.479 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
-      "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/479"
-    },
-    {
-      "label": "H.Res.810 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
-      "url": "https://www.congress.gov/bill/117th-congress/house-resolution/810/text"
-    },
-    {
-      "label": "Proclamation 10849 — National Diabetes Month, 2024 (The American Presidency Project)",
-      "url": "https://www.presidency.ucsb.edu/documents/proclamation-10849-national-diabetes-month-2024"
-    },
-    {
-      "label": "Presidential Message on National Diabetes Month, November 4, 2025 (The White House)",
-      "url": "https://www.whitehouse.gov/briefings-statements/2025/11/presidential-message-on-national-diabetes-month/"
-    },
-    {
-      "label": "National Diabetes Statistics Report (Centers for Disease Control and Prevention)",
-      "url": "https://www.cdc.gov/diabetes/php/data-research/index.html"
-    },
-    {
-      "label": "What's the Story Behind Diabetes Awareness Month? (Diabetes Self-Management, source of the 1981/1982 conflation identified above)",
-      "url": "https://www.diabetesselfmanagement.com/healthy-living/general-health/whats-the-story-behind-diabetes-awareness-month/"
-    },
-    {
-      "label": "National Diabetes Month | History & Origin (Dictionary.com, source of a related but separate year error)",
-      "url": "https://www.dictionary.com/e/historical-current-events/national-diabetes-month/"
-    }
-  ],
-  "image": "/images/diabetes-awareness-month-banting-best.jpg",
-  "imageAlt": "Frederick Banting (right) and Charles Best, who co-discovered insulin in 1921; Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's date, a separate observance from American Diabetes Month",
-  "imageCredit": "Library and Archives Canada / C-001350, copyright expired, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banting_and_Best.jpg)"
-},
+    ],
+    "sources": [
+      {
+        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library, full text)",
+        "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
+      },
+      {
+        "label": "Proclamation 4861 — National Diabetes Week (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-4861-national-diabetes-week"
+      },
+      {
+        "label": "S.J.Res.145 — 99th Congress, designating November 1985 as National Diabetes Month (Congress.gov)",
+        "url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/145"
+      },
+      {
+        "label": "S.Res.479 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/479"
+      },
+      {
+        "label": "H.Res.810 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
+        "url": "https://www.congress.gov/bill/117th-congress/house-resolution/810/text"
+      },
+      {
+        "label": "Proclamation 10849 — National Diabetes Month, 2024 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-10849-national-diabetes-month-2024"
+      },
+      {
+        "label": "Presidential Message on National Diabetes Month, November 4, 2025 (The White House)",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/11/presidential-message-on-national-diabetes-month/"
+      },
+      {
+        "label": "National Diabetes Statistics Report (Centers for Disease Control and Prevention)",
+        "url": "https://www.cdc.gov/diabetes/php/data-research/index.html"
+      },
+      {
+        "label": "What's the Story Behind Diabetes Awareness Month? (Diabetes Self-Management, source of the 1981/1982 conflation identified above)",
+        "url": "https://www.diabetesselfmanagement.com/healthy-living/general-health/whats-the-story-behind-diabetes-awareness-month/"
+      },
+      {
+        "label": "National Diabetes Month | History & Origin (Dictionary.com, source of a related but separate year error)",
+        "url": "https://www.dictionary.com/e/historical-current-events/national-diabetes-month/"
+      }
+    ],
+    "image": "/images/diabetes-awareness-month-banting-best.jpg",
+    "imageAlt": "Frederick Banting (right) and Charles Best, who co-discovered insulin in 1921; Banting's November 14 birthday is the commonly cited reason for World Diabetes Day's date, a separate observance from American Diabetes Month",
+    "imageCredit": "Library and Archives Canada / C-001350, copyright expired, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banting_and_Best.jpg)"
+  },
   {
     "slug": "birthstones-by-month",
     "category": "Birthstones",
@@ -3397,12 +3541,30 @@ export const guides: Guide[] = [
         "url": "https://internationalmensday.com/about/history-background/"
       },
       "occurrences": [
-        { "date": "2026-11-19", "weekday": "Thursday" },
-        { "date": "2027-11-19", "weekday": "Friday" },
-        { "date": "2028-11-19", "weekday": "Sunday" },
-        { "date": "2029-11-19", "weekday": "Monday" },
-        { "date": "2030-11-19", "weekday": "Tuesday" },
-        { "date": "2031-11-19", "weekday": "Wednesday" }
+        {
+          "date": "2026-11-19",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-11-19",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-11-19",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-11-19",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-11-19",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-11-19",
+          "weekday": "Wednesday"
+        }
       ],
       "caveat": "November 19 is now the universal date, but it was not always the only one in circulation. Thomas Oaster, who directed the Missouri Center for Men's Studies at the University of Missouri–Kansas City, organized small February 7 events in the US, Australia, and Malta starting in 1992. The US and Australian versions stopped after a poorly attended 1995 attempt (Australia later re-established its own observance, on November 19, in 2003); Malta's Association for Men's Rights was the only group that kept observing the day every February 7 after that, continuing through 2008. Because no other country still used the February date, Malta's committee voted unanimously on January 17, 2009 to move its own observance to November 19, aligning with the version Jerome Teelucksingh had independently revived in Trinidad and Tobago a decade earlier. Since that 2009 vote, no source found here shows any country still marking the day on a different date."
     },
@@ -3927,12 +4089,30 @@ export const guides: Guide[] = [
         "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
       },
       "occurrences": [
-        { "date": "2026-09-19", "weekday": "Saturday" },
-        { "date": "2027-09-19", "weekday": "Sunday" },
-        { "date": "2028-09-19", "weekday": "Tuesday" },
-        { "date": "2029-09-19", "weekday": "Wednesday" },
-        { "date": "2030-09-19", "weekday": "Thursday" },
-        { "date": "2031-09-19", "weekday": "Friday" }
+        {
+          "date": "2026-09-19",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-09-19",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-09-19",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2029-09-19",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2030-09-19",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2031-09-19",
+          "weekday": "Friday"
+        }
       ]
     },
     "founding": {
@@ -4061,12 +4241,30 @@ export const guides: Guide[] = [
         "url": "https://efneny.org/2024/10/25/the-history-of-national-epilepsy-awareness-month-neam/"
       },
       "occurrences": [
-        { "date": "2026-11-01", "weekday": "Sunday" },
-        { "date": "2027-11-01", "weekday": "Monday" },
-        { "date": "2028-11-01", "weekday": "Wednesday" },
-        { "date": "2029-11-01", "weekday": "Thursday" },
-        { "date": "2030-11-01", "weekday": "Friday" },
-        { "date": "2031-11-01", "weekday": "Saturday" }
+        {
+          "date": "2026-11-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-11-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-11-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-11-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-11-01",
+          "weekday": "Saturday"
+        }
       ],
       "caveat": "Do not confuse this month-long US observance with Purple Day, a single day, March 26, founded separately in Canada in 2008 and now marked in more than 100 countries. Purple Day falls inside National Epilepsy Awareness Month only when the two are compared loosely; its own date and origin have nothing to do with November or with any of the congressional resolutions described below. Readers should also treat the commonly repeated claim that \"Congress declared November National Epilepsy Awareness Month in 2003\" with caution: no resolution on the primary congressional record ever passed either chamber. Every November recognition to date has come from the Epilepsy Foundation's own campaign, from individual state governors issuing their own proclamations in some years, or from advocacy groups asking a sitting president for federal recognition that, as of this page's research, had not been issued."
     },
@@ -4200,12 +4398,30 @@ export const guides: Guide[] = [
         "url": "https://add.org/adhd-awareness-history/"
       },
       "occurrences": [
-        { "date": "2026-10-01", "weekday": "Thursday" },
-        { "date": "2027-10-01", "weekday": "Friday" },
-        { "date": "2028-10-01", "weekday": "Sunday" },
-        { "date": "2029-10-01", "weekday": "Monday" },
-        { "date": "2030-10-01", "weekday": "Tuesday" },
-        { "date": "2031-10-01", "weekday": "Wednesday" }
+        {
+          "date": "2026-10-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-10-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-10-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-01",
+          "weekday": "Wednesday"
+        }
       ],
       "caveat": "Do not confuse the October month observed today with the five dates Congress actually acted on. The Senate designated a single date each year as \"National Attention Deficit Disorder Awareness Day\" five years running: September 7, 2004 (S.Res.370), September 14, 2005 (S.Res.201), September 20, 2006 (S.Res.544), September 19, 2007 (S.Res.295), and September 18, 2008 (S.Res.649). Every one was a fresh, one-time designation for that year only, none of them a recurring rule, and no sixth resolution has been found after 2008. One secondary account of this history, on the blog ImpactADHD.com, describes the origin as \"the 3rd Wednesday of September.\" That happens to match two of the five actual dates, September 20, 2006 and September 19, 2007, which genuinely were the third Wednesday of their respective Septembers, but it does not match the other three: September 7, 2004 fell on a Tuesday, September 14, 2005 was the second Wednesday, and September 18, 2008 was a Thursday. None of the five resolutions ever stated a recurring weekday rule; each named one specific calendar date, decided fresh by the Senate each year, so the \"3rd Wednesday\" description is a coincidence that held for two years out of five, not a rule anyone actually passed."
     },
@@ -4343,12 +4559,30 @@ export const guides: Guide[] = [
         "url": "https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024"
       },
       "occurrences": [
-        { "date": "2026-10-28", "weekday": "Wednesday" },
-        { "date": "2027-10-28", "weekday": "Thursday" },
-        { "date": "2028-10-28", "weekday": "Saturday" },
-        { "date": "2029-10-28", "weekday": "Sunday" },
-        { "date": "2030-10-28", "weekday": "Monday" },
-        { "date": "2031-10-28", "weekday": "Tuesday" }
+        {
+          "date": "2026-10-28",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2027-10-28",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2028-10-28",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2029-10-28",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-10-28",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-10-28",
+          "weekday": "Tuesday"
+        }
       ],
       "caveat": "No federal statute fixes October 28 as an annual date, because no bill or resolution naming that date ever passed both chambers of Congress; this calendar could not find any source that explains why October 28 specifically was chosen over any other date, and the original 2017 Senate sponsors do not appear to have stated one. What keeps the date consistent is a pattern, not a law: every congressional resolution on the record names October 28 by habit, each one copying the date the previous attempt used, and the White House has issued presidential proclamations naming October 28 in 2022, 2023, and 2024, but this calendar found no proclamation for 2025 as of this page's research. A reader relying on this date should treat it as well-established by repetition, not as legally guaranteed to recur."
     },
@@ -4491,5 +4725,199 @@ export const guides: Guide[] = [
     "image": "/images/national-first-responders-day-collier-memorial.jpg",
     "imageAlt": "The Sean Collier Memorial at MIT, built to honor the police officer whose 2013 killing by the Boston Marathon bombers led his brother to begin the campaign for National First Responders Day",
     "imageCredit": "Photo by Peacearth, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sean_Collier_Memorial_01.jpg)"
+  },
+  {
+    "slug": "suicide-prevention-month",
+    "category": "Observances",
+    "title": "National Suicide Prevention Month: Never Made Federal Law",
+    "description": "September carries the name nationwide, but no Congress has passed it and no President has proclaimed it. Only September 10 gets an annual proclamation.",
+    "published": "2026-08-16",
+    "updated": "2026-08-16",
+    "coreSummary": "National Suicide Prevention Month covers all of September, every year, in the United States, an observance the American Association of Suicidology (AAS) traces to a May awareness week it launched in 1974 and moved to September in 2003. No Congress has ever passed a resolution making the full month permanent and no President has proclaimed it; only September 10, World Suicide Prevention Day, gets its own annual presidential proclamation, and even the routine congressional resolutions supporting the month have stalled again for 2025.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of September, every year, in the United States, not a single date within the month.",
+      "status": "conventional",
+      "source": {
+        "label": "American Association of Suicidology — About & History",
+        "url": "https://suicidology.org/about/"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-09-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-09-01",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-01",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "The month itself is not in dispute: AAS, federal agencies, health-media sites, and congressional resolutions all agree September is the month. What is unsettled is the founding year of the week that preceded it. AAS's own current site confirms it was founded in 1968 by Edwin S. Shneidman, but does not give a date for the original awareness week on its currently accessible pages. Secondary retrospectives converge on May 1974 as the week's launch, while Wikipedia's article on the week instead states events have been held \"since 1975.\" This page follows 1974, the year repeated across independent secondary sources, but readers should know the one-year gap exists and that no primary AAS document on the live site currently settles it either way."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The American Association of Suicidology (AAS), a nonprofit founded in 1968 by clinical psychologist Edwin S. Shneidman, says on its own site that it convened after Shneidman's work at the National Institute of Mental Health exposed the lack of any coordinated national suicide-prevention structure. Secondary histories, though not AAS's currently live pages, credit the organization with launching a National Suicide Prevention Week every May starting in 1974, moving that week to September in 2003 to align with the newly created World Suicide Prevention Day, and expanding it to cover the full month in 2008. No single person is credited with founding the month itself; it grew out of an advocacy campaign, not a proclamation or a law.",
+      "source": {
+        "label": "American Association of Suicidology — About & History",
+        "url": "https://suicidology.org/about/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "Two different observances share this month",
+        "body": [
+          "National Suicide Prevention Month runs across all of September in the United States. Nested inside it is a separate, more specific observance: World Suicide Prevention Day, every September 10, created in 2003 by the International Association for Suicide Prevention (IASP) with the World Health Organization (WHO) as co-sponsor. The two are often used interchangeably in casual writing, but they have different founders, different founding years, and, as the next two sections lay out, very different relationships to actual government action.",
+          "The single day has a clean founding: a named pair of organizations, a specific year, and an annual presidential proclamation that both the Obama and Biden administrations issued for September 10 in the years this page checked. The month is where the record gets murkier. Most of what gets repeated about it, that \"Congress recognizes it\" or \"the President has designated it,\" does not hold up against the primary record."
+        ]
+      },
+      {
+        "heading": "From a May week to a September month, with no law in between",
+        "body": [
+          "AAS's own site confirms the organization was founded in 1968, after Shneidman's work at NIMH's Center for Suicide Prevention highlighted the absence of any national coordinating structure for suicide research and prevention. What AAS's currently live pages do not spell out is the chronology of the awareness week that eventually became this month. That account comes from secondary retrospectives, not from a primary document this page could verify on suicidology.org today.",
+          "By that secondary account, AAS launched a National Suicide Prevention Week every May starting in 1974. It stayed in May for nearly three decades. In 2003, the same year IASP and WHO created World Suicide Prevention Day for September 10, AAS moved its week to September to align with the new day. In 2008, the week expanded to cover the entire month, the version most people mean today when they say \"National Suicide Prevention Month.\"",
+          "None of these three changes, the 1974 launch, the 2003 move, or the 2008 expansion, came from Congress or the White House. Each was a decision made inside an advocacy nonprofit. That distinguishes this observance from something like Domestic Violence Awareness Month, which reached an actual one-time federal statute in 1989, or American Diabetes Month, which has a Reagan-era presidential proclamation on record from 1982."
+        ]
+      },
+      {
+        "heading": "What Congress has actually voted on",
+        "body": [
+          "Searching the primary congressional record turns up a recurring pattern rather than a single founding vote. A resolution recognizing suicide as a national problem, sponsored by then-Senator Harry Reid, passed the Senate in 1997 (S.Res. 84), but its text never mentions September or a monthly designation. It is a general statement of priority, not the origin of this specific observance.",
+          "The specific \"designate September as National Suicide Prevention Month\" language starts showing up as its own resolution later. In the House, versions have been introduced in at least four separate Congresses: H.Res. 850 (114th, introduced September 2016), H.Res. 1067 (115th, September 2018), H.Res. 1436 (118th, 2024), and H.Res. 697 (119th, 2025). Every one of them was referred to committee and died without a floor vote, according to GovTrack's tracking of each bill's status.",
+          "The Senate side has actually succeeded twice: S.Res. 636 in the 115th Congress and S.Res. 738 in the 116th Congress were both agreed to by unanimous consent, a real vote (even if a non-recorded one) rather than a dead-end committee referral. But a Senate resolution agreed to in one Congress does not carry into the next; each expires with that two-year session and has to be reintroduced from scratch. The 119th Congress's Senate version, S.Res. 385, introduced in 2025 for that year's September, was still sitting at \"introduced\" as of this page's research in August 2026, meaning even the chamber that has passed it before did not get it done that time.",
+          "No joint resolution, the kind of measure that would need both chambers and the President's signature to become binding, has ever been introduced for this specifically. No President has proclaimed the full month of September as National Suicide Prevention Month in the sources this page checked. The proclamations that do exist, described next, are for the single day only."
+        ]
+      },
+      {
+        "heading": "The one part of this story that is now a real law",
+        "body": [
+          "Set the month aside and look at September 10 alone: Obama proclaimed World Suicide Prevention Day in at least 2015 and 2016, and Biden did the same in 2021 through 2024, each a named, dated presidential document in the Federal Register. That is a different category of federal recognition than anything the month has received, an annual proclamation, tied to a single day, that multiple administrations have kept up.",
+          "The one piece of this whole subject that became an ordinary federal statute is neither the day nor the month. It is the 988 phone number. The National Suicide Hotline Designation Act of 2020 (S. 2661) passed the Senate on May 13, 2020, passed the House on September 21, 2020, and was signed into law as Public Law 116-172 on October 17, 2020. It required the FCC to designate 988 as the nationwide three-digit number for the National Suicide Prevention Lifeline and the Veterans Crisis Line. Telecom carriers had to activate it by July 16, 2022, and it has operated as the 988 Suicide & Crisis Lifeline ever since.",
+          "That contrast is the clearest way to see what has and has not happened at the federal level: a concrete piece of infrastructure, a phone number everyone can dial, went through both chambers and got a President's signature. A calendar designation for a month has not, in any version this page found in the record.",
+          "If you or someone you know is in crisis, the 988 Suicide & Crisis Lifeline is reachable by call or text, 24 hours a day, anywhere in the United States."
+        ]
+      },
+      {
+        "heading": "What the most recent data shows",
+        "body": [
+          "The CDC's National Center for Health Statistics reported that the age-adjusted suicide rate in the United States was 14.1 per 100,000 people in 2023, essentially unchanged from 14.2 in 2018, a five-year period of roughly flat, still-elevated rates rather than a clear rise or fall. Suicide was the 11th leading cause of death overall that year, accounting for more than 49,300 deaths.",
+          "The rate is not evenly distributed: the 2023 rate among men, 22.8 per 100,000, was close to four times the rate among women, 5.9 per 100,000. Both figures come from the same NCHS data brief, not from separate, less comparable sources."
+        ]
+      },
+      {
+        "heading": "Where this sits next to the rest of this calendar's awareness months",
+        "body": [
+          "This site has now checked the federal paper trail behind several awareness months, and the results form a rough spectrum rather than a single pattern. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) reached an actual one-time law, Public Law 101-112, in 1989. Congress designated that specific October, and nothing has renewed the designation since, but the law itself is real. [ADHD Awareness Month](/adhd-awareness-month/) has a documented five-year run of Senate resolutions, 2004 through 2008, each agreed to without objection, before the practice simply stopped with no sixth attempt found. [Epilepsy Awareness Month](/epilepsy-awareness-month/) has the weakest record of the three: three separate resolutions across three different Congresses, and not one of them ever reached a vote in either chamber.",
+          "National Suicide Prevention Month lands closest to the ADHD pattern but less consistent even than that. The Senate has agreed to it twice, not five times running, the House has never passed it at all, and the most recent attempt, for 2025, stalled in both chambers. What the month has that none of the others do is a well-documented single day nested inside it, World Suicide Prevention Day, that keeps getting a real presidential proclamation even while the month around it does not."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is National Suicide Prevention Month the same thing as World Suicide Prevention Day?",
+        "answer": "No. World Suicide Prevention Day is a single date, September 10, created in 2003 by the International Association for Suicide Prevention and the World Health Organization. National Suicide Prevention Month is the full 30 days of September, an American observance that grew out of a May awareness week the American Association of Suicidology (AAS) ran starting in 1974 and moved to September in 2003 to align with the new day. The day sits inside the month, but they were founded separately and have different levels of federal recognition: the day gets an annual presidential proclamation, the month does not."
+      },
+      {
+        "question": "Has Congress ever passed a law making September National Suicide Prevention Month?",
+        "answer": "Not according to the primary congressional record checked for this page. House versions of the recognizing resolution, in the 114th, 115th, 118th, and 119th Congresses, were each referred to committee and never received a floor vote. Senate versions were agreed to by unanimous consent twice, in the 115th and 116th Congresses, but a Senate resolution expires with that two-year session; it does not carry forward or become binding law. No joint resolution requiring both chambers and a presidential signature has been introduced for this specific designation."
+      },
+      {
+        "question": "Does the President proclaim National Suicide Prevention Month?",
+        "answer": "Not the month specifically, in the sources this page found. Presidents have proclaimed World Suicide Prevention Day, September 10, in most recent years: Obama did in 2015 and 2016, and Biden did every year from 2021 through 2024. But those proclamations name the single day, not the full month."
+      },
+      {
+        "question": "Who founded National Suicide Prevention Month?",
+        "answer": "No single person is credited with founding the month as such. The American Association of Suicidology, founded in 1968 by psychologist Edwin S. Shneidman, is the organization behind its predecessor: a National Suicide Prevention Week held every May from 1974 on. AAS moved that week to September in 2003 and expanded it to a full month in 2008, by secondary accounts this page could not fully verify on AAS's own currently live site. It was an advocacy-group campaign that grew over time, not a single founding act."
+      },
+      {
+        "question": "What is 988, and how is it different from the month itself?",
+        "answer": "988 is the three-digit number for the 988 Suicide & Crisis Lifeline, reachable by call or text anywhere in the United States, 24 hours a day. Unlike the month designation, 988 is backed by an actual federal statute: the National Suicide Hotline Designation Act of 2020 passed both the Senate and House and was signed into law on October 17, 2020, with nationwide carrier activation required by July 16, 2022."
+      },
+      {
+        "question": "What do the most recent suicide statistics show in the United States?",
+        "answer": "According to the CDC's National Center for Health Statistics, the age-adjusted suicide rate was 14.1 per 100,000 people in 2023, close to the 14.2 rate in 2018, a roughly flat five-year trend rather than a sharp change in either direction. Suicide caused more than 49,300 deaths in 2023 and was the 11th leading cause of death overall. The rate among men, 22.8 per 100,000, was nearly four times the rate among women, 5.9 per 100,000."
+      },
+      {
+        "question": "How does this compare to other awareness months covered on this site?",
+        "answer": "It sits in the middle of a spectrum this site has documented across several awareness months. Domestic Violence Awareness Month has an actual one-time federal law behind it (1989's Public Law 101-112, never renewed). ADHD Awareness Month has five consecutive years of agreed-to Senate resolutions (2004-2008) before the practice stopped. Epilepsy Awareness Month has three resolutions across three Congresses, none of which ever reached a vote. Suicide Prevention Month's Senate resolutions have passed twice, not five times, and its House resolutions have never passed at all, closer to epilepsy's record than ADHD's, despite the month's much higher public visibility."
+      }
+    ],
+    "sources": [
+      {
+        "label": "American Association of Suicidology — About & History (1968 founding, Edwin S. Shneidman)",
+        "url": "https://suicidology.org/about/"
+      },
+      {
+        "label": "World Health Organization — World Suicide Prevention Day campaign page",
+        "url": "https://www.who.int/campaigns/world-suicide-prevention-day"
+      },
+      {
+        "label": "Wikipedia — National Suicide Prevention Week (secondary source for the 1974/1975 discrepancy)",
+        "url": "https://en.wikipedia.org/wiki/National_Suicide_Prevention_Week"
+      },
+      {
+        "label": "S.Res.84 — 105th Congress, 1997, Sen. Harry Reid, \"recognizing suicide as a national problem\" (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/105/sres84"
+      },
+      {
+        "label": "H.Res.850 — 114th Congress, 2016, died without a floor vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/114/hres850"
+      },
+      {
+        "label": "S.Res.636 — 115th Congress, 2018, agreed to by unanimous consent (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/115/sres636"
+      },
+      {
+        "label": "H.Res.1067 — 115th Congress, 2018, died without a floor vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/115/hres1067"
+      },
+      {
+        "label": "S.Res.738 — 116th Congress, 2020, agreed to by unanimous consent (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/116/sres738"
+      },
+      {
+        "label": "H.Res.1436 — 118th Congress, 2024, died without a floor vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/118/hres1436"
+      },
+      {
+        "label": "H.Res.697 and S.Res.385 — 119th Congress, 2025, both stalled at \"introduced\" (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/119/hres697"
+      },
+      {
+        "label": "S.2661 — National Suicide Hotline Designation Act of 2020, Public Law 116-172 (Congress.gov)",
+        "url": "https://www.congress.gov/bill/116th-congress/senate-bill/2661"
+      },
+      {
+        "label": "Federal Communications Commission — U.S. Transition to 988 Suicide & Crisis Lifeline",
+        "url": "https://www.fcc.gov/document/us-transition-988-suicide-crisis-lifeline-begins-july-16"
+      },
+      {
+        "label": "CDC/NCHS — Suicide Rates Largely Unchanged in 2023, but Still High (September 2025)",
+        "url": "https://blogs.cdc.gov/nchs/2025/09/24/7848/"
+      },
+      {
+        "label": "The White House (Biden archive) — A Proclamation on World Suicide Prevention Day, 2024",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/09/world-suicide-prevention-day-2024/"
+      }
+    ],
+    "image": "/images/suicide-prevention-month-timeline.svg",
+    "imageAlt": "Timeline from 1968 to today showing how National Suicide Prevention Month grew from an advocacy group's May awareness week to a September-long observance, with no permanent law behind the month itself"
   }
 ];
+
+

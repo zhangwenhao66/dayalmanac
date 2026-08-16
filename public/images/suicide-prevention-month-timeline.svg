@@ -1,0 +1,78 @@
+<svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline: from a May week to a September month, 1968 to today</title>
+  <desc id="desc">1968: Edwin Shneidman founds the American Association of Suicidology. 1974: AAS launches National Suicide Prevention Week in May. 2003: The International Association for Suicide Prevention and the World Health Organization create World Suicide Prevention Day for September 10, and the US week moves to September to align with it. 2008: The week expands to cover all of September. 2015 to 2025: Congress introduces a version of a National Suicide Prevention Month resolution in most sessions; Senate versions have twice been agreed to by unanimous consent, House versions have not received a single floor vote, and no joint resolution or presidential proclamation has ever made the month permanent. 2020 to 2022: The National Suicide Hotline Designation Act becomes law and the 988 Suicide and Crisis Lifeline goes live nationwide, the one piece of this history that is now an ordinary federal statute.</desc>
+  <rect width="1200" height="620" fill="#f5f3ee" />
+
+  <text x="600" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">From a May week to a September month</text>
+  <text x="600" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.65">Every step below came from an advocacy group or a non-binding resolution — none from a permanent law</text>
+
+  <line x1="90" y1="330" x2="1110" y2="330" stroke="#d6d0c4" stroke-width="3" />
+
+  <!-- 1968 -->
+  <circle cx="140" cy="330" r="8" fill="#2f4858" />
+  <text x="140" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1968</text>
+  <text x="140" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="140" dy="0">Edwin Shneidman founds</tspan>
+    <tspan x="140" dy="15">the American Association</tspan>
+    <tspan x="140" dy="15">of Suicidology (AAS)</tspan>
+  </text>
+
+  <!-- 1974 -->
+  <circle cx="300" cy="330" r="8" fill="#6d4470" />
+  <text x="300" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1974</text>
+  <text x="300" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="300" dy="0">AAS launches National</tspan>
+    <tspan x="300" dy="15">Suicide Prevention Week,</tspan>
+    <tspan x="300" dy="15">held every May</tspan>
+  </text>
+
+  <!-- 2003 -->
+  <circle cx="480" cy="330" r="9" fill="#2f4858" />
+  <text x="480" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#1f1d1a">2003</text>
+  <text x="480" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="480" dy="0">IASP and WHO create</tspan>
+    <tspan x="480" dy="15">World Suicide Prevention</tspan>
+    <tspan x="480" dy="15">Day, Sept. 10; AAS moves</tspan>
+    <tspan x="480" dy="15">its week to September</tspan>
+  </text>
+
+  <!-- 2008 -->
+  <circle cx="650" cy="330" r="8" fill="#5b6d45" />
+  <text x="650" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">2008</text>
+  <text x="650" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="650" dy="0">The week expands to</tspan>
+    <tspan x="650" dy="15">cover all of September</tspan>
+    <tspan x="650" dy="15">as a full "month"</tspan>
+  </text>
+
+  <!-- 2015-2025 -->
+  <circle cx="850" cy="330" r="9" fill="#8a6a2f" />
+  <text x="850" y="285" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">
+    <tspan x="850" dy="0">2015</tspan>
+    <tspan x="850" dy="20">–2025</tspan>
+  </text>
+  <text x="850" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="850" dy="0">Congress reintroduces a</tspan>
+    <tspan x="850" dy="15">resolution most sessions;</tspan>
+    <tspan x="850" dy="15">Senate agrees twice, House</tspan>
+    <tspan x="850" dy="15">never gets a floor vote</tspan>
+  </text>
+
+  <!-- 988 -->
+  <circle cx="1030" cy="330" r="9" fill="#a8352b" />
+  <text x="1030" y="285" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">
+    <tspan x="1030" dy="0">2020</tspan>
+    <tspan x="1030" dy="20">–2022</tspan>
+  </text>
+  <text x="1030" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="1030" dy="0">988 becomes law, then</tspan>
+    <tspan x="1030" dy="15">goes live nationwide —</tspan>
+    <tspan x="1030" dy="15">the one part of this story</tspan>
+    <tspan x="1030" dy="15">that is now a real statute</tspan>
+  </text>
+
+  <rect x="90" y="500" width="1020" height="80" rx="10" fill="#ffffff" stroke="#d6d0c4" stroke-width="1.5" />
+  <text x="600" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#1f1d1a">What has never happened</text>
+  <text x="600" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">No Congress has passed a joint resolution, and no President has proclaimed the full month</text>
+  <text x="600" y="573" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">of September itself — only the single day, September 10, gets an annual presidential proclamation</text>
+</svg>

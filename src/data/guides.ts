@@ -4917,6 +4917,140 @@ export const guides: Guide[] = [
     ],
     "image": "/images/suicide-prevention-month-timeline.svg",
     "imageAlt": "Timeline from 1968 to today showing how National Suicide Prevention Month grew from an advocacy group's May awareness week to a September-long observance, with no permanent law behind the month itself"
+  },
+  {
+    "slug": "november-birth-flower",
+    "category": "Birth Flowers",
+    "title": "November Birth Flower: Chrysanthemum and Peony, a Gift Mistake",
+    "description": "November's birth flowers are chrysanthemum and peony, but in France and much of Catholic Europe, chrysanthemums are graveside flowers, not gifts.",
+    "published": "2026-08-17",
+    "updated": "2026-08-17",
+    "coreSummary": "November's birth flowers are the chrysanthemum, whose Greek name literally means \"golden flower\" even though only a handful of modern cultivars are actually gold, and the peony, named for Paeon, physician to the Greek gods. The chrysanthemum carries two separate identities that rarely appear together: Japan's Imperial Seal and highest civilian honor on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other. The peony spent much of its taxonomic history grouped near the buttercup family before molecular studies in the late 1980s moved it into a family of its own, in an order unrelated to buttercups.",
+    "sections": [
+      {
+        "heading": "Chrysanthemum and peony, filling the same gap as every other month",
+        "body": [
+          "The Old Farmer's Almanac, the same trade source behind the birth-flower pairs this site has already covered for August, July, and September, names chrysanthemum and peony as November's flowers. This site's [August birth flower](/august-birth-flower/) page traced why a page like this one keeps landing on two flowers instead of one: unlike birthstones, which the jewelry trade standardized in a single 1912 convention, birth flowers never had one body settle the question. Rival 19th-century floriography guides couldn't agree with each other, and rather than pick a winner, the trade lists that followed kept both.",
+          "That gap explains why November has a pair. It doesn't explain much about either flower on its own, and both have more going on than a florist's caption usually mentions."
+        ]
+      },
+      {
+        "heading": "Chrysanthemum: a name for gold, on a flower that mostly isn't",
+        "body": [
+          "Chrysanthemum comes from the Greek khrysanthemon, built from khrysos (\"gold\") and anthemon (\"a flower\"), by way of Latin, according to the Online Etymology Dictionary. The name arrived in English around the 1550s, originally describing a golden-flowered plant related to what English speakers now call the marigold. The irony, as the same source notes, is that the label stuck to a much wider genus, and only a small share of modern chrysanthemum cultivars actually bloom gold; breeders have pushed the color range out to white, purple, pink, orange, and red.",
+          "The flower's other identity has nothing to do with color. During Japan's Kamakura period (1185 to 1333), Emperor Go-Toba adopted a stylized chrysanthemum as his personal seal, and custom gradually turned that choice into the emblem of the entire Imperial House, according to Wikipedia's account of the Imperial Seal of Japan. No law ever made it official; it became the imperial crest the same way a habit becomes a tradition, by repetition rather than decree. Emperor Meiji formalized a related honor in 1876, the Supreme Order of the Chrysanthemum, which remains Japan's highest possible award for a private citizen."
+        ],
+        "image": {
+          "src": "/images/november-birth-flower-chrysanthemum.jpg",
+          "alt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, none of them gold despite the flower's Greek name meaning \"golden flower\"",
+          "credit": "Photo by KENPEI, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_cvs2.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "The color code, and the one place a chrysanthemum bouquet is a mistake",
+        "body": [
+          "The Old Farmer's Almanac reads the chrysanthemum broadly as loyalty, friendship, and joy, with color carrying a narrower meaning inside that: red for true love, white for innocence and honesty, yellow for a wounded heart or neglected love.",
+          "None of that reading travels to France, Belgium, Poland, or several other parts of Catholic Europe, where the chrysanthemum means something closer to the opposite of a birthday gift. The flower is the customary bloom for Toussaint, All Saints' Day, on November 1: families buy pots of chrysanthemums and set them on family graves, a practice tied to the flower's late-autumn bloom window and its ability to survive weeks of cold weather on an unheated grave. Presenting the same flower to a living host, in a bouquet meant as a gift, counts as a breach of etiquette in those countries, not a quaint local quirk. A US-facing birth-flower page has no reason to flag this on its own, except that November's flower and November's funeral custom happen to be the same plant."
+        ]
+      },
+      {
+        "heading": "Peony: named for a god's physician, and reclassified out of its old family",
+        "body": [
+          "Peony traces to the Greek paionia, tied to Paeon, physician to the gods in Greek mythology. One version of the myth, recorded across several classical sources, has Paeon using a peony root to heal Pluto after a battle wound; a jealous Asclepius, his own teacher, then threatens him, and Zeus saves Paeon by turning him into the flower that now carries his name.",
+          "The plant's scientific classification moved almost as dramatically as its mythical namesake. For much of the 19th and 20th centuries, botanists grouped Paeonia at or near the buttercup family, Ranunculaceae, on the strength of shared traits like numerous stamens and a similar flower structure. A family name for peonies on its own, Paeoniaceae, existed on paper as early as 1830, credited to Friedrich K. L. Rudolphi, but it didn't displace the Ranunculaceae placement in general use. Molecular phylogenetic studies changed that: by the late 1980s, the genetic evidence had ruled out any close relationship to Ranunculaceae, and current classification under the Angiosperm Phylogeny Group system places Paeoniaceae in the order Saxifragales, not the order that contains buttercups at all.",
+          "One more gap: most temperate peonies bloom for a few weeks in late spring, not in November. Florist trade sources that pair it with November tend to say so directly, framing the peony's presence on this month's list as popularity and symbolism carrying more weight than the plant's actual growing season."
+        ],
+        "image": {
+          "src": "/images/november-birth-flower-peony.jpg",
+          "alt": "A pink tree peony (Paeonia suffruticosa) in bloom, a genus reclassified out of the buttercup family Ranunculaceae into its own family, Paeoniaceae, in the order Saxifragales",
+          "credit": "Photo by Fanghong, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PaeoniaSuffruticosa7.jpg), CC BY 2.5"
+        }
+      },
+      {
+        "heading": "China's \"king of flowers,\" with no law behind the title",
+        "body": [
+          "China never legislated a national flower, but the peony comes closest to holding the position by custom. During the Tang dynasty, the flower carried the honorary title of \"king of flowers,\" and emperors planted large peony gardens as a display of wealth and power; some historical accounts describe the flower as reserved for royal grounds during that period. The plant still stands for prosperity, honor, and status in Chinese symbolism today. It briefly had something closer to formal status during the Qing dynasty, then lost that informal standing to the plum blossom during the Republic era. Public sentiment still tends to favor the peony over any rival, without either flower ever receiving a legal designation."
+        ]
+      },
+      {
+        "heading": "If your birthday falls in Scorpio or Sagittarius",
+        "body": [
+          "Chrysanthemum and peony cover all of November, but the zodiac sign attached to a November birthday changes partway through the month. In Western tropical astrology, Scorpio runs through around November 21, and Sagittarius picks up the following day; the exact boundary can shift by a day depending on the year and which of several competing systems is used. Readers born in the back half of November, or close enough to the boundary to wonder which side they land on, can check this site's [Scorpio dates](/scorpio-dates/) page for a closer look at why that line moves.",
+          "Readers who came here for December instead of November can find this site's [December birthstone](/december-birthstone/) page, covering turquoise, tanzanite, and zircon."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is November's birth flower?",
+        "answer": "Chrysanthemum and peony, per The Old Farmer's Almanac. As with most months on a modern birth-flower list, November carries two flowers rather than one, because no single trade body ever issued one official calendar."
+      },
+      {
+        "question": "What does the chrysanthemum mean as a birth flower?",
+        "answer": "Loyalty, friendship, and joy in general, with narrower meanings by color: red for true love, white for innocence and honesty, yellow for a wounded heart or neglected love, per The Old Farmer's Almanac."
+      },
+      {
+        "question": "Why is the chrysanthemum connected to Japan's imperial family?",
+        "answer": "Emperor Go-Toba adopted a stylized chrysanthemum as his personal seal during the Kamakura period (1185-1333), and custom turned it into the emblem of the Imperial House. Emperor Meiji formalized the Supreme Order of the Chrysanthemum in 1876, still Japan's highest honor for a private citizen."
+      },
+      {
+        "question": "Is it true chrysanthemums are a bad gift in parts of Europe?",
+        "answer": "In France, Belgium, Poland, and several other Catholic European countries, yes. The flower is the customary bloom for graves on All Saints' Day, November 1, and giving one as a bouquet to a living host counts as a breach of etiquette, not a minor quirk."
+      },
+      {
+        "question": "What does the peony mean as a birth flower?",
+        "answer": "Honor, wealth, romance, and compassion in most modern florist readings, and prosperity and high status specifically in Chinese symbolism, where the flower held the honorary title \"king of flowers\" during the Tang dynasty. The name itself comes from Paeon, physician to the gods in Greek mythology."
+      },
+      {
+        "question": "Is the peony really related to buttercups?",
+        "answer": "No, not closely. Botanists grouped peonies near the buttercup family, Ranunculaceae, for much of the 19th and 20th centuries based on shared physical traits, but molecular studies by the late 1980s showed the relationship didn't hold up. Peonies now sit in their own family, Paeoniaceae, within the order Saxifragales, unrelated to the order that contains buttercups."
+      },
+      {
+        "question": "I was born in late November. Is my zodiac sign Scorpio or Sagittarius?",
+        "answer": "Depends on the exact date. Scorpio runs through around November 21 in Western tropical astrology, and Sagittarius starts the following day, though the precise boundary can shift by a day depending on the year. This site's Scorpio dates page walks through why."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — November Birth Flower: The Chrysanthemum",
+        "url": "https://www.almanac.com/november-birth-flower"
+      },
+      {
+        "label": "Online Etymology Dictionary — Chrysanthemum",
+        "url": "https://www.etymonline.com/word/chrysanthemum"
+      },
+      {
+        "label": "Wikipedia — Imperial Seal of Japan",
+        "url": "https://en.wikipedia.org/wiki/Imperial_Seal_of_Japan"
+      },
+      {
+        "label": "Wikipedia — Order of the Chrysanthemum",
+        "url": "https://en.wikipedia.org/wiki/Order_of_the_Chrysanthemum"
+      },
+      {
+        "label": "Blooming Expert — Chrysanthemum Meaning: Funeral Flower in Europe and the Emperor's Seal in Japan",
+        "url": "https://www.bloomingexpert.com/flower-meaning/chrysanthemum/"
+      },
+      {
+        "label": "Merriam-Webster — Paeonia",
+        "url": "https://www.merriam-webster.com/dictionary/Paeonia"
+      },
+      {
+        "label": "Wikipedia — Peony",
+        "url": "https://en.wikipedia.org/wiki/Peony"
+      },
+      {
+        "label": "Britannica — Saxifragales",
+        "url": "https://www.britannica.com/plant/Saxifragales"
+      },
+      {
+        "label": "iWeiYi — Peonies and Prosperity: Why Peonies Hold Special Meaning in China",
+        "url": "https://www.iweiyi.com/en/peonies-and-prosperity-why-peonies-hold-special-meaning-in-china.htm"
+      }
+    ],
+    "image": "/images/november-birth-flower-chrysanthemum.jpg",
+    "imageAlt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, none of them gold despite the flower's Greek name meaning \"golden flower\"",
+    "imageCredit": "Photo by KENPEI, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_cvs2.jpg), CC BY-SA 3.0"
   }
 ];
 

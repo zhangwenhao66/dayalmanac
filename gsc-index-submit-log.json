@@ -148,5 +148,18 @@
       "https://dayalmanac.com/national-epilepsy-awareness-month/ (404, slug错误未消耗有效配额)"
     ],
     "quota_used": "1 of shared account-wide daily quota (8th request this run; 1 additional rejected 404 attempt on wrong slug)"
+  },
+  {
+    "date": "2026-08-16",
+    "action": "submitted",
+    "reason": "按队列脚本代理排序检查候选：adhd-awareness-month（08-13新发布）、breast-cancer-awareness-month均已收录。改查Page indexing报告的'Discovered - currently not indexed'分类，命中topics/birthstones（专题聚合页），URL Inspection确认'URL is not on Google'（Discovered - currently not indexed），REQUEST INDEXING提交成功确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/topics/birthstones/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/adhd-awareness-month/",
+      "https://dayalmanac.com/breast-cancer-awareness-month/"
+    ],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

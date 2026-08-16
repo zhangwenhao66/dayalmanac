@@ -161,5 +161,24 @@
       "https://dayalmanac.com/breast-cancer-awareness-month/"
     ],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-16",
+    "action": "submitted",
+    "reason": "同日第二次运行（首次运行结尾因Claude in Chrome工具故障卡在Hollowvane，等待网络恢复后重试成功续跑）。GSC自身'Crawled - currently not indexed'分类候选true-or-false/已收录。改查build-index-queue.py队列高代理候选：international-mens-day/december-birthstone/september-birthstone/national-cat-day/diabetes-awareness-month/talk-like-a-pirate-day/july-birth-flower连续7个均已收录（本站索引速度很快），national-first-responders-day确认'URL is not on Google'（URL unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/national-first-responders-day/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/true-or-false/",
+      "https://dayalmanac.com/international-mens-day/",
+      "https://dayalmanac.com/december-birthstone/",
+      "https://dayalmanac.com/september-birthstone/",
+      "https://dayalmanac.com/national-cat-day/",
+      "https://dayalmanac.com/diabetes-awareness-month/",
+      "https://dayalmanac.com/talk-like-a-pirate-day/",
+      "https://dayalmanac.com/july-birth-flower/"
+    ],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

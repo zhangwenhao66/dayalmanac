@@ -63,3 +63,33 @@ contact@dayalmanac.com
 **Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) (one em dash removed, one "worth a second look" vague-endorsement phrase replaced with a concrete reason; final pass clean — straight quotes, no em/en dashes). Dedup checked via `gmail_send.py list --query "to:icalendars.net OR from:icalendars.net OR contact@icalendars.net"` (empty) and `grep -ril "icalendars" 独立站/` across the whole matrix (no prior contact found). Replacement URL (https://dayalmanac.com/national-grandparents-day/) confirmed live (HTTP 200) and fact-checked against src/data/guides.ts.
 
 **Status: independent review verdict "can send" (DNS-failure evidence cross-checked three ways — direct-connect control group, SERVFAIL, independent news sources on the 2017 shutdown). Sent 2026-08-09 via `gmail_send.py send --from dayalmanac`, Message ID `19fe532f106a413d`.** （2026-08-09流量站夜间运维审核已用`gmail_send.py list`核实该邮件确实发出——上一行下方原有一条陈旧的"PENDING INDEPENDENT REVIEW — 尚未发送"重复状态行，是发送前草稿状态未清理干净留下的，已删除避免误导下次审核）
+
+---
+
+## 2026-08-16 — Checkiday.com (National Cat Day page) — broken-link replacement pitch (web form, not email)
+
+**Target:** Checkiday.com (founded 2011 by Seth Westphal, "at least 5,500 unique holidays" per their own About page), a large holiday-database site. No listed public email; only a POST contact form at checkiday.com/contact.php (fields: name, email, message).
+
+Their National Cat Day page (checkiday.com/bf573819f18069d441f5ff7b4c36ea66/national-cat-day) has a structured "Sources" section listing three citations. The first, https://www.nationalcatday.com/ (the official founder-brand site, presumably cited for the Colleen Paige founding story), is dead.
+
+**Confirmed dead:** Both `https://www.nationalcatday.com/` and `https://www.nationalcatday.com/celebrate` return a clean HTTP 404 from a live, correctly-configured backend (Cloudflare in front of Wix, proper cache-control/x-wix-request-id headers — not a WAF block). The bare domain (no www) returns the same. Fetching the page body confirms the actual page served is Wix's own "ConnectYourDomain Error" template ("`<title>ConnectYourDomain Error | Wix.com</title>`") — the signature Wix shows when a custom domain's nameservers point at Wix but the domain was never linked to a published site. DNS resolves fine (`nationalcatday.com` → 185.230.63.x, Wix's IP range), so this isn't a DNS-death case like grandparents.com from the 8/9 run; it's a live, correctly-served "not found," which meets the "clean 404" bar on its own. The other two Checkiday sources for this page (punchbowl.com, smithsonianmag.com) were not checked in detail since only the first was the replacement target.
+
+**Topic match:** DayAlmanac's own `national-cat-day` page (https://dayalmanac.com/national-cat-day/, confirmed HTTP 200, content checked against `src/data/guides.ts`) covers the same founding story (Colleen Paige, 2005) that nationalcatday.com would have been cited for, plus disambiguates National Cat Day from three similarly-named cat observances (International Cat Day, Black Cat Appreciation Day, National Black Cat Day) that get confused with it — directly on-topic, not a stretch.
+
+**Message submitted (via contact form, name field "Owen (DayAlmanac)", email field contact@dayalmanac.com):**
+
+Hi Checkiday team,
+
+I was checking references on your National Cat Day page and noticed the first source link, nationalcatday.com, isn't resolving to a live site. Both the homepage and the /celebrate page return a Wix "ConnectYourDomain Error," which is what Wix shows when a custom domain points at their servers but was never actually connected to a published site.
+
+If you want a replacement, we have a page on the same holiday that covers Colleen Paige's 2005 founding story and sorts it out from the three other similarly named cat observances people mix it up with: International Cat Day in August, plus the two separate Black Cat Day observances in the US and UK. https://dayalmanac.com/national-cat-day/
+
+No obligation either way, just didn't want a dead source sitting in your list. Cataloging 5,500+ holidays is no small effort.
+
+Best,
+Owen (DayAlmanac)
+contact@dayalmanac.com
+
+**Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) (no em dashes, straight quotes, no AI-vocabulary hits, closing line made specific — "cataloging 5,500+ holidays" — instead of a generic compliment; sourced from Checkiday's own About page, not invented). Dedup checked via `gmail_send.py list --query "to:checkiday.com OR from:checkiday.com OR checkiday"` (empty) and `grep -ril "checkiday" 独立站/` across the whole matrix (only self-referential mentions in DayAlmanac's own keyword file/guides.ts as a competitor name, no prior outreach record). Replacement URL fact-checked against `src/data/guides.ts`.
+
+**Status: independent review verdict "can send" (all 5 checklist items independently re-verified: no prior contact, dead-link evidence, live replacement page + facts matched against guides.ts, tone, humanizer/avoid-ai-writing pass). Submission attempted via checkiday.com/contact.php 2026-08-16 (form fields filled: name "Owen (DayAlmanac)", email contact@dayalmanac.com, message as above) but blocked at the final step by a Cloudflare Turnstile "请验证您是真人" checkbox — per this operation's hard rule against completing CAPTCHAs/bot-detection, the form was left filled but NOT submitted. Logged to `独立站/待Owen处理事项.md` for Owen to manually complete the verification and click Submit.**

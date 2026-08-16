@@ -4325,5 +4325,171 @@ export const guides: Guide[] = [
     "image": "/images/adhd-awareness-month-cantwell.jpg",
     "imageAlt": "Official 2007 portrait of Senator Maria Cantwell of Washington, who sponsored all five Senate resolutions designating a National Attention Deficit Disorder Awareness Day between 2004 and 2008",
     "imageCredit": "Office of U.S. Senator Maria Cantwell, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maria_Cantwell,_official_portrait,_110th_Congress.jpg)"
+  },
+  {
+    "slug": "national-first-responders-day",
+    "category": "Observances",
+    "title": "National First Responders Day: Eleven Bills, No Statute",
+    "description": "October 28 is National First Responders Day. Congress introduced eleven bills across a decade — the Senate passed two, the House never passed one at all.",
+    "published": "2026-08-16",
+    "updated": "2026-08-16",
+    "coreSummary": "National First Responders Day falls on October 28 every year in the United States, honoring police officers, firefighters, EMTs, paramedics, and 911 dispatchers. Congress introduced eleven separate bills and resolutions to establish it between 2014 and 2023, and the Senate passed two of them, in 2017 and 2019, but the House never passed a single one, so no federal statute names the day; the White House has filled that gap on its own, with presidential proclamations in 2022, 2023, and 2024.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "The same calendar date every year, October 28, in the United States.",
+      "status": "conventional",
+      "source": {
+        "label": "National First Responders Day, 2024 — Presidential Proclamation 10845 (Federal Register)",
+        "url": "https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024"
+      },
+      "occurrences": [
+        { "date": "2026-10-28", "weekday": "Wednesday" },
+        { "date": "2027-10-28", "weekday": "Thursday" },
+        { "date": "2028-10-28", "weekday": "Saturday" },
+        { "date": "2029-10-28", "weekday": "Sunday" },
+        { "date": "2030-10-28", "weekday": "Monday" },
+        { "date": "2031-10-28", "weekday": "Tuesday" }
+      ],
+      "caveat": "No federal statute fixes October 28 as an annual date, because no bill or resolution naming that date ever passed both chambers of Congress; this calendar could not find any source that explains why October 28 specifically was chosen over any other date, and the original 2017 Senate sponsors do not appear to have stated one. What keeps the date consistent is a pattern, not a law: every congressional resolution on the record names October 28 by habit, each one copying the date the previous attempt used, and the White House has issued presidential proclamations naming October 28 in 2022, 2023, and 2024, but this calendar found no proclamation for 2025 as of this page's research. A reader relying on this date should treat it as well-established by repetition, not as legally guaranteed to recur."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The observance traces to a named person with a specific, on-the-record starting point: Andrew Collier, whose brother, Massachusetts Institute of Technology police officer Sean Collier, was shot and killed on April 18, 2013, by the two men responsible for the Boston Marathon bombing. In an October 15, 2013, Police1 article by Barbara A. Schwartz, published that same year, Andrew is described launching a petition and a public campaign for a national day honoring first responders, reasoning that police officers, firefighters, and paramedics who \"put their lives on the line\" at home deserved the kind of recognition Memorial Day gives service members overseas. Schwartz's article, itself explicitly asking readers to sign the petition, is the earliest dated, named account this calendar could find of the campaign that led to National First Responders Day.\n\nThe first legislative attempt followed within months: Representative Michael Capuano of Massachusetts, Sean Collier's home state, introduced H.R.4109 on February 27, 2014, a bill that would have gone further than a symbolic resolution by requiring the President to designate a legal public holiday called National First Responders Day. It was referred to committee and never received a vote. Over the following decade, ten more bills and resolutions followed in five more Congresses, described in full below, and only two of them, both in the Senate, ever passed a floor vote. None passed the House. No federal statute has ever created National First Responders Day; the date exists today because of Andrew Collier's advocacy, continued backing from the nonprofit All Clear Foundation, a pattern of resolutions that consistently named October 28 without ever finishing the job, and, starting in 2022, a run of presidential proclamations issued without any statute behind them.",
+      "source": {
+        "label": "Brother of slain MIT officer seeks a National First Responders Day — Police1, October 15, 2013, by Barbara A. Schwartz",
+        "url": "https://www.police1.com/police-heroes/articles/brother-of-slain-mit-officer-seeks-a-national-first-responders-day-rzq9SHfn8FFxlk6I/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National First Responders Day is",
+        "body": [
+          "National First Responders Day falls on October 28 every year in the United States, a day set aside to recognize police officers and sheriff's deputies, firefighters, paramedics and EMTs, and 911 dispatchers; President Biden's 2024 proclamation also named 988 crisis-line responders among the group being honored. The day carries no legal status of its own. It is not a federal holiday, government offices and schools run a normal Wednesday-in-late-October schedule, and no statute requires banks or the postal service to close.",
+          "What marks the day in practice is mostly local and voluntary: police and fire departments post appreciation messages, some restaurants and retailers offer first-responder discounts around the date, and community groups organize small ceremonies. The First Responders Children's Foundation, a New York-based nonprofit unrelated to the day's origin, has run a public ceremony in Times Square on or near October 28 in recent years, one of the more visible annual events tied to the observance."
+        ]
+      },
+      {
+        "heading": "The 2013 tragedy that started it",
+        "body": [
+          "On April 18, 2013, three days after the Boston Marathon bombing, MIT police officer Sean Collier was ambushed and shot in his patrol car by the two men responsible for the attack; he was 26 and had served with the MIT police department for just over a year. His brother, Andrew Collier, began advocating almost immediately for a national day honoring first responders generally, not his brother specifically, a distinction Andrew has repeated in multiple interviews since. Reporter Barbara A. Schwartz's Police1 column, published that October, quotes Andrew explaining the trigger: the first Memorial Day the Collier family endured without Sean, which made him ask why there was a day honoring troops who serve overseas but nothing comparable for \"first responders,\" the people who serve, in his words, here at home.",
+          "Andrew's research into how a national observance actually gets created was not encouraging. Schwartz's article recounts his discovery that Martin Luther King Jr. Day took two separate petition drives, one with 300,000 signatures that failed and a second with six million that succeeded, and fourteen more years after that before every state observed it. With his sister Jennifer, Andrew launched his own petition later in 2013, and the resulting campaign, eventually joined by the nonprofit All Clear Foundation, ran for years before any bill reached a floor vote of either chamber of Congress."
+        ]
+      },
+      {
+        "heading": "Eleven bills, two Senate votes, zero in the House",
+        "body": [
+          "The full legislative record, checked directly against GovTrack's mirror of the primary congressional record, runs to eleven separate bills and resolutions across six Congresses, and this calendar found only two that ever passed a floor vote, both in the Senate, in different years, for different sessions of the same resolution.",
+          "H.R.4109 (113th Congress, introduced February 27, 2014) would have required the President to designate a legal public holiday; it died in committee without a vote. H.Con.Res.87 (114th Congress, October 26, 2015) and H.R.5425 (114th Congress, June 9, 2016, a repeat of the 2014 holiday-creation approach) both died the same way. In the 115th Congress, Senate Concurrent Resolution 15 passed the Senate on August 3, 2017, the first floor-vote success in the record, designating October 28, 2017, specifically; its House companion, H.Con.Res.56, was referred to committee and never voted on. In the 116th Congress, the Senate repeated the success: an identical S.Con.Res.15 passed the Senate on June 5, 2019, after being reported out of committee the day before. Its House counterpart, H.Con.Res.37, sponsored by Representative Mark Meadows with Representatives Elijah Cummings and Rosa DeLauro among the original cosponsors, was voted out of the House Transportation and Infrastructure Committee on October 29, 2019, and had gathered 27 cosponsors by the time advocates publicized that vote in a December 12, 2019, press release; the committee's formal written report did not follow until nearly a year later, September 4, 2020. The resolution never received a floor vote and died when that Congress ended in January 2021. A separate bill that Congress, H.R.8724, the \"First Responders Day Act,\" introduced November 2, 2020, also died without a vote. In the 117th Congress, both H.Res.750 and S.Res.433, each introduced October 28, 2021, died the same way. The most recent attempt this calendar could find, H.Res.818 in the 118th Congress, was introduced October 26, 2023, and also died in committee.",
+          "Two Senate floor votes, in two different Congresses, out of eleven total tries; the House has not passed a single one."
+        ],
+        "image": {
+          "src": "/images/national-first-responders-day-timeline.svg",
+          "alt": "Timeline from 2013 to today showing Sean Collier's death and his brother's advocacy, the first 2014 bill, the Senate's 2017 and 2019 passages with House versions dying both times, more failed bills in 2021 and 2023, and presidential proclamations starting in 2022 with no statute behind any of them"
+        }
+      },
+      {
+        "heading": "The claim that overstates what happened in 2019",
+        "body": [
+          "Several trade-press accounts of the day's history, including at least one syndicated across multiple public-safety news sites, describe 2019 as the year \"National First Responders Day became a reality,\" naming Cummings and DeLauro as having \"sponsored the bill that passed in the U.S. House.\" Checked against the primary record, that description does not hold up on two points. First, H.Con.Res.37's actual lead sponsor was Representative Mark Meadows; Cummings and DeLauro were among its original cosponsors, a real distinction in how congressional resolutions are credited. Second, and more importantly, the resolution never passed the House at all. A December 12, 2019, press release from the advocacy group All Clear Foundation, announcing that H.Con.Res.37 had just been \"advanced\" by passing out of the House Transportation and Infrastructure Committee, quotes the foundation's own president asking lawmakers to \"bring HR37 to a House floor vote following December's recess\" — language that only makes sense if the floor vote had not yet happened. It never did; GovTrack's record for H.Con.Res.37 confirms the resolution was still pending when the 116th Congress ended in January 2021 and, under congressional rules, died with it.",
+          "The distinction matters for a reader trying to understand what actually backs the date. Passing a committee markup is a real step, and 2019's House committee vote was further than any earlier House attempt had gotten, but it is not the same thing as the resolution becoming law, or even the same thing as the House going on record with a floor vote. No source this calendar checked shows a House floor vote on National First Responders Day ever taking place, in 2019 or in any other year."
+        ]
+      },
+      {
+        "heading": "Presidents filled the gap Congress left",
+        "body": [
+          "With no statute on the books, federal recognition of the day has come entirely through the executive branch, and even that has been inconsistent. This calendar found presidential proclamations naming October 28 National First Responders Day in three consecutive years: Proclamation 10482 in 2022, Proclamation 10659 in 2023, and Proclamation 10845 in 2024, all issued by President Biden and all published in the Federal Register within a few days of the date itself. Each proclamation calls on Americans to observe the day with programs and ceremonies; none of them cites a statute, because none exists to cite.",
+          "Searching the Federal Register and the American Presidency Project's proclamation index for a 2025 proclamation, the first fully under the current administration, turned up nothing matching that title as of this page's research, even though the same sources show the administration issuing other, similarly worded first-responder proclamations that year, including one for Fire Prevention Week in October 2025. That gap does not prove no 2025 proclamation exists; it means this calendar could not locate one, and a reader checking closer to October 28 in any given year should not assume the White House will repeat a practice that has run for only three of the observance's roughly ten most active years and has already shown at least one apparent interruption."
+        ]
+      },
+      {
+        "heading": "Where this sits next to its calendar neighbors",
+        "body": [
+          "This calendar has now checked the federal paper trail behind several observances that popular sites describe as more official than the primary record supports, and National First Responders Day is a genuinely different case from most of them. [National Epilepsy Awareness Month](/epilepsy-awareness-month/) has three failed congressional resolutions and no successful floor vote in either chamber, ever. [ADHD Awareness Month](/adhd-awareness-month/) has five Senate resolutions that all passed, but only for a single September date each year, never for the month itself, and the practice stopped after 2008. [American Diabetes Month](/diabetes-awareness-month/) is the strongest of the group, with an actual 1982 presidential proclamation under a Senate joint resolution, renewed by name in 1985. National First Responders Day lands in between: unlike the epilepsy record, its resolution did pass a full chamber, twice; unlike the ADHD record, those two Senate passages named a single date rather than establishing a recurring practice, and the House never once matched the Senate's success. The result is an observance with a stronger paper trail than most of its neighbors and still, after eleven tries, no law."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National First Responders Day in 2026?",
+        "answer": "Wednesday, October 28, 2026. It falls on the same calendar date every year, though no federal statute fixes that date; it persists through a decade of congressional resolutions that consistently named October 28 and, since 2022, presidential proclamations naming the same date."
+      },
+      {
+        "question": "Is National First Responders Day a federal holiday?",
+        "answer": "No. No bill establishing it has ever passed both chambers of Congress, so there is no statute behind it. Government offices, schools, and banks run a normal schedule on October 28."
+      },
+      {
+        "question": "Who started National First Responders Day?",
+        "answer": "Andrew Collier, whose brother, MIT police officer Sean Collier, was killed by the Boston Marathon bombers on April 18, 2013. Andrew launched a petition and public campaign later that year, joined in later years by the nonprofit All Clear Foundation."
+      },
+      {
+        "question": "Did Congress ever pass a law creating National First Responders Day?",
+        "answer": "No. Eleven separate bills and resolutions were introduced between 2014 and 2023. A Senate resolution naming October 28 passed the full Senate twice, in 2017 and 2019, but a matching House resolution never received a floor vote in either year, and no version of the bill has ever become law."
+      },
+      {
+        "question": "Did the House of Representatives pass a National First Responders Day resolution in 2019?",
+        "answer": "No, despite that claim appearing in some trade-press accounts. The House version, H.Con.Res.37, was voted out of committee on October 29, 2019, and advocates publicized that vote in a December 2019 press release, but the resolution never received a full House floor vote, and it died when that Congress ended in January 2021."
+      },
+      {
+        "question": "Has a president ever issued a proclamation for National First Responders Day?",
+        "answer": "Yes. President Biden issued proclamations naming October 28 National First Responders Day in 2022, 2023, and 2024. This calendar could not find a matching proclamation for 2025 as of this page's research."
+      },
+      {
+        "question": "Is National First Responders Day the same as National First Responder Month?",
+        "answer": "No. National First Responder Month is a separate proposal for the month of May; a 2024 House resolution, H.Res.1185, sought to designate it but was introduced and died in committee without a vote, the same pattern as most of the October 28 attempts."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Brother of slain MIT officer seeks a National First Responders Day — Police1, October 15, 2013",
+        "url": "https://www.police1.com/police-heroes/articles/brother-of-slain-mit-officer-seeks-a-national-first-responders-day-rzq9SHfn8FFxlk6I/"
+      },
+      {
+        "label": "In Memory of Sean A. Collier — MIT Police, official account of the April 18, 2013, shooting",
+        "url": "https://police.mit.edu/memory-sean-collier"
+      },
+      {
+        "label": "H.R.4109 — 113th Congress, 2014, to require the President to designate a legal public holiday (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/113/hr4109"
+      },
+      {
+        "label": "S.Con.Res.15 — 115th Congress, 2017, passed the Senate August 3, 2017, never passed the House (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/115/sconres15"
+      },
+      {
+        "label": "S.Con.Res.15 — 116th Congress, 2019, passed the Senate June 5, 2019, never passed the House (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/116/sconres15"
+      },
+      {
+        "label": "H.Con.Res.37 — 116th Congress, 2019, died without a House floor vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/116/hconres37"
+      },
+      {
+        "label": "Congressional Resolution Advances to Designate Oct. 28 as National First Responders Day — All Clear Foundation, PRNewswire, December 12, 2019, source of the \"bring HR37 to a House floor vote\" quote above",
+        "url": "https://www.prnewswire.com/news-releases/congressional-resolution-advances-to-designate-oct-28-as-national-first-responders-day-300973596.html"
+      },
+      {
+        "label": "H.Res.818 — 118th Congress, 2023, the most recent attempt found, died without a vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/118/hres818"
+      },
+      {
+        "label": "H.Res.1185 — 118th Congress, 2024, proposing \"National First Responder Month\" in May, died without a vote (GovTrack.us)",
+        "url": "https://www.govtrack.us/congress/bills/118/hres1185"
+      },
+      {
+        "label": "National First Responders Day, 2024 — Presidential Proclamation 10845 (Federal Register)",
+        "url": "https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024"
+      },
+      {
+        "label": "Proclamation 10482 — National First Responders Day, 2022 (The American Presidency Project)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-10482-national-first-responders-day-2022"
+      },
+      {
+        "label": "Origin story: The history of National First Responders Day — FireRescue1, source of the overstated \"bill that passed in the U.S. House\" claim discussed above",
+        "url": "https://www.firerescue1.com/national-first-responders-day/articles/origin-story-national-first-responders-day-hWdwQqSAsvEx7KbP/"
+      }
+    ],
+    "image": "/images/national-first-responders-day-collier-memorial.jpg",
+    "imageAlt": "The Sean Collier Memorial at MIT, built to honor the police officer whose 2013 killing by the Boston Marathon bombers led his brother to begin the campaign for National First Responders Day",
+    "imageCredit": "Photo by Peacearth, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sean_Collier_Memorial_01.jpg)"
   }
 ];

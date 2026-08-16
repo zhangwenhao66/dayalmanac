@@ -1,0 +1,90 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of National First Responders Day, 2013 to today</title>
+  <desc id="desc">2013: MIT police officer Sean Collier is killed by the Boston Marathon bombers; his brother Andrew Collier begins advocating for a national day. 2014: the first bill, H.R.4109, is introduced and dies without a vote. 2017: the Senate passes S.Con.Res.15 designating October 28; the House companion resolution dies without a vote. 2019: the Senate passes an identical resolution again; a House resolution advances out of committee but never gets a floor vote. 2021: two more resolutions, one in each chamber, are introduced and both die without a vote. 2022: President Biden issues the first presidential proclamation for the day, with no statute behind it. 2023: one more House resolution dies in committee; a second presidential proclamation is issued. Today: no federal statute has ever passed both chambers; proclamations were issued in 2022, 2023, and 2024, and none had been found for 2025 as of this page's research.</desc>
+  <rect width="1200" height="630" fill="#faf7f0" />
+
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1f1d1a">National First Responders Day, bill by bill</text>
+  <text x="600" y="111" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#1f1d1a" opacity="0.6">Eleven bills across six Congresses; the Senate passed two, the House passed none</text>
+
+  <line x1="55" y1="360" x2="1145" y2="360" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 2013 -->
+  <circle cx="90" cy="360" r="9" fill="#2f4858" />
+  <text x="90" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">2013</text>
+  <text x="90" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="90" dy="0">Officer Collier</tspan>
+    <tspan x="90" dy="15">killed; brother</tspan>
+    <tspan x="90" dy="15">begins advocacy</tspan>
+  </text>
+
+  <!-- 2014 -->
+  <circle cx="236" cy="360" r="8" fill="#a8352b" />
+  <text x="236" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2014</text>
+  <text x="236" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="236" dy="0">H.R.4109,</tspan>
+    <tspan x="236" dy="15">first bill,</tspan>
+    <tspan x="236" dy="15">no vote</tspan>
+  </text>
+
+  <!-- 2017 -->
+  <circle cx="381" cy="360" r="8" fill="#b8860b" />
+  <text x="381" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2017</text>
+  <text x="381" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="381" dy="0">Senate passes;</tspan>
+    <tspan x="381" dy="15">House version</tspan>
+    <tspan x="381" dy="15">dies, no vote</tspan>
+  </text>
+
+  <!-- 2019 -->
+  <circle cx="527" cy="360" r="8" fill="#b8860b" />
+  <text x="527" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2019</text>
+  <text x="527" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="527" dy="0">Senate passes</tspan>
+    <tspan x="527" dy="15">again; House</tspan>
+    <tspan x="527" dy="15">stalls in committee</tspan>
+  </text>
+
+  <!-- 2021 -->
+  <circle cx="673" cy="360" r="8" fill="#a8352b" />
+  <text x="673" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2021</text>
+  <text x="673" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="673" dy="0">One more try</tspan>
+    <tspan x="673" dy="15">per chamber,</tspan>
+    <tspan x="673" dy="15">both die</tspan>
+  </text>
+
+  <!-- 2022 -->
+  <circle cx="819" cy="360" r="9" fill="#3d6b8a" />
+  <text x="819" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">2022</text>
+  <text x="819" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="819" dy="0">First presidential</tspan>
+    <tspan x="819" dy="15">proclamation —</tspan>
+    <tspan x="819" dy="15">no statute behind it</tspan>
+  </text>
+
+  <!-- 2023 -->
+  <circle cx="964" cy="360" r="8" fill="#a8352b" />
+  <text x="964" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2023</text>
+  <text x="964" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="964" dy="0">Last House bill</tspan>
+    <tspan x="964" dy="15">dies; second</tspan>
+    <tspan x="964" dy="15">proclamation issued</tspan>
+  </text>
+
+  <!-- Today -->
+  <circle cx="1110" cy="360" r="9" fill="#2f4858" />
+  <text x="1110" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">Today</text>
+  <text x="1110" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">
+    <tspan x="1110" dy="0">Still no</tspan>
+    <tspan x="1110" dy="15">statute; 2025</tspan>
+    <tspan x="1110" dy="15">proclamation unfound</tspan>
+  </text>
+
+  <!-- Legend -->
+  <g font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.75">
+    <circle cx="140" cy="480" r="6" fill="#2f4858" /><text x="154" y="484">Origin or current status</text>
+    <circle cx="140" cy="506" r="6" fill="#a8352b" /><text x="154" y="510">Bill or resolution died without a vote in either chamber</text>
+    <circle cx="640" cy="480" r="6" fill="#b8860b" /><text x="654" y="484">Passed the Senate; the House version never got a vote</text>
+    <circle cx="640" cy="506" r="6" fill="#3d6b8a" /><text x="654" y="510">Presidential proclamation, issued without a supporting statute</text>
+  </g>
+</svg>

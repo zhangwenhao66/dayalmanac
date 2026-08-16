@@ -1,33 +1,33 @@
 {
   "https://dayalmanac.com/national-bosses-day/": {
     "submitted_date": "2026-08-02",
-    "verified_status": "pending",
-    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission.",
-    "last_checked_date": "2026-08-12",
+    "verified_status": "stale_not_indexed",
+    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
+    "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection",
     "last_submitted_date": "2026-08-12"
   },
   "https://dayalmanac.com/national-boyfriend-day/": {
     "submitted_date": "2026-08-03",
-    "verified_status": "pending",
-    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin.",
+    "verified_status": "stale_not_indexed",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
     "last_submitted_date": "2026-08-13",
-    "last_checked_date": "2026-08-12",
+    "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/national-cat-day/": {
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
-    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data.",
-    "last_checked_date": "2026-08-12",
+    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查",
+    "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection",
     "last_submitted_date": "2026-08-10"
   },
   "https://dayalmanac.com/national-coffee-day/": {
     "submitted_date": "2026-08-03",
-    "verified_status": "pending",
-    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found.",
-    "last_checked_date": "2026-08-12",
+    "verified_status": "stale_not_indexed",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
+    "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/national-dog-day/": {

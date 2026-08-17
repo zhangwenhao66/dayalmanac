@@ -5051,6 +5051,141 @@ export const guides: Guide[] = [
     "image": "/images/november-birth-flower-chrysanthemum.jpg",
     "imageAlt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, none of them gold despite the flower's Greek name meaning \"golden flower\"",
     "imageCredit": "Photo by KENPEI, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_cvs2.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "october-birth-flower",
+    "category": "Birth Flowers",
+    "title": "October Birth Flower: Marigold and Cosmos, Borrowed Names",
+    "description": "October's birth flowers are marigold and cosmos, but the marigold's English name already belonged to a different, unrelated European flower first.",
+    "published": "2026-08-17",
+    "updated": "2026-08-17",
+    "coreSummary": "October's birth flowers are marigold and cosmos, per The Old Farmer's Almanac. The English word marigold originally named a different, unrelated European plant, Calendula officinalis, tied to medieval offerings at Virgin Mary shrines; Spanish explorers in Mexico later applied the same name to the visually similar Tagetes, which eclipsed Calendula in everyday English use after reaching England in the late 1500s. Two of the marigold's own common names, French marigold and African marigold, are geographic misnomers for a plant native only to Mexico and Central America. Cosmos was named in 1791 by Spanish botanist Antonio José Cavanilles, from the Greek kosmos for order and ornament, describing a flower also native to Mexico.",
+    "sections": [
+      {
+        "heading": "Marigold and cosmos, and why October needed two",
+        "body": [
+          "October's flowers, per The Old Farmer's Almanac, are marigold and cosmos. July, August, September, and November, the other months already covered on this site, each carry two flowers apiece rather than one, and the reason keeps repeating: unlike birthstones, which the American jewelry trade standardized in a single 1912 list, no single body ever settled birth flowers. Competing 19th-century floriography guides assigned different blooms to the same month, and the trade lists that survived kept more than one entry instead of picking a winner.",
+          "Neither flower's own backstory follows from that gap, though, and both marigold and cosmos turn out to carry a specific twist that a florist's caption tends to leave out. Start with the word \"marigold\" itself: it was, technically, already taken."
+        ]
+      },
+      {
+        "heading": "The Aztec name, and an English name borrowed from someone else's flower",
+        "body": [
+          "In Nahuatl, the flower now sold as October's marigold was called cempoalxóchitl, from cempoal(li), \"twenty,\" and xóchitl, \"flower.\" According to research by scholar Doris Heyden cited by the education group Mexicolore, the plant appears more often than almost any other flower in chronicles of ancient Mexico, was cultivated in home gardens and orchards, and was used in ceremonies and medicine tied to Tlaloc, the rain and agriculture deity. A separate, often-repeated legend, not verified history, credits the flower's color to Tonatiuh, the sun god: two lovers, Xochitl and Huitzilin, climb his mountain to bring an offering; Huitzilin dies in battle; a grieving Xochitl asks to be reunited with him, and Tonatiuh turns her into a golden flower that a hummingbird then opens with a landing.",
+          "The English word marigold, meanwhile, had already been attached to a different plant for over a century before Spanish explorers ever reached Mexico. Marigold traces to \"marygolde\" in late-14th-century English, a contraction of Mary's gold, according to the Online Etymology Dictionary. The story behind that name, recorded by the University of Dayton's Marian research institute, involves medieval Europeans placing bright golden flowers at Virgin Mary shrines and statues when they couldn't afford real gold offerings. The flower in that story was Calendula officinalis, native to southern Europe, not the Mexican plant now assigned to October.",
+          "When Spanish colonists in Mexico encountered Tagetes, its bright orange blooms reminded them of Calendula, and they extended the familiar name to the new plant. Tagetes grew easily and caught on fast once it reached England in the late 16th century, popular enough that it eventually eclipsed Calendula in everyday use of the unqualified word \"marigold.\" The original plant needed a qualifier of its own afterward, and still carries one: pot marigold."
+        ],
+        "image": {
+          "src": "/images/october-birth-flower-marigold.jpg",
+          "alt": "A French marigold (Tagetes patula) in full bloom, a Mexican-native plant whose English name was borrowed from the unrelated European flower Calendula",
+          "credit": "Photo by Jim Evans, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Marigold_--_October_Birthday_Flower_--_Tagetes_patula.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Two more borrowed names: French marigold, African marigold",
+        "body": [
+          "The naming confusion doesn't stop at \"marigold.\" Tagetes patula carries the common name French marigold, and Tagetes erecta carries African marigold, alongside Aztec marigold and Mexican marigold, according to Wikipedia's entries for both species. Neither plant is native to France or Africa; both trace back to Mexico and Central America, the same region as cempoalxóchitl's Nahuatl origin. The African name is generally traced to the plant's path into wider European cultivation by way of North Africa, not to any wild population growing there.",
+          "That leaves the flower carrying four common names, marigold, French marigold, African marigold, and Aztec marigold, and only the last one describes where the plant actually grows wild."
+        ]
+      },
+      {
+        "heading": "Marigold and Día de los Muertos",
+        "body": [
+          "The Old Farmer's Almanac reads the marigold as a symbol of stubbornness and determination, with its bright color standing for warmth, passion, and creativity. The flower's best-known modern role goes beyond a florist's color chart: cempasúchil, as it's called in modern Spanish, is a prominent fixture of Día de los Muertos, used to decorate gravesites and build home altars across Mexico and Mexican communities elsewhere. Families commonly describe the flower's strong scent and color as a way of guiding the spirits of the dead back to the offerings left for them, a belief tied to celebration rather than a claim this page can verify.",
+          "That modern practice sits on top of the older ceremonial use Heyden's research documents, rather than starting from nothing. The specific belief about guiding spirits is a living cultural tradition, not a documented pre-Hispanic record, and this page treats it as such."
+        ]
+      },
+      {
+        "heading": "Cosmos: a Spanish botanist's word for cosmic order",
+        "body": [
+          "Cosmos as a plant genus dates to 1791, established by Spanish botanist Antonio José Cavanilles from specimens collected in Mexico, with Cosmos bipinnatus as the type species. Some florist and gardening sites give 1797 for this naming, but the original publication citation preserved in taxonomic reference databases such as World Flora Online points to 1791. Cavanilles took the name from the Greek kosmos, meaning order, ornament, or the universe, the same root behind the English word cosmos for the study of the universe as an ordered whole.",
+          "The name is usually credited to the flower's shape: most cosmos cultivars display eight ray florets, evenly spaced around a central disc in close to perfect radial symmetry, a pattern several botanical references single out as the plant's most identifiable trait. Cosmos, like marigold, is native to Mexico, so October's two birth flowers share a continent of origin even though they entered European garden literature by very different routes: one folk name attached by visual resemblance to an unrelated plant, the other a formal Latin genus name coined outright by a working botanist. The Old Farmer's Almanac reads cosmos as a symbol of order, balance, peace, and innocence, with a secondary association with luck."
+        ],
+        "image": {
+          "src": "/images/october-birth-flower-cosmos.jpg",
+          "alt": "A pink Cosmos bipinnatus flower showing the eight evenly spaced ray florets that likely inspired its Greek name, kosmos, meaning order or ornament",
+          "credit": "Photo by Hugo.arg, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CosmosBipinnatus002.JPG), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "If your birthday falls in Libra or Scorpio",
+        "body": [
+          "October births split across two zodiac signs. In Western tropical astrology, Libra runs from roughly September 23 to October 22, and Scorpio picks up around October 23 and continues to November 21, though as this site's [Scorpio dates](/scorpio-dates/) page documents, that exact boundary shifts by a day depending on the year and which reference is doing the counting. Readers born in the back half of the month can check that page for a closer look at why the line moves.",
+          "Readers who came here for a neighboring month can find [September's birth flower](/september-birth-flower/), aster and morning glory, or [November's](/november-birth-flower/), chrysanthemum and peony. Readers after October's birthstone instead of its flower can check this site's [birthstones by month](/birthstones-by-month/) page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is October's birth flower?",
+        "answer": "Marigold and cosmos, per The Old Farmer's Almanac. October is one of several months on this site's calendar with two flowers instead of one, a gap that traces back to competing 19th-century floriography guides that never agreed on a single list."
+      },
+      {
+        "question": "What does the marigold mean as a birth flower?",
+        "answer": "Stubbornness and determination in general, with its bright color read as warmth, passion, and creativity, per The Old Farmer's Almanac. It's also central to Día de los Muertos, decorating gravesites and home altars across Mexico."
+      },
+      {
+        "question": "Is \"marigold\" originally the name of a different flower?",
+        "answer": "Yes. The English word marigold, a contraction of \"Mary's gold,\" originally named Calendula officinalis, a European flower tied to medieval offerings at Virgin Mary shrines. Spanish explorers later applied the same name to the visually similar Tagetes they found in Mexico, and Tagetes eventually eclipsed Calendula in everyday use of the word after reaching England in the late 1500s."
+      },
+      {
+        "question": "Why are French marigold and African marigold not actually from France or Africa?",
+        "answer": "Both Tagetes patula (French marigold) and Tagetes erecta (African marigold) are native to Mexico and Central America, per Wikipedia. The African name is generally traced to the plant's path into European cultivation by way of North Africa, not to any wild population there; the French name reflects a similar accident of how the plant spread through Europe rather than where it grows."
+      },
+      {
+        "question": "What is the connection between marigolds and Día de los Muertos?",
+        "answer": "Marigolds, called cempasúchil in Spanish, are a prominent fixture of the holiday, used to decorate gravesites and build home altars. Families commonly describe the flower's scent and color as a way of guiding the spirits of the dead back to the offerings left for them. The flower's ceremonial use in Mexico predates the modern holiday, appearing throughout chronicles of ancient Mexico under its Nahuatl name, cempoalxóchitl."
+      },
+      {
+        "question": "What does the cosmos flower mean, and where does its name come from?",
+        "answer": "The Old Farmer's Almanac reads cosmos as order, balance, peace, and innocence, with a secondary association with luck. The name comes from the Greek kosmos, meaning order or ornament, chosen in 1791 by Spanish botanist Antonio José Cavanilles, likely for the flower's evenly spaced, symmetrical ray florets."
+      },
+      {
+        "question": "I was born in early October. Is my zodiac sign Libra or Scorpio?",
+        "answer": "Likely Libra, which runs from roughly September 23 to October 22 in Western tropical astrology. Scorpio picks up around October 23. Readers born close to that boundary can check this site's Scorpio dates page, since the exact day shifts depending on the year and reference used."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — October Birth Flowers: Marigold and Cosmos",
+        "url": "https://www.almanac.com/october-birth-flowers"
+      },
+      {
+        "label": "Online Etymology Dictionary — Marigold",
+        "url": "https://www.etymonline.com/word/marigold"
+      },
+      {
+        "label": "University of Dayton, Marian Library — Marigolds: Mary's Gold",
+        "url": "https://udayton.edu/imri/mary/m/marigolds-marys-gold.php"
+      },
+      {
+        "label": "Mexicolore — Cempoalxóchitl",
+        "url": "https://www.mexicolore.co.uk/aztecs/flora-and-fauna/cempoalxochitl"
+      },
+      {
+        "label": "Wikipedia — Tagetes erecta (African marigold)",
+        "url": "https://en.wikipedia.org/wiki/Tagetes_erecta"
+      },
+      {
+        "label": "Wikipedia — Tagetes patula (French marigold)",
+        "url": "https://en.wikipedia.org/wiki/Tagetes_patula"
+      },
+      {
+        "label": "World Flora Online — Cosmos Cav.",
+        "url": "https://www.worldfloraonline.org/taxon/wfo-4000009452"
+      },
+      {
+        "label": "Illinois Wildflowers — Common Cosmos (Cosmos bipinnatus)",
+        "url": "https://www.illinoiswildflowers.info/weeds/plants/cosmos.html"
+      },
+      {
+        "label": "Blooming Expert — Cosmos Flower Meaning",
+        "url": "https://www.bloomingexpert.com/flower-meaning/cosmos/"
+      }
+    ],
+    "image": "/images/october-birth-flower-marigold.jpg",
+    "imageAlt": "A French marigold (Tagetes patula) in full bloom, a Mexican-native plant whose English name was borrowed from the unrelated European flower Calendula",
+    "imageCredit": "Photo by Jim Evans, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Marigold_--_October_Birthday_Flower_--_Tagetes_patula.jpg), CC BY-SA 4.0"
   }
 ];
 

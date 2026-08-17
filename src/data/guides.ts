@@ -5186,6 +5186,134 @@ export const guides: Guide[] = [
     "image": "/images/october-birth-flower-marigold.jpg",
     "imageAlt": "A French marigold (Tagetes patula) in full bloom, a Mexican-native plant whose English name was borrowed from the unrelated European flower Calendula",
     "imageCredit": "Photo by Jim Evans, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Marigold_--_October_Birthday_Flower_--_Tagetes_patula.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "world-kindness-day",
+    "category": "Observances",
+    "title": "World Kindness Day: November 13, and Singapore's Other 1997",
+    "description": "World Kindness Day falls every November 13, launched in 1998 by a 1997 Tokyo coalition. Singapore's own kindness group, founded the same year, is unrelated.",
+    "published": "2026-08-17",
+    "updated": "2026-08-17",
+    "coreSummary": "World Kindness Day is observed every November 13, first held in 1998 by the World Kindness Movement, a coalition of national kindness organizations that formed at a conference in Tokyo in 1997 around Japan's Small Kindness Movement. A second organization with a nearly identical name and the same 1997 founding year, the Singapore Kindness Movement, is Singapore's own civic body and unrelated in origin; it went on to serve as the World Kindness Movement's secretariat from 2003 to 2012, even though Wikipedia dates Singapore's own first observance of the day itself to 2009. No United Nations body has designated the day, unlike International Women's Day; the World Kindness Movement's US affiliate says it is still lobbying for that recognition. Australia offers the clearest case of formal government backing found here: a 2012 Declaration of Support from the federal Minister for School Education placed the day on the National School Calendar for more than 9,000 schools.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "November 13 every year, worldwide. The date is fixed and does not shift for weekends.",
+      "status": "conventional",
+      "source": {
+        "label": "World Kindness Day — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/World_Kindness_Day"
+      },
+      "occurrences": [
+        { "date": "2026-11-13", "weekday": "Friday" },
+        { "date": "2027-11-13", "weekday": "Saturday" },
+        { "date": "2028-11-13", "weekday": "Monday" },
+        { "date": "2029-11-13", "weekday": "Tuesday" },
+        { "date": "2030-11-13", "weekday": "Wednesday" },
+        { "date": "2031-11-13", "weekday": "Thursday" }
+      ]
+    },
+    "founding": {
+      "status": "documented",
+      "text": "World Kindness Day has no single named founder; it was launched by the World Kindness Movement, a coalition of national kindness organizations that took shape at a conference in Tokyo in 1997, convened around Japan's Small Kindness Movement and joined by associations from countries including Australia, Thailand, the United Kingdom and the United States. The World Kindness Movement's US affiliate names its own founder among that founding group: Will Glennon, who also founded the Random Acts of Kindness organization. The coalition held the first World Kindness Day on November 13, 1998. A separate organization founded the very same year, the Singapore Kindness Movement, is often folded into this same origin story; it is in fact Singapore's own civic body, registered as a nonprofit society on January 31, 1997, as successor to the Singapore Courtesy Council, which had overseen the National Courtesy Campaign since its 1979 launch, at the urging of then-Prime Minister Goh Chok Tong. The Singapore Kindness Movement went on to serve as the World Kindness Movement's secretariat from 2003 to 2012, coordinating the international coalition for nearly a decade, yet Wikipedia's own account dates Singapore's first observance of World Kindness Day itself to 2009, not to the movement's 1997 or 1998 founding years. In the United Kingdom, the observance is fronted as Kindness Day UK, co-founded by David Jamilly and Louise Burfitt-Dons. How many national organizations currently belong to the World Kindness Movement is not settled: secondary accounts checked for this page put the figure anywhere from 24 to 33 countries, a range wide enough that this page does not repeat any single count as definitive.",
+      "source": {
+        "label": "About Us — The World Kindness USA (Tokyo 1997 founding, Will Glennon)",
+        "url": "https://theworldkindnessusa.org/about-us"
+      }
+    },
+    "sections": [
+      {
+        "heading": "An NGO coalition sets this date, not a government",
+        "body": [
+          "World Kindness Day did not arrive through an act of any national legislature or a United Nations resolution. It exists because a group of nongovernmental kindness organizations, meeting in Tokyo in 1997, agreed to hold one, and then did — for the first time on November 13, 1998. That origin sets it apart from observances this calendar has covered that trace to a specific statute, such as [National Grandparents Day](/national-grandparents-day/), which exists because Congress passed Public Law 96-62 in 1979.",
+          "That difference matters for what the date can and cannot claim. There is no codified text anywhere that \"designates\" November 13 the way 36 U.S.C. § 125 designates the first Sunday after Labor Day for grandparents. The date holds because the World Kindness Movement and its member organizations have kept observing it every year since 1998, and because schools, charities and, in a few cases, national governments have chosen to adopt it. It is a convention with three decades of consistent use behind it, not a legal designation."
+        ]
+      },
+      {
+        "heading": "Two organizations, one shared founding year",
+        "body": [
+          "The most-repeated detail about World Kindness Day's history is that it traces to a 1997 Tokyo conference. What gets left out of most retellings is that a second, entirely separate organization was founded that same year, under a nearly identical name, and later became deeply entangled with the first.",
+          "The Singapore Kindness Movement is a Singaporean nonprofit, registered as a society on January 31, 1997. It did not originate at the Tokyo conference. It succeeded the Singapore Courtesy Council, which had run a National Courtesy Campaign since its 1979 launch, and was relaunched at the start of 1997 after then-Prime Minister Goh Chok Tong called, in his 1996 New Year address, for Singapore to complement its economic development with social and cultural development. Roughly 80,000 secondary school students took part in the relaunch.",
+          "The two organizations' paths crossed repeatedly after that, at three separate points that are easy to blur into one. Kind Canada, a member organization, states that the World Kindness Movement was itself \"officially launched\" in Singapore on November 18, 2000, three years after the founding Tokyo conference and two years after the first World Kindness Day. From 2003 to 2012, the Singapore Kindness Movement then served as secretariat for the World Kindness Movement, handling coordination for the international coalition for nearly a decade. Yet Wikipedia's own article on World Kindness Day states plainly that Singapore observed the day itself for the first time only in 2009, six years into that nine-year secretariat term and nine years after the Movement's 2000 launch event there. Hosting the movement's launch event, running its coalition affairs, and marking the day on its own calendar turn out to be three different milestones for Singapore, spread across a decade, and most calendar listings that mention Singapore at all collapse them into one."
+        ]
+      },
+      {
+        "heading": "How the day picked up formal government backing",
+        "body": [
+          "Most of World Kindness Day's spread has happened informally, through schools, charities, and workplace campaigns rather than legislation. Australia is the clearest documented exception found for this page, and it took several separate steps over roughly a decade to get there.",
+          "The paper trail starts in 2010, when the New South Wales Federation of Parents and Citizens Associations, acting at the request of an individual named Michael Lloyd-White, wrote to the state's Minister of Education asking that World Kindness Day be placed on the NSW School Calendar. Two years later, in 2012, the Chairman of World Kindness Australia took the request to the federal level. Peter Garrett, then federal Minister for School Education, Early Childhood and Youth, signed a Declaration of Support for World Kindness Australia, which placed the day on the National School Calendar for more than 9,000 schools. That same year, Marie Bashir, then Governor of New South Wales, hosted the first Government House event marking the day, accepting a \"Cool To Be Kind\" award from year 3 and 4 students.",
+          "Beyond Australia, adoption has generally stayed civic rather than statutory. In the United Kingdom, David Jamilly and Louise Burfitt-Dons run the day as Kindness Day UK. In Canada, it is marked with a Kindness Concert. In 2017, the Slovenian volunteer organization Humanitarček brought the observance to Slovenia through its own Randomised Kindness project. None of these involve the kind of national legislation this calendar found behind, for instance, [Domestic Violence Awareness Month](/domestic-violence-awareness-month/)'s one-year 1989 congressional designation."
+        ],
+        "image": {
+          "src": "/images/world-kindness-day-timeline.svg",
+          "alt": "Timeline showing World Kindness Day's history: a 1997 Tokyo conference forms the World Kindness Movement while Singapore separately registers its own Singapore Kindness Movement the same year; the first World Kindness Day is held in 1998; Singapore serves as the Movement's secretariat from 2003 to 2012 despite Wikipedia dating its own first observance to 2009; Australia adds the day to its National School Calendar in 2012; Slovenia's Humanitarček joins in 2017"
+        }
+      },
+      {
+        "heading": "Not a United Nations day, despite the name",
+        "body": [
+          "\"World\" in the title invites an assumption that a body like the United Nations stands behind it, the way the UN designates International Women's Day or International Day of Peace. No UN resolution or proclamation naming World Kindness Day turned up in researching this page. This calendar's page on [International Men's Day](/international-mens-day/) documents the same gap for a different observance: a global-sounding name with no UN action attached, and, in that case, exactly one country, Romania, that has given the date the force of national law.",
+          "The World Kindness Movement's US affiliate states this goal directly on its own site, listing among its objectives advocacy \"for the US government to co-sponsor a motion at the United Nations General Assembly, encouraging all member nations to unanimously sign a Declaration of Support for a Kinder World.\" That an advocacy group is still working toward UN recognition is itself evidence the recognition has not yet arrived."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is World Kindness Day?",
+        "answer": "Every November 13, worldwide. It is a fixed calendar date and does not move for weekends or shift year to year."
+      },
+      {
+        "question": "Who started World Kindness Day?",
+        "answer": "The World Kindness Movement, a coalition of national kindness organizations that formed at a conference in Tokyo in 1997, organized around Japan's Small Kindness Movement and joined by groups from Australia, Thailand, the United Kingdom, the United States and other countries. There is no single named founder of the day itself; it was a group decision by the coalition, which held the first World Kindness Day on November 13, 1998."
+      },
+      {
+        "question": "Is the Singapore Kindness Movement the same organization as the World Kindness Movement?",
+        "answer": "No, despite the near-identical name and shared founding year. The Singapore Kindness Movement is Singapore's own civic body, registered as a nonprofit society on January 31, 1997, as successor to the Singapore Courtesy Council that had run the National Courtesy Campaign since its 1979 launch. It later served as the World Kindness Movement's secretariat from 2003 to 2012, but Wikipedia's own account dates Singapore's first observance of World Kindness Day itself to 2009."
+      },
+      {
+        "question": "Is World Kindness Day recognized by the United Nations?",
+        "answer": "No. No UN resolution or proclamation designating World Kindness Day was found in researching this page. The World Kindness Movement's US affiliate states on its own site that it is still advocating for the US government to co-sponsor a UN General Assembly motion in support of the day, which indicates that recognition has not yet been secured."
+      },
+      {
+        "question": "Is World Kindness Day a public holiday?",
+        "answer": "No source checked for this page describes it as a paid public holiday anywhere. It is an observance carried mainly through schools, nonprofits and workplace campaigns rather than a day off work. Australia is the clearest exception found here on the government-backing side: a 2012 Ministerial Declaration of Support placed the day on the National School Calendar for over 9,000 schools, though that places it on a school events calendar, not among Australia's public holidays."
+      },
+      {
+        "question": "Which countries officially observe World Kindness Day?",
+        "answer": "There is no single authoritative list. The World Kindness Movement's member organizations span a range secondary sources put anywhere from 24 to 33 countries, depending on the source and when the count was taken, so this page does not repeat any one figure as settled. Countries with documented, organized observances include Australia (via a 2012 federal Declaration of Support and the National School Calendar), the United Kingdom (Kindness Day UK), Canada, Singapore, and, since 2017, Slovenia."
+      }
+    ],
+    "sources": [
+      {
+        "label": "World Kindness Day — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/World_Kindness_Day"
+      },
+      {
+        "label": "Singapore Kindness Movement — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Singapore_Kindness_Movement"
+      },
+      {
+        "label": "About Us — The World Kindness USA (founding member, objectives, UN advocacy)",
+        "url": "https://theworldkindnessusa.org/about-us"
+      },
+      {
+        "label": "World Kindness Day 2025: How do you show kindness? — BBC Newsround",
+        "url": "https://www.bbc.co.uk/newsround/articles/c20eyp0e39yo"
+      },
+      {
+        "label": "World Kindness Movement — Kind Canada / International Kindness Day",
+        "url": "https://www.internationalkindnessday.org/world-kindness-movement"
+      },
+      {
+        "label": "Gulf News readers celebrate World Kindness Day (2009 coverage)",
+        "url": "https://gulfnews.com/news/uae/general/gulf-news-readers-celebrate-world-kindness-day-1.526824"
+      },
+      {
+        "label": "World Kindness Day - 13 November Annually — Carevan Wangaratta (Slovenia 2017 detail)",
+        "url": "https://www.carevanwangaratta.org.au/blog/world-kindness-day-13-november-annually"
+      }
+    ],
+    "image": "/images/world-kindness-day-timeline.svg",
+    "imageAlt": "Timeline showing World Kindness Day's history: a 1997 Tokyo conference forms the World Kindness Movement while Singapore separately registers its own Singapore Kindness Movement the same year; the first World Kindness Day is held in 1998; Singapore serves as the Movement's secretariat from 2003 to 2012 despite Wikipedia dating its own first observance to 2009; Australia adds the day to its National School Calendar in 2012; Slovenia's Humanitarček joins in 2017"
   }
 ];
 

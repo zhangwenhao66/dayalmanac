@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of World Kindness Day, 1997 to 2017</title>
+  <desc id="desc">1997: A Tokyo conference, convened around Japan's Small Kindness Movement, forms the World Kindness Movement coalition; the same year, Singapore separately registers its own Singapore Kindness Movement, an unrelated national body. 1998: The World Kindness Movement holds the first World Kindness Day on November 13. 2003 to 2012: The Singapore Kindness Movement serves as the World Kindness Movement's secretariat, though Wikipedia dates Singapore's own first observance of the day to 2009. 2012: Australia places World Kindness Day on its National School Calendar after a Ministerial Declaration of Support. 2017: The Slovenian volunteer organization Humanitarček brings the day to Slovenia as part of its Randomised Kindness project.</desc>
+  <rect width="1200" height="620" fill="#faf7f0" />
+
+  <text x="600" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1f1d1a">World Kindness Day: two 1997 foundings, one shared year</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">A Tokyo coalition and a Singapore civic body started the same year, independently</text>
+
+  <!-- Movement lane -->
+  <text x="70" y="180" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#2f4858">World Kindness Movement (Tokyo coalition)</text>
+  <line x1="70" y1="200" x2="1140" y2="200" stroke="#d8e0e2" stroke-width="3" />
+
+  <!-- Singapore lane -->
+  <text x="70" y="330" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#8a6a3a">Singapore Kindness Movement (separate body)</text>
+  <line x1="70" y1="350" x2="700" y2="350" stroke="#e6d9c2" stroke-width="3" />
+  <line x1="700" y1="350" x2="820" y2="350" x2="820" y2="200" stroke="#c9bba0" stroke-width="2" stroke-dasharray="4 4" />
+  <line x1="820" y1="350" x2="820" y2="200" stroke="#c9bba0" stroke-width="2" stroke-dasharray="4 4" />
+
+  <!-- 1997 Tokyo -->
+  <circle cx="150" cy="200" r="9" fill="#2f4858" />
+  <text x="150" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">1997</text>
+  <text x="150" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="150" dy="0">Tokyo conference forms</tspan>
+    <tspan x="150" dy="16">the World Kindness</tspan>
+    <tspan x="150" dy="16">Movement coalition</tspan>
+  </text>
+
+  <!-- 1997 Singapore -->
+  <circle cx="150" cy="350" r="8" fill="#8a6a3a" />
+  <text x="150" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="150" dy="0">Singapore registers its</tspan>
+    <tspan x="150" dy="16">own Kindness Movement,</tspan>
+    <tspan x="150" dy="16">unrelated in origin</tspan>
+  </text>
+
+  <!-- 1998 first day -->
+  <circle cx="420" cy="200" r="9" fill="#2f4858" />
+  <text x="420" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">1998</text>
+  <text x="420" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="420" dy="0">First World Kindness</tspan>
+    <tspan x="420" dy="16">Day, November 13</tspan>
+  </text>
+
+  <!-- 2003-2012 secretariat -->
+  <circle cx="700" cy="350" r="8" fill="#8a6a3a" />
+  <text x="700" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="700" dy="0">2003-2012: Singapore</tspan>
+    <tspan x="700" dy="16">serves as the Movement's</tspan>
+    <tspan x="700" dy="16">secretariat</tspan>
+  </text>
+
+  <!-- 2009 Singapore observes -->
+  <circle cx="820" cy="200" r="7" fill="#5b6d45" />
+  <text x="820" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2009</text>
+  <text x="820" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="820" dy="0">Wikipedia dates</tspan>
+    <tspan x="820" dy="16">Singapore's own first</tspan>
+    <tspan x="820" dy="16">observance to this year</tspan>
+  </text>
+
+  <!-- 2012 Australia -->
+  <circle cx="960" cy="200" r="8" fill="#7a3b3b" />
+  <text x="960" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2012</text>
+  <text x="960" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
+    <tspan x="960" dy="0">Australia adds it to the</tspan>
+    <tspan x="960" dy="16">National School Calendar,</tspan>
+    <tspan x="960" dy="16">9,000+ schools</tspan>
+  </text>
+
+  <!-- 2017 Slovenia -->
+  <circle cx="1110" cy="200" r="9" fill="#2f4858" />
+  <text x="1090" y="165" text-anchor="end" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1f1d1a">2017</text>
+  <text x="1090" y="225" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">
+    <tspan x="1090" dy="0" text-anchor="end">Humanitarček brings</tspan>
+    <tspan x="1090" dy="16" text-anchor="end">the day to Slovenia,</tspan>
+    <tspan x="1090" dy="16" text-anchor="end">Randomised Kindness</tspan>
+  </text>
+
+  <text x="600" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Navy marks the international coalition and its November 13 day. Tan marks Singapore's separate civic body, founded the</tspan>
+    <tspan x="600" dy="20">same year, which later hosted the coalition's secretariat for nearly a decade before Singapore observed the day itself.</tspan>
+  </text>
+</svg>

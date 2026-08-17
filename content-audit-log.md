@@ -661,3 +661,104 @@
   "escalation": null
 }
 ```
+
+## national-dog-day
+
+```json
+{
+  "url_slug": "national-dog-day",
+  "url": "https://dayalmanac.com/national-dog-day/",
+  "last_audited": "2026-08-17",
+  "published_date": "2026-08-04",
+  "audit_focus": "选择本篇因其published=2026-08-04，是content-audit-log.md中last_audited最早/从未审计过的29篇里published日期最早的一篇。诊断出4条本篇专属审计点：①正文的差异化卖点直接建立在'Wikipedia当前正文自相矛盾（infobox写8/26，history部分写8/14）'这一活的、可能变化的外部事实上，须核实该矛盾是否仍然存在；②文章反复引用NY州参议院2013年J2656号决议的逐字原文（'selfless service of search and rescue dogs at Ground Zero'），须逐字核对该决议原文是否仍能访问、措辞是否一致；③商标状态断言（2005年申请/2006年最终驳回/2007年因未答复视为放弃，™仅为普通法主张非联邦注册）是可被后续重新申请推翻的时效性断言，须核实是否有新申请；④ASPCA收容所统计数字（'2025年最新数据'）本身是每年更新的动态数据源，须核实审计当天是否仍是最新年份数据。",
+  "findings": [
+    {
+      "dimension": "1. EEAT",
+      "status": "未发现问题",
+      "detail": "证据具体且可核查：USPTO商标流水号78631456全套时间线（申请/office action/最终驳回/放弃日期）、NY州参议院决议号J2656及逐字条文、ASPCA当前年度分品类统计、Wikipedia版本级矛盾的具体引文，均非泛泛而谈。"
+    },
+    {
+      "dimension": "2. 事实准确性",
+      "status": "发现1处已随外部来源变化而过期的断言（CONFIRMED，已修复），其余核心断言全部核实准确",
+      "detail": "①【已修复】caveat字段与'The date: August 26...'小节均断言'Wikipedia当前history部分仍写August 14、与infobox矛盾'——直接curl现有Wikipedia正文确认已不含'August 14'字样，history部分现在写'The date, August 26, was chosen...'与infobox一致；进一步取该词条完整编辑历史（action=history）确认2026年8月8日22:22有编辑者LondonGirl97!，编辑摘要原文'history said August 14, it's August 26'，独立审核agent额外调出该版本与上一版本的完整diff，逐字确认改动前原文确实是'August 14'、改动后确实是'August 26'，仅改了这一个数字，证明本文发布时（8/4）的原始断言准确、但已在4天后（8/8）被Wikipedia自行修正，本次审计前一直未更新。②NY州参议院J2656决议'Ground Zero'/'one million dogs'逐字引文：nationaldogday.com/legislation页面虽对本机curl返回JS渲染的Wix静态外壳，但完整HTML源码里内嵌的原始文本（未渲染但已在HTML中）逐字核对'created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero'与'approximately one million dogs have been saved through adoptions nationwide'均完全匹配，准确。③商标状态：WebSearch多方独立核实justia.com当前记录状态码'602-Abandoned-Failure To Respond Or Late Response'，日期2007年6月7日，最终驳回2006年11月8日，与文章完全一致；额外搜索2024-2026年是否有新的'NATIONAL DOG DAY'商标申请，未发现任何新申请或注册，文章'共法权利非联邦注册'的结论审计当天仍成立。④ASPCA统计：直接curl aspca.org官方页面确认当前公布的仍是'2025 Animal Shelter Statistics'（2.8百万只狗进入收容所、约200万只被领养、32万只被安乐死），文章标注的'current as of 2025'与官网当前口径一致，尚未被2026年度数据取代，无需更新。⑤sponsor（Terry Gipson参议员）细节：WebSearch可确认其2013-2014年任期与该决议时间吻合、且同期确实推动多项动物相关立法，但因legislation页面/nysenate.gov原始决议页对本机curl均返回403（Cloudflare/Wix bot拦截，非真实链接失效——WebSearch多次独立查询均能检索到该页面内容片段，判定为可信但未能100%逐字核对具名发起人这一项细节），未发现任何矛盾证据，维持原状未改动。"
+    },
+    {
+      "dimension": "3. 时效性",
+      "status": "发现1处（同上，已修复），另涉及updated字段更新",
+      "detail": "published字段已存在（2026-08-04，与git首次commit日期一致，无需回填），本次仅更新updated字段为2026-08-17（触碰内容的timeliness/factual修复，符合SKILL第2步的updated字段更新条件）。"
+    },
+    {
+      "dimension": "4. 竞品差异化",
+      "status": "未发现问题，差异化依然成立",
+      "detail": "dataforseo-query实测'national dog day'当前SERP：dayalmanac.com未进入前10（站点仍新，符合预期），头部为nationaldaycalendar.com/官网/Wikipedia/nationaltoday.com/sproutsocial.com等，逐一核对这些页面的可见摘要均未像本文一样正面拆穿'商标已放弃/两个起源故事互不承认对方'这两条具体反差，本文的增量价值真实、非同质化改写。"
+    },
+    {
+      "dimension": "5. SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl+浏览器JS双重实测线上HTML：title 81字符、description 167字符（略长于常规150-160字符但与本站同类文章风格一致，未见回归性劣化，不单独处理）；canonical自指；单一h1；6个h2层级完整无跳级；robots.txt显式Allow全部AI爬虫（GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended）；sitemap-index.xml含本文URL；JSON-LD共9段（FAQPage×1/Article×1/BreadcrumbList×1/Event×6，Event数量与dateRule.occurrences六年数据一一对应）。"
+    },
+    {
+      "dimension": "6. GEO审计",
+      "status": "达标（自评约89/99），无需结构性改动",
+      "detail": "按本站同一套99分制11维度自评：权威原文引语14/16（NY决议/USPTO记录/ASPCA数据均逐字引用有据）、统计数据完整性12/14、可引用性11/13（coreSummary+FAQ均自包含）、结构规范性12/12、表达流畅度9/10、语义密度7/8、权威信号7/8（8条具名sources）、专业术语5/6、鲁棒性5/5（正面处理反方/矛盾证据）、跨域连接4/4（5处入站+1处出站内链）、易懂表达3/3，合计约89/99，已达标≥80。本次两处事实修复+3处AI写作痕迹清理均不涉及GEO薄弱维度重构，未触发'需要重新验证是否≥80'的条款（该条款仅适用于GEO本身不达标时的修复），但仍在Step5复核阶段重新自评确认改动后分数未下降。"
+    },
+    {
+      "dimension": "7. 早期内容AI味补漏",
+      "status": "发现3处（CONFIRMED，已修复）——本文published=2026-08-04，早于avoid-ai-writing 2026-08-07接入日期，触发补查条款",
+      "detail": "机械扫描全entry（含sources[].label等元数据字段，按L-0810-4教训不能只扫正文）：em-dash总计11处，其中10处位于source.label/sources[].label字段（全站'机构名 — 页面标题'既有引用标签惯例，与national-boyfriend-day审计先例判定一致，未处理），唯1处位于dateRule.caveat叙事字段本身（'...adopted their first dog\" — an internal contradiction...'），属于真正的正文级破折号命中，独立审核agent确认后已改写为逗号连接消除破折号。另有2处'genuinely'空洞强调语（1处在'The date'小节正文，1处在FAQ第4条），独立审核agent逐句评估两处均不改变句意即可删除（Instance 1: 'in circulation'本身已含完整语义；Instance 2: 真正起对比作用的是'separate'+具体机构名而非该副词），已删除。花体引号：0处。AI高频词表（delve/tapestry/testament/underscore/boasts/furthermore/moreover/leverage/robust/seamless/unprecedented/elevate/unlock/navigate/landscape）：0处命中。"
+    },
+    {
+      "dimension": "8. 外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "8条sources逐一curl实测：nationaldogday.com/about1、/legislation、en.wikipedia.org、aspca.org、learn.alphapaw.com均200；nysenate.gov、trademarks.justia.com、weho.org三条对本机curl返回403（Cloudflare/反爬拦截特征），但WebSearch分别独立核实这三个URL本身仍被搜索引擎正常索引且能检索到原文片段内容（如weho.org的'World Dog Day 2025'页面标题与内容片段均可通过site:搜索取回），判定为bot拦截而非真实链接失效，与本站既有审计先例（national-boyfriend-day对nationaldaycalendar.com的同类判定）一致，未采取行动。"
+    },
+    {
+      "dimension": "9. 内链健康度",
+      "status": "未发现问题，非孤儿页",
+      "detail": "grep确认5处真实入站链接（december-birthstone/virgo-dates/march-birthstone/national-taco-day/national-bosses-day各一处桥接句），另加related-guides轮转窗口机制覆盖；本文自身也有1处出站链接指向national-cat-day。内链健康度良好，双向连接充分。"
+    },
+    {
+      "dimension": "10. Schema与可见内容一致性",
+      "status": "未发现问题",
+      "detail": "构建产物dist/national-dog-day/index.html核对：JSON-LD的Event×6与dateRule.occurrences六年数据一致，FAQPage的6个问答与源数据faq数组逐条一致，本次修复的3处文字改动均已正确反映在构建后的可见HTML正文中（curl实测'August 8, 2026'新增文字在渲染后页面出现2次，与两处改动位置吻合），无历史遗留的schema-content脱节。"
+    },
+    {
+      "dimension": "11. 合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "WebSearch核实'Colleen Paige'（National Dog Day创始人）近期是否有新增争议/诉讼/丑闻，未查到任何相关结果（搜索返回的均是同名不同人的无关新闻）。主题本身（宠物领养观察日）无敏感政治/宗教/暴力内容。"
+    },
+    {
+      "dimension": "12. 配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "线上配图https://dayalmanac.com/images/national-dog-day.jpg实测200；Wikimedia Commons原始页面（File:Golden_Retriever_puppy.jpg）实测200，许可字段仍为CC BY-SA 3.0、摄影师Camilo Arango，与imageCredit字段表述完全一致，未变化。"
+    },
+    {
+      "dimension": "13. AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "宠物领养主题无暴力/限制类目风险；标题与正文内容高度一致非标题党；ads.txt实测内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，publisher ID正确；/privacy/页面实测200，可正常访问。无灰色地带需要升级给Owen。"
+    }
+  ],
+  "independent_confirmations": [
+    "CONFIRMED（独立agent，直接调取Wikipedia该词条2026-08-08版本与上一版本的完整diff）：Wikipedia当前正文已不含本文caveat/正文引用的'August 14'矛盾表述，且该矛盾在本文发布当天（8/4）确实真实存在、于8天后（8/8）被编辑者LondonGirl97!修正——文中断言在发布当时准确，审计当下已过期，需要改写为过去时/说明性表述而非简单删除或简单保留现在时。",
+    "CONFIRMED（独立agent，逐字审阅dateRule.caveat/founding/sections/sources全字段并附完整位置清单）：全entry仅dateRule.caveat一处破折号命中真正叙事性正文字段，其余10处均为source.label/sources[].label引用标签格式惯例；独立agent对我最初'仅sources[]数组内的label算例外'这一表述提出了字面层面的精确纠错（founding.source.label/dateRule.source.label是单数source对象、结构上不在sources数组内），但同时明确确认这些字段与数组内的label是同一种'机构名 — 页面标题'引用标签惯例、非叙事内容，核心结论（仅1处正文级破折号需要修复）未被推翻。",
+    "CONFIRMED（独立agent，逐句评估语义必要性）：2处'genuinely'均为可安全删除而不改变句意的空洞强调语，删除后两个句子的对比/事实主张均完整保留。"
+  ],
+  "actions_taken": [
+    "改写dateRule.caveat字段：将'Wikipedia当前history部分仍写August 14'的现在时断言，改写为说明'该矛盾曾在本文发布时存在、已于2026-08-08被Wikipedia编辑者修正'的过去时表述，同时消除该字段内唯一的正文级破折号。",
+    "改写sections[1]（'The date: August 26, with one source confusing itself'）第二段：同上，改为准确反映Wikipedia已修正的现状，保留'本日历专门捕捉这类细微不一致'这一差异化论点（该论点在Wikipedia已修正的情况下依然成立，甚至因为记录了修正过程而更显可信）。",
+    "删除FAQ第4条答案中1处'genuinely'空洞强调语。",
+    "删除sections[1]正文中1处'genuinely'空洞强调语。",
+    "更新updated字段：2026-08-04 → 2026-08-17（published字段保持不变）。"
+  ],
+  "seo_score": "修复前后均无技术SEO问题，未发生变化",
+  "geo_score": "修复前后自评均约89/99（本次改动为事实性/文风修复，未涉及GEO结构维度，Step5复核确认分数未下降）",
+  "escalation": null,
+  "deploy": {
+    "commit_content": "15dc6f4",
+    "commit_indexnow": "d3f309b",
+    "build": "npm test 33/33通过，npm run build 43页0报错",
+    "live_verify": "git push后轮询4次（每次间隔20秒）确认https://dayalmanac.com/national-dog-day/ 返回200且新增文字'August 8, 2026'在渲染后页面出现2次，与修复位置吻合",
+    "indexnow": "node tools/submit-indexnow.mjs /national-dog-day/ — Bing 200 / Yandex 200"
+  }
+}
+```

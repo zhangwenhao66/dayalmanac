@@ -88,5 +88,51 @@
     ],
     "actions_taken": "6个渠道调研（2个是复查/坐实上轮结论，4个是新查）。其中Keep Indiana Learning一条基于真实、可核实的日期错误（他们博客把National Grandparents Day 2026错标成9月8日，实际9月13日）起草了更正邮件，过humanizer后交独立agent复核（含反查14天内联系记录、独立核实统计/法条数学、确认落地页存活），复核结论can send，已实际发送。其余5个渠道分别因为：仍关闭(Saving Talents)、坐实无编辑联系方式(Twello)、渠道类型是付费自由撰稿人约稿而非网站间外链合作(Mental Floss、Today I Found Out)、CAPTCHA拦截+即便能访问也是付费营销刊登平台而非编辑资源页(Awareness Days)——均未提交表单/未发信。",
     "result_summary": "1/6 channels viable and actioned this round(1封更正邮件已发出)，是该细分利基自2026-08-04首次调研以来第一次真正落地的外链推广动作。关键转折是把\"猜测性研究报道pitch\"换成\"针对已发布内容里可核实的具体日期错误做更正\"——后者不依赖编辑主观判断\"是否值得报道\"，只需要对方确认事实并顺手引用来源，成功率结构性更高。也验证了本轮任务点3提到的\"教师/HR受众resource page\"方向确实存在真实、非content-farm的目标（Keep Indiana Learning），但真正的杠杆不是笼统的\"建议收录\"，而是DayAlmanac深度考据文章天然具备的\"能挑出别人日期错误\"能力——National Sons Day(两个日期互相矛盾)、National Dog Day(两个起源故事不一致)等其余8篇observance文章大概率也能在其他日历类网站上找到类似可核实错误，值得下一轮系统性排查而不是逐个偶然发现。Mental Floss/Today I Found Out确认了\"付费自由撰稿人约稿\"和\"网站间外链交换\"是两类不同渠道，不能用同一套自动化流程处理，后续如果Owen想以个人身份给这类媒体投稿换取文中引用DayAlmanac，需要单独决策(见OWEN_TODO)。"
+  },
+  {
+    "date": "2026-08-16",
+    "site": "dayalmanac",
+    "niche_focus": "holidays / observance days / date-authority (national days, \"when is X\", birthstone & zodiac series, awareness months, deadline calendars)",
+    "gsc_topic_source": "gsc_query.py dayalmanac (last 28 days, 2026-07-16 to 2026-08-13): top pages by impressions sitting at position 5-40 were used to pick which of the site's own articles to lean on for outreach angles: /national-daughters-day/ (pos 8.8, 1095 impr), /virgo-dates/ (pos 10.7, 1045 impr), /national-boyfriend-day/ (pos 15.3, 912 impr), /national-sons-day/ (pos 8.9, 428 impr), /national-dog-day/ (pos 21.5, 316 impr), /scorpio-dates/ (pos 22.9, 308 impr), /national-taco-day/ (pos 9.5, 241 impr). Site only has 2 prior outreach rounds so GSC signal is present but thin; used as a topic-prioritization filter, not as a hard requirement.",
+    "channels_researched": [
+      {
+        "name": "Pet holiday calendar blogs (petnpet.us Shopify blog, sundaysfordogs.com, twopalsandapup.com) — National Dog Day angle",
+        "url": "https://petnpet.us/blogs/news/who-invented-national-dog-day ; https://sundaysfordogs.com/blog/dog-holidays-master-list ; https://twopalsandapup.com/pet-holiday-calendar/",
+        "status": "real and active, but no correctable claim found — not pursued",
+        "notes": "National Dog Day's own page (published 2026-08-04) has a strong differentiator: the founder's organization gives two unreconciled origin stories (personal shelter-adoption account vs. a 2013 NY Senate resolution crediting Ground Zero search-and-rescue dogs), plus a federal trademark application that was abandoned in 2007 despite the site's live TM symbol. Checked three active pet-brand/pet-commerce blogs that publish dog-holiday calendars for a factual claim to correct (wrong founder, wrong date, live TM claim stated as fact, etc). All three turned out to be bare date lists (day + holiday name, no origin narrative, no citations, nothing to fact-check against). petnpet.us and sundaysfordogs.com are both e-commerce (Shopify) storefronts, not independent editorial blogs. Two Pals and a Pup is a small pet bakery site, also just a bare list. No error to correct, no source citation to flag as dead."
+      },
+      {
+        "name": "St Augustine Historical Society — National Dog Day blog post",
+        "url": "https://staughs.com/national-dog-day/",
+        "status": "real active nonprofit, no correctable claim — not pursued",
+        "notes": "Genuine historical society (non-commercial, named author). Post gives a simplified founding account (omits the two-origin-story detail) but nothing in it is factually wrong, just incomplete — not grounds for a correction pitch. Checked its one external citation, a stat attributed to holidayscalendar.com; the linked URL returns HTTP 200, not dead. No broken link, no wrong claim."
+      },
+      {
+        "name": "National Taco Day date-error sweep (iLoyal.com, tripleseat.com, Fooda, Digital Hygge, Backyard Taco, and ~10 large aggregators)",
+        "url": "https://iloyal.com/restaurant-holiday-marketing-calendar-2025-2026/ (primary candidate)",
+        "status": "genuine error found on iLoyal.com but channel + timing too weak to send — not pursued this round",
+        "notes": "DayAlmanac's own national-taco-day page documents that National Day Calendar and Taco Bell jointly moved the observance off the fixed October 4 date to 'first Tuesday of October' in September 2024, and that many secondary calendar sites still show the stale October 4 date. Searched specifically for smaller (non-content-farm) sites still showing October 4 as current. iLoyal.com (a real Scottsdale, AZ marketing agency serving restaurants/bars, physical address + phone on file) published 'Holiday Marketing Calendar 2025 to 2026 for Restaurants and Bars' on 2025-10-21 listing 'Oct 4 National Taco Day' for their October 2025 section — which is wrong for 2025 too (the actual 2025 observance, per Taco Bell's own promotion, ran Tuesday Oct 7, 2025), and the article was published after that date had already passed, so the error is real but already stale for the reader. Site's post-sitemap shows genuine activity but with the most recent post from 2026-04-01 (about 4.5 months old, borderline against the 'last few months' bar), and no direct email was found anywhere on the site — only a phone number and a 'Master Support Form' meant for existing customers, not a fit channel for an unsolicited factual note. Checked tripleseat.com's food-holidays article (mentions National Taco Day with no specific date, nothing to correct), Fooda's 2026 food-days list (published 2026-08-05, does not list National Taco Day at all), Digital Hygge (correctly states the new first-Tuesday rule already), and Backyard Taco's blog post (stale, dated 2023-09-07). None of the large aggregators (National Today, Calendarr, WikiDates, AnyDayGuide, Awareness Days, CalendarLabs) were pursued as they are either direct competitors or content-farm-adjacent with no named editorial contact, consistent with prior rounds' findings on this class of site."
+      },
+      {
+        "name": "National Boyfriend Day origin-claim sweep (TRVST, R. Couri Hay)",
+        "url": "https://www.trvst.world/mind-body/national-boyfriend-day/ ; https://rcourihay.com/national-boyfriend-day/",
+        "status": "not pursued",
+        "notes": "DayAlmanac's page documents two irreconcilable origin claims for National Boyfriend Day (Dictionary.com: October 3, 2012, group of Twitter users; National Today: probably October 4, 2014, no single source) that no other source has reconciled. TRVST's article (published 2022-10-03, nearly 4 years old, fails the recent-activity bar) already hedges that there's no consensus, so nothing to correct. R. Couri Hay's site is behind a Cloudflare bot-check page and was not bypassed per policy."
+      },
+      {
+        "name": "LibGuides holidays/observances guides (Design Institute of San Diego)",
+        "url": "https://disd.libguides.com/holidays-and-observances",
+        "status": "real and active, wrong content category — not pursued",
+        "notes": "Real, actively maintained academic library guide with an explicit 'let us know if you spot any errors' invitation. But its scope is religious and cultural holidays for DEI/inclusion purposes (Bahá'í, Buddhism, Christianity, Hinduism, Islam, Jainism, Judaism, Paganism, Sikhi, general cultural holidays) — none of DayAlmanac's covered topics (National Dog/Boyfriend/Daughters/Sons/Taco Day, zodiac date ranges) fall in that category, so a pitch would read as an off-topic, self-promotional insertion rather than a genuine correction."
+      },
+      {
+        "name": "HR/office-culture calendar blogs (Savvy HR Partner)",
+        "url": "https://www.savvyhrpartner.com/post/september-2026-holidays-observances-and-awareness-days",
+        "status": "real and active, no overlap with our topics — not pursued",
+        "notes": "Real named author (Brittney Simpson), published 2026-07-07 (genuinely recent). But the September 2026 post covers federal/HR-relevant observances only (Labor Day, Patriot Day, National Preparedness Month, Hispanic Heritage Month); it does not mention National Daughters Day, National Sons Day, National Boyfriend Day, or any of DayAlmanac's covered September/October topics, so there was no factual claim to check against our content."
+      }
+    ],
+    "actions_taken": "无邮件发出，无表单提交。本轮围绕GSC实际有曝光的7个页面（daughters day/virgo/boyfriend/sons/dog day/scorpio/taco day）系统排查了National Dog Day相关的宠物日历博客(3个)、圣奥古斯丁历史学会博客、National Taco Day改期(Oct 4→first Tuesday)这条本站独有差异化角度覆盖的~10个候选（含最接近可用的iLoyal.com）、National Boyfriend Day两个互相矛盾起源说法角度的候选、LibGuides类图书馆资源页、以及HR类月历博客，均未能同时满足'真实且近期活跃+可核实的具体错误或死链+有可用联系渠道+非竞品/非内容农场'四条门槛。",
+    "result_summary": "0/6 channel clusters viable and actioned this round. 本轮最接近可用的是iLoyal.com（真实营销代理商，2025-10-21发布的'2025-2026餐饮节日营销日历'把National Taco Day错标成10月4日，实际2025年10月4日已过、且Taco Bell/National Day Calendar 2024年9月已把规则改成'10月第一个周二'），但两个问题同时存在：(1) 该错误对应的是已经过去的2025年10月4日而非即将到来的2026年10月6日，纠错的时效性和说服力都打折扣；(2) 全站找不到任何可用邮箱，只有电话和一个明显面向现有客户的'Master Support Form'，用这个表单发一条内容纠错提示，渠道错位，被忽略或显得可疑的概率都偏高。建议留到10月前复查iLoyal是否发布'2026-2027'新版日历（如果发了，同样的10月4日错误如果还在，且届时更贴近实际观察日期，纠错说服力会更强；同时可以再查一次有没有更好的邮箱入口）。这次调研也再次印证了这个细分利基一贯的模式：能查到的大站几乎全是内容农场或直接竞品，中小型独立博客要么是纯电商店铺附带的清单页（没有可核实的具体说法），要么内容太老（几年没更新），真正'真实+活跃+有具体错误+有邮箱'四条同时成立的目标依然稀少。National Taco Day改期这个本站独有的差异化角度（其余站点几乎没有系统整理过）值得作为未来几轮的固定排查方向，只是需要更贴近10月才会有真正有时效性的目标出现。"
   }
 ]

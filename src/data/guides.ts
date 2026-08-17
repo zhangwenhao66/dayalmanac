@@ -5314,6 +5314,128 @@ export const guides: Guide[] = [
     ],
     "image": "/images/world-kindness-day-timeline.svg",
     "imageAlt": "Timeline showing World Kindness Day's history: a 1997 Tokyo conference forms the World Kindness Movement while Singapore separately registers its own Singapore Kindness Movement the same year; the first World Kindness Day is held in 1998; Singapore serves as the Movement's secretariat from 2003 to 2012 despite Wikipedia dating its own first observance to 2009; Australia adds the day to its National School Calendar in 2012; Slovenia's Humanitarček joins in 2017"
+  },
+  {
+    "slug": "anniversary-gifts-by-year",
+    "category": "Anniversaries",
+    "title": "Anniversary Gifts by Year: Two Lists That Never Agreed",
+    "description": "Two anniversary gift lists, a materials list and a jointly endorsed gemstone list, disagree on nearly every year from 1 through 24, then start matching at 25.",
+    "published": "2026-08-17",
+    "updated": "2026-08-17",
+    "coreSummary": "Anniversary gifts run on two separate systems that were never built to reconcile: a materials list assembled piecemeal since the 1500s and filled in by a jewelers' trade group in 1937, and a gemstone list several jewelry associations jointly endorse but none of them solely owns. Checked side by side against each list's own current source, the two disagree on nearly every year from 1 through 24, then start matching at 25 because the traditional list had already assigned precious metals and gems to its milestone years.",
+    "sections": [
+      {
+        "heading": "Two lists, not one, and they don't answer the same question",
+        "body": [
+          "Look up \"anniversary gifts by year\" on ten different sites and most present a single tidy chart, no footnote about where it came from, as if one committee somewhere assigned a lifetime of household objects to a lifetime of marriages. There are actually two separate charts in wide circulation, built for different purposes by different people, and they were never meant to reconcile. One is a list of materials: paper, cotton, leather, wood, tin, climbing eventually to silver, gold, and diamond. The other is a list of gemstones: garnet, sapphire, ruby, emerald, assigned to the same years but chosen for an entirely different reason. Nothing forces the two into agreement, and for most of the first two and a half decades of marriage, they don't agree at all.",
+          "A third, shorter list assigns a flower to each year instead. It only covers years up to the fiftieth and gets far less attention than the other two, sourced by florist and lifestyle publications rather than any jewelry trade group. It exists for the same underlying reason the other two do: nobody publishing these lists claims sole authority over them, and nothing stops a new version from appearing tomorrow."
+        ]
+      },
+      {
+        "heading": "A German custom that reached English print by the 1850s",
+        "body": [
+          "The earliest documented version of this custom has nothing to do with jewelers or retailers. In German-speaking regions, couples were marking a 25th anniversary with a silver wreath and a 50th with a gold one as far back as the 1500s, according to Swiss folklore scholarship cited in the standard reference on the custom's history. The idea didn't spread into English-speaking countries with any real frequency until the 19th century, and it arrived as a much shorter list than the one couples use today: paper recommended for the first year, wood for the fifth, tin for the tenth, according to the historian Stephanie Coontz's history of marriage. The earliest print appearance found for this shorter list is an 1858 edition of Robert B. Thomas's The (Old) Farmer's Almanack, which references the fifth-year \"wooden wedding\" by name.",
+          "Even then, most years had nothing assigned to them. By the early 1900s a home-reference book was recommending straw for the second year, candy for the third, leather for the fourth, flowers for the seventh, linen for the twelfth, crystal for the fifteenth, and china for the twentieth, a patchwork that filled some gaps while leaving others, including the sixth, ninth, eleventh, and thirteenth through nineteenth years, unaddressed."
+        ]
+      },
+      {
+        "heading": "1937: a jewelers' trade group fills in what was left blank",
+        "body": [
+          "Before 1937, only eight anniversaries carried any generally recognized material: the first, fifth, tenth, fifteenth, twentieth, twenty-fifth, fiftieth, and seventy-fifth. That year, the American National Retail Jewelers Association, the trade group that later merged into what is now Jewelers of America, published an expanded list assigning a material to every year from the first through the twentieth and then to every fifth year after that, according to the compiled history behind Wikipedia's own sourced entry on the custom. Jewelers of America's own current \"About\" page confirms the organization was founded in 1906, though its present materials don't revisit the 1937 expansion by name.",
+          "The motive wasn't sentimental. A trade association filling in a gift list, one purchasable item at a time, for an occasion that recurs every single year of a marriage, is by definition a commercial project. That doesn't make the resulting list fake or the customs built on it meaningless. It does mean the list was never handed down by a government body, a religious authority, or a single named founder, the same gap [this calendar's own page on National Boyfriend Day](/national-boyfriend-day/) found behind a different kind of unofficial calendar entry."
+        ]
+      },
+      {
+        "heading": "The US list and the UK list don't match either",
+        "body": [
+          "Even within the \"traditional\" materials list, there isn't one single version. Wikipedia's own comparison table, sourced separately to a Chicago Public Library reference guide for the US column and the 1978-79 edition of Pears Cyclopaedia for the UK column, shows the two national lists naming entirely non-overlapping materials, no shared word at all, for three of the first nine years: the fourth (fruit and flowers in the US, linen or silk in the UK), the sixth (iron in the US, sugar in the UK), and the ninth (pottery in the US, copper in the UK). Four more of those nine years overlap only partway. The first anniversary is paper in the US and \"cotton or paper\" in the UK. The second is cotton in the US and \"paper or cotton\" in the UK. The seventh is wool and copper in the US against wool alone in the UK. The eighth is bronze in the US against \"bronze, salt\" in the UK. Only the third year (leather) and the fifth (wood) are worded identically on both lists.",
+          "The US list also names materials for the eleventh, thirteenth, and fourteenth years, steel, lace, and ivory respectively, where the cited edition of the UK list leaves those years blank. The UK list, in turn, names materials for the sixty-fifth, seventieth, and eightieth years, blue sapphire, platinum, and oak, that don't appear on the US side at all. Both charts agree at the third year (leather) and the fifth (wood), then again continuously from the fifteenth (crystal) through the sixtieth (diamond), but that run of agreement covers barely half the years either list actually assigns."
+        ]
+      },
+      {
+        "heading": "The gemstone list has several endorsers and no sole author",
+        "body": [
+          "The second major system, the one assigning gemstones rather than household materials, developed later and separately from the materials list, and no single trade body claims to have authored it alone. Jewelers of America's own current buying guide, checked directly for this page, describes the version it publishes as \"the official jewelry anniversary list, endorsed by Jewelers of America and other jewelry organizations,\" language that names a shared endorsement without naming every endorser or dating when the list first appeared. [This calendar's own chart of official birthstones by month](/birthstones-by-month/) found the same kind of multi-organization tangle on the birthstone side of the same jewelry trade, where a chart revised more than once by different bodies still isn't treated as any single organization's sole property.",
+          "Checked directly against Jewelers of America's own live chart, the gemstone list gives the first year gold jewelry, the second garnet, the third pearl, the fourth blue topaz, the fifth sapphire, the sixth amethyst, the seventh onyx, the eighth tourmaline, the ninth lapis lazuli, and the tenth diamond. None of those ten years match the traditional materials list for the same year. Paper isn't gold. Cotton isn't garnet. Wood isn't sapphire. The two systems were built to answer different questions, and it shows."
+        ]
+      },
+      {
+        "heading": "Where the two lists suddenly agree",
+        "body": [
+          "The disagreement doesn't hold at every year. Checked side by side, Jewelers of America's gemstone chart and the traditional materials list actually match at the twenty-fifth (silver), thirtieth (pearl), fortieth (ruby), forty-fifth (sapphire), fiftieth (gold), and sixtieth (diamond) anniversaries. They diverge again at the thirty-fifth, where the traditional list calls for coral and the gemstone list calls for emerald, and at the fifty-fifth, where the traditional list calls for emerald and the gemstone list moves to alexandrite instead. Emerald itself doesn't disappear between the two lists; it simply moves from the fifty-fifth year on the traditional list to the thirty-fifth year on the gemstone list, arriving twenty years earlier.",
+          "The pattern isn't a coincidence so much as an artifact of how the two lists were built. The traditional list had already assigned precious metals and gemstones to most of its milestone years, silver at 25, gold at 50, diamond at 60, because those were genuinely the most valuable materials a 19th-century household could imagine giving. When a 20th-century jewelry trade built a gemstone list decades later, it had no reason to replace a milestone year that was already a gemstone. The two systems only visibly compete in the earlier years, where the traditional list was still assigning paper, wood, and tin and the newer list substituted a gem regardless of what came before it."
+        ]
+      },
+      {
+        "heading": "The one recognition that's genuinely official, and it isn't a gift",
+        "body": [
+          "None of the lists above carry any government backing. The recognition that does exist works completely differently, and starts on its own separate schedule. Buckingham Palace's Anniversaries Office, continuing what its own page describes as a tradition dating to 1917, sends a message from the monarch for diamond (60th), 65th, and 70th wedding anniversaries and every year after that, to citizens of the Commonwealth realms. Australia's Governor-General sends a message starting at the 50th anniversary and again at the 60th, 65th, 70th, and every subsequent year, per the Governor-General's own current page. Canada's Governor-General sends one starting at 50 years married, on a five-year cadence through the 65th, then every year starting at the 70th, per the Governor-General's own site. In the United States, the White House's own current greeting request form, checked directly for this page, offers three wedding-anniversary categories, 25th, 50th, and 51+, with the exact number of years married entered separately, and that 25th-anniversary option is earlier than the 50th-anniversary threshold commonly repeated online. That's a genuine government program, closer in kind to the actual congressional resolutions [this calendar's own page on Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traced through several specific years than to anything on the gift lists above.",
+          "That timing gap is still real even counting the earliest of these. A couple's first anniversary already has an assigned material (paper), an assigned gemstone (gold jewelry), and, depending which chart is consulted, an assigned flower (the carnation). The earliest formal government recognition found for this page, the White House's own 25th-anniversary greeting category, doesn't arrive for another 24 years. The UK, Australian, and Canadian programs run decades later still. The lists that assign something to year one were built by an almanac, a trade association, and a handful of florist and lifestyle publications. The recognition that eventually arrives comes from a completely different, much slower-moving set of institutions."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the official gift for a wedding anniversary?",
+        "answer": "There isn't a single official answer. Two separate systems are in wide use: a traditional materials list (paper, cotton, leather, and so on) that a jewelers' trade group expanded in 1937, and a modern gemstone list jointly endorsed by several jewelry associations but owned by none of them. Checked side by side, the two disagree on every year from 1 through 24 and largely agree from 25 through 60."
+      },
+      {
+        "question": "Who decided the anniversary gift list?",
+        "answer": "No government body or single founder did. The materials list traces to a German wreath custom documented since the 1500s, was picked up piecemeal in 19th-century English-speaking countries, and was filled in for most years by the American National Retail Jewelers Association, now Jewelers of America, in 1937. The gemstone list came later from the jewelry trade and, per Jewelers of America's own current page, is endorsed by Jewelers of America \"and other jewelry organizations\" rather than authored by one."
+      },
+      {
+        "question": "Is the UK anniversary gift list the same as the US list?",
+        "answer": "No. Per the sourced comparison published on Wikipedia, the two lists name entirely non-overlapping materials for the 4th, 6th, and 9th years (fruit and flowers vs. linen and silk; iron vs. sugar; pottery vs. copper) and only partly overlapping materials for the 1st, 2nd, 7th, and 8th years. The US list also names materials for the 11th, 13th, and 14th years that the cited UK edition leaves blank, while the UK list names materials for the 65th, 70th, and 80th years that the US list doesn't cover at all."
+      },
+      {
+        "question": "What's the difference between the traditional and modern anniversary gift?",
+        "answer": "The traditional list assigns a material, paper, cotton, wood, tin, and so on, and dates to the 19th century and earlier. The modern list assigns a gemstone instead and was popularized decades later by the jewelry trade. Checked directly against Jewelers of America's own current chart, the two systems only agree starting at the 25th anniversary; every year from the 1st through the 24th gets a different answer from each list."
+      },
+      {
+        "question": "When do you get a card from the King or Queen for a wedding anniversary?",
+        "answer": "Per Buckingham Palace's own Anniversaries Office page, citizens of the Commonwealth realms become eligible starting at the diamond (60th) wedding anniversary, and again at the 65th, 70th, and every year after that. The office describes the practice as continuing a tradition dating back to 1917."
+      },
+      {
+        "question": "Does the US president send a card for wedding anniversaries?",
+        "answer": "Yes. The White House's own current greeting request form, checked directly for this page, offers three wedding-anniversary categories: 25th, 50th, and 51+, with the exact number of years married entered as a separate field. That 25th-anniversary option is earlier than the 50th-anniversary threshold commonly repeated online."
+      },
+      {
+        "question": "Are the milestone colors, like silver and gold, from the traditional list or the gemstone list?",
+        "answer": "Both, which is why they don't conflict. The traditional materials list already assigned silver to the 25th and gold to the 50th anniversary in the 19th century, long before the modern gemstone list existed. When jewelry associations built the gemstone list decades later, they kept those two years as the same metals rather than replacing them, which is why the two lists still agree at 25 and 50 even though they disagree almost everywhere else."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Wedding anniversary (sourced US/UK traditional lists and government recognition)",
+        "url": "https://en.wikipedia.org/wiki/Wedding_anniversary"
+      },
+      {
+        "label": "Jewelers of America — Anniversary jewelry buying guide (current gemstone chart)",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/anniversary"
+      },
+      {
+        "label": "Jewelers of America — About (1906 founding)",
+        "url": "https://www.jewelers.org/about"
+      },
+      {
+        "label": "The Royal Household — Anniversary messages (Buckingham Palace)",
+        "url": "https://www.royal.uk/anniversary-messages"
+      },
+      {
+        "label": "Governor-General of the Commonwealth of Australia — Receiving an anniversary message",
+        "url": "https://www.gg.gov.au/about-governor-general/receiving-anniversary-message-governor-general"
+      },
+      {
+        "label": "Governor General of Canada — Request Birthday and Anniversary Greetings",
+        "url": "https://www.gg.ca/en/contact-us/birthday-anniversary-greetings"
+      },
+      {
+        "label": "The White House — Greetings request form (anniversary categories)",
+        "url": "https://www.whitehouse.gov/greetings/"
+      }
+    ],
+    "image": "/images/anniversary-gifts-by-year-grid.svg",
+    "imageAlt": "Grid comparing the traditional materials list to Jewelers of America's modern gemstone list at years 1, 5, 10, 15, and 20, where the two disagree, and at years 25, 30, 40, 50, and 60, where both lists give the same answer"
   }
 ];
 

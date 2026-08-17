@@ -1,0 +1,129 @@
+<svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Traditional material vs. modern gemstone, year by year</title>
+  <desc id="desc">Years 1, 5, 10, 15, and 20 give a different answer on the traditional materials list than on Jewelers of America's modern gemstone list: paper vs. gold, wood vs. sapphire, tin vs. diamond, crystal vs. ruby, china vs. emerald. Years 25, 30, 40, 50, and 60 give the same answer on both lists: silver, pearl, ruby, gold, and diamond.</desc>
+
+  <rect width="1200" height="620" fill="#faf7f0" />
+
+  <text x="600" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#1f1d1a">Traditional material vs. modern gemstone, year by year</text>
+  <text x="600" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.7">Checked against Wikipedia's sourced US traditional list and Jewelers of America's current gemstone chart</text>
+
+  <!-- Row labels -->
+  <text x="30" y="130" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1f1d1a" opacity="0.75">Early years</text>
+  <text x="30" y="330" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1f1d1a" opacity="0.75">Milestone years</text>
+
+  <!-- Row 1: diverging years, 5 cols, cell 216x170, gap 15, origin x=30 y=100 -->
+  <!-- Year 1 -->
+  <g transform="translate(30,100)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 1</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Paper</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#a8352b">Gold jewelry</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#a8352b">✕ different answers</text>
+  </g>
+
+  <!-- Year 5 -->
+  <g transform="translate(261,100)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 5</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Wood</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#a8352b">Sapphire</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#a8352b">✕ different answers</text>
+  </g>
+
+  <!-- Year 10 -->
+  <g transform="translate(492,100)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 10</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Tin, aluminum</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#a8352b">Diamond</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#a8352b">✕ different answers</text>
+  </g>
+
+  <!-- Year 15 -->
+  <g transform="translate(723,100)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 15</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Crystal</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#a8352b">Ruby</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#a8352b">✕ different answers</text>
+  </g>
+
+  <!-- Year 20 -->
+  <g transform="translate(954,100)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 20</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">China</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#a8352b">Emerald</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#a8352b">✕ different answers</text>
+  </g>
+
+  <!-- Row 2: converging years, origin y=300 -->
+  <!-- Year 25 -->
+  <g transform="translate(30,300)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#5b6d45" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 25</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Silver</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#5b6d45">Silver</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#5b6d45">✓ same answer</text>
+  </g>
+
+  <!-- Year 30 -->
+  <g transform="translate(261,300)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#5b6d45" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 30</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Pearl</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#5b6d45">Pearl</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#5b6d45">✓ same answer</text>
+  </g>
+
+  <!-- Year 40 -->
+  <g transform="translate(492,300)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#5b6d45" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 40</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Ruby</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#5b6d45">Ruby</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#5b6d45">✓ same answer</text>
+  </g>
+
+  <!-- Year 50 -->
+  <g transform="translate(723,300)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#5b6d45" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 50</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Gold</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#5b6d45">Gold</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#5b6d45">✓ same answer</text>
+  </g>
+
+  <!-- Year 60 -->
+  <g transform="translate(954,300)">
+    <rect width="216" height="170" rx="10" fill="#ffffff" stroke="#5b6d45" stroke-width="2" />
+    <text x="18" y="32" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1f1d1a">Year 60</text>
+    <text x="18" y="62" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Traditional</text>
+    <text x="18" y="82" font-family="Georgia, serif" font-size="15" fill="#1f1d1a">Diamond</text>
+    <text x="18" y="112" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Modern gemstone</text>
+    <text x="18" y="132" font-family="Georgia, serif" font-size="15" fill="#5b6d45">Diamond</text>
+    <text x="18" y="156" font-family="Georgia, serif" font-size="12" fill="#5b6d45">✓ same answer</text>
+  </g>
+
+  <text x="600" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">Years 1–20: the two lists were built for different purposes and rarely land on the same material.</text>
+  <text x="600" y="522" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">Years 25 and up: the traditional list already assigned precious metals and gems, so the gemstone list kept them.</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.55">Exceptions: Year 35 (traditional coral / gemstone emerald) and Year 55 (traditional emerald / gemstone alexandrite) still diverge.</text>
+</svg>

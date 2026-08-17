@@ -762,3 +762,95 @@
   }
 }
 ```
+
+## december-birthstone
+
+```json
+{
+  "url_slug": "december-birthstone",
+  "url": "https://dayalmanac.com/december-birthstone/",
+  "last_audited": "2026-08-17",
+  "published_date": "2026-08-04",
+  "findings": [
+    {
+      "dimension": "1. EEAT",
+      "status": "pass",
+      "detail": "Named authority citations (Jewelers of America, GIA, American Gem Society, International Colored Gemstone Association, National Jeweler) throughout, not generic. Live-verified Jewelers of America's current gift guide page directly shows 'December Turquoise, Tanzanite, Blue Zircon' with no fourth stone."
+    },
+    {
+      "dimension": "2. Factual accuracy",
+      "status": "confirmed problem -> fixed",
+      "detail": "FAQ 'Why does December have three birthstones instead of one?' claimed both the 1952 and 2002 revisions were purely additive ('rather than replacing what was already there'). Independent verification agent confirmed via Wikipedia's 'Birthstone' article (explicit table + text: 'They also replaced December's lapis lazuli with zircon') plus International Gem Society/trade-source corroboration that the original 1912 US list paired turquoise WITH lapis lazuli for December, and the 1952 revision replaced lapis lazuli with zircon rather than simply adding a fourth stone -- only the 2002 tanzanite addition was purely additive. This also matches this site's own sibling article september-birthstone (same guides.ts file, ~line 3453), which already stated the replacement correctly, meaning the two site articles previously contradicted each other. FAQ rewritten. Separately investigated and ruled out as non-issues: the 1952-revision-attribution hedge (JA predecessor vs. Jewelry Industry Council of America) matches the article's own cited National Jeweler source verbatim ('According to JA, it updated the list in 1952...'); tanzanite discovery story (1967, Manuel d'Souza, Henry B. Platt naming, 1968 campaign, 122.7-carat Smithsonian specimen) verified accurate against multiple independent sources; turquoise etymology ('pierre tourques') and Navajo silver-turquoise 1880s dating verified accurate."
+    },
+    {
+      "dimension": "3. Timeliness",
+      "status": "pass",
+      "detail": "published 2026-08-04, audited 2026-08-17 (~2 weeks). Content describes completed historical revisions (1912/1952/2002/2016), not something requiring frequent updates."
+    },
+    {
+      "dimension": "4. Competitive differentiation",
+      "status": "pass",
+      "detail": "SERP for December birthstone topics is dominated by retail/lifestyle blogspam (Shop LC, PsychicSource, mybirthstone.org, etc.) that lists the three stones without the trade-organization revision history or the blue-topaz-isn't-official distinction. This article's 'dated, attributable paper trail' framing and honest sourcing hedges (e.g. openly stating it could not settle which body carried out the 1952 revision) are a genuine incremental value."
+    },
+    {
+      "dimension": "5. SEO technical/on-page audit",
+      "status": "pass",
+      "detail": "Live page checked via curl: single H1, clean H2 hierarchy (6 H2s), canonical present, Article/BreadcrumbList/FAQPage schema present. Ran scripts/check_seo_field_stats.py: title z=-1.22 (normal), description z=-1.65 (flagged as outlier on the short side, but manually reviewed -- 143 chars is a complete, well-formed sentence within this site's own observed [141,167] range, not truncated; not escalated per 'don't manufacture problems' principle, consistent with prior site precedent of not escalating borderline SEO-field flags)."
+    },
+    {
+      "dimension": "6. GEO / ai-seo",
+      "status": "pass, ~85+/99 (estimated)",
+      "detail": "Strong structure (6 H2s, FAQPage schema, named-authority citations, 3 images with verified Wikimedia Commons licensing, 10+ inbound internal links from sibling articles). Estimated well above the 80-point bar; no full 99-point rubric run given no GEO-specific weakness was found."
+    },
+    {
+      "dimension": "7. Early-content humanizer/avoid-ai-writing backfill",
+      "status": "confirmed problem -> fixed",
+      "detail": "published 2026-08-04, after this site's humanizer-from-day-1 publishing rule (not an 'early content' exemption case), so this was flagged as a genuine site-convention deviation rather than a backfill case. Mechanical scan of the full entry (narrative fields separated from sources[].label metadata) found 23 em-dash characters in narrative content (description, coreSummary, section bodies, FAQ answers) vs. this site's own repeatedly-documented convention (confirmed across 7+ prior audits logged in this file) that em-dashes should appear ONLY in sources[].label ('Institution -- Page Title' format), zero in narrative. Independent verification agent confirmed the site convention is real and that none of the 23 instances were inside direct quotations (the site's only recognized exception). All 23 rewritten with commas/semicolons/parentheses; the 9 in sources[].label left untouched. Post-fix scan of all AI-vocabulary tells (delve/tapestry/testament/robust/leverage/etc.) found 0 hits; 1 pre-existing, contextually legitimate 'genuinely' (not a hollow intensifier, not part of a cluster) left as-is."
+    },
+    {
+      "dimension": "8. External source link rot",
+      "status": "pass",
+      "detail": "All 9 sources checked via curl: jewelers.org (301 redirect, resolves fine), nationaljeweler.com, gia.edu x3, americangemsociety.org, gemstone.org, livescience.com, iaja.com all return 200. No dead links."
+    },
+    {
+      "dimension": "9. Internal link health",
+      "status": "pass, strongly linked",
+      "detail": "Not remotely an orphan -- grep found 10+ articles across the site (virgo-dates, september-birthstone, scorpio-dates, january-birthstone, march-birthstone-adjacent tsavorite content, a birthstone-history article, a lapis-lazuli/September article) linking inbound to december-birthstone, several with specific factual cross-references that were spot-checked and found accurate (e.g. tsavorite article's tanzanite-naming date matches this article's 1968 claim)."
+    },
+    {
+      "dimension": "10. Schema data consistency",
+      "status": "not applicable",
+      "detail": "No prior content edits exist for this article to check schema drift against; first audit."
+    },
+    {
+      "dimension": "11. Compliance/sensitivity drift",
+      "status": "not applicable",
+      "detail": "Neutral topic (birthstone trade history), no people/events/groups referenced that could accrue new controversy."
+    },
+    {
+      "dimension": "12. Image availability/copyright",
+      "status": "pass",
+      "detail": "All 3 images (turquoise, zircon, tanzanite) have live Wikimedia Commons source pages (200) with license text spot-checked to match the declared imageCredit (turquoise image confirmed CC BY-SA 3.0 on the Commons page itself). Local image files exist in public/images/."
+    },
+    {
+      "dimension": "13. AdSense policy compliance",
+      "status": "pass",
+      "detail": "No violence, weapons, drugs, or gambling content; no misleading/clickbait framing."
+    }
+  ],
+  "actions_taken": [
+    "Rewrote FAQ answer for 'Why does December have three birthstones instead of one?' to accurately state the 1912 list paired turquoise with lapis lazuli, and the 1952 revision replaced lapis lazuli with zircon (not a pure addition); only 2002 (tanzanite) was purely additive.",
+    "Rewrote 23 narrative-field em-dashes (description, coreSummary, 6 section bodies, 2 FAQ answers) as commas/semicolons/parentheses to match this site's own established convention (em-dashes reserved for sources[].label only); left the 9 sources[].label em-dashes untouched.",
+    "Noted but did NOT fix: 1 em-dash in src/consts.ts, a site-wide footer/homepage tagline shared across every page (out of scope for a single-article fix; not december-birthstone-specific content)."
+  ],
+  "seo_score": "no change (already compliant; description z-score flag reviewed and not escalated)",
+  "geo_score": "~85+/99 (estimated, no GEO-specific weakness found, no need for full re-score)",
+  "escalation": null,
+  "deploy": {
+    "commit": "d20e6c0",
+    "build": "npm run build -- 47 pages, 0 errors",
+    "live_verify": "git push后轮询4次（每次间隔10秒）确认https://dayalmanac.com/december-birthstone/ 返回200且修复文字'The 1952 revision replaced lapis lazuli with zircon'在渲染后页面出现",
+    "indexnow": "node tools/submit-indexnow.mjs /december-birthstone/ — Bing 200 / Yandex 200"
+  }
+}
+```

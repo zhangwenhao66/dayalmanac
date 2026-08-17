@@ -180,5 +180,18 @@
       "https://dayalmanac.com/july-birth-flower/"
     ],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-17",
+    "action": "submitted",
+    "reason": "今日新发布两篇（November Birth Flower补跑00:08触发；October Birth Flower 13:35档本日第2篇）+内容质量审计更新National Dog Day。URL Inspection确认november-birth-flower/october-birth-flower均'URL is not on Google'，REQUEST INDEXING各自提交成功确认'Indexing requested'；national-dog-day经核实已收录（'URL is on Google'），无需提交。",
+    "submitted_urls": [
+      "https://dayalmanac.com/november-birth-flower/",
+      "https://dayalmanac.com/october-birth-flower/"
+    ],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-dog-day/"
+    ],
+    "quota_used": "2 of shared account-wide daily quota"
   }
 ]

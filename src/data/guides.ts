@@ -1362,7 +1362,7 @@ export const guides: Guide[] = [
     "title": "National Dog Day: August 26, and Two Origin Stories That Don't Agree",
     "description": "National Dog Day falls on August 26, founded in 2004 by Colleen Paige. Her own organization's website gives two different, unreconciled reasons for why the day exists.",
     "published": "2026-08-04",
-    "updated": "2026-08-04",
+    "updated": "2026-08-17",
     "coreSummary": "National Dog Day is a US observance held every August 26, founded in 2004 by pet lifestyle expert Colleen Paige. The founder's own organization gives two different reasons for it: her personal account says the date marks a childhood shelter adoption, while a 2013 New York State Senate resolution reproduced on the same website says the day was created over the uncredited service of search-and-rescue dogs at Ground Zero. Neither telling mentions the other.",
     "dateRule": {
       "kind": "fixed",
@@ -1397,7 +1397,7 @@ export const guides: Guide[] = [
           "weekday": "Tuesday"
         }
       ],
-      "caveat": "Every source found agrees on August 26, including the founder's own site, a 2013 New York State Senate resolution, and every third-party calendar page checked. The one outlier is Wikipedia's own International Dog Day article, which lists August 26 in its infobox but states in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog\" — an internal contradiction inside a single article, not evidence that August 14 is used anywhere else. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year rather than staying fixed."
+      "caveat": "Every source found agrees on August 26, including the founder's own site, a 2013 New York State Senate resolution, and every third-party calendar page checked. One brief outlier existed: Wikipedia's own International Dog Day article listed August 26 in its infobox but, for a period including this page's original publication, stated in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog,\" an internal contradiction inside a single article, not evidence that August 14 was used anywhere else. A Wikipedia editor corrected that line to read August 26 on August 8, 2026, so the two sections now agree. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year rather than staying fixed."
     },
     "founding": {
       "status": "documented",
@@ -1419,7 +1419,7 @@ export const guides: Guide[] = [
         "heading": "The date: August 26, with one source confusing itself",
         "body": [
           "August 26 is fixed and does not move for weekends. The founder's own site gives that date, a 2013 New York State Senate resolution names that date, and every general calendar and pet-brand page checked for this article agrees.",
-          "The one inconsistency found sits inside a single Wikipedia article. Wikipedia's \"International Dog Day\" page uses that date, August 26, in its infobox, but its history section states that \"the date, August 14, was chosen to mark the day her family adopted their first dog.\" No other source anywhere repeats August 14; it reads as a copy-editing slip inside one article rather than a second date genuinely in circulation. It is included here only because catching exactly this kind of quiet inconsistency, rather than repeating whichever number a source happens to print first, is the point of this calendar."
+          "The one inconsistency found sat inside a single Wikipedia article, and it has since been fixed. At the time this page was first published, Wikipedia's \"International Dog Day\" page used that date, August 26, in its infobox, but its history section stated that \"the date, August 14, was chosen to mark the day her family adopted their first dog.\" No other source anywhere repeated August 14; it read as a copy-editing slip inside one article rather than a second date in circulation. A Wikipedia editor corrected the line to read August 26 on August 8, 2026, four days after this page went up, and the infobox and history section have agreed ever since. It is included here only because catching exactly this kind of quiet inconsistency, rather than repeating whichever number a source happens to print first, is the point of this calendar."
         ]
       },
       {
@@ -1469,7 +1469,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Dog Day the same as International Dog Day?",
-        "answer": "Effectively yes. Both names refer to the same August 26 observance founded by Colleen Paige in 2004; Wikipedia's own article defines them as interchangeable. This differs from International Cat Day, which has a genuinely separate founding history through the International Fund for Animal Welfare."
+        "answer": "Effectively yes. Both names refer to the same August 26 observance founded by Colleen Paige in 2004; Wikipedia's own article defines them as interchangeable. This differs from International Cat Day, which has a separate founding history through the International Fund for Animal Welfare."
       },
       {
         "question": "What's the difference between National Dog Day, World Dog Day, and National Rescue Dog Day?",

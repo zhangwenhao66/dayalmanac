@@ -32,3 +32,14 @@
 - **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `ea3c5050668bd8480b6c185dcfec959d`。
 - **上线复核**：⏳ 待补做（当天提交，通常需要1-2天过审）。
 - **备注**：本次是08-04登录失效连续三次导致周二排期落空后的补做。
+
+### 2026-08-18（周二，正常排期）— DayAlmanac（dayalmanac.com）
+
+- **问题标题**：PR and communications pros: has a client or campaign claimed federal recognition for an awareness day that Congress never actually passed into law?
+- **角度**：绑定`national-first-responders-day`一文讲的真实立法史——2014至2023年国会引入过11项相关法案/决议，参议院通过了两次，但众议院从未通过任何一项，所以这个纪念日没有真正的联邦法律依据，只是从2022年起靠总统公告填补空白。征集PR从业者/传播负责人/非营利机构传播人员举出真实案例——某次新闻稿、campaign或客户方案假设或声称某个全国纪念日/awareness day具备联邦官方法律地位，实际上其法案从未真正通过。这个漏洞是怎么被发现的，传播口径又做了什么调整。与此前问过的National Day起源不可考角度（08-04）、生辰石清单分歧角度（08-12）均不重叠，这次聚焦"联邦官方认证"这个具体的合法性声明是否站得住脚。
+- **绑定文章**：DayAlmanac `national-first-responders-day`（National First Responders Day: Eleven Bills, No Statute）。
+- **分类标签**：Topics = General + PR, Media & Marketing；Countries = United States（美国国会立法程序是美国特有制度，仅限美国）。
+- **表单设置**：Job title = Content Creator；Organisation = DayAlmanac；Contact = Email；Unpaid；Email address 和 Contact email 均填 `contact@dayalmanac.com`。
+- **Deadline**：2026-09-11 17:00（鼠标真实点击日历控件选中）。
+- **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `716f60761e41445cf756ef75c86f65c1`。
+- **上线复核**：⏳ 待下次任务运行时补查。

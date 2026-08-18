@@ -20,6 +20,13 @@
       "question_url": "https://www.quora.com/How-can-you-identify-the-September-birth-flower/answer/Owen-Zhang-161",
       "question_title": "How can you identify the September birth flower?",
       "notes": "发布时该问题0答案(1条折叠垃圾答案不计)。以站内文章骨架撰写(aster希腊词源、1994 Guy Nesom分类学重分类、morning glory昼夜节律、Ipomoea词源、Aztec占卜用种)。额外WebSearch找到Ipomoea purpurea在亚利桑那州(2020重分类后仍列入)和阿肯色州被列为有害杂草的增量事实。过humanizer+avoid-ai-writing自查，全程怀疑视角无营销语气。用Quora Add Link功能(Cmd+K)插入真实超链接，全程只填URL字段不碰Text字段，发布前DOM核实class为span link。已直接发布成功(非Space类问题)，发布后javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/september-birth-flower/。"
+    },
+    {
+      "date": "2026-08-18",
+      "target_page": "https://dayalmanac.com/april-birth-flower/",
+      "question_url": "https://www.quora.com/What-is-lathyrism/answer/Owen-Zhang-161",
+      "question_title": "What is lathyrism?",
+      "notes": "发布时该问题仅1个真实答案，把'lathyrism'和'neurolathyrism'当同义词混用，完全没提到同一个umbrella term下还有一个由观赏香豌豆(sweet pea，4月生辰花之一)引起的完全不同病症osteolathyrism，判定为真实概念混淆值得纠正。以站内文章骨架撰写(neurolathyrism是南亚/东非饥荒史病，由grass pea毒素ODAP导致运动神经元损伤和下肢瘫痪，自Hippocrates时代即有记载；osteolathyrism/odoratism是1952年Ponseti和Baird研究首次系统描述的骨骼与结缔组织病，由完全不同的毒素beta-aminopropionitrile(BAPN)导致，破坏胶原蛋白交联而非损伤神经，来源是观赏香豌豆Lathyrus odoratus的种子；观赏香豌豆从未像grass pea那样被当作食物作物，BAPN和ODAP是不同毒素、导致不同组织的不同疾病，很多园艺/生辰花网站把'香豌豆种子有毒'和饥荒瘫痪病混为一谈)。过humanizer+avoid-ai-writing双重检查（无破折号、无AI高频词；开场避免'worth separating out'类空心背书措辞，改用直接指出对方答案问题所在的陈述句）。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向april-birth-flower页面，全程只填URL字段。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"，发布后再次核实渲染页面DOM中确实是<a href=\"https://dayalmanac.com/april-birth-flower/\">here</a>真实超链接，非纯文本。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。"
     }
   ],
   "reddit": []

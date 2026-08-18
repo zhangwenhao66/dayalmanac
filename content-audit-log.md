@@ -854,3 +854,90 @@
   }
 }
 ```
+
+```json
+{
+  "url_slug": "virgo-dates",
+  "last_audited": "2026-08-18",
+  "published_date": "2026-08-05",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "pass",
+      "detail": "Concrete evidence throughout -- names Britannica, EarthSky, Sky & Telescope, AstroStyle, Farmers' Almanac, Space.com, TIME as independent sources with specific quoted figures (24-degree ayanamsha offset, 44-day constellation crossing, 25,800-year precession cycle), not vague generalities."
+    },
+    {
+      "dimension": "事实准确性 (fact accuracy)",
+      "status": "1 issue found and fixed",
+      "detail": "Article-specific verification checklist (Step 1): (1) Aug 23-Sep 22 tropical range consistency across sources -- confirmed via WebSearch (Britannica, Farmers' Almanac, Wikipedia, others all agree). (2) EarthSky's 'roughly 1990 to 2062' validity window + Sept 16-Oct 30 constellation crossing -- confirmed still current (window doesn't expire until 2062) and the 44-day span matches EarthSky's own count. (3) Sky & Telescope 'longest zodiac constellation, ~40+ days vs ~1 week for Scorpius' -- confirmed exact match via WebSearch of the source article. (4) Vedic sidereal Kanya rashi dates (~Sept 17-Oct 16) + Lahiri ayanamsha ~24 degrees, growing ~1 degree/72 years -- confirmed accurate (ayanamsha increases ~50.3 arcsec/year = ~1deg/71.6yr). (5) Hipparchus precession discovery ~127 BCE + Babylonian zodiac origin (5th century BCE) + Ptolemy's Tetrabiblos (2nd century CE) cementing the tropical version -- all confirmed accurate and appropriately nuanced (doesn't claim Ptolemy invented the tropical zodiac, only that Tetrabiblos cemented it). check_comparatives.py run against the isolated virgo-dates JSON block flagged 5 comparative sentences; 4 checked out. The 5th ('That 24-degree offset is almost exactly the width of a zodiac sign') was independently reviewed and CONFIRMED as overstated precision: 24 degrees is 80% of a 30-degree sign (a 6-degree/20% gap), which 'almost exactly' misrepresents as near-equality. Fixed to 'most of the width of a zodiac sign'; downstream logic (24 degrees =~ nearly a month) unaffected."
+    },
+    {
+      "dimension": "时效性 (timeliness)",
+      "status": "pass",
+      "detail": "updated = published = 2026-08-05, 13 days old at audit time. EarthSky's stated '1990 to 2062' validity window for the constellation-crossing dates is nowhere near expiry, so no update is needed on that front."
+    },
+    {
+      "dimension": "竞品差异化 (competitive differentiation)",
+      "status": "pass",
+      "detail": "dataforseo_query.py serp 'virgo dates' (real SERP, 2026-08-18): top 10 organic results are almanac.com, britannica.com, gthic.com, en.wikipedia.org, voltlin.com, allure.com, farmersalmanac.com, zodiacsign.com -- all personality/traits-focused content. dayalmanac.com does not currently rank in top 10 (expected given site age). This article's three-system date-range comparison (tropical/sidereal/IAU-constellation) + cusp mechanics + history is a genuinely different angle from the personality-trait competitors; even Wikipedia's own tropical+sidereal date comparison is far more compressed (no cusp explanation, no IAU/44-day framing). Not claiming exclusivity, so no L-0805-3 risk."
+    },
+    {
+      "dimension": "SEO技术审计 (seo-audit skill)",
+      "status": "pass",
+      "detail": "curl-rendered live page: title renders 66 chars ('Virgo Dates: August 23-September 22, in Three Systems | DayAlmanac'), description 151 chars, single H1, self-referencing canonical, robots.txt explicitly Allows GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended, sitemap 200. scripts/check_seo_field_stats.py: title z=-1.22 (n=37, mean 59.1), description z=-0.49 (n=37, mean 154.3) -- both well within normal range, no outlier."
+    },
+    {
+      "dimension": "GEO审计 (ai-seo skill)",
+      "status": "pass (qualitative -- no numeric rubric available in this environment)",
+      "detail": "Ran through ai-seo skill's content-extractability checklist manually (this environment did not have a numeric 99-point/11-dimension scoring tool loaded): clear definition in first paragraph (pass), self-contained FAQ/coreSummary answer blocks (pass), specific statistics with named sources (pass), FAQPage/Article/BreadcrumbList schema present and consistent with content (pass, verified via curl+JSON parse of live page), recently updated (pass, 13 days old), AI bots allowed in robots.txt (pass). Only soft gap: no explicit comparison table for the three date-range systems (currently prose-only) -- not escalated as a defect, just a possible future enhancement."
+    },
+    {
+      "dimension": "早期内容AI味补漏 (humanizer/avoid-ai-writing backfill)",
+      "status": "checked, no rewrite needed",
+      "detail": "published 2026-08-05, before the 2026-08-07 mandatory avoid-ai-writing/humanizer rule, so this triggered a retroactive check. Manual line-by-line scan of sections[].body/faq[].answer/coreSummary/description against both skills' pattern catalogs: zero em-dashes in narrative fields, zero AI-vocabulary tells (delve/tapestry/testament/underscore/robust/leverage/etc.), zero template phrases, zero vague attributions (every claim is attributed to a specific named source), no rule-of-three padding beyond genuine factual classification lists, natural sentence-length variation. sources[].label uses the site's established '标签 — 说明' em-dash format (333/375 = 89% of all labels site-wide use this format) -- this is a known, still-unresolved site-wide convention question already logged in 独立站/内容通用教训库.md (L-0810-4); not unilaterally changed for this one article."
+    },
+    {
+      "dimension": "外部引用链接 (link rot)",
+      "status": "pass",
+      "detail": "9 sources[] URLs checked via curl (Mozilla UA, -L, 15s timeout): en.wikipedia.org, earthsky.org, space.com, astrostyle.com, farmersalmanac.com all return 200. britannica.com (x2), skyandtelescope.org return 403, time.com returns 406 -- all confirmed to be Cloudflare bot-challenge / anti-scraping responses (cf-mitigated: challenge header, 5.6-5.8KB challenge-page body), not real dead links; WebSearch independently confirms all four pages' content is live and indexed. Matches existing site precedent (L-0817-4's stated exception for subscription/anti-scraping 403s)."
+    },
+    {
+      "dimension": "内链健康度 (internal link health)",
+      "status": "pass, well linked",
+      "detail": "grep confirmed 5 different sibling articles (december-birthstone, march-birthstone, scorpio-dates, august-birth-flower, september-birth-flower) carry real hand-written body-text anchor links to /virgo-dates/, each with distinct, contextual anchor text ('Virgo's date range', 'This calendar's own Virgo dates page', 'Virgo dates', etc.) -- no duplicate-anchor issue (L-0818-3 doesn't apply since these are separate articles, not one article linking the same target twice). Related-guides sidebar uses the shared site-toolkit rotating-window algorithm (packages/related-guides), not the old slice(0,N) bug."
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "pass",
+      "detail": "Live-page JSON-LD parsed and checked: Article headline/description match rendered title/meta exactly; datePublished/dateModified both 2026-08-05T00:00:00+00:00 matching published/updated fields; FAQPage's 7 Q&A pairs match guides.ts faq[] verbatim; BreadcrumbList's 3-level path (Home > Zodiac Dates > page) correct."
+    },
+    {
+      "dimension": "合规/敏感度漂移 (compliance/sensitivity)",
+      "status": "pass",
+      "detail": "Astrology content is consistently hedged throughout -- explicit statement 'None of this makes the astronomical dates the real ones and the astrological dates fake. They're answering different questions.' No pseudo-scientific over-promising language (no 'your true sign is X', no predictive/personality claims), consistent with the article's factual date-range framing."
+    },
+    {
+      "dimension": "配图可用性与版权 (image licensing)",
+      "status": "pass",
+      "detail": "Hero image (Sidney Hall, Urania's Mirror Virgo plate, 1825) -- WebSearch confirmed public domain status (Public Domain Mark 1.0 on Wikimedia Commons, also held by Library of Congress and Public Domain Image Archive), imageCredit attribution accurate. Both the local image file and the Wikimedia Commons source page return 200."
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "pass",
+      "detail": "Title/description are factual, non-clickbait ('Virgo Dates: August 23-September 22, in Three Systems'). ads.txt correctly lists 'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'. /privacy/, /about/, /terms/ all return 200. No violent/gambling/misleading content."
+    }
+  ],
+  "actions_taken": [
+    "Softened 'That 24-degree offset is almost exactly the width of a zodiac sign' to 'That 24-degree offset is most of the width of a zodiac sign' -- independent review agent confirmed the original phrasing overstated how close a 24-degree ayanamsha gap is to a full 30-degree zodiac sign (80%, a 6-degree/20% shortfall). Downstream sentence logic ('nearly a full month... instead of a few days off') left unchanged as it was already sound."
+  ],
+  "seo_score": "no change (already compliant, z-scores normal)",
+  "geo_score": "qualitative pass (no numeric rubric tool available this run; content-extractability checklist fully passed except optional comparison-table enhancement)",
+  "escalation": null,
+  "deploy": {
+    "commit": "f89e934",
+    "build": "npm run build -- 49 pages, 0 errors; npm test -- 33/33 passed",
+    "live_verify": "git push后轮询4次（每次间隔15秒）确认https://dayalmanac.com/virgo-dates/ 返回200且修复文字'most of the width of a zodiac sign'在渲染后页面出现",
+    "indexnow": "node tools/submit-indexnow.mjs /virgo-dates/ -- Bing 200 / Yandex 200"
+  }
+}
+```

@@ -18,8 +18,8 @@
   "https://dayalmanac.com/national-cat-day/": {
     "submitted_date": "2026-08-03",
     "verified_status": "pending",
-    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查",
-    "last_checked_date": "2026-08-17",
+    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查 | discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold",
+    "last_checked_date": "2026-08-18",
     "verified_method": "bwt_url_inspection",
     "last_submitted_date": "2026-08-10"
   },
@@ -33,30 +33,34 @@
   "https://dayalmanac.com/national-dog-day/": {
     "submitted_date": "2026-08-03",
     "last_submitted_date": "2026-08-17",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-08",
-    "verified_method": "bwt_url_inspection"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-08-18",
+    "verified_method": "bwt_url_inspection",
+    "note": "Indexed successfully, 2 SEO/GEO issues (Title too long, Meta Description too long or too short)"
   },
   "https://dayalmanac.com/december-birthstone/": {
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-17",
     "verified_status": "pending",
-    "last_checked_date": "2026-08-10",
-    "verified_method": "bwt_url_inspection"
+    "last_checked_date": "2026-08-18",
+    "verified_method": "bwt_url_inspection",
+    "note": "discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold"
   },
   "https://dayalmanac.com/national-daughters-day/": {
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-11",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-10",
-    "verified_method": "bwt_url_inspection"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-18",
+    "verified_method": "bwt_url_inspection",
+    "note": "discovered 03 Aug, account age 15 days"
   },
   "https://dayalmanac.com/virgo-dates/": {
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-18",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-10",
-    "verified_method": "bwt_url_inspection"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-08-18",
+    "verified_method": "bwt_url_inspection",
+    "note": "Indexed successfully, No SEO/GEO issues found"
   },
   "https://dayalmanac.com/march-birthstone/": {
     "submitted_date": "2026-08-04",

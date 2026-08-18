@@ -5706,6 +5706,141 @@ export const guides: Guide[] = [
     "image": "/images/december-birth-flower-holly.jpg",
     "imageAlt": "Glossy holly leaves and bright red berries, which only grow on female Ilex aquifolium plants pollinated by a nearby male",
     "imageCredit": "Photo by Balise42, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holly_berries_and_leaves.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "february-birth-flower",
+    "category": "Birth Flowers",
+    "title": "February Birth Flower: Violet and Primrose, Plus Two Name-Alikes",
+    "description": "February's birth flowers are violet and primrose, but the African violet and evening primrose sold under similar names belong to entirely different plant families.",
+    "published": "2026-08-18",
+    "updated": "2026-08-18",
+    "coreSummary": "February's birth flowers are the violet (Viola odorata, family Violaceae) and the primrose (Primula vulgaris, family Primulaceae), per The Old Farmer's Almanac. Two of the most common houseplants sold under near-identical names are not related to either one: the African violet, now classified as Streptocarpus sect. Saintpaulia, belongs to the Gesneriaceae family, and the evening primrose, genus Oenothera, belongs to the Onagraceae family and is native to the Americas rather than Eurasia. Violets carry a documented political history as Napoleon Bonaparte's secret 1814-1815 symbol, and the real UK observance called Primrose Day, honoring Benjamin Disraeli, gets one detail wrong on The Old Farmer's Almanac's own February birth-flower page.",
+    "sections": [
+      {
+        "heading": "Violet and primrose, the same gap as every other month",
+        "body": [
+          "The Old Farmer's Almanac, the same source behind the pairs this site has already covered for July through December and April, lists violet and primrose as February's flowers. This site's [August birth flower](/august-birth-flower/) page traced why these lists keep landing on two flowers instead of one: the jewelry trade settled birthstones with a single 1912 convention, and birth flowers never had an equivalent body step in. Competing 19th-century flower dictionaries disagreed with each other, and the modern lists that followed kept both nominees rather than picking a winner.",
+          "That explains the pair. It says nothing about either flower on its own, and both share their common name with an unrelated houseplant sold in every grocery-store flower aisle."
+        ]
+      },
+      {
+        "heading": "Violet: the flower, and the houseplant that only looks like one",
+        "body": [
+          "The species most birth-flower lists mean is Viola odorata, also called sweet violet, wood violet, or English violet, a low, spreading perennial in the family Violaceae native to Europe and Asia, according to Wikipedia's entry on the species. Its dark purple or white flowers are scented, which is why sweet violet has a long history in perfumery and candied confections, unlike most of the more than 680 species in the wider Viola genus, per Wikipedia's entry on the genus.",
+          "The African violet, sold as a houseplant under that name in nearly every garden center, is not a Viola species and is not closely related to true violets, per Wikipedia's entry on the plant. It's now classified as Streptocarpus sect. Saintpaulia, a group of roughly ten species native to Tanzania and adjacent southeastern Kenya, in the family Gesneriaceae, a different family from the violet's Violaceae. The genus was named Saintpaulia for its collector, Baron Walter von Saint Paul-Illaire, a German district commissioner in Tanzania who sent seeds to his father in Germany in 1892; it kept that common name because its five-petaled, purple-toned flowers happen to resemble a wild violet's, even though the resemblance stops there."
+        ],
+        "image": {
+          "src": "/images/february-birth-flower-violet.jpg",
+          "alt": "Viola odorata, the sweet violet, February's birth flower, unrelated to the African violet sold under a similar name",
+          "credit": "Photo by Uoaei1, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Viola_odorata_20210226.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "A flower that once meant a political party",
+        "body": [
+          "Violets became a symbol of Napoleon Bonaparte in April 1814, after his first abdication and exile to Elba, according to Napoleonic researcher and historical novelist Shannon Selin, who cites contemporary accounts of the period. Before leaving France, Napoleon supposedly told his friends and supporters he would return with the violets, which bloom in the spring, and his followers began wearing violets or violet-colored ribbons as a way of signaling to each other that they were Bonapartists. Napoleon's forces landed back in France at Golfe-Juan on March 1, 1815, per Wikipedia's account of the Hundred Days, and when he reached Paris on March 20, contemporary accounts quoted by Selin describe soldiers and crowds decorated with bunches of violets. His nickname among supporters became \"Le Père la Violette,\" and a popular 1815 engraving nicknamed \"Corporal Violet\" hid the profiles of Napoleon, his wife, and his son inside an ordinary-looking bunch of violets, an optical illusion meant to evade Bourbon censorship of his image.",
+          "None of that history changes what violet means on a modern birth-flower chart. Present-day floriography guides list violet for loyalty, faithfulness, and modesty, the meaning that traces to the flower's old habit of tucking its blooms low beneath its own leaves."
+        ]
+      },
+      {
+        "heading": "Primrose: the flower, and the unrelated plant sold as \"evening primrose\"",
+        "body": [
+          "The primrose most birth-flower lists mean is Primula vulgaris, also called common primrose or English primrose, a perennial native to Eurasia in the family Primulaceae that blooms in late winter and early spring, per Wikipedia's entry on the species. Its genus name, Primula, comes from the Latin primus, \"first,\" for its early appearance.",
+          "Evening primrose, the plant behind the supplement evening primrose oil, is not a Primula species and belongs to a different family entirely. Oenothera biennis, the common evening primrose, is native to eastern and central North America and belongs to the family Onagraceae, an ocean and a plant family away from the Eurasian, Primulaceae-family true primrose, according to Wikipedia's entry on the species. The naming mix-up dates to early European colonists in North America, who thought the unfamiliar plant looked something like the primroses they knew from home, except that its flowers opened at evening instead of morning, and called it accordingly."
+        ],
+        "image": {
+          "src": "/images/february-birth-flower-primrose.jpg",
+          "alt": "Primula vulgaris, the common primrose, February's other birth flower, unrelated to the evening primrose sold under a similar name",
+          "credit": "Photo by AnemoneProjectors, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Primrose_(Primula_vulgaris).jpg), CC BY-SA 2.0"
+        }
+      },
+      {
+        "heading": "Primrose Day is a real UK observance, and even the Almanac gets a detail wrong",
+        "body": [
+          "Primrose Day, April 19, marks the anniversary of the 1881 death of Benjamin Disraeli, the British prime minister whose reported favorite flower was the primrose, per Wikipedia's entry on the observance. Queen Victoria, who had formed a close working relationship with Disraeli, sent primroses from Windsor Castle and Osborne House during his life and a wreath of primroses to his funeral, with a note reading \"His favourite flowers.\" Annual commemorations through the 1920s placed primroses at Disraeli's tomb at St Michael and All Angels Church, on the grounds of his home, Hughenden Manor, and at a separate statue of him in Parliament Square; a political organization called the Primrose League, founded in 1883 to carry on his legacy, grew to more than two million members by 1910 before winding down after the First World War.",
+          "The Old Farmer's Almanac's own February birth-flower page, cited elsewhere on this page, describes Primrose Day differently, stating that \"visitors to Westminster Abbey lay the flowers at his statue.\" Disraeli is buried at Hughenden, not Westminster Abbey, and the historic Primrose Day gatherings were at that Hughenden tomb and the separate Parliament Square statue, per Wikipedia's account. Disraeli does have a memorial in Westminster Abbey, erected by the nation, but it isn't the site the annual commemorations used, and it isn't a statue. Even a source this page relies on for the flowers' core meanings gets a location wrong once its subject moves from botany into history it didn't check as closely.",
+          "Also worth noting: Wikipedia's account itself flags one detail as uncertain. A later letter from Queen Victoria's private secretary, Sir Henry Ponsonby, reportedly disputed the popular story that the primrose really was Disraeli's favorite flower at all, without Wikipedia's summary spelling out what he claimed instead. The primrose-as-favorite-flower story is widely repeated and traceable to a contemporary funeral note, but it isn't beyond dispute."
+        ]
+      },
+      {
+        "heading": "February's other reference points",
+        "body": [
+          "For the gemstone side of a February birthday, this site's [birthstones by month](/birthstones-by-month/) page covers amethyst, February's official stone since the 1912 trade convention that first standardized the modern birthstone chart.",
+          "This site's [November birth flower](/november-birth-flower/) page covers a different kind of mismatch: chrysanthemum, November's flower on US florist charts, is the customary graveside flower across much of Catholic Europe, where handing one to a living host as a birthday gift is a genuine etiquette mistake rather than a quaint regional footnote."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is February's birth flower?",
+        "answer": "Violet and primrose, per The Old Farmer's Almanac. Like most months on a modern birth-flower list, February carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
+      },
+      {
+        "question": "Is the African violet the same plant as February's birth flower?",
+        "answer": "No. The birth-flower violet is Viola odorata, family Violaceae. The African violet, now classified as Streptocarpus sect. Saintpaulia, belongs to the unrelated family Gesneriaceae and is native to Tanzania, not Europe or Asia. The two only share a common name and a superficial resemblance in flower shape and color."
+      },
+      {
+        "question": "Is evening primrose the same plant as February's birth flower?",
+        "answer": "No. The birth-flower primrose is Primula vulgaris, family Primulaceae, native to Eurasia. Evening primrose, genus Oenothera, belongs to the unrelated family Onagraceae and is native to the Americas. Early colonists named it for a passing resemblance to the primroses they knew from home."
+      },
+      {
+        "question": "What does violet mean as a birth flower?",
+        "answer": "Loyalty, faithfulness, and modesty, a meaning tied to the flower's habit of tucking its blooms beneath its own leaves. Violets also carry a documented political history as a secret symbol of Napoleon Bonaparte's supporters in 1814 and 1815."
+      },
+      {
+        "question": "What does primrose mean as a birth flower?",
+        "answer": "Young love, per The Old Farmer's Almanac, fitting for one of the first flowers to bloom in late winter and early spring. The primrose was also reportedly Benjamin Disraeli's favorite flower, which is why the UK still marks April 19 as Primrose Day."
+      },
+      {
+        "question": "What is Primrose Day?",
+        "answer": "A UK observance on April 19 marking the 1881 death of Prime Minister Benjamin Disraeli, whose reported favorite flower was the primrose. Annual commemorations through the 1920s placed primroses at his tomb at Hughenden and at a statue of him in Parliament Square."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — February Birth Flowers: Primrose and Violet",
+        "url": "https://www.almanac.com/content/february-birth-flowers"
+      },
+      {
+        "label": "Wikipedia — Viola odorata",
+        "url": "https://en.wikipedia.org/wiki/Viola_odorata"
+      },
+      {
+        "label": "Wikipedia — Viola (plant)",
+        "url": "https://en.wikipedia.org/wiki/Viola_(plant)"
+      },
+      {
+        "label": "Wikipedia — Streptocarpus sect. Saintpaulia",
+        "url": "https://en.wikipedia.org/wiki/Streptocarpus_sect._Saintpaulia"
+      },
+      {
+        "label": "Shannon Selin — Symbols of Napoleon: The Violet",
+        "url": "https://shannonselin.com/2020/01/symbols-napoleon-violet/"
+      },
+      {
+        "label": "Wikipedia — Hundred Days",
+        "url": "https://en.wikipedia.org/wiki/Hundred_Days"
+      },
+      {
+        "label": "Wikipedia — Primula vulgaris",
+        "url": "https://en.wikipedia.org/wiki/Primula_vulgaris"
+      },
+      {
+        "label": "Wikipedia — Oenothera biennis",
+        "url": "https://en.wikipedia.org/wiki/Oenothera_biennis"
+      },
+      {
+        "label": "Wikipedia — Primrose Day",
+        "url": "https://en.wikipedia.org/wiki/Primrose_Day"
+      },
+      {
+        "label": "Wikipedia — Benjamin Disraeli",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Disraeli"
+      }
+    ],
+    "image": "/images/february-birth-flower-violet.jpg",
+    "imageAlt": "Viola odorata, the sweet violet, February's birth flower, unrelated to the African violet sold under a similar name",
+    "imageCredit": "Photo by Uoaei1, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Viola_odorata_20210226.jpg), CC BY-SA 4.0"
   }
 ];
 

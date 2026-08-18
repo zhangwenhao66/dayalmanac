@@ -5436,6 +5436,149 @@ export const guides: Guide[] = [
     ],
     "image": "/images/anniversary-gifts-by-year-grid.svg",
     "imageAlt": "Grid comparing the traditional materials list to Jewelers of America's modern gemstone list at years 1, 5, 10, 15, and 20, where the two disagree, and at years 25, 30, 40, 50, and 60, where both lists give the same answer"
+  },
+  {
+    "slug": "april-birth-flower",
+    "category": "Birth Flowers",
+    "title": "April Birth Flower: Daisy and Sweet Pea, a Mislabeled Poison",
+    "description": "April's birth flowers are daisy and sweet pea, but the sweet pea's toxin causes a narrower disease than the famine-era illness most sites call lathyrism.",
+    "published": "2026-08-18",
+    "updated": "2026-08-18",
+    "coreSummary": "April's birth flowers are the daisy, whose Old English name dæges éage (\"day's eye\") describes how its petals close at night and reopen with the sun, and the sweet pea, first sent from a Sicilian monastery to English and Dutch gardens in 1699 by the monk Francesco Cupani. The petal-pulling \"he loves me, he loves me not\" game most people associate with the word \"daisy\" actually runs on a different species, the oxeye daisy, not the Bellis perennis that birth-flower charts name for April. And the toxin in sweet pea seeds causes a real condition called osteolathyrism, first studied in rats in 1952, a distinct type of lathyrism from neurolathyrism, the historic famine disease caused by a different toxin in the grass pea, a crop people actually ate during famines.",
+    "sections": [
+      {
+        "heading": "Daisy and sweet pea, the same gap as every other month",
+        "body": [
+          "The Old Farmer's Almanac, the same source behind the pairs this site has already covered for July, August, September, October, and November, lists daisy and sweet pea as April's flowers. This site's [August birth flower](/august-birth-flower/) page traced why these lists keep landing on two flowers instead of one: the jewelry trade settled birthstones with a single 1912 convention, and birth flowers never had an equivalent body step in. Competing 19th-century flower dictionaries disagreed with each other, and the modern lists that followed kept both nominees rather than picking a winner.",
+          "That explains the pair. It says nothing about either flower on its own, and both carry more history than a florist's caption usually mentions."
+        ]
+      },
+      {
+        "heading": "Daisy: named for an eye that opens with the sun",
+        "body": [
+          "\"Daisy\" comes from the Old English dæges éage, literally \"day's eye,\" describing the way the flower's petals close over its yellow center in the evening and reopen each morning, according to the Oxford English Dictionary. The word is recorded from the Old English period, predating 1150.",
+          "The species most birth-flower lists actually mean is Bellis perennis, sometimes qualified as the common daisy, English daisy, or true daisy, specifically because the plain name \"daisy\" gets attached to plants outside its own genus. Wikipedia's entry on the daisy names two of the more common look-alikes: the oxeye daisy, Leucanthemum vulgare, and the Shasta daisy, a 20th-century hybrid classified as Leucanthemum × superbum. Both share the daisy's flat, yellow-centered, white-rayed flower head and the wider Asteraceae family, and neither one is Bellis perennis."
+        ],
+        "image": {
+          "src": "/images/april-birth-flower-daisy.jpg",
+          "alt": "Five common daisies, Bellis perennis, the species most birth-flower charts name for April, distinct from the oxeye daisy and Shasta daisy that also go by the name \"daisy\"",
+          "credit": "Photo by Friedrich Haag, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Five_daisies_(Bellis_perennis).jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "The petal game everyone learns as a kid uses the wrong species",
+        "body": [
+          "The habit of pulling petals one by one while alternating \"he loves me, he loves me not\" traces to a French tradition called effeuiller la marguerite, \"plucking the marguerite,\" per Wikipedia's article on the game and the Royal Botanic Gardens, Kew. \"Marguerite\" in that phrase, and in the game as it's usually pictured, points to the oxeye daisy, Leucanthemum vulgare, the same look-alike species that already isn't the birth-flower daisy. A game most people learned as children runs on a different plant than the one their birth-flower chart actually names.",
+          "Victorian floriography gave the true birth-flower daisy, Bellis perennis, its own separate meaning: innocence, loyal love, and, by coincidence, a phrase close to the petal game's own subject, \"I'll never tell,\" per multiple floriography glossaries drawing on 19th-century flower-language guides."
+        ]
+      },
+      {
+        "heading": "Sweet pea: from a Sicilian monastery to Victorian England's favorite annual",
+        "body": [
+          "Lathyrus odoratus has a documented discovery date. In 1699, the Sicilian Franciscan monk Francesco Cupani, compiling a flora of Sicily, found the wild plant growing near his monastery and sent seed to botanical contacts in England and Amsterdam, according to horticultural histories tracing the plant's introduction. Every sweet pea cultivar grown today descends from that seed line, usually sold under the name 'Cupani' for the small, intensely fragrant, bicolor purple-and-white flower closest to the wild form.",
+          "The plant stayed a minor garden curiosity for the better part of two centuries. That changed with Henry Eckford, a Scottish gardener who began breeding sweet peas in 1879 and, working from the town of Wem in Shropshire from 1888 onward, developed the larger-flowered Grandiflora strains that turned the sweet pea into what garden historians describe as the most popular flower of the late Victorian and Edwardian eras. The Royal Horticultural Society gave Eckford its Victoria Medal of Honour in 1905, and he's still credited as the father of the modern sweet pea."
+        ],
+        "image": {
+          "src": "/images/april-birth-flower-sweet-pea.jpg",
+          "alt": "A violet-flowered Lathyrus odoratus sweet pea cultivar, descended from seed the monk Francesco Cupani sent from Sicily to England and Amsterdam in 1699",
+          "credit": "Photo by Acabashi, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sweet_pea_'Lathyrus_odoratus'_violet_flower_at_Boreham,_Essex,_England_3.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "A real toxin, attached to the wrong disease name",
+        "body": [
+          "Kate Greenaway's Language of Flowers, an 1884 floriography guide still cited as a standard reference, lists sweet pea as blissful pleasure, delicate pleasure, and departure, the source of the flower's common use today as a goodbye or thank-you gift rather than a romantic one.",
+          "Sweet pea seed does carry a real toxin, beta-aminopropionitrile (BAPN), which disrupts collagen cross-linking and can produce a bone-and-connective-tissue condition called osteolathyrism, also known as odoratism, first characterized in a 1952 study by Ponseti and Baird that fed the toxin to rats via Lathyrus odoratus seed meal. \"Lathyrism\" itself is an umbrella term for three related but distinct conditions, and the historic human illness, the one recorded since Hippocrates and tied to famines across South Asia and East Africa, is specifically neurolathyrism: motor-neuron damage and leg paralysis caused by a different toxin, ODAP, from overconsumption of Lathyrus sativus, the grass pea grown and eaten as a famine food, per Wikipedia's article on lathyrism. Ornamental sweet peas were never a food crop the way the grass pea was, and ODAP and BAPN are chemically different compounds that damage different tissue; florist and gardening sites that invoke \"lathyrism\" for sweet-pea toxicity without naming which type fold a narrower, well-characterized garden hazard into a famine disease it isn't.",
+          "The sweet pea's name also has nothing to do with the vegetable garden pea people eat, Pisum sativum, which sits in a different genus of the same family, Fabaceae."
+        ]
+      },
+      {
+        "heading": "April's other reference points",
+        "body": [
+          "For the gemstone side of an April birthday, this site's [birthstones by month](/birthstones-by-month/) page lists April's current official stone as diamond alone, per Jewelers of America's live buying guide, one of seven months, alongside January, February, March, May, July, and September, that still carry a single official stone with no revision since the 1912 chart was first issued.",
+          "And for why birth-flower lists, unlike birthstone lists, tend to run in pairs rather than a single flower, this site's [November birth flower](/november-birth-flower/) page traces that gap back to competing 19th-century flower dictionaries that never got their own version of the single trade meeting that settled the birthstone chart."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is April's birth flower?",
+        "answer": "Daisy and sweet pea, per The Old Farmer's Almanac. Like most months on a modern birth-flower list, April carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
+      },
+      {
+        "question": "What does the daisy mean as a birth flower?",
+        "answer": "Innocence, loyal love, and, in Victorian floriography, the coded phrase \"I'll never tell.\" The name traces to Old English dæges éage, \"day's eye,\" for the way the flower's petals close at night and reopen with the sun."
+      },
+      {
+        "question": "Is the daisy used in the \"he loves me, he loves me not\" game the same species as the birth flower?",
+        "answer": "Usually not. The game traces to a French tradition, effeuiller la marguerite, and \"marguerite\" in that context typically refers to the oxeye daisy, Leucanthemum vulgare, a different genus from Bellis perennis, the species most birth-flower charts actually name for April."
+      },
+      {
+        "question": "What does sweet pea mean as a birth flower?",
+        "answer": "Blissful pleasure, delicate pleasure, and departure, per Kate Greenaway's 1884 Language of Flowers, which is why sweet pea is traditionally given as a goodbye or thank-you flower rather than a romantic one."
+      },
+      {
+        "question": "Who first grew sweet peas outside the wild?",
+        "answer": "Francesco Cupani, a Sicilian Franciscan monk, found Lathyrus odoratus growing near his monastery in 1699 and sent seed to England and Amsterdam. Henry Eckford, a Scottish gardener working in Shropshire from 1888, bred the larger Grandiflora strains that made the sweet pea a Victorian and Edwardian favorite, earning him the Royal Horticultural Society's Victoria Medal of Honour in 1905."
+      },
+      {
+        "question": "Are sweet peas actually poisonous?",
+        "answer": "The seeds contain a toxin, BAPN, that can cause a connective-tissue condition called osteolathyrism, or odoratism, first documented in a 1952 rat study by Ponseti and Baird. That's a distinct type of lathyrism from neurolathyrism, the historic famine disease caused by a different toxin, ODAP, in Lathyrus sativus, the grass pea grown as a famine food. \"Lathyrism\" covers several related conditions, and sources that invoke it for sweet-pea toxicity without that distinction are describing a real but narrower hazard, not the famine disease."
+      },
+      {
+        "question": "Is the sweet pea related to the peas people eat?",
+        "answer": "No. Edible garden peas are Pisum sativum, a different genus within the same family, Fabaceae, as the ornamental sweet pea, Lathyrus odoratus."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — April Birth Flowers: Daisy and Sweet Pea Meanings & Symbolism",
+        "url": "https://www.almanac.com/content/april-birth-flowers"
+      },
+      {
+        "label": "Oxford English Dictionary — daisy, n.",
+        "url": "https://www.oed.com/dictionary/daisy_n"
+      },
+      {
+        "label": "Wikipedia — Daisy",
+        "url": "https://en.wikipedia.org/wiki/Daisy"
+      },
+      {
+        "label": "Wikipedia — He loves me... he loves me not",
+        "url": "https://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not"
+      },
+      {
+        "label": "Royal Botanic Gardens, Kew — Effeuillons la marguerite (let's pluck the daisy)",
+        "url": "https://www.kew.org/read-and-watch/lets-pluck-the-daisy"
+      },
+      {
+        "label": "Wikipedia — Sweet pea",
+        "url": "https://en.wikipedia.org/wiki/Sweet_pea"
+      },
+      {
+        "label": "Sarah Raven — The Sweet Pea Story",
+        "url": "https://www.sarahraven.com/articles/the-sweet-pea-story"
+      },
+      {
+        "label": "Wikipedia — Henry Eckford (horticulturist)",
+        "url": "https://en.wikipedia.org/wiki/Henry_Eckford_(horticulturist)"
+      },
+      {
+        "label": "Petal Republic — The Sweet Pea Story: Meaning, Symbolism, and Cultural Impact",
+        "url": "https://www.petalrepublic.com/sweet-pea-flower-meaning/"
+      },
+      {
+        "label": "ScienceDirect Topics — Lathyrism",
+        "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/lathyrism"
+      },
+      {
+        "label": "Wikipedia — Lathyrism",
+        "url": "https://en.wikipedia.org/wiki/Lathyrism"
+      }
+    ],
+    "image": "/images/april-birth-flower-daisy.jpg",
+    "imageAlt": "Five common daisies, Bellis perennis, the species most birth-flower charts name for April, distinct from the oxeye daisy and Shasta daisy that also go by the name \"daisy\"",
+    "imageCredit": "Photo by Friedrich Haag, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Five_daisies_(Bellis_perennis).jpg), CC BY-SA 4.0"
   }
 ];
 

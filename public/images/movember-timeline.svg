@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of Movember, 1999 to today</title>
+  <desc id="desc">1999: An unrelated Adelaide group coins "Movember" for an RSPCA fundraiser. 2003: Travis Garone and Luke Slattery recruit 30 Mo Bros in Melbourne for prostate cancer awareness. 2004: Adam Garone and Justin Coghlan formalize the campaign, registering a company and building a website. 2006: The Movember Foundation becomes an official Australian charity and adds a second cause, depression. Today: the foundation has funded more than AUD 1.8 billion across three causes.</desc>
+  <rect width="1000" height="320" fill="#faf7f0" />
+
+  <line x1="60" y1="160" x2="940" y2="160" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1999 -->
+  <circle cx="100" cy="160" r="7" fill="#2f4858" />
+  <text x="100" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">1999</text>
+  <text x="100" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="100" dy="0">An unrelated Adelaide</tspan>
+    <tspan x="100" dy="15">group coins "Movember"</tspan>
+    <tspan x="100" dy="15">for an RSPCA fundraiser</tspan>
+  </text>
+
+  <!-- 2003 -->
+  <circle cx="280" cy="160" r="7" fill="#5b6d45" />
+  <text x="280" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2003</text>
+  <text x="280" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="280" dy="0">Travis Garone and Luke</tspan>
+    <tspan x="280" dy="15">Slattery recruit 30 Mo</tspan>
+    <tspan x="280" dy="15">Bros in Melbourne</tspan>
+  </text>
+
+  <!-- 2004 -->
+  <circle cx="460" cy="160" r="7" fill="#a8352b" />
+  <text x="460" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2004</text>
+  <text x="460" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="460" dy="0">Adam Garone and Justin</tspan>
+    <tspan x="460" dy="15">Coghlan formalize it: a</tspan>
+    <tspan x="460" dy="15">company and a website</tspan>
+  </text>
+
+  <!-- 2006 -->
+  <circle cx="640" cy="160" r="7" fill="#8a6a2f" />
+  <text x="640" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2006</text>
+  <text x="640" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="640" dy="0">Official Australian charity</tspan>
+    <tspan x="640" dy="15">status; depression added</tspan>
+    <tspan x="640" dy="15">as a second cause</tspan>
+  </text>
+
+  <!-- Today -->
+  <circle cx="880" cy="160" r="7" fill="#6d4470" />
+  <text x="880" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">Today</text>
+  <text x="880" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="880" dy="0">More than AUD 1.8</tspan>
+    <tspan x="880" dy="15">billion funded across</tspan>
+    <tspan x="880" dy="15">three causes</tspan>
+  </text>
+</svg>

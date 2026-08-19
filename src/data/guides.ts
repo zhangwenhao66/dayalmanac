@@ -5965,6 +5965,162 @@ export const guides: Guide[] = [
     "image": "/images/january-birth-flower-carnation.jpg",
     "imageAlt": "Dianthus caryophyllus, the carnation, January's birth flower, whose common name has three competing and unresolved origin stories",
     "imageCredit": "Photo by Krzysztof Ziarnek, Kenraiz, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dianthus_caryophyllus_%27Cornelia%27_kz01.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "movember",
+    "category": "Observances",
+    "title": "Movember: All of November, and a Second Movember from 1999",
+    "description": "Movember runs all of November worldwide. A separate, unrelated group coined the same name in Adelaide back in 1999, years before today's charity began.",
+    "published": "2026-08-19",
+    "updated": "2026-08-19",
+    "coreSummary": "Movember is observed across all of November, every year, worldwide, as a moustache-growing fundraiser for men's health. The global movement people mean today traces to Melbourne, Australia, where Travis Garone and Luke Slattery recruited 30 friends in 2003; the Movember Foundation's own current site and Wikipedia's article both instead date the founding to 2004, when Adam Garone and Justin Coghlan formalized the campaign into a registered company. A separate, unconnected group in Adelaide had already coined the word \"Movember\" in 1999 for an RSPCA fundraiser, with no organizational link to the men's-health movement that carries the name today.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Movember is observed across all of November, every year, worldwide, from November 1 through November 30, rather than on a single date or a floating week within the month.",
+      "status": "conventional",
+      "source": {
+        "label": "Movember — Our History (us.movember.com)",
+        "url": "https://us.movember.com/about/history"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-11-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-11-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-11-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-11-01",
+          "weekday": "Saturday"
+        }
+      ],
+      "caveat": "Every source agrees on the month itself: no rival date range circulates for Movember the way it does for some other observances on this calendar. What is missing is any government behind that range. No parliament or Congress has legislated it and no head of state proclaims it in any of the more than twenty countries where it runs; Movember has always been organized by a private charitable foundation, not designated by law. That absence is worth stating plainly, because the foundation's scale, more than a billion dollars raised worldwide, can make the observance read like it has some kind of official standing behind its dates. It does not. The foundation sets its own calendar every year, the same way it always has."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The word \"Movember\" predates the men's-health movement that made it famous. In November 1999, Seven Network's Adelaide newsroom aired a segment on a group of young men in Adelaide, South Australia, who had coined the term themselves and organized roughly 80 participants to grow moustaches for the month. Their cause had nothing to do with men's health: the self-styled \"Movember Committee\" sold T-shirts under the slogan \"Growing whiskers for whiskers\" to raise money for the RSPCA, the animal-welfare charity. That 1999 Adelaide campaign became a local phenomenon in its own right, but it has no organizational connection to the global movement that carries the same name today, and the current Movember Foundation's own history pages make no mention of it.\n\nThe movement most people mean by Movember began in Melbourne. According to the foundation's own retelling of its early years, Travis Garone and Luke Slattery were having a beer at the Gypsy Bar in Fitzroy in 2003 when their conversation turned to the moustache's disappearance from recent fashion. Inspired by a friend's mother who was fundraising for breast cancer, they built a men's-health campaign around growing one instead, settled on prostate cancer as the cause, designed the rules the campaign still uses, and recruited 30 friends by email under the subject line \"Are you man enough to be my man?\" Each participant paid ten dollars to take part.\n\nWhether 2003 or 2004 is the founding year depends on which source is asked, and the two years are not simply describing two different steps of the same story. Wikipedia's article states in its main text that the Melbourne group's 30-moustache recruitment event itself happened in 2004, the same event the foundation's own retelling dates to 2003, not a separate formalization step; Wikipedia never mentions a company or website being registered at all. Wikipedia's own article also contradicts itself on the point: its category tags file the page under \"2003 establishments in Australia,\" an inconsistency inside one source, not just between sources. The foundation's current site sides with 2004 too, marking its age as \"twenty-two years\" as of an August 2026 update, but for a different reason: that count matches 2004 as the year Adam Garone and Justin \"JC\" Coghlan registered a company and a website and ran the first campaign under a formal structure, in which 450 Mo Bros raised AUD 54,000 and the first international participants, in Spain and the United Kingdom, signed on. The foundation's own list of that original 30 includes both Adam Garone and JC by name alongside Travis Garone and Luke Slattery, so the four co-founders were all involved as participants from the informal 2003 start; what changed in 2004 was that Adam and JC took on the work of running it as an organization. Wikipedia's 2004 date and the foundation's 2004 date, in other words, agree on the year without agreeing on what happened in it.\n\nThe campaign's causes also grew well after its founding. The original 2003 and 2004 campaigns raised money for prostate cancer alone. In 2006, the same year the Movember Foundation became a registered Australian charity, the foundation partnered with beyondblue, Australia's national depression initiative, adding mental health as a second cause and reaching New Zealand for the first time. Testicular cancer joined later still, rounding out the three causes, prostate cancer, testicular cancer, and mental health and suicide prevention, that the foundation names today, though no source consulted for this page pins an exact year for testicular cancer's addition specifically. Movember reached North America through informal 2007 campaigns in the United States and Canada, led by Adam Garone from Los Angeles, and Movember USA obtained official U.S. charity status in 2009. By the foundation's own most recently updated figures, Movember has funded more than AUD 1.8 billion in men's-health work since it began.\n\nOne sourcing note on the paragraphs above: the year-by-year narrative, the Gypsy Bar conversation, the ten-dollar buy-in, the 450 Mo Bros and AUD 54,000 figure, and the 2006 to 2009 expansion, is drawn from a Movember-branded retrospective republished by M2 Magazine, not from the foundation's own currently live history page, which states only the campaign's age and its cumulative total raised. Nothing in the two accounts conflicts where they overlap, but a reader checking the live page directly will not find the detailed narrative there.",
+      "source": {
+        "label": "Movember — Our History (us.movember.com)",
+        "url": "https://us.movember.com/about/history"
+      }
+    },
+    "sections": [
+      {
+        "heading": "All of November, with no government behind it",
+        "body": [
+          "Movember runs the full 30 days of November, every year, in every country where the foundation operates. There is no rival date range to reconcile here and no nth-weekday arithmetic to compute: November 1 marks the start of the observance in the table above, and it runs through November 30 in every case.",
+          "What sets Movember apart from many observances on this calendar is not a competing date but a missing legal one. No parliament, Congress, or head of state has ever legislated or proclaimed the month in any of the more than twenty countries where campaigns run. It remains, everywhere, a campaign a private charitable foundation organizes on its own authority, no different in that respect from No-Shave November, the unrelated American campaign it is most often confused with."
+        ]
+      },
+      {
+        "heading": "A second Movember, unconnected and four years earlier",
+        "body": [
+          "The name \"Movember\" was already in use before the charity that made it famous existed. On November 30, 1999, Seven Network's Adelaide newsroom broadcast a segment on a self-styled \"Movember Committee,\" a group of young men in Adelaide who had coined the term themselves and grown moustaches through the month, drawing roughly 80 participants. Their cause was animal welfare, not men's health: they sold T-shirts under the slogan \"Growing whiskers for whiskers\" to benefit the RSPCA. The broadcast itself, not a retrospective written by anyone connected to today's foundation, is the primary record of that campaign; it has since been archived and remains viewable.",
+          "The Movember Foundation's own history pages do not mention the 1999 Adelaide campaign at all, and nothing found for this page suggests the two groups ever had contact. A reader who assumes \"Movember\" was coined by the Melbourne founders in 2003 is repeating a claim the record does not actually support; the word predates them by roughly four years, attached to an entirely different cause."
+        ],
+        "image": {
+          "src": "/images/movember-timeline.svg",
+          "alt": "Timeline showing Movember's path from an unrelated 1999 Adelaide fundraiser through the 2003 Melbourne origin, 2004 formalization, and 2006 charity status to today"
+        }
+      },
+      {
+        "heading": "One pub conversation, then a formal launch a year later",
+        "body": [
+          "The movement people mean today by Movember started with a beer at the Gypsy Bar in Fitzroy, Melbourne, in 2003. Travis Garone and Luke Slattery, talking about how the moustache had vanished from recent fashion, decided to bring it back as a fundraiser, inspired by a friend's mother who was raising money for breast cancer. They picked prostate cancer as their cause, designed the rules the campaign still follows, charged ten dollars to take part, and emailed friends under the subject line \"Are you man enough to be my man?\" Thirty of them said yes.",
+          "Ask what year Movember was founded, though, and sources split. The foundation's own current site describes its age as \"twenty-two years,\" counting from 2004, and Wikipedia's article text places the Melbourne group's founding event in that same year, even while the article's own category tag files it under 2003. The gap traces to a real organizational change: 2004 was when Adam Garone and Justin \"JC\" Coghlan turned the informal 2003 challenge into a registered company with a website and a first funded campaign, raising AUD 54,000 from 450 participants, including the first Mo Bros outside Australia, in Spain and the UK. Both Garone and Coghlan, however, appear by name on the foundation's own list of that original 30 from 2003, so they were part of the campaign from its first year as participants; 2004 is when they took charge of running it as an organization rather than when they first grew a moustache for it."
+        ]
+      },
+      {
+        "heading": "From a $10 buy-in to $1.8 billion, and a second cause",
+        "body": [
+          "The 2003 and 2004 campaigns raised money for one cause: prostate cancer. In 2005, the Prostate Cancer Foundation of Australia became Movember's first official partner, and roughly 9,300 Mo Bros raised AUD 1.2 million. In 2006, the Movember Foundation registered as an official Australian charity, launched in New Zealand, and partnered with beyondblue, the national depression initiative, adding mental health as a second cause for the first time.",
+          "The campaign reached North America in 2007, when Adam Garone moved to Los Angeles to launch informal U.S. and Canadian campaigns, and Movember USA obtained official American charity status in 2009. Testicular cancer joined later still, completing the three causes the foundation names today: prostate cancer, testicular cancer, and mental health and suicide prevention. By the foundation's own most recently updated figures, Movember has funded more than AUD 1.8 billion in men's-health work worldwide since it began, spanning more than 1,250 funded programs across upward of twenty countries."
+        ]
+      },
+      {
+        "heading": "Movember is not No-Shave November",
+        "body": [
+          "The two campaigns are frequently confused, and Movember's own rules are stricter than the confusion suggests. Movember asks participants to start November clean-shaven and grow a moustache only, nothing else, over the course of the month. [No-Shave November](/no-shave-november/), by contrast, has no such requirement: participants simply stop shaving and grooming, whether that produces a beard, a moustache, or something else entirely, and the campaign began independently in 2009 out of one Chicago family's loss, six years after Movember's own 2003 start and unconnected to it.",
+          "The two campaigns also fund different things by design. Movember directs its money toward prostate cancer, testicular cancer, and mental health and suicide prevention specifically. No-Shave November's current operator, Fight Colorectal Cancer, directs its funds toward colorectal cancer research and its partner charities. Growing hair for one does not support the other's cause, even though both campaigns run the same 30 days."
+        ]
+      },
+      {
+        "heading": "How Movember is actually observed",
+        "body": [
+          "Movember carries no legal status anywhere it runs: no country's offices close for it, and no workplace is required to recognize it. Participation is built around the moustache itself. Registered participants, called Mo Bros, start November clean-shaven and grow a moustache for the month, using the foundation's fundraising platform to collect pledges from friends, family, and coworkers. Women who fundraise or organize on a Mo Bro's behalf are called Mo Sistas. Teams, including workplace teams, are common, and local fundraising events, from casual meetups to formal galas, run throughout the month in the countries where Movember has an official presence.",
+          "Because the foundation runs the calendar itself rather than any government, the specific programs it funds and the causes it emphasizes shift somewhat from year to year, even though the underlying month never moves. What has stayed constant since the campaign's earliest years is the core mechanic: grow a moustache in public for 30 days, and let the visible, temporary change stand in for a conversation about men's health that participants might not otherwise have."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Movember?",
+        "answer": "All of November, every year, worldwide, from November 1 through November 30. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded Movember?",
+        "answer": "Travis Garone and Luke Slattery recruited 30 friends in Melbourne, Australia, in 2003 to grow moustaches for prostate cancer awareness. Adam Garone and Justin \"JC\" Coghlan, both of whom had already taken part in that original 2003 group, formalized the effort into a registered campaign with a website in 2004."
+      },
+      {
+        "question": "Was Movember founded in 2003 or 2004?",
+        "answer": "Sources differ, and not just on the year. The foundation's own account puts the original 30-person moustache event in 2003 and dates 2004 to a separate step, registering a company and a website. Wikipedia's article instead dates the 30-person event itself to 2004, contradicting the foundation on when that specific event happened, and never mentions a company or website at all. Both sources land on 2004 for different reasons, and Wikipedia's own category tags file the same article under \"2003 establishments in Australia,\" disagreeing with its own text."
+      },
+      {
+        "question": "Is the 1999 Adelaide \"Movember\" connected to today's charity?",
+        "answer": "No. A separate group of young men in Adelaide, South Australia, coined the term \"Movember\" and grew moustaches to raise money for the RSPCA animal-welfare charity in 1999, four years before the Melbourne group that became today's Movember Foundation. The two campaigns have no documented organizational connection, and the current foundation's own history pages do not mention the 1999 Adelaide campaign."
+      },
+      {
+        "question": "Is Movember the same as No-Shave November?",
+        "answer": "No. Movember requires growing a moustache specifically, starting from clean-shaven, and funds prostate cancer, testicular cancer, and mental health and suicide prevention. No-Shave November allows any kind of unshaven hair growth and funds colorectal cancer research through its current operator, Fight Colorectal Cancer. Movember also started six years earlier, in 2003, compared to No-Shave November's 2009 founding."
+      },
+      {
+        "question": "Is Movember a legal holiday or a government-recognized observance?",
+        "answer": "No. No country's parliament or Congress has legislated Movember and no head of state has proclaimed it. It is organized entirely by the Movember Foundation, a private charity, in every country where it runs."
+      },
+      {
+        "question": "How much money has Movember raised?",
+        "answer": "More than AUD 1.8 billion since the campaign began, according to the Movember Foundation's own most recently updated figures, funding upward of 1,250 men's-health programs across more than twenty countries."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Movember — Our History (us.movember.com)",
+        "url": "https://us.movember.com/about/history"
+      },
+      {
+        "label": "M2 Magazine — \"A Hairy Tale: The History of Movember's Early Years\" (republished Movember foundation account)",
+        "url": "https://m2now.com/a-hairy-tale-the-history-of-movembers-early-years/"
+      },
+      {
+        "label": "Wikipedia — Movember",
+        "url": "https://en.wikipedia.org/wiki/Movember"
+      },
+      {
+        "label": "Seven Nightly News — \"Movember Mo-Phenomenon,\" Channel 7 Adelaide, 30 November 1999 (archived)",
+        "url": "https://web.archive.org/web/20210826100209/https://www.youtube.com/watch?v=NPH0qQFqs0M"
+      },
+      {
+        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "url": "https://no-shave.org/"
+      }
+    ],
+    "image": "/images/movember-mo-bros.jpg",
+    "imageAlt": "A group of Mo Bros displaying the moustaches they grew for Movember",
+    "imageCredit": "Photo by Kris Walton, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Movember.jpg), CC BY-SA 3.0"
   }
 ];
 

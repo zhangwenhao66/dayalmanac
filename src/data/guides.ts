@@ -1154,6 +1154,10 @@ export const guides: Guide[] = [
         "answer": "Friday, October 16, 2026. The date is fixed at October 16 every year and does not depend on the day of the week; in 2026 it happens to land on a Friday."
       },
       {
+        "question": "When is National Boss's Day in 2027?",
+        "answer": "Saturday, October 16, 2027. The date is fixed at October 16 every year and does not depend on the day of the week; in 2027 it happens to land on a Saturday. This page lists October 16 itself, since no primary source confirms the widely repeated weekend-shift convention; readers whose workplace follows that convention would mark the day on Friday, October 15 instead."
+      },
+      {
         "question": "Does National Boss's Day move to a different day when October 16 falls on a weekend?",
         "answer": "Hallmark's corporate site and Wikipedia's infobox both describe a convention where the workplace observance shifts to the nearest working day: Friday if October 16 is a Saturday, Monday if it is a Sunday. That convention is widely repeated, but no primary document from the 1958 registration or the 1962 proclamation is available to confirm it was part of the original rule rather than added later. This page lists October 16 itself for every year on that basis."
       },

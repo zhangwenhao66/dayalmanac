@@ -203,5 +203,15 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-19",
+    "action": "submitted",
+    "reason": "今日新发布January Birth Flower（january-birth-flower，13:35档，本日第1篇），URL Inspection确认'URL is not on Google'（unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
+    "submitted_urls": [
+      "https://dayalmanac.com/january-birth-flower/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

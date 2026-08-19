@@ -1,0 +1,188 @@
+{
+  "https://dayalmanac.com/national-bosses-day/": {
+    "submitted_date": "2026-08-02",
+    "verified_status": "pending",
+    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission.",
+    "last_checked_date": "2026-08-12",
+    "verified_method": "bwt_url_inspection",
+    "last_submitted_date": "2026-08-12"
+  },
+  "https://dayalmanac.com/national-boyfriend-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin.",
+    "last_submitted_date": "2026-08-13",
+    "last_checked_date": "2026-08-12",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/national-cat-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data.",
+    "last_checked_date": "2026-08-12",
+    "verified_method": "bwt_url_inspection",
+    "last_submitted_date": "2026-08-10"
+  },
+  "https://dayalmanac.com/national-coffee-day/": {
+    "submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found.",
+    "last_checked_date": "2026-08-12",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/national-dog-day/": {
+    "submitted_date": "2026-08-03",
+    "last_submitted_date": "2026-08-03",
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-08",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/december-birthstone/": {
+    "submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-08-04",
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-10",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/national-daughters-day/": {
+    "submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-08-11",
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-10",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/virgo-dates/": {
+    "submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-08-11",
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-10",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/march-birthstone/": {
+    "submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-08-04",
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-10",
+    "verified_method": "bwt_url_inspection"
+  },
+  "https://dayalmanac.com/september-birthstone/": {
+    "submitted_date": "2026-08-05",
+    "last_submitted_date": "2026-08-05",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/scorpio-dates/": {
+    "submitted_date": "2026-08-05",
+    "last_submitted_date": "2026-08-05",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/january-birthstone/": {
+    "submitted_date": "2026-08-05",
+    "last_submitted_date": "2026-08-05",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/https://dayalmanac.com/national-sons-day/": {
+    "submitted_date": "2026-08-05",
+    "last_submitted_date": "2026-08-05",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/red-ribbon-week/": {
+    "submitted_date": "2026-08-06",
+    "last_submitted_date": "2026-08-06",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/true-or-false/": {
+    "submitted_date": "2026-08-06",
+    "last_submitted_date": "2026-08-06",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/domestic-violence-awareness-month/": {
+    "submitted_date": "2026-08-09",
+    "last_submitted_date": "2026-08-09",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/national-grandparents-day/": {
+    "submitted_date": "2026-08-09",
+    "last_submitted_date": "2026-08-09",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/national-taco-day/": {
+    "submitted_date": "2026-08-09",
+    "last_submitted_date": "2026-08-09",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/national-hispanic-heritage-month/": {
+    "submitted_date": "2026-08-09",
+    "last_submitted_date": "2026-08-09",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/no-shave-november/": {
+    "submitted_date": "2026-08-10",
+    "last_submitted_date": "2026-08-10",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/breast-cancer-awareness-month/": {
+    "submitted_date": "2026-08-10",
+    "last_submitted_date": "2026-08-10",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/diabetes-awareness-month/": {
+    "submitted_date": "2026-08-10",
+    "last_submitted_date": "2026-08-10",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/national-black-cat-day/": {
+    "submitted_date": "2026-08-10",
+    "last_submitted_date": "2026-08-10",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/birthstones-by-month/": {
+    "submitted_date": "2026-08-11",
+    "last_submitted_date": "2026-08-11",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/international-mens-day/": {
+    "submitted_date": "2026-08-11",
+    "last_submitted_date": "2026-08-11",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/august-birth-flower/": {
+    "submitted_date": "2026-08-11",
+    "last_submitted_date": "2026-08-11",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/september-birth-flower/": {
+    "submitted_date": "2026-08-12",
+    "last_submitted_date": "2026-08-12",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/july-birth-flower/": {
+    "submitted_date": "2026-08-12",
+    "last_submitted_date": "2026-08-12",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/talk-like-a-pirate-day/": {
+    "submitted_date": "2026-08-12",
+    "last_submitted_date": "2026-08-12",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/epilepsy-awareness-month/": {
+    "submitted_date": "2026-08-13",
+    "last_submitted_date": "2026-08-13",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/adhd-awareness-month/": {
+    "submitted_date": "2026-08-13",
+    "last_submitted_date": "2026-08-13",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/national-first-responders-day/": {
+    "submitted_date": "2026-08-16",
+    "last_submitted_date": "2026-08-16",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/suicide-prevention-month/": {
+    "submitted_date": "2026-08-16",
+    "last_submitted_date": "2026-08-16",
+    "verified_status": "pending"
+  }
+}

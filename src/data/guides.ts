@@ -6121,6 +6121,202 @@ export const guides: Guide[] = [
     "image": "/images/movember-mo-bros.jpg",
     "imageAlt": "A group of Mo Bros displaying the moustaches they grew for Movember",
     "imageCredit": "Photo by Kris Walton, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Movember.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "prostate-cancer-awareness-month",
+    "category": "Observances",
+    "title": "Prostate Cancer Awareness Month: September, Except Once in 2001",
+    "description": "Prostate Cancer Awareness Month covers all of September. In 2001 the Senate asked for September, but that year's presidential proclamation named November instead.",
+    "published": "2026-08-19",
+    "updated": "2026-08-19",
+    "coreSummary": "Prostate Cancer Awareness Month is observed across all of September, every year, in the United States, with one documented exception. The observance traces to a 1989 screening campaign that named the third week of September Prostate Cancer Awareness Week, was expanded to the full month as National Prostate Health Month by the American Foundation for Urological Disease in 1999, and got its cancer-specific name from a Senate resolution in 2001 that asked for September, only for that year's presidential proclamation to name November instead. September and the name have gone together every year since President George W. Bush's Proclamation 7700 in 2003. No permanent federal statute renews the month automatically; every President has proclaimed or messaged it since, and Congress has periodically passed its own non-binding resolutions naming specific years.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Prostate Cancer Awareness Month is observed across all of September, every year, from September 1 through September 30, rather than on a single date or a floating week within the month. The Senate asked the President to proclaim September 2001 under this name; that year's proclamation instead named November. September has been the proclaimed month every year since President George W. Bush's Proclamation 7700 on September 1, 2003.",
+      "source": {
+        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-09-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-09-01",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-01",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "There is no competing date range for this observance today: every current source agrees the entire month of September is Prostate Cancer Awareness Month, so the table above lists September 1 as each year's start with the understanding that the observance runs through September 30. That was not always true. On August 3, 2001, the Senate agreed to Resolution 138, asking the President to proclaim September 2001 under this exact name. President George W. Bush's proclamation that year instead named November 2001, not September, as National Prostate Cancer Awareness Month. The cancer-specific name existed for two years, attached to two different months, before September 2003 became the month that has stuck every year since. A separate, older observance, Prostate Cancer Awareness Week, is nested inside the month each year from September 17 to 24. It predates the month-long observance by a decade and is not simply a shorthand for it."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The observance began a decade before it had a name resembling today's. In 1989, a newly formed Prostate Cancer Education Council, made up of urologists, oncologists, behavioral researchers, and patient advocates, commissioned a health survey that March to gauge public knowledge of prostate cancer, held a press conference in New York City that summer, and designated the third week of September, September 17 to 24, 1989, as Prostate Cancer Awareness Week. Its stated purpose was blunt: to find out whether men could be recruited to get screened at all for what organizers called \"the ignored male disease.\" The week grew into what several sources describe as the country's largest single cancer-screening program, tracked in peer-reviewed follow-up studies published in CA: A Cancer Journal for Clinicians through at least 1997.\n\nA full month arrived a decade after the first week. In 1999, the American Foundation for Urological Disease (AFUD), renamed the Urology Care Foundation in 2011, designated all of September as National Prostate Health Month, an observance about prostate health generally rather than cancer specifically. The cancer-specific name came from Congress two years later: on August 3, 2001, the Senate agreed to Resolution 138 by unanimous consent, sponsored by Senator Conrad Burns of Montana and cosponsored by 58 other senators, which asked the President to proclaim September 2001 as \"National Prostate Cancer Awareness Month.\" The resolution requested that one specific month; it did not, on its own, make the name or the September date permanent.\n\nWhat the President actually proclaimed that year did not match the Senate's request. On November 1, 2001, George W. Bush proclaimed National Prostate Cancer Awareness Month, but for November 2001, the first presidential use of the cancer-specific name on record, attached to a different month than Congress had asked for. September and the name came together for good two years later: on September 1, 2003, Bush's Proclamation 7700 named September 2003 National Prostate Cancer Awareness Month, citing an estimated 220,000 new diagnoses and nearly 29,000 deaths that year. September has been the proclaimed month every year since. No standing law compels a proclamation every year; each one rests on the President's own authority. Obama proclaimed the month in at least 2011 and 2015, Biden issued a formal proclamation in 2022, and both Trump administrations have marked it, first as a 2017 statement and again as a September 2, 2025 presidential message citing more than 300,000 annual diagnoses and more than 35,000 deaths. Congress has periodically added its own non-binding resolutions naming specific years since, including versions for 2021 (S.Res.378) and 2022 (S.Res.776), and the House introduced a matching resolution for 2025 (H.Res.675). None of these amounts to a permanent law that renews the observance automatically; each year's recognition is its own separate act.",
+      "source": {
+        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, every year",
+        "body": [
+          "Prostate Cancer Awareness Month covers all 30 days of September, not a single date or a floating week inside it. There is no nth-weekday arithmetic to compute and no rival set of dates from a competing organization to sort out; every federal, medical, and advocacy source treats the full month the same way.",
+          "What has genuinely changed since the observance began is not the calendar but the name attached to it, and the paperwork behind that name. A 1999 designation covered prostate health broadly; a 2003 proclamation narrowed the focus to cancer specifically. That distinction, not the date range, is the part most calendar sites skip past."
+        ]
+      },
+      {
+        "heading": "1989: A screening week, not yet a month",
+        "body": [
+          "The observance's roots are in a single question: could men be persuaded to get screened for a disease few of them talked about? In 1989, the newly formed Prostate Cancer Education Council, a coalition spanning urology, oncology, behavioral research, and patient and minority advocacy groups, commissioned a health survey that March to measure public knowledge, attitudes, and health practices around prostate cancer. That summer, the Council held a press conference in New York City and designated September 17 to 24, 1989, as the first Prostate Cancer Awareness Week.",
+          "The week was not a symbolic gesture. It became, by several accounts, the largest single cancer-screening program run in the United States at the time, offering free or low-cost prostate exams at sites around the country. Academic follow-ups tracked the campaign's growth for years afterward, including a peer-reviewed summary of findings published in CA: A Cancer Journal for Clinicians covering the 1997 iteration, September 22 to 28 that year, eight years into the campaign."
+        ]
+      },
+      {
+        "heading": "1999 and 2001: A foundation names the month, then Congress names the disease",
+        "body": [
+          "A full month did not exist until ten years after the first week. In 1999, the American Foundation for Urological Disease (AFUD), the organization that later became the Urology Care Foundation in 2011, designated all of September as National Prostate Health Month. The name mattered: this was a broader observance about prostate health in general, covering conditions like prostatitis and benign prostatic hyperplasia alongside cancer, not a cancer-specific campaign.",
+          "The cancer-specific name came from Congress two years later. On August 3, 2001, the Senate agreed to Resolution 138 by unanimous consent, a measure sponsored by Senator Conrad Burns of Montana and cosponsored by 58 other senators. It asked the President to proclaim September 2001 as \"National Prostate Cancer Awareness Month,\" citing an estimated 198,100 diagnoses and 31,500 deaths that year. A Senate resolution of this kind is a request, not an order; it does not by itself create a proclamation, set a permanent name, or fix a date."
+        ]
+      },
+      {
+        "heading": "2001 to 2003: A name attached to two different months",
+        "body": [
+          "What the President actually proclaimed did not match what the Senate had asked for. On November 1, 2001, George W. Bush signed a proclamation declaring November 2001, not September, \"National Prostate Cancer Awareness Month,\" the first presidential use of the cancer-specific name on record. For that one year, the name existed, but attached to a different month than the one Congress had in mind.",
+          "September and the name came together for good two years later. On September 1, 2003, Bush signed Proclamation 7700, which read in part: \"Prostate cancer is the second most common form of cancer among men in the United States. This year alone, it is estimated that more than 220,000 new cases of prostate cancer will be diagnosed and that nearly 29,000 men will die from this disease.\" That proclamation named September 2003 National Prostate Cancer Awareness Month, and September has been the proclaimed month in every year since."
+        ],
+        "image": {
+          "src": "/images/prostate-cancer-awareness-month-timeline.svg",
+          "alt": "Timeline showing Prostate Cancer Awareness Month's path from the 1989 screening week through the 1999 Prostate Health Month designation, the 2001 Senate resolution and November proclamation, to Bush's 2003 proclamation that put the name on September for good"
+        }
+      },
+      {
+        "heading": "Three weeks inside one month",
+        "body": [
+          "September carries more than one nested observance related to prostate health, a detail most calendar listings compress into a single line. Prostatitis Awareness Week runs September 10 to 16. Prostate Cancer Awareness Week, the direct descendant of the original 1989 campaign, runs September 17 to 24, the same dates that first press conference chose. Benign Prostatic Hyperplasia (BPH) Awareness Week closes out the month, September 24 to 30.",
+          "One observance that is not part of this cluster, despite sharing an audience: Testicular Cancer Awareness Week, which falls in a completely different part of the year, the first week of April. A reader who sees \"prostate\" and \"testicular\" awareness campaigns both described as men's-health observances can reasonably assume they share a season. They do not."
+        ]
+      },
+      {
+        "heading": "A proclamation nobody has to renew",
+        "body": [
+          "Since Bush's 2003 proclamation put the name back on September, every administration has marked the month there, though the format has shifted. Obama proclaimed it formally in at least 2011 and 2015. Biden issued a full proclamation in 2022, published in the Federal Register the following month. Trump's first administration issued a statement in 2017 focused on falling incidence and mortality rates; his second administration issued a September 2, 2025 presidential message, a different document format than a proclamation, stating that \"every year, more than 300,000 men are diagnosed with prostate cancer, and more than 35,000 die from the disease.\" Congress has added its own layer on top of the executive branch's: the Senate passed non-binding resolutions naming specific years in 2021 (S.Res.378) and 2022 (S.Res.776), and the House introduced a matching resolution for 2025 (H.Res.675). None of this constitutes a standing law; each year's recognition, from either branch, is a fresh act.",
+          "The American Cancer Society's most recent estimate, for 2026, puts the numbers higher than the 2025 presidential message: about 333,830 new diagnoses and 36,320 deaths, with roughly 1 in 8 men expected to be diagnosed with prostate cancer at some point in their lives. The two figures are not contradictory; they come from different years and different estimating methods, and both describe a disease whose count of new cases has been rising by about 3 percent a year since 2014, according to the ACS. Prostate Cancer Awareness Month carries no legal holiday status. No federal offices close and no paid leave attaches to it; what happens instead is decentralized, through screening events, the light blue awareness ribbon, and campaigns run by hospitals, advocacy groups, and employers throughout the month.",
+          "September's observance sits alongside two other awareness months on this calendar built the same way, a professional or advocacy organization starts it, a President later proclaims it, and Congress occasionally adds a resolution without ever making it permanent. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), observed the following month, followed a close variant of the same path. [Movember](/movember/), which raises money for prostate and testicular cancer research every November, took a different route entirely: it started as a bar bet in Melbourne with no government involvement at all. [International Men's Day](/international-mens-day/), each November 19, covers men's health as one part of a broader observance rather than as its whole focus."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Prostate Cancer Awareness Month?",
+        "answer": "The entire month of September, every year, from September 1 through September 30. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded Prostate Cancer Awareness Month?",
+        "answer": "The Prostate Cancer Education Council designated the third week of September as Prostate Cancer Awareness Week in 1989. The American Foundation for Urological Disease expanded that into a full month, National Prostate Health Month, in 1999. The cancer-specific name came from the Senate in 2001, in a resolution asking for September, though that year's presidential proclamation named November instead. President George W. Bush's Proclamation 7700 put the name on September for good on September 1, 2003."
+      },
+      {
+        "question": "Is Prostate Cancer Awareness Month the same as Prostate Cancer Awareness Week?",
+        "answer": "No. Prostate Cancer Awareness Week runs September 17 to 24 each year and traces to a 1989 screening campaign, a full decade before the month-long observance existed. The week is nested inside the month rather than being another name for it."
+      },
+      {
+        "question": "Why did the name change from \"Prostate Health Month\" to \"Prostate Cancer Awareness Month\"?",
+        "answer": "The American Foundation for Urological Disease's original 1999 name covered prostate health broadly, including non-cancerous conditions like prostatitis and benign prostatic hyperplasia. The cancer-specific name arrived via a Senate resolution in 2001 and became a fixed annual fixture of presidential proclamations starting in 2003, without changing the dates the observance covers."
+      },
+      {
+        "question": "Did the observance always fall in September?",
+        "answer": "Nearly always, but not in 2001. The Senate asked the President to proclaim September 2001 as National Prostate Cancer Awareness Month, but that year's presidential proclamation named November 2001 instead. September has been the proclaimed month in every year since 2003."
+      },
+      {
+        "question": "Did Congress pass a permanent law making this automatic every year?",
+        "answer": "No. Presidents have proclaimed or messaged the month under their own executive authority every year since 2003, without a standing statute requiring it. Congress has periodically passed its own non-binding resolutions naming specific years, including 2021, 2022, and 2025, but none of them renews the observance automatically going forward."
+      },
+      {
+        "question": "Is Prostate Cancer Awareness Month a federal holiday?",
+        "answer": "No. No federal offices close and no paid leave attaches to it. It is marked through presidential proclamations or messages, congressional resolutions, and screening and awareness events run by hospitals and advocacy groups."
+      },
+      {
+        "question": "How many men are diagnosed with prostate cancer each year?",
+        "answer": "The American Cancer Society's estimate for 2026 is about 333,830 new diagnoses and 36,320 deaths in the United States, with roughly 1 in 8 men expected to be diagnosed at some point in their lives. A September 2025 presidential message cited slightly lower figures, more than 300,000 diagnoses and more than 35,000 deaths; the difference reflects different estimate years rather than a contradiction."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — National Prostate Health Month",
+        "url": "https://en.wikipedia.org/wiki/National_Prostate_Health_Month"
+      },
+      {
+        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
+      },
+      {
+        "label": "George W. Bush White House Archives — National Prostate Cancer Awareness Month, 2003 (press release text)",
+        "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2003/09/20030901-1.html"
+      },
+      {
+        "label": "George W. Bush White House Archives — National Prostate Cancer Awareness Month, November 2001 proclamation",
+        "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/11/20011105-1.html"
+      },
+      {
+        "label": "Congress.gov — S.Res.138, 107th Congress, requesting September 2001 as National Prostate Cancer Awareness Month",
+        "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/138"
+      },
+      {
+        "label": "GovTrack.us — S.Res.138, 107th Congress (agreed to August 3, 2001, 58 cosponsors)",
+        "url": "https://www.govtrack.us/congress/bills/107/sres138"
+      },
+      {
+        "label": "The American Presidency Project — Message on National Prostate Cancer Awareness Month, September 2, 2025",
+        "url": "https://www.presidency.ucsb.edu/documents/message-national-prostate-cancer-awareness-month-1"
+      },
+      {
+        "label": "Biden White House Archives — A Proclamation on National Prostate Cancer Awareness Month, 2022",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/31/a-proclamation-on-national-prostate-cancer-awareness-month-2022/"
+      },
+      {
+        "label": "Federal Register — National Prostate Cancer Awareness Month, 2022",
+        "url": "https://www.federalregister.gov/documents/2022/09/06/2022-19300/national-prostate-cancer-awareness-month-2022"
+      },
+      {
+        "label": "Congress.gov — S.Res.378, 117th Congress, designating September 2021 as National Prostate Cancer Awareness Month",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/378"
+      },
+      {
+        "label": "Congress.gov — S.Res.776, 117th Congress, designating September 2022 as National Prostate Cancer Awareness Month",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/776"
+      },
+      {
+        "label": "Congress.gov — H.Res.675, 119th Congress, supporting the designation of September 2025 as National Prostate Cancer Awareness Month",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/675/text"
+      },
+      {
+        "label": "American Cancer Society — Key Statistics for Prostate Cancer",
+        "url": "https://www.cancer.org/cancer/types/prostate-cancer/about/key-statistics.html"
+      },
+      {
+        "label": "Crawford, E.D. — \"Prostate Cancer Awareness Week: September 22 to 28, 1997,\" CA: A Cancer Journal for Clinicians (Wiley)",
+        "url": "https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/canjclin.47.5.288"
+      }
+    ],
+    "image": "/images/prostate-cancer-awareness-month-white-house.jpg",
+    "imageAlt": "The North Portico of the White House, where every National Prostate Cancer Awareness Month proclamation since 2003 has originated",
+    "imageCredit": "Photo by Don Ramey Logan, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg), CC BY-SA 4.0"
   }
 ];
 

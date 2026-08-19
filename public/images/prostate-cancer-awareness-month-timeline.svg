@@ -1,0 +1,54 @@
+<svg viewBox="0 0 1100 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of Prostate Cancer Awareness Month, 1989 to 2003</title>
+  <desc id="desc">1989: A screening campaign names the third week of September Prostate Cancer Week. 1999: The American Foundation for Urological Disease designates all of September National Prostate Health Month. 2001: The Senate asks for September under the cancer-specific name, but that year's presidential proclamation names November instead. 2003: Bush's proclamation puts the name on September for good, and every President has kept it there since.</desc>
+  <rect width="1100" height="340" fill="#faf7f0" />
+
+  <line x1="60" y1="170" x2="1040" y2="170" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1989 -->
+  <circle cx="110" cy="170" r="7" fill="#5b6d45" />
+  <text x="110" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">1989</text>
+  <text x="110" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="110" dy="0">A screening drive names</tspan>
+    <tspan x="110" dy="14">the third week of Sept.</tspan>
+    <tspan x="110" dy="14">Prostate Cancer Week</tspan>
+  </text>
+
+  <!-- 1999 -->
+  <circle cx="320" cy="170" r="7" fill="#5b6d45" />
+  <text x="320" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">1999</text>
+  <text x="320" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="320" dy="0">AFUD designates all</tspan>
+    <tspan x="320" dy="14">of September National</tspan>
+    <tspan x="320" dy="14">Prostate Health Month</tspan>
+  </text>
+
+  <!-- 2001 -->
+  <circle cx="560" cy="170" r="7" fill="#a8352b" />
+  <text x="560" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">2001</text>
+  <text x="560" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="560" dy="0">Senate asks for Sept.;</tspan>
+    <tspan x="560" dy="14">Bush's proclamation</tspan>
+    <tspan x="560" dy="14">names November instead</tspan>
+  </text>
+
+  <!-- 2003 -->
+  <circle cx="800" cy="170" r="7" fill="#5b6d45" />
+  <text x="800" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">2003</text>
+  <text x="800" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="800" dy="0">Bush's Proclamation 7700</tspan>
+    <tspan x="800" dy="14">puts the name on Sept.</tspan>
+    <tspan x="800" dy="14">for good</tspan>
+  </text>
+
+  <!-- present -->
+  <circle cx="1000" cy="170" r="7" fill="#5b6d45" />
+  <text x="1000" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">Since</text>
+  <text x="1000" y="198" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#1f1d1a" opacity="0.75">
+    <tspan x="1000" dy="0">Every President</tspan>
+    <tspan x="1000" dy="14">has kept it on</tspan>
+    <tspan x="1000" dy="14">September</tspan>
+  </text>
+
+  <text x="550" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.55">Prostate Cancer Awareness Week (1989) predates the month by a decade and is not the same observance.</text>
+</svg>

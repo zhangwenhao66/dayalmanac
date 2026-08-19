@@ -5841,6 +5841,126 @@ export const guides: Guide[] = [
     "image": "/images/february-birth-flower-violet.jpg",
     "imageAlt": "Viola odorata, the sweet violet, February's birth flower, unrelated to the African violet sold under a similar name",
     "imageCredit": "Photo by Uoaei1, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Viola_odorata_20210226.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "january-birth-flower",
+    "category": "Birth Flowers",
+    "title": "January Birth Flower: Carnation and Snowdrop, a Color Myth",
+    "description": "January's birth flowers are carnation and snowdrop, but the pink-carnation Mother's Day story most retailers tell doesn't match the documented 1908 record.",
+    "published": "2026-08-19",
+    "updated": "2026-08-19",
+    "coreSummary": "January's birth flowers are the carnation (Dianthus caryophyllus) and the snowdrop (Galanthus nivalis), per The Old Farmer's Almanac. Etymologists have never settled on a single origin for the word \"carnation,\" and the widely repeated claim that pink carnations were the original 1907 Mother's Day flower doesn't match the documented record: Anna Jarvis chose white, and the pink-for-a-living-mother convention was a later florist invention. Snowdrop's genus name is Greek for \"milk flower,\" and it carries two contradictory identities at once, a Christian legend of hope and a still-reported British folk superstition that a single bloom indoors foretells a death.",
+    "sections": [
+      {
+        "heading": "Carnation and snowdrop, the same two-flower pattern as every other month",
+        "body": [
+          "The Old Farmer's Almanac lists carnation and snowdrop as January's birth flowers, continuing the same two-per-month pattern this site has documented for July through December and February. As explained on this site's [August birth flower](/august-birth-flower/) page, the jewelry trade settled birthstones with a single 1912 convention, while birth flowers never got an equivalent standard-setting body. Competing 19th-century flower dictionaries picked different favorites, and the modern lists that followed generally kept more than one candidate rather than forcing a choice.",
+          "That accounts for why there are two flowers. It doesn't explain either one, and both carry more disputed history than a typical florist blurb has room for."
+        ]
+      },
+      {
+        "heading": "Carnation: a name with three rival origin stories",
+        "body": [
+          "The species behind January's birth flower is Dianthus caryophyllus, commonly called carnation or clove pink, a Mediterranean native that has been in cultivation for roughly 2,000 years, according to Wikipedia's entry on the species. The genus name Dianthus was coined by the Greek botanist Theophrastus from the words for \"divine\" and \"flower.\" The common name \"carnation\" is a separate puzzle Wikipedia's entry describes as unresolved: it may derive from the Latin corona, \"wreath\" or \"crown,\" because the flower was used in Greek and Roman ceremonial garlands; or from the Latin caro, genitive carnis, \"flesh,\" a reference to the bloom's original pinkish color; or from incarnatio, the Christian term for God taking on flesh. None of the three has displaced the others as the accepted answer.",
+          "The original wild color was a bright pinkish-purple. Centuries of cultivation have since produced red, yellow, white, and green varieties, along with the frilled, clove-scented hybrids sold by florists today."
+        ],
+        "image": {
+          "src": "/images/january-birth-flower-carnation.jpg",
+          "alt": "Dianthus caryophyllus, the carnation, January's birth flower, whose common name has three competing and unresolved origin stories",
+          "credit": "Photo by Krzysztof Ziarnek, Kenraiz, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dianthus_caryophyllus_%27Cornelia%27_kz01.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "The Mother's Day flower, and the color story that gets flattened online",
+        "body": [
+          "Carnations are tied to a second, better-documented history: Mother's Day. In 1907, Anna Jarvis chose the carnation as the holiday's emblem because it had been her own mother's favorite flower, according to Wikipedia's entry on the US observance. At the first formal Mother's Day service, held at Andrews Methodist Episcopal Church in Grafton, West Virginia, on May 10, 1908, Jarvis distributed 500 carnations, and the flower she chose was specifically white, meant to represent the purity of a mother's love.",
+          "The federal government's own paper trail backs up which color came first. Five years after Jarvis's Grafton service, Alabama Representative James Heflin introduced House Resolution 103 on May 10, 1913, requesting that President Wilson, his Cabinet, and every member of Congress wear a white carnation, \"or some other white flower,\" the next day to honor mothers as \"the greatest source of our country's strength and inspiration,\" according to the US House of Representatives' own historical archive. Members of the House did exactly that on May 11, 1913, the Capitol's first observance of the holiday, years before the pink-for-living, white-for-deceased color code florists later promoted existed at all.",
+          "A shortage of white carnations, combined with florists' interest in selling a wider range of stock for the holiday, led the flower industry to invent a color code: pink or red for a mother who was living, white for one who had died. That convention was heavily promoted until it became the popular custom seen in churches, and it's frequently what retail sites mean today when they call pink the Mother's Day carnation, sometimes stating outright that pink was Jarvis's original choice. The documented history, per Wikipedia's sourced account, says otherwise: white came first, and the pink option came later, from florists rather than from Jarvis.",
+          "A separate, older legend also ties pink carnations to motherhood and predates Jarvis by centuries. \"According to Christian legend, the first pink carnation on Earth grew from Mary's tears when she wept for Jesus as he carried his cross,\" The Old Farmer's Almanac writes. That's a piece of medieval religious folklore, not a description of anything that happened in 1907 or 1908. The two stories get told back to back often enough online that they read as one continuous history, when they're really two separate explanations for the same color, arriving roughly 1,875 years apart."
+        ]
+      },
+      {
+        "heading": "Snowdrop: the \"milk flower,\" and the different genus sold under a similar name",
+        "body": [
+          "Galanthus, the snowdrop's genus, combines the Greek words gala (\"milk\") and anthos (\"flower\"), a reference to the bloom's pure white color, per Wikipedia's entry on the genus. It comprises roughly 20 species of small, bulbous perennials, and January's birth flower is usually the most common of them, Galanthus nivalis. Snowdrops are native to the cooler mountainous and wooded regions of southern Europe and Asia Minor and have since naturalized across the United States, per The Old Farmer's Almanac; the same source notes that ancient Greeks used snowdrop extract for its mind-altering effects, and that monks and midwives are thought to have carried the plant into wider use across Europe as a folk remedy.",
+          "Wikipedia's entry on Galanthus notes that snowdrops are commonly confused with two related genera in the same plant tribe, Leucojum and Acis, both of which go by the common name \"snowflake.\" All three share the family Amaryllidaceae and a passing resemblance in their white, drooping flowers, but Galanthus, Leucojum, and Acis are distinct genera, not interchangeable names for the same plant."
+        ],
+        "image": {
+          "src": "/images/january-birth-flower-snowdrop.jpg",
+          "alt": "Galanthus nivalis, the snowdrop, January's other birth flower, whose genus name means \"milk flower\" in Greek",
+          "credit": "Photo by André Karwath aka Aka, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Galanthus_nivalis_close-up_aka.jpg), CC BY-SA 2.5"
+        }
+      },
+      {
+        "heading": "A flower that means both hope and, in British folklore, death",
+        "body": [
+          "The Old Farmer's Almanac gives the snowdrop a Christian origin story of its own, separate from the carnation's: an angel is said to have turned falling snowflakes into snowdrops and given them to Adam and Eve as a sign of hope after their expulsion from Eden. That legend sits alongside a documented, much darker strand of British folklore. A single snowdrop bloom brought indoors was traditionally believed to foretell a death, an association the Almanac ties to the flower's habit of growing in graveyards.",
+          "That superstition isn't a vague historical footnote. Plant-Lore, a folklore archive maintained by botanist Roy Vickery, has collected a string of first-person accounts of the belief from across England, Scotland, and Wales, with submitted reports dating from 1983 through 2019. One correspondent recalled being a student nurse in Hereford in 1952, when a landlady scolded her for bringing in a bunch of snowdrops a farmer's wife had given her, warning that they \"would bring death into the house.\" Another correspondent, writing in 2019, traced her own family's version of the belief back further still, reasoning that since her grandmother (born in 1901) had already been taught it, the superstition probably dates back to at least the early 1900s, though that's her own inference rather than a report from that era. Others describe grandmothers and mothers refusing to allow snowdrops indoors at all, even as potted plants, well into the late 20th century. The same flower stands for hope in one telling and an omen of death in another, and the death superstition alone has been recorded in continuous use for at least the past four decades."
+        ]
+      },
+      {
+        "heading": "January's other reference points",
+        "body": [
+          "For the gemstone side of a January birthday, this site's [January birthstone](/january-birthstone/) page covers garnet, the one month in this birthstone series where every source checked, from a centuries-old tradition through a 2019 revision, agrees on the same stone.",
+          "Snowdrop isn't the only birth flower on this site carrying a graveside association. This site's [November birth flower](/november-birth-flower/) page covers chrysanthemum, the customary funeral and cemetery flower across much of Catholic Europe, where giving one to a living host is a real etiquette mistake rather than a coincidence of folklore."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is January's birth flower?",
+        "answer": "Carnation and snowdrop, per The Old Farmer's Almanac. Like most months on a modern birth-flower list, January carries two flowers because no trade body ever standardized a single official calendar the way the jewelry industry did for birthstones in 1912."
+      },
+      {
+        "question": "Where does the name \"carnation\" come from?",
+        "answer": "Nobody has settled it. Wikipedia's entry on the species lists three competing theories: the Latin corona (\"crown,\" for its use in ceremonial garlands), the Latin caro/carnis (\"flesh,\" for its original pinkish color), or incarnatio, the Christian term for God taking on flesh. None has displaced the others as the accepted origin."
+      },
+      {
+        "question": "Did Anna Jarvis choose pink or white carnations for Mother's Day?",
+        "answer": "White. Jarvis distributed 500 white carnations at the first formal Mother's Day service in Grafton, West Virginia, on May 10, 1908, to represent the purity of a mother's love. The custom of pink for a living mother and white for a deceased one was a later addition promoted by florists, partly in response to a shortage of white carnations."
+      },
+      {
+        "question": "Is the pink carnation \"Virgin Mary's tears\" legend the same story as the Mother's Day tradition?",
+        "answer": "No. The Virgin Mary legend is a piece of older Christian folklore claiming the first pink carnation grew where her tears fell during the crucifixion. Anna Jarvis's choice of carnation as the Mother's Day flower is separate, documented 20th-century history from 1907 and 1908. The two are often retold together online as if they were one continuous story."
+      },
+      {
+        "question": "What does snowdrop mean as a birth flower?",
+        "answer": "Hope and purity, tied to a Christian legend in which an angel turned snowflakes into snowdrops as a sign of hope for Adam and Eve after Eden. The same flower also carries a documented British folk superstition that a single bloom brought indoors foretells a death, a belief still reported by name into the 2010s."
+      },
+      {
+        "question": "Is the snowdrop related to the flower called \"snowflake\"?",
+        "answer": "It's related but not identical. Snowdrop (Galanthus) is commonly confused with two other genera nicknamed \"snowflake,\" Leucojum and Acis. All three share the family Amaryllidaceae and a similar white, drooping flower shape, but they are distinct genera."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — January Birth Flowers: Carnation and Snowdrop",
+        "url": "https://www.almanac.com/content/january-birth-flowers"
+      },
+      {
+        "label": "Wikipedia — Dianthus caryophyllus",
+        "url": "https://en.wikipedia.org/wiki/Dianthus_caryophyllus"
+      },
+      {
+        "label": "Wikipedia — Mother's Day (United States)",
+        "url": "https://en.wikipedia.org/wiki/Mother%27s_Day_(United_States)"
+      },
+      {
+        "label": "US House of Representatives, Office of the Historian — The First National Celebration of Mother's Day",
+        "url": "https://history.house.gov/HistoricalHighlight/Detail/35444"
+      },
+      {
+        "label": "Wikipedia — Galanthus",
+        "url": "https://en.wikipedia.org/wiki/Galanthus"
+      },
+      {
+        "label": "Plant-Lore — Snowdrop",
+        "url": "https://www.plant-lore.com/snowdrop/"
+      }
+    ],
+    "image": "/images/january-birth-flower-carnation.jpg",
+    "imageAlt": "Dianthus caryophyllus, the carnation, January's birth flower, whose common name has three competing and unresolved origin stories",
+    "imageCredit": "Photo by Krzysztof Ziarnek, Kenraiz, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dianthus_caryophyllus_%27Cornelia%27_kz01.jpg), CC BY-SA 4.0"
   }
 ];
 

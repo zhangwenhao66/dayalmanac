@@ -43,3 +43,4 @@
 - **Deadline**：2026-09-11 17:00（鼠标真实点击日历控件选中）。
 - **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `716f60761e41445cf756ef75c86f65c1`。
 - **上线复核**：⏳ 待下次任务运行时补查。
+- **回复使用情况**：✅ 08-19收到Jean-Christophe Thery（MusaArtGallery创始人）回复，引语已插入`national-first-responders-day`一文"The claim that overstates what happened in 2019"一节末尾，已build/deploy/IndexNow提交，已回信致谢。

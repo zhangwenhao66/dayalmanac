@@ -93,3 +93,37 @@ contact@dayalmanac.com
 **Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) (no em dashes, straight quotes, no AI-vocabulary hits, closing line made specific — "cataloging 5,500+ holidays" — instead of a generic compliment; sourced from Checkiday's own About page, not invented). Dedup checked via `gmail_send.py list --query "to:checkiday.com OR from:checkiday.com OR checkiday"` (empty) and `grep -ril "checkiday" 独立站/` across the whole matrix (only self-referential mentions in DayAlmanac's own keyword file/guides.ts as a competitor name, no prior outreach record). Replacement URL fact-checked against `src/data/guides.ts`.
 
 **Status: independent review verdict "can send" (all 5 checklist items independently re-verified: no prior contact, dead-link evidence, live replacement page + facts matched against guides.ts, tone, humanizer/avoid-ai-writing pass). Submission attempted via checkiday.com/contact.php 2026-08-16 (form fields filled: name "Owen (DayAlmanac)", email contact@dayalmanac.com, message as above) but blocked at the final step by a Cloudflare Turnstile "请验证您是真人" checkbox — per this operation's hard rule against completing CAPTCHAs/bot-detection, the form was left filled but NOT submitted. Logged to `独立站/待Owen处理事项.md` for Owen to manually complete the verification and click Submit.**
+
+---
+
+## 2026-08-20 — Riya's Blogs (riyabhorkar.com) — National Sons Day post — date-correction pitch
+
+**Target:** Riya's Blogs (riyabhorkar.com), a genuinely active personal creative-writing/lifestyle blog run by Riya Bhorkar (about-me and contact pages present, full site with stories/poems/articles/book reviews, WordPress sitemap shows posts as recent as July 2026). Not a content farm or aggregator — a real individual with an established, currently-updated site.
+
+Her post "National Sons Day 2026: Why This Celebration Matters More Than Ever?" (published 2025-08-30, riyabhorkar.com/national-sons-day-2026-why-this-celebration-matters-more-than-ever/) states that September 28 "has become the widely accepted version" of National Sons Day and that March 4 is "an older version of the celebration that circulated online around 2018-2020." This has the provenance backwards. Per DayAlmanac's own researched page (src/data/guides.ts, slug national-sons-day): March 4 is the date with a named founder (Jill Nico, 2018) and is the only date listed by National Day Calendar and Checkiday, both of which credit her by name. September 28 is the one with no traceable origin — Checkiday founder Seth Westphal researched newspaper archives in 2022 specifically looking for its source and found nothing (published on Medium, "No, September 28th is Not National Sons Day"), and Checkiday's own listing for September 28 states the date is incorrect. The likely source of the confusion, per the same research: a 1990s youth organization named "National Sons Day" existed and ran Take Our Sons to Work Day events, but those were held in May, not September, so the name predates the September date without actually supporting it.
+
+**Recipient:** riyabhorkar7@gmail.com (personal contact email, listed on her contact page)
+**Subject:** Small correction on your National Sons Day post
+
+**Body:**
+
+Hi Riya,
+
+I run DayAlmanac, a small site that tracks how observance dates actually get set. I read your National Sons Day post and wanted to flag one thing, since it's the kind of detail that's easy to get backwards.
+
+The post says September 28 has "become the widely accepted version" and that March 4 is "an older version... that circulated online around 2018-2020." It's actually the reverse. March 4 is the one with a named founder: Jill Nico created it in 2018, and National Day Calendar and Checkiday both list it and credit her by name. September 28 is the date nobody can source. Checkiday's Seth Westphal dug through newspaper archives in 2022 looking for its origin and came up empty, and Checkiday's own listing for September 28 states outright that the date is wrong.
+
+The likely reason for the mix-up: a group called National Sons Day did exist in the 1990s, running Take Our Sons to Work Day events, but those were held in May, not September. So the name is old, the date isn't tied to it.
+
+I put together a page walking through both dates and what each one is backed by, in case it's useful for a quick fix: https://dayalmanac.com/national-sons-day/
+
+No pressure on the swap. Wanted to flag it while it's still early enough in the year to matter for next September.
+
+Best,
+Owen
+DayAlmanac
+contact@dayalmanac.com
+
+**Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) — no em dashes, straight quotes, no AI-vocabulary hits, varied sentence rhythm, no filler/hedging, closing line rewritten to avoid repeating the exact "no pressure either way, just didn't want..." phrasing already used in the 2026-08-09 icalendars.net draft. All specific claims (founder name/year, which registries list which date, the Westphal research, the 1990s org's actual May events) sourced directly from src/data/guides.ts's national-sons-day entry, none invented. Site activity verified via WordPress sitemap (post-sitemap2.xml shows lastmod dates into July 2026) and live page fetch (HTTP 200, byline "Written by: Riya Bhorkar," datePublished 2025-08-30). Dedup checked via `gmail_send.py list --query "to:riyabhorkar.com OR from:riyabhorkar.com OR riyabhorkar"` (empty) and `grep -ril "riyabhorkar" 独立站/` across the whole matrix (no prior contact).
+
+**Status: PENDING INDEPENDENT REVIEW — drafted this run, not yet sent.** No independent review agent was spawned this run (see run log for 2026-08-20); this draft needs a fresh review pass (dedup re-check, fact re-verification against guides.ts, tone check) before sending, per this task's standing rule that only a separate step reviews and sends.

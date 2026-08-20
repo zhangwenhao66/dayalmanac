@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1200 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline from the 1963 smiley face to the 2001-2002 founding of the Harvey Ball World Smile Foundation</title>
+  <desc id="desc">1963: Harvey Ball draws the smiley face for State Mutual Life Assurance Company in Worcester, Massachusetts, paid 45 dollars, no trademark filed. 1999: Ball personally creates World Smile Day, held the first Friday of every October, and trademarks the name. April 2001: Ball dies. 2001: the Harvey Ball World Smile Foundation is established, by the foundation's own account, to honor his name and memory after his death, not founded by him. 2002: federal nonprofit filings record this as the organization's IRS ruling year. Wikipedia's article on Harvey Ball states he founded the foundation himself in 1999, two years before it existed by the foundation's own account.</desc>
+  <rect width="1200" height="560" fill="#faf7f0" />
+
+  <text x="600" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">A day Harvey Ball started, and a foundation that started after him</text>
+  <text x="600" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">Ball founded World Smile Day in 1999. He did not found the foundation that now runs it.</text>
+
+  <line x1="70" y1="230" x2="1140" y2="230" stroke="#d8e0e2" stroke-width="3" />
+
+  <!-- 1963 -->
+  <circle cx="130" cy="230" r="9" fill="#2f4858" />
+  <text x="130" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1963</text>
+  <text x="130" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="130" dy="0">Ball draws the</tspan>
+    <tspan x="130" dy="15">smiley face,</tspan>
+    <tspan x="130" dy="15">paid $45,</tspan>
+    <tspan x="130" dy="15">no trademark</tspan>
+  </text>
+
+  <!-- 1999 -->
+  <circle cx="380" cy="230" r="10" fill="#2f4858" />
+  <text x="380" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1999</text>
+  <text x="380" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="380" dy="0">Ball personally</tspan>
+    <tspan x="380" dy="15">creates World Smile</tspan>
+    <tspan x="380" dy="15">Day, trademarks</tspan>
+    <tspan x="380" dy="15">the name himself</tspan>
+  </text>
+
+  <!-- April 2001 death -->
+  <circle cx="640" cy="230" r="8" fill="#7a3b3b" />
+  <text x="640" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">Apr 2001</text>
+  <text x="640" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="640" dy="0">Harvey Ball</tspan>
+    <tspan x="640" dy="15">dies</tspan>
+  </text>
+
+  <!-- 2001 foundation -->
+  <circle cx="850" cy="230" r="9" fill="#5b6d45" />
+  <text x="850" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">2001</text>
+  <text x="850" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="850" dy="0">Foundation says</tspan>
+    <tspan x="850" dy="15">it was established</tspan>
+    <tspan x="850" dy="15">to honor his</tspan>
+    <tspan x="850" dy="15">memory, after him</tspan>
+  </text>
+
+  <!-- 2002 IRS ruling -->
+  <circle cx="1080" cy="230" r="8" fill="#8a6a3a" />
+  <text x="1080" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">2002</text>
+  <text x="1080" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
+    <tspan x="1080" dy="0">Federal filings</tspan>
+    <tspan x="1080" dy="15">record this as</tspan>
+    <tspan x="1080" dy="15">the IRS ruling</tspan>
+    <tspan x="1080" dy="15">year</tspan>
+  </text>
+
+  <!-- Wikipedia error callout -->
+  <rect x="230" y="370" width="740" height="110" rx="10" fill="#fff" stroke="#c96a4f" stroke-width="1.5" />
+  <text x="600" y="398" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" font-weight="700" fill="#7a3b3b">What Wikipedia's Harvey Ball article said, as of August 2026</text>
+  <text x="600" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">"Ball later founded the Harvey Ball World Smile Foundation in 1999" —</text>
+  <text x="600" y="443" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">two years before the foundation itself says it existed, and while Ball was still alive</text>
+  <text x="600" y="464" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">to have "founded" an organization created, by its own account, to honor him after death.</text>
+
+  <line x1="380" y1="255" x2="600" y2="365" stroke="#c9bba0" stroke-width="1.5" stroke-dasharray="4 4" />
+  <line x1="850" y1="255" x2="600" y2="365" stroke="#c9bba0" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <text x="600" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Navy marks events Ball did himself. Green marks the foundation's own account of its founding. Wikipedia's 1999</tspan>
+    <tspan x="600" dy="20">date for the foundation appears to conflate that year's real event, World Smile Day, with the foundation's later start.</tspan>
+  </text>
+</svg>

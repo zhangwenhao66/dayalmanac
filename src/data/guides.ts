@@ -6317,6 +6317,172 @@ export const guides: Guide[] = [
     "image": "/images/prostate-cancer-awareness-month-white-house.jpg",
     "imageAlt": "The North Portico of the White House, where every National Prostate Cancer Awareness Month proclamation since 2003 has originated",
     "imageCredit": "Photo by Don Ramey Logan, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "world-smile-day",
+    "category": "Observances",
+    "title": "World Smile Day: October's First Friday, a Foundation Born in 2001",
+    "description": "World Smile Day falls on the first Friday of October. Its foundation began in 2001, after Harvey Ball died, not founded by him in 1999 as Wikipedia states.",
+    "published": "2026-08-20",
+    "updated": "2026-08-20",
+    "coreSummary": "World Smile Day is an unofficial observance held on the first Friday of October every year, created in 1999 by Harvey Ball, the commercial artist who drew the original smiley face in 1963. The Harvey Ball World Smile Foundation, which now runs the day, states on its own site that it was established in 2001 to honor Ball's memory after his death, which contradicts Wikipedia's claim that Ball founded the foundation himself in 1999.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The first Friday of October every year. It is not a fixed calendar date, so it moves within a seven-day range depending on where October's first Friday falls.",
+      "source": {
+        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "url": "https://www.worldsmile.org/about/about-world-smile-day"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-02",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2027-10-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-06",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-10-05",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2030-10-04",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-10-03",
+          "weekday": "Friday"
+        }
+      ],
+      "caveat": "Do not confuse this with National Smile Day, a differently named US observance held every May 31, founded in 2018 by Dr. Tim Stirneman and Jim Wojdyla of Compassionate Dentalcare, an Illinois dental practice, to promote dental health. It has no connection to Harvey Ball, the Harvey Ball World Smile Foundation, or the first-Friday-in-October date rule described on this page."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Harvey Ball, a commercial artist from Worcester, Massachusetts, drew the original smiley face in 1963 for State Mutual Life Assurance Company (now Hanover Insurance), which had just merged with Guarantee Mutual Company of Ohio and needed something to lift employee morale. The drawing, a yellow circle with two eyes and a mouth, took about ten minutes and earned Ball a flat $45; he never trademarked the design. State Mutual ordered 100 pins at first, then tens of thousands more as demand grew, and by 1971 more than 50 million smiley-face buttons had been sold, with Ball receiving no royalty from any of it.\n\nThirty-six years later, in 1999, Ball created something he did trademark: World Smile Day itself. By his own account and the foundation's, he had grown concerned that the smiley's original message of simple goodwill had been diluted by decades of unlicensed commercial and cultural use, and he set aside the first Friday of every October as a day devoted to smiles and small acts of kindness, under the trademarked name World Smile Day® and the catchphrase \"Do an act of kindness. Help one person smile.\" The first observance was held that October in Ball's hometown of Worcester.\n\nBall died on April 12, 2001. The organization that carries the day forward today, the Harvey Ball World Smile Foundation, states on its own \"About\" page that it was established in 2001 specifically \"to honor the name and memory of Harvey Ball\" — language that only makes sense as a posthumous tribute, not something its own namesake built. Federal nonprofit filings, indexed by ProPublica's Nonprofit Explorer under EIN 04-6946615, record 2002 as the organization's IRS ruling year, consistent with a foundation whose incorporation process began in 2001 and received formal tax-exempt recognition the following year.\n\nWikipedia's article on Harvey Ball gives a different account, as of this page's research in August 2026. Its lead states plainly that \"Ball later founded the Harvey Ball World Smile Foundation in 1999, a non-profit charitable trust that supports children's causes.\" Checked against the foundation's own primary-source account, that sentence does not hold up: it would date the foundation's founding to two years before its own namesake died, while the foundation itself describes its founding as an act of honoring him, which is not something an organization typically does for someone still alive. The more consistent reading of the record is that Wikipedia's editors conflated two different 1999 and 2001 events: the day, which Ball really did create himself in 1999, and the foundation, which he did not, since it did not exist yet when he died. Wikipedia is user-edited and this specific sentence could change after this page's research date; a reader checking it later should weigh the foundation's own \"About\" page above any single Wikipedia sentence that conflicts with it.",
+      "source": {
+        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "url": "https://www.worldsmile.org/about/about-world-smile-day"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What World Smile Day is",
+        "body": [
+          "World Smile Day is an unofficial observance held on the first Friday of every October, built around a single, deliberately small idea: do something kind for someone else and try to make them smile. It carries the trademarked catchphrase \"Do an act of kindness. Help one person smile.\" In 2026 it falls on Friday, October 2.",
+          "The day has no legal status anywhere. No government recognizes it, no country grants time off for it, and banks, schools, and offices keep a normal schedule. What sustains it is the Harvey Ball World Smile Foundation, a Worcester, Massachusetts nonprofit that continues to serve as the day's official sponsor, along with social-media participation, novelty retail tie-ins, and local Worcester events held in Ball's hometown each year.",
+          "The observance is inseparable from a single symbol: the smiley face, which its creator spent the last two years of his life trying to reclaim from decades of commercial dilution by giving it, once a year, a purpose he could still control."
+        ]
+      },
+      {
+        "heading": "The date: the first Friday in October, not a fixed day",
+        "body": [
+          "Unlike most observances on this calendar, World Smile Day is not pinned to a single calendar date. It falls on whichever day is the first Friday of October, which means the exact date shifts from year to year across a seven-day range: October 2 in 2026, October 1 in 2027, as late as October 6 in 2028. The Harvey Ball World Smile Foundation's own site states the rule directly and has confirmed October 2, 2026 as this year's date.",
+          "There is a second, unrelated observance with an almost identical name that causes real confusion: National Smile Day, held every May 31. It was founded in 2018 by Dr. Tim Stirneman and Jim Wojdyla of Compassionate Dentalcare, an Illinois dental practice, and is built around dental health rather than Ball's kindness campaign. The two days share no founder, no foundation, and no date rule; they only share two words of their name."
+        ]
+      },
+      {
+        "heading": "From a $45 drawing to a global symbol",
+        "body": [
+          "The smiley face itself predates World Smile Day by thirty-six years. In 1963, State Mutual Life Assurance Company of Worcester had just absorbed Guarantee Mutual Company of Ohio, and the merger left employee morale low. The company hired Harvey Ball, a local freelance commercial artist, to design something to put on a button. Ball drew a sunny yellow circle, added a smile, decided a smile alone could be flipped upside down into a frown, and added two eyes to fix it. The whole design took about ten minutes, and State Mutual paid him $45. He did not file for a trademark.",
+          "State Mutual ordered 100 pins at first. Demand overran that estimate almost immediately, and the company began ordering in lots of 10,000. By 1971, more than 50 million smiley-face buttons had been produced and distributed, according to Wikipedia's account of the design's history, and the image had become one of the most reproduced graphics of the twentieth century, appearing on merchandise Ball had no legal claim to and no financial stake in.",
+          "That gap between the symbol's popularity and its creator's control over it is the backdrop for everything that follows."
+        ]
+      },
+      {
+        "heading": "Why Ball invented a day about it",
+        "body": [
+          "By the late 1990s, Harvey Ball had watched his design get absorbed into decades of unlicensed commercial use, cultural parody, and eventually the early internet's emoticon culture, with no way to steer what the symbol was made to represent. In 1999, he created something different from the original drawing: an annual observance he could define on his own terms and, this time, protect by trademark. He set it on the first Friday of every October, named it World Smile Day®, and gave it a single instruction rather than a slogan to sell anything: do an act of kindness, and try to help one person smile.",
+          "The first World Smile Day was held that October in Worcester, Ball's hometown, on a modest, local scale. It stayed that way, run directly by Ball, for the less than two years he had left to run it himself. Among the observances on this calendar with a single named inventor, [Talk Like a Pirate Day](/talk-like-a-pirate-day/) is the closer comparison: both founders are still alive and have told a consistent story for decades, a contrast this page returns to below."
+        ]
+      },
+      {
+        "heading": "A foundation founded after its founder died",
+        "body": [
+          "Harvey Ball died on April 12, 2001, less than two years after holding the first World Smile Day. What happened next is where the record on this observance genuinely splits.",
+          "The organization that now runs World Smile Day, the Harvey Ball World Smile Foundation, gives its own founding date on its \"About\" page: 2001, described explicitly as being established \"to honor the name and memory of Harvey Ball.\" That phrasing only makes sense if the foundation came after him, built by people who wanted to preserve what he had started, not by Ball while he was alive to run it himself. Independent federal nonprofit records support that timeline rather than contradict it: ProPublica's Nonprofit Explorer lists the organization, EIN 04-6946615, with an IRS ruling year of 2002, which is the kind of one-year lag between incorporating a nonprofit and receiving formal federal tax-exempt recognition that shows up routinely in filings for genuinely new organizations, not for one that had already been operating for two years.",
+          "Wikipedia's article on Harvey Ball tells a different story in its opening paragraph, stating that \"Ball later founded the Harvey Ball World Smile Foundation in 1999.\" Weighed against the foundation's own account of itself, that claim has two specific problems: it places the foundation's founding two years before Ball's death, and it credits Ball with founding an organization whose own stated purpose is to honor him, a description that reads as a posthumous tribute rather than a self-founded body. The more likely explanation is a compression error rather than a competing fact: 1999 is a real date in this story, but it is the year Ball founded World Smile Day, not the year anyone founded the foundation that today bears his name."
+        ],
+        "image": {
+          "src": "/images/world-smile-day-timeline.svg",
+          "alt": "Timeline showing Harvey Ball drawing the smiley face in 1963, creating World Smile Day himself in 1999, dying in April 2001, the Harvey Ball World Smile Foundation stating it was founded in 2001 to honor his memory, and federal filings recording a 2002 IRS ruling year — against Wikipedia's claim that Ball founded the foundation himself in 1999"
+        }
+      },
+      {
+        "heading": "What the foundation does today",
+        "body": [
+          "The Harvey Ball World Smile Foundation describes its focus as small, grassroots charitable efforts that would otherwise struggle to find funding or attention, a deliberately modest scope compared to large national charities. It remains the official sponsor of World Smile Day each year and, through its licensing arm, Harvey Ball Smile Limited, holds and manages trademark rights not just to the original smiley design but to a wider family of related marks built up since Ball's death.",
+          "The result is a slightly unusual structure for an observance on this calendar: the day itself was invented and run, at least initially, by one identifiable person, while the institution that has kept it going for a quarter-century since his death was, by its own telling, built specifically because he could no longer run it himself. [Movember](/movember/) shows a related but distinct pattern, where the founders built their own organization while still directly running it, rather than one assembled afterward by others."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is World Smile Day in 2026?",
+        "answer": "Friday, October 2, 2026. World Smile Day falls on the first Friday of October every year rather than a fixed calendar date."
+      },
+      {
+        "question": "When is World Smile Day in 2027?",
+        "answer": "Friday, October 1, 2027, since that is the first Friday of the month that year."
+      },
+      {
+        "question": "Who created World Smile Day?",
+        "answer": "Harvey Ball, the commercial artist who drew the original smiley face in 1963, created World Smile Day himself in 1999 and trademarked the name."
+      },
+      {
+        "question": "Is World Smile Day the same as National Smile Day?",
+        "answer": "No. National Smile Day is a separate US observance held every May 31, founded in 2018 by Dr. Tim Stirneman and Jim Wojdyla of Compassionate Dentalcare to promote dental health. It has no connection to Harvey Ball or the Harvey Ball World Smile Foundation."
+      },
+      {
+        "question": "Did Harvey Ball found the Harvey Ball World Smile Foundation?",
+        "answer": "No, despite what Wikipedia's article on Ball currently states. The foundation's own \"About\" page says it was established in 2001 to honor Ball's memory, which was the year he died; federal nonprofit filings record a 2002 IRS ruling year, consistent with a foundation formed after his death rather than two years before it."
+      },
+      {
+        "question": "Who created the smiley face, and when?",
+        "answer": "Harvey Ball, in 1963, for State Mutual Life Assurance Company in Worcester, Massachusetts. He was paid $45 for the design and never trademarked it."
+      },
+      {
+        "question": "Is World Smile Day an official holiday?",
+        "answer": "No. It has no government recognition anywhere, and banks, schools, and offices keep a normal schedule on the day."
+      },
+      {
+        "question": "What is the theme of World Smile Day?",
+        "answer": "\"Do an act of kindness. Help one person smile,\" the trademarked catchphrase Harvey Ball set for the day when he created it in 1999. The theme mirrors the everyday-generosity focus behind [World Kindness Day](/world-kindness-day/) in November, though the two observances have separate founders and separate histories."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "url": "https://www.worldsmile.org/about/about-world-smile-day"
+      },
+      {
+        "label": "Harvey Ball World Smile Foundation — About Harvey Ball",
+        "url": "https://www.worldsmile.org/about/about-harvey-ball"
+      },
+      {
+        "label": "Harvey Ball World Smile Foundation — Smiley Quick Facts",
+        "url": "https://www.worldsmile.org/about"
+      },
+      {
+        "label": "Wikipedia — Harvey Ball",
+        "url": "https://en.wikipedia.org/wiki/Harvey_Ball"
+      },
+      {
+        "label": "ProPublica Nonprofit Explorer — Harvey Ball World Smile Foundation, EIN 04-6946615",
+        "url": "https://projects.propublica.org/nonprofits/organizations/46946615"
+      },
+      {
+        "label": "National Day Calendar — National Smile Day, May 31",
+        "url": "https://nationaldaycalendar.com/celebrations/national-smile-day-may-31"
+      }
+    ],
+    "image": "/images/world-smile-day-harvey-ball-pin.jpg",
+    "imageAlt": "An authentic Harvey Ball smiley-face pin from Worcester, Massachusetts, on display at the Worcester Historical Museum",
+    "imageCredit": "Photo by [Garchy](https://en.wikipedia.org/wiki/User:Garchy), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Authentic_Worcester-made_smiley_face,_Harvey_Ball.jpg), CC BY-SA 4.0"
   }
 ];
 

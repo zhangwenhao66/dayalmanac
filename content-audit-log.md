@@ -941,3 +941,85 @@
   }
 }
 ```
+
+```json
+{
+  "url_slug": "march-birthstone",
+  "last_audited": "2026-08-20",
+  "published_date": "2026-08-05",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文明确区分已核实事实与未核实归因（'Neither claim was verifiable against a primary document for this piece, so both are presented as reported positions rather than settled fact'；'This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here rather than confirmed'），属实证怀疑式写作，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条curl/WebSearch核实，含本文核心论断）",
+      "detail": "核心论断——Jewelers of America当前图表March只列aquamarine、不含bloodstone——curl直接抓取jewelers.org原始HTML核对确认属实（'March Aquamarine'一行，无bloodstone），且June/August/December三个对照月份的条目数（Pearl,Moonstone,Alexandrite / Peridot,Spinel / Turquoise,Tanzanite,Blue Zircon）与文中描述逐字吻合，证明'March单stone并非全表通用惯例'这一反驳点站得住；有意思的是WebSearch对二手博客的AI摘要反而误判JA同时列两种石头，本文比多数二手内容更准确。1952年修订（Jewelry Industry Council of America新增6月Alexandrite/11月citrine/10月粉色碧玺、12月lapis lazuli换成zircon、'调换March的primary/alternate顺序'）经Wikipedia Birthstone条目原文核实逐字吻合（extract含'switched the primary/alternative gems for March'）。Mohs硬度aquamarine 7.5-8、bloodstone 6.5-7经WebSearch多方交叉确认准确。Eleanor Roosevelt 1936年1298克拉aquamarine（原石约3磅/6500克拉，现藏FDR总统图书馆）与Smithsonian Dom Pedro Aquamarine（10363克拉，Bernd Munsteiner雕刻，14英寸，'世界最大琢型海蓝宝石'）两处具体数字均经WebSearch独立信源核实准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "宝石类内容天然evergreen；WebSearch核实近期(2026)无新的官方birthstone名单修订（最近一次是2016年spinel加入August），无需补充新信息。published/updated均为2026-08-05，本次审计未发现需要推进updated的实质性修改。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "dataforseo-query实测'march birthstone'真实SERP：dayalmanac.com未进前10（站点太新，符合预期），头部竞品为americangemsociety.org/gia.edu/helzberg.com/tiffany.com/gemstones.com/jared.com等，均把aquamarine与bloodstone并列呈现为'March的两个birthstone'，未见任何一家指出Jewelers of America现行图表实际只列aquamarine一项、也未追溯1912年最初名单bloodstone才是primary、1952年才被调换顺序这段历史。本文的'表面共识下藏着的具体分歧点+可查证的历史演变'构成真实增量价值，非同质化内容。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title/meta description准确、canonical自指、单一h1、7个h2无跳级（含FAQ）、URL evergreen不带年份；robots.txt对GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended均显式Allow；json-ld确认FAQPage(6问)/Article/BreadcrumbList全部有效。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约90/99（权威原文引语与统计数据完整性突出：JA/GIA/AGS/IGS/Wikipedia/National Jeweler七方信源+具体克拉数/硬度值/年份；跨域连接4/4，正文链向december-birthstone/virgo-dates/national-dog-day三篇文章说明同一'看似固定实则演变'的模式），已达标≥80，未发现需修复的GEO薄弱维度。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "本文published 2026-08-05，早于avoid-ai-writing 2026-08-07接入日期，属回溯检查范围。机械扫描全文（sections+faq）：em-dash共7处，全部位于sources数组的label引用元数据（如'Jewelers of America — Birthstones'），正文/FAQ 0处；curly quote 0处；AI高频词表（delve/tapestry/testament/underscore/pivotal/crucial/garner/enduring/fostering/robust/leverage/landscape/vibrant/boast/nestled/groundbreaking/multifaceted等）逐一grep检索0命中；'not just/not only/let's/here's what/honestly/the real question'等信号短语0命中；连字符复合词均为合法用法（iron-oxide, step-cut, fantasy-cut等），非AI套话式hyphenation。判定干净。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "7条sources链接curl实测（均带正常UA）：jewelers.org/gia.edu/americangemsociety.org/gemsociety.org/en.wikipedia.org×2/nationaljeweler.com全部200，无一处需要bot拦截豁免判定。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "grep确认september-birthstone与birthstones-by-month两篇文章正文均已有手写锚文本链接指向本文（'[this calendar's own earlier page on March](/march-birthstone/)'等）。全站Birthstones分类共5篇（含本文），pickRelatedGuides轮转窗口下categoryPeers.length(4)≤6，本文与其余4篇（december/september/january-birthstone、birthstones-by-month）互相100%可达。非孤儿页。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "线上json-ld实测：Article.datePublished=2026-08-05T00:00:00+00:00/dateModified同日，与guides.ts的published/updated字段一致；FAQPage.mainEntity 6问与guides.ts faq数组逐字一致；Article.image指向真实JPEG（非favicon.svg回退，本站此前批次的SVG回退缺陷不适用于本文，本文自发布起就有真实image字段）。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及'blood of Christ'传说、印度民间将bloodstone磨粉用作aphrodisiac的习俗，均为中性历史/民俗陈述，非渲染对象，无现实世界争议或敏感度风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "两张配图（aquamarine/bloodstone）均已是真实JPEG（255KB/319KB），非本站此前批次的favicon.svg回退缺陷。curl实测两张Wikimedia Commons来源页（Thomas Quine摄aquamarine、James St. John摄bloodstone）均确认CC BY 2.0协议，与guides.ts的credit字段（摄影者姓名+协议）逐字一致。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "正文无暴力/伤亡描写，无武器/毒品/赌博提及，标题为事实陈述非标题党。ads.txt线上内容为'google.com, pub-5245502795720653, DIRECT, f08c47fec0942fa0'，/privacy/、/about/、/terms/均可访问。"
+    }
+  ],
+  "actions_taken": [
+    "本次13维度审计（含项目CLAUDE.md提到的related-guides轮转算法与innerHTML/scoped-CSS两类已知坑核查——本文所属[slug].astro确认使用vendor/site-toolkit的pickRelatedGuides轮转窗口而非固定slice(0,N)，且本站无计算器页面，两类已知坑均不适用）未发现任何需要修复的问题。核心论断（Jewelers of America现行图表March仅列aquamarine）经curl直抓原始HTML独立验证成立，且比多数二手内容（WebSearch摘要）更准确。因无confirmed findings，未触发第3步独立复核agent（该步骤仅在发现疑似问题时触发），未做任何代码修改，未commit/push/部署，未跑IndexNow（页面未变更，无需重新提交索引）",
+    "仅更新本文件的last_audited字段为2026-08-20"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约90/99（已达标≥80），未做结构性改动",
+  "escalation": null
+}
+```

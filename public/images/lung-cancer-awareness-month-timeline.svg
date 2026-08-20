@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of Lung Cancer Awareness Month, 1998 to 2022</title>
+  <desc id="desc">1998: the Alliance for Lung Cancer Advocacy, Support and Education (ALCASE) holds the first Lung Cancer Awareness Day on November 14, timed to coincide with the Great American Smokeout. 2000: ALCASE expands the effort into the first national Lung Cancer Awareness Month. 2004: ALCASE renames itself Lung Cancer Alliance. 2019: Lung Cancer Alliance merges with the Bonnie J. Addario Lung Cancer Foundation to form GO2 Foundation for Lung Cancer. 2020: the U.S. Senate unanimously passes S.Res.780, the first congressional recognition of the observance, the same autumn a Colorado couple's plywood porch ribbon starts the White Ribbon Project. 2022: President Biden issues the first presidential proclamation naming National Lung Cancer Awareness Month.</desc>
+  <rect width="1200" height="400" fill="#faf7f0" />
+
+  <text x="600" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">A patient-advocacy day, then a month, then a congressional one</text>
+
+  <line x1="55" y1="210" x2="1145" y2="210" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1998 -->
+  <circle cx="100" cy="210" r="8" fill="#3f6b5e" />
+  <text x="100" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">1998</text>
+  <text x="100" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="100" dy="0">ALCASE holds the</tspan>
+    <tspan x="100" dy="16">first Awareness Day,</tspan>
+    <tspan x="100" dy="16">timed with the Great</tspan>
+    <tspan x="100" dy="16">American Smokeout</tspan>
+  </text>
+
+  <!-- 2000 -->
+  <circle cx="290" cy="210" r="8" fill="#3f6b5e" />
+  <text x="290" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2000</text>
+  <text x="290" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="290" dy="0">ALCASE expands to</tspan>
+    <tspan x="290" dy="16">the first national</tspan>
+    <tspan x="290" dy="16">Lung Cancer</tspan>
+    <tspan x="290" dy="16">Awareness Month</tspan>
+  </text>
+
+  <!-- 2004 -->
+  <circle cx="480" cy="210" r="8" fill="#8a6d3b" />
+  <text x="480" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2004</text>
+  <text x="480" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="480" dy="0">ALCASE renames</tspan>
+    <tspan x="480" dy="16">itself Lung Cancer</tspan>
+    <tspan x="480" dy="16">Alliance</tspan>
+  </text>
+
+  <!-- 2019 -->
+  <circle cx="670" cy="210" r="8" fill="#8a6d3b" />
+  <text x="670" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2019</text>
+  <text x="670" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="670" dy="0">Lung Cancer Alliance</tspan>
+    <tspan x="670" dy="16">and the Addario</tspan>
+    <tspan x="670" dy="16">foundation merge into</tspan>
+    <tspan x="670" dy="16">GO2 for Lung Cancer</tspan>
+  </text>
+
+  <!-- 2020 -->
+  <circle cx="880" cy="210" r="8" fill="#a8352b" />
+  <text x="880" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2020</text>
+  <text x="880" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="880" dy="0">Senate unanimously</tspan>
+    <tspan x="880" dy="16">passes S.Res.780, the</tspan>
+    <tspan x="880" dy="16">first congressional</tspan>
+    <tspan x="880" dy="16">recognition</tspan>
+  </text>
+
+  <!-- 2022 -->
+  <circle cx="1090" cy="210" r="8" fill="#a8352b" />
+  <text x="1090" y="175" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1f1d1a">2022</text>
+  <text x="1090" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.78">
+    <tspan x="1090" dy="0">Biden issues the</tspan>
+    <tspan x="1090" dy="16">first presidential</tspan>
+    <tspan x="1090" dy="16">proclamation for the</tspan>
+    <tspan x="1090" dy="16">observance</tspan>
+  </text>
+
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Green marks the founding advocacy organization, gold marks its later reorganizations, red marks congressional or presidential action.</tspan>
+    <tspan x="600" dy="19">The white ribbon now associated with the month started separately, as a Colorado couple's plywood porch sign in October 2020.</tspan>
+  </text>
+</svg>

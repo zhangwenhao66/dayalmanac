@@ -6483,6 +6483,187 @@ export const guides: Guide[] = [
     "image": "/images/world-smile-day-harvey-ball-pin.jpg",
     "imageAlt": "An authentic Harvey Ball smiley-face pin from Worcester, Massachusetts, on display at the Worcester Historical Museum",
     "imageCredit": "Photo by [Garchy](https://en.wikipedia.org/wiki/User:Garchy), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Authentic_Worcester-made_smiley_face,_Harvey_Ball.jpg), CC BY-SA 4.0"
+  },
+  {
+    "slug": "lung-cancer-awareness-month",
+    "category": "Observances",
+    "title": "Lung Cancer Awareness Month: All of November, and Who Started It",
+    "description": "Lung Cancer Awareness Month covers all of November. A patient group founded it in 1998, 22 years before Congress recognized it, and no law makes it permanent.",
+    "published": "2026-08-20",
+    "updated": "2026-08-20",
+    "coreSummary": "Lung Cancer Awareness Month is observed across all of November, every year, in the United States. A patient-advocacy group, ALCASE, held the first single-day version on November 14, 1998, and expanded it into a full month in November 2000. Congress did not formally recognize the observance until a unanimous Senate resolution on December 1, 2020, twenty-two years after the founding day, and no standing federal statute renews it automatically; Congress has instead passed a fresh resolution naming the specific year, and a president has issued a fresh proclamation, every year since.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of November, every year, in the United States, from November 1 through November 30, rather than a single date or a floating week within the month.",
+      "source": {
+        "label": "GO2 for Lung Cancer — Lung Cancer Awareness",
+        "url": "https://go2.org/lung-cancer-awareness"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-11-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-11-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-11-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-11-01",
+          "weekday": "Saturday"
+        }
+      ],
+      "caveat": "November is not the only lung-cancer observance on the calendar, and the two are easy to conflate. World Lung Cancer Day falls separately on August 1 each year, organized internationally by respiratory-health bodies including the Forum of International Respiratory Societies, and has circulated since around 2012 with a global-screening-access focus distinct from the U.S.-rooted November month. A reader who finds a lung-cancer date in August has found a different, older, and differently organized observance, not an early or mistaken version of the November one."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Lung Cancer Awareness Month traces to a single U.S. patient-advocacy organization, not to a government body, and the organization's own current materials date its two founding moments precisely. The Alliance for Lung Cancer Advocacy, Support and Education (ALCASE) held the first Lung Cancer Awareness Day on November 14, 1998, deliberately timed to coincide with the American Cancer Society's annual Great American Smokeout so the two campaigns could reinforce each other. Two years later, in November 2000, ALCASE expanded the single day into a full national Lung Cancer Awareness Month. Both dates come directly from GO2 for Lung Cancer's own history pages, and the same account is repeated verbatim on LCAM.org, the awareness-month coalition site GO2 has stewarded since 2021: two pages maintained by the same current organization, a narrower form of corroboration than two fully independent sources. One real conflict does exist. Wikipedia's article on Lung Cancer Alliance states, in a sentence with no citation attached, that the organization \"was founded in 1995\" and that it \"began its first awareness program\" only in 2010, both years at odds with GO2's account. Neither Wikipedia sentence is sourced, and GO2's own history page dates the ALCASE-to-Lung-Cancer-Alliance rename to 2004, which makes an uncited claim that \"Lung Cancer Alliance\" was itself \"founded in 1995\" hard to square on its face. This page follows GO2's specific, twice-repeated, sourced account over Wikipedia's uncited one, and says so plainly rather than quietly picking a number.\n\nALCASE itself did not appear from nowhere. GO2's institutional history traces the lineage to 1979, when a man named Mort Liebling was diagnosed with lung cancer and found no organized support available to him or his family; in the years that followed, patient advocate Peggy McCarthy founded ALCASE in response, running a newsletter, a free helpline, and a phone-buddy program for patients before the organization moved into awareness campaigning and, by 1999, national policy advocacy. GO2's history page does not give a specific founding year for ALCASE itself, only Liebling's 1979 diagnosis as the catalyst and McCarthy's founding as following it, a gap the organization's own materials leave open rather than paper over.\n\nThe organization's name changed twice on the way to today. ALCASE became Lung Cancer Alliance in 2004. In 2019, Lung Cancer Alliance merged with a separate patient organization, the Bonnie J. Addario Lung Cancer Foundation (founded in 2006 by Bonnie Addario after her own stage IIIB lung cancer diagnosis in 2003) to form GO2 Foundation for Lung Cancer, later shortened to GO2 for Lung Cancer, the name under which the awareness month is now promoted.\n\nFederal recognition came much later than the founding, and through a weaker mechanism than [Breast Cancer Awareness Month](/breast-cancer-awareness-month/)'s congressional history on this site: that older observance got two outright public laws and two joint resolutions, which carry the force of law, while this one has so far only ever received simple resolutions, which do not. The first congressional action found on the record is a Senate resolution, S.Res.780 of the 116th Congress, sponsored by Senators Tina Smith and Marco Rubio and passed by unanimous consent on December 1, 2020, twenty-two years after ALCASE's first Awareness Day and twenty years after the first full Awareness Month. That resolution called on the American public to observe National Lung Cancer Awareness Month and to support early detection and treatment, but a Senate resolution is not a law: it does not require a House vote, does not need a president's signature, and does not create a standing designation that renews itself in future years. Congress has repeated the exercise, naming the specific year each time, in subsequent sessions, including S.Res.462 for November 2021 and S.Res.512 for November 2023, with a House companion resolution, H.Res.960, introduced for November 2025.\n\nA presidential proclamation followed even later. The earliest one found on the record is President Biden's proclamation of November 2022, signed October 31, 2022, which the White House's own archived text frames as a call for the public and for institutions to increase awareness of lung cancer prevention, detection, and treatment; no proclamation using this exact name has surfaced from any earlier administration. Biden issued comparable proclamations in 2023 and 2024, and the Trump administration marked the month again in November 2025, according to contemporaneous news coverage, continuing the same year-by-year pattern rather than any of the three branches ever converting the observance into a standing statute.",
+      "source": {
+        "label": "GO2 for Lung Cancer — Lung Cancer Awareness (history section)",
+        "url": "https://go2.org/lung-cancer-awareness"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, every year",
+        "body": [
+          "Lung Cancer Awareness Month runs the full 30 days of November, with no nth-weekday arithmetic or floating window to work out. The table above lists November 1 as each year's start; the observance continues through November 30 in every case, matching how GO2 for Lung Cancer, the American Lung Association, and every federal proclamation on record describe it.",
+          "What takes real digging to sort out is not the calendar but the paperwork: which organization actually started this, in what year, and whether any government body has ever made the recognition permanent. Most calendar aggregator sites give the month a one-line mention and move on."
+        ]
+      },
+      {
+        "heading": "A patient group's single day, then its month",
+        "body": [
+          "The observance began as the work of people who had lung cancer, not as a government initiative or a corporate campaign. ALCASE, the Alliance for Lung Cancer Advocacy, Support and Education, held the first Lung Cancer Awareness Day on November 14, 1998, and the organization's own current materials say the date was chosen to land alongside the American Cancer Society's long-running Great American Smokeout, so a single November week could carry both a quit-smoking push and a lung-cancer-awareness push at once.",
+          "ALCASE returned to the idea two years later. In November 2000, the organization expanded that single day into a full Lung Cancer Awareness Month, run nationally rather than as a one-off event. GO2 for Lung Cancer, which now carries ALCASE's history forward, states that the month reaches roughly 20 million people every November across the U.S. and beyond, a scale the original 1998 day, aimed at a single week's press cycle, was never built for."
+        ]
+      },
+      {
+        "heading": "Congress took twenty-two years, and it still isn't permanent",
+        "body": [
+          "No branch of the federal government touched the observance for over two decades after ALCASE's founding day. That changed on December 1, 2020, when the Senate passed S.Res.780 by unanimous consent, sponsored by Senators Tina Smith of Minnesota and Marco Rubio of Florida, formally designating November 2020 as National Lung Cancer Awareness Month and urging Americans to support early detection and screening.",
+          "A Senate resolution of this kind carries no force of law: it does not go to the House for a vote, does not require a presidential signature, and expires with the Congress that passed it. Every subsequent Congress has had to pass a new one naming the new year: S.Res.462 designated November 2021, S.Res.512 designated November 2023, and a House companion, H.Res.960, was introduced for November 2025. That is the same by-year pattern this site has already documented for [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), though the two observances didn't get there the same way. Breast cancer's early designations were joint resolutions and outright public laws, which do carry the force of law; lung cancer's have so far only ever been simple resolutions, which don't. The gap between founding and first congressional recognition also ran far longer here: twenty-two years for lung cancer's observance, against five years for breast cancer's.",
+          "A presidential proclamation is a separate, later layer again. The earliest one on record is President Biden's proclamation of November 2022, signed October 31 of that year; Biden issued comparable proclamations for 2023 and 2024, and news coverage reported the Trump administration marking the month again in November 2025. No search of presidential archives from 2018 through 2021 turns up an earlier proclamation under this name."
+        ],
+        "image": {
+          "src": "/images/lung-cancer-awareness-month-timeline.svg",
+          "alt": "Timeline from ALCASE's 1998 founding day through the 2000 expansion to a full month, the organization's 2004 and 2019 reorganizations, the Senate's first 2020 recognition, and the first 2022 presidential proclamation"
+        }
+      },
+      {
+        "heading": "The white ribbon is a separate, later story",
+        "body": [
+          "The white ribbon now associated with the month did not exist when ALCASE founded it, and it did not come from any of the advocacy organizations behind the observance's history. In the fall of 2020, a Colorado woman named Heidi Nafman-Onda, diagnosed with stage IIIA non-small cell lung cancer two years earlier, grew frustrated after hospital marketing departments repeatedly turned down her requests to mark the coming November. She asked her husband, Pierre, to cut a white ribbon out of plywood for their own front porch, reasoning, in her own words, that \"no one can stop me from putting a white ribbon up on my own house.\"",
+          "Pierre lettered the plywood ribbon with a sticker reading \"Lung Cancer Awareness,\" and Heidi posted photos of it to a private Facebook group for lung cancer survivors in Colorado. The response turned their garage into a small ribbon workshop: within six months, the couple had personally made and shipped more than a thousand ribbons, each signed by its maker, to recipients across the United States, Canada, the Philippines, the Netherlands, and Germany, and what started as an unbranded porch project grew into a standing organization, The White Ribbon Project."
+        ]
+      },
+      {
+        "heading": "What the month does and does not carry with it",
+        "body": [
+          "Lung Cancer Awareness Month is not a federal holiday: no offices close and no leave attaches to it, the same as every other awareness month this site has covered. What happens instead is decentralized, driven by the same patchwork of advocacy groups, hospitals, and state governors' offices that built the observance in the first place. Individual state proclamations, like North Carolina's, run alongside the federal one most years, and the American Lung Association publishes its own annual \"State of Lung Cancer\" report each November tracking screening and survival rates state by state.",
+          "This calendar has now covered several November observances that share a version of this same arc: a single advocacy organization builds the tradition first, and federal recognition, where it exists at all, arrives on its own separate and much later timeline. [Diabetes Awareness Month](/diabetes-awareness-month/) traces informally to a 1975 declaration but only received its first confirmed presidential week in 1981 and its first full-month proclamation in 1982. [National Epilepsy Awareness Month](/epilepsy-awareness-month/) has an even starker federal record: Congress tried three separate times, in 2002, 2003, and 2011, to pass a resolution recognizing it, and none of the three ever passed. [No-Shave November](/no-shave-november/), which shares the same 30 days, has never had any federal recognition at all, at any level, a reminder that Lung Cancer Awareness Month's 2020 Senate resolution and 2022 presidential proclamation put it on firmer government footing than most of the observances crowding the same month, even without a standing statute behind it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Lung Cancer Awareness Month?",
+        "answer": "The entire month of November, every year, from November 1 through November 30. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who founded Lung Cancer Awareness Month, and when?",
+        "answer": "The Alliance for Lung Cancer Advocacy, Support and Education (ALCASE), a patient-advocacy group, held the first single-day version, Lung Cancer Awareness Day, on November 14, 1998, timed to coincide with the Great American Smokeout. ALCASE expanded that into the first full national Lung Cancer Awareness Month in November 2000. ALCASE later renamed itself Lung Cancer Alliance in 2004 and merged into GO2 for Lung Cancer in 2019."
+      },
+      {
+        "question": "Did Congress recognize the observance right away?",
+        "answer": "No. The first congressional recognition found on the record is a unanimous Senate resolution, S.Res.780, passed December 1, 2020, twenty-two years after the 1998 founding day. Congress has since passed a fresh resolution naming each new year, including S.Res.462 (2021) and S.Res.512 (2023), rather than a single permanent law."
+      },
+      {
+        "question": "Is Lung Cancer Awareness Month a federal holiday?",
+        "answer": "No. No federal offices close and no paid leave attaches to it. It is marked through proclamations, congressional resolutions, state governors' proclamations, and awareness campaigns run by patient-advocacy organizations and hospitals, not a legal holiday."
+      },
+      {
+        "question": "Is Lung Cancer Awareness Month the same as World Lung Cancer Day?",
+        "answer": "No. World Lung Cancer Day is a separate international observance held every August 1, organized by respiratory-health bodies including the Forum of International Respiratory Societies and circulating since around 2012, with a focus on global screening access. Lung Cancer Awareness Month is the U.S.-rooted, ALCASE-founded observance covering all of November."
+      },
+      {
+        "question": "Where did the white ribbon associated with the month come from?",
+        "answer": "It started in the fall of 2020, when Colorado resident Heidi Nafman-Onda, diagnosed with stage IIIA non-small cell lung cancer two years earlier, and her husband Pierre made a plywood white ribbon for their own front porch after hospital marketing departments turned down her requests to mark the coming November. Photos she shared in a private survivor Facebook group led to a garage-based ribbon-making effort that grew into a standing nonprofit, The White Ribbon Project, within about six months."
+      },
+      {
+        "question": "Has a U.S. president always issued a proclamation for this observance?",
+        "answer": "No. The earliest presidential proclamation found on the record is President Biden's, for November 2022, signed October 31 of that year. No proclamation under this name has been found from any earlier administration. Biden issued further proclamations in 2023 and 2024, and the Trump administration marked the month again in November 2025."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GO2 for Lung Cancer — Lung Cancer Awareness (history section)",
+        "url": "https://go2.org/lung-cancer-awareness"
+      },
+      {
+        "label": "Lung Cancer Awareness Month Coalition — History of LCAM",
+        "url": "https://lcam.org/about/history-of-lcam/"
+      },
+      {
+        "label": "GO2 for Lung Cancer — Our History",
+        "url": "https://go2.org/about-us/our-history"
+      },
+      {
+        "label": "Congress.gov — S.Res.780, 116th Congress (2019-2020)",
+        "url": "https://www.congress.gov/bill/116th-congress/senate-resolution/780"
+      },
+      {
+        "label": "Oncology Nursing Society (ONS Voice) — U.S. Senate Designates November as National Lung Cancer Awareness Month",
+        "url": "https://voice.ons.org/advocacy/us-senate-designates-november-as-national-lung-cancer-awareness-month"
+      },
+      {
+        "label": "Congress.gov — S.Res.462, 117th Congress (2021-2022)",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/462"
+      },
+      {
+        "label": "Congress.gov — S.Res.512, 118th Congress (2023-2024)",
+        "url": "https://www.congress.gov/bill/118th-congress/senate-resolution/512"
+      },
+      {
+        "label": "Congress.gov — H.Res.960, 119th Congress (2025-2026)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/960"
+      },
+      {
+        "label": "The White House (Biden Administration archive) — A Proclamation on National Lung Cancer Awareness Month, 2022",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2022/"
+      },
+      {
+        "label": "The White Ribbon Project — Origin Story",
+        "url": "https://www.thewhiteribbonproject.org/origin-story"
+      },
+      {
+        "label": "The Patient Story — Heidi's Stage 3A Non-Small Cell Lung Cancer Story",
+        "url": "https://thepatientstory.com/patient-stories/lung-cancer/non-small-cell/heidi-n/"
+      },
+      {
+        "label": "Global Initiative for Chronic Obstructive Lung Disease (GOLD) — World Lung Cancer Day, August 1",
+        "url": "https://goldcopd.org/world-lung-cancer-day-august-1-2026/"
+      },
+      {
+        "label": "Wikipedia — Lung Cancer Alliance (uncited founding-year claim, presented for the conflicting account)",
+        "url": "https://en.wikipedia.org/wiki/Lung_Cancer_Alliance"
+      }
+    ],
+    "image": "/images/lung-cancer-awareness-month.jpg",
+    "imageAlt": "A chest X-ray showing lung cancer, from the National Cancer Institute's Visuals Online archive",
+    "imageCredit": "National Cancer Institute, Visuals Online, edited by Doruk Salancı, Public Domain (U.S. federal government work), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LungCancer-Xray-01.jpg)"
   }
 ];
 

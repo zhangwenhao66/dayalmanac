@@ -6664,6 +6664,152 @@ export const guides: Guide[] = [
     "image": "/images/lung-cancer-awareness-month.jpg",
     "imageAlt": "A chest X-ray showing lung cancer, from the National Cancer Institute's Visuals Online archive",
     "imageCredit": "National Cancer Institute, Visuals Online, edited by Doruk Salancı, Public Domain (U.S. federal government work), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LungCancer-Xray-01.jpg)"
+  },
+  {
+    "slug": "world-teachers-day",
+    "category": "Observances",
+    "title": "World Teachers' Day: October 5, and the National Days It Isn't",
+    "description": "World Teachers' Day falls every October 5, proclaimed by UNESCO in 1994. India's own Teachers' Day predates it by 32 years and is not the same observance.",
+    "published": "2026-08-20",
+    "updated": "2026-08-20",
+    "coreSummary": "World Teachers' Day is observed every October 5, proclaimed by UNESCO in 1994 to commemorate the 1966 ILO/UNESCO Recommendation concerning the Status of Teachers, signed at a special intergovernmental conference in Paris. At least four other countries run entirely separate national teachers' days, older than UNESCO's proclamation and unconnected to it: India's September 5 (since 1962), China's September 10 (since 1985), and a US observance that traces to a 1944 letter-writing campaign and now falls on a Tuesday in May, plus Australia's own last-Friday-of-October date, moved off October 5 because it usually falls in school holidays there.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 5 every year, worldwide, marking the anniversary of the 1966 ILO/UNESCO Recommendation concerning the Status of Teachers.",
+      "source": {
+        "label": "UNESCO — World Teachers' Day",
+        "url": "https://www.unesco.org/en/days/teachers"
+      },
+      "occurrences": [
+        { "date": "2026-10-05", "weekday": "Monday" },
+        { "date": "2027-10-05", "weekday": "Tuesday" },
+        { "date": "2028-10-05", "weekday": "Thursday" },
+        { "date": "2029-10-05", "weekday": "Friday" },
+        { "date": "2030-10-05", "weekday": "Saturday" },
+        { "date": "2031-10-05", "weekday": "Sunday" }
+      ],
+      "caveat": "October 5 is UNESCO's date, and it is not universal. India has observed its own, separate Teachers' Day on September 5 since 1962, thirty-two years before UNESCO's proclamation existed, honoring the birthday of Dr. Sarvepalli Radhakrishnan. China has observed its own September 10 Teachers' Day since 1985, tied to the start of its school year. The United States marks a National Teacher Day on the Tuesday of the first full week of May, part of a National PTA-run Teacher Appreciation Week, with roots in a 1944 campaign that predates UNESCO's day by half a century. Australia keeps the UNESCO name but not the UNESCO date: because October 5 usually falls during Australian school holidays, its states and territories move the observance to the last Friday of October instead — October 30 in 2026."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "UNESCO's General Conference proclaimed October 5 World Teachers' Day in 1994, twenty-eight years after UNESCO and the International Labour Organization (ILO) had jointly convened a special intergovernmental conference in Paris that adopted the \"Recommendation concerning the Status of Teachers\" on October 5, 1966. That recommendation, still cited by name on UNESCO's own World Teachers' Day page today, set out international standards covering teacher recruitment, initial training and continuing education, employment conditions, and professional rights; a companion recommendation extending the same framework to higher-education teaching staff followed in 1997. The day is co-convened each year by UNESCO together with the ILO, UNICEF, and Education International, the global federation of teachers' unions, and more than 100 countries are reported to take part, according to Wikipedia's article on the day, though that figure carries no citation there and this page treats it as a reported estimate rather than a verified count.\n\nUNESCO's proclamation is the youngest of the four teacher-honoring traditions covered here, not the oldest, despite being the one most schools and media outlets around the world now call \"World Teachers' Day.\" India's own Teachers' Day goes back to 1962: when Dr. Sarvepalli Radhakrishnan, a philosopher and academic, became President of India that year, his former students and friends wanted to mark his birthday, September 5, with a personal celebration. He asked them to observe the date as Teachers' Day instead, to honor the profession broadly, not himself. China formalized its own Teachers' Day even earlier in the calendar year than most secondary sources note: on January 21, 1985, the Standing Committee of the 6th National People's Congress approved the State Council's proposal designating September 10, timed to the start of the academic year, as the country's Teachers' Day; the first observance followed that September in Beijing. China's government had briefly experimented with a June 6 Teachers' Day under the pre-1949 Republic of China government, and then folded teacher recognition into the general May 1 Labour Day after the People's Republic was founded, before settling on the dedicated September date in 1985.\n\nThe United States traces its own teacher day furthest back of the four, to a private letter-writing campaign, not any single proclamation. Mattie Whyte Woodridge, a teacher in Helena, Arkansas, began writing to governors, politicians, and education leaders across the country in 1944 to press for a national day honoring teachers. One of her letters reached First Lady Eleanor Roosevelt, who took up the cause with Congress. Roosevelt's own nationally syndicated \"My Day\" column, dated January 14, 1953, states plainly that \"the 81st Congress of the United States passed a joint resolution designating the first Tuesday of March of each year as National Teachers Day\" — the 81st Congress served from January 1949 to January 1951, so the resolution itself predates Roosevelt's column by two to four years. The same column notes that \"last year\" (1952) the National Teachers Day Committee had called on the President to actually proclaim the day, which several secondary sources checked for this page appear to compress into a single 1953 date for the whole episode; Roosevelt's contemporary account is the more precise record. A specific annual proclamation did not follow immediately. It took until March 7, 1980 for Congress to declare National Teacher Day for that single year, after the National Education Association and its Kansas and Indiana affiliates lobbied to formalize the observance; the date stayed on the first Tuesday in March through the early 1980s. In 1984 the National PTA created a dedicated Teacher Appreciation Week for the first full week of May, and in 1985 the NEA's Representative Assembly voted to move its own National Teacher Day into that week, landing on the Tuesday, where the US observance has stayed ever since.",
+      "source": {
+        "label": "UNESCO — World Teachers' Day",
+        "url": "https://www.unesco.org/en/days/teachers"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What World Teachers' Day is",
+        "body": [
+          "World Teachers' Day is an international observance held every October 5, co-convened by UNESCO, the International Labour Organization, UNICEF, and Education International, the global federation of teachers' unions. It exists to mark the 1966 signing of the \"Recommendation concerning the Status of Teachers,\" a standard-setting document covering how teachers should be recruited, trained, employed, and treated, and to give governments, schools, and the public a yearly occasion to focus on the state of the teaching profession. In 2026 it falls on Monday, October 5.",
+          "The day carries no legal force anywhere; UNESCO recommendations are not binding treaties, and no country is required to grant time off or change policy because of it. What UNESCO and its partners actually do each year is run a themed global campaign, typically anchored by an event at UNESCO headquarters in Paris, alongside independent celebrations organized by ministries of education, teachers' unions, and individual schools in the countries that choose to mark it.",
+          "2026 carries a specific milestone: it is the sixtieth anniversary of the 1966 Recommendation that the day exists to commemorate, thirty-two years after UNESCO first proclaimed October 5 as its anniversary date."
+        ]
+      },
+      {
+        "heading": "The 1966 Recommendation the date comes from",
+        "body": [
+          "UNESCO's own World Teachers' Day page states the anniversary directly: October 5, 1966 is when a special intergovernmental conference, convened by UNESCO in Paris in cooperation with the ILO, adopted the Recommendation concerning the Status of Teachers. The document set out international benchmarks for how teachers should be recruited and initially trained, how their continuing education should work, and what employment conditions, rights, and responsibilities they should have — the kind of professional-status framework that, in 1966, did not exist at an international level for the teaching workforce.",
+          "UNESCO did not proclaim a day to mark that anniversary until 1994, twenty-eight years later. A related, narrower recommendation extending similar standards to higher-education teaching staff followed in 1997, and UNESCO has used World Teachers' Day in some years since to mark that document's own anniversaries as well — the 2017 edition, for instance, marked twenty years since the 1997 Recommendation rather than the 1966 one."
+        ],
+        "image": {
+          "src": "/images/world-teachers-day-timeline.svg",
+          "alt": "Timeline showing India's Teachers' Day beginning in 1962, the 1966 UNESCO/ILO Recommendation signed in Paris, China's Teachers' Day and the US National Education Association's move to May both in 1985, UNESCO's 1994 proclamation of October 5 as World Teachers' Day, and the 2026 sixtieth anniversary of the 1966 Recommendation"
+        }
+      },
+      {
+        "heading": "Four teachers' days, four separate histories",
+        "body": [
+          "The single biggest source of confusion around this observance is that \"Teachers' Day\" is not one holiday with one history — it is a name several countries independently attached to their own, older traditions, several decades before UNESCO's October 5 existed to compete with them.",
+          "India's version is the oldest of the four checked here. When Dr. Sarvepalli Radhakrishnan, a philosopher who had taught at universities in India and abroad, took office as President of India in 1962, his former students wanted to celebrate his birthday, September 5, in his honor. He asked them to mark the date instead as a tribute to teachers generally, and September 5 has been India's Teachers' Day every year since — thirty-two years before UNESCO's proclamation existed, and for a reason that has nothing to do with the 1966 Recommendation.",
+          "China's September 10 dates to a January 21, 1985 decision by the Standing Committee of the 6th National People's Congress, approving a State Council proposal to designate the day, timed to the start of the academic year and not tied to any person's birthday. China had marked a June 6 Teachers' Day under the pre-1949 Republic of China government and later folded teacher recognition into the general May 1 Labour Day, before the 1985 decision created a dedicated date; the first observance followed that September in Beijing.",
+          "The United States traces its observance to a 1944 letter-writing campaign by Mattie Whyte Woodridge, an Arkansas teacher, which reached First Lady Eleanor Roosevelt and eventually the 81st Congress (1949–1951), which passed a joint resolution for the first Tuesday of March. It took decades more for an actual annual proclamation to stick: a single-year declaration on March 7, 1980, then a 1984 National PTA-created Teacher Appreciation Week in May, then a 1985 NEA vote moving National Teacher Day into that week, where it remains, on a Tuesday, distinct from UNESCO's fixed October 5.",
+          "Australia is the odd case among the four: it keeps UNESCO's name and its underlying rationale, but not the October 5 date itself, because that date usually lands during Australian school holidays. New South Wales's own education department confirms the workaround directly — Australian states and territories instead mark World Teachers' Day on the last Friday of October, which is October 30 in 2026."
+        ]
+      },
+      {
+        "heading": "A resolution two to four years older than the column that gets cited for it",
+        "body": [
+          "Several secondary sources found in researching this page date the US congressional joint resolution establishing National Teachers Day to 1953, attributing it to the 81st Congress. That pairing does not hold up: the 81st Congress served from January 1949 to January 1951, ending two years before 1953 even begins, so it could not have passed anything in that year.",
+          "Eleanor Roosevelt's own \"My Day\" column, syndicated nationally and dated January 14, 1953, resolves the mismatch. She writes that \"the 81st Congress of the United States passed a joint resolution designating the first Tuesday of March of each year as National Teachers Day\" — describing the resolution as an already-completed act by the time she was writing — and adds that \"last year\" (1952), the National Teachers Day Committee had called on the President to actually proclaim the day. Read against Roosevelt's own timeline, the resolution itself belongs to the 81st Congress's 1949–1951 term, and 1953 is simply the year she happened to be writing about it and pressing for the follow-through proclamation that still hadn't arrived. The secondary sources appear to have compressed those two separate facts, the resolution's real date and Roosevelt's column date, into one."
+        ]
+      },
+      {
+        "heading": "What the pattern says about \"awareness day\" origin stories generally",
+        "body": [
+          "Every observance covered on this calendar with a documented founding shows some version of the same gap: the date that ends up widely recognized is rarely the date the underlying idea first started, and the institution that eventually formalizes a day is rarely the one that began it. [National Grandparents Day](/national-grandparents-day/) sits at one end of that spectrum, with its date locked into actual US federal statute, 36 U.S.C. § 125, instead of an annual proclamation that could lapse. World Teachers' Day sits closer to the other end: UNESCO's proclamation is a recurring institutional commitment, backed by four international organizations, but it carries no force of law, and it arrived decades after at least three national teachers' days it now nominally sits alongside.",
+          "That same gap between founding and formal recognition shows up on [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), where a 1985 industry-and-advocacy campaign waited five years for Congress to name it by joint resolution, and on [World Kindness Day](/world-kindness-day/), a civil-society observance that, unlike World Teachers' Day, has never received recognition from any United Nations body at all. World Teachers' Day is the more institutionally anchored of the pair — UNESCO is itself a UN specialized agency — but its national predecessors are the clearest reminder on this page that \"UNESCO's day\" and \"the world's only teachers' day\" are not the same claim."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is World Teachers' Day in 2026?",
+        "answer": "Monday, October 5, 2026. It is a fixed calendar date and does not move from year to year."
+      },
+      {
+        "question": "Who created World Teachers' Day?",
+        "answer": "UNESCO proclaimed it in 1994, co-convened with the International Labour Organization, UNICEF, and Education International. The date marks the October 5, 1966 signing of the ILO/UNESCO Recommendation concerning the Status of Teachers in Paris."
+      },
+      {
+        "question": "Is World Teachers' Day the same as India's Teachers' Day?",
+        "answer": "No. India has observed its own Teachers' Day on September 5 since 1962, honoring President Sarvepalli Radhakrishnan's birthday, thirty-two years before UNESCO's proclamation existed. The two observances share a theme but have entirely separate origins and dates."
+      },
+      {
+        "question": "Is World Teachers' Day the same as China's Teachers' Day?",
+        "answer": "No. China has observed its own Teachers' Day on September 10 since 1985, established by the Standing Committee of the 6th National People's Congress and timed to the start of the school year, unrelated to UNESCO's October 5 date."
+      },
+      {
+        "question": "When is National Teacher Day in the United States?",
+        "answer": "The Tuesday of the first full week of May, as part of National Teacher Appreciation Week. It traces to a 1944 letter-writing campaign by Arkansas teacher Mattie Whyte Woodridge and a subsequent congressional joint resolution, and moved to its current May date in 1985 after decades on the first Tuesday of March."
+      },
+      {
+        "question": "When does Australia celebrate World Teachers' Day?",
+        "answer": "The last Friday of October, not October 5, because UNESCO's date usually falls during Australian school holidays. In 2026 that is Friday, October 30."
+      },
+      {
+        "question": "How many countries observe World Teachers' Day?",
+        "answer": "Wikipedia's article on the day states \"more than 100 countries,\" but that figure is not cited to any source there, and this page treats it as a reported estimate rather than a verified count."
+      },
+      {
+        "question": "Is World Teachers' Day a public holiday?",
+        "answer": "No. UNESCO recommendations are not binding, and no country is required to grant time off for it. Schools, banks, and offices keep a normal schedule in the countries that mark the day."
+      }
+    ],
+    "sources": [
+      {
+        "label": "UNESCO — World Teachers' Day",
+        "url": "https://www.unesco.org/en/days/teachers"
+      },
+      {
+        "label": "Wikipedia — World Teachers' Day",
+        "url": "https://en.wikipedia.org/wiki/World_Teachers%27_Day"
+      },
+      {
+        "label": "Eleanor Roosevelt — \"My Day\" column, January 14, 1953 (The Eleanor Roosevelt Papers Project, GWU)",
+        "url": "https://www2.gwu.edu/~erpapers/myday/displaydoc.cfm?_y=1953&_f=md002431"
+      },
+      {
+        "label": "American Consortium for Equity in Education — Honoring Mattie May Whyte Woodridge",
+        "url": "https://ace-ed.org/honoring-mattie-may-whyte-woodridge-the-real-founder-of-teacher-appreciation-week/"
+      },
+      {
+        "label": "Ministry of Education of the People's Republic of China — Teacher's Day FAQ",
+        "url": "http://en.moe.gov.cn/Specials/Specials_TeachersDay/teachersday_about/201808/t20180831_346820.html"
+      },
+      {
+        "label": "University of Mysore — Teachers' Day: Dr. S. Radhakrishnan",
+        "url": "https://www.uni-mysore.in/teachers-day"
+      },
+      {
+        "label": "NSW Government (Department of Education) — World Teachers' Day",
+        "url": "https://nsw.gov.au/education-and-training/nesa/awards-and-events/world-teachers-day"
+      }
+    ],
+    "image": "/images/world-teachers-day-kabul-academy-1968.jpg",
+    "imageAlt": "Trainee teachers at the Academy for Teacher Educators in Kabul-Jalalabad, Afghanistan, 1968, a UNESCO- and UNICEF-supported program to train primary-school teacher trainers",
+    "imageCredit": "UNESCO / Alexander Shaw, 1968, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Teacher_education,_Kabul_-_UNESCO_-_PHOTO0000004434_0001.tiff), CC BY-SA 3.0 IGO"
   }
 ];
 

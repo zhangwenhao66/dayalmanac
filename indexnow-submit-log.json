@@ -17,9 +17,9 @@
   },
   "https://dayalmanac.com/national-cat-day/": {
     "submitted_date": "2026-08-03",
-    "verified_status": "pending",
+    "verified_status": "verified_indexed",
     "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查 | discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold",
-    "last_checked_date": "2026-08-18",
+    "last_checked_date": "2026-08-20",
     "verified_method": "bwt_url_inspection",
     "last_submitted_date": "2026-08-10"
   },
@@ -42,7 +42,7 @@
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-17",
     "verified_status": "pending",
-    "last_checked_date": "2026-08-18",
+    "last_checked_date": "2026-08-20",
     "verified_method": "bwt_url_inspection",
     "note": "discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold"
   },
@@ -66,13 +66,15 @@
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-04",
     "verified_status": "pending",
-    "last_checked_date": "2026-08-10",
+    "last_checked_date": "2026-08-20",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/september-birthstone/": {
     "submitted_date": "2026-08-05",
     "last_submitted_date": "2026-08-05",
-    "verified_status": "pending"
+    "verified_status": "pending",
+    "last_checked_date": "2026-08-20",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/scorpio-dates/": {
     "submitted_date": "2026-08-05",
@@ -252,6 +254,11 @@
   "https://dayalmanac.com/world-teachers-day/": {
     "submitted_date": "2026-08-20",
     "last_submitted_date": "2026-08-20",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/june-birth-flower/": {
+    "submitted_date": "2026-08-21",
+    "last_submitted_date": "2026-08-21",
     "verified_status": "pending"
   }
 }

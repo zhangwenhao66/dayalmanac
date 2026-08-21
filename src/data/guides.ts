@@ -3696,6 +3696,139 @@ export const guides: Guide[] = [
     "imageAlt": "Timeline showing International Men's Day's split history: a February 7 observance kept alive only by Malta from 1992 to 2009, running alongside the November 19 observance Jerome Teelucksingh revived in Trinidad and Tobago in 1999, until Malta switched to November 19 in 2009, and Romania made that date law in 2016"
   },
   {
+    "slug": "june-birth-flower",
+    "category": "Birth Flowers",
+    "title": "June Birth Flower: Rose and Honeysuckle, and Rose's Missing Parent",
+    "description": "June's birth flowers are rose and honeysuckle, but the cut rose sold at florists traces to one 1867 hybrid whose own parentage is still disputed.",
+    "published": "2026-08-21",
+    "updated": "2026-08-21",
+    "coreSummary": "June's birth flowers are rose and honeysuckle. The tall, single-stem rose sold at florists isn't the ancient flower most birth-flower pages imply; it traces to 'La France,' a pink hybrid tea rose bred in Lyon, France in 1867 by Jean-Baptiste André Guillot, whose own parentage is still disputed among rosarians. Honeysuckle carries two unrelated names: its scientific name, Lonicera, honors 16th-century German botanist Adam Lonicer, while the English word traces to Old English for 'honey-suck' and originally referred to clover, not the vine, before shifting meaning around 1400. The honeysuckle photographed on many birth-flower pages is often Lonicera japonica, an East Asian species now classified as a noxious weed in 46 US states.",
+    "sections": [
+      {
+        "heading": "Rose and honeysuckle, and a gap already found on this site",
+        "body": [
+          "The Old Farmer's Almanac names rose and honeysuckle as June's pair, the trade source most modern birth-flower lists draw from. This site's [August birth flower](/august-birth-flower/) page traced why most months carry two flowers rather than one back to a single missing event: unlike birthstones, which trace to a documented 1912 US trade convention, no equivalent meeting ever forced birth flowers onto one agreed list. That absence explains why June has two names on its chart. It doesn't explain what's underneath either name, and for June specifically, both plants turn out to hide more contested and more recent history than the \"ancient symbol of love\" framing most birth-flower pages settle for."
+        ]
+      },
+      {
+        "heading": "The rose sold at florists isn't ancient. It's an 1867 hybrid with a disputed family tree.",
+        "body": [
+          "Wikipedia's entry on the rose counts genus Rosa at over three hundred wild species and tens of thousands of cultivars, most native to Asia, with smaller numbers in Europe, North America, and northwest Africa. Roses of some kind have carried symbolic weight for millennia. What most birth-flower photo galleries actually picture, though, the tall, high-centered rose sold one stem at a time in flower shops, traces to a single and comparatively recent cross.",
+          "In 1867, in Lyon, France, nurseryman and rose breeder Jean-Baptiste André Guillot introduced a pink cultivar he named 'La France.' Per Wikipedia's entry on the cultivar, it's \"generally accepted to be the first hybrid tea rose,\" a class not formally recognized until the 1880s, and its introduction \"is therefore also considered the birth of the modern rose,\" the point where roses split away from older garden classes into the repeat-blooming, long-stemmed type that still dominates the cut-flower trade.",
+          "Even Guillot's own rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the plant's own record: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even settled agreement on whether it had one parent or two."
+        ],
+        "image": {
+          "src": "/images/june-birth-flower-rose.jpg",
+          "alt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot in Lyon, France, generally credited as the first hybrid tea rose and the ancestor type behind most cut roses sold today",
+          "credit": "Photo by Arashiyama, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_%27La_France%27.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "Even the word \"rose\" might not have started out Greek",
+        "body": [
+          "Etymonline traces English \"rose\" back through Latin rosa to Greek rhodon, the standard textbook path. Wiktionary's entry on rhodon adds a layer most flower pages skip: rhodon itself is thought to be a loanword into Greek rather than a native Greek coinage, most likely from Proto-Iranian wardah, \"flower, rose,\" the same root behind Old Persian, Old Armenian vard, and modern Persian gol, the source of Turkish gül, \"rose.\"",
+          "That path isn't settled, either. Wiktionary notes that linguist Rüdiger Schmitt considers a borrowing from Iranian into Greek unlikely on phonological and historical grounds, and flags an alternative: rhodon could instead be a Pre-Greek loan from a language such as Thracian, since the rose was native to Thrace. More than two thousand years after the word entered Greek, etymologists still don't agree on which ancient language handed it over."
+        ]
+      },
+      {
+        "heading": "Honeysuckle carries two unrelated names, and the vine in many photos is the invasive one",
+        "body": [
+          "Honeysuckle's scientific name and its English common name come from two entirely separate sources, a split most birth-flower copy glosses over by treating \"Lonicera\" as though it simply meant honeysuckle in Latin. It doesn't. Wikipedia's entry on the genus explains that \"the name Lonicera stems from Adam Lonicer, a Renaissance botanist,\" specifically Adam Lonicer (1528-1586), a German physician whose 1557 herbal, the Kräuterbuch, Wikipedia's biographical entry on him credits as his major work. Carl Linnaeus attached Lonicer's name to the genus more than a century and a half after Lonicer's death.",
+          "The English name has nothing to do with Lonicer. Etymonline dates \"honeysuckle\" to around 1300, and the earliest recorded sense isn't even the vine: the word first meant clover, specifically red clover, with the climbing-vine sense not attested until roughly a century later, around 1400. Both senses trace to Old English hunigsuge, literally \"honey-suck,\" a description of the practice of drawing nectar directly from a flower. Two names, from two unrelated sources, that happened to land on the same genus of roughly 158 species (Wikipedia's count) native across North America, Eurasia, and North Africa.",
+          "The species question matters more than most galleries let on. Among those 158 species, Wikipedia singles out Lonicera japonica, Japanese honeysuckle, as \"an aggressive generalist species\" and one of the most widely planted ornamental honeysuckles worldwide. Introduced to the US from Japan in the early 1800s, it's now classified as a noxious weed in 46 states; it's prohibited for sale in Connecticut, Illinois, Massachusetts, and Vermont, and banned outright in Indiana and New Hampshire, per Wikipedia's entry on the species. Its older stems are often hollow inside, per the same entry. A native alternative, Lonicera sempervirens, trumpet or coral honeysuckle, native to the eastern US, is among the species Wikipedia's genus entry lists as a particular draw for North American hummingbirds. Most stock photography attached to \"June birth flower\" pages doesn't name which species is pictured, and given how much more common Japanese honeysuckle is along roadsides and in home gardens across the eastern and central US, there's a real chance the vine illustrating a US reader's birth flower is a species their own state prohibits them from planting."
+        ],
+        "image": {
+          "src": "/images/june-birth-flower-honeysuckle.jpg",
+          "alt": "Lonicera japonica (Japanese honeysuckle) in bloom, an East Asian species introduced to the US as an ornamental in the early 1800s and now classified as a noxious weed in 46 states",
+          "credit": "Photo by Cbaile19, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_2021-06-11,_Banksville,_01.jpg), CC0"
+        }
+      },
+      {
+        "heading": "What the Old Farmer's Almanac says the two flowers mean",
+        "body": [
+          "The Almanac ties rose meaning to color: red for romance (\"I love you\"), pink for happiness and admiration, white for innocence and purity, orange for desire and excitement, and yellow for cheer and happiness, though older folklore reads yellow as jealousy instead. Honeysuckle, in the Almanac's framing, stands for happiness and positive energy, layered with an older association around nostalgia: the vine was traditionally planted near homes both as a sign of affection for a new love and, separately, to evoke nostalgia for old flames and to honor people who had died."
+        ]
+      },
+      {
+        "heading": "June's other unusual number: three birthstones, not one",
+        "body": [
+          "The flower chart isn't the only place June breaks from a typical month. This site's own [birthstones by month](/birthstones-by-month/) page found that Jewelers of America's current chart gives June three official birthstones at once, pearl, moonstone, and alexandrite, a count only December also carries. Alexandrite wasn't part of the original 1912 chart; that page traces its addition to a 1952 revision, the same update that added tourmaline to October, citrine to November, and zircon to December. Whatever kept June's flower pairing from settling into one plant, the month's separate gemstone chart didn't settle into one stone either, for an unrelated reason documented four decades later."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is June's birth flower?",
+        "answer": "Rose and honeysuckle, per The Old Farmer's Almanac and the florist trade lists that follow it. Like most months on a modern birth-flower list, June carries a primary and a secondary flower rather than one."
+      },
+      {
+        "question": "Is the rose sold at florists an ancient flower?",
+        "answer": "The rose genus goes back much further and includes over 300 wild species, but the tall, single-stem rose sold as a cut flower today traces to a 19th-century hybrid, 'La France,' bred in 1867 by Jean-Baptiste André Guillot in Lyon, France, and generally credited as the first hybrid tea rose."
+      },
+      {
+        "question": "What does the rose mean as a birth flower?",
+        "answer": "Meaning varies by color in the Old Farmer's Almanac's framing: red for romance, pink for happiness and admiration, white for innocence and purity, orange for desire, and yellow for cheer, though some older folklore reads yellow as jealousy instead."
+      },
+      {
+        "question": "Is the honeysuckle pictured on birth-flower lists always the same species?",
+        "answer": "Not necessarily. Photos often show Lonicera japonica, Japanese honeysuckle, which is classified as a noxious weed in 46 US states and banned for sale in several. A native, non-invasive alternative is Lonicera sempervirens, trumpet or coral honeysuckle."
+      },
+      {
+        "question": "Where does the word \"honeysuckle\" come from?",
+        "answer": "From Old English hunigsuge, literally \"honey-suck.\" The earliest recorded English sense of the word, around 1300, actually meant clover rather than the climbing vine; the vine sense isn't attested until roughly a century later. The name has no connection to the plant's scientific name, Lonicera, which instead honors 16th-century German botanist Adam Lonicer."
+      },
+      {
+        "question": "Does June have more than one official birthstone too?",
+        "answer": "Yes. Jewelers of America's current chart lists three: pearl, moonstone, and alexandrite, one of only two months, along with December, that carry three stones rather than one or two."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — June Birth Flowers: Rose and Honeysuckle",
+        "url": "https://www.almanac.com/june-birth-flowers"
+      },
+      {
+        "label": "Wikipedia — Rose",
+        "url": "https://en.wikipedia.org/wiki/Rose"
+      },
+      {
+        "label": "Wikipedia — Rosa 'La France'",
+        "url": "https://en.wikipedia.org/wiki/Rosa_%27La_France%27"
+      },
+      {
+        "label": "Wikipedia — Jean-Baptiste André Guillot",
+        "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Andr%C3%A9_Guillot"
+      },
+      {
+        "label": "Etymonline — Rose",
+        "url": "https://www.etymonline.com/word/rose"
+      },
+      {
+        "label": "Wiktionary — ῥόδον (rhódon)",
+        "url": "https://en.wiktionary.org/wiki/%E1%BF%A5%CF%8C%CE%B4%CE%BF%CE%BD"
+      },
+      {
+        "label": "Etymonline — Honeysuckle",
+        "url": "https://www.etymonline.com/word/honeysuckle"
+      },
+      {
+        "label": "Wikipedia — Lonicera",
+        "url": "https://en.wikipedia.org/wiki/Lonicera"
+      },
+      {
+        "label": "Wikipedia — Adam Lonicer",
+        "url": "https://en.wikipedia.org/wiki/Adam_Lonicer"
+      },
+      {
+        "label": "Wikipedia — Lonicera japonica",
+        "url": "https://en.wikipedia.org/wiki/Lonicera_japonica"
+      }
+    ],
+    "image": "/images/june-birth-flower-rose.jpg",
+    "imageAlt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot, generally credited as the ancestor type behind most cut roses sold as June's birth flower today",
+    "imageCredit": "Photo by Arashiyama, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_%27La_France%27.jpg), CC BY-SA 3.0"
+  },
+  {
     "slug": "august-birth-flower",
     "category": "Birth Flowers",
     "title": "August Birth Flower: Gladiolus, and a Poppy Species Left Out",

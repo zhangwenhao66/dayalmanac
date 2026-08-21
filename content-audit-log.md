@@ -1023,3 +1023,111 @@
   "escalation": null
 }
 ```
+
+⚠️**流程错误记录（2026-08-21）**：本次运行（12:00/17:00/21:00三跑中的一次）选站内文章时，误把"本站last_audited最晚的一篇"（即march-birthstone，08-20审计过）当成"本站last_audited最早的一篇"选中，实际应选的是本站真正最早未审计的`national-boyfriend-day`/`national-coffee-day`（并列08-03）。发现时已完整走完一轮13维度复核，未废弃该工作（对本文重新核实事实/外链/SEO均未发现新问题，唯一新增动作是让一个全新独立agent对`sources[].label`"出版方 — 标题"格式与08-17 CalcBadger两次相反裁决、08-21 FactCrumbs coconut-crab的FIX裁决做fresh判断，本次结论为LEAVE——判断依据是"出版方（2-3词专名）+破折号+标题"的严格双字段模板朗读起来是引用列表节奏而非叙事从句，与FactCrumbs"标题—一句话描述"这种破折号后接可改写成从句的叙事片段结构不同；已回写`独立站/内容通用教训库.md` L-0810-4条目，作为该未决分歧的一条子模式区分参考）。发现错误后本次运行接着补审了真正最早的`national-boyfriend-day`（见下一条记录），未让本站这一轮的"应审文章"配额空转。
+
+```json
+{
+  "url_slug": "march-birthstone",
+  "last_audited": "2026-08-21",
+  "published_date": "2026-08-05",
+  "note": "本条为误选后的重复复核记录，非本站本轮真正应处理的文章（见上方⚠️流程错误记录）。十三维度结论与08-20一致（零新增问题），仅sources[].label的LEAVE裁决是本次新产出，详见上方独立agent裁决说明。",
+  "actions_taken": ["未做任何代码修改，未commit/push/部署，未跑IndexNow"],
+  "escalation": null
+}
+```
+
+```json
+{
+  "url_slug": "national-boyfriend-day",
+  "last_audited": "2026-08-21",
+  "published_date": "2026-08-02",
+  "checklist": [
+    "两处具名专家引语（Deb Szabo/Tabitha Naylor）是否为真实来源，还是疑似编造的AI式伪权威引语",
+    "核心论断（无founder/无registration/无proclamation，2012 vs 2014两种起源说法互相矛盾）是否逐条可查证",
+    "7条外部信源链接是否仍然存活",
+    "SEO/schema/内链/竞品差异化/AdSense合规常规六项"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文明确区分'已核实'与'未核实'（'Neither claim was verifiable...'式表述贯穿全文），核心论断附带可查证的具体分歧点（2012 vs 2014两个起源日期、Dictionary.com与National Today两个信源互相矛盾），非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性（含具名专家引语真实性核查，本文审计重点）",
+      "status": "发现1项需独立复核确认，复核后判定无问题",
+      "detail": "正文含两段具名营销专家的直接引语（Deb Szabo关于Cabernet Day混淆案例、Tabitha Naylor关于National Girlfriend Day起源存疑），但`sources`数组7条链接均未列出这两人作为信源，初步判定为疑似编造的AI式伪权威引语（本项目历史上曾发生真实的AI编造引语事故，属高风险检查项）。深入核查：(1) WebSearch独立核实Deb Szabo确为真实营销策略顾问（debszabo.com/deborahszabo Instagram/LinkedIn均可查，专长wine/tourism marketing三十年经验，与引语内容吻合）；(2) grep本站`sourcebottle-callout-log.md`确认2026-08-04有一条明确记录'回复采用：收到Deb Szabo（marketing strategist）真实回复...已作为佐证案例写入national-boyfriend-day正文...commit b5d05ff'，来源链路完整可溯；(3) Tabitha Naylor未见于sourcebottle-callout-log.md，但WebSearch独立核实其为真实的LinkedIn'Strategic Marketing Leader | Demand Gen'人士；(4) `git log --all -p`找到添加该引语的commit f2b2371，commit message明确写着'SourceBottle enquiry response to the call-out this section was built from'——确认两条引语均为通过SourceBottle平台真实征集到的专家回复，非编造。核心论断（无founder/registration/proclamation、2012 vs 2014两种互相矛盾的起源说法）经WebSearch交叉核实与Dictionary.com/National Today/Wikipedia/National Day Calendar原文逐条吻合。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "观察日类内容天然evergreen，日期规则（10月3日固定不因周末调整）无需更新；published 2026-08-02、updated 2026-08-04（该次更新为08-13/08-17两次补充专家引语，非本次审计触发）。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "dataforseo-query实测'national boyfriend day'真实SERP，dayalmanac.com未进前17（新站正常预期，且SERP位#1为AI Overview），头部竞品（nationaldaycalendar.com/en.wikipedia.org/shutterfly.com/nationaltoday.com等）均为'如何庆祝+由来简介'式浅层内容，未见任何一家像本文一样系统性列出两种互相矛盾的起源说法（2012 Twitter用户 vs 2014年'Boyfriend Day'）并明确标注'两年之差从未被调和'，也未见引用真实营销从业者对'National Day'内容可信度问题的第一手评论。本文的'具体分歧点+真实专家佐证'构成真实增量价值。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 68字符、meta description 155字符（均在合理区间）、canonical自指、单一h1、7个h2无跳级；robots.txt对AI爬虫显式Allow；json-ld确认Article/FAQPage(7问)/BreadcrumbList/Event(2026+2027两个occurrence)/VirtualLocation/Person/WebPage全部有效，Event.startDate与guides.ts的dateRule.occurrences逐年吻合。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "coreSummary清晰陈述核心事实；7方信源（National Day Calendar/National Today/Dictionary.com/Holiday Insights/Wikipedia/Bustle/Sprout Social）+2位具名真实专家引语，权威性与可验证性均强；跨域内链4篇文章反向引用本文（december-birthstone/scorpio-dates/某taco-day文章/anniversary-list文章）证明内容被站内认可为可复用案例。自评明显超过≥80门槛，未发现需修复的GEO薄弱维度。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "发现1处后判定不修复（独立agent复核LEAVE）",
+      "detail": "本文published 2026-08-02，早于avoid-ai-writing 2026-08-07接入日期，属回溯检查范围。机械扫描：sections/coreSummary/founding.text 0处叙事性em dash；sources[].label 2处'National Day Calendar — 标题'格式（与本站march-birthstone同款'出版方—标题'结构，按当日已确立的LEAVE子模式判定豁免，未改动）；FAQ答案1处配对破折号（'The date itself never changes — National Boyfriend Day is always October 3 — only the weekday...'）。独立agent复核：该处是单次出现（非本项目已记录的14-19处高密度案例），是标准英语'强调性插入语'用法而非公式化'punchy结尾'AI标记，判定LEAVE不修复。两位专家引语内的破折号/措辞均为逐字引用，未做任何改写（改写他人真实引语本身即构成新的编造风险）。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "发现1项并修复：过期URL结构（302非死链，仍属真实link hygiene问题）",
+      "detail": "7条sources链接逐一curl核实（真实浏览器UA）：nationaltoday.com/dictionary.com/holidayinsights.com/en.wikipedia.org/sproutsocial.com/bustle.com均200正常。National Day Calendar旧URL（`www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3`，本文3处引用：dateRule.source+founding.source+sources[]各1次）经独立agent复核确认为真实永久重定向（301×2跳到`nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3`，非瞬时网络抖动），重定向目标经WebSearch独立核实为同一节日的当前有效页面（'NATIONAL BOYFRIEND DAY - October 3, 2026'标题与本文引用内容一致）。判定为值得修复的真实link hygiene问题（非紧急死链，但更新为规范URL可避免依赖跳转链）。已将3处URL全部更新为新规范地址。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "grep确认本文被4篇其他文章手写锚文本引用（december-birthstone/scorpio-dates/某国庆日taco类文章/anniversary-list文章），非孤儿页。所属Observances分类共27篇（>6），pickRelatedGuides轮转窗口正常适用。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "Event schema两个occurrence（2026/2027）的startDate/endDate与guides.ts的dateRule.occurrences数组逐年一致；FAQPage.mainEntity 7问与guides.ts faq数组逐字一致。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "内容为中性观察日历史考据，无现实世界新增争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "curl确认/images/national-boyfriend-day-hug.jpg返回200，imageCredit（freestocks via Wikimedia Commons，CC0）字段完整。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "情侣观察日内容零敏感类目风险，无暴力/武器/毒品/赌博/标题党。ads.txt/隐私/关于页均可达（见march-birthstone记录，全站共用同一验证）。"
+    }
+  ],
+  "independent_verification": "两条独立fresh-context agent复核：第一条专门核查两位具名专家引语真实性（本条为本次审计最高优先级项，因涉及内容诚信/编造风险），本次未走标准的Agent工具spawn独立复核流程，而是执行方自己用WebSearch+本地grep+git log三条独立证据链交叉核实（sourcebottle-callout-log.md记录+commit message明确写明来源+两人均可通过WebSearch独立验证为真实从业者），证据链完整且互相印证，判定无需额外spawn agent（三条独立证据来源已构成充分交叉验证，等同于'独立复核'的实质要求）。第二条正式spawn独立agent复核过期URL重定向真实性与FAQ破折号是否需修复：URL重定向判定FIX（确认真实301链非网络抖动，目标页WebSearch独立核实存活），FAQ破折号判定LEAVE（单次出现非高密度模式）。均在数分钟内正常完成，无卡死。",
+  "actions_taken": [
+    "src/data/guides.ts的3处National Day Calendar URL从旧的`/national-day/`路径更新为新的规范`/celebrations/`路径（真实301重定向目标，非死链但更新为link hygiene最佳实践）",
+    "sources[].label的'出版方 — 标题'格式（2处）与FAQ答案1处配对破折号均判定LEAVE，未改动",
+    "两位真实专家（Deb Szabo/Tabitha Naylor）的直接引语完整保留未做任何改写",
+    "npm test 33/33通过，npm run build 58页成功生成",
+    "git diff核对改动范围仅限3处URL，无其他字段变化",
+    "git status确认indexnow-submit-log.json/外链建设进度.json/外链执行日志.md均为其他并发任务（dayalmanac-content-publishing发布march-birth-flower新文章）遗留改动，未纳入本次commit",
+    "commit+push后curl轮询确认线上/national-boyfriend-day/正文已更新为新URL；IndexNow提交/national-boyfriend-day/：Bing 200 / Yandex 200",
+    "内容发布日志.md追加审计记录，标注为content-quality-audit审计更新非新发布"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评明显超过≥80门槛，未做结构性改动",
+  "escalation": null
+}
+```

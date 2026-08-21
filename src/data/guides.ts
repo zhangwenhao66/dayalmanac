@@ -182,7 +182,7 @@ export const guides: Guide[] = [
       "text": "October 3 every year. The date does not shift for weekends or weekdays.",
       "source": {
         "label": "National Day Calendar — National Boyfriend Day, October 3",
-        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+        "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       },
       "occurrences": [
         {
@@ -217,7 +217,7 @@ export const guides: Guide[] = [
       "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles rather than anything contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
       "source": {
         "label": "National Day Calendar — National Boyfriend Day (history section)",
-        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+        "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       }
     },
     "sections": [
@@ -308,7 +308,7 @@ export const guides: Guide[] = [
     "sources": [
       {
         "label": "National Day Calendar — National Boyfriend Day, October 3",
-        "url": "https://www.nationaldaycalendar.com/national-day/national-boyfriend-day-october-3"
+        "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       },
       {
         "label": "National Today — National Boyfriend Day",

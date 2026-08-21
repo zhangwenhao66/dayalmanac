@@ -3829,6 +3829,149 @@ export const guides: Guide[] = [
     "imageCredit": "Photo by Arashiyama, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_%27La_France%27.jpg), CC BY-SA 3.0"
   },
   {
+    "slug": "march-birth-flower",
+    "category": "Birth Flowers",
+    "title": "March Birth Flower: Daffodil, and a Species Name Most Guides Get Wrong",
+    "description": "March's birth flower is the daffodil on The Old Farmer's Almanac chart, but the taxonomists who study the genus have never agreed on how many species it actually contains.",
+    "published": "2026-08-21",
+    "updated": "2026-08-21",
+    "coreSummary": "March's birth flower is the daffodil, and The Old Farmer's Almanac names only that one flower for the month, unlike most months on its chart, which carry a primary and a secondary bloom. A separate, unrelated publication, Farmers' Almanac, adds jonquil and cherry blossom as alternatives, though jonquil is not a synonym for daffodil; it names one specific species, Narcissus jonquilla, distinct in leaf shape, stem structure, flowers per stem, and scent. The genus itself resists a stable count: taxonomists have proposed anywhere from 6 species (Linnaeus, 1753) to 87 (the International Daffodil Register, 2006), with a 2008 genetic study cutting that back to 36 and the Royal Horticultural Society's December 2017 register landing at 83. The bulbs are also genuinely toxic; a 2012 cluster of 11 people in Bristol, UK were sickened after eating daffodils sold next to vegetables at a supermarket.",
+    "sections": [
+      {
+        "heading": "One flower, until a different almanac adds two more",
+        "body": [
+          "The Old Farmer's Almanac names exactly one flower for March: the daffodil. That breaks from the pattern on this site's [June birth flower](/june-birth-flower/) page, where the Almanac's chart pairs a primary flower with a secondary one for most months, rose and honeysuckle, gladiolus and poppy. March's own page on the Almanac's site carries no \"and\" in its title, just \"The Daffodil.\"",
+          "A different publication complicates that. Farmers' Almanac is a separate company from The Old Farmer's Almanac, despite the near-identical name, a distinction Almanac.com's own editors have had to clarify publicly because of how often readers confuse the two. Farmers' Almanac's March page is titled \"Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives).\" Depending on which almanac a reader lands on, March's birth flower is one plant or three."
+        ]
+      },
+      {
+        "heading": "Jonquil isn't another name for daffodil. It's a separate species.",
+        "body": [
+          "\"Daffodil,\" \"narcissus,\" and \"jonquil\" get used interchangeably often enough that Farmers' Almanac lists jonquil as though it were simply another word for March's flower. The New York Botanical Garden's own explainer on the three names treats that as a mistake worth correcting: jonquil refers specifically to Narcissus jonquilla and its hybrids, one species within the genus, not a second name for daffodils generally. Gardening Know How's comparison piece calls the loose, interchangeable use of \"jonquil\" for any daffodil \"technically incorrect,\" even though it's become common.",
+          "The two aren't hard to tell apart once the traits are named. Daffodils carry one flower per stem on slim, sword-tipped leaves and a light scent. Jonquils, per the same NYBG and Gardening Know How comparisons, produce several flowers per stem, up to five, on slender, round-tipped leaves, from a shorter, hollow stem, with a fragrance strong enough that it's the trait most commonly used to identify one in a garden. Jonquils also run hardier in warm climates, thriving as far south as USDA zone 8, a range that doesn't suit most daffodil cultivars as well."
+        ],
+        "image": {
+          "src": "/images/march-birth-flower-jonquil.jpg",
+          "alt": "Narcissus jonquilla (jonquil) in bloom, showing the several small flowers per stem and slender, round-tipped leaves that distinguish it from the single-flowered daffodil it's often mistaken for",
+          "credit": "Photo by Cillas, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Narcissus_jonquilla_3.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "How many species of daffodil exist? Nobody has counted the same number twice.",
+        "body": [
+          "Wikipedia's list of Narcissus species lays out a count that has swung by more than tenfold depending on who did the counting and when. Carl Linnaeus, working from a narrow set of specimens in 1753, recognized six species. Botanist Fernandes accepted 22 in 1951 and had revised that up to 63 by 1968. Blanchard counted 65 in 1990; Erhardt counted 66 in 1993. The International Daffodil Register listed 87 species in 2006, the high point of the modern era. Then a 2008 genetic study by Zonneveld cut the number back down to just 36. The Royal Horticultural Society's own December 2017 register, the current standard reference, accepts 83 species names, while more than 300 additional names that once described separate species are now filed as synonyms.",
+          "Wikipedia's summary attributes most of the swing to how narrowly or broadly a \"species\" gets defined, plus how natural hybrids get classified. A botanist working from a wide view of each species, lumping closely related populations together, ends up with a short list; one working from a narrow view, splitting them apart, ends up with a long one. Naturally occurring hybrids compound the problem: an \"ancient hybrid\" found spread across a wide area is often promoted to full species status, while a \"recent hybrid\" found growing only as scattered individuals among its parent plants usually isn't. There's no committee empowered to settle the question the way there is for cultivated varieties; the RHS runs the international registry for garden hybrids and cultivars, sorted into 13 horticultural divisions, but the wild species count underneath that system has never stopped moving."
+        ],
+        "image": {
+          "src": "/images/march-birth-flower-daffodil.jpg",
+          "alt": "Narcissus pseudonarcissus (wild daffodil) in bloom, the species most closely tied to the common name, though taxonomists disagree on how many related Narcissus species should be counted separately",
+          "credit": "Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Narcissus_pseudonarcissus_flower_300303.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "The word \"daffodil\" hides a letter nobody can explain",
+        "body": [
+          "Etymonline traces \"daffodil\" back to Middle English \"affodill,\" recorded around 1400, itself from Medieval Latin affodillus, from Latin asphodelus, from Greek asphodelos, a word Etymonline lists as of unknown origin in its own right. English picked up the \"d-\" spelling by the 1540s, and the added letter has never been fully explained. Etymonline's own leading theory points to the article fusing onto the word in Dutch, \"de affodil,\" the Netherlands having long been a source for bulbs. The Oxford English Dictionary's entry catalogs additional proposals nobody has settled on either: a French preposition doing the same job, \"d'asphodel\"; or a playful, childish sound-shift of the kind that turns \"Edward\" into \"Ted\" or \"aunt\" into \"tante.\" Two layers of the word's history are unresolved: the ultimate Greek root is unexplained, and so is the English letter stuck onto the front of it."
+        ]
+      },
+      {
+        "heading": "Narcissus: named for the myth, or the myth named for the poison?",
+        "body": [
+          "The genus's scientific name and the mythological youth it's usually said to honor share a possible root in Greek narke, \"numbness\" or \"torpor,\" a connection some sources tie directly to the plant's own sedative, toxic alkaloids. That link isn't settled etymology, though. Linguist Robert Beekes, whose work is cited on the word's etymology, argues that the ending on Narkissos points to a pre-Greek word rather than a genuine derivation from narke, meaning the name may have entered Greek from an earlier, non-Greek language of the region, with the resemblance to \"numbness\" arriving after the fact rather than explaining the name's actual origin. Whether the flower was named for what it does to the body, or the resemblance is coincidence dressed up as etymology, is a question the sources checked for this page don't resolve."
+        ]
+      },
+      {
+        "heading": "The toxicity isn't theoretical",
+        "body": [
+          "Daffodil bulbs contain lycorine, an alkaloid that causes vomiting and gastrointestinal cramping, and the danger has produced a documented poisoning case, not just a warning label. In February 2012, UK health investigators, in a report now archived by the UK Health Security Agency, identified 11 people in Bristol, ages 5 to 60, who were sickened after eating daffodils bought at a supermarket that had displayed pre-bloom daffodil stalks next to the vegetables, unmarked as inedible. All 11 developed vomiting within 12 hours; none required hospitalization.",
+          "The Bristol case wasn't an isolated incident. Trade publication The Grocer reported that Public Health England, writing to major UK retailers in 2015 to warn them off displaying daffodils near produce, disclosed that the agency had logged 63 inquiries over the previous six years from people who had mistaken daffodil bulbs for onions or the stems for a vegetable, including 27 cases in the single year before that letter went out."
+        ]
+      },
+      {
+        "heading": "What the flower is supposed to mean, and March's other one-stone chart",
+        "body": [
+          "The Old Farmer's Almanac ties daffodils to rebirth, new beginnings, and good fortune, fitting for a flower that's often among the first to bloom after winter. Older folklore attaches a specific superstition to how the flowers are given: a bunch of daffodils is said to bring good luck, while a single stem given alone is said to bring the opposite. Wales claims the daffodil as its national flower, worn each March 1 for St David's Day, alongside a separate Welsh legend holding that whoever spots the season's first bloom will have a prosperous year ahead.",
+          "The single-stone pattern here has a match elsewhere on the calendar. This site's own [March birthstone](/march-birthstone/) page found that Jewelers of America's current chart names only aquamarine for March, no second stone, even though the Gemological Institute of America and the American Gem Society both present aquamarine and bloodstone as a pair. Two separate charts, run by different organizations for different products, arrived at the same one-name-only treatment for the same month."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is March's birth flower?",
+        "answer": "The daffodil, per The Old Farmer's Almanac, which names only that one flower for March, unlike most months on its chart. Farmers' Almanac, an entirely separate publication despite the similar name, adds jonquil and cherry blossom as alternatives on its own March page."
+      },
+      {
+        "question": "Is jonquil just another name for daffodil?",
+        "answer": "No. Jonquil refers specifically to Narcissus jonquilla and its hybrids, one species within the daffodil genus, not a synonym for daffodils generally. Jonquils carry several fragrant flowers per stem on slender, round-tipped leaves; daffodils carry one flower per stem on sword-tipped leaves."
+      },
+      {
+        "question": "How many species of daffodil are there?",
+        "answer": "Depends who's counting. Estimates have ranged from 6 species (Linnaeus, 1753) to 87 (the International Daffodil Register, 2006), with a 2008 genetic study cutting the number to 36 and the Royal Horticultural Society's December 2017 register currently accepting 83 species names alongside more than 300 synonyms."
+      },
+      {
+        "question": "Where does the word \"daffodil\" come from?",
+        "answer": "From Middle English \"affodill,\" ultimately from Greek asphodelos, a word of unknown origin. The initial \"d-\" that turned \"affodill\" into \"daffodil\" by the 1540s has never been fully explained; leading theories point to a fused Dutch or French article, or a playful sound-shift."
+      },
+      {
+        "question": "Are daffodils actually poisonous?",
+        "answer": "Yes. The bulbs contain lycorine, an alkaloid that causes vomiting and cramping. In February 2012, 11 people in Bristol, UK were sickened after eating daffodils sold next to vegetables at a supermarket, and Public Health England logged 63 similar inquiries over six years before warning retailers in 2015."
+      },
+      {
+        "question": "Does March have more than one official birthstone too?",
+        "answer": "No, at least not on Jewelers of America's current chart, which lists only aquamarine for March. GIA and the American Gem Society both also present bloodstone as a second option, the same one-stone-versus-two disagreement that shows up on March's flower chart."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — March Birth Flower: The Daffodil",
+        "url": "https://www.almanac.com/content/march-birth-flower"
+      },
+      {
+        "label": "Farmers' Almanac — Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives)",
+        "url": "https://www.farmersalmanac.com/march-flower-lore"
+      },
+      {
+        "label": "NYBG Plant Talk — What's in a Plant Name? Narcissus, Daffodils, and Jonquils",
+        "url": "https://www.nybg.org/blogs/plant-talk/2017/04/around-the-garden/whats-in-a-plant-name-narcissus-daffodils-and-jonquils/"
+      },
+      {
+        "label": "Wikipedia — List of Narcissus species",
+        "url": "https://en.wikipedia.org/wiki/List_of_Narcissus_species"
+      },
+      {
+        "label": "Wikipedia — List of Narcissus horticultural divisions",
+        "url": "https://en.wikipedia.org/wiki/List_of_Narcissus_horticultural_divisions"
+      },
+      {
+        "label": "Etymonline — Daffodil",
+        "url": "https://www.etymonline.com/word/daffodil"
+      },
+      {
+        "label": "Oxford English Dictionary — daffodil, n.",
+        "url": "https://www.oed.com/dictionary/daffodil_n"
+      },
+      {
+        "label": "Etymonline — Asphodel",
+        "url": "https://www.etymonline.com/word/asphodel"
+      },
+      {
+        "label": "Etymonline — Narcissus",
+        "url": "https://www.etymonline.com/word/narcissus"
+      },
+      {
+        "label": "UK Health Security Agency — Gastro-intestinal poisoning due to consumption of daffodils mistaken for vegetables, Bristol",
+        "url": "https://researchportal.ukhsa.gov.uk/en/publications/gastro-intestinal-poisoning-due-to-consumption-of-daffodils-mista-2/"
+      },
+      {
+        "label": "The Grocer — Daffodils are a danger warns Public Health England",
+        "url": "https://www.thegrocer.co.uk/news/daffodils-are-a-danger-warns-public-health-england/513254.article"
+      }
+    ],
+    "image": "/images/march-birth-flower-daffodil.jpg",
+    "imageAlt": "Narcissus pseudonarcissus (wild daffodil) in bloom, the species most closely tied to the common name March's birth flower is drawn from",
+    "imageCredit": "Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Narcissus_pseudonarcissus_flower_300303.jpg), CC BY-SA 3.0"
+  },
+  {
     "slug": "august-birth-flower",
     "category": "Birth Flowers",
     "title": "August Birth Flower: Gladiolus, and a Poppy Species Left Out",

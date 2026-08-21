@@ -3695,6 +3695,151 @@ export const guides: Guide[] = [
     "image": "/images/international-mens-day-timeline.svg",
     "imageAlt": "Timeline showing International Men's Day's split history: a February 7 observance kept alive only by Malta from 1992 to 2009, running alongside the November 19 observance Jerome Teelucksingh revived in Trinidad and Tobago in 1999, until Malta switched to November 19 in 2009, and Romania made that date law in 2016"
   },
+{
+    "slug": "may-birth-flower",
+    "category": "Birth Flowers",
+    "title": "May Birth Flower: Lily of the Valley, and an Unconfirmed Legend",
+    "description": "May's birth flowers are lily of the valley and hawthorn, but the legend behind the French custom and an old hawthorn proverb are both shakier than they look.",
+    "published": "2026-08-21",
+    "updated": "2026-08-21",
+    "coreSummary": "May's birth flowers are lily of the valley and hawthorn, and unlike March, both The Old Farmer's Almanac and Farmers' Almanac agree on the pairing. The agreement stops there. Lily of the valley's scientific name traces to a Latin Vulgate Bible phrase, not to a description of the plant itself, and the plant has moved through four different plant families, starting in the lily family and landing most recently in Asparagaceae. The French custom of giving it away every May 1 is usually credited to King Charles IX in 1561, a story French Wikipedia itself labels a legend and reports only in the conditional tense; documented practice dates to the early 20th century instead. Hawthorn, meanwhile, carries a species count that has swung from 1,000-plus down to roughly 200, a folk name of \"May\" that predates Britain's 1752 calendar reform by two centuries, and a floral scent built on the same chemical compound released by decaying flesh.",
+    "sections": [
+      {
+        "heading": "For once, the two almanacs agree. That's where the agreement ends.",
+        "body": [
+          "The Old Farmer's Almanac names lily of the valley and hawthorn as May's pair. So does Farmers' Almanac, the separate company this site's [March birth flower](/march-birth-flower/) page found splitting from the Old Farmer's Almanac's chart that same month, adding jonquil and cherry blossom where the Almanac listed daffodil alone. May doesn't get that treatment. Both publications settle on the same two plants, no third option, no disputed alternate.",
+          "What the agreement hides is that neither plant's name, origin story, or classification is anywhere near as settled as a two-flower chart implies. Lily of the valley has been shuffled between four different plant families since the modern naming system began, and the tradition most often cited for why it's associated with a specific date in May turns out to rest on a story French sources themselves frame as unconfirmed. Hawthorn has a folk name that's centuries older than the modern calendar it now gets compared against, and a species count nobody has ever pinned down twice the same way."
+        ]
+      },
+      {
+        "heading": "The French gift-giving custom is usually dated to 1561. The documented version starts three and a half centuries later.",
+        "body": [
+          "Search for why lily of the valley gets given away in France on May 1 and the answer nearly every site repeats is the same: in 1561, King Charles IX received a sprig as a good-luck charm, liked it enough to start handing bouquets to the women of his court, and the custom took root from there. Farmers' Almanac's own flower-lore page tells the story the same way, as settled history.",
+          "French Wikipedia's own article on May 1 tells it differently. Its \"Traditions et superstitions\" section introduces the Charles IX story with \"selon une légende,\" according to a legend, and describes his actions throughout in the conditional tense, \"aurait initié,\" \"aurait décidé,\" would have initiated, would have decided, the grammatical marker French uses for a claim it isn't prepared to state as fact. The same entry places the custom's actual merger with the modern May 1 holiday at the start of the 20th century, not the 16th, more than three hundred years after the king Charles IX allegedly instructed. English Wikipedia's own article on lily of the valley lands on a similar timeline without mentioning Charles IX at all: it dates the tax-exempt street sale of the flower, the version of the custom still practiced today, to \"the beginning of the 20th century.\""
+        ],
+        "image": {
+          "src": "/images/may-birth-flower-lily.jpg",
+          "alt": "Convallaria majalis (lily of the valley) in bloom in Frankenfels, Austria, showing the bell-shaped white flowers behind France's May 1 gift-giving custom, a tradition documented from the early 20th century though popularly credited to a 1561 royal legend",
+          "credit": "Photo by GT1976, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-05-13_(168)_Convallaria_majalis_(lily-of-the-valley)_at_Bichlh%C3%A4usl_in_Frankenfels,_Austria.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "A 1941 law, and a flower chosen partly for what it wasn't",
+        "body": [
+          "One further layer sits between the legend and the present day. France's own historical record shows the government of Philippe Pétain, the collaborationist Vichy regime installed after the country's 1940 defeat, passed a law on April 24, 1941 making May 1 a paid public holiday under the name \"Fête du Travail et de la Concorde sociale,\" Labor and Social Harmony Day. Multiple French historical accounts, including coverage from public broadcaster France Info and an academic chapter published by Cairn.info, describe the regime as favoring lily of the valley specifically because it carried no association with the political left, unlike the red eglantine, a wild rose that French socialist and labor movements had used as their own May 1 emblem since the late 19th century. The flower most people now think of as a simple spring gift was, for at least one stretch of the 20th century, also a substitution made for a reason that had nothing to do with spring."
+        ]
+      },
+      {
+        "heading": "The scientific name comes from a translation, not a description",
+        "body": [
+          "Lily of the valley's genus name, Convallaria, is a Neo-Latin word coined by Carl Linnaeus himself, not inherited from classical usage. Per Wikipedia's entry on the plant, it derives from lilium convallium, \"lily of the valleys,\" the Latin Vulgate Bible's rendering of a phrase in Song of Songs 2:1. European herbalists only began applying that biblical phrase to this specific plant sometime in the 15th or 16th century, meaning the name describes a translator's word choice from a much older religious text, not a botanist's observation of the plant itself.",
+          "The plant's family placement has moved three times since leaving the lily family. Wikipedia's taxonomy section traces it from the historical lily family, Liliaceae, into its own short-lived family, Convallariaceae, then into Ruscaceae, and finally into its current position: a subfamily, Convallarioideae, inside Asparagaceae, the same family as the vegetable. Three regional forms once treated as varieties of one species, from Europe, from China and Japan, and from the southern Appalachian Mountains, have also since been split into three separate species in their own right. And despite the sweetness the flower's name and folklore both promise, the entire plant is toxic: Wikipedia's chemistry section counts roughly 38 different cardiac glycosides in its tissue, compounds that interfere with heart-muscle function and can cause irregular heartbeat if ingested."
+        ]
+      },
+      {
+        "heading": "Hawthorn's species count has never landed on the same number twice",
+        "body": [
+          "Hawthorn's taxonomic history runs a version of the same problem this site's own [March birth flower](/march-birth-flower/) page found in the daffodil genus, though the actual figures involved are different. Wikipedia's entry on the genus, Crataegus, notes that some botanists in the past recognized 1,000 or more species, many of them apomictic microspecies, plants that reproduce asexually and so tend to fragment into countless nearly identical local populations that taxonomists have disagreed for over a century about whether to count separately. Wikipedia calls 200 species \"a reasonable number\" as a middle estimate; Plants of the World Online, the reference this page checked directly, currently accepts 264. No two sources checked for this page landed on the same figure.",
+          "The plant's two names come from two entirely unrelated sources, the same split this site's June birth flower page found in honeysuckle's Lonicera and its English name. Crataegus, per Wikipedia's etymology note, comes from Greek kratos, \"strength,\" for the wood, plus akis, \"sharp,\" for the thorns; it describes the tree's structure. \"Hawthorn,\" by contrast, has nothing to do with strength or sharpness. Etymonline traces it to Old English hagaþorn, from haw, an obsolete word for a hedge or enclosing fence, plus thorn; it describes what the plant was grown for, not what it's made of. Two names, describing two different things about the same shrub, arrived at from two unconnected directions."
+        ],
+        "image": {
+          "src": "/images/may-birth-flower-hawthorn.jpg",
+          "alt": "Crataegus monogyna (common hawthorn) in flower in Karlsruhe, Germany. The genus name comes from Greek words for \"strength\" and \"sharp,\" describing the wood and thorns, while the English name \"hawthorn\" separately comes from an Old English word for hedge",
+          "credit": "Photo by H. Zell, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crataegus_monogyna_003.JPG), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "\"Ne'er cast a clout till May be out\" might not mean the month at all",
+        "body": [
+          "Hawthorn carries an older English folk name that overlaps, confusingly, with the calendar. Wikipedia's own opening line for the genus lists \"May-tree\" and \"Mayflower\" among the common names hawthorn goes by, alongside quickthorn, whitethorn, and hawberry. That overlap sits underneath a proverb still repeated in Britain today, \"ne'er cast a clout till May be out,\" don't shed a layer of winter clothing until May is finished, usually taken to mean the calendar month.",
+          "Multiple British folklore sources tracing the saying's history read \"May\" in the proverb as referring to the hawthorn's bloom rather than the month, and tie that reading to a specific calendar event: Britain's 1752 switch from the Julian to the Gregorian calendar, which advanced every date by eleven days. Before that reform, what had been May 1 under the old calendar fell on what is now May 12, closer to when hawthorn actually flowers across much of Britain. Read that way, the proverb isn't instructing anyone to wait for a date on a calendar page; it's instructing them to wait for a shrub to bloom, under a calendar that shifted out from underneath the saying more than 270 years ago."
+        ]
+      },
+      {
+        "heading": "The superstition about bringing it indoors has a real chemical behind it",
+        "body": [
+          "British and Irish folklore has long held that bringing hawthorn blossom into a house invites illness or death on the household, an exception carved out only for May Day itself, when gathering it to decorate doorways was traditionally welcomed rather than feared. That superstition isn't pure invention. Hawthorn's flowers release trimethylamine, a compound also produced during the early stages of animal tissue decomposition and present in the same family of chemicals responsible for the smell of rotting flesh; medieval accounts reportedly likened the blossom's odor to the smell that hung over London during the Great Plague. The flower most florists sell as a simple symbol of hope carries a scent built on the same molecule the human nose has evolved to read as a warning."
+        ]
+      },
+      {
+        "heading": "May's other chart is the plain one",
+        "body": [
+          "This site's own [birthstones by month](/birthstones-by-month/) page checked Jewelers of America's current buying guide directly and found May listed with a single official stone, emerald, no second gem and no disagreement with the Gemological Institute of America or the American Gem Society, unlike March, where those three organizations don't fully agree, or June, which carries three stones instead of one. Measured only by how many entries sit on a chart, May is one of the calendar's plainer months. Measured by what sits underneath either of its charts, gemstone or flower, that's the only thing about the month that's actually plain."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is May's birth flower?",
+        "answer": "Lily of the valley and hawthorn, per both The Old Farmer's Almanac and the separate publication Farmers' Almanac. Unlike some months, the two almanacs agree on this pairing without adding alternate flowers."
+      },
+      {
+        "question": "Did a French king really start the tradition of giving lily of the valley on May 1?",
+        "answer": "That's the popular story, usually dated to 1561 and King Charles IX, but French Wikipedia's own article on May 1 frames it explicitly as a legend, using the conditional tense throughout. The documented custom, the tax-exempt street sale of lily of the valley, is dated by English Wikipedia to the early 20th century instead, roughly 350 years after the king is said to have started it."
+      },
+      {
+        "question": "Is lily of the valley actually a lily?",
+        "answer": "Not by current classification. It was historically placed in the lily family, Liliaceae, then moved into its own family, Convallariaceae, then into Ruscaceae, and now sits in Asparagaceae, the same family as the vegetable, in a subfamily called Convallarioideae."
+      },
+      {
+        "question": "Is lily of the valley poisonous?",
+        "answer": "Yes. The entire plant contains roughly 38 different cardiac glycosides, compounds that can interfere with heart function and cause irregular heartbeat, vomiting, and abdominal pain if ingested, per Wikipedia's chemistry section on the plant."
+      },
+      {
+        "question": "How many species of hawthorn are there?",
+        "answer": "Nobody has agreed on one number. Historical counts ran past 1,000, largely due to how the genus's many nearly identical, asexually reproducing microspecies get classified. Wikipedia calls 200 species a reasonable modern estimate, while Plants of the World Online currently accepts 264."
+      },
+      {
+        "question": "What does \"ne'er cast a clout till May be out\" actually mean?",
+        "answer": "Likely a reference to hawthorn's bloom rather than the calendar month; hawthorn's own folk name is \"May.\" Britain's 1752 calendar reform moved every date forward by eleven days, so the old May 1, closer to when hawthorn actually flowers, now falls around May 12."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — May Birth Flowers: Lily of the Valley and Hawthorn",
+        "url": "https://www.almanac.com/content/may-birth-flowers"
+      },
+      {
+        "label": "Farmers' Almanac — The May Birth Flower: Lily of the Valley Lore",
+        "url": "https://www.farmersalmanac.com/may-flower-lore"
+      },
+      {
+        "label": "Wikipedia — Lily of the valley",
+        "url": "https://en.wikipedia.org/wiki/Lily_of_the_valley"
+      },
+      {
+        "label": "French Wikipedia — 1er mai (Traditions et superstitions)",
+        "url": "https://fr.wikipedia.org/wiki/1er_mai"
+      },
+      {
+        "label": "France Info — Social: le 1er mai, fête du muguet et de la lutte des travailleurs",
+        "url": "https://la1ere.franceinfo.fr/reunion/social-le-1er-mai-fete-du-muguet-et-de-la-lutte-des-travailleurs-1484516.html"
+      },
+      {
+        "label": "Cairn.info — Pétain et le 1er mai, 1941",
+        "url": "https://shs.cairn.info/tremplin-sciences-po-histoire--9782100883950-page-131?lang=fr&tab=texte-integral"
+      },
+      {
+        "label": "Wikipedia — Crataegus",
+        "url": "https://en.wikipedia.org/wiki/Crataegus"
+      },
+      {
+        "label": "Etymonline — Hawthorn",
+        "url": "https://www.etymonline.com/word/hawthorn"
+      },
+      {
+        "label": "Phrases.org.uk — Ne'er cast a clout till May be out",
+        "url": "https://www.phrases.org.uk/bulletin_board/54/messages/478.html"
+      },
+      {
+        "label": "Sussex Wildlife Trust — The flowering tree that smells like a decomposing corpse",
+        "url": "https://sussexwildlifetrust.org.uk/news/the-flowering-tree-that-smells-like-a-decomposing-corpse"
+      }
+    ],
+    "image": "/images/may-birth-flower-lily.jpg",
+    "imageAlt": "Convallaria majalis (lily of the valley) in bloom, the primary May birth flower whose French May Day gift-giving custom is popularly credited to a 1561 royal legend that French Wikipedia itself labels unconfirmed",
+    "imageCredit": "Photo by GT1976, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-05-13_(168)_Convallaria_majalis_(lily-of-the-valley)_at_Bichlh%C3%A4usl_in_Frankenfels,_Austria.jpg), CC BY-SA 4.0"
+  },
   {
     "slug": "june-birth-flower",
     "category": "Birth Flowers",

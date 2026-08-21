@@ -3702,7 +3702,7 @@ export const guides: Guide[] = [
     "description": "May's birth flowers are lily of the valley and hawthorn, but the legend behind the French custom and an old hawthorn proverb are both shakier than they look.",
     "published": "2026-08-21",
     "updated": "2026-08-21",
-    "coreSummary": "May's birth flowers are lily of the valley and hawthorn, and unlike March, both The Old Farmer's Almanac and Farmers' Almanac agree on the pairing. The agreement stops there. Lily of the valley's scientific name traces to a Latin Vulgate Bible phrase, not to a description of the plant itself, and the plant has moved through four different plant families, starting in the lily family and landing most recently in Asparagaceae. The French custom of giving it away every May 1 is usually credited to King Charles IX in 1561, a story French Wikipedia itself labels a legend and reports only in the conditional tense; documented practice dates to the early 20th century instead. Hawthorn, meanwhile, carries a species count that has swung from 1,000-plus down to roughly 200, a folk name of \"May\" that predates Britain's 1752 calendar reform by two centuries, and a floral scent built on the same chemical compound released by decaying flesh.",
+    "coreSummary": "May's birth flowers are lily of the valley and hawthorn, and unlike March, both The Old Farmer's Almanac and Farmers' Almanac agree on the pairing. The agreement stops there. Lily of the valley's scientific name traces to a Latin Vulgate Bible phrase, not to a description of the plant itself, and the plant has moved through four different plant families, starting in the lily family and landing most recently in Asparagaceae. The French custom of giving it away every May 1 is usually credited to King Charles IX in 1561, a story French Wikipedia itself labels a legend and reports only in the conditional tense; documented practice dates to the early 20th century instead. Hawthorn, meanwhile, carries a species count that has swung from 1,000-plus down to roughly 200, a folk name of \"May\" that predates Britain's 1752 calendar reform, and a floral scent built on the same chemical compound released by decaying flesh.",
     "sections": [
       {
         "heading": "For once, the two almanacs agree. That's where the agreement ends.",
@@ -3712,10 +3712,10 @@ export const guides: Guide[] = [
         ]
       },
       {
-        "heading": "The French gift-giving custom is usually dated to 1561. The documented version starts three and a half centuries later.",
+        "heading": "The French gift-giving custom is usually dated to 1561. The documented version starts well over three centuries later.",
         "body": [
           "Search for why lily of the valley gets given away in France on May 1 and the answer nearly every site repeats is the same: in 1561, King Charles IX received a sprig as a good-luck charm, liked it enough to start handing bouquets to the women of his court, and the custom took root from there. Farmers' Almanac's own flower-lore page tells the story the same way, as settled history.",
-          "French Wikipedia's own article on May 1 tells it differently. Its \"Traditions et superstitions\" section introduces the Charles IX story with \"selon une légende,\" according to a legend, and describes his actions throughout in the conditional tense, \"aurait initié,\" \"aurait décidé,\" would have initiated, would have decided, the grammatical marker French uses for a claim it isn't prepared to state as fact. The same entry places the custom's actual merger with the modern May 1 holiday at the start of the 20th century, not the 16th, more than three hundred years after the king Charles IX allegedly instructed. English Wikipedia's own article on lily of the valley lands on a similar timeline without mentioning Charles IX at all: it dates the tax-exempt street sale of the flower, the version of the custom still practiced today, to \"the beginning of the 20th century.\""
+          "French Wikipedia's own article on May 1 tells it differently. Its \"Traditions et superstitions\" section introduces the Charles IX story with \"selon une légende,\" according to a legend, and describes his actions throughout in the conditional tense, \"aurait initié,\" \"aurait décidé,\" would have initiated, would have decided, the grammatical marker French uses for a claim it isn't prepared to state as fact. The same entry places the custom's actual merger with the modern May 1 holiday at the start of the 20th century, not the 16th, more than three hundred years after the king Charles IX allegedly instructed. English Wikipedia's own article on lily of the valley lands on a similar timeline without mentioning Charles IX at all: it dates the tax-exempt street sale of the flower, the version of the custom still practiced today, to \"the beginning of the 20th century.\" A more specific, independently sourced date backs that window up: French lifestyle outlet The Good Life France dates the custom's modern revival to a single documented event, Paris fashion houses handing lily of the valley to female clients and employees on May 1, 1900, a full 339 years after the king it's usually credited to."
         ],
         "image": {
           "src": "/images/may-birth-flower-lily.jpg",
@@ -3737,10 +3737,10 @@ export const guides: Guide[] = [
         ]
       },
       {
-        "heading": "Hawthorn's species count has never landed on the same number twice",
+        "heading": "Hawthorn's genus is even harder to pin down than the daffodil's",
         "body": [
-          "Hawthorn's taxonomic history runs a version of the same problem this site's own [March birth flower](/march-birth-flower/) page found in the daffodil genus, though the actual figures involved are different. Wikipedia's entry on the genus, Crataegus, notes that some botanists in the past recognized 1,000 or more species, many of them apomictic microspecies, plants that reproduce asexually and so tend to fragment into countless nearly identical local populations that taxonomists have disagreed for over a century about whether to count separately. Wikipedia calls 200 species \"a reasonable number\" as a middle estimate; Plants of the World Online, the reference this page checked directly, currently accepts 264. No two sources checked for this page landed on the same figure.",
-          "The plant's two names come from two entirely unrelated sources, the same split this site's June birth flower page found in honeysuckle's Lonicera and its English name. Crataegus, per Wikipedia's etymology note, comes from Greek kratos, \"strength,\" for the wood, plus akis, \"sharp,\" for the thorns; it describes the tree's structure. \"Hawthorn,\" by contrast, has nothing to do with strength or sharpness. Etymonline traces it to Old English hagaþorn, from haw, an obsolete word for a hedge or enclosing fence, plus thorn; it describes what the plant was grown for, not what it's made of. Two names, describing two different things about the same shrub, arrived at from two unconnected directions."
+          "Hawthorn's taxonomic history runs a version of the same problem this site found earlier in [Narcissus, March's own genus](/march-birth-flower/), though the actual figures involved are different. Wikipedia's entry on the genus, Crataegus, notes that some botanists in the past recognized 1,000 or more species, many of them apomictic microspecies, plants that reproduce asexually and so tend to fragment into countless nearly identical local populations that taxonomists have disagreed for over a century about whether to count separately. Wikipedia calls 200 species \"a reasonable number\" as a middle estimate; Plants of the World Online, the reference this page checked directly, currently accepts 264. No two sources checked for this page landed on the same figure.",
+          "This site's June birth flower page found honeysuckle carrying a scientific name and an English name built from two disconnected sources; hawthorn repeats the pattern, but the two descriptions it carries point at different physical parts of the plant. Crataegus, per Wikipedia's etymology note, comes from Greek kratos, \"strength,\" for the wood, plus akis, \"sharp,\" for the thorns, a name built around what the plant is made of. \"Hawthorn\" describes something else entirely: Etymonline traces it to Old English hagaþorn, from haw, an obsolete word for a hedge or enclosing fence, plus thorn, a name built around what the plant was grown to do. A reader who only knows the scientific name has learned nothing about how the shrub was actually used in the landscape it grew up in, and vice versa."
         ],
         "image": {
           "src": "/images/may-birth-flower-hawthorn.jpg",
@@ -3775,7 +3775,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Did a French king really start the tradition of giving lily of the valley on May 1?",
-        "answer": "That's the popular story, usually dated to 1561 and King Charles IX, but French Wikipedia's own article on May 1 frames it explicitly as a legend, using the conditional tense throughout. The documented custom, the tax-exempt street sale of lily of the valley, is dated by English Wikipedia to the early 20th century instead, roughly 350 years after the king is said to have started it."
+        "answer": "That's the popular story, usually dated to 1561 and King Charles IX, but French Wikipedia's own article on May 1 frames it explicitly as a legend, using the conditional tense throughout. The documented custom, the tax-exempt street sale of lily of the valley, is dated by English Wikipedia to the early 20th century instead, and French lifestyle outlet The Good Life France ties its modern revival to a specific 1900 event, Paris fashion houses giving the flower to clients and staff, 339 years after the king is said to have started it."
       },
       {
         "question": "Is lily of the valley actually a lily?",
@@ -3810,6 +3810,10 @@ export const guides: Guide[] = [
       {
         "label": "French Wikipedia — 1er mai (Traditions et superstitions)",
         "url": "https://fr.wikipedia.org/wiki/1er_mai"
+      },
+      {
+        "label": "The Good Life France — May Day in France: a floral affair",
+        "url": "https://thegoodlifefrance.com/may-day-france-floral-affair/"
       },
       {
         "label": "France Info — Social: le 1er mai, fête du muguet et de la lutte des travailleurs",

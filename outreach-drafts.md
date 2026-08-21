@@ -64,6 +64,8 @@ contact@dayalmanac.com
 
 **Status: independent review verdict "can send" (DNS-failure evidence cross-checked three ways — direct-connect control group, SERVFAIL, independent news sources on the 2017 shutdown). Sent 2026-08-09 via `gmail_send.py send --from dayalmanac`, Message ID `19fe532f106a413d`.** （2026-08-09流量站夜间运维审核已用`gmail_send.py list`核实该邮件确实发出——上一行下方原有一条陈旧的"PENDING INDEPENDENT REVIEW — 尚未发送"重复状态行，是发送前草稿状态未清理干净留下的，已删除避免误导下次审核）
 
+**Follow-up (2026-08-21):** Verified via curl that icalendars.net/celebrations/grandparents-day still points to the dead grandparents.com link (not_replaced) 12 days after the original pitch, within the task's 10-14 day follow-up window. `gmail_send.py list --query "from:icalendars.net"` and `"from:contact@icalendars.net"` both returned empty, confirming no reply. Sent a brief 1-2 sentence follow-up quoting the original message below it, passed through Skill(humanizer) and Skill(avoid-ai-writing) (both clean). Sent via `gmail_send.py send --from dayalmanac`, Message ID `1a024c637227e46a`.
+
 ---
 
 ## 2026-08-16 — Checkiday.com (National Cat Day page) — broken-link replacement pitch (web form, not email)

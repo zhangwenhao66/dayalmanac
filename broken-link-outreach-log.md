@@ -148,3 +148,38 @@ Red Ribbon Week 方向的教师资源合集（teachersfirst等）外链密度不
 1. **checkiday.com的national-dog-day页面**：Sources引用的nationaldogday.com多次超时无法判定，DNS同样指向Wix IP段（跟已确认死亡的nationalcatday.com同一注册模式，怀疑同为废弃的Colleen Paige系列品牌站），下次可换网络环境/时段重试curl，如果能拿到干净404可以形成第二条断链置换机会（但checkiday.com本轮已联系，需等14天冷却期后再联系同域名）。
 2. **1.5竞品缺口分析的抽样方法论局限**（见上）：下次如果继续做，建议改用定向搜索法（"site:竞品域名 roundup/resources"）代替DataForSEO随机抽样，命中率可能更高。
 3. checkiday.com同款"Sources"引用区块模板还有本站其他N层文章对应的页面未逐一排查（boyfriend day/daughters day/coffee day/red-ribbon-week等），下次可以继续在该站内挖，但同样受14天冷却期限制，非紧急。
+
+## 2026-08-21
+
+### 第一部分：核实 2026-08-11 之前发出的旧 pitch
+
+`outreach-drafts.md` 里 2026-08-06 的 "Keep Indiana Learning" 条目虽然日期更早，但那是另一个任务（非本断链置换任务）产出的"日期纠错"pitch，不在 `broken-link-outreach-log.md` 的记录范围内，不作为本次核实对象。本 log 里唯一 2026-08-11 之前、状态"已发送"、且从未验证过的记录是 **2026-08-09 icalendars.net**（Grandparents Day References 区块 grandparents.com 死链置换）。
+
+- curl 复查 `icalendars.net/celebrations/grandparents-day`：HTTP 200，References 区块 ref[1] 仍是原始的 `http://www.grandparents.com/grandkids/grandparents-day/when-is-grandparents-day`，全页无任何 dayalmanac.com 提及。**判定 `not_replaced`。**
+- 额外跑 `dataforseo_query.py backlinks dayalmanac.com`：返回 0 条外链（当前快照 dayalmanac.com 全站还没有任何外链数据），与上述判定一致。
+- 该邮件发出时间 2026-08-09，距今 12 天，落在 SKILL 规则里"10-14天窗口（2026-08-07至2026-08-11之间发出）"内，且目标页权威度此前已确认合格。`gmail_send.py list --query "from:icalendars.net"` / `"from:contact@icalendars.net"` 均为空，确认对方从未回复。**发出一次简短跟进邮件**（1-2句 + 附原邮件全文），过 Skill(humanizer) + Skill(avoid-ai-writing) 检查（均无发现）。已发送，Message ID `1a024c637227e46a`，标记 **`followed_up_once`**。
+
+### 第二部分：寻找新的断链置换机会
+
+**1.5 竞品外链缺口分析**：本轮只复查了 nationaltoday.com（`backlinks --limit 60 --mode one_per_domain`），结果结构与 2026-08-16 完全一致——绝大多数是自家 `scholaroo.nationaltoday.com` 子域名、`*.pages.dev` 镜像站群、零散单篇文章引用（如 rodserling.com 链接 Twilight Zone Day 自己的官方站），没有资源合集/roundup页面可作为断链置换目标。未重复扫 daysoftheyear.com / farmersalmanac.com（08-16 已确认同样的方法论局限，短期内不会有结构性变化，本轮时间优先投入到候选资源页扫描）。
+
+**候选资源页收集**：改用 08-16 遗留建议的定向搜索（图书馆 LibGuides、教师/图书馆"特殊日子"资源清单、社媒运营的月度观察日 roundup、生辰石/星座起源参考站），收集到 28 个候选 URL。
+
+**批量扫描**：用 `broken_link_scan.py` 扫描（分两批各 13/9 条，共 22 个可访问页面成功抓取，6 个页面本身抓取失败——`uri.libguides.com` 两条页面均 404、`sunybroome.libguides.com` 404、governmentsocialmedia.com 8月刊 SSL错误、`gemsociety.org` 两条页面 SSL错误、`billigjewelers.com` SSL错误、`shunspirit.com` 403，均排除）。
+
+**发现的真实失效链接（DEAD，共19条，逐条核对本站现有46篇文章主题）**：
+- governmentsocialmedia.com 4月/3月观察日roundup：`afd.defense.gov/History/Army-Day`、`blog.ssa.gov`（National Social Security Month）、`ala.org/events/dear-drop-everything-and-read-day`、`iaa-usa.org/wad2024`、`nimhd.nih.gov`（National Minority Health Month）、`usar.army.mil/ArmyReserveBirthday`、`yfoundations.org.au`（Youth Homelessness Matters Day，澳洲）、`nationalcherryblossomfestival.org`
+- stevelaube.com 营销博客页：2条（`http://Website`纯垃圾锚文本、`armchairwit.com`域名整体失效，均非observance相关）
+- softlinkint.com 学校图书馆特殊日子清单：`globetrottinkids.com`教学资源页、`multiculturalcommission.vic.gov.au` Cultural Diversity Week（澳洲）
+- ncslma.wildapricot.org 图书馆庆祝日历：`bsky.app`社交主页、`chooseprivacyeveryday.org` Choose Privacy Week、`litworld.org/worldreadaloudday` World Read Aloud Day
+
+**处理结果：本轮全部放弃，未发出任何新邮件。** 19条DEAD逐一比对本站当前46篇文章（8篇Observances节日+若干Awareness月+Birthstones+Birth Flowers+Zodiac Dates+Anniversaries）后，**没有一条主题真实对应**——失效链接覆盖的是Army Day/Social Security Month/D.E.A.R. Day/World Autism Day/National Minority Health Month/Cherry Blossom Festival/Choose Privacy Week/World Read Aloud Day等，本站均未收录，硬凑会违反规则5，如实放弃。
+
+### 排除的误报
+
+同历史纪律：403(WAF)、超时、5xx、SSL握手失败一律不计为DEAD；本轮新增：资源页自身抓取失败（404/SSL错误）的6个页面直接跳过，不纳入死链统计。
+
+### 遗留待办
+
+1. 本轮候选池（图书馆LibGuides、社媒观察日roundup、生辰石/星座起源站）死链密度不低（19/22页有DEAD），但主题匹配率为0——DayAlmanac当前46篇覆盖的节日集合较窄，跟这类"全量观察日/特殊日子"合集页的重合度低，跟历次教训一致（本站定位偏"重点节日深度求证"而非"大而全罗列"）。下次或可换角度：直接搜索本站已发布的具体节日名（如"National Bosses Day resources""National Coffee Day sources"）而非泛主题合集，命中率可能更高。
+2. 三个失败页面（uri.libguides.com holidays/refbooks 两条子页、sunybroome.libguides.com）返回404但域名本身应该还在，可能是LibGuides平台重新组织了URL结构，下次可先搜索该库的最新holidays指南入口再排查。

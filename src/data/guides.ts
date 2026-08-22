@@ -1921,10 +1921,10 @@ export const guides: Guide[] = [
     "slug": "september-birthstone",
     "category": "Birthstones",
     "title": "September Birthstone: Sapphire, Unchanged Since 1912",
-    "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912 — though the UK trade list still adds a second stone, lapis lazuli.",
+    "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912, though the UK trade list still adds a second stone, lapis lazuli.",
     "published": "2026-08-05",
-    "updated": "2026-08-05",
-    "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912 — the three trade-group updates since then (1952, 2002, 2016) each touched a different month. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's own 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
+    "updated": "2026-08-22",
+    "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912. The three trade-group updates since then (1952, 2002, 2016) each touched a different month. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's own 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
     "sections": [
       {
         "heading": "September's one official birthstone",
@@ -1934,7 +1934,7 @@ export const guides: Guide[] = [
         ]
       },
       {
-        "heading": "Revised three times since 1912 — never for September",
+        "heading": "Revised three times since 1912, never for September",
         "body": [
           "The US birthstone list traces to a single 1912 meeting in Kansas City, where the American National Retail Jewelers Association, the organization now known as Jewelers of America, adopted a standardized list to replace the patchwork of regional folk traditions retailers had been drawing on. September's slot went to sapphire at that meeting.",
           "The list has been revised three times since, and each revision landed on a different month. In 1952, a trade-industry update added alexandrite to June, citrine to November, pink tourmaline to October, and zircon to December (sources disagree on whether that specific revision was carried out by Jewelers of America's own predecessor or a separate body, the Jewelry Industry Council of America, the same unresolved attribution this calendar noted on [December's birthstone page](/december-birthstone/)). In 2002, the American Gem Trade Association added tanzanite to December. In 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August. None of the three touched September. The organization's live chart today still shows the single stone it named in 1912."
@@ -1950,7 +1950,7 @@ export const guides: Guide[] = [
       {
         "heading": "The UK's own list still isn't the same as the US one",
         "body": [
-          "Jewelers of America's list isn't the only current, active trade-group standard. Britain's own jewelry trade association, a successor to the British National Association of Goldsmiths that published its own list in 1937, revised its birthstone chart in 2013, and that revision gave September a second official stone: lapis lazuli, alongside sapphire. The US list does not currently include lapis lazuli for September; in the American tradition that stone belongs to December instead. A shopper checking the UK trade list and a shopper checking the US one currently get different, both-correct answers to \"how many official September birthstones are there.\""
+          "Jewelers of America's list isn't the only current, active trade-group standard. Britain's own jewelry trade group, the National Association of Goldsmiths, published its own birthstone list in 1937 and revised its chart in 2013, giving September a second official stone: lapis lazuli, alongside sapphire. That revision predates the organization's 2015 merger with the British Jewellers' Association into the National Association of Jewellers, so the 2013 change belongs to the original association, not the merged one that exists today. The US list does not currently include lapis lazuli for September; in the American tradition that stone belongs to December instead. A shopper checking the UK trade list and a shopper checking the US one currently get different, both-correct answers to \"how many official September birthstones are there.\""
         ]
       },
       {
@@ -1958,7 +1958,7 @@ export const guides: Guide[] = [
         "body": [
           "Sapphire is a variety of corundum, ranking 9 on the Mohs hardness scale, second only to diamond among natural minerals, with excellent toughness and no cleavage, meaning it resists chipping under normal wear. That combination is why it holds up in rings and other jewelry worn daily, per the Gemological Institute of America, though buyers are advised to ask whether a given stone has been heat-treated (common and well accepted in the trade) or treated by less common methods like lattice diffusion or fracture filling, which call for gentler cleaning.",
           "The most famous source is one that stopped producing decades ago. In 1881, a landslide in the Zanskar range of Kashmir exposed a pocket of velvety cornflower-blue crystals; miners worked the site, later known as the Old Mine, from 1882 to 1887, before the original deposit was worked out. Production from the region has been sporadic ever since, but \"Kashmir blue\" remains the benchmark other sapphires are compared against at auction. Myanmar's Mogok region and Sri Lanka, which has supplied sapphire for more than two millennia, are the other two historically dominant sources; Sri Lanka's milky white \"geuda\" stones can be heat-treated to a rich blue. Thailand's Chanthaburi province isn't a major source itself but is a major cutting and treatment hub for stones mined elsewhere.",
-          "Two sapphires illustrate how far the stone's reputation has traveled: the 62.02-carat Rockefeller Sapphire, mined in Myanmar and acquired in 1934 by John D. Rockefeller Jr. from an Indian maharaja, later recut and reset by Tiffany & Co.; and the 12-carat blue sapphire in the engagement ring first worn by Princess Diana and later given by her son to Kate Middleton. Sapphire is also the gem associated with the 5th and 45th wedding anniversaries."
+          "Two sapphires illustrate how far the stone's reputation has traveled: the 62.02-carat Rockefeller Sapphire, mined in Myanmar and acquired in 1934 by John D. Rockefeller Jr. from an Indian maharaja, later recut by Cartier in the 1940s and remounted more than once since; and the 12-carat blue sapphire in the engagement ring first worn by Princess Diana and later given by her son to Kate Middleton. Sapphire is also the gem associated with the 5th and 45th wedding anniversaries."
         ],
         "image": {
           "src": "/images/september-birthstone-sapphire.jpg",
@@ -1976,7 +1976,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is the official September birthstone?",
-        "answer": "Sapphire — the only stone on Jewelers of America's current birthstone list for September, unchanged since the list was first adopted in 1912."
+        "answer": "Sapphire, the only stone on Jewelers of America's current birthstone list for September, unchanged since the list was first adopted in 1912."
       },
       {
         "question": "Does the September birthstone have to be blue?",

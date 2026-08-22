@@ -233,5 +233,15 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-22",
+    "action": "submitted",
+    "reason": "今日新发布Birth Flowers by Month hub页（dayalmanac-content-publishing任务，13:35档，本日第一次运行）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+    "submitted_urls": [
+      "https://dayalmanac.com/birth-flowers-by-month/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

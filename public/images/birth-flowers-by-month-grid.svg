@@ -1,0 +1,136 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Birth flowers by month, per The Old Farmer's Almanac's current chart</title>
+  <desc id="desc">January carnation and snowdrop. February violet and primrose. March daffodil, though Farmers' Almanac's own chart adds jonquil and its own lore page adds a third, cherry blossom. April daisy and sweet pea. May lily of the valley and hawthorn. June rose and honeysuckle. July larkspur and water lily. August gladiolus and poppy. September aster and morning glory, though Wikipedia's own article adds a third, forget-me-not. October marigold and cosmos. November chrysanthemum, though Farmers' Almanac's own chart adds a second, peony. December narcissus and holly.</desc>
+
+  <rect width="1200" height="800" fill="#faf7f0" />
+
+  <text x="600" y="45" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">Birth flowers by month, per The Old Farmer's Almanac's current chart</text>
+  <text x="600" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.7">Marked months: another source's own current page lists more flowers than this chart. See the caveats below.</text>
+
+  <!-- Grid: 4 cols x 3 rows, cell 280x210, gaps 20, origin x=20 y=100 -->
+
+  <!-- Row 1 -->
+  <!-- Jan -->
+  <g transform="translate(20,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#c94f6d" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">January</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Carnation, snowdrop</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers. Every current</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">chart checked agrees.</text>
+  </g>
+
+  <!-- Feb -->
+  <g transform="translate(320,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#6b4a8a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">February</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Violet, primrose</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers, no dissent</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">on any chart checked.</text>
+  </g>
+
+  <!-- Mar -->
+  <g transform="translate(620,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#d7c23a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">March <tspan fill="#a8352b" font-size="15">†</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Daffodil</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#a8352b">Farmers' Almanac's chart adds</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#a8352b">jonquil; its own lore page adds a third.</text>
+  </g>
+
+  <!-- Apr -->
+  <g transform="translate(920,100)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#f2efe6" stroke="#cbb994" stroke-width="1.5" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">April</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Daisy, sweet pea</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers on every</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">current chart checked.</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- May -->
+  <g transform="translate(20,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#eef2e6" stroke="#b9c79e" stroke-width="1.5" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">May</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Lily of the valley, hawthorn</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers, rare full</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">agreement across sources.</text>
+  </g>
+
+  <!-- Jun -->
+  <g transform="translate(320,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#c94f6d" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">June</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Rose, honeysuckle</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers on every</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">current chart checked.</text>
+  </g>
+
+  <!-- Jul -->
+  <g transform="translate(620,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#5b7fc7" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">July</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Larkspur, water lily</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers on every</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">current chart checked.</text>
+  </g>
+
+  <!-- Aug -->
+  <g transform="translate(920,330)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#c96f2e" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">August</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Gladiolus, poppy</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers on every</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">current chart checked.</text>
+  </g>
+
+  <!-- Row 3 -->
+  <!-- Sep -->
+  <g transform="translate(20,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#6d4470" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#8a6fa8" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">September <tspan fill="#6d4470" font-size="15">‡</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Aster, morning glory</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#6d4470">Wikipedia's own article adds</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#6d4470">a third: forget-me-not.</text>
+  </g>
+
+  <!-- Oct -->
+  <g transform="translate(320,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#d99a2b" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">October</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Marigold, cosmos</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers on every</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">current chart checked.</text>
+  </g>
+
+  <!-- Nov -->
+  <g transform="translate(620,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#a8352b" stroke-width="2" />
+    <circle cx="45" cy="45" r="20" fill="#c9a13a" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">November <tspan fill="#a8352b" font-size="15">†</tspan></text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Chrysanthemum</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#a8352b">Farmers' Almanac's chart adds</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#a8352b">a second flower: peony.</text>
+  </g>
+
+  <!-- Dec -->
+  <g transform="translate(920,560)">
+    <rect width="280" height="210" rx="10" fill="#ffffff" stroke="#e2dbcc" stroke-width="1.5" />
+    <circle cx="45" cy="45" r="20" fill="#eef2e6" stroke="#b9c79e" stroke-width="1.5" />
+    <text x="80" y="40" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1f1d1a">December</text>
+    <text x="80" y="58" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.8">Narcissus, holly</text>
+    <text x="20" y="105" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">Two flowers agreed; which</text>
+    <text x="20" y="122" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.65">one is listed first still varies.</text>
+  </g>
+
+  <text x="20" y="790" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.7">† The Old Farmer's Almanac's own current chart lists fewer flowers here than Farmers' Almanac's own chart.   ‡ Wikipedia's own article, citing a 2013 gem-resource site.</text>
+</svg>

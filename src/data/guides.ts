@@ -5359,7 +5359,7 @@ export const guides: Guide[] = [
       {
         "heading": "Chrysanthemum and peony, filling the same gap as every other month",
         "body": [
-          "The Old Farmer's Almanac, the same trade source behind the birth-flower pairs this site has already covered for August, July, and September, names chrysanthemum and peony as November's flowers. This site's [August birth flower](/august-birth-flower/) page traced why a page like this one keeps landing on two flowers instead of one: unlike birthstones, which the jewelry trade standardized in a single 1912 convention, birth flowers never had one body settle the question. Rival 19th-century floriography guides couldn't agree with each other, and rather than pick a winner, the trade lists that followed kept both.",
+          "Farmers' Almanac's current chart names chrysanthemum and peony as November's flowers. The Old Farmer's Almanac's own current page, which matches that pairing for August, July, and September, is narrower here: it lists chrysanthemum alone, with no second flower anywhere on the page. This site's [birth flowers by month](/birth-flowers-by-month/) chart covers that same gap alongside a similar one for March. This site's [August birth flower](/august-birth-flower/) page traced why a page like this one keeps landing on two flowers instead of one: unlike birthstones, which the jewelry trade standardized in a single 1912 convention, birth flowers never had one body settle the question. Rival 19th-century floriography guides couldn't agree with each other, and rather than pick a winner, the trade lists that followed kept both.",
           "That gap explains why November has a pair. It doesn't explain much about either flower on its own, and both have more going on than a florist's caption usually mentions."
         ]
       },
@@ -5412,7 +5412,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is November's birth flower?",
-        "answer": "Chrysanthemum and peony, per The Old Farmer's Almanac. As with most months on a modern birth-flower list, November carries two flowers rather than one, because no single trade body ever issued one official calendar."
+        "answer": "Chrysanthemum and peony, per Farmers' Almanac's current chart. The Old Farmer's Almanac's own current page names chrysanthemum alone, with no second flower listed. As with most months on a modern birth-flower list, November carries two flowers on most charts, because no single trade body ever issued one official calendar."
       },
       {
         "question": "What does the chrysanthemum mean as a birth flower?",
@@ -5443,6 +5443,10 @@ export const guides: Guide[] = [
       {
         "label": "The Old Farmer's Almanac — November Birth Flower: The Chrysanthemum",
         "url": "https://www.almanac.com/november-birth-flower"
+      },
+      {
+        "label": "Farmers' Almanac — Birth Flower Chart: All 12 Birth Flowers by Month",
+        "url": "https://www.farmersalmanac.com/birth-month-flowers-how-to-plant-a-family-garden"
       },
       {
         "label": "Online Etymology Dictionary — Chrysanthemum",
@@ -7235,6 +7239,111 @@ export const guides: Guide[] = [
     "image": "/images/world-teachers-day-kabul-academy-1968.jpg",
     "imageAlt": "Trainee teachers at the Academy for Teacher Educators in Kabul-Jalalabad, Afghanistan, 1968, a UNESCO- and UNICEF-supported program to train primary-school teacher trainers",
     "imageCredit": "UNESCO / Alexander Shaw, 1968, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Teacher_education,_Kabul_-_UNESCO_-_PHOTO0000004434_0001.tiff), CC BY-SA 3.0 IGO"
+  },
+  {
+    "slug": "birth-flowers-by-month",
+    "category": "Birth Flowers",
+    "title": "Birth Flowers by Month: The Full Chart, and Where It Runs Short",
+    "description": "All twelve birth flowers in one chart, checked against The Old Farmer's Almanac and Farmers' Almanac, plus two months where the Almanac's list runs short.",
+    "published": "2026-08-22",
+    "updated": "2026-08-22",
+    "coreSummary": "The Old Farmer's Almanac's current chart names one or two flowers for every month except two, where its own page is the narrow one: March, where it names the daffodil alone and explains that \"jonquil\" is just another name for the same flower, while Farmers' Almanac's own chart adds jonquil as a second flower and Farmers' Almanac's own dedicated March page adds a third, cherry blossom; and November, where the Almanac names chrysanthemum alone while Farmers' Almanac's chart pairs it with peony. A third source, Wikipedia's own September article, cites a 2013 gem-resource site for a flower neither almanac carries at all: forget-me-not.",
+    "sections": [
+      {
+        "heading": "The current chart, checked directly rather than assembled from a dozen retail blogs",
+        "body": [
+          "This calendar has now published a separate page for all twelve months' birth flowers, one at a time, over the course of several weeks. Laid out together instead, checked against The Old Farmer's Almanac's current chart the week this page went up, the full run reads: January is carnation and snowdrop. February is violet and primrose. March is daffodil, styled on the Almanac's page as \"Daffodil & Jonquil\" even though the text calls jonquil just another name for the same flower rather than a second bloom. April is daisy and sweet pea. May is lily of the valley and hawthorn. June is rose and honeysuckle. July is larkspur and water lily. August is gladiolus and poppy. September is aster and morning glory. October is marigold and cosmos. November is chrysanthemum alone, with no second flower on the page. December is narcissus, most often the paperwhite, and holly.",
+          "Ten of the twelve months carry a clear pair under that current framing, and two carry a single flower: March, where the second name turns out to describe the same plant, and November, where nothing on the page names a second flower at all. [This calendar's page on birthstones by month](/birthstones-by-month/) found a parallel shape in the gem trade's chart, where two different months turned out to be the ones a trade group's current list ran short on."
+        ]
+      },
+      {
+        "heading": "No 1912 meeting behind this one",
+        "body": [
+          "Birthstones trace to a specific date: a 1912 Kansas City meeting where a US retail jewelers' trade group adopted a standard chart, later revised on the record three more times. Birth flowers have no equivalent founding meeting. Wikipedia's own article on the broader tradition, floriography, traces the modern \"language of flowers\" fashion to Ottoman Constantinople's 18th-century tulip culture, reaching Britain through the poet and traveler Mary Wortley Montagu after her stay there in the 1710s. The first published dictionary attaching fixed meanings to individual flowers, per that same article, was Joseph Hammer-Purgstall's Dictionnaire du langage des fleurs in 1809; the first true floriography dictionary followed in 1819, written by Louise Cortambert under the pen name Madame Charlotte de la Tour. The English writer Robert Tyas added his own version in 1836.",
+          "None of those three books is a birth-flower chart specifically, and none of them is the document any current almanac cites as its chart's origin. The modern month-by-month birth-flower list appears to be a later distillation of that general Victorian flower-meaning fashion, assembled by almanacs and florists rather than adopted at any single meeting a source names. That absence of a founding date is itself the difference from birthstones worth stating plainly, rather than papering over with a vague \"since Victorian times\" the way many calendar pages do."
+        ]
+      },
+      {
+        "heading": "March and November break the pattern",
+        "body": [
+          "Checking The Old Farmer's Almanac's current page against Farmers' Almanac's current page, flower by flower, turns up two months where the two disagree, and on both of them the Almanac carries fewer flowers than its counterpart.",
+          "March is the more tangled case. The Old Farmer's Almanac heads the month \"Daffodil & Jonquil,\" but its body text says the March birth flower \"is the daffodil, referred to as the jonquil (which is simply a type of daffodil)\": one flower under two names, not two flowers. Farmers' Almanac's current chart lists March as \"Daffodil and Jonquil\" without that caveat, treating jonquil as a second, distinct bloom (it is in fact a specific species, Narcissus jonquilla, not a synonym for daffodil in general). Farmers' Almanac's dedicated March lore page goes a step further still, naming one other flower: cherry blossom, which its text says \"is sometimes considered the March birth month flower,\" particularly in Japanese culture. Farmers' Almanac's chart page and its lore page don't agree with each other on whether March has two flowers or three.",
+          "November is the cleaner case. The Old Farmer's Almanac's current chart, on both its roundup page and its dedicated November page, names only the chrysanthemum; neither page mentions a second flower anywhere. Farmers' Almanac's current chart pairs the same chrysanthemum with a second flower, peony. A shopper checking one Almanac page for November's birth flower gets one answer; checking the other gets two."
+        ]
+      },
+      {
+        "heading": "A third flower, and neither almanac carries it",
+        "body": [
+          "Wikipedia's September article states plainly that \"the birth flowers are the forget-me-not, morning glory and aster,\" three flowers rather than the two either almanac's current chart names for the month. The claim traces, per Wikipedia's cited source, to a gem-and-jewelry resource site's birth-flower page, archived in 2013. Neither The Old Farmer's Almanac's current September page nor Farmers' Almanac's current September page mentions forget-me-not at all. It isn't possible to say from here whether that third flower reflects an older tradition the two almanacs have since dropped, or a single compiler's addition that Wikipedia picked up and neither almanac ever carried in the first place; what's checkable is that today, on three current pages, one names three flowers and two name two.",
+          "December turns up a smaller wrinkle, worth a line rather than a whole finding. Both almanacs agree the month's flowers are narcissus, usually specified as the paperwhite, and holly. But The Old Farmer's Almanac's dedicated December page doesn't agree with its own roundup page on the order: the dedicated page's title reads \"December Birth Flowers: Holly and Narcissus,\" holly first, while the roundup page's body text calls narcissus the \"primary\" flower and holly the \"secondary\" one. Both flowers are on both lists either way; it's only the ranking that wobbles, and only within one organization's site."
+        ]
+      },
+      {
+        "heading": "Why one flower can have two names and two histories",
+        "body": [
+          "A recurring shape across this calendar's twelve individual birth-flower pages is a plant carrying two unconnected names, one botanical and one common, each with its own separate origin. [Rose and honeysuckle, June's pair](/june-birth-flower/), split that way: honeysuckle's genus name Lonicera honors a 16th-century German botanist who had nothing to do with the plant, while the English word \"honeysuckle\" comes from an unrelated Old English phrase that originally described clover. [Larkspur, one of July's two flowers](/july-birth-flower/), does it from the opposite direction: its scientific name Delphinium describes the shape of its nectary, not the lark's spur its English name refers to.",
+          "A second recurring shape is a flower whose species count keeps moving. [March's daffodil](/march-birth-flower/) has been counted anywhere from 6 species by Linnaeus in 1753 to 87 by one modern registry, depending on how narrowly \"species\" is drawn. [November's chrysanthemum](/november-birth-flower/) carries a split identity of its own: Japan's Imperial Seal and highest civilian honor on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other, the same bloom read as opposite things by two different cultures rather than by two different trade groups. No single body has ever had the standing to settle any of this the way a court can settle a legal question. Each source, checked on its own current page, is accurately reporting what it currently says. The chart above is what those pages currently say; the two months flagged are where they currently don't agree, and this page will note it if a future revision closes either gap."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which flower corresponds to each birth month?",
+        "answer": "Per The Old Farmer's Almanac's current chart: January carnation and snowdrop, February violet and primrose, March daffodil, April daisy and sweet pea, May lily of the valley and hawthorn, June rose and honeysuckle, July larkspur and water lily, August gladiolus and poppy, September aster and morning glory, October marigold and cosmos, November chrysanthemum, December narcissus and holly."
+      },
+      {
+        "question": "Is jonquil a second birth flower for March, or another name for daffodil?",
+        "answer": "It depends which page is checked. The Old Farmer's Almanac's text says jonquil \"is simply a type of daffodil,\" not a second flower. Farmers' Almanac's current chart lists daffodil and jonquil as two separate flowers, and jonquil is in fact a specific species, Narcissus jonquilla, distinct from daffodil in general."
+      },
+      {
+        "question": "Does November have one birth flower or two?",
+        "answer": "The Old Farmer's Almanac's current chart names only chrysanthemum for November, on both its roundup page and its dedicated November page. Farmers' Almanac's current chart pairs chrysanthemum with a second flower, peony."
+      },
+      {
+        "question": "Is cherry blossom a birth flower for March?",
+        "answer": "Only on one page, and even that page hedges. Farmers' Almanac's dedicated March lore page says cherry blossom \"is sometimes considered\" a March birth flower, particularly in Japanese culture. It doesn't appear on Farmers' Almanac's summary chart or on The Old Farmer's Almanac's chart."
+      },
+      {
+        "question": "Is forget-me-not a birth flower for September?",
+        "answer": "Wikipedia's September article lists it as a third September birth flower alongside aster and morning glory, citing an archived 2013 gem-resource page. Neither The Old Farmer's Almanac's nor Farmers' Almanac's current September chart includes it."
+      },
+      {
+        "question": "Why don't birth-flower charts trace to one official source the way birthstones do?",
+        "answer": "Birthstones trace to a documented 1912 US trade convention. Birth flowers don't have an equivalent founding meeting; they descend from the broader Victorian \"language of flowers\" fashion, whose first published dictionaries date to 1809 and 1819, and the modern month-by-month chart appears to be a later distillation compiled by almanacs and florists rather than a single adopted standard."
+      }
+    ],
+    "sources": [
+      {
+        "label": "The Old Farmer's Almanac — Birth Month Flowers and Their Meanings",
+        "url": "https://www.almanac.com/content/birth-month-flowers-and-their-meanings"
+      },
+      {
+        "label": "The Old Farmer's Almanac — November Birth Flowers",
+        "url": "https://www.almanac.com/content/november-birth-flowers"
+      },
+      {
+        "label": "The Old Farmer's Almanac — December Birth Flowers",
+        "url": "https://www.almanac.com/content/december-birth-flowers"
+      },
+      {
+        "label": "Farmers' Almanac — Birth Flower Chart: All 12 Birth Flowers by Month",
+        "url": "https://www.farmersalmanac.com/birth-month-flowers-how-to-plant-a-family-garden"
+      },
+      {
+        "label": "Farmers' Almanac — March Flower Lore",
+        "url": "https://www.farmersalmanac.com/march-flower-lore"
+      },
+      {
+        "label": "Wikipedia — Language of Flowers (floriography)",
+        "url": "https://en.wikipedia.org/wiki/Language_of_flowers"
+      },
+      {
+        "label": "Wikipedia — September (Symbols section)",
+        "url": "https://en.wikipedia.org/wiki/September"
+      }
+    ],
+    "image": "/images/birth-flowers-by-month-grid.svg",
+    "imageAlt": "Grid chart of all twelve months' birth flowers, flagging March and November where The Old Farmer's Almanac's own current chart names fewer flowers than Farmers' Almanac's, and September where Wikipedia's own article adds a third"
   }
 ];
 

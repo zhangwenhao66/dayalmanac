@@ -7344,6 +7344,149 @@ export const guides: Guide[] = [
     ],
     "image": "/images/birth-flowers-by-month-grid.svg",
     "imageAlt": "Grid chart of all twelve months' birth flowers, flagging March and November where The Old Farmer's Almanac's own current chart names fewer flowers than Farmers' Almanac's, and September where Wikipedia's own article adds a third"
+  },
+  {
+    "slug": "mexican-independence-day",
+    "category": "Observances",
+    "title": "Mexican Independence Day: The Cry Came in 1810, the Treaty in 1821",
+    "description": "Mexico's Independence Day falls every September 16, marking Hidalgo's 1810 call to revolt, not the sovereignty the country didn't secure for another 11 years.",
+    "published": "2026-08-22",
+    "updated": "2026-08-22",
+    "coreSummary": "Mexican Independence Day falls every September 16, fixed as a mandatory paid rest day under Article 74 of Mexico's Federal Labor Law. The date marks Miguel Hidalgo's 1810 call to revolt against Spain, the Grito de Dolores, not the moment Mexico actually became sovereign, which took another 11 years and a treaty Spain itself didn't ratify until 1836. The loudest celebrations happen the night before, when Mexico's president reenacts Hidalgo's bell-ringing from the National Palace balcony using the original bell from his parish church.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "Mexican Independence Day falls on September 16 every year. Article 74 of Mexico's Federal Labor Law (Ley Federal del Trabajo) names the date directly among the country's mandatory paid rest days, alongside dates like May 1 and the third Monday of November. It's a fixed calendar date rather than a weekday-based rule, so unlike several U.S. observances on this calendar, it never shifts.",
+      "source": {
+        "label": "Ley Federal del Trabajo, Artículo 74 — Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
+        "url": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorios-163134"
+      },
+      "occurrences": [
+        { "date": "2026-09-16", "weekday": "Wednesday" },
+        { "date": "2027-09-16", "weekday": "Thursday" },
+        { "date": "2028-09-16", "weekday": "Saturday" },
+        { "date": "2029-09-16", "weekday": "Sunday" },
+        { "date": "2030-09-16", "weekday": "Monday" },
+        { "date": "2031-09-16", "weekday": "Tuesday" }
+      ],
+      "caveat": "The date itself isn't in dispute. Article 74 fixes Independence Day on September 16. What varies is the hour historians assign to the event the date actually commemorates. Britannica and the Library of Congress both place Miguel Hidalgo's church-bell summons in the early morning of September 16, 1810, around 2:30 a.m., not the night before. A 1910 chromolithograph held by Mexico's Hemeroteca Nacional carries a caption that agrees: 'a la madrugada del 16 de septiembre de 1810' ('in the early hours of September 16, 1810'). Some modern retellings blur the timing anyway, folding Hidalgo's bell-ringing into the same night as the president's reenactment ceremony, which happens on the evening of September 15 rather than after midnight."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Miguel Hidalgo y Costilla, the Roman Catholic parish priest of Dolores (now Dolores Hidalgo, Guanajuato), rang his church bell in the early hours of September 16, 1810, and delivered an impromptu speech now known as the Grito de Dolores, calling his parishioners to revolt against Spanish colonial rule. He acted that morning because a plot he had helped organize with a group of pro-independence conspirators had just been uncovered by Spanish authorities, forcing him to move before he and his allies could be arrested. No verbatim transcript of the speech survives; the versions historians quote today are later reconstructions. Hidalgo's uprising was crushed within a year. He was captured and executed by firing squad on July 30, 1811, and the war he started ran for another decade under other commanders before Mexico secured its independence.",
+      "source": {
+        "label": "Grito de Dolores — Britannica",
+        "url": "https://www.britannica.com/event/Grito-de-Dolores"
+      }
+    },
+    "sections": [
+      {
+        "heading": "A bell rung before an uprising, not at a proclamation ceremony",
+        "body": [
+          "Miguel Hidalgo y Costilla was the parish priest of the small town of Dolores, in what is now Guanajuato state, and for months he had been part of a group quietly plotting an uprising against Spanish colonial rule. Spanish authorities found out. Rather than wait to be arrested, Hidalgo acted that same morning, summoning his parishioners with the church bell and speaking from the pulpit. Britannica and the Library of Congress both place the bell-ringing in the early hours of September 16, 1810, close to 2:30 a.m. No recording or transcript of what Hidalgo actually said survives, and the versions historians quote today, calling for an end to Spanish rule and invoking the Virgin of Guadalupe, are later reconstructions rather than a verbatim record.",
+          "The speech became known as the Grito de Dolores, the Cry of Dolores, and it marks the opening of the Mexican War of Independence, not the moment Mexico actually gained it. Hidalgo's own uprising didn't last long. Spanish forces defeated his poorly armed followers within a year, captured him, and executed him by firing squad on July 30, 1811. The war he had started kept going under other commanders for another decade."
+        ],
+        "image": {
+          "src": "/images/mexican-independence-day-hidalgo-proclamation.jpg",
+          "alt": "1910 chromolithograph postcard by Adrián Unzueta depicting Miguel Hidalgo proclaiming Mexico's independence at Dolores in the early hours of September 16, 1810",
+          "credit": "Adrián Unzueta, 1910, Colección Hemeroteca Nacional de México, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_cura_D._Miguel_Hidalgo_proclama_la_Independencia_Nacional_en_Dolores,_a_la_madrugada_del_16_de_septiembre_de_1810,_no_obstante_que_no_ten%C3%ADa_terminados_a%C3%BAn_los_preparativos_para_la_revoluci%C3%B3n.jpg)"
+        }
+      },
+      {
+        "heading": "Eleven years between the cry and the country",
+        "body": [
+          "The fighting that followed Hidalgo's death dragged on under a rotating cast of insurgent leaders, most notably José María Morelos, until command eventually passed to Agustín de Iturbide, a royalist officer who switched sides in 1821 and issued the Plan de Iguala. Iturbide's forces, the Army of the Three Guarantees, had taken most of the country by the time Spain's newly arrived captain-general, Juan O'Donojú, met him at the town of Córdoba. The two signed the Treaty of Córdoba on August 24, 1821, recognizing Mexican sovereignty and setting terms for the withdrawal of the remaining Spanish troops.",
+          "The Army of the Three Guarantees entered Mexico City on September 27, 1821, and Iturbide proclaimed the independence of the Mexican Empire the following day. Even that wasn't quite the end of the story: the Spanish government in Madrid refused to ratify the Treaty of Córdoba and didn't formally recognize Mexico as a sovereign nation until the Santa María-Calatrava Treaty, signed December 28, 1836, a full quarter-century after Hidalgo rang his bell."
+        ]
+      },
+      {
+        "heading": "Why the party starts the night before",
+        "body": [
+          "The loudest part of the holiday happens the evening before the date it marks. Each year on the night of September 15, the president of Mexico steps onto the balcony of the National Palace, rings a bell, calls out the names of the independence movement's most celebrated figures, and closes by shouting \"¡Viva México!\" three times. Towns and cities across the country repeat a smaller version of the same ceremony in their own main squares.",
+          "The bell the president rings isn't a replica. It's the actual bell from Hidalgo's parish church in Dolores, moved to the National Palace by President Porfirio Díaz and mounted in a niche above the balcony, where it stays year-round except for that one night. September 16 itself is the quieter of the two days by comparison, marked mainly by a military parade through Mexico City's Zócalo, a tradition dating back to the late 19th century."
+        ]
+      },
+      {
+        "heading": "Not Cinco de Mayo",
+        "body": [
+          "Mexican Independence Day gets confused, mostly by people outside Mexico, with Cinco de Mayo, and the two mark entirely different events 52 years apart. Cinco de Mayo, May 5, commemorates a single battle, the Mexican army's 1862 victory over French forces at Puebla; within Mexico it's a modest regional observance, celebrated with real weight mainly in Puebla state itself. Its outsized profile in the United States came later, pushed by Mexican-American activists in the 1960s who connected the battle to their own civil rights movement, then promoted from the 1980s on by beverage companies marketing it as a drinking holiday.",
+          "September 16, by contrast, is Mexico's actual independence anniversary, the one that closes schools, banks, and government offices for the day. A search that turns up a date in May for \"Mexican Independence Day\" has found Cinco de Mayo's marketing footprint, not the holiday itself."
+        ]
+      },
+      {
+        "heading": "One date, inside a longer regional window",
+        "body": [
+          "September 16 doesn't stand alone on the calendar. It falls on day two of [National Hispanic Heritage Month](/national-hispanic-heritage-month/), the federally designated U.S. observance that runs September 15 through October 15 specifically because that window brackets a cluster of Latin American independence days: five Central American countries share September 15 itself, Mexico follows on the 16th, and Chile's own independence day lands on the 18th.",
+          "That overlap means September 16 shows up in two different contexts depending on which country's calendar a reader is checking. In Mexico, it's a national legal holiday tied to the country's own founding. In the United States, it's one day inside a [monthlong federal observance](/national-hispanic-heritage-month/) recognizing Hispanic and Latino heritage broadly, not a U.S. public holiday in its own right; U.S. federal offices stay open."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Mexican Independence Day?",
+        "answer": "Every September 16, fixed under Article 74 of Mexico's Federal Labor Law as one of the country's mandatory paid rest days. The date doesn't move with the weekday the way some U.S. holidays on this calendar do."
+      },
+      {
+        "question": "Is Mexican Independence Day the same holiday as Cinco de Mayo?",
+        "answer": "No. Cinco de Mayo (May 5) commemorates the Mexican army's 1862 victory at the Battle of Puebla and is a minor regional observance within Mexico. Mexican Independence Day (September 16) marks the start of the war that ended Spanish colonial rule and is Mexico's actual national holiday."
+      },
+      {
+        "question": "Why do the biggest celebrations happen on the night of September 15 instead of September 16?",
+        "answer": "The president's Grito ceremony, ringing the original bell from Hidalgo's church and calling out the names of independence heroes, takes place from the National Palace balcony on the evening of September 15, reenacting a summons historians date to the early hours of the 16th. September 16 itself is marked mainly by a military parade."
+      },
+      {
+        "question": "Who is credited with starting Mexican independence?",
+        "answer": "Miguel Hidalgo y Costilla, the parish priest of Dolores, who rang his church bell and called for revolt in the early hours of September 16, 1810, after a plot he was part of was discovered by Spanish authorities. He was captured and executed within a year; the war he started continued for another decade under other leaders."
+      },
+      {
+        "question": "Did Hidalgo ring the bell on September 15 or September 16?",
+        "answer": "Sources place the historical event itself in the early morning hours of September 16, 1810, around 2:30 a.m., not the night before. The confusion largely traces to the modern ceremony, which the Mexican president performs on the evening of September 15 rather than waiting until after midnight."
+      },
+      {
+        "question": "When did Mexico actually become independent, if the Grito was in 1810?",
+        "answer": "There isn't one single answer. Spain's representative and Mexico's rebel forces signed the Treaty of Córdoba recognizing Mexican sovereignty on August 24, 1821; troops entered Mexico City on September 27, 1821, and independence was formally proclaimed the next day. Spain itself didn't recognize Mexico as a sovereign nation until the Santa María-Calatrava Treaty, signed December 28, 1836, 26 years after Hidalgo's cry."
+      },
+      {
+        "question": "Is Mexican Independence Day a public holiday in the United States?",
+        "answer": "No. It falls within National Hispanic Heritage Month, the U.S. observance running September 15 through October 15, but U.S. federal offices and most workplaces stay open on September 16. It's a legal holiday in Mexico, not in the United States."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ley Federal del Trabajo, Artículo 74 — Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
+        "url": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorios-163134"
+      },
+      {
+        "label": "Grito de Dolores — Britannica",
+        "url": "https://www.britannica.com/event/Grito-de-Dolores"
+      },
+      {
+        "label": "Today in History — September 16 (Library of Congress)",
+        "url": "https://www.loc.gov/item/today-in-history/september-16/"
+      },
+      {
+        "label": "Independence Day (Mexico) — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Independence_Day_(Mexico)"
+      },
+      {
+        "label": "Treaty of Córdoba — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_C%C3%B3rdoba"
+      },
+      {
+        "label": "Army of the Three Guarantees — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Army_of_the_Three_Guarantees"
+      },
+      {
+        "label": "Santa María-Calatrava Treaty — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa%E2%80%93Calatrava_Treaty"
+      },
+      {
+        "label": "File: El cura D. Miguel Hidalgo proclama la Independencia Nacional en Dolores (1910 postcard, Adrián Unzueta) — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:El_cura_D._Miguel_Hidalgo_proclama_la_Independencia_Nacional_en_Dolores,_a_la_madrugada_del_16_de_septiembre_de_1810,_no_obstante_que_no_ten%C3%ADa_terminados_a%C3%BAn_los_preparativos_para_la_revoluci%C3%B3n.jpg"
+      }
+    ],
+    "image": "/images/mexican-independence-day.jpg",
+    "imageAlt": "The original Bell of Dolores, moved from Hidalgo's parish church to Mexico City's National Palace, where the president rings it each September 15",
+    "imageCredit": "Luicheto, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campana_de_Dolores_en_el_nicho_de_Palacio_Nacional.JPG)"
   }
 ];
 

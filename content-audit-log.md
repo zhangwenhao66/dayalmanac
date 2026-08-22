@@ -1131,3 +1131,98 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "september-birthstone",
+  "last_audited": "2026-08-22",
+  "published_date": "2026-08-05",
+  "findings": [
+    {
+      "dimension": "专属核查清单（第1步）",
+      "status": "已识别5条核心断言并逐一核实",
+      "detail": "①Jewelers of America现行清单仅sapphire一石、1912年确立后从未为September改动；②1952/2002/2016三次修订各自涉及月份(alexandrite→June/citrine→Nov/pink tourmaline→Oct/zircon→Dec；tanzanite→Dec；spinel→Aug)且均未touch September；③UK贸易协会2013年修订新增lapis lazuli为September第二官方石；④Rockefeller Sapphire(62.02克拉)历史沿革；⑤Kunz 1913年黄道table中sapphire归Taurus、carnelian归Virgo（与站内virgo-dates/january-birthstone等页交叉引用一致）。"
+    },
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "6条权威机构来源(Jewelers of America/GIA/AGS/IGS/Wikipedia/National Jeweler)，多处对冲措辞('sources disagree on whether...'、'Both pages are citing real sources; they just aren't citing the same one')，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "确认2处问题，已修复",
+      "detail": "①Rockefeller Sapphire'later recut and reset by Tiffany & Co.'——WebSearch多信源(thenaturalsapphirecompany/dsfantiquejewelry/galeriemagazine/brilliyond)及文章自引的GIA原页面均未提及Tiffany，一致指向Pierre Cartier于1940年代完成重切；独立复核agent确认为真实误归属。②UK协会'a successor to the British National Association of Goldsmiths'——真实机构名为National Association of Goldsmiths(NAG，1894年成立，无'British'字样)，2015年才与British Jewellers' Association合并为National Association of Jewellers(NAJ)，晚于文章所述2013年修订两年，原表述在机构名称和时间线归属上均有误；独立复核agent确认。其余断言（1952/2002/2016三次修订细节、Kashmir 1881年山体滑坡1882-1887年开采期、padparadscha词源、5th/45th结婚纪念石）逐条WebSearch核实均准确，其own sources[]清单里的National Jeweler原文也直接印证1952/2002/2016三次修订细节。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现需更新内容，已回填updated字段",
+      "detail": "published(2026-08-05)字段本已存在（非本条bug适用范围）；本次修复内容后updated改为2026-08-22。WebSearch未查到Jewelers of America在2016年后有官方新修订（一处WebSearch AI摘要提及'2024年修订'但无法找到具体细节或独立信源佐证，文章自引的National Jeweler原文与GIA/AGS现行页面均未反映任何2024变动，判定证据不足，未采纳、未改动）。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "dataforseo-query实测SERP'september birthstone'：dayalmanac未进前10（站点新，符合预期），头部结果为GIA/AGS等参考站+Tiffany/Jared/Helzberg/Peora等零售联盟站。零售站均未覆盖本文'三次修订从未touch September'的差异化角度、UK/US两套both-correct清单对比、Kunz 1913黄道table与流行说法(sapphire=Virgo石)的矛盾指出，增量价值真实。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 65字符'September Birthstone: Sapphire, Unchanged Since 1912 | DayAlmanac'、description 157字符、canonical自指、单一h1、6个h2无跳级、robots.txt允许抓取、og:image/twitter:image均为正确jpg。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标（自评约85/99），未做结构性改动",
+      "detail": "按站内既定11维度99分制自评：权威原文引语相对偏弱（多转述少直接引语，约10/16）、统计数据完整性强（62.02克拉/Mohs9/1912-1952-2002-2016时间轴等，13/14）、可引用性/结构规范性/表达流畅度/语义密度/权威信号/专业术语/鲁棒性/跨域连接/易懂表达均正常，合计约85/99，超80分门槛。两处事实修复未涉及GEO薄弱维度，未重新完整打分。schema层面FAQPage(6问)/Article/BreadcrumbList均有效且与guides.ts数据一致。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "确认问题，已修复",
+      "detail": "published(2026-08-05)早于avoid-ai-writing接入日(2026-08-07)，触发强制补漏检查。机械扫描：Tier1A/1B AI高频词表0命中、无花体引号、rule-of-three/copula avoidance等模式0命中。发现4处非sources[].label的em dash（description字段/coreSummary字段/一个section heading/一条faq答案），命中站内零破折号硬规则；独立复核agent逐字核对确认真实存在。sources[].label里6处'发布方 — 标题'格式按2026-08-21march-birthstone审计已建立的LEAVE precedent保留未动（结构化字段分隔符而非叙事性插入语）。已修复4处正文em dash为逗号/句号分隔。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "6条sources链接curl实测全部200：jewelers.org/gia.edu/americangemsociety.org/gemsociety.org/en.wikipedia.org/nationaljeweler.com。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "Birthstones分类共5篇文章(december/march/september/january-birthstone+birthstones-by-month)，≤6篇阈值触发轮转算法'全部返回'逻辑，本文与其余4篇100%互链，非孤儿页。正文另有3处手动内链指向december-birthstone/march-birthstone/virgo-dates，均grep确认slug真实存在。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题（本次修复后重新验证一致）",
+      "detail": "线上JSON-LD的Article.description/FAQPage.mainEntity均已同步反映本次修复后的文本（无遗留旧版本缓存）；Article.datePublished/dateModified分别对应published(2026-08-05)/updated(2026-08-22)。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "内容为宝石历史/贸易协会沿革类中性主题，涉及实体（Jewelers of America/GIA/AGS/IGS/National Jeweler/NAG/NAJ/Rockefeller家族/戴安娜王妃/凯特王妃）均为中性引用，无新增现实世界争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "Wikimedia Commons `File:3sapphirecrystals.jpg`（摄影者Stickpen，CC0/public domain，Commons页面200可访问，许可条款未变）；线上og:image/twitter:image/Article schema image均指向该图，curl实测200，本地文件217KB与站内既有记录一致。"
+    },
+    {
+      "dimension": "AdSense政策合规",
+      "status": "未发现问题",
+      "detail": "ads.txt正确指向pub-5245502795720653；正文标题'September Birthstone: Sapphire, Unchanged Since 1912'客观陈述无标题党；内容为宝石历史知识科普，非诱导消费/营销文案。"
+    }
+  ],
+  "actions_taken": [
+    "Rockefeller Sapphire重切工作从错误归属'Tiffany & Co.'改为'Cartier'（多信源+GIA自引来源交叉核实）",
+    "UK贸易协会名称从虚构的'British National Association of Goldsmiths'改为真实名称'National Association of Goldsmiths'，并改写时间线表述，明确2013年修订归属于合并前的NAG本身而非2015年后成立的NAJ",
+    "移除description/coreSummary/一个section heading/一条faq答案共4处em dash，改用逗号/句号分隔；sources[].label的6处'发布方 — 标题'格式按既定precedent保留",
+    "updated字段从2026-08-05改为2026-08-22（published字段本已存在，未触发回填流程）",
+    "node --test tools/**/*.test.mjs 17/17通过；npm run build 61页成功生成、0报错",
+    "git status确认改动范围仅限src/data/guides.ts一个文件，无并发任务遗留改动",
+    "commit 3859ed0 + push，CF Pages自动部署，curl轮询3次后确认线上正文已更新（'recut by Cartier'与'National Association of Goldsmiths'字符串均命中）",
+    "IndexNow提交/september-birthstone/：Bing 200 / Yandex 202",
+    "内容发布日志.md追加审计记录，标注为content-quality-audit审计更新非新发布",
+    "发现src/consts.ts第3行站内通用标语含1处em dash（渲染于全站每个页面，非本文专属问题），已用spawn_task交给独立会话处理(task_id: task_e707eaad)，本次运行内未修复"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约85/99（超80分门槛），权威原文引语维度相对偏弱但未构成阻断，两处事实修复未涉及该维度，未重新完整打分",
+  "escalation": null
+}
+```

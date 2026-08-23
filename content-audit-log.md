@@ -1226,3 +1226,93 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "scorpio-dates",
+  "last_audited": "2026-08-23",
+  "published_date": "2026-08-06",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "9条sources[]全部为具名权威来源（AstroStyle/Farmers' Almanac/Almanac.com/Wikipedia×2/EarthSky/Sky & Telescope/TIME/Britannica），非泛泛归因，全文无'experts believe'一类模糊归因。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "已确认1处问题（详见actions_taken）",
+      "detail": "逐条核实4套日期系统：西方回归占星Oct23-Nov21（AstroStyle/Farmers' Almanac实测curl确认，Wikipedia正文'on average'表述确认）；Britannica Oct24起点变体（WebSearch确认Britannica条目原文'about October 24 to about November 21'）；吠陀占星Vrishchika约Nov16-Dec15（多信源交叉确认，含精确的Lahiri ayanamsha约24度数值）；实际天文星座Scorpius约一周(Nov23-29)、Ophiuchus接续至Dec18（EarthSky原文curl确认'the sun's annual passing...from about November 23...to November 30'）、Sky & Telescope确认Scorpius是十二宫星座中太阳穿越时间最短的（Virgo最长超40天）；Ptolemy Tetrabiblos/巴比伦公元前5世纪起源（TIME原文WebSearch确认）；Mars/Pluto双守护（1930冥王星发现后加入）均准确。唯一问题：coreSummary/正文第一节/FAQ第一条三处均声称Almanac.com给出的是'October 23 to November 21'，与AstroStyle/Farmers' Almanac/Wikipedia'一致'，但独立agent实测curl Almanac.com页面（infobox+正文两处）确认其真实表述是'October 23 to November 22'（全文搜索'November 21'零命中），四个信源实际只有三个一致，第四个是误归属——命中L-0804-2'多信源一致性断言未查反例'模式。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "updated=published=2026-08-06。星座日期区间是稳定的天文/历法惯例，非L-0818-1定义的'周期性复发现实事件'，无需检索'发布后有没有新一轮'；核对引用的Wikipedia两个页面均为2026年活跃维护状态（infobox含2026年UT1精确计算），未发现信源被修订而本文未跟进的情况。"
+    },
+    {
+      "dimension": "竞对差异化",
+      "status": "未发现问题",
+      "detail": "WebSearch目标关键词'scorpio dates'/'when is scorpio season'实际SERP：AstroLibrary/Farmers' Almanac/Horoscope.com/Almanac.com/Astrology.com/Zodiacsign.com/Wikipedia均只给单一日期区间，无一篇做多系统横向对比。本文'4套系统并列、都不算错'的框架相对这些竞品是真实差异化，不是Wikipedia套壳。"
+    },
+    {
+      "dimension": "技术SEO",
+      "status": "未发现问题",
+      "detail": "title 55字符、description 141字符均在建议长度内；schema沿用site-toolkit共享模板；canonical/H1数=1经seo_drift.py基线确认。"
+    },
+    {
+      "dimension": "GEO(ai-seo)",
+      "status": "未发现问题，自评≥80分门槛",
+      "detail": "coreSummary提供可直接引用的单段综合答案（覆盖4套系统），FAQ 6问答适配FAQPage schema，sources具名可核实——GEO/AI Overview所需结构要素齐全。未做逐项99分打分，结构性要素本次修复前后未变。"
+    },
+    {
+      "dimension": "去AI味(humanizer+avoid-ai-writing)",
+      "status": "未发现问题",
+      "detail": "发布于2026-08-06（早于8/7强制执行日期），补做detect-only扫描：全文0处prose em dash/en dash（仅sources[].label按站内既有惯例用'发布方 — 标题'格式，日期区间用en dash属排版惯例，均非AI味splice）、0处AI高频词（delve/landscape/testament/robust/leverage/pivotal等）、0处curly quotes、'genuine'/'genuinely'共4处均为实义形容词（非空洞强调）非AI味。判定为发布时质量已达标，本次审计前后均未触发修复。"
+    },
+    {
+      "dimension": "外链健康(link rot+内容匹配)",
+      "status": "已确认1处问题（同事实准确性维度）",
+      "detail": "9条sources[] URL逐一核实：6条curl直接200（AstroStyle/Farmers' Almanac/Almanac.com/Wikipedia×2/EarthSky），3条（Britannica/Sky & Telescope/TIME）curl返回403/406系bot防护而非真实失效，改用WebSearch交叉确认三者均存活且搜索结果摘要逐字匹配本文归属的具体论断。按L-0820-4要求不只查200还查内容匹配：8条内容与归属论断完全匹配，唯独Almanac.com URL存活200但内容与'给出Nov21'这一具体论断不匹配（见事实准确性维度）。"
+    },
+    {
+      "dimension": "内链健康",
+      "status": "未发现问题",
+      "detail": "非孤儿页：grep确认至少3篇姊妹文章（十一月生日相关文章、十月/Libra对比文章、生肖狗年文章）以不同锚文本指向/scorpio-dates/。"
+    },
+    {
+      "dimension": "schema一致性",
+      "status": "未发现问题",
+      "detail": "沿用[slug].astro共享site-toolkit模板，非本文专属override，无需单独检查。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "全文以'in astrology'/'tropical astrology'/'sidereal astrology'限定语境，coreSummary明确'None of the four dates is wrong; each is answering a different question'，未将占星断言包装成科学事实，无健康/医疗类断言，风险符合预期的低风险评估。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "Urania's Mirror(1824) Sidney Hall手绘星图，via Wikimedia Commons公有领域，已正确署名+来源链接；本地文件325KB存在。"
+    },
+    {
+      "dimension": "AdSense政策合规",
+      "status": "未发现问题",
+      "detail": "ads.txt正确指向pub-5245502795720653；占星内容框架为'不同体系给出不同答案供参考'而非'科学预测/医疗声称'，无误导性内容。"
+    }
+  ],
+  "actions_taken": [
+    "coreSummary/正文第一节标题+首段/'边界为何移动'一节/FAQ第一条共4处，把Almanac.com从'与AstroStyle/Farmers' Almanac/Wikipedia一致给出Nov21'的表述改为'终点侧的第二个离群值（Nov22），与Britannica的起点离群值对称呈现'，不改动任何日期区间数值本身，只修正信源归属准确性",
+    "独立agent（后台运行约30秒/4次工具调用完成，未卡死）verdict: CONFIRMED",
+    "修复后重新扫描：0处新增em/en dash、0处新增AI高频词，去AI味状态与修复前一致（仍为PASS）",
+    "node --test tools/**/*.test.mjs 17/17通过；npm run build 63页成功生成、0报错",
+    "git status确认改动范围仅限src/data/guides.ts一个文件",
+    "commit d363194 + push（首次push遇LibreSSL SSL_connect网络层瞬时错误，重试后成功）；CF Pages自动部署，curl轮询3次后确认线上正文已更新（命中'Almanac.com is an outlier at the end'）",
+    "seo_drift.py compare：仅WARNING(schema内容随文本变化，预期内)+INFO(H2数量8→8确认未变)，无CRITICAL",
+    "IndexNow提交/scorpio-dates/：Bing 200 / Yandex 200",
+    "内容发布日志.md追加审计记录，标注为content-quality-audit审计更新非新发布",
+    "内容通用教训库.md L-0804-2条目追加'复发'记录（Almanac.com终点日期误归属场景）"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约85/99（超80分门槛，修复前后结构未变，仅归属准确性提升）",
+  "escalation": null
+}
+```

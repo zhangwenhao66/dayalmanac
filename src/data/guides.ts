@@ -7492,16 +7492,16 @@ export const guides: Guide[] = [
     "slug": "1994-chinese-zodiac",
     "category": "Chinese Zodiac",
     "title": "1994 Chinese Zodiac: Wood Dog, But Only After February 10",
-    "description": "1994 is the Year of the Wood Dog in the Chinese zodiac, but the lunar year didn't start until February 10. Anyone born earlier that January is a Rooster.",
-    "published": "2026-08-22",
-    "updated": "2026-08-22",
+    "description": "1994 is the Year of the Wood Dog in the Chinese zodiac, but the lunar year didn't start until February 10. Anyone born earlier in January is a Rooster.",
+    "published": "2026-08-23",
+    "updated": "2026-08-23",
     "coreSummary": "1994 is the Year of the Wood Dog, running from February 10, 1994 through January 30, 1995 according to the Hong Kong Observatory's own Gregorian-lunar conversion table. Anyone born between January 1 and February 9, 1994, before that boundary, was actually born under the preceding year, Water Rooster, a distinction that at least one widely used celebrity zodiac list gets wrong.",
     "sections": [
       {
         "heading": "The Wood Dog year starts February 10, not January 1",
         "body": [
-          "Chinese zodiac years follow the lunar calendar, so the \"1994 zodiac year\" doesn't line up with the 365 days most people picture when they see the number 1994. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table, the government's own reference for converting between the two calendars, labels the relevant lunar year Jia-Xu (甲戌) and marks February 10, 1994 as the first day of the first lunar month, the actual start of the new year.",
-          "The year doesn't end on December 31 either. The Observatory's table for the following year shows the twelfth and final lunar month of Jia-Xu running out on January 30, 1995; the next day, January 31, opens the following lunar year, Yi-Hai (乙亥), Wood Pig. That puts the full Wood Dog window at February 10, 1994 through January 30, 1995, about forty days short of the calendar year of the same name. Anyone born January 1 through February 9, 1994 falls before that boundary and belongs to the outgoing year instead, Gui-You (癸酉), Water Rooster, confirmed by the Observatory's own 1993 table."
+          "Chinese zodiac years follow the lunar calendar, so the \"1994 zodiac year\" doesn't line up with the 365 days most people picture when they see the number 1994. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table, the government's own reference for converting between the two calendars, labels the relevant lunar year Jia-Xu (甲戌) and marks February 10, 1994 as the first day of the first lunar month, the actual start of the new year. That is a government body's own published table, not a private calendar site's estimate.",
+          "The year doesn't end on December 31 either. The Observatory's table for the following year shows the twelfth and final lunar month of Jia-Xu running out on January 30, 1995; the next day, January 31, opens the following lunar year, Yi-Hai (乙亥), Wood Pig. That puts the full Wood Dog window at February 10, 1994 through January 30, 1995, a span of 355 days that leaves out the first forty days of calendar-year 1994 entirely. Anyone born January 1 through February 9, 1994, that excluded stretch, falls before the boundary and belongs to the outgoing year instead, Gui-You (癸酉), Water Rooster, confirmed by the Observatory's own 1993 table."
         ],
         "image": {
           "src": "/images/1994-chinese-zodiac-dog-figure.jpg",
@@ -7519,22 +7519,16 @@ export const guides: Guide[] = [
       {
         "heading": "Wood, not Fire, Earth, Metal, or Water: why the element matters",
         "body": [
-          "\"Chinese zodiac\" usually gets shortened to just the animal, but the traditional calendar assigns two labels to every year: an animal from a twelve-year cycle and an element from a five-element cycle, with each element covering two consecutive years, once in a yang form and once in yin. A ten-position stem cycle carries the five elements; a twelve-position branch cycle carries the animals. The two only realign every 60 years, the sexagenary cycle. 1994's stem is Jia, yang wood; its branch is Xu, the Dog.",
-          "That's why \"Dog year\" alone leaves out real information. 1958 was also a Dog year, but its stem was Wu, yang earth, making it an Earth Dog. 2006 was Bing-Xu, Fire Dog. The Western zodiac's [Scorpio](/scorpio-dates/) doesn't carry this kind of second layer; a Scorpio is a Scorpio no matter which year they're born in. The exact pairing Jia-Xu, Wood Dog, last occurred in 1934 and doesn't come around again until 2054; every other Dog year on the calendar between those two dates carries a different element."
+          "\"Chinese zodiac\" usually gets shortened to just the animal, but the traditional calendar assigns two labels to every year: an animal from a twelve-year cycle and an element from a five-element cycle, with each element covering two consecutive years, once in a yang form and once in yin, always in that order. A ten-position stem cycle carries the five elements this way, a yang year then a yin year for each element before the cycle moves to the next one; a twelve-position branch cycle carries the animals separately, one per year with no such subdivision. The two only realign every 60 years, the sexagenary cycle. 1994's stem is Jia, yang wood; its branch is Xu, the Dog.",
+          "That's why \"Dog year\" alone leaves out real information. 1958 was also a Dog year, but its stem was Wu, yang earth, making it an Earth Dog. 2006 was Bing-Xu, Fire Dog. The Western zodiac's [Scorpio](/scorpio-dates/) doesn't carry this kind of second layer; a Scorpio is a Scorpio no matter which year they're born in. The exact pairing Jia-Xu, Wood Dog, last occurred in 1934 and doesn't come around again until 2054; every other Dog year on the calendar between those two dates carries a different element.",
+          "The stem-branch pairing has a formal name, ganzhi, the stems-and-branches system, and it predates its use for popularizing twelve animal signs by centuries. Ten Heavenly Stems (jia, yi, bing, ding, wu, ji, geng, xin, ren, gui) cycle against twelve Earthly Branches (zi, chou, yin, mao, chen, si, wu, wei, shen, you, xu, hai), and each branch also carries one of the twelve zodiac animals; xu is the Dog. Ten and twelve share a greatest common factor of two, so only 60 of the 120 mathematically possible stem-branch pairings ever actually occur, which is the reason the full cycle runs 60 years instead of 120, and why a specific pairing like Jia-Xu comes back on a fixed 60-year schedule rather than any shorter interval. Before China's 1912 switch to the Gregorian calendar, that same sixty-year cycle was also how official records dated the year itself, not just a folk label attached to birth years."
         ]
       },
       {
-        "heading": "What the tradition says about a Wood Dog's temperament",
+        "heading": "Not every lunar calendar draws the boundary the same way",
         "body": [
-          "The animal Dog carries a fixed reputation across Chinese zodiac writing no matter which element attaches to it: loyalty, honesty, and an outsized sense of justice, the same traits China Highlights' zodiac guide and similar references repeat for every Dog year regardless of decade. Wood, in this pairing, is usually described as an amplifying influence rather than a personality of its own, adding imagination, sociability, and a pull toward close, dependable friendships on top of the Dog's baseline loyalty.",
-          "The trade-off those same sources describe is emotional reserve: Wood Dogs are often characterized as slow to open up, more likely to demonstrate loyalty through consistent action than through talking about how they feel, and prone to stubbornness once they've settled on a position. None of this amounts to a verifiable claim about any specific person born in 1994. It's inherited folk characterization, the same standing as a Western sun-sign description, not a finding about any individual."
-        ]
-      },
-      {
-        "heading": "Compatibility, where even the popular charts disagree",
-        "body": [
-          "Chinese astrology groups the twelve animals into four three-animal \"trines,\" sets said to share values and cooperate easily. The Dog's trine partners are Tiger and Horse, a pairing repeated consistently across zodiac compatibility references.",
-          "Which animal counts as the Dog's hardest match is far less settled. One widely used compatibility chart lists Rooster as the Dog's single worst match while filing Dragon separately under a softer \"opposites attract\" category; other zodiac write-ups describe Dragon and Dog as one of the tradition's classic clashing pairs instead. The two framings don't agree with each other, and no governing body adjudicates between them the way the Hong Kong Observatory adjudicates a lunar year boundary. This site has run into the same kind of unresolved disagreement before, in the trade-group lists compiled on the [birthstones by month](/birthstones-by-month/) reference page, where even official sources don't always match. Whichever pairing a given site names as the Dog's opposite, it's folklore with a disputed source, not a settled ruling."
+          "Vietnam's Tet follows a lunar calendar borrowed from China centuries ago, and it usually falls on exactly the same date as Chinese New Year. The two calendars are calculated using different meridians, though, and Wikipedia's entry on Tet notes a one-hour time difference between Vietnam and China that can put the astronomical new moon on different calendar days in the two systems. Most years that gap doesn't change anything worth noticing. It isn't guaranteed, though: the same Wikipedia entry documents a year where the difference was large, 1985, when Vietnam observed its lunar new year a full month before China did.",
+          "That's part of why this page cites the Hong Kong Observatory specifically instead of \"the Chinese calendar\" as a generic phrase. The observatory's published tables are pinned to a defined time zone and a defined astronomical method, the same standard this site applies to the [birthstones by month](/birthstones-by-month/) list elsewhere on the calendar. A reader working from a Vietnamese, Korean, or other regional lunar source should confirm it uses the same reference point before assuming an identical February 10 boundary; most years it will, but 1985 shows that isn't automatic. The zodiac animals themselves aren't identical across the two traditions either. Vietnam's version swaps in the Water Buffalo, Cat, and Goat where the Chinese calendar uses Ox, Rabbit, and Sheep, a difference unrelated to the date question but easy to conflate with it. Readers checking a Vietnamese or Korean lunar-calendar source for this same year should look for that source's own government or observatory citation rather than assume it automatically lines up with the Hong Kong Observatory's dates."
         ]
       }
     ],
@@ -7560,12 +7554,12 @@ export const guides: Guide[] = [
         "answer": "2054. The specific pairing of wood with the Dog only recurs every 60 years, the length of the full sexagenary cycle. The previous Wood Dog year was 1934."
       },
       {
-        "question": "Is the Dog compatible with the Dragon in Chinese astrology?",
-        "answer": "Sources disagree. One widely used compatibility chart lists Rooster, not Dragon, as the Dog's worst match, filing Dragon under a separate \"opposites attract\" category, while other zodiac references describe Dragon and Dog as a classic clashing pair. There's no single authority that settles which framing is correct."
-      },
-      {
         "question": "Is Chinese New Year always in February?",
         "answer": "No. Unlike a Western sign such as [Virgo](/virgo-dates/), whose date range barely shifts year to year, the Chinese new year's date swings by roughly a month depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1994 new year fell on February 10, but 1993's fell on January 23, per the Hong Kong Observatory's own tables for those years."
+      },
+      {
+        "question": "Does Vietnam's Tet always fall on the same date as Chinese New Year?",
+        "answer": "Usually, but not always. Wikipedia's entry on Tet attributes the two calendars' occasional split to a one-hour time difference between Vietnam and China that can shift which day the astronomical new moon falls on. In 1985 the gap was large: Vietnam observed its new year a full month before China did. That's part of why this page cites the Hong Kong Observatory specifically rather than \"the Chinese calendar\" in the abstract."
       }
     ],
     "sources": [
@@ -7602,12 +7596,16 @@ export const guides: Guide[] = [
         "url": "https://www.famousbirthdays.com/zodiac/1994.html"
       },
       {
-        "label": "China Highlights — Chinese Zodiac Dog",
-        "url": "https://www.chinahighlights.com/travelguide/chinese-zodiac/dog.htm"
+        "label": "Wikipedia — Tết",
+        "url": "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
       },
       {
-        "label": "Chinese New Year (chinesenewyear.net) — Chinese Zodiac Compatibility",
-        "url": "https://chinesenewyear.net/zodiac/compatibility/"
+        "label": "Wikipedia — Heavenly Stems",
+        "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
+      },
+      {
+        "label": "Wikipedia — Earthly Branches",
+        "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       }
     ],
     "image": "/images/1994-chinese-zodiac-dog-figure.jpg",

@@ -150,11 +150,11 @@ const deckJson = JSON.stringify(dayQuizItems);
 
 			verdictEl!.textContent = correct
 				? item.verdict
-					? 'Correct — this is true.'
-					: 'Correct — this is false.'
+					? 'Correct: this is true.'
+					: 'Correct: this is false.'
 				: item.verdict
-					? 'Not quite — this is true.'
-					: 'Not quite — this is false.';
+					? 'Not quite: this is true.'
+					: 'Not quite: this is false.';
 			verdictEl!.style.color = correct ? 'var(--flag-dark)' : 'var(--ink)';
 			explanationEl!.innerHTML = renderInlineMarkdown(item.explanation);
 			sourceLinkEl!.href = `/${item.sourceSlug}/`;

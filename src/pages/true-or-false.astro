@@ -9,7 +9,7 @@ import { SITE_ORIGIN, SITE_TITLE, AUTHOR_NAME } from '../consts';
 const pageUrl = `${SITE_ORIGIN}/true-or-false/`;
 const title = 'True or False? A DayAlmanac Observance Quiz';
 const description =
-	'Pull a claim from our own observance, birthstone, and zodiac coverage — is this day really an official holiday, is it really the same as that other day — and guess whether it holds up, before you see the documented answer.';
+	'Pull a claim from our own observance, birthstone, and zodiac coverage. Is this day really an official holiday, is it really the same as that other day? Guess whether it holds up, before you see the documented answer.';
 const updated = '2026-08-06';
 
 const articleCount = new Set(dayQuizItems.map((i) => i.sourceSlug)).size;
@@ -52,7 +52,7 @@ const breadcrumbItems = [
 		<div class="panel mt-7 rounded-[10px] px-6 py-5">
 			<p class="rubric m-0">Core summary</p>
 			<p class="mt-2 mb-0 text-[0.9375rem] leading-relaxed text-[var(--ink)]/85">
-				Every claim here is pulled verbatim from the FAQ section of a real DayAlmanac article — nothing is
+				Every claim here is pulled verbatim from the FAQ section of a real DayAlmanac article. Nothing is
 				invented for the quiz. Each round draws 12 claims at random from a deck of {dayQuizItems.length},
 				spanning {articleCount} different articles, so the set changes each time you play. Pick "True" or
 				"False," then read the sourced explanation and follow the link back to the full story.
@@ -67,7 +67,7 @@ const breadcrumbItems = [
 			<h2 class="font-display mt-10 mb-3 text-[1.4rem] font-semibold text-[var(--ink)]">Why a quiz instead of a list of facts</h2>
 			<p class="mb-3.5">
 				A page that just states "no, National Cat Day and International Cat Day are not the same observance"
-				can be read and repeated by an AI answer box in a single sentence — the visitor never needs to open
+				can be read and repeated by an AI answer box in a single sentence, so the visitor never needs to open
 				the page. A claim you have to judge for yourself, before the verdict and its sourcing appear, doesn't
 				work that way: it needs a click and a guess first. The underlying facts are the same ones already
 				published across this site's <a href="/" class="text-[var(--flag-dark)] no-underline hover:underline">observance, birthstone, and zodiac coverage</a>;
@@ -75,7 +75,7 @@ const breadcrumbItems = [
 			</p>
 			<p class="mb-0">
 				Every explanation links back to the article it came from, with the same sourcing already cited
-				there — nothing on this page is asserted without a documented origin in the linked piece.
+				there. Nothing on this page is asserted without a documented origin in the linked piece.
 			</p>
 		</article>
 

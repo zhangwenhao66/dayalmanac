@@ -113,7 +113,7 @@ function md(text: string): string {
 			{guide.founding && (
 				<div class="mt-6 border-l-2 border-[var(--rule)] pl-5">
 					<p class="rubric m-0">
-						{guide.founding.status === 'documented' ? 'Who started it' : 'Who started it — unresolved'}
+						{guide.founding.status === 'documented' ? 'Who started it' : 'Who started it (unresolved)'}
 					</p>
 					<p class="mt-2 mb-0 text-[0.975rem] leading-[1.8] text-[var(--ink)]/80" set:html={md(guide.founding.text)} />
 					{guide.founding.source && (

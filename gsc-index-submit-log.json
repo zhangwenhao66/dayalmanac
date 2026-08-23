@@ -243,5 +243,15 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-23",
+    "action": "submitted",
+    "reason": "今日dayalmanac-content-publishing 13:35档修复完成1994-chinese-zodiac（该文经历trafficsite-nightly-ops-review抢先commit未审核草稿、后被本会话次日修复覆盖的插曲，线上最终为修复版）。URL Inspection确认URL is not on Google/Discovered-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
+    "submitted_urls": [
+      "https://dayalmanac.com/1994-chinese-zodiac/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

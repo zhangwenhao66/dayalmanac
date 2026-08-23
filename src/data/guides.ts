@@ -7772,6 +7772,137 @@ export const guides: Guide[] = [
     ],
     "image": "/images/world-mental-health-day-compare.svg",
     "imageAlt": "Timeline comparing three mental-health observances inside six weeks: World Suicide Prevention Day on September 10 (founded 2003 by IASP and WHO), Mental Illness Awareness Week in the first full week of October (founded 1990 by NAMI, U.S. only), and World Mental Health Day on October 10 (founded 1992 by the World Federation for Mental Health, worldwide)"
+  },
+  {
+    "slug": "national-guacamole-day",
+    "category": "Observances",
+    "title": "National Guacamole Day: September 16, and No Founder on Record",
+    "description": "National Guacamole Day falls every September 16, deliberately timed to Mexican Independence Day, but no founder or registration has ever been traced to it.",
+    "published": "2026-08-23",
+    "updated": "2026-08-23",
+    "coreSummary": "National Guacamole Day falls every September 16 in the United States, a date that deliberately overlaps with Mexican Independence Day rather than marking anything about guacamole's own history. Unlike National Avocado Day (July 31), which National Day Calendar's own proclamation credits to the meal-delivery company Model Meals in 2017, no comparable founding record for Guacamole Day turned up in National Day Calendar's catalog or anywhere else searched. It appears to have spread through restaurant promotions and social media rather than a documented registration.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "National Guacamole Day is observed every September 16, the same fixed date each year. It carries no legal or governmental status; the date is simply the one that calendar sites and restaurant chains have consistently used since the observance began circulating.",
+      "status": "conventional",
+      "source": {
+        "label": "National Guacamole Day, September 16 — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-guacamole-day-september-16"
+      },
+      "occurrences": [
+        { "date": "2026-09-16", "weekday": "Wednesday" },
+        { "date": "2027-09-16", "weekday": "Thursday" },
+        { "date": "2028-09-16", "weekday": "Saturday" },
+        { "date": "2029-09-16", "weekday": "Sunday" },
+        { "date": "2030-09-16", "weekday": "Monday" },
+        { "date": "2031-09-16", "weekday": "Tuesday" }
+      ],
+      "caveat": "Two other food days get confused with this one. National Avocado Day falls earlier, on July 31, and celebrates the fruit rather than the dip. National Spicy Guacamole Day falls later, on November 14, as a separate observance with its own listing on the major calendar sites. September 16 is the one that shares its date with Mexican Independence Day, and that overlap is deliberate, not incidental."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No named founder, company, or filing traces back to National Guacamole Day. That absence is notable mainly by contrast: National Day Calendar publishes a detailed proclamation crediting the meal-delivery company Model Meals with registering National Avocado Day (July 31) in 2017, but no equivalent proclamation exists in its archive for Guacamole Day, despite the site listing and dating it every year. Checkiday and Days of the Year, two other major calendar sites, list the date with no founder attached either. Nobody has stepped forward to claim credit for choosing September 16."
+    },
+    "sections": [
+      {
+        "heading": "Fixed to a date that already belonged to someone else",
+        "body": [
+          "National Guacamole Day lands on September 16 every year, and that date isn't an accident. It's the same day as [Mexican Independence Day](/mexican-independence-day/), the anniversary of Miguel Hidalgo's 1810 call to revolt against Spanish rule. A dip built from an ingredient central to Mexican cooking landed its own calendar day on the one date already guaranteed to put Mexican food on people's minds, rather than on a date of its own.",
+          "The word itself predates any calendar entry by centuries. Guacamole comes from the Classical Nahuatl āhuacamōlli, a compound of āhuacatl (avocado) and mōlli (sauce), literally \"avocado sauce.\" Spanish colonizers adapted the pronunciation into guacamole, and the name has carried through largely unchanged since."
+        ]
+      },
+      {
+        "heading": "What the Aztecs made, and what an English pirate wrote down",
+        "body": [
+          "Guacamole itself is far older than any national day. Aztec cooks in central Mexico were mashing ripe avocados with a stone mortar and pestle, called a molcajete and tejolote, before the Spanish conquest of the 16th century, working the fruit down with salt and, over time, additions like chile and tomato that are native to the same region.",
+          "The earliest written description of anything resembling it in English comes from an unlikely source: William Dampier, an English privateer, in his 1697 book A New Voyage Round the World. Writing about an island near Panama, Dampier recorded that the avocado-pear \"has no taste of itself, and therefore it is usually mixed with sugar and lime-juice and beaten together in a plate; and this is an excellent dish,\" adding that \"the ordinary way is to eat it with a little salt and a roasted plantain.\" It isn't guacamole in the Aztec sense; Dampier's version has no chile, tomato, or onion, and he was describing a Spanish-colonial preparation outside Mexico rather than the Nahua dish itself. But it's the earliest known English-language account of avocados being deliberately mashed and seasoned into a dish, more than a century before the word \"guacamole\" appears in English at all."
+        ]
+      },
+      {
+        "heading": "How a Mexican dish became an American staple",
+        "body": [
+          "Avocado trees reached the United States earlier than guacamole did, planted in Florida and California by the early 1800s under the name \"alligator pear\" and drawing little interest beyond those two states. Guacamole itself followed later in the same century, moving north with Mexican communities along the border, and American cookbooks were printing recipes for it by the 1920s. For most of the 20th century that popularity had a ceiling: federal restrictions dating to the 1910s kept Mexican avocado imports largely out of the country until they were lifted in 1997.",
+          "Two shifts after that lifted ban did more to make guacamole a national staple than any single decade of immigration: the reopened supply of Mexican avocados, and the growth of the U.S. Latino population over the same stretch, which grew demand. Guacamole consumption now spikes on measurable calendar dates that have nothing to do with September. Super Bowl Sunday and Cinco de Mayo are the two biggest, which suggests the dish's popularity has more to do with broad cultural adoption than with the national day built around it."
+        ]
+      },
+      {
+        "heading": "The other avocado day has a name attached; this one doesn't",
+        "body": [
+          "National Day Calendar's own archive draws a sharp line between its two avocado-adjacent observances. For National Avocado Day, July 31, the site published a full \"New Day Proclamation\" crediting Model Meals, a meal-delivery company founded in 2015 by Camille May and Danika Brysha, with registering the date in 2017 at the peak of California's avocado season. The proclamation names the company, the year, and the reasoning behind the date.",
+          "No matching document exists for National Guacamole Day. The date appears on National Day Calendar's own yearly listings, alongside a cluster of other September 16 observances, but nothing in the site's proclamation archive attributes it to anyone. Checkiday's and TRVST's own writeups of the day describe the same gap in different words: no company, no individual, no filing, just a date that circulated through restaurant marketing and social sharing until it stuck. A great many of the branded \"national days\" that clutter this calendar trace back to a specific person or business looking for attention. This one doesn't, and nobody can show who started it."
+        ]
+      },
+      {
+        "heading": "More than one guacamole day, and neighbors worth knowing",
+        "body": [
+          "September 16 isn't the only guacamole-branded date on the calendar. National Spicy Guacamole Day falls separately on November 14, roughly two months later, as its own listed observance rather than a variant of this one. Readers searching for \"guacamole day\" in the fall sometimes land on the wrong month as a result.",
+          "The date also sits inside a wider stretch on this site's calendar. September 16 falls two days into [National Hispanic Heritage Month](/national-hispanic-heritage-month/), the U.S. observance running September 15 through October 15, and readers looking for other Mexican-food observances on the calendar can find [National Taco Day](/national-taco-day/) in early October."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Guacamole Day?",
+        "answer": "Every September 16, a fixed date that doesn't move from year to year. It carries no legal or governmental status."
+      },
+      {
+        "question": "Why does National Guacamole Day fall on the same date as Mexican Independence Day?",
+        "answer": "Calendar sites that track both observances describe the overlap as deliberate: a dip built from an ingredient central to Mexican cooking was placed on the one date already tied to Mexican national pride. No formal statement links the two dates, but the pairing is consistent across every source checked."
+      },
+      {
+        "question": "Who founded National Guacamole Day?",
+        "answer": "No source checked for this page could name one. National Day Calendar publishes a detailed proclamation for its sibling observance, National Avocado Day, crediting the company Model Meals in 2017, but no equivalent document exists for Guacamole Day despite the site listing the date every year. It appears to have spread through restaurant marketing and social media rather than a formal registration."
+      },
+      {
+        "question": "Is National Guacamole Day the same as National Avocado Day?",
+        "answer": "No. National Avocado Day falls on July 31 and has a documented 2017 founding credited to the company Model Meals. National Guacamole Day falls on September 16 and has no comparable founding record."
+      },
+      {
+        "question": "Is National Guacamole Day the same as National Spicy Guacamole Day?",
+        "answer": "No. National Spicy Guacamole Day is a separate observance listed on November 14, roughly two months after National Guacamole Day."
+      },
+      {
+        "question": "Where does the word \"guacamole\" come from?",
+        "answer": "From the Classical Nahuatl āhuacamōlli, combining āhuacatl (avocado) and mōlli (sauce), literally \"avocado sauce.\" Spanish colonizers adapted the pronunciation into guacamole."
+      },
+      {
+        "question": "Did guacamole originate with the Aztecs?",
+        "answer": "The dish did: Aztec cooks were mashing avocados with salt, chile, and tomato in a stone molcajete before the 16th-century Spanish conquest. Separately, the earliest known English-language account of avocados being mashed into a dish comes from the English privateer William Dampier's 1697 book, describing avocado mixed with sugar and lime outside Mexico, a different, non-Aztec preparation that predates the English word \"guacamole\" itself by more than a century."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Guacamole — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guacamole"
+      },
+      {
+        "label": "Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico — NPR",
+        "url": "https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports"
+      },
+      {
+        "label": "National Guacamole Day, September 16 — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-guacamole-day-september-16"
+      },
+      {
+        "label": "New Day Proclamation: National Avocado Day, July 31 — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/new-day-proclamation-national-avocado-day-july-31/"
+      },
+      {
+        "label": "National Avocado Day, July 31 — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-avocado-day-july-31"
+      },
+      {
+        "label": "National Spicy Guacamole Day, November 14 — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-spicy-guacamole-day-november-14"
+      },
+      {
+        "label": "A New Voyage Round the World, William Dampier (1697) — Project Gutenberg Australia",
+        "url": "https://gutenberg.net.au/ebooks05/0500461h.html"
+      }
+    ],
+    "image": "/images/national-guacamole-day.jpg",
+    "imageAlt": "Guacamole served in a traditional stone molcajete at a Mexican restaurant",
+    "imageCredit": "Missvain (Sarah Stierch), CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lindo_Mexico_II_-_November_3_2023_-_Sarah_Stierch_02.jpg)"
   }
 ];
 

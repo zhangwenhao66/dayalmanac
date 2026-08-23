@@ -7611,6 +7611,167 @@ export const guides: Guide[] = [
     "image": "/images/1994-chinese-zodiac-dog-figure.jpg",
     "imageAlt": "Qing dynasty porcelain figure of a dog from a set of the twelve Chinese zodiac animals, Kangxi period",
     "imageCredit": "The Metropolitan Museum of Art, [Zodiac figure: dog](https://www.metmuseum.org/art/collection/search/44683), Kangxi period (1662–1722), public domain"
+  },
+  {
+    "slug": "world-mental-health-day",
+    "category": "Observances",
+    "title": "World Mental Health Day: October 10, and Its 1992 Founder",
+    "description": "World Mental Health Day falls on October 10, founded in 1992 by WFMH's Richard Hunter. Two nearby dates are often confused with it, but share no founder.",
+    "published": "2026-08-23",
+    "updated": "2026-08-23",
+    "coreSummary": "World Mental Health Day falls on October 10 every year, a worldwide observance the World Federation for Mental Health (WFMH) first held in 1992 at the initiative of its then Deputy Secretary General, Richard Hunter. It sits within six weeks of two separately founded mental-health observances, Mental Illness Awareness Week (NAMI, 1990, United States only) and World Suicide Prevention Day (IASP and WHO, 2003, September 10), that share no founder or founding year with it despite being routinely confused with it.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 10 every year, worldwide. The date does not shift for weekends or weekdays.",
+      "source": {
+        "label": "Wikipedia — World Mental Health Day",
+        "url": "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-10",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-10-10",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-10-10",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2029-10-10",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2030-10-10",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2031-10-10",
+          "weekday": "Friday"
+        }
+      ]
+    },
+    "founding": {
+      "status": "documented",
+      "text": "World Mental Health Day was first observed on October 10, 1992, started as an annual activity of the World Federation for Mental Health (WFMH) by the organization's then Deputy Secretary General, Richard Hunter. WFMH itself is older, founded in 1948 in the same postwar wave as the United Nations and the World Health Organization; Wikipedia's article on the federation names G. Brock Chisholm, the WHO's first Director-General and a psychiatrist, as one of the leaders who formed it. In the new day's first two years it carried no specific theme, only the general goals of promoting mental health advocacy and public education. Its central activity, a two-hour telecast broadcast globally by satellite from studios in Tallahassee, Florida, ran for three years by secondary accounts, spanning that untitled stretch and the year the first theme arrived; WFMH board members appeared in the studio, with live telephone participation from Australia, Chile, England, and Zambia, plus an unscheduled call-in from a group of WFMH members in Swaziland and the first of many feedback reports arriving from Peru that year. WFMH adopted its first official theme in 1994, at the suggestion of then Secretary General Eugene Brody: \"Improving the Quality of Mental Health Services throughout the World.\"",
+      "source": {
+        "label": "LinkedIn — \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
+        "url": "https://www.linkedin.com/pulse/world-mental-health-day-history-julie-millard"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What World Mental Health Day is",
+        "body": [
+          "World Mental Health Day is an annual observance held every October 10, organized around a theme the World Federation for Mental Health (WFMH) sets each year. WFMH is the sponsoring body; the World Health Organization (WHO) supports the day by raising awareness through its relationships with health ministries and civil-society organizations around the world, and by developing technical and communication material, without being the day's founding organization itself.",
+          "The day functions as a coordination point rather than a single event: national governments, health charities, employers, and advocacy groups each run their own campaigns, talks, and fundraisers under it, loosely tied together by that year's shared theme."
+        ]
+      },
+      {
+        "heading": "The 1992 origin, and the founder most calendar sites leave out",
+        "body": [
+          "WFMH is older than the day it created. The organization was founded in 1948, in the same postwar wave of international bodies as the United Nations and the WHO. Wikipedia's article on the federation credits G. Brock Chisholm, the WHO's first Director-General and himself a psychiatrist, as one of the leaders who formed it, with a founding document titled \"Mental Health and World Citizenship.\"",
+          "World Mental Health Day itself came 44 years later. It was first observed on October 10, 1992, started as an annual WFMH activity by the organization's then Deputy Secretary General, Richard Hunter. That founder's name is missing from most calendar and awareness-day sites, which tend to credit the day to WFMH as an institution without naming who inside it actually started it.",
+          "The day had no specific theme for its first two years, only general goals of promoting mental health advocacy and public education. Its signature activity in that stretch was a two-hour telecast, broadcast globally by satellite from studios in Tallahassee, Florida, with WFMH board members in the studio and live telephone participation from Australia, Chile, England, and Zambia. One account of that first broadcast, collated by WFMH historian Michael Burge OAM, notes an unscheduled call-in from a group of WFMH members watching in Swaziland, and the first of what became many annual feedback reports arriving from Peru that same year.",
+          "WFMH adopted its first official theme in 1994, at the suggestion of then Secretary General Eugene Brody: \"Improving the Quality of Mental Health Services throughout the World.\" Every theme since has followed that pattern, a single sentence WFMH sets ahead of each October 10."
+        ]
+      },
+      {
+        "heading": "Two other dates get confused with this one, and neither shares a founder",
+        "body": [
+          "World Mental Health Day sits inside a six-week stretch that contains two other, separately founded mental-health observances, and the three are routinely mixed up in casual writing despite having nothing organizationally in common.",
+          "Mental Illness Awareness Week runs every year during the first full week of October, established in 1990 to recognize the U.S. National Alliance on Mental Illness's (NAMI) education and advocacy work. Unlike World Mental Health Day, it is a United States-only observance, run by a different organization, founded two years earlier. Wikipedia's own article on the week lists World Mental Health Day among the campaigns it \"coincides with,\" which is a fair description of the overlap: adjacent in the calendar, unrelated in origin.",
+          "World Suicide Prevention Day, covered in more detail on this site's page about [National Suicide Prevention Month](/suicide-prevention-month/), falls on September 10, a full month before World Mental Health Day, and was created in 2003 by the International Association for Suicide Prevention with the WHO as co-sponsor, eleven years after WFMH's day and by an entirely different pair of organizations.",
+          "Line the three up and the pattern is that no two of them share a founding organization, a founding year, or even a country of origin. World Mental Health Day is both the oldest of the three and the only one that was global from its first observance."
+        ]
+      },
+      {
+        "heading": "What the day has actually driven, beyond awareness",
+        "body": [
+          "Most years produce talks and social-media campaigns rather than policy changes, but Wikipedia's article on the day records one concrete exception: on World Mental Health Day 2018, while the UK government hosted the first-ever global mental health summit, Prime Minister Theresa May appointed Jackie Doyle-Price as the United Kingdom's first suicide prevention minister, a cabinet-adjacent role created and announced to coincide with that year's observance.",
+          "WFMH's own claimed global reach is one point where two of Wikipedia's own pages disagree with each other. The article on World Mental Health Day describes WFMH as having \"members and contacts in more than 150 countries,\" while Wikipedia's separate article on the federation itself states \"more than 94 countries on six continents.\" Neither figure links to a dated primary count from WFMH, so this page is not picking one over the other; both numbers exist in the record, undated and unreconciled."
+        ]
+      },
+      {
+        "heading": "The 2026 theme, and how the annual theme actually works",
+        "body": [
+          "WFMH has set a new theme for World Mental Health Day every year since 1994, and two independent mental-health charities, the UK's Mental Health Foundation and United for Global Mental Health, both state the 2026 theme as WFMH's, though they render its wording slightly differently: the Mental Health Foundation writes it as \"Lived experiences heard: Real voices, real change,\" while United for Global Mental Health capitalizes it as \"Lived Experience Heard: Real Voices, Real Change,\" with the noun singular rather than plural. This page tried to confirm the exact wording directly against WFMH's own campaign page, which returned a security-verification screen rather than readable content, so the theme here is sourced to those two independent secondary organizations rather than to WFMH's own site.",
+          "United for Global Mental Health's own description of the process notes that WFMH sets the day's official theme, while other bodies, including the WHO and UNICEF, sometimes develop their own complementary messaging alongside it in a given year, which is part of why the exact wording in circulation can vary by source even when everyone is describing the same year's theme."
+        ]
+      },
+      {
+        "heading": "Where this sits next to other awareness observances on this site",
+        "body": [
+          "This site has now checked the founding record behind several health-related observances, and World Mental Health Day's is unusually solid by comparison: a named founder, a named founding organization, and a specific year, all corroborated by two independent sources rather than resting on a single account.",
+          "[National Suicide Prevention Month](/suicide-prevention-month/) covers the more specific September observance that sits a month earlier on the calendar and has never become U.S. federal law, unlike this day's international standing. [Movember](/movember/) eventually added mental health and suicide prevention as one of its three funded causes in 2006, fourteen years after WFMH had already established a day dedicated to the subject worldwide. [ADHD Awareness Month](/adhd-awareness-month/) shows the more typical pattern for U.S. awareness observances, a run of Senate resolutions that simply stopped being introduced after five years, a level of institutional follow-through this day's founding record does not need, because it never depended on a legislature to begin with."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who founded World Mental Health Day, and when?",
+        "answer": "Richard Hunter, then the World Federation for Mental Health's (WFMH) Deputy Secretary General, started it as an annual WFMH activity on October 10, 1992. WFMH itself was founded earlier, in 1948, in the same postwar wave as the United Nations and the World Health Organization."
+      },
+      {
+        "question": "Is World Mental Health Day the same as Mental Illness Awareness Week?",
+        "answer": "No. Mental Illness Awareness Week runs during the first full week of October and was established in 1990 by the U.S. National Alliance on Mental Illness (NAMI) as a United States-only observance. World Mental Health Day is a separate, worldwide observance founded two years later, in 1992, by WFMH. Wikipedia's article on the week lists World Mental Health Day among the campaigns it coincides with, but the two have never shared an organization or a founder."
+      },
+      {
+        "question": "Is World Mental Health Day the same as World Suicide Prevention Day?",
+        "answer": "No. World Suicide Prevention Day falls on September 10, a month earlier, and was created in 2003 by the International Association for Suicide Prevention with the World Health Organization as co-sponsor, eleven years after WFMH first held World Mental Health Day. The two address related but distinct scopes: suicide prevention specifically, versus mental health broadly."
+      },
+      {
+        "question": "What is the theme for World Mental Health Day in 2026?",
+        "answer": "Two independent mental-health charities, the UK's Mental Health Foundation and United for Global Mental Health, both attribute the 2026 theme to WFMH, though they word it slightly differently: \"Lived experiences heard: Real voices, real change\" versus \"Lived Experience Heard: Real Voices, Real Change.\" WFMH's own campaign page returned a security-verification screen when this page tried to confirm the exact wording directly, so it is sourced to those two secondary organizations rather than to WFMH's site."
+      },
+      {
+        "question": "Does the World Health Organization run World Mental Health Day?",
+        "answer": "No. The World Federation for Mental Health founded and runs the day. The WHO supports it by raising awareness through its relationships with health ministries and civil-society groups worldwide and by developing technical and communication material, a supporting role rather than a founding one."
+      },
+      {
+        "question": "What happened on World Mental Health Day 2018 in the UK?",
+        "answer": "Prime Minister Theresa May appointed Jackie Doyle-Price as the United Kingdom's first suicide prevention minister, timed to that year's observance, while the UK government simultaneously hosted the first-ever global mental health summit."
+      },
+      {
+        "question": "How many countries does the World Federation for Mental Health actually reach?",
+        "answer": "Sources disagree. Wikipedia's article on World Mental Health Day states WFMH has members and contacts in more than 150 countries, while Wikipedia's separate article on WFMH itself states more than 94 countries on six continents. Neither figure links to a dated primary count, so this page reports both rather than choosing one."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — World Mental Health Day",
+        "url": "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
+      },
+      {
+        "label": "Wikipedia — World Federation for Mental Health",
+        "url": "https://en.wikipedia.org/wiki/World_Federation_for_Mental_Health"
+      },
+      {
+        "label": "LinkedIn — \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
+        "url": "https://www.linkedin.com/pulse/world-mental-health-day-history-julie-millard"
+      },
+      {
+        "label": "Wikipedia — Mental Illness Awareness Week",
+        "url": "https://en.wikipedia.org/wiki/Mental_Illness_Awareness_Week"
+      },
+      {
+        "label": "World Health Organization — World Suicide Prevention Day campaign page",
+        "url": "https://www.who.int/campaigns/world-suicide-prevention-day"
+      },
+      {
+        "label": "Mental Health Foundation (UK) — World Mental Health Day, 2026 theme",
+        "url": "https://www.mentalhealth.org.uk/our-work/campaigns/world-mental-health-day"
+      },
+      {
+        "label": "United for Global Mental Health — World Mental Health Day 2026",
+        "url": "https://unitedgmh.org/world-mental-health-day/"
+      }
+    ],
+    "image": "/images/world-mental-health-day-compare.svg",
+    "imageAlt": "Timeline comparing three mental-health observances inside six weeks: World Suicide Prevention Day on September 10 (founded 2003 by IASP and WHO), Mental Illness Awareness Week in the first full week of October (founded 1990 by NAMI, U.S. only), and World Mental Health Day on October 10 (founded 1992 by the World Federation for Mental Health, worldwide)"
   }
 ];
 

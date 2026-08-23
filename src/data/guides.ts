@@ -7487,6 +7487,132 @@ export const guides: Guide[] = [
     "image": "/images/mexican-independence-day.jpg",
     "imageAlt": "The original Bell of Dolores, moved from Hidalgo's parish church to Mexico City's National Palace, where the president rings it each September 15",
     "imageCredit": "Luicheto, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campana_de_Dolores_en_el_nicho_de_Palacio_Nacional.JPG)"
+  },
+  {
+    "slug": "1994-chinese-zodiac",
+    "category": "Chinese Zodiac",
+    "title": "1994 Chinese Zodiac: Wood Dog, But Only After February 10",
+    "description": "1994 is the Year of the Wood Dog in the Chinese zodiac, but the lunar year didn't start until February 10. Anyone born earlier that January is a Rooster.",
+    "published": "2026-08-22",
+    "updated": "2026-08-22",
+    "coreSummary": "1994 is the Year of the Wood Dog, running from February 10, 1994 through January 30, 1995 according to the Hong Kong Observatory's own Gregorian-lunar conversion table. Anyone born between January 1 and February 9, 1994, before that boundary, was actually born under the preceding year, Water Rooster, a distinction that at least one widely used celebrity zodiac list gets wrong.",
+    "sections": [
+      {
+        "heading": "The Wood Dog year starts February 10, not January 1",
+        "body": [
+          "Chinese zodiac years follow the lunar calendar, so the \"1994 zodiac year\" doesn't line up with the 365 days most people picture when they see the number 1994. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table, the government's own reference for converting between the two calendars, labels the relevant lunar year Jia-Xu (甲戌) and marks February 10, 1994 as the first day of the first lunar month, the actual start of the new year.",
+          "The year doesn't end on December 31 either. The Observatory's table for the following year shows the twelfth and final lunar month of Jia-Xu running out on January 30, 1995; the next day, January 31, opens the following lunar year, Yi-Hai (乙亥), Wood Pig. That puts the full Wood Dog window at February 10, 1994 through January 30, 1995, about forty days short of the calendar year of the same name. Anyone born January 1 through February 9, 1994 falls before that boundary and belongs to the outgoing year instead, Gui-You (癸酉), Water Rooster, confirmed by the Observatory's own 1993 table."
+        ],
+        "image": {
+          "src": "/images/1994-chinese-zodiac-dog-figure.jpg",
+          "alt": "Qing dynasty porcelain figure of a dog from a set of the twelve Chinese zodiac animals, Kangxi period",
+          "credit": "The Metropolitan Museum of Art, [Zodiac figure: dog](https://www.metmuseum.org/art/collection/search/44683), Kangxi period (1662–1722), public domain"
+        }
+      },
+      {
+        "heading": "A widely used celebrity zodiac list gets one of its own examples wrong",
+        "body": [
+          "That nine-day gap between January 1 and the February 10 cutoff isn't just a technicality. Three musicians and actors born in early 1994 land on opposite sides of it. Justin Bieber, born March 1, 1994, and Dakota Fanning, born February 23, 1994, were both born well after the boundary and are correctly Wood Dogs. Harry Styles, born February 1, 1994, was born nine days before it, which makes him a Water Rooster by the same Observatory table, not a Dog.",
+          "Famous Birthdays' own \"1994 Chinese Zodiac | Wood Dog\" roundup page lists Harry Styles among the year's Dog-sign celebrities regardless. It's an easy mistake to make at scale: most celebrity-zodiac roundups map a birth year straight onto a zodiac animal without checking whether a given birthday falls before or after that specific year's lunar new year, which shifts by roughly a month from one year to the next and can land anywhere from late January to mid-February. A page built that way will misclassify anyone whose birthday falls before that particular year's own lunar new year, whenever in that January-to-mid-February range it happens to land; Styles's entry is one visible instance of it."
+        ]
+      },
+      {
+        "heading": "Wood, not Fire, Earth, Metal, or Water: why the element matters",
+        "body": [
+          "\"Chinese zodiac\" usually gets shortened to just the animal, but the traditional calendar assigns two labels to every year: an animal from a twelve-year cycle and an element from a five-element cycle, with each element covering two consecutive years, once in a yang form and once in yin. A ten-position stem cycle carries the five elements; a twelve-position branch cycle carries the animals. The two only realign every 60 years, the sexagenary cycle. 1994's stem is Jia, yang wood; its branch is Xu, the Dog.",
+          "That's why \"Dog year\" alone leaves out real information. 1958 was also a Dog year, but its stem was Wu, yang earth, making it an Earth Dog. 2006 was Bing-Xu, Fire Dog. The Western zodiac's [Scorpio](/scorpio-dates/) doesn't carry this kind of second layer; a Scorpio is a Scorpio no matter which year they're born in. The exact pairing Jia-Xu, Wood Dog, last occurred in 1934 and doesn't come around again until 2054; every other Dog year on the calendar between those two dates carries a different element."
+        ]
+      },
+      {
+        "heading": "What the tradition says about a Wood Dog's temperament",
+        "body": [
+          "The animal Dog carries a fixed reputation across Chinese zodiac writing no matter which element attaches to it: loyalty, honesty, and an outsized sense of justice, the same traits China Highlights' zodiac guide and similar references repeat for every Dog year regardless of decade. Wood, in this pairing, is usually described as an amplifying influence rather than a personality of its own, adding imagination, sociability, and a pull toward close, dependable friendships on top of the Dog's baseline loyalty.",
+          "The trade-off those same sources describe is emotional reserve: Wood Dogs are often characterized as slow to open up, more likely to demonstrate loyalty through consistent action than through talking about how they feel, and prone to stubbornness once they've settled on a position. None of this amounts to a verifiable claim about any specific person born in 1994. It's inherited folk characterization, the same standing as a Western sun-sign description, not a finding about any individual."
+        ]
+      },
+      {
+        "heading": "Compatibility, where even the popular charts disagree",
+        "body": [
+          "Chinese astrology groups the twelve animals into four three-animal \"trines,\" sets said to share values and cooperate easily. The Dog's trine partners are Tiger and Horse, a pairing repeated consistently across zodiac compatibility references.",
+          "Which animal counts as the Dog's hardest match is far less settled. One widely used compatibility chart lists Rooster as the Dog's single worst match while filing Dragon separately under a softer \"opposites attract\" category; other zodiac write-ups describe Dragon and Dog as one of the tradition's classic clashing pairs instead. The two framings don't agree with each other, and no governing body adjudicates between them the way the Hong Kong Observatory adjudicates a lunar year boundary. This site has run into the same kind of unresolved disagreement before, in the trade-group lists compiled on the [birthstones by month](/birthstones-by-month/) reference page, where even official sources don't always match. Whichever pairing a given site names as the Dog's opposite, it's folklore with a disputed source, not a settled ruling."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What Chinese zodiac sign is 1994?",
+        "answer": "The Wood Dog, but only from February 10, 1994 onward. The Hong Kong Observatory's own Gregorian-lunar conversion table marks that date as the first day of the lunar year Jia-Xu, which runs through January 30, 1995."
+      },
+      {
+        "question": "Was Harry Styles really born in the Year of the Dog?",
+        "answer": "No, by the Hong Kong Observatory's own calendar boundary. He was born February 1, 1994, nine days before that year's lunar new year on February 10, which places him in the preceding year, Water Rooster, instead. Famous Birthdays' \"1994 Chinese Zodiac | Wood Dog\" page lists him as a Dog anyway."
+      },
+      {
+        "question": "What if I was born in January 1994?",
+        "answer": "Anyone born January 1 through February 9, 1994 was born before that year's lunar new year and belongs to the preceding zodiac year, Gui-You, Water Rooster, per the Hong Kong Observatory's 1993 conversion table, not the Wood Dog."
+      },
+      {
+        "question": "Why is 1994 called the \"Wood\" Dog instead of just \"the Dog\"?",
+        "answer": "Because the traditional calendar pairs each of the twelve zodiac animals with one of five elements, cycling through wood, fire, earth, metal, and water two years at a time. 1994's element is wood; other Dog years carry different elements, such as 1958's Earth Dog or 2006's Fire Dog."
+      },
+      {
+        "question": "When is the next Wood Dog year?",
+        "answer": "2054. The specific pairing of wood with the Dog only recurs every 60 years, the length of the full sexagenary cycle. The previous Wood Dog year was 1934."
+      },
+      {
+        "question": "Is the Dog compatible with the Dragon in Chinese astrology?",
+        "answer": "Sources disagree. One widely used compatibility chart lists Rooster, not Dragon, as the Dog's worst match, filing Dragon under a separate \"opposites attract\" category, while other zodiac references describe Dragon and Dog as a classic clashing pair. There's no single authority that settles which framing is correct."
+      },
+      {
+        "question": "Is Chinese New Year always in February?",
+        "answer": "No. Unlike a Western sign such as [Virgo](/virgo-dates/), whose date range barely shifts year to year, the Chinese new year's date swings by roughly a month depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1994 new year fell on February 10, but 1993's fell on January 23, per the Hong Kong Observatory's own tables for those years."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1994 (Jia-xu, year of the Dog)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1994e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1995 (Yi-hai, year of the Pig)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1995e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1993e.pdf"
+      },
+      {
+        "label": "The Metropolitan Museum of Art — Zodiac figure: dog",
+        "url": "https://www.metmuseum.org/art/collection/search/44683"
+      },
+      {
+        "label": "Wikipedia — Harry Styles",
+        "url": "https://en.wikipedia.org/wiki/Harry_Styles"
+      },
+      {
+        "label": "Wikipedia — Justin Bieber",
+        "url": "https://en.wikipedia.org/wiki/Justin_Bieber"
+      },
+      {
+        "label": "Wikipedia — Dakota Fanning",
+        "url": "https://en.wikipedia.org/wiki/Dakota_Fanning"
+      },
+      {
+        "label": "Famous Birthdays — 1994 Chinese Zodiac | Wood Dog",
+        "url": "https://www.famousbirthdays.com/zodiac/1994.html"
+      },
+      {
+        "label": "China Highlights — Chinese Zodiac Dog",
+        "url": "https://www.chinahighlights.com/travelguide/chinese-zodiac/dog.htm"
+      },
+      {
+        "label": "Chinese New Year (chinesenewyear.net) — Chinese Zodiac Compatibility",
+        "url": "https://chinesenewyear.net/zodiac/compatibility/"
+      }
+    ],
+    "image": "/images/1994-chinese-zodiac-dog-figure.jpg",
+    "imageAlt": "Qing dynasty porcelain figure of a dog from a set of the twelve Chinese zodiac animals, Kangxi period",
+    "imageCredit": "The Metropolitan Museum of Art, [Zodiac figure: dog](https://www.metmuseum.org/art/collection/search/44683), Kangxi period (1662–1722), public domain"
   }
 ];
 

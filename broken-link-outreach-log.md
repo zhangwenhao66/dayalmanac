@@ -183,3 +183,47 @@ Red Ribbon Week 方向的教师资源合集（teachersfirst等）外链密度不
 
 1. 本轮候选池（图书馆LibGuides、社媒观察日roundup、生辰石/星座起源站）死链密度不低（19/22页有DEAD），但主题匹配率为0——DayAlmanac当前46篇覆盖的节日集合较窄，跟这类"全量观察日/特殊日子"合集页的重合度低，跟历次教训一致（本站定位偏"重点节日深度求证"而非"大而全罗列"）。下次或可换角度：直接搜索本站已发布的具体节日名（如"National Bosses Day resources""National Coffee Day sources"）而非泛主题合集，命中率可能更高。
 2. 三个失败页面（uri.libguides.com holidays/refbooks 两条子页、sunybroome.libguides.com）返回404但域名本身应该还在，可能是LibGuides平台重新组织了URL结构，下次可先搜索该库的最新holidays指南入口再排查。
+
+---
+
+## 2026-08-24（第五次运行）
+
+第一部分（核实10天前旧pitch）本轮已由上层会话统一处理完毕：DayAlmanac唯一的历史pitch icalendars.net已在8/21验证+跟进过，本轮无新的10天以上未验证记录，本次运行只做第二部分。
+
+### 1.5 竞品外链缺口分析
+
+`dataforseo_query.py backlinks nationaltoday.com --mode one_per_domain --limit 80` 复查（第三次）。结果结构与8/16、8/21两轮完全一致：自家`scholaroo.nationaltoday.com`子域名、大量`*.pages.dev`镜像站群、`?google_redirect&`垃圾参数链接、零散单篇文章引用（如`rodserling.com`链接自己的Twilight Zone官方站、`petplace.com`引用International Doodle Dog Day）——没有资源合集/roundup页面可作为断链置换目标。三轮抽样结论一致，本条方法论局限已确认稳定，不再是本站的机会来源。
+
+### 第1-5步：候选资源页扫描
+
+延续08-21遗留建议的"直接搜索本站已发布具体节日名"方向，本轮换了8个新角度深挖，逐一记录：
+
+| 候选方向 | 结果 |
+|---|---|
+| icalendars.net 其他已发布节日页（coffee/cat/dog/taco/sons/daughters/boyfriend/pirate/smile/mens/kindness/hispanic-heritage/no-shave/movember/teachers/mental-health/guacamole/mexican-independence 共18个slug试探） | 全部404——`icalendars.net/celebrations/`目录内容有限（sitemap.xml里根本不含celebrations路径，说明该栏目非独立sitemap收录，只能从站内互链发现），已发现的节日集合与本站不重合，方向耗尽 |
+| Grokipedia（AI百科）对应词条（International_Men's_Day/World_Kindness_Day/Movember 三个存在的页面，另10个不存在） | International Men's Day词条外链数十条（多为学术论文/政府数据/NGO站点），未逐条探测——AI自动生成百科没有可联系的人类编辑/勘误渠道，即使查到死链也无法执行"联系维护者"这一步，判定不可行，未继续深挖 |
+| holidayinsights.com 对应节日页（grandparents/cat/dog/taco/pirate/smile/kindness 共7页，通过301跳转找到真实URL） | 用`broken_link_scan.py`扫描：仅1条初判DEAD（`nationaldogday.com`，DNS解析失败），但用curl交叉核实后确认是**扫描工具在本次沙箱环境下的假阳性**——`dig`/Python`socket.gethostbyname`在本环境对任意域名都连接超时（含已知存活域名），而curl（走环境配置的HTTP CONNECT代理）能正常解析；curl实测`nationaldogday.com`返回完整Wix站点内容（标题"National Dog Day \| Celebrating Dogs"），确认存活，非死链。该页面其余出站链接全部是无关的园艺/万圣节南瓜网站互相导流（chinaunique.com/gardenersnet.com/pumpkinnook.com），即使有死链也不会是本站可用的替换素材 |
+| Framingham State University Whittemore Library "Awareness Months" LibGuides（adhd-awareness、domstic-violence-awareness-month，对应本站已发布的ADHD/Domestic Violence两篇） | 出站链接均指向CHADD/ADD.org/NIH/NCADV/TheHotline等大型常青机构网站，`broken_link_scan.py`扫描0条DEAD，仅SSL超时/403两类SOFT，符合"机构维护良好、死链密度低"的预期，非候选 |
+| Kean University Cancer Awareness LibGuides（BreastCancer、Lung，对应本站已发布的Breast/Lung Cancer Awareness Month） | 出站链接以校内代理登录链接、EBSCO/ProQuest付费数据库为主，`broken_link_scan.py`扫描0条DEAD；仅有的两条政府PDF/govinfo链接即使失效也是临床治疗资源，跟本站"这个月份是怎么来的"选题不对应，非候选 |
+| programminglibrarian.org "Hispanic Heritage Month Resource Round-Up"（对应本站已发布National Hispanic Heritage Month） | 见下方"发现的失效链接"——本轮唯一命中真实404，但主题不匹配 |
+| RVCC/Penn Libraries 的Cancer Awareness/Breast Cancer专题LibGuides | RVCC页面出站链接全部是WorldCat书目检索（非外部引用），Penn页面正文内容为空（可能走AJAX局部加载，curl抓不到），均非候选 |
+| dayspedia.com（另一同类holiday数据库，checkiday同类站） | 猜测的URL slug结构（`/us/calendar/holiday/<slug>/`）全部404，该站用数字ID而非可读slug，无法直接定位到已发布节日对应页，本轮未继续深挖 |
+| 生辰石/生辰花/星座图表类"引用列表"页搜索（birthstone chart references、birth flower chart sources、zodiac dates chart citations） | 搜到的全部是珠宝/花卉电商自有内容页，没有一个是"列出外部引用来源"的资源合集结构，跟icalendars.net/checkiday.com那类"Sources"区块模板完全不同，此方向本身不成立，放弃 |
+
+### 发现的真实失效链接（1条，主题不匹配，未采用）
+
+**http://oral.history.ufl.edu/projects/latinao-diaspora-in-the-americas-project/**（programminglibrarian.org "Hispanic Heritage Month Resource Round-Up"页面引用）→ curl复核确认经过两次301跳转（先到自身https版本，再被站内redirection插件转到`/latinx-diaspora-in-the-americas-project/`），最终落地页返回干净HTTP 404（nginx正常响应头，非WAF拦截）。符合"真实确认失效"标准。**但主题不对应**：该链接指向UF口述历史项目关于"拉美裔离散群体口述史"的研究专题，本站对应文章"National Hispanic Heritage Month: Signed 1988, Proclaimed 1989"讲的是该纪念月的立法/总统公告历史，两者主题错位（研究项目 vs 节日本身的法律沿革），换成本站文章会显得文不对题，按硬性规则2放弃。
+
+### 排除的误报
+
+同历史纪律：403(WAF)、超时、5xx、SSL握手失败一律不计为DEAD。本轮新增一条方法论记录：**`broken_link_scan.py`在本次会话的沙箱网络环境下，DNS预检查（`socket.gethostbyname`）对几乎所有域名都会连接超时**（`dig @8.8.8.8`/`@1.1.1.1`同样对任意域名超时，含已知存活域名），导致脚本把"DNS解析失败"错误地标记为DEAD——本轮工具报告的另一条"DEAD"（`attend.ocls.info/event/11169641`，同样是DNS解析失败判定）经curl交叉验证后确认是301跳转到`attend.ocls.org`的正常存活页面，同一假阳性模式。**这不是这两个域名本身的问题，是本环境DNS查询路径的问题**（curl走的是环境配置的HTTP CONNECT代理能正常连接，dig/socket走的是直连DNS端口会超时）。本轮已对工具报告的每一条DEAD做curl交叉验证后才采信，未受影响；但如果未来某次运行里`socket`/`dig`环境限制被放开（换了沙箱），`broken_link_scan.py`的DNS预检查逻辑本身没有问题，是本次环境的暂时限制，不需要改动脚本。
+
+### 处理结果
+
+**本轮全部放弃，未发出任何新邮件。** 3个方向（icalendars.net其他页、8家图书馆/大学LibGuides、dayspedia.com、生辰石花星座图表类）系统性排查后均未找到"真实DEAD + 主题真实对应"的候选；唯一命中的真实404（UF口述历史项目页）主题不匹配，如实放弃，不硬凑。
+
+### 遗留待办
+
+1. Grokipedia的International Men's Day/World Kindness Day/Movember三个词条本身外链密度可能不低，但由于AI自动生成百科没有可联系的人类维护者，即使找到死链也无法执行"联系页面维护者"这一步——**这类候选源本身不适合本任务的操作模式（邮件外联），以后遇到同类AI百科/自动聚合站点可以直接跳过，不必逐条探测浪费预算**。
+2. Checkiday.com的national-dog-day页面（Sources区块nationaldogday.com）14天冷却期将于2026-08-30到期（8/16首次联系），到期后如果想继续挖同域名，注意nationaldogday.com本身已确认是存活的Wix站点（08-21标注"多次超时无法判定"的结论应更新——本轮用curl通过环境代理已能正常连接并确认存活），checkiday对该页的引用不构成断链候选，无需再单独核实这一条。
+3. 本轮确认的方法论教训：DayAlmanac定位"深度求证少数重点节日"与市面"大而全节日数据库/roundup"存在结构性覆盖错位——死链密度高的资源页覆盖的节日本站大多没有，本站已发布节日对应的资源页又多由大机构（政府/高校/全国性NGO）维护、死链率天然低。连续两轮（08-21、08-24）用不同角度验证了同一结论，如果下次运行还是从"找资源页"入手大概率继续无功而返，或可考虑改变策略方向（如等第4条"纪念日礼物清单"或第5条"生辰石生辰花大师参考图"等linkable asset做出来后，改用"资产型外链"打法而非纯断链置换）。

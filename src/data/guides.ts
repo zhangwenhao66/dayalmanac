@@ -7903,6 +7903,122 @@ export const guides: Guide[] = [
     "image": "/images/national-guacamole-day.jpg",
     "imageAlt": "Guacamole served in a traditional stone molcajete at a Mexican restaurant",
     "imageCredit": "Missvain (Sarah Stierch), CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lindo_Mexico_II_-_November_3_2023_-_Sarah_Stierch_02.jpg)"
+  },
+  {
+    "slug": "gemini-birthstone",
+    "category": "Birthstones",
+    "title": "Gemini Birthstone: Pearl and Alexandrite, Not 1913's Agate",
+    "description": "Pearl and alexandrite are sold as Gemini's birthstones, but that's June's list. The zodiac table those claims trace to actually names agate for Gemini.",
+    "published": "2026-08-24",
+    "updated": "2026-08-24",
+    "coreSummary": "Pearl, alexandrite, and moonstone are June's three official birthstones under the modern Jewelers of America chart, and retailers market the first two as \"Gemini's birthstones\" simply because Gemini's date range falls mostly inside June. The historical zodiac-stone table traced to gemologist George Kunz's 1913 research, reproduced on Wikipedia, assigns Gemini a different stone entirely: agate.",
+    "sections": [
+      {
+        "heading": "June's three birthstones, relabeled for Gemini",
+        "body": [
+          "Jewelers of America's current chart lists three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own breakdown of that chart](/birthstones-by-month/), June ties only with December for the most stones on Jewelers of America's list; most other months carry just one or two. Pearl is the original entry, dating to the first standardized US list adopted at the 1912 Kansas City meeting. Alexandrite was added in 1952, when the Jewelry Industry Council of America revised that original list.",
+          "Gemini's date range runs May 21 to June 20, so most of the sign sits inside June rather than May. Jewelry retailers and astrology-adjacent sites take that overlap and simply relabel June's month stones \"Gemini's birthstones,\" and pearl and alexandrite show up on page after page under that heading. That's a marketing shortcut built on the calendar, not a separate zodiac-specific stone tradition. The stone that actual zodiac-stone research assigns to Gemini, covered further down this page, is a different mineral altogether. (June babies also have [a birth flower of their own](/june-birth-flower/), tracked separately from birthstones.)"
+        ]
+      },
+      {
+        "heading": "Pearl: the birthstone with no crystal to cut",
+        "body": [
+          "Every other gem on this site's birthstone pages is a mineral, cut and faceted from crystal. Pearl is not. GIA classifies it as an organic gem, the only birthstone formed inside a living creature: a mollusk (an oyster or a mussel) secretes a substance called nacre around an irritant, such as a grain of sand, lodged in its shell, and the pearl builds up in layers from there. Centuries of pearl fishing depleted natural pearl beds enough that cultured pearls, produced on farms where technicians implant the irritant deliberately, now account for the large majority of pearls sold.",
+          "One pearl carries a documented history unusual even by royal-jewelry standards. La Peregrina, a 50.56-carat pear-shaped natural pearl, was found off Panama's Pearl Islands in 1513 and passed through the Spanish crown and English royalty (Philip II gave it to Queen Mary I of England as a wedding gift in 1554) before Richard Burton bought it at a 1969 Sotheby's London auction for $37,000 and gave it to Elizabeth Taylor as a Valentine's Day gift. Taylor had Cartier set it into a ruby, diamond, and pearl necklace; Christie's New York auctioned that necklace in December 2011 for $11.8 million, the highest price ever paid for pearl jewelry at auction, a figure independently reported by outlets from NPR to France 24."
+        ]
+      },
+      {
+        "heading": "Alexandrite: a color caused by chromium, and a discovery credited to the wrong man",
+        "body": [
+          "Alexandrite is a color-change variety of the mineral chrysoberyl: green to bluish-green in daylight, shifting to red to purplish-red under incandescent light. The mechanism isn't decorative: chromium ions replace some of the aluminum in the crystal's structure, and that substitution absorbs a narrow band of yellow light, which is what makes the perceived color swing so sharply between daylight and incandescent bulbs. A 2020 peer-reviewed study in Scientific Reports worked out the absorption physics behind the effect in detail.",
+          "The standard account credits the discovery to Finnish mineralogist Nils Gustaf Nordenskiöld, working from a mineral sample pulled from an emerald mine near Russia's Tokovaya River in the Ural Mountains in the 1830s, who named the new gem after the future Tsar Alexander II because its red-and-green color change echoed Imperial Russia's military colors. Wikipedia's sourced account adds a wrinkle most retail pages skip: citing gem historian Richard Wise's 2016 book Secrets of the Gem Trade, it notes that recent research credits the actual find to mine supervisor Yakov Kokovin instead, with Nordenskiöld only identifying and naming the stone afterward.",
+          "The original Ural deposit is long exhausted. Most alexandrite sold today comes from Brazil, Sri Lanka, and East Africa, and per GIA those newer sources tend to show a less precise color change and muddier hues than the nineteenth-century Russian stones, which remain the quality benchmark the trade still measures against."
+        ],
+        "image": {
+          "src": "/images/gemini-birthstone-alexandrite.jpg",
+          "alt": "The same 26.75-carat alexandrite gemstone photographed twice, appearing bluish-green in daylight on the left and purplish-red under incandescent light on the right",
+          "credit": "Photo by David Weinberg, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexandrite_26.75cts.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "Moonstone: named by a Roman who thought it tracked the moon's phases",
+        "body": [
+          "Moonstone is the best-known gem of the feldspar mineral group, prized for adularescence, the billowing light that seems to move across the stone as it's turned. Roman natural historian Pliny the Elder is credited with naming it, and GIA notes he wrote that its shimmer shifted with the Moon's own phases, a claim gemology has since retired, though the name stuck regardless.",
+          "Moonstone's biggest cultural moment came during the Art Nouveau period, roughly the 1890s through the 1910s, when designers including René Lalique and Louis Comfort Tiffany worked it into fine jewelry. It resurfaced twice more, with the 1960s \"flower child\" movement and again with New Age jewelry design in the 1990s. Today's main sources are India and Sri Lanka, with smaller deposits in Brazil, Madagascar, Myanmar, and Tanzania."
+        ]
+      },
+      {
+        "heading": "The actual 1913 zodiac table says agate, not any of June's three stones",
+        "body": [
+          "None of the three stones above come from a dedicated zodiac-stone tradition; they're June's month stones, borrowed instead. The documented zodiac-stone table traces to gemologist George Frederick Kunz's 1913 research, which pairs each tropical-zodiac sign with a single stone and a date range; Wikipedia's Birthstone article reproduces that table directly. For Gemini, spanning May 21 to June 20, Kunz's table names a single stone: agate, matching none of June's three month stones.",
+          "That mismatch follows a pattern this site has already documented twice. [January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat. Gemini's entry follows the same shape: a century-old, documented primary source and the version that circulates on retail pages simply don't match, and most pages selling \"Gemini birthstone\" jewelry never mention the table exists.",
+          "Agate itself is a banded variety of chalcedony, a microcrystalline form of quartz. It forms when silica-rich groundwater seeps into gas cavities left behind in cooling volcanic rock, crystallizing in layers that read as bands once the stone is cut and polished. Structurally and historically, it has nothing in common with pearl, alexandrite, or moonstone. It belongs to a separate tradition that most modern \"Gemini birthstone\" content leaves out entirely."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Gemini's birthstone?",
+        "answer": "Pearl and alexandrite are the two stones most commonly marketed as \"Gemini's birthstones,\" borrowed from June's Jewelers of America chart, which also includes moonstone as a third June stone. The documented historical zodiac-stone table, however, assigns Gemini a different stone: agate."
+      },
+      {
+        "question": "Why do jewelry sites call pearl and alexandrite \"Gemini's birthstones\"?",
+        "answer": "Because Gemini's date range, May 21 to June 20, falls mostly inside June, retailers relabel June's month-birthstone list rather than drawing from a dedicated zodiac-stone tradition."
+      },
+      {
+        "question": "What does the actual zodiac birthstone table say Gemini's stone is?",
+        "answer": "Agate. Gemologist George Frederick Kunz's 1913 research assigned each tropical-zodiac sign a single stone, and Wikipedia's Birthstone article reproduces that table; for Gemini it names agate, not any of June's month stones."
+      },
+      {
+        "question": "Why does alexandrite change color between daylight and incandescent light?",
+        "answer": "Chromium ions replace some of the aluminum in the crystal's structure, which absorbs a narrow band of yellow light. That absorption is what makes the stone read green to bluish-green in daylight and red to purplish-red under incandescent bulbs, a mechanism detailed in a 2020 Scientific Reports study."
+      },
+      {
+        "question": "Is pearl a mineral like the other June birthstones?",
+        "answer": "No. GIA classifies pearl as an organic gem, the only birthstone formed inside a living creature. A mollusk secretes nacre around an irritant lodged in its shell, and the pearl builds up in layers from there."
+      },
+      {
+        "question": "Who discovered alexandrite?",
+        "answer": "The standard account credits Finnish mineralogist Nils Gustaf Nordenskiöld, working from a sample found near Russia's Tokovaya River in the Ural Mountains in the 1830s. Wikipedia's sourced account notes that more recent research, citing gem historian Richard Wise's 2016 book, credits mine supervisor Yakov Kokovin with the actual find instead."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GIA — June Birthstones: Pearl, Alexandrite, and Moonstone",
+        "url": "https://www.gia.edu/birthstones/june-birthstones"
+      },
+      {
+        "label": "GIA — Alexandrite History and Lore",
+        "url": "https://www.gia.edu/alexandrite-history-lore"
+      },
+      {
+        "label": "Wikipedia — Birthstone (Zodiacal, Tropical Zodiac Table)",
+        "url": "https://en.wikipedia.org/wiki/Birthstone#Zodiacal"
+      },
+      {
+        "label": "Wikipedia — Chrysoberyl (Alexandrite Discovery and Color-Change Mechanism)",
+        "url": "https://en.wikipedia.org/wiki/Chrysoberyl"
+      },
+      {
+        "label": "Xie et al., \"Explanation of the Colour Change in Alexandrites,\" Scientific Reports (2020)",
+        "url": "https://www.nature.com/articles/s41598-020-62707-3"
+      },
+      {
+        "label": "Britannica — Agate",
+        "url": "https://www.britannica.com/science/agate"
+      },
+      {
+        "label": "NPR — Elizabeth Taylor's Jewels Bring Millions (La Peregrina, December 2011)",
+        "url": "https://www.npr.org/sections/thetwo-way/2011/12/14/143724868/elizabeth-taylor-s-jewels-bring-millions"
+      },
+      {
+        "label": "France 24 — Elizabeth Taylor Pearl Sold for Record $11.84 Million",
+        "url": "https://www.france24.com/en/20111214-elizabeth-taylor-pearl-auctioned-record-11-million-peregrina-jewels"
+      }
+    ],
+    "image": "/images/gemini-birthstone-alexandrite.jpg",
+    "imageAlt": "The same 26.75-carat alexandrite gemstone photographed twice, appearing bluish-green in daylight on the left and purplish-red under incandescent light on the right",
+    "imageCredit": "Photo by David Weinberg, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexandrite_26.75cts.jpg), CC BY-SA 3.0"
   }
 ];
 

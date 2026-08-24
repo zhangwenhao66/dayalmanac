@@ -2160,9 +2160,9 @@ export const guides: Guide[] = [
     "slug": "january-birthstone",
     "category": "Birthstones",
     "title": "January Birthstone: Garnet, Unchanged Since Before 1912",
-    "description": "Garnet has held January's spot on every birthstone list checked, from a centuries-old tradition through 2019 — the only month in this series where no source disagrees.",
+    "description": "Garnet has held January's spot on every birthstone list checked, from a centuries-old tradition through 2019, the only month in this series where no source disagrees.",
     "published": "2026-08-06",
-    "updated": "2026-08-06",
+    "updated": "2026-08-24",
     "coreSummary": "Garnet is January's birthstone on every list checked: a centuries-old tradition, the 1912 US standard, a 2013 UK revision, and a 2019 update all name it, with no rival stone and no revision, an outcome none of DayAlmanac's other birthstone months can claim. Garnet is also not one gem but a mineral group of at least six species spanning nearly every color, including a blue, color-changing variety confirmed only in 1998.",
     "sections": [
       {
@@ -2174,11 +2174,11 @@ export const guides: Guide[] = [
         ]
       },
       {
-        "heading": "Garnet isn't one gem — it's a family of at least six",
+        "heading": "Garnet is a family of at least six gem species",
         "body": [
-          "Most people picture a single deep-red stone when they hear \"garnet.\" GIA's own gemstone encyclopedia corrects that: garnets are a group of more than twenty related mineral species sharing one crystal structure but differing in chemical composition. Only five are common enough to matter commercially — pyrope, almandine, spessartine, grossular, and andradite — plus a sixth, uvarovite, a green garnet whose crystals are usually too small to cut and instead get set as tiny clusters.",
+          "Most people picture a single deep-red stone when they hear \"garnet.\" GIA's own gemstone encyclopedia corrects that: garnets are a group of more than twenty related mineral species sharing one crystal structure but differing in chemical composition. Only five are common enough to matter commercially: pyrope, almandine, spessartine, grossular, and andradite. A sixth, uvarovite, is a green garnet whose crystals are usually too small to cut and instead get set as tiny clusters.",
           "Those species cover most of the color wheel. Pyrope and almandine run purple to orangy red, the shade most people mean by \"garnet.\" Spessartine is orange. Grossular spans colorless through tsavorite's saturated green, and andradite includes demantoid, a rare green variety discovered in Russia's Ural Mountains in 1868 and initially mistaken for emerald. Carl Fabergé later worked demantoid into pieces made for the Russian imperial family, and Tiffany & Co. sent its own gem expert, George Frederick Kunz, the same Kunz whose 1913 zodiac research turns up later on this page, to Russia to buy up demantoid rough. Rhodolite, a pyrope-almandine blend, reads as a distinct pinkish red.",
-          "Tsavorite has its own small piece of trivia that loops back to this site's own December page. A geologist named Campbell Bridges found the green grossular variety in northeastern Tanzania in 1967, in the Merelani Hills, the same slice of ground where a Maasai herder would turn up tanzanite crystals in that same decade. Export from Tanzania stalled, so Bridges traced the same geology across the border into Kenya and found more of it near Tsavo National Park in 1970. Tiffany & Co.'s Henry B. Platt, who had named [December's tanzanite](/december-birthstone/) five years earlier, in 1968, named this stone too, calling it tsavorite after the park in 1973."
+          "Tsavorite has its own small piece of trivia that loops back to this site's own December page. A geologist named Campbell Bridges found the green grossular variety near Komolo, in northeastern Tanzania, in 1967, the same part of the country and the same decade in which a Maasai herder would turn up tanzanite crystals in the nearby Merelani Hills. Export from Tanzania stalled, so Bridges traced the same geology across the border into Kenya and found more of it near Tsavo National Park in 1970. Tiffany & Co.'s Henry B. Platt, who had named [December's tanzanite](/december-birthstone/) five years earlier, in 1968, named this stone too, calling it tsavorite after the park in 1973."
         ],
         "image": {
           "src": "/images/january-birthstone-tsavorite.jpg",
@@ -2190,13 +2190,13 @@ export const guides: Guide[] = [
         "heading": "The blue garnet that wasn't supposed to exist",
         "body": [
           "For decades, gemologists treated blue as the one color garnet's chemistry couldn't produce. The mineral's structure was thought to preclude the exact kind of light absorption needed to read as blue to the eye, no matter which species or trace element was involved.",
-          "That held until 1998, when a genuinely blue, color-changing garnet turned up at Bekily, in southern Madagascar, and GIA's own research journal, Gems & Gemology, documented it in a Winter 1999 paper by Karl Schmetzer and coauthors. The stone is mostly a pyrope-spessartine mix carrying roughly 1% vanadium oxide, and that vanadium is what drives the effect: greenish-blue in daylight, shifting to purple under incandescent light, the same alexandrite-style color change that makes June's birthstone famous. Two decades on, Bekily remains close to the only commercial source for it, which puts January in the same position as December: a birthstone family whose newest, rarest member still traces back to one deposit."
+          "That held until 1998, when a blue, color-changing garnet turned up at Bekily, in southern Madagascar, and GIA's own research journal, Gems & Gemology, documented it in a Winter 1999 paper by Karl Schmetzer and coauthors. The stone is mostly a pyrope-spessartine mix carrying roughly 1% vanadium oxide, and that vanadium is what drives the effect: greenish-blue in daylight, shifting to purple under incandescent light, the same alexandrite-style color change that makes June's birthstone famous. Two decades on, Bekily remains close to the only commercial source for it, which puts January in the same position as December: a birthstone family whose newest, rarest member still traces back to one deposit."
         ]
       },
       {
-        "heading": "Where the name — and the whole custom — actually come from",
+        "heading": "Where the name and the whole custom actually come from",
         "body": [
-          "\"Garnet\" traces to Medieval Latin granatum, \"pomegranate,\" by way of Old French grenate, \"seed-like\" — a nod to how the stone's small, glassy crystals resemble pomegranate seeds. The name has been in continuous use since the 14th century, roughly five hundred years before any trade group standardized a birthstone list.",
+          "\"Garnet\" traces to Medieval Latin granatum, \"pomegranate,\" by way of Old French grenate, \"seed-like,\" a nod to how the stone's small, glassy crystals resemble pomegranate seeds. The name has been in continuous use since the 14th century, roughly five hundred years before any trade group standardized a birthstone list.",
           "The idea of tying twelve stones to twelve months goes back further still, and it's shakier than most calendar pages let on. The first-century historian Josephus connected the twelve stones on the biblical high priest's breastplate to the twelve months and the twelve zodiac signs, but Josephus himself recorded two different lists for those twelve stones in his own writing, and centuries of translators have disagreed about what he meant ever since. Gemologist George Frederick Kunz later argued Josephus was actually describing a later, Second Temple breastplate rather than the original one from Exodus, a detail modern retellings routinely skip.",
           "Even the modern habit of wearing one birthstone per month is younger, and more contested, than it looks. Kunz places its start in 18th-century Poland; GIA instead traces it to Germany in the 1560s. Wikipedia's own summary of the history doesn't pick a side between them. What is settled is the 1912 meeting: the American National Retail Jewelers Association gathered in Kansas City that August and adopted the first standardized US list, garnet included, the same meeting already covered on [December's birthstone page](/december-birthstone/). At least one historian was unimpressed by the whole exercise, dismissing the 1912 list outright as \"nothing but a piece of unfounded salesmanship.\" Garnet's slot in it, unlike several other months, has simply never needed to be revised since."
         ]
@@ -2219,19 +2219,19 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is January's birthstone?",
-        "answer": "Garnet — the only birthstone GIA and Jewelers of America list for the month, with no companion or alternate stone the way several other months carry."
+        "answer": "Garnet is the only birthstone GIA and Jewelers of America list for January, with no companion or alternate stone the way several other months carry."
       },
       {
         "question": "Has January's birthstone ever been changed or revised?",
-        "answer": "No. Wikipedia's comparison of four separate birthstone lists — a centuries-old tradition, the 1912 US standard, a 2013 UK list, and a 2019 US update — names garnet in every single column with no variation, an outcome no other month in that comparison matches."
+        "answer": "No. Wikipedia's comparison of four separate birthstone lists (a centuries-old tradition, the 1912 US standard, a 2013 UK list, and a 2019 US update) names garnet in every single column with no variation, an outcome no other month in that comparison matches."
       },
       {
         "question": "Is garnet always red?",
-        "answer": "No. It's a mineral group of at least six commercially relevant species covering nearly every color, from spessartine's orange to tsavorite's saturated green. A genuinely blue, color-changing garnet wasn't documented until a 1998 find in Bekily, Madagascar."
+        "answer": "No. It's a mineral group of at least six commercially relevant species covering nearly every color, from spessartine's orange to tsavorite's saturated green. A blue, color-changing garnet wasn't documented until a 1998 find in Bekily, Madagascar."
       },
       {
         "question": "How durable is garnet for everyday jewelry?",
-        "answer": "Garnet ranges from 6.5 to 7.5 on the Mohs hardness scale depending on the species, according to GIA — durable enough for daily wear, though it can still be scratched by harder stones like diamond or sapphire."
+        "answer": "Garnet ranges from 6.5 to 7.5 on the Mohs hardness scale depending on the species, according to GIA. That's durable enough for daily wear, though it can still be scratched by harder stones like diamond or sapphire."
       },
       {
         "question": "Where does the word \"garnet\" come from?",

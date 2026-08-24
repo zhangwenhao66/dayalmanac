@@ -8019,6 +8019,118 @@ export const guides: Guide[] = [
     "image": "/images/gemini-birthstone-alexandrite.jpg",
     "imageAlt": "The same 26.75-carat alexandrite gemstone photographed twice, appearing bluish-green in daylight on the left and purplish-red under incandescent light on the right",
     "imageCredit": "Photo by David Weinberg, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexandrite_26.75cts.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "1987-chinese-zodiac",
+    "category": "Chinese Zodiac",
+    "title": "1987 Chinese Zodiac: Fire Rabbit, But Only After January 29",
+    "description": "1987 is the Year of the Fire Rabbit in the Chinese zodiac, but the lunar year didn't start until January 29. Anyone born earlier in January is a Tiger.",
+    "published": "2026-08-24",
+    "updated": "2026-08-24",
+    "coreSummary": "1987 is the Year of the Fire Rabbit, running from January 29, 1987 through February 16, 1988, according to the Hong Kong Observatory's own Gregorian-lunar conversion tables. Anyone born between January 1 and January 28, 1987, before that boundary, was actually born under the preceding zodiac year, Fire Tiger, Glee actress Naya Rivera among them.",
+    "sections": [
+      {
+        "heading": "The Fire Rabbit year starts January 29, not January 1",
+        "body": [
+          "A birth year alone is not enough to name a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1987 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1987, the same reference Hong Kong's own courts and banks use to compute lunar-calendar deadlines, labels the relevant lunar year Ding-mao (丁卯) and marks January 29, 1987 as the first day of its first lunar month, the actual start of the new year.",
+          "That new year doesn't close out on December 31, either. The Observatory's table for 1988 shows the twelfth and final lunar month of Ding-mao running out on February 16, 1988; the next day, February 17, opens the following lunar year, Wu-chen (戊辰), Earth Dragon. That puts the full Fire Rabbit window at January 29, 1987 through February 16, 1988, an unusually long span of 384 days because the Observatory's own 1987 table repeats a sixth lunar month, running July 26 through August 23, 1987. A lunisolar calendar has to insert an extra month like that every two or three years: twelve ordinary lunar months add up to roughly 354 days, eleven days short of the solar year, and without a periodic thirteenth month the new year would drift earlier through the seasons rather than keep landing in the same January-to-February window. Which month gets doubled isn't arbitrary, either. The calendar tracks twelve major solar terms across a normal year, one for each month; in a year that needs a leap month, one lunar month ends up containing none of them, because lunar months run slightly shorter than the roughly 30.4-day gap between solar terms, and that term-less month is the one that repeats under the leap label, a rule astronomers call the \"no zhongqi\" rule. Ordinary Fire Rabbit years, without a leap month, run closer to that 354-day figure. The 28 days at the start of calendar-year 1987 fall outside the Fire Rabbit window entirely; anyone born January 1 through January 28, 1987 belongs to the outgoing year instead, Bing-yin (丙寅), Fire Tiger, confirmed by the Observatory's own 1986 table, which marks February 9, 1986 as that year's new year boundary."
+        ],
+        "image": {
+          "src": "/images/1987-chinese-zodiac-rabbit-figure.jpg",
+          "alt": "Qing dynasty porcelain figure of a rabbit from a set of the twelve Chinese zodiac animals, Kangxi period",
+          "credit": "The Metropolitan Museum of Art, [Zodiac figure: rabbit](https://www.metmuseum.org/art/collection/search/44677), Kangxi period (1662–1722), public domain"
+        }
+      },
+      {
+        "heading": "Naya Rivera's real zodiac sign, and two people who really are Fire Rabbits",
+        "body": [
+          "A generic year-to-animal chart, the kind printed on gift-shop placemats and the front page of most zodiac reference sites, assigns anyone born anywhere in calendar-year 1987 to the Rabbit. That's wrong for the year's first 28 days.",
+          "Naya Rivera, the actress best known for playing Santana Lopez on Glee, was born January 12, 1987, seventeen days before that year's lunar new year. By the Hong Kong Observatory's own boundary, her birth falls in the preceding zodiac year, Bing-yin, Fire Tiger, not the Fire Rabbit her birth year alone would suggest. The same is true for anyone else born in that first 28-day stretch, a detail a simple lookup by birth year will miss every time. Readers checking their own birthday, especially a January one, against a page like the site's own [January birthstone](/january-birthstone/) list should apply the same 28-day caution to any zodiac-by-year chart they consult.",
+          "Not every 1987 birthday raises this question. Footballer Lionel Messi, born June 24, 1987, and former NFL quarterback Tim Tebow, born August 14, 1987, both fall comfortably inside the January 29 to February 16 window with no boundary to check, which makes them straightforward Fire Rabbits by the same Observatory table. The distinction only matters for birthdays that land in that narrow 28-day gap at the start of the calendar year, not for the roughly eleven months on either side of it."
+        ]
+      },
+      {
+        "heading": "Why Rabbit years are always Yin, never Yang",
+        "body": [
+          "\"Fire Rabbit\" is already two labels stacked into one, and the traditional calendar tracks each half on its own separate clock. The animal comes from a twelve-position cycle of Earthly Branches; the element comes from a ten-position cycle of Heavenly Stems, where each of the five elements shows up twice, once carrying a Yang polarity and once a Yin. Those two clocks run independently and only realign every 60 years, the sexagenary cycle. Because ten and twelve share a greatest common factor of two, only even-position branches can pair with Yang stems and only odd-position branches can pair with Yin stems, which fixes each animal to one polarity for the rest of time. The Rabbit's branch, Mao, sits at the fourth (odd) position, so a Rabbit year is always Yin. Its year names cycle through only five stems: Yi, Ding, Ji, Xin, Gui, the Yin form of wood, fire, earth, metal, and water respectively, and never once through a Yang stem.",
+          "That's the mirror image of the [1994 Chinese Zodiac](/1994-chinese-zodiac/) page's Dog year: Xu, the Dog's branch, sits at an even position, so every Dog year on record, 1958's Earth Dog and 2006's Fire Dog included, is Yang. Wikipedia's article on the Earthly Branches documents the same even-Yang, odd-Yin pairing rule across all twelve branches: Rat, Tiger, Dragon, Horse, Monkey, and Dog are permanently Yang animals; Ox, Rabbit, Snake, Goat, Rooster, and Pig are permanently Yin. 1987's stem is Ding, so 1987 is specifically the Yin Fire Rabbit, though almanacs typically drop the \"Yin\" label since it never varies for this animal and would be redundant on every single Rabbit-year page."
+        ]
+      },
+      {
+        "heading": "The other Fire Rabbit year most people alive have never seen",
+        "body": [
+          "Because a specific stem-branch pairing like Ding-mao only recurs once every 60 years, the previous Fire Rabbit year was 1927, six decades before 1987, and the next one is 2047, six decades after. Every other Rabbit year in between carries a different element, cycling through the five Yin stems in the same order the stems themselves cycle: 1975 was Yi-mao, Wood Rabbit; 1999 was Ji-mao, Earth Rabbit; 2011 was Xin-mao, Metal Rabbit; 2023 was Gui-mao, Water Rabbit; the next one, 2035, returns to Yi-mao, Wood Rabbit, before the cycle reaches Ding-mao again in 2047.",
+          "None of these boundary dates sit still from one year to the next, either. The Chinese new year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1987 new year fell on January 29, but 1986's fell on February 9 and 1988's on February 17, three different dates within a three-week span, per the Hong Kong Observatory's own tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What Chinese zodiac sign is 1987?",
+        "answer": "The Fire Rabbit, but only from January 29, 1987 onward. The Hong Kong Observatory's own Gregorian-lunar conversion table marks that date as the first day of the lunar year Ding-mao, which runs through February 16, 1988."
+      },
+      {
+        "question": "Was Naya Rivera really born in the Year of the Rabbit?",
+        "answer": "No, by the Hong Kong Observatory's own calendar boundary. She was born January 12, 1987, seventeen days before that year's lunar new year on January 29, which places her in the preceding zodiac year, Bing-yin, Fire Tiger, instead."
+      },
+      {
+        "question": "What if I was born in January 1987?",
+        "answer": "Anyone born January 1 through January 28, 1987 was born before that year's lunar new year and belongs to the preceding zodiac year, Bing-yin, Fire Tiger, per the Hong Kong Observatory's 1986 conversion table, not the Fire Rabbit. Anyone born January 29 through January 31, 1987 is a Fire Rabbit."
+      },
+      {
+        "question": "Why is 1987 called the \"Fire\" Rabbit instead of just \"the Rabbit\"?",
+        "answer": "Because the traditional calendar pairs each of the twelve zodiac animals with one of five elements. 1987's stem is Ding, Yin fire; other Rabbit years carry different elements, such as 1975's Wood Rabbit or 2023's Water Rabbit."
+      },
+      {
+        "question": "Are Rabbit years ever Yang instead of Yin?",
+        "answer": "No, never. The Rabbit's branch sits at an odd position in the twelve-branch cycle, which only ever pairs with the five Yin stems. Every Rabbit year on record, going back centuries, is Yin; the Rat, Tiger, Dragon, Horse, Monkey, and Dog are the six animals that are permanently Yang instead."
+      },
+      {
+        "question": "When is the next Fire Rabbit year?",
+        "answer": "2047. The specific pairing of fire with the Rabbit only recurs every 60 years, the length of the full sexagenary cycle. The previous Fire Rabbit year was 1927."
+      },
+      {
+        "question": "Is Chinese New Year always in January?",
+        "answer": "No. It isn't pinned to one fixed day the way a Gregorian holiday is; the date moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1987 new year fell on January 29, but 1986's fell on February 9 and 1988's on February 17, per the Hong Kong Observatory's own tables for those years."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1987 (Ding-mao, year of the Rabbit)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1987e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1988e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1986 (Bing-yin, year of the Tiger)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1986e.pdf"
+      },
+      {
+        "label": "The Metropolitan Museum of Art — Zodiac figure: rabbit",
+        "url": "https://www.metmuseum.org/art/collection/search/44677"
+      },
+      {
+        "label": "Wikipedia — Naya Rivera",
+        "url": "https://en.wikipedia.org/wiki/Naya_Rivera"
+      },
+      {
+        "label": "Wikipedia — Earthly Branches",
+        "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
+      },
+      {
+        "label": "Wikipedia — Heavenly Stems",
+        "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
+      },
+      {
+        "label": "Wikipedia — Chinese Calendar (leap month / \"no zhongqi\" rule)",
+        "url": "https://en.wikipedia.org/wiki/Chinese_calendar"
+      }
+    ],
+    "image": "/images/1987-chinese-zodiac-rabbit-figure.jpg",
+    "imageAlt": "Qing dynasty porcelain figure of a rabbit from a set of the twelve Chinese zodiac animals, Kangxi period",
+    "imageCredit": "The Metropolitan Museum of Art, [Zodiac figure: rabbit](https://www.metmuseum.org/art/collection/search/44677), Kangxi period (1662–1722), public domain"
   }
 ];
 

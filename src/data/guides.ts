@@ -8131,6 +8131,105 @@ export const guides: Guide[] = [
     "image": "/images/1987-chinese-zodiac-rabbit-figure.jpg",
     "imageAlt": "Qing dynasty porcelain figure of a rabbit from a set of the twelve Chinese zodiac animals, Kangxi period",
     "imageCredit": "The Metropolitan Museum of Art, [Zodiac figure: rabbit](https://www.metmuseum.org/art/collection/search/44677), Kangxi period (1662–1722), public domain"
+  },
+  {
+    "slug": "11th-anniversary-gift",
+    "category": "Anniversaries",
+    "title": "11th Anniversary Gift: Steel in the US, Nothing in the UK",
+    "description": "The US traditional list gives the 11th anniversary steel, while the UK's own reference list, cited on the same page, leaves the 11th year blank entirely.",
+    "published": "2026-08-24",
+    "updated": "2026-08-24",
+    "coreSummary": "The US traditional anniversary list names steel for the 11th year, a gift assigned when a jewelers' trade group expanded the list through the 20th year in 1937. The UK's Pears Cyclopaedia list, cited on the same Wikipedia comparison table, has no entry at all for the 11th anniversary. A separate gemstone list, built later by a group of jewelry organizations and currently published by Jewelers of America, names turquoise for year 11 instead, a stone with its own care requirements that steel doesn't share.",
+    "sections": [
+      {
+        "heading": "One list has a gift here. The other has a blank cell.",
+        "body": [
+          "Search \"11th anniversary gift\" and nearly every result states the same thing without qualification: steel. That's accurate for the US traditional materials list, [tracked in full on this calendar's own comparison of the two lists](/anniversary-gifts-by-year/), but it isn't the only list in circulation, and it isn't even universal within English-speaking countries. Wikipedia's sourced comparison table sets a US column against a UK column, the US drawn from a Chicago Public Library reference compilation and the UK from the 1978-79 edition of Pears Cyclopaedia, and at the 11th row the US cell reads \"Steel\" while the UK cell is simply empty.",
+          "That gap isn't a formatting accident carried over from an old scan. The UK list does assign something to most of the surrounding years, including the 10th (tin) and the 12th (silk and fine linen); it skips straight over the 11th and picks back up after it. A reader relying on a UK source for gift ideas at year 11 would find nothing there to work from at all, which is a stranger position to be in than simply preferring a different material."
+        ]
+      },
+      {
+        "heading": "Steel arrived in 1937, as part of a trade group's patch job",
+        "body": [
+          "Before the 20th century, only a handful of anniversaries carried any generally recognized material at all: paper for the first, wood for the fifth, tin for the tenth, and a few others scattered by the early 1900s. The 11th year wasn't among them. In 1937, the American National Retail Jewelers Association, the group that later became Jewelers of America, published an expanded list covering every year from the first through the twentieth, filling in gaps including the 11th, according to the sourcing behind Wikipedia's own account of the custom's history.",
+          "That timing means steel's status as the \"traditional\" 11th-year material is really a 1937 trade-group addition dressed in older language, the same pattern [this calendar's page on the full anniversary-gift comparison](/anniversary-gifts-by-year/) already traces across the rest of the list. It's also strictly a US convention: the UK list, compiled independently and never merged with the American one, simply never picked up an 11th-year entry when its own edition was assembled."
+        ]
+      },
+      {
+        "heading": "The gemstone list disagrees too, and names turquoise",
+        "body": [
+          "A second system, built later and by different organizations, assigns a gemstone rather than a household material to each anniversary year. Checked directly against Jewelers of America's current buying guide for this page, that chart names turquoise for the 11th anniversary, a completely different answer from either the US or UK materials list. At year 11 specifically, one system names a metal-based household object and the other a soft blue-green mineral, with no overlap between the two.",
+          "Turquoise itself carries a long, separate history as a birthstone rather than an anniversary gift, running from ancient Egyptian tomb jewelry through Persian palace decoration to the silver-and-turquoise style associated with Navajo artisans since the 1880s. [This calendar's page on December's birthstones](/december-birthstone/) covers that history in full, since turquoise sits on that month's official list as well as on the 11th-anniversary gemstone chart."
+        ],
+        "image": {
+          "src": "/images/11th-anniversary-gift-turquoise.jpg",
+          "alt": "A raw, unpolished piece of blue-green turquoise from Los Cerrillos, New Mexico, in the Smithsonian's mineral collection",
+          "credit": "Photo by [Tim Evanson](https://www.flickr.com/people/23165290@N00), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turquoise_Cerillos_Smithsonian.jpg), CC BY-SA 2.0"
+        }
+      },
+      {
+        "heading": "A softer stone than the metal it's paired against",
+        "body": [
+          "Steel and turquoise come from unrelated lists, and they hold up differently once someone actually owns them. Per GIA, turquoise rates 5 to 6 on the Mohs hardness scale, with fair-to-good toughness, and it's chemically sensitive: skin oils, cosmetics, and other chemicals can discolor it over time, and it can absorb liquids that leave lasting stains. GIA's own care guidance recommends against ultrasonic or steam cleaning, and advises removing the piece before applying lotion, perfume, or cleaning products rather than trying to wipe it clean afterward. Jewelers commonly steer turquoise toward earrings and pendants over rings and bracelets for the same reason: those settings see less daily friction and skin contact.",
+          "Turquoise gets its blue-to-green color from copper in its structure, per GIA's gem overview, with more copper producing a deeper blue and more iron pulling the color toward green; the stone forms where acidic, copper-rich groundwater seeps through aluminum- and phosphorus-bearing rock in dry regions, a process that can take thousands of years. A steel gift carries none of that fragility, which is part of why the two lists' answers for year 11 point in such different practical directions, not just different symbolic ones.",
+          "There's a buying wrinkle GIA flags directly, too: most turquoise sold today has been treated to improve its stability and color, and GIA's own buyer's guide advises checking with a jeweler who has the gemological expertise to say whether a specific stone has been treated at all. An untreated stone is softer and more prone to absorbing oils and darkening with wear than a stabilized one, so two pieces that look identical in a display case can hold up very differently a year later. None of that comes up when the gift is a steel knife set or a pair of cufflinks, which is a second, more mundane reason the two lists point buyers toward different kinds of shopping trips."
+        ]
+      },
+      {
+        "heading": "A third \"modern\" answer, with no source behind it",
+        "body": [
+          "Beyond the traditional materials list and the Jewelers of America gemstone chart, many gift-shopping sites list a third theme for the 11th anniversary: fashion jewelry. Some attribute this \"modern\" list generally to a group of Chicago jewelers working in the 1950s, but none of the pages repeating that claim cite a named source, a publication, or a specific organization, and the claim doesn't trace back to anything more solid than other similar shopping guides. That's a different situation from the 1937 materials-list expansion or the current Jewelers of America chart, both of which point to a specific, named, checkable source.",
+          "Until a primary source turns up, the fashion-jewelry theme for year 11 belongs in the same category [this calendar's page on National Boyfriend Day](/national-boyfriend-day/) already found for a differently-unofficial kind of calendar entry: repeated widely, traceable to no one in particular."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the traditional 11th anniversary gift?",
+        "answer": "Steel, on the US traditional materials list. That answer is specific to the US list, though: the UK's Pears Cyclopaedia list, cited on the same Wikipedia comparison table, has no entry at all for the 11th anniversary."
+      },
+      {
+        "question": "Does the UK have an 11th anniversary gift?",
+        "answer": "Not on its traditional list. Wikipedia's sourced US/UK comparison table shows a blank cell for the UK at year 11, even though the list assigns something to most of the surrounding years, including the 10th and 12th."
+      },
+      {
+        "question": "What is the 11th anniversary gemstone?",
+        "answer": "Turquoise, per Jewelers of America's current gemstone-by-year chart, checked directly for this page. That's a separate list from the traditional materials list, and it doesn't overlap with steel at year 11 either."
+      },
+      {
+        "question": "Is fashion jewelry really the modern 11th anniversary gift?",
+        "answer": "That claim circulates widely on gift-shopping sites, sometimes attributed vaguely to \"Chicago jewelers\" in the 1950s, but nothing behind it is checkable: no name, no publication, nothing to click through to. It doesn't carry the same documentation as the 1937 materials-list expansion or the current Jewelers of America gemstone chart."
+      },
+      {
+        "question": "How durable is turquoise for everyday jewelry?",
+        "answer": "Turquoise rates 5 to 6 on the Mohs hardness scale with fair-to-good toughness, according to GIA, and it's sensitive to oils, cosmetics, other chemicals, and heat. GIA advises against ultrasonic or steam cleaning and recommends removing turquoise jewelry before applying lotion or perfume; jewelers commonly favor earrings and pendants over rings and bracelets for that reason."
+      },
+      {
+        "question": "Why don't the traditional and gemstone lists agree on a gift for year 11?",
+        "answer": "Because they were built independently, by different organizations, for different purposes and at different times. [This calendar's full comparison of the two systems](/anniversary-gifts-by-year/) finds the same pattern across nearly every year from 1 through 24: they only start matching consistently at the 25th anniversary."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Wedding anniversary (sourced US/UK traditional gift comparison table)",
+        "url": "https://en.wikipedia.org/wiki/Wedding_anniversary"
+      },
+      {
+        "label": "Jewelers of America — Anniversary jewelry buying guide (current gemstone chart)",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/anniversary"
+      },
+      {
+        "label": "GIA — Turquoise Gem Overview",
+        "url": "https://www.gia.edu/turquoise/gem-overview"
+      },
+      {
+        "label": "GIA — Turquoise Care and Cleaning Guide",
+        "url": "https://www.gia.edu/turquoise-care-cleaning"
+      }
+    ],
+    "image": "/images/11th-anniversary-gift-turquoise.jpg",
+    "imageAlt": "A raw, unpolished piece of blue-green turquoise from Los Cerrillos, New Mexico, in the Smithsonian's mineral collection",
+    "imageCredit": "Photo by [Tim Evanson](https://www.flickr.com/people/23165290@N00), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turquoise_Cerillos_Smithsonian.jpg), CC BY-SA 2.0"
   }
 ];
 

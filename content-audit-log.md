@@ -1316,3 +1316,95 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "january-birthstone",
+  "last_audited": "2026-08-24",
+  "published_date": "2026-08-06",
+  "selection_note": "content-audit-log.md中last_audited最早/从未审计过的39篇里，并列最早published（2026-08-06）的是january-birthstone与red-ribbon-week；按guides.ts数组内先后顺序（file order）选中前者。",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以GIA/ICA/National Jeweler/Wikipedia/International Gem Society具名机构原文数据展开，无据说/有人认为式模糊归因；用怀疑式写作核实garnet是Capricorn生肖石这类流传但未经核实的说法。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "确认问题，已修复",
+      "detail": "正文声称Campbell Bridges 1967年在Merelani Hills发现tsavorite，与后来Maasai牧民发现坦桑石是同一块地。WebSearch多信源交叉核实（GIA《Celebrating 50 Years of Tsavorite》Gems & Gemology 2017冬季刊、ICA gemstone.org/tsavorite、Wikipedia Tsavorite条目、tsavorite.com历史页）：Bridges实际发现地是Komolo村附近（Simanjiro县Lemshuko，距Komolo约15公里），Merelani Hills是坦桑石的发现地，两者同属东北坦桑尼亚同一大区、同一年代但非同一具体地点。另核实：Wikipedia Birthstone条目原始wikitext确认January行在传统/1912美国/2013英国/2019美国四栏全部为Garnet无变化（核心差异化卖点属实）；Kunz 1913生肖宝石表确认Aquarius=Garnet、Capricorn=Ruby（与文章零售商误传的论断一致）；蓝色变色石榴石1998年Bekily发现+GIA Gems & Gemology 1999冬季刊Schmetzer论文核实无误；demantoid 1868年乌拉尔发现+误认祖母绿+Kunz赴俄采购史实核实无误；1912年8月堪萨斯城美国全国零售珠宝商协会会议+nothing but a piece of unfounded salesmanship引语经Wikipedia Birthstone条目原文核实逐字准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "非固定日期观察日，无dateRule/occurrences年度刷新问题。updated字段本次审计前为2026-08-06，13维度复核未发现内容过期。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "dataforseo_query.py实测january birthstone真实SERP：dayalmanac.com未进前10（站点新，符合预期），头部为gia.edu/americangemsociety.org/gemstones.com/zales.com等。抓取美国宝石协会americangemsociety.org页面全文，未命中Aquarius/Kunz/1913/Bekily/tsavorite/1912/2013/2019任一关键词，确认差异化角度（Kunz 1913生肖表核实+四栏历史对比+蓝色变色石榴石专题）为真实增量，非同质化内容。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title/meta description/canonical自指均正常，单一H1，7个H2无跳级，3处JSON-LD（FAQPage/Article/BreadcrumbList）结构完整。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站11维度99分制自评约91/99（权威引语约15/16、统计数据完整性约12/14、可引用性约12/13、结构规范性12/12、表达流畅度约8/10、语义密度约7/8、权威信号约7/8、专业术语6/6、鲁棒性5/5、跨域连接4/4、易懂表达3/3），已达标≥80。本次修复（改写1段+3处标题/句子去破折号）未涉及结构性GEO短板，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "确认问题，已修复",
+      "detail": "published=2026-08-06，早于2026-08-07 humanizer强制门槛。逐字符扫描全文：em dash共20处，9处属sources[].label出版方—标题格式（按站内L-0810-4系列precedent保留）；其余11处（description 1、两处小标题共3、正文3、FAQ答案4）为叙事性破折号，全部改写为逗号/句号/冒号/括号。其中小标题Garnet isn't one gem — it's a family of at least six额外命中It's not X — it's Y负向对仗AI写作硬性tell，改写为直述句。顺手清理FAQ与正文各一处空洞强调词genuinely。0处ASCII双连字符、0处花体引号。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "9条sources链接（gia.edu×4、gemstone.org、nationaljeweler.com、en.wikipedia.org、gemsociety.org、etymonline.com）curl实测全部200。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "Birthstones分类现有6篇（december/march/september/january-birthstone、birthstones-by-month、gemini-birthstone），categoryPeers.length(5)≤6触发全部返回轮转逻辑，本文与其余5篇互相100%可达。grep确认1994-chinese-zodiac与gemini-birthstone两篇正文已有手写锚文本自然链接指向本文，非孤儿页。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题（本次修复后重新验证一致）",
+      "detail": "线上JSON-LD FAQPage.mainEntity 6问与guides.ts faq数组逐字一致（含修复后新文本）；Article.datePublished(2026-08-06)/dateModified对应published/updated字段；Article.image与og:image/twitter:image一致。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文中实体（GIA/ICA/Tiffany & Co./Fabergé/Kunz/Bridges/Platt等）均为历史人物/机构中性引用，无现实新增争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "两张Wikimedia Commons图片（tsavorite晶体、almandine石榴石原石）curl实测200，Commons页面逐一核实CC BY-SA 4.0/CC BY-SA 2.0许可与imageCredit摄影师署名（Lech Darski；Eurico Zimbres and Tom Epaminondas）完全一致。"
+    },
+    {
+      "dimension": "AdSense政策风险",
+      "status": "未发现问题",
+      "detail": "ads.txt正确指向pub-5245502795720653；/privacy/与/about/均200；正文无误导性是否为真实节日框架、无受限品类内容。"
+    }
+  ],
+  "independent_verification": "两处确认问题分别起独立Agent核实（各自仅接收该单一发现+证据）：tsavorite发现地——WebSearch多信源交叉核实后CONFIRMED；破折号finding——独立读取guides.ts原文逐字核对11+9处位置后CONFIRMED，两agent均数分钟内正常完成，未触发看门狗流程。",
+  "actions_taken": [
+    "改写tsavorite发现段落：in the Merelani Hills, the same slice of ground where a Maasai herder... 改为 near Komolo, in northeastern Tanzania... the same part of the country and the same decade in which a Maasai herder would turn up tanzanite crystals in the nearby Merelani Hills，保留真实的同年代同大区关联，去掉错误的同一块地具体化",
+    "11处非引用标签破折号（description 1、小标题2处共3、正文3、FAQ答案4）全部改写为逗号/句号/冒号/括号；其中isn't X — it's Y型小标题改写为直述句Garnet is a family of at least six gem species",
+    "清理2处空洞强调词genuinely（正文1、FAQ 1）",
+    "updated字段2026-08-06改为2026-08-24（published字段已存在，无需按流程回填datePublished）",
+    "npm run build 67页成功生成、0报错",
+    "并发保护：编辑期间检测到另一会话正在向src/data/guides.ts（新增1987-chinese-zodiac词条）与indexnow-submit-log.json（新增gemini-birthstone提交记录）写入未提交内容，采用blob级暂存（git hash-object + git update-index --cacheinfo）仅提交本文相关字段变更，事后用git checkout --同步内容发布日志.md工作区文件避免误覆盖",
+    "commit 93e8bf8（guides.ts，12处改动）+ d3157e9（indexnow-submit-log.json记录）；push成功；curl轮询3次后确认线上正文含Garnet is a family of at least six gem species与near Komolo两处关键字符串",
+    "seo_drift.py compare：仅WARNING(schema内容随文本变化，预期内)+INFO(H2数量7→7确认未变)，无CRITICAL",
+    "IndexNow提交/january-birthstone/：Bing 200 / Yandex 200",
+    "内容发布日志.md追加审计记录（commit 9646f45），标注为content-quality-audit审计更新非新发布"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约91/99（超80分门槛，本次修复不涉及结构性GEO短板，未重新完整打分）",
+  "escalation": null
+}
+```

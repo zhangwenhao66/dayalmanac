@@ -253,5 +253,16 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-24",
+    "action": "skipped_all_indexed",
+    "reason": "本次运行时刻（游标轮到DayAlmanac）该站今日3档发布尚未产出新记录。队列头部suicide-prevention-month经URL Inspection已收录。Pages报告仅1个Crawled-currently not indexed候选birth-flowers-by-month，URL Inspection核实已转为'URL is on Google'（报告滞后快照，非真实未收录）；Discovered-currently not indexed为0。判定当前无真实未提交候选，跳过本轮不消耗配额，游标继续前进至DialWick。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/suicide-prevention-month/",
+      "https://dayalmanac.com/birth-flowers-by-month/"
+    ],
+    "quota_used": "0 (skipped, no unindexed candidate found)"
   }
 ]

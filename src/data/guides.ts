@@ -8230,6 +8230,229 @@ export const guides: Guide[] = [
     "image": "/images/11th-anniversary-gift-turquoise.jpg",
     "imageAlt": "A raw, unpolished piece of blue-green turquoise from Los Cerrillos, New Mexico, in the Smithsonian's mineral collection",
     "imageCredit": "Photo by [Tim Evanson](https://www.flickr.com/people/23165290@N00), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turquoise_Cerillos_Smithsonian.jpg), CC BY-SA 2.0"
+  },
+  {
+    "slug": "ovarian-cancer-awareness-month",
+    "category": "Observances",
+    "title": "Ovarian Cancer Awareness Month: All of September, and Who Started It",
+    "description": "Ovarian Cancer Awareness Month covers all of September. A 1998 presidential week became a nonprofit's month in 2000, and no permanent federal law renews it automatically.",
+    "published": "2026-08-25",
+    "updated": "2026-08-25",
+    "coreSummary": "Ovarian Cancer Awareness Month is observed across all of September, every year, in the United States. President Clinton proclaimed a single Ovarian Cancer Awareness Week in 1998; the National Ovarian Cancer Coalition expanded that into a full month in 2000; and the earliest full-month presidential proclamation confirmed on the record dates to September 2002. No standing federal statute makes the month self-renewing, and Congress has never been shown to have passed a law recognizing it, only resolutions introduced by individual members.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of September, every year in the United States, from September 1 through September 30, rather than a single date or a floating week within the month.",
+      "source": {
+        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2002-09-05/pdf/02-22748.pdf"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2027-09-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2029-09-01",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-01",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "September is not the only date on the calendar tied to ovarian cancer, and the two are easy to conflate. World Ovarian Cancer Day falls separately on May 8 each year, launched in 2013 by the World Ovarian Cancer Coalition, a global alliance now including more than 200 partner organizations, with a focus on international screening access and research funding rather than the U.S.-rooted September month. The United Kingdom runs its own, differently timed observance: Target Ovarian Cancer, Ovarian Cancer Action, and other British charities mark Ovarian Cancer Awareness Month in March, not September. A reader who finds an ovarian-cancer date in March or in May has found one of these two other, separately organized observances, not an early or mistaken version of the American September one."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Ovarian Cancer Awareness Month traces to a patient-advocacy nonprofit that had already been working on the disease for seven years before any president acted. The National Ovarian Cancer Coalition (NOCC) began as a grassroots effort in Boca Raton, Florida, in 1991, and was incorporated in 1995 as the country's first national nonprofit devoted to ovarian-cancer awareness and education. President Bill Clinton issued Proclamation 7120 on September 12, 1998, declaring September 13 through 19, 1998, National Ovarian Cancer Awareness Week, a real government document recorded in the U.S. Statutes at Large at 112 Stat. 3795. NOCC's own awareness-month page describes that week as an important first step in bringing national attention to the disease, not as a government action the organization had no part in. That week, not a month, is the earliest government-issued designation found on the record.\n\nNOCC took the single week and expanded it. NOCC's own current materials state that in 2000, working with the wider ovarian-cancer community, the organization broadened Clinton's single week into a full National Ovarian Cancer Awareness Month, run every September since.\n\nWhat happened next is genuinely unsettled, and this page says so rather than picking a smooth version. NOCC's own awareness-month page, along with several secondary medical-news accounts, states that President George W. Bush formally proclaimed the full month in September 2001, one year after NOCC's expansion. That specific 2001 document was not locatable on any presidential-archive site checked for this page. What is directly confirmed, from a Federal Register filing carrying its own document number, is a full-month proclamation for September 2002, Proclamation 7587, which estimated more than 23,000 new U.S. diagnoses and almost 14,000 deaths that year and stated that ovarian cancer caught at its earliest stage has a 95 percent five-year survival rate. Whether the full month was first proclaimed in 2001 or whether 2002 is in fact the earliest one, the position taken here is that only the 2002 document has been directly verified, and the 2001 date rests on the nonprofit's own account rather than a government archive.\n\nA president has proclaimed the month most years since, though not without gaps in the record and at least one change in format. Confirmed proclamations exist for 2002, 2013, 2014, 2016, 2021, 2023, and 2024, each a distinct numbered document; the run is very likely closer to unbroken than these confirmed years suggest, since the White House's own archives are not fully indexed by search engines for every year. In September 2025, the White House marked the observance with a \"Presidential Message\" rather than a numbered proclamation, a format the Trump administration used instead of the proclamation format every prior year on this list had used.\n\nCongress, as a body, has never been shown to have passed a law establishing the observance. Individual members have introduced resolutions in the House naming the specific year — H.Res.746 for September 2023, H.Res.1508 for September 2024, and H.Res.775 for September 2025 — but H.Res.1508 is recorded by GovTrack.us as never having received a vote, the common fate of this kind of resolution once referred to committee. No Senate companion resolution for any of these years was confirmed to have passed during research for this page. That leaves the observance's federal footing resting entirely on the executive branch's annual, discretionary choice to keep proclaiming it, not on any law Congress has enacted, a weaker footing than [Breast Cancer Awareness Month](/breast-cancer-awareness-month/)'s early 1990s run of public laws and joint resolutions.",
+      "source": {
+        "label": "National Ovarian Cancer Coalition — National Ovarian Cancer Awareness Month",
+        "url": "https://ovarian.org/get-involved/national-ovarian-cancer-awareness-month/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The whole month, every year",
+        "body": [
+          "Ovarian Cancer Awareness Month runs the full 30 days of September, with no nth-weekday arithmetic or floating window to work out. The table above lists September 1 as each year's start; the observance continues through September 30, matching how the National Ovarian Cancer Coalition, the American Cancer Society, and every confirmed federal proclamation describe it.",
+          "What takes real digging to sort out is not the calendar but the paperwork behind it: which branch of government acted first, which year the full month was actually proclaimed, and how firm that recognition really is. Most calendar aggregator sites give the month a one-line mention and move on to the next date."
+        ]
+      },
+      {
+        "heading": "A presidential week, then a nonprofit's month",
+        "body": [
+          "The observance's federal history began with President Clinton's Proclamation 7120, issued September 12, 1998, which named September 13 through 19 of that year National Ovarian Cancer Awareness Week — a single week, not a month, and a real government document recorded in the U.S. Statutes at Large. The advocacy behind it was not new, though: the National Ovarian Cancer Coalition (NOCC) had already been working on the disease's behalf for seven years by then, since its founding as a grassroots group in Boca Raton, Florida, in 1991, and its 1995 incorporation as the country's first national ovarian-cancer nonprofit.",
+          "NOCC is the organization that turned that single week into an annual, month-long campaign. NOCC's own materials date the expansion to 2000, two years after Clinton's proclamation, and describe the goal plainly: a single week of federal attention was not enough time to reach patients, families, and physicians with information about a cancer that, at the time, had far lower public visibility than breast cancer."
+        ],
+        "image": {
+          "src": "/images/ovarian-cancer-awareness-month-timeline.svg",
+          "alt": "Timeline from Clinton's 1998 proclaimed Awareness Week through NOCC's 2000 expansion to a full month, the earliest confirmed full-month presidential proclamation in 2002, a 2023 House resolution, and the 2025 shift to a presidential message"
+        }
+      },
+      {
+        "heading": "A contested year, and a confirmed one",
+        "body": [
+          "Sources close to the observance, including NOCC's own awareness-month page, date the first full-month presidential proclamation to September 2001. That specific document could not be located on any presidential archive checked for this page, which is worth stating plainly rather than repeating a secondhand date as though it had been read directly.",
+          "What can be confirmed directly, through a Federal Register filing with its own document number, is Proclamation 7587, issued for September 2002. That proclamation estimated more than 23,000 American women would be diagnosed with ovarian cancer in 2002 and almost 14,000 would die from it, and it stated that ovarian cancer caught at its earliest, localized stage carries a 95 percent five-year survival rate — a figure meant to make the case for awareness and early detection, not a general survival statistic for every diagnosis regardless of stage.",
+          "Proclamations continued in most years after that, though the record found during research for this page is not a complete unbroken chain: confirmed documents exist for 2002, 2013, 2014, 2016, 2021, 2023, and 2024, each a separately numbered proclamation. September 2025 broke the specific format, if not necessarily the tradition: the White House issued a \"Presidential Message\" that year rather than a numbered proclamation, the only year on this list where that happened."
+        ]
+      },
+      {
+        "heading": "Congress has tried repeatedly, and nothing has passed into law",
+        "body": [
+          "No act of Congress has been found establishing Ovarian Cancer Awareness Month as a standing observance. What exists instead is a pattern of individual House members introducing a fresh resolution nearly every year, naming that specific September: H.Res.746 for 2023, H.Res.1508 for 2024, and H.Res.775 for 2025.",
+          "These resolutions do not automatically become anything. GovTrack.us's own tracking shows H.Res.1508, the 2024 resolution, never received a vote after being referred to committee — the ordinary fate of a \"supporting the designation of\" resolution in the modern House. No Senate companion resolution for any of these specific years was confirmed to have passed during research for this page, and no law bearing this name has been found on the record at all. [Lung Cancer Awareness Month](/lung-cancer-awareness-month/) at least secured one unanimous Senate resolution, in 2020; this observance's congressional record, by comparison, is a string of introduced-but-unvoted House resolutions rather than any confirmed Senate action."
+        ]
+      },
+      {
+        "heading": "The teal ribbon",
+        "body": [
+          "Teal is the ribbon color associated with ovarian cancer awareness, used consistently across NOCC, the Ovarian Cancer Research Alliance (OCRA), and international partners including the World Ovarian Cancer Coalition. It is a newer symbol than the pink ribbon for breast cancer, and its exact origin is thinner on the record than the observance's own founding dates.",
+          "The most common attribution found during research for this page credits the ribbon's introduction to the Ovarian Cancer National Alliance (OCNA), a precursor organization to today's OCRA, sometime around 1994 or 1995, during the broader early-1990s spread of awareness ribbons that followed the pink ribbon's own rise. That specific date and organization, however, rest on secondary sources of modest authority rather than an official history page making the claim in its own words, so it is presented here as the most repeated account rather than a settled fact."
+        ]
+      },
+      {
+        "heading": "Why 'silent killer' is a contested label",
+        "body": [
+          "Ovarian cancer is commonly described as a silent killer, and the label has real statistics behind the underlying concern even where advocates and researchers dispute the word \"silent\" itself. The American Cancer Society estimates roughly 21,010 new U.S. diagnoses and about 12,450 deaths for 2026, a lifetime risk of about 1 in 91 for being diagnosed and about 1 in 143 for dying of the disease. The five-year relative survival rate across all stages combined is 51 percent, but that figure hides an enormous range by how early the cancer is caught: 92 percent for cancer still localized to the ovary, 71 percent once it has reached nearby structures or lymph nodes, and 32 percent once it has spread further.",
+          "The reason so many cases are caught late is the actual substance of the \"silent killer\" debate. No screening test has been shown effective enough for general use — the U.S. Preventive Services Task Force gave ovarian-cancer screening a Grade D recommendation in 2018, meaning it recommends against it for women without known risk factors, because large trials failed to demonstrate a net benefit. Roughly 70 percent of cases are still diagnosed at an advanced stage. Symptoms do exist, though, and are not truly absent: bloating, pelvic or abdominal pain, feeling full quickly after eating, and increased urinary frequency or urgency are the most commonly reported, and a 2000 survey of 1,725 women with the disease found 95 percent reported noticing at least one such symptom at some point before their diagnosis. Several researchers, writing for outlets including The Conversation, have argued the \"silent killer\" framing is itself part of the problem: the symptoms are real and reported, just vague enough to be mistaken for digestive issues, which delays diagnosis more through misattribution than through any true absence of warning signs."
+        ]
+      },
+      {
+        "heading": "Not the only ovarian cancer date on the calendar",
+        "body": [
+          "Two other observances get confused with the U.S. September month, and neither is the same thing. World Ovarian Cancer Day falls on May 8 every year, an international observance launched in 2013 by the World Ovarian Cancer Coalition, a partnership now including more than 200 advocacy organizations across dozens of countries, with a focus on research funding and equal access to screening and treatment worldwide rather than the U.S. federal-proclamation history documented above.",
+          "The United Kingdom runs a separate, differently timed campaign entirely. Target Ovarian Cancer, Ovarian Cancer Action, Macmillan Cancer Support, and The Eve Appeal mark Ovarian Cancer Awareness Month in March, citing over 7,000 UK diagnoses a year and noting that roughly two-thirds are still caught at a late stage — the same core early-detection problem documented above, tracked by a different set of charities on a different month entirely.",
+          "This calendar has now covered several observances built around the same basic pattern: a nonprofit or a single advocacy campaign builds public attention first, and federal government recognition, where it exists at all, follows on its own separate and often much later timeline, without ever quite becoming a standing law. [Breast cancer's own awareness month](/breast-cancer-awareness-month/) is this pattern's strongest federal case, with actual public laws passed in the early 1990s; [the lung-cancer observance](/lung-cancer-awareness-month/) waited twenty-two years for even a single Senate resolution; [Suicide Prevention Month](/suicide-prevention-month/), observed the same September, has its own separate and equally incomplete federal history. Ovarian Cancer Awareness Month sits closer to the lung-cancer end of that range: real presidential attention most years, but no law Congress has ever passed."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Ovarian Cancer Awareness Month?",
+        "answer": "The entire month of September, every year, from September 1 through September 30. It is not tied to a single date or a floating week within the month."
+      },
+      {
+        "question": "Who started Ovarian Cancer Awareness Month, and when?",
+        "answer": "President Clinton proclaimed a single National Ovarian Cancer Awareness Week, September 13-19, 1998. The National Ovarian Cancer Coalition, a patient-advocacy nonprofit, expanded that into a full national month in 2000. NOCC's own materials say a president formalized the full month in 2001, but the earliest full-month presidential proclamation independently confirmed for this page is from September 2002."
+      },
+      {
+        "question": "Has Congress passed a law making Ovarian Cancer Awareness Month official?",
+        "answer": "No law establishing the observance has been found on the record. Individual House members have repeatedly introduced resolutions naming the specific year, including H.Res.746 (2023), H.Res.1508 (2024), and H.Res.775 (2025), but GovTrack.us records H.Res.1508 as never having received a vote. No Senate companion resolution for these years was confirmed to have passed."
+      },
+      {
+        "question": "Is Ovarian Cancer Awareness Month a federal holiday?",
+        "answer": "No. No federal offices close and no paid leave attaches to it. It is marked through presidential proclamations (or, in 2025, a presidential message), congressional resolutions that have not become law, and awareness campaigns run by advocacy organizations."
+      },
+      {
+        "question": "What does the teal ribbon represent, and where did it come from?",
+        "answer": "Teal is the awareness-ribbon color used for ovarian cancer by NOCC, OCRA, and international partner organizations. It is most often attributed to the Ovarian Cancer National Alliance, a precursor to today's OCRA, introducing it around 1994 or 1995, though that specific attribution rests on secondary sources rather than an official history page stating it directly."
+      },
+      {
+        "question": "Is this the same as World Ovarian Cancer Day?",
+        "answer": "No. World Ovarian Cancer Day is a separate international observance held every May 8, launched in 2013 by the World Ovarian Cancer Coalition. The United Kingdom also runs its own Ovarian Cancer Awareness Month in March, distinct from both the U.S. September month and the May global day."
+      },
+      {
+        "question": "Why is ovarian cancer called a 'silent killer,' and is that accurate?",
+        "answer": "The label reflects that about 70% of cases are diagnosed at an advanced stage, since no screening test has been shown reliable enough for general use — the U.S. Preventive Services Task Force gives ovarian-cancer screening a Grade D. But symptoms do occur: a 2000 survey of 1,725 women with the disease found 95% reported noticing bloating, pelvic pain, early fullness, or urinary changes at some point before diagnosis. Some researchers argue this makes 'silent' inaccurate; the symptoms are real but easily mistaken for digestive issues, which is a different problem than having no symptoms at all."
+      }
+    ],
+    "sources": [
+      {
+        "label": "govinfo.gov — Statutes at Large, 112 Stat. 3795, Proclamation 7120 (1998 Awareness Week)",
+        "url": "https://www.govinfo.gov/app/details/STATUTE-112/STATUTE-112-Pg3795"
+      },
+      {
+        "label": "National Ovarian Cancer Coalition — History of NOCC",
+        "url": "https://ovarian.org/about-nocc/history/"
+      },
+      {
+        "label": "National Ovarian Cancer Coalition — National Ovarian Cancer Awareness Month",
+        "url": "https://ovarian.org/get-involved/national-ovarian-cancer-awareness-month/"
+      },
+      {
+        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2002-09-05/pdf/02-22748.pdf"
+      },
+      {
+        "label": "The American Presidency Project — Proclamation 9008, National Ovarian Cancer Awareness Month, 2013",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-9008-national-ovarian-cancer-awareness-month-2013"
+      },
+      {
+        "label": "The American Presidency Project — Proclamation 9157, National Ovarian Cancer Awareness Month, 2014",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-9157-national-ovarian-cancer-awareness-month-2014"
+      },
+      {
+        "label": "The American Presidency Project — Proclamation 9484, National Ovarian Cancer Awareness Month, 2016",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-9484-national-ovarian-cancer-awareness-month-2016"
+      },
+      {
+        "label": "govinfo.gov — Proclamation 10243, National Ovarian Cancer Awareness Month, 2021",
+        "url": "https://www.govinfo.gov/app/details/DCPD-202100695"
+      },
+      {
+        "label": "The American Presidency Project — Proclamation 10611, National Ovarian Cancer Awareness Month, 2023",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-10611-national-ovarian-cancer-awareness-month-2023"
+      },
+      {
+        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2024",
+        "url": "https://www.federalregister.gov/documents/2024/09/05/2024-20122/national-ovarian-cancer-awareness-month-2024"
+      },
+      {
+        "label": "The White House — Presidential Message on National Ovarian Cancer Awareness Month, 2025",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/09/presidential-message-on-national-ovarian-cancer-awareness-month/"
+      },
+      {
+        "label": "Congress.gov — H.Res.746, 118th Congress (2023-2024)",
+        "url": "https://www.congress.gov/bill/118th-congress/house-resolution/746"
+      },
+      {
+        "label": "GovTrack.us — H.Res.1508, 118th Congress (2023-2024)",
+        "url": "https://www.govtrack.us/congress/bills/118/hres1508"
+      },
+      {
+        "label": "Congress.gov — H.Res.775, 119th Congress (2025-2026)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-resolution/775"
+      },
+      {
+        "label": "Goff et al. — \"Ovarian carcinoma diagnosis\" (Cancer, 2000), PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11066047/"
+      },
+      {
+        "label": "American Cancer Society — Key Statistics for Ovarian Cancer",
+        "url": "https://www.cancer.org/cancer/types/ovarian-cancer/key-statistics.html"
+      },
+      {
+        "label": "American Cancer Society — Survival Rates for Ovarian Cancer",
+        "url": "https://www.cancer.org/cancer/types/ovarian-cancer/detection-diagnosis-staging/survival-rates.html"
+      },
+      {
+        "label": "The Conversation — Ovarian cancer is not a silent killer",
+        "url": "https://theconversation.com/ovarian-cancer-is-not-a-silent-killer-recognizing-its-symptoms-could-help-reduce-misdiagnosis-and-late-detection-181415"
+      },
+      {
+        "label": "World Ovarian Cancer Coalition — World Ovarian Cancer Day",
+        "url": "https://worldovariancancercoalition.org/world-ovarian-cancer-day/"
+      },
+      {
+        "label": "Target Ovarian Cancer (UK) — Ovarian Cancer Awareness Month",
+        "url": "https://targetovariancancer.org.uk/get-involved/ovarian-cancer-awareness-month"
+      }
+    ],
+    "image": "/images/ovarian-cancer-awareness-month-timeline.svg",
+    "imageAlt": "Timeline from Clinton's 1998 proclaimed Awareness Week through NOCC's 2000 expansion to a full month, the earliest confirmed full-month presidential proclamation in 2002, a 2023 House resolution, and the 2025 shift to a presidential message"
   }
 ];
 

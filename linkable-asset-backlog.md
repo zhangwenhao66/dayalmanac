@@ -18,13 +18,12 @@
 - **制作复杂度**：中高——核心方法论和数据结构已经在现有文章里跑通，但要扩到150+条目需要大量逐条查证（国会记录/联邦公报/白宫公告检索），建议分批做，先覆盖流量最大的50个。
 - **备注**：这个资产做好后，第2、3条都可以直接复用它的数据，不用重新调研。
 
-## 2. "Days Until [观察日]" 可嵌入倒计时小组件 `[待制作]`
+## 2. "Days Until [观察日]" 可嵌入倒计时小组件 `[已发布]`
 
-- **类别**：交互式工具
-- **具体做什么**：基于 `guides.ts` 里已有的 `dateRule.occurrences` 数据，做一个轻量倒计时组件生成器——任何一个已收录的观察日页面下方提供一段可复制的 iframe/JS 嵌入代码（"Days Until National Coffee Day"），生成方自动读取该日期数据实时计算剩余天数，页面上会带一行"Powered by DayAlmanac"及回链。
+2026-08-25 已发布，见 `linkable-asset-log.md`。实际做法：`src/lib/countdown.ts` 提供纯函数（`nextCountdown`/`formatCountdownLabel`/`todayISO`，7个单元测试全过，覆盖今天早于/等于/晚于列表、全部过期的降级提示、空列表），`CountdownWidget.astro` 在客户端用这套逻辑实时算出"离X还有几天"，不依赖构建时间戳。全站30篇有`dateRule`且非`table`类的观察日文章（占全站55篇的多数，`table`类0篇，全部合格）自动获得：①正文页内一个可直接看到的实时倒计时小卡片；②卡片下方"Embed this countdown"区块，一段指向`/embed/<slug>/`的iframe代码，嵌入版页面固定带不可关闭的"Countdown by DayAlmanac"回链（同一套embed路由排除规则已加入`astro.config.mjs`的sitemap `excludePaths`，避免跟正文页重复收录，做法照抄CalcBadger`src/pages/embed/[slug].astro`的既有模式）。
+
+- **原始点子内容**（供参考）：基于 `guides.ts` 里已有的 `dateRule.occurrences` 数据，做一个轻量倒计时组件生成器——任何一个已收录的观察日页面下方提供一段可复制的 iframe/JS 嵌入代码（"Days Until National Coffee Day"），生成方自动读取该日期数据实时计算剩余天数，页面上会带一行"Powered by DayAlmanac"及回链。
 - **为什么会被引用**：倒计时小组件是被验证过多次有效的"嵌入式外链"套路（同类站点如 daysoftheyear.com 也在用），营销日历博客、活动策划类网站、零售促销页面（比如National Coffee Day当天做促销的咖啡店博客）愿意直接贴一段代码省得自己写逻辑，比要求对方手动加链接的传统外链请求转化率高得多。
-- **制作复杂度**：中——前端组件+简单JS计时逻辑本身不难，主要工作量在于要给35篇现有文章逐个接入生成入口，以及做好iframe跨域嵌入的样式隔离（参考CLAUDE.md里提到的innerHTML动态表格scoped CSS坑，这个组件如果用iframe可以完全绕开这个问题）。
-- **备注**：优先只覆盖有明确`dateRule`（非`table`类不确定日期）的观察日，Easter一类查历史表的日期不适合做自动倒计时。
 
 ## 3. National Day 官方依据速查工具 `[待制作]`
 

@@ -44,3 +44,14 @@
 - **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `716f60761e41445cf756ef75c86f65c1`。
 - **上线复核**：⏳ 待下次任务运行时补查。
 - **回复使用情况**：✅ 08-19收到Jean-Christophe Thery（MusaArtGallery创始人）回复，引语已插入`national-first-responders-day`一文"The claim that overstates what happened in 2019"一节末尾，已build/deploy/IndexNow提交，已回信致谢。
+
+### 2026-08-25（周二，正常排期）— DayAlmanac（dayalmanac.com）
+
+- **问题标题**：Nonprofit and cause-marketing pros: has your own organization's official founding story turned out not to match the documented facts?
+- **角度**：绑定`movember`一文讲的真实创立史矛盾——Movember基金会自己的官网和维基百科对成立年份说法不一（2003年招募30名朋友 vs 2004年正式注册公司），且1999年阿德莱德已有一个完全不相关的同名RSPCA募捐活动。征集非营利/公益营销从业者举出另一个真实案例——某机构自己的官方"创立故事"经查证跟真实历史记录对不上。与此前问过的National Day起源不可考角度（08-04）、生辰石清单分歧角度（08-12）、联邦立法资质角度（08-18）均不重叠，这次聚焦机构自身官方叙事与真实档案的落差。
+- **绑定文章**：DayAlmanac `movember`（Movember: All of November, and a Second Movember from 1999）。
+- **分类标签**：Topics = General + PR, Media & Marketing；Countries = Australia + UK & Republic of Ireland + Canada + United States。
+- **表单设置**：Job title = Content Creator；Organisation = DayAlmanac；Contact = Email；Unpaid；Email address 和 Contact email 均填 `contact@dayalmanac.com`。
+- **Deadline**：2026-09-22 17:00（鼠标真实点击日历控件选中）。
+- **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `6d4e8b9791885d604680578e7820efe9`。
+- **上线复核**：⏳ 待下次任务运行时补查。

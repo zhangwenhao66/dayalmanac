@@ -4,6 +4,7 @@ import Article from '../../vendor/site-toolkit/packages/schema/src/Article.astro
 import BreadcrumbList from '../../vendor/site-toolkit/packages/schema/src/BreadcrumbList.astro';
 import FAQPage from '../../vendor/site-toolkit/packages/schema/src/FAQPage.astro';
 import { pickRelatedGuides } from '../../vendor/site-toolkit/packages/related-guides/src/index.ts';
+import CountdownWidget from '../components/CountdownWidget.astro';
 import DateTable from '../components/DateTable.astro';
 import ObservanceEvents from '../components/ObservanceEvents.astro';
 import { guides, categorySlug, type Guide } from '../data/guides';
@@ -44,6 +45,15 @@ function md(text: string): string {
 		.replace(/\*(.*?)\*/g, '<em>$1</em>')
 		.replace(/\[([^\]]+)\]\(((?:[^()]|\([^()]*\))*)\)/g, '<a href="$2">$1</a>');
 }
+
+// Same eligibility rule as src/pages/embed/[slug].astro: 'table' dates (Easter, other
+// lunisolar/religious calendars) are transcribed rather than generated years ahead, so a
+// countdown left running for years on someone else's page could go quietly wrong.
+const countdownEligible = guide.dateRule && guide.dateRule.kind !== 'table';
+const embedUrl = `${SITE_ORIGIN}/embed/${guide.slug}/`;
+const embedSnippet = countdownEligible
+	? `<iframe src="${embedUrl}" width="280" height="230" style="border:1px solid #ddd;border-radius:8px" title="Days until ${guide.title}" loading="lazy"></iframe>`
+	: '';
 ---
 
 <Layout title={guide.title} description={guide.description} ogImage={guide.image ?? '/favicon.svg'} ogType="article">
@@ -89,6 +99,12 @@ function md(text: string): string {
 		<div class="mx-auto mt-9 max-w-[720px]">
 			{guide.dateRule && <DateTable rule={guide.dateRule} />}
 		</div>
+
+		{countdownEligible && (
+			<div class="mx-auto mt-6 max-w-[320px]">
+				<CountdownWidget title={guide.title} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} />
+			</div>
+		)}
 
 		{guide.image && (
 			<figure class="m-0 mt-10">
@@ -174,6 +190,30 @@ function md(text: string): string {
 					</ul>
 				</div>
 			)}
+
+			{countdownEligible && (
+				<div class="panel mt-12 px-5 py-5 sm:px-6">
+					<p class="rubric m-0">Embed this countdown</p>
+					<p class="mt-2 mb-3 text-sm leading-relaxed text-[var(--ink)]/65">
+						Paste this into any blog post or web page to show a live "days until {guide.title}" counter, free to
+						use, with the attribution link staying in place.
+					</p>
+					<textarea
+						id="embed-code"
+						readonly
+						rows="2"
+						class="w-full rounded-lg border border-[var(--rule)] bg-[var(--paper)] p-3 font-mono text-xs leading-relaxed text-[var(--ink)]/80"
+						set:text={embedSnippet}
+					/>
+					<button
+						id="copy-embed"
+						type="button"
+						class="mt-2 rounded-[6px] border border-[var(--rule)] px-4 py-2 text-xs font-semibold uppercase tracking-wide text-[var(--ink)]/70 hover:border-[var(--flag)] hover:text-[var(--flag-dark)]"
+					>
+						Copy embed code
+					</button>
+				</div>
+			)}
 		</div>
 
 		{related.length > 0 && (
@@ -219,3 +259,19 @@ function md(text: string): string {
 		}
 	}
 </style>
+
+<script>
+	const btn = document.getElementById('copy-embed');
+	const code = document.getElementById('embed-code') as HTMLTextAreaElement | null;
+	btn?.addEventListener('click', async () => {
+		if (!code) return;
+		try {
+			await navigator.clipboard.writeText(code.value);
+		} catch {
+			code.select();
+			document.execCommand('copy');
+		}
+		btn.textContent = 'Copied!';
+		setTimeout(() => (btn.textContent = 'Copy embed code'), 1500);
+	});
+</script>

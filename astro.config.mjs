@@ -10,7 +10,7 @@ import { sitemapConfig } from './vendor/site-toolkit/packages/sitemap-config/src
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://dayalmanac.com',
-	integrations: [mdx(), sitemap(sitemapConfig())],
+	integrations: [mdx(), sitemap(sitemapConfig({ excludePaths: ['/embed/'] }))],
 	build: {
 		inlineStylesheets: 'always',
 	},

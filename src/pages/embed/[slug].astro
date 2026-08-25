@@ -1,0 +1,47 @@
+---
+// Embed skin: the countdown widget alone, no site chrome, meant to be iframed by
+// third-party pages (see linkable-asset-backlog.md #2). Canonical points at the full
+// observance page so the embed never competes with it in search; excluded from the
+// sitemap for the same reason (see astro.config.mjs), same pattern as CalcBadger's
+// src/pages/embed/[slug].astro.
+//
+// Only observances with a computable, forward-looking dateRule are eligible -- 'table'
+// kind (Easter, lunisolar/religious calendars) is transcribed from a published table
+// rather than generated years ahead, so it is not safe to promise a correct countdown on
+// an embed left sitting on someone else's page indefinitely.
+import '../../styles/global.css';
+import CountdownWidget from '../../components/CountdownWidget.astro';
+import { guides, type Guide } from '../../data/guides';
+import { SITE_ORIGIN } from '../../consts';
+
+export function getStaticPaths() {
+	return guides
+		.filter((g) => g.dateRule && g.dateRule.kind !== 'table')
+		.map((guide) => ({
+			params: { slug: guide.slug },
+			props: { guide },
+		}));
+}
+
+interface Props {
+	guide: Guide;
+}
+
+const { guide } = Astro.props;
+const pageUrl = `${SITE_ORIGIN}/${guide.slug}/`;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="canonical" href={pageUrl} />
+		<title>Days until {guide.title} — DayAlmanac</title>
+		<meta name="description" content={`A live countdown to ${guide.title}, generated from the same date rule as the full DayAlmanac page.`} />
+		<meta name="robots" content="noindex, follow" />
+	</head>
+	<body style="background:transparent;margin:0;padding:0.4rem">
+		<CountdownWidget title={guide.title} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} embed />
+	</body>
+</html>

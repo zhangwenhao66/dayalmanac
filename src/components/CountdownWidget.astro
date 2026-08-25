@@ -1,0 +1,79 @@
+---
+// "Days until [observance]" countdown -- the linkable-asset embed described in
+// linkable-asset-backlog.md #2. Same split as DayQuiz.astro: occurrences are serialized
+// into a data-* attribute at build time, and nextCountdown()/formatCountdownLabel() --
+// pure, unit-tested functions in src/lib/countdown.ts -- run client-side so the number is
+// correct on whatever day a visitor (or a third-party page embedding this) actually
+// loads it, not just on the day the site last rebuilt.
+//
+// `embed` controls only the attribution line. It is not a prop a page embedding this via
+// iframe can turn off -- the iframe only ever loads /embed/[slug]/, which always renders
+// with embed=true baked in server-side (see that page). That is the whole point: the
+// backlink is structural, not optional.
+import type { CountdownOccurrence } from '../lib/countdown';
+
+interface Props {
+	title: string;
+	occurrences: CountdownOccurrence[];
+	pageUrl: string;
+	embed?: boolean;
+}
+
+const { title, occurrences, pageUrl, embed = false } = Astro.props;
+const occurrencesJson = JSON.stringify(occurrences);
+---
+
+<div class="countdown-widget leaf px-5 py-5 sm:px-6" data-occurrences={occurrencesJson}>
+	<p class="rubric m-0">Days until</p>
+	<p class="font-display m-0 mt-1.5 text-base font-semibold leading-snug text-[var(--ink)]/80">{title}</p>
+	<p class="countdown-days font-display m-0 mt-2 text-[2.4rem] leading-none font-bold text-[var(--flag-dark)] sm:text-[2.8rem]">
+		&nbsp;
+	</p>
+	<p class="countdown-target m-0 mt-2 text-sm text-[var(--ink)]/60">&nbsp;</p>
+
+	{
+		embed && (
+			<p class="mt-4 mb-0 border-t border-[var(--rule)] pt-3 text-right text-xs text-[var(--ink)]/50">
+				<a href={pageUrl} target="_blank" rel="noopener" class="font-semibold text-[var(--flag-dark)] no-underline hover:underline">
+					Countdown by DayAlmanac
+				</a>
+			</p>
+		)
+	}
+</div>
+
+<script>
+	import { nextCountdown, formatCountdownLabel, todayISO } from '../lib/countdown';
+	import type { CountdownOccurrence } from '../lib/countdown';
+
+	document.querySelectorAll<HTMLElement>('.countdown-widget').forEach((root) => {
+		const raw = root.dataset.occurrences;
+		if (!raw) return;
+		const occurrences: CountdownOccurrence[] = JSON.parse(raw);
+		const daysEl = root.querySelector<HTMLElement>('.countdown-days');
+		const targetEl = root.querySelector<HTMLElement>('.countdown-target');
+		if (!daysEl || !targetEl) return;
+
+		const result = nextCountdown(occurrences, todayISO());
+		if (!result) {
+			daysEl.textContent = '—';
+			targetEl.textContent = 'No date on record.';
+			return;
+		}
+
+		daysEl.textContent = formatCountdownLabel(result.daysRemaining);
+		if (result.daysRemaining < 0) {
+			targetEl.textContent = '';
+			return;
+		}
+		const [y, m, d] = result.occurrence.date.split('-').map(Number);
+		const formatted = new Date(Date.UTC(y, m - 1, d)).toLocaleDateString('en-US', {
+			weekday: 'long',
+			month: 'long',
+			day: 'numeric',
+			year: 'numeric',
+			timeZone: 'UTC',
+		});
+		targetEl.textContent = formatted;
+	});
+</script>

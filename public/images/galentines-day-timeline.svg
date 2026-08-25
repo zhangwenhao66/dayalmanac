@@ -1,0 +1,64 @@
+<svg viewBox="0 0 1200 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline from the 2010 Parks and Recreation episode to the Massachusetts Senate's annual Galentine's Day event</title>
+  <desc id="desc">February 11, 2010: NBC airs "Galentine's Day," season 2 episode 16 of Parks and Recreation, written by Michael Schur, in which Leslie Knope throws her fictional annual party the day before Valentine's Day. 2020: Michelle Obama posts a photo captioned with the hashtag GalentinesDay, thanking her girlfriends. February 13, 2023: Massachusetts Senate President Karen Spilka hosts the first annual Galentine's Day event at City Winery in Boston, drawing about 150 of the state's most prominent women, and has repeated it every year since.</desc>
+  <rect width="1200" height="480" fill="#faf7f0" />
+
+  <text x="600" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">From a sitcom joke to a real Massachusetts institution</text>
+  <text x="600" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">No government ever declared February 13 a holiday. A TV episode did, and reality followed.</text>
+
+  <line x1="90" y1="230" x2="1110" y2="230" stroke="#d8e0e2" stroke-width="3" />
+
+  <!-- 2010 -->
+  <circle cx="180" cy="230" r="10" fill="#2f4858" />
+  <text x="180" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">Feb 11, 2010</text>
+  <text x="180" y="262" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="180" dy="0">NBC airs "Galentine's</tspan>
+    <tspan x="180" dy="16">Day," Parks and</tspan>
+    <tspan x="180" dy="16">Recreation S2E16,</tspan>
+    <tspan x="180" dy="16">written by Michael</tspan>
+    <tspan x="180" dy="16">Schur. Leslie Knope's</tspan>
+    <tspan x="180" dy="16">annual party is</tspan>
+    <tspan x="180" dy="16">fiction — for now</tspan>
+  </text>
+
+  <!-- 2010s spread -->
+  <circle cx="480" cy="230" r="8" fill="#8a6a3a" />
+  <text x="480" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">2010s</text>
+  <text x="480" y="262" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="480" dy="0">Real Feb 13 parties</tspan>
+    <tspan x="480" dy="16">spread by word of</tspan>
+    <tspan x="480" dy="16">mouth and social</tspan>
+    <tspan x="480" dy="16">media. Target, Party</tspan>
+    <tspan x="480" dy="16">City and Etsy start</tspan>
+    <tspan x="480" dy="16">selling merchandise</tspan>
+  </text>
+
+  <!-- 2020 -->
+  <circle cx="760" cy="230" r="9" fill="#5b6d45" />
+  <text x="760" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1f1d1a">2020</text>
+  <text x="760" y="262" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="760" dy="0">Michelle Obama</tspan>
+    <tspan x="760" dy="16">posts #GalentinesDay,</tspan>
+    <tspan x="760" dy="16">thanking the friends</tspan>
+    <tspan x="760" dy="16">who keep her</tspan>
+    <tspan x="760" dy="16">"sane and grounded"</tspan>
+  </text>
+
+  <!-- 2023 -->
+  <circle cx="1020" cy="230" r="10" fill="#a8352b" />
+  <text x="1020" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">Feb 13, 2023</text>
+  <text x="1020" y="262" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">
+    <tspan x="1020" dy="0">MA Senate President</tspan>
+    <tspan x="1020" dy="16">Karen Spilka hosts</tspan>
+    <tspan x="1020" dy="16">the first of an annual</tspan>
+    <tspan x="1020" dy="16">Galentine's event at</tspan>
+    <tspan x="1020" dy="16">City Winery, Boston —</tspan>
+    <tspan x="1020" dy="16">~150 guests, repeated</tspan>
+    <tspan x="1020" dy="16">every year since</tspan>
+  </text>
+
+  <text x="600" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.6">
+    <tspan x="600" dy="0">Navy marks the show's own founding act. Gold marks organic public adoption with no single dated event.</tspan>
+    <tspan x="600" dy="20">Green and red mark specific, documented real-world observances that followed it.</tspan>
+  </text>
+</svg>

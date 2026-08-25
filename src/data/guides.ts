@@ -8587,6 +8587,158 @@ export const guides: Guide[] = [
     "image": "/images/national-quesadilla-day.jpg",
     "imageAlt": "A small quesadilla stand at a market in Mexico City",
     "imageCredit": "Photo by AlanRsasG, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puesto_de_quesadillas.JPG), CC BY-SA 4.0"
+  },
+  {
+    "slug": "galentines-day",
+    "category": "Observances",
+    "title": "Galentine's Day: February 13, Invented by One TV Episode",
+    "description": "Galentine's Day falls on February 13, the day before Valentine's Day. Its origin is unusually well documented: a single 2010 episode of Parks and Recreation.",
+    "published": "2026-08-25",
+    "updated": "2026-08-25",
+    "coreSummary": "Galentine's Day is an unofficial observance held every February 13, celebrating friendship between women. It has a rare, fully documented origin: the February 11, 2010 episode of Parks and Recreation titled \"Galentine's Day,\" written by series co-creator Michael Schur, in which Leslie Knope's fictional annual party for her female friends established the date and the name. No government, business, or registrar ever declared the day official; the real-world observance simply followed the show's script.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "February 13 every year, the day before Valentine's Day. The date does not shift for weekends.",
+      "status": "conventional",
+      "source": {
+        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
+      },
+      "occurrences": [
+        {
+          "date": "2026-02-13",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2027-02-13",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2028-02-13",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-02-13",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2030-02-13",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2031-02-13",
+          "weekday": "Thursday"
+        }
+      ],
+      "caveat": "No statute, proclamation, or registrar set the February 13 date; it comes directly from the show itself. In the episode's plot, Leslie Knope \"throws her annual 'Galentine's Day' party for her female friends, celebrated the day before Valentine's Day,\" per Wikipedia's episode summary. That annual, day-before-Valentine's framing is fictional dialogue that real-world celebrations then adopted wholesale, which is why this page treats the rule as conventional rather than documented by any real authority. Wikipedia's separate article on the real-world observance notes that Galentine's Day \"is typically marked as February 13, but can be observed any day,\" since many real parties are thrown on whichever weekend is most convenient rather than on the calendar date itself. There is no competing claim to a different \"true\" date. The flexibility is practical, not a dispute."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Galentine's Day traces to one specific, dated broadcast: \"Galentine's Day,\" the 16th episode of the second season of Parks and Recreation (the 22nd episode of the series overall), which aired on NBC on February 11, 2010. It was written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope (Amy Poehler) throws what the show frames as her annual Galentine's Day breakfast party for her female friends, held the day before Valentine's Day, describing it to the camera as \"Lilith Fair minus the angst and plus frittatas\" and, in the line most often quoted since, \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\" \"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" per Wikipedia's own account of both the episode and the observance it inspired. Nielsen Media Research recorded 4.98 million household viewers for the original broadcast, an improvement on the previous week's episode and a series-high rating among viewers 18 to 49 at the time. The episode received generally positive reviews on release. What happened after is unusual for an observance on this calendar: rather than a vague, undocumented drift into public use, the day can be traced to this one script, this one writer, and this one air date, with no earlier claimant and no competing origin story found anywhere in researching this page.",
+      "source": {
+        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What Galentine's Day is",
+        "body": [
+          "Galentine's Day sits outside any legal or civic calendar. It falls every February 13, the day before Valentine's Day, and celebrates friendship between women rather than romantic relationships. No statute or proclamation backs it, and the 2026 date, a Friday, is a normal working day everywhere: nobody gets time off, and businesses run their usual schedule.",
+          "The name is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's.\" Typical observances are informal: breakfast or brunch gatherings, gift exchanges, or a girls'-night-out the evening before Valentine's Day itself. Retailers including Target, Walmart, Party City, Amazon and Etsy now sell Galentine's-branded cards, decor and gifts, and some resorts and restaurants run Galentine's-themed package deals, according to Wikipedia's account of the observance."
+        ]
+      },
+      {
+        "heading": "The TV episode that invented it",
+        "body": [
+          "The entire holiday traces to a single, dated broadcast. \"Galentine's Day\" aired on NBC on February 11, 2010, as the 16th episode of Parks and Recreation's second season, written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope throws what the show frames as her annual Galentine's Day breakfast for her female friends, timed for the day before Valentine's Day. She describes it to the camera as \"Lilith Fair minus the angst and plus frittatas,\" then delivers the line that has been quoted in nearly every retelling of the holiday's origin since: \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\"",
+          "The episode itself was well received and did well by the show's own standards at the time: Nielsen recorded 4.98 million household viewers, an improvement over the previous week, and it tied that week's episode for the series' highest rating among viewers 18 to 49. Entertainment Weekly's Sandra Gonzalez praised how much character development the episode packed into 22 minutes; other critics, including The A.V. Club's Steve Heisler and IGN's Matt Fowler, singled out the same scene for the same reason: it let Leslie be competent and generous rather than merely eccentric, which is exactly the tone Galentine's Day still runs on 16 years later."
+        ],
+        "image": {
+          "src": "/images/galentines-day-timeline.svg",
+          "alt": "Timeline showing Galentine's Day's history: NBC airs the Parks and Recreation episode that invents it on February 11, 2010; real-world Feb 13 parties spread through the 2010s via word of mouth, social media and retail merchandise; Michelle Obama posts #GalentinesDay in 2020; Massachusetts Senate President Karen Spilka hosts the first of an annual Galentine's Day event at City Winery in Boston on February 13, 2023, repeated every year since with around 150 guests"
+        }
+      },
+      {
+        "heading": "How a sitcom joke became a real tradition",
+        "body": [
+          "For its first several years, Galentine's Day stayed exactly what the show invented: a fictional party, referenced only in reruns and syndication. Real-world adoption built gradually through the 2010s, spread mainly by word of mouth and social media rather than by any organization pushing it, and retailers eventually followed the demand rather than creating it: Target, Walmart, Party City, Amazon and Etsy now all carry Galentine's-branded merchandise, per Wikipedia's account.",
+          "By 2020 the observance had reached the White House's former occupants. Michelle Obama posted a photo on Instagram and Twitter captioned with the hashtag #GalentinesDay, writing in part: \"I want to shout out my girlfriends who help me stay sane and grounded through all of life's ups and downs... Whether we're catching up over the phone, venting over a cup of coffee, or laughing it out during an 80s-themed workout, I know I can lean on these ladies — and that's made all the difference.\" The Parks and Recreation show's own social media account replied approvingly. This page found only \"2020\" attached to the post in its sourcing and did not find an independently confirmed exact date, so none is stated here beyond the year."
+        ]
+      },
+      {
+        "heading": "Massachusetts turned it into an actual power event",
+        "body": [
+          "The most concrete real-world institution built around the date sits in Boston. On February 13, 2023, Massachusetts Senate President Karen Spilka hosted the first annual Galentine's Day event at City Winery, bringing together roughly 150 of the state's most prominent women, spanning politicians, CEOs and civic leaders, for an evening billed as lighthearted, with Boston Globe columnist Shirley Leung as emcee. The inaugural guest list included Governor Maura Healey, Boston Mayor Michelle Wu, Lieutenant Governor Kim Driscoll, Attorney General Andrea Campbell and Congresswoman Ayanna Pressley, alongside Mass General Brigham CEO Dr. Anne Klibanski and other business leaders, according to the Boston Globe's coverage of the event.",
+          "Spilka has repeated the event every year since, and it has become a recognizable fixture of the Massachusetts political and business calendar rather than a one-off. The 2024 edition, again at City Winery, drew Mayor Wu, Boston City Councilor Ruthzee Louijeune and Middlesex District Attorney Marian Ryan among its attendees. It is a rare case of a fictional TV holiday being adopted, by name and by date, as an actual annual institution run by a sitting elected official."
+        ]
+      },
+      {
+        "heading": "Is Galentine's Day official?",
+        "body": [
+          "No. Researching this page found no federal or state proclamation, no congressional resolution, and no legal designation of any kind naming February 13 \"Galentine's Day.\" Sites like National Day Calendar list it on their February 13 page alongside other observances, but that listing reflects the site's own celebrations calendar rather than any government or standards body recognizing the date; this calendar draws the same distinction on pages like [Talk Like a Pirate Day](/talk-like-a-pirate-day/), a rare comparison case that also traces to a single, fully named origin: two friends who invented it during a 1995 racquetball game, not any legislature.",
+          "This calendar carries a growing family of pages built around celebrating specific people rather than events, among them [National Boyfriend Day](/national-boyfriend-day/), whose own origin nobody can trace, and [National Daughters Day](/national-daughters-day/). Galentine's Day is the rare entry in that group where the origin is not in dispute at all. The gap here sits between \"documented\" and \"official,\" not between \"documented\" and \"unverified.\""
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Galentine's Day in 2026?",
+        "answer": "Friday, February 13, 2026, the day before Valentine's Day. The date is fixed at February 13 every year and does not shift for weekends."
+      },
+      {
+        "question": "Who invented Galentine's Day?",
+        "answer": "Michael Schur, co-creator of Parks and Recreation, who wrote the episode \"Galentine's Day\" (season 2, episode 16), directed by Ken Kwapis and aired on NBC on February 11, 2010. The fictional annual party Leslie Knope hosts in that episode established both the name and the February 13 date."
+      },
+      {
+        "question": "Why is it called Galentine's Day?",
+        "answer": "\"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" coined for the Parks and Recreation episode of the same name."
+      },
+      {
+        "question": "Is Galentine's Day an official holiday?",
+        "answer": "No. No federal or state proclamation, congressional resolution, or legal designation naming February 13 \"Galentine's Day\" was found in researching this page. It remains an unofficial, culturally observed day."
+      },
+      {
+        "question": "What is the original Galentine's Day quote?",
+        "answer": "Leslie Knope's line from the 2010 episode: \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\""
+      },
+      {
+        "question": "Has anyone famous celebrated Galentine's Day?",
+        "answer": "Michelle Obama posted an Instagram and Twitter photo in 2020 captioned with the hashtag #GalentinesDay, thanking her friends. Since February 13, 2023, Massachusetts Senate President Karen Spilka has hosted an annual Galentine's Day event at City Winery in Boston, drawing roughly 150 prominent women each year, including Governor Maura Healey and Congresswoman Ayanna Pressley at the first event."
+        },
+      {
+        "question": "Does Galentine's Day always fall exactly on February 13?",
+        "answer": "The canonical date from the show is February 13, and that is the date this calendar's table tracks. In practice, many real-world celebrations are held on whichever nearby day is most convenient, which Wikipedia's own account of the observance acknowledges directly. That flexibility is a practical accommodation, not a dispute over the \"real\" date."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
+      },
+      {
+        "label": "Wikipedia — Galentine's Day (observance)",
+        "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(observance)"
+      },
+      {
+        "label": "HISTORY — What Is Galentine's Day?",
+        "url": "https://www.history.com/articles/what-is-galentines-day"
+      },
+      {
+        "label": "Boston Globe — Prominent Massachusetts women gather for 'Galentine's Day' celebration (Feb. 14, 2023)",
+        "url": "https://www.bostonglobe.com/2023/02/14/metro/prominent-massachusetts-women-gather-galentines-day-celebration/"
+      },
+      {
+        "label": "Senate President Karen E. Spilka — Karen Spilka Hosts First Annual Galentine's Day Celebration",
+        "url": "https://karenspilka.com/updates/2023/3/6/karen-spilka-hosts-first-annual-galentines-day-celebration"
+      },
+      {
+        "label": "Boston Globe — For Karen Spilka, this Galentine's Day is serious business (Feb. 13, 2026)",
+        "url": "https://www.bostonglobe.com/2026/02/13/business/karen-spilka-michelle-wu/"
+      }
+    ],
+    "image": "/images/galentines-day-timeline.svg",
+    "imageAlt": "Timeline showing Galentine's Day's history: NBC airs the Parks and Recreation episode that invents it on February 11, 2010; real-world Feb 13 parties spread through the 2010s via word of mouth, social media and retail merchandise; Michelle Obama posts #GalentinesDay in 2020; Massachusetts Senate President Karen Spilka hosts the first of an annual Galentine's Day event at City Winery in Boston on February 13, 2023, repeated every year since with around 150 guests"
   }
 ];
 

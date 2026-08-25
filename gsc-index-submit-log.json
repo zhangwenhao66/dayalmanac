@@ -264,5 +264,13 @@
       "https://dayalmanac.com/birth-flowers-by-month/"
     ],
     "quota_used": "0 (skipped, no unindexed candidate found)"
+  },
+  {
+    "date": "2026-08-25",
+    "action": "quota_exceeded",
+    "reason": "今日新发布Ovarian Cancer Awareness Month（dayalmanac-content-publishing任务）。URL Inspection确认URL is not on Google/unknown to Google，点击REQUEST INDEXING后返回'Quota Exceeded'（共享账号级配额当日已用完，本轮此前5站FactCrumbs/WarCrumbs/MythCairn/UmberLore/CalcBadger各提交1个成功，Hollowvane跳过不耗配额），立即停止未重试。游标停留在DayAlmanac，下次运行从此站续做（含今日这篇+DialWick/LingoGrove/WageLark均未轮到）。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [],
+    "quota_used": "0 (submission failed: Quota Exceeded)"
   }
 ]

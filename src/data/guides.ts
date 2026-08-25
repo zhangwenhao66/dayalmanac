@@ -8453,6 +8453,140 @@ export const guides: Guide[] = [
     ],
     "image": "/images/ovarian-cancer-awareness-month-timeline.svg",
     "imageAlt": "Timeline from Clinton's 1998 proclaimed Awareness Week through NOCC's 2000 expansion to a full month, the earliest confirmed full-month presidential proclamation in 2002, a 2023 House resolution, and the 2025 shift to a presidential message"
+  },
+  {
+    "slug": "national-quesadilla-day",
+    "category": "Observances",
+    "title": "National Quesadilla Day: September 25, Founded by V&V Supremo in 2019",
+    "description": "National Quesadilla Day falls every September 25, launched by V&V Supremo Foods in 2019. The company's own current website dates its own creation to 2020.",
+    "published": "2026-08-25",
+    "updated": "2026-08-25",
+    "coreSummary": "National Quesadilla Day is observed every September 25 in the United States, a fixed date created in 2019 by V&V Supremo Foods, Inc., a Chicago-based Mexican cheese maker, and timed to coincide with the opening of National Hispanic Heritage Month. Unlike National Coffee Day and National Guacamole Day, two of its closest neighbors on this calendar, its origin is unusually well documented: a named company, a named executive, and contemporaneous local news coverage of the first-ever celebration on September 25, 2019. That documentation also catches something odd: V&V Supremo's own current website dates its own creation to 2020, a year later than the company's 2019 press coverage shows.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 25 every year, the same fixed calendar date since the observance began. V&V Supremo, the company that created the day, states on its own site that it proclaimed every September 25 to be National Quesadilla Day going forward.",
+      "status": "documented",
+      "source": {
+        "label": "V&V Supremo Foods — Celebrate National Quesadilla Day (company blog)",
+        "url": "https://www.vvsupremo.com/celebrate-national-quesadilla-day-a-flavorful-fiesta-with-shredded-chihuahua-brand-quesadilla-cheese/"
+      },
+      "occurrences": [
+        { "date": "2026-09-25", "weekday": "Friday" },
+        { "date": "2027-09-25", "weekday": "Saturday" },
+        { "date": "2028-09-25", "weekday": "Monday" },
+        { "date": "2029-09-25", "weekday": "Tuesday" },
+        { "date": "2030-09-25", "weekday": "Wednesday" },
+        { "date": "2031-09-25", "weekday": "Thursday" }
+      ]
+    },
+    "founding": {
+      "status": "documented",
+      "text": "V&V Supremo Foods, Inc., a Chicago-based maker of Mexican-style cheeses founded in 1964 by Gilberto Villaseñor Sr. and Ignacio Villaseñor, created National Quesadilla Day to promote its Chihuahua brand Quesadilla Cheese. The first-ever observance ran on Wednesday, September 25, 2019: ABC7 Chicago covered it live that day, with Gilberto Villaseñor II, the company's Chief Visionary Officer and a second-generation owner, appearing on the local morning show to help \"kick off National Hispanic Heritage Month and the first-ever National Quesadilla Day.\" The company sent a food truck to three Chicago locations that day to give away free quesadillas made with its cheese, and trade press (Dairy Foods, September 13, 2019) and a wire release (Business Wire, September 18, 2019) covered the launch in the days beforehand. V&V Supremo's own current website nonetheless dates its own creation to 2020, a year later than its own 2019 press coverage and live local-news appearance show. Whether that is a simple typo carried over from an old draft or a genuine mixup with a bigger second-year push, the company has not said, and no corrected version of the page has been found.",
+      "source": {
+        "label": "ABC7 Chicago — V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
+        "url": "https://abc7chicago.com/national-hispanic-heritage-month-2019-what-is-quesadilla-day/5549664/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Quesadilla Day is",
+        "body": [
+          "National Quesadilla Day is an unofficial food-marketing observance with no legal or governmental status. Nothing about it appears in federal law, and banks, government offices, and the postal service run on their ordinary schedule on September 25 regardless of the day's name.",
+          "In practice, the day works the way most food-brand observances on this calendar do: a single company puts a date behind a dish, restaurant chains and grocery brands pick it up for a week of social posts and discounts, and calendar-aggregator sites like National Day Calendar and Checkiday list it alongside hundreds of similar days. What sets this one apart from most of its neighbors is not the quesadilla itself but how well the paper trail behind the launch holds up: a real company, a real press cycle, and a same-day television segment, all still checkable years later."
+        ]
+      },
+      {
+        "heading": "A 2019 launch that the founding company's own website now dates wrong",
+        "body": [
+          "V&V Supremo Foods, Inc. created National Quesadilla Day to promote its Chihuahua brand Quesadilla Cheese, and the first observance ran on September 25, 2019, not 2020. ABC7 Chicago's Windy City Live covered it that same day, describing it on air as the launch of \"the first-ever National Quesadilla Day,\" with Gilberto Villaseñor II, one of the company's second-generation owners, appearing to make chorizo-and-poblano quesadillas. V&V Supremo sent a branded food truck to three locations around downtown Chicago that day to give away free samples, and the trade publication Dairy Foods reported the company's plans on September 13, 2019, ahead of the date itself.",
+          "V&V Supremo's own website today tells a different story. Its current blog post about the day states plainly, \"In 2020, V&V Supremo® proclaimed that every September 25th would be National Quesadilla Day,\" a full year after its own 2019 press coverage and live local-news appearance. The date the day falls on, September 25, has never been in dispute; the year the company itself says it started the tradition has quietly drifted a year later on its own site than the contemporaneous record supports."
+        ]
+      },
+      {
+        "heading": "Timed to open Hispanic Heritage Month, not to a random Thursday",
+        "body": [
+          "The September 25 date was not an arbitrary pick from the calendar. V&V Supremo launched the day explicitly alongside the opening of [National Hispanic Heritage Month](/national-hispanic-heritage-month/), which runs September 15 through October 15 under federal law, and Villaseñor's ABC7 appearance framed the quesadilla giveaway as helping \"kick off\" the month rather than as a standalone food promotion. September 25 lands ten days into that month-long window and nine days after [Mexican Independence Day](/mexican-independence-day/) on September 16, putting the newest of the calendar's Mexican-food observances inside the same 30-day window as the older, better-established ones rather than off on its own elsewhere in the calendar.",
+          "That placement also lines it up with a donation campaign rather than pure self-promotion. According to Checkiday's account of the launch, V&V Supremo pledged to donate $1 to Chicago's United Neighborhood Organization for every photo of a Chihuahua-cheese quesadilla shared on social media tagged with the company and the hashtag #NationalQuesadillaDay, tying the marketing push to a local civic group active in the same Hispanic Heritage Month calendar."
+        ]
+      },
+      {
+        "heading": "Unusually well documented, next to its calendar neighbors",
+        "body": [
+          "Most food days on this calendar have murkier origins than they look. [National Coffee Day](/national-coffee-day/) has no statute, proclamation, or founder on record for its September 29 date; it is simply the date the observance has been kept on for years, with no authority behind it. [National Guacamole Day](/national-guacamole-day/), timed to the same Mexican Independence Day anchor as this one, has no founder traced to it either, appearing instead to have spread through restaurant promotions and social media with no documented registration.",
+          "National Quesadilla Day breaks that pattern. There is a company willing to put its name on the record, an executive who appeared on camera the day it launched, and a local news segment that is still online years later, a combination none of its neighbors can point to. The one place the record gets muddy is not whether it happened, but which year the company itself now says it happened.",
+          "That does not make it official. No government body recognizes September 25 as anything, and the observance survives on the same mix of chain-restaurant deals and social media hashtags that keeps most of this calendar's brand-created days alive year to year."
+        ]
+      },
+      {
+        "heading": "Who V&V Supremo is",
+        "body": [
+          "V&V Supremo Foods, Inc. is not a food-marketing agency or a national chain; it is a family-owned Mexican dairy and meat producer based in Chicago. Brothers Gilberto Villaseñor Sr. and Ignacio Villaseñor started the company in 1964 with $500, making Mexican-style farmer's cheese for Chicago's Mexican immigrant community. Six decades later, in an August 2024 anniversary release, the company described itself as one of the oldest continuously family-owned businesses of its kind in the United States, still run by the founders' sons: Gilberto Villaseñor II, the Chief Visionary Officer quoted in the 2019 launch coverage, and his brother Philip Villaseñor, the company's Chief Integrator.",
+          "That family-business framing matters for reading the origin story correctly. National Quesadilla Day was not commissioned from an outside ad agency working a generic food-brand calendar; it came from the same family that has run V&V Supremo since 1964, launched in 2019, 55 years into the business, and, as the ABC7 segment shows, folded directly into the family's own promotion of Hispanic Heritage Month rather than treated as a separate marketing exercise."
+        ]
+      },
+      {
+        "heading": "How the day is marked today",
+        "body": [
+          "Outside V&V Supremo's own campaign, National Quesadilla Day has not become a fixture on other chains' marketing calendars the way [National Taco Day](/national-taco-day/) eventually did for Taco Bell. National Today's own 2026 page for the day, last updated in June 2026, frames its restaurant-deals section as a forecast rather than a report: it tells readers to \"expect\" a Chipotle discount and says Taco Bell \"might\" run special pricing, without linking to an actual announced promotion from either chain for that year. Calendar-aggregator sites still list Chipotle, Qdoba, and Moe's Southwest Grill as brands associated with the day, but the sourcing behind those associations is thinner than the sourcing behind V&V Supremo's own founding role.",
+          "What is documented every year is smaller in scope: home cooks and Mexican restaurants posting quesadilla photos with the #NationalQuesadillaDay hashtag V&V Supremo created in 2019, and calendar sites republishing the September 25 date from each other. Unlike a federally recognized month like Hispanic Heritage Month, nothing compels any business to participate, and most years the day passes with far less commercial notice than its neighbors on the calendar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What day is National Quesadilla Day in 2026?",
+        "answer": "Friday, September 25, 2026. It falls on the same calendar date, September 25, every year."
+      },
+      {
+        "question": "Who started National Quesadilla Day?",
+        "answer": "V&V Supremo Foods, Inc., a Chicago-based Mexican cheese company founded in 1964, created it to promote its Chihuahua brand Quesadilla Cheese. The first observance ran September 25, 2019, with the company's Gilberto Villaseñor II appearing on Chicago television to help launch it."
+      },
+      {
+        "question": "Did National Quesadilla Day start in 2019 or 2020?",
+        "answer": "2019. Contemporaneous coverage, including a same-day ABC7 Chicago segment calling it \"the first-ever National Quesadilla Day\" and trade-press coverage from Dairy Foods days beforehand, places the launch on September 25, 2019. V&V Supremo's own current website states 2020, a year later than its own 2019 coverage shows."
+      },
+      {
+        "question": "Why is National Quesadilla Day on September 25?",
+        "answer": "V&V Supremo picked the date to coincide with the opening weeks of National Hispanic Heritage Month, which runs September 15 through October 15, and framed the launch as helping kick off that month rather than as an unrelated food promotion."
+      },
+      {
+        "question": "Is National Quesadilla Day a federal holiday?",
+        "answer": "No. It has no legal or governmental status. Banks, government offices, and the postal service operate on their normal schedule on September 25."
+      }
+    ],
+    "sources": [
+      {
+        "label": "ABC7 Chicago — V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
+        "url": "https://abc7chicago.com/national-hispanic-heritage-month-2019-what-is-quesadilla-day/5549664/"
+      },
+      {
+        "label": "V&V Supremo Foods — Celebrate National Quesadilla Day (company blog, states 2020 founding)",
+        "url": "https://www.vvsupremo.com/celebrate-national-quesadilla-day-a-flavorful-fiesta-with-shredded-chihuahua-brand-quesadilla-cheese/"
+      },
+      {
+        "label": "Checkiday — National Quesadilla Day",
+        "url": "https://www.checkiday.com/480cafdfc23688044bddd8fe8668c620/national-quesadilla-day"
+      },
+      {
+        "label": "Dairy Foods — V&V Supremo declares Sept. 25 'National Quesadilla Day' (Sept. 13, 2019)",
+        "url": "https://www.dairyfoods.com/articles/93844-vv-supremo-declares-sept-25-national-quesadilla-day"
+      },
+      {
+        "label": "Business Wire — V&V Supremo Launches National Quesadilla Day on September 25th (Sept. 18, 2019)",
+        "url": "https://www.businesswire.com/news/home/20190918005164/en/VV-Supremo%C2%AE-Launches-National-Quesadilla-Day-September"
+      },
+      {
+        "label": "PR Newswire — V&V Supremo Foods, Inc. Celebrates 60 Years... (Aug. 30, 2024)",
+        "url": "https://www.prnewswire.com/news-releases/vv-supremo-foods-inc-celebrates-60-years-bringing-great-memories-through-great-food-as-one-of-the-oldest-family-owned-businesses-of-its-kind-in-the-us-302234968.html"
+      },
+      {
+        "label": "National Today — National Quesadilla Day (deals section, updated June 2026)",
+        "url": "https://nationaltoday.com/national-quesadilla-day/"
+      }
+    ],
+    "image": "/images/national-quesadilla-day.jpg",
+    "imageAlt": "A small quesadilla stand at a market in Mexico City",
+    "imageCredit": "Photo by AlanRsasG, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puesto_de_quesadillas.JPG), CC BY-SA 4.0"
   }
 ];
 

@@ -9072,6 +9072,164 @@ export const guides: Guide[] = [
     ],
     "image": "/images/national-adoption-day-timeline.svg",
     "imageAlt": "Timeline showing National Adoption Day's growth from a single Los Angeles courthouse in 1997 to a nationwide 26th annual event in 2025"
+  },
+  {
+    "slug": "bullying-prevention-month",
+    "category": "Observances",
+    "title": "National Bullying Prevention Month: October, Never Proclaimed",
+    "description": "National Bullying Prevention Month runs all of October, founded by PACER in 2006. No president has proclaimed it, and two other groups run their own bullying observances.",
+    "published": "2026-08-26",
+    "updated": "2026-08-26",
+    "coreSummary": "National Bullying Prevention Month covers all of October, every year, in the United States. PACER's National Bullying Prevention Center founded it in 2006 as a one-week event and expanded it to the full month in 2010. No president has ever issued a proclamation for it, unlike several other federally proclaimed October observances; federal involvement has instead come through Department of Education guidance and ongoing content from the HHS site StopBullying.gov. The month also overlaps, confusingly, with two other named bullying-prevention observances run by different organizations: STOMP Out Bullying's World Day of Bullying Prevention on the first Monday of October, and UNESCO's International Day against Violence and Bullying at School in early November.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of October, every year, from October 1 through October 31, rather than a single date or a floating week within the month.",
+      "source": {
+        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-01",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2027-10-01",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2028-10-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-10-01",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-01",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2031-10-01",
+          "weekday": "Wednesday"
+        }
+      ],
+      "caveat": "There is no rival date range to sort out here: PACER, StopBullying.gov, and every school district and advocacy group consulted here agree the entire month of October is National Bullying Prevention Month, so the table lists October 1 as each year's start with the observance running through October 31. The name varies more than the dates. Federal agencies, including HHS's StopBullying.gov and the CDC, generally call it National Bullying Prevention Awareness Month; the District of Columbia's Office of the State Superintendent of Education shortens it to Bullying Prevention Awareness Month. All three names describe the same October observance, not different days. Inside the month, PACER's own signature event, Unity Day, adds a second layer of date confusion: PACER's FAQ describes it as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" which holds for 2023 (October 18), 2024 (October 16), and 2026 (October 21), but not for 2025, when PACER itself set Unity Day for October 22, the fourth Wednesday, not the third. Separately, two other organizations run their own named bullying-prevention observances inside overlapping but distinct dates: STOMP Out Bullying's trademarked World Day of Bullying Prevention falls on the first Monday of October (October 5 in 2026) and calls for wearing blue, while UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month entirely. None of the three organizations coordinates its date or color scheme with the others."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "PACER's National Bullying Prevention Center states plainly on its own site that it \"founded NBPM in 2006 as a week-long event; it became a month-long one in 2010,\" expanding through partnerships with the National PTA, the American Federation of Teachers, and the National Education Association. That 2006 founding year is independently corroborated: a White House blog post published October 29, 2014, under the byline of Taryn Williams, then Associate Director of the Office of Public Engagement, opens by noting \"this October marks the 8th anniversary of National Bullying Prevention Awareness Month. Begun in 2006...\" The White House blog post makes no reference to PACER's own materials, yet lands on the identical year. The month's signature event, Unity Day, came later and separately: PACER's own Unity Day page states it \"started by PACER's National Bullying Prevention Center in October 2011.\" No search of the archived White House record, across the Obama, Trump, and Biden administrations, turns up a formal presidential proclamation specifically for National Bullying Prevention Month, in contrast to observances such as Domestic Violence Awareness Month, which Congress designated by name in 1989. The closest the federal government has come is agency-level action: the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" guidance letter on bullying and disability law on October 21, 2014, timed to the month, and HHS's StopBullying.gov has published October recognition content since at least 2015.",
+      "source": {
+        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Bullying Prevention Month is",
+        "body": [
+          "National Bullying Prevention Month is a monthlong observance held every October to raise awareness of bullying's effects on children and to promote school and community prevention efforts. It carries no legal holiday status: no federal law requires it, government offices and schools run on their ordinary calendar, and no day off is attached to any part of it.",
+          "The month is organized around a mix of school activities, local events, and a shared media push rather than a single ceremony. PACER's National Bullying Prevention Center, a program of the Minnesota nonprofit PACER Center, coordinates the national campaign and supplies most of the classroom and community materials that schools use, though the actual events run locally, through individual schools, districts, and advocacy groups rather than through PACER directly."
+        ]
+      },
+      {
+        "heading": "From a one-week campaign to a full month, 2006 to 2010",
+        "body": [
+          "PACER's National Bullying Prevention Center says of its own creation that it founded the observance in 2006 as a week-long event, originally held in the first week of October under the name National Bullying Prevention and Awareness Week. That founding year holds up under an independent check: a White House blog post from October 2014, marking what it called the campaign's \"8th anniversary,\" traces the same 2006 start date without citing PACER as its source.",
+          "The expansion from a week to a full month came in 2010, through partnerships PACER built with three national education organizations: the National PTA, the American Federation of Teachers, and the National Education Association. Widening the campaign's institutional backers, rather than any change in federal law, is what turned a one-week school event into a nationwide October observance."
+        ]
+      },
+      {
+        "heading": "Unity Day, and a \"third Wednesday\" rule that doesn't always hold",
+        "body": [
+          "Unity Day is the month's signature event, five years younger than the month itself. PACER's own Unity Day page states it was \"started by PACER's National Bullying Prevention Center in October 2011,\" with a call to action that has stayed consistent since: wear and share the color orange, as a visible signal of support for students who have experienced bullying.",
+          "PACER's own FAQ describes the timing as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" and for most years that checks out: October 18 in 2023, October 16 in 2024, and October 21 in 2026 are each the third Wednesday of their respective Octobers. 2025 breaks the pattern. PACER's own affiliated Kids Against Bullying site set Unity Day for Wednesday, October 22, 2025, which is the fourth Wednesday of that October, not the third; October 15, the actual third Wednesday, was not used. PACER has not published an explanation for the departure, and nothing in the public record suggests it was anything other than a scheduling choice for that year. Readers checking a future year's date are better served by PACER's current listing than by working the \"third Wednesday\" rule out for themselves."
+        ]
+      },
+      {
+        "heading": "Two other organizations, two other Octobers",
+        "body": [
+          "Bullying prevention has more than one October observance, run by more than one organization, and the overlap is a real source of confusion rather than a minor footnote. STOMP Out Bullying, a nonprofit whose founder, Ross Ellis, identified the need in 2003 and created the organization in 2005 (a year before PACER's campaign began), runs its own trademarked World Day of Bullying Prevention® on the first Monday of every October, October 5 in 2026. Its call to action is the opposite color of PACER's: wear blue, not orange, under the hashtags #BeKind and #BlueUp. STOMP Out Bullying's own site bills the 2026 observance as the \"20th Annual World Day of Bullying Prevention,\" which puts the day's own first year at roughly 2007, about two years after the organization itself was founded, not immediately alongside it.",
+          "A third, separate observance sits outside October altogether. UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, was established by unanimous vote of UNESCO's member states in 2019 and first observed in November 2020. It falls on the first Thursday of November, November 5 in 2026, making it the one observance in this cluster with an unambiguous, single-vote founding date, in contrast to the more informal, organizer-driven origins of the two October campaigns.",
+          "None of the three organizations, PACER, STOMP Out Bullying, or UNESCO, coordinates its dates, colors, or messaging with either of the others. A school that wears orange for PACER's Unity Day in mid-October and is then asked about blue shirts for STOMP Out Bullying's day earlier that same month, or about a UNESCO-linked event in November, is encountering three real, independently run campaigns rather than one campaign inconsistently described."
+        ]
+      },
+      {
+        "heading": "Federal engagement, short of a proclamation",
+        "body": [
+          "The federal government has engaged with National Bullying Prevention Month without ever formally proclaiming it. No search of the archived White House record across the Obama, Trump, and Biden administrations turns up a presidential proclamation with this observance's name, the kind of document that stands behind [Domestic Violence Awareness Month](/domestic-violence-awareness-month/), which Congress designated by name in Public Law 101-112 in 1989.",
+          "What the federal government has done instead is act at the agency level. On October 21, 2014, the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" letter reminding schools of their bullying-related obligations to students with disabilities under Section 504 and Title II of the Americans with Disabilities Act, timed to land inside the month. HHS's StopBullying.gov, an interagency federal website, has published October recognition posts at least since 2015 and continues to do so. That is real, sustained federal engagement, but it is engagement through guidance letters and agency web content rather than through the kind of proclamation or joint resolution that stands behind several other awareness months on this calendar, including [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) and, on a different subject entirely, [National Suicide Prevention Month](/suicide-prevention-month/), which likewise carries no proclamation of its own despite the federal government's active involvement in suicide prevention.",
+          "Within the same October calendar, [Red Ribbon Week](/red-ribbon-week/) offers a useful point of comparison: it is also a nonprofit-organized, fixed-date observance, run since 1988 by the National Family Partnership rather than by any federal agency, with the DEA supporting and promoting it without having founded it. National Bullying Prevention Month follows a similar shape, an advocacy organization's campaign that federal agencies have folded into their own annual messaging without ever taking formal ownership of the date."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Bullying Prevention Month?",
+        "answer": "All of October, every year, in the United States. It is not a single date or a floating week; the observance runs from October 1 through October 31."
+      },
+      {
+        "question": "Who founded National Bullying Prevention Month?",
+        "answer": "PACER's National Bullying Prevention Center, a program of the Minnesota nonprofit PACER Center. It founded the campaign in 2006 as a one-week event and expanded it to the full month in 2010, with partnerships from the National PTA, the American Federation of Teachers, and the National Education Association."
+      },
+      {
+        "question": "Is National Bullying Prevention Month a federal holiday or a presidential proclamation?",
+        "answer": "No. No search of the archived White House record turns up a presidential proclamation specifically for this observance, and no federal law establishes it. Federal engagement has come through Department of Education guidance and HHS's StopBullying.gov content, not through a proclamation or congressional designation."
+      },
+      {
+        "question": "What is Unity Day, and when is it in 2026?",
+        "answer": "Unity Day is National Bullying Prevention Month's signature event, started by PACER's National Bullying Prevention Center in October 2011. Participants wear and share the color orange. In 2026, PACER has set Unity Day for Wednesday, October 21."
+      },
+      {
+        "question": "Is Unity Day always the third Wednesday of October?",
+        "answer": "Usually, but not always. PACER's own FAQ describes it that way, and 2023, 2024, and 2026 all match a third-Wednesday rule. In 2025, however, PACER set Unity Day for October 22, the fourth Wednesday of that October, not the third, without a published explanation for the exception."
+      },
+      {
+        "question": "Is National Bullying Prevention Month the same as World Day of Bullying Prevention?",
+        "answer": "No. They are separate observances run by different organizations. National Bullying Prevention Month, founded by PACER in 2006, covers all of October and centers on orange-themed Unity Day. World Day of Bullying Prevention® is a trademarked campaign of STOMP Out Bullying, a separate nonprofit founded in 2005, observed on the first Monday of October (October 5 in 2026) with a call to wear blue rather than orange."
+      },
+      {
+        "question": "Is National Bullying Prevention Month the same as UNESCO's bullying prevention day?",
+        "answer": "No. UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month, and was established by a unanimous vote of UNESCO member states in 2019, first observed in 2020. It is a distinct, internationally coordinated observance, not part of PACER's October campaign."
+      }
+    ],
+    "sources": [
+      {
+        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
+      },
+      {
+        "label": "PACER's National Bullying Prevention Center — Unity Day",
+        "url": "https://www.pacer.org/bullying/nbpm/unity-day/"
+      },
+      {
+        "label": "The White House (Obama Administration archive) — National Bullying Prevention Awareness Month, Oct. 29, 2014 (Taryn Williams)",
+        "url": "https://obamawhitehouse.archives.gov/blog/2014/10/29/national-bullying-prevention-awareness-month"
+      },
+      {
+        "label": "StopBullying.gov (HHS) — October is National Bullying Prevention Awareness Month",
+        "url": "https://www.stopbullying.gov/blog/2020/10/21/october-national-bullying-prevention-awareness-month"
+      },
+      {
+        "label": "STOMP Out Bullying — World Day of Bullying Prevention®",
+        "url": "https://www.stompoutbullying.org/world-day-bullying-prevention"
+      },
+      {
+        "label": "STOMP Out Bullying — Our History (founding by Ross Ellis, 2005)",
+        "url": "https://www.stompoutbullying.org/our-history"
+      },
+      {
+        "label": "UNESCO — International Day against Violence and Bullying at School, including Cyberbullying",
+        "url": "https://www.unesco.org/en/days/against-school-violence-and-bullying"
+      },
+      {
+        "label": "PACER Kids Against Bullying — Unity Day is Wednesday, Oct. 22, 2025",
+        "url": "https://pacerkidsagainstbullying.org/pacer-news/unity-day-wednesday-oct-22/"
+      }
+    ],
+    "image": "/images/bullying-prevention-month.jpg",
+    "imageAlt": "Students at Rota Elementary School in Spain gather for a Unity Day assembly, wearing orange to mark National Bullying Prevention Month",
+    "imageCredit": "U.S. Navy photo by Courtney Pollock, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rota_Elementary_School_Holds_Unity_Day_Assembly_(7472185).jpg)"
   }
 ];
 

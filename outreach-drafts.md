@@ -129,3 +129,37 @@ contact@dayalmanac.com
 **Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) — no em dashes, straight quotes, no AI-vocabulary hits, varied sentence rhythm, no filler/hedging, closing line rewritten to avoid repeating the exact "no pressure either way, just didn't want..." phrasing already used in the 2026-08-09 icalendars.net draft. All specific claims (founder name/year, which registries list which date, the Westphal research, the 1990s org's actual May events) sourced directly from src/data/guides.ts's national-sons-day entry, none invented. Site activity verified via WordPress sitemap (post-sitemap2.xml shows lastmod dates into July 2026) and live page fetch (HTTP 200, byline "Written by: Riya Bhorkar," datePublished 2025-08-30). Dedup checked via `gmail_send.py list --query "to:riyabhorkar.com OR from:riyabhorkar.com OR riyabhorkar"` (empty) and `grep -ril "riyabhorkar" 独立站/` across the whole matrix (no prior contact).
 
 **Status: PENDING INDEPENDENT REVIEW — drafted this run, not yet sent.** No independent review agent was spawned this run (see run log for 2026-08-20); this draft needs a fresh review pass (dedup re-check, fact re-verification against guides.ts, tone check) before sending, per this task's standing rule that only a separate step reviews and sends.
+
+---
+
+## 2026-08-26 — TheHomeSchoolMom (Mexico Independence Day lesson plans page) — broken-link replacement pitch (sent to legal/privacy inbox, no editorial contact found)
+
+**Target:** thehomeschoolmom.com ("TheHomeSchoolMom," run by Kelley Media, Ltd., a long-running homeschool resource site). Their "Mexico Independence Day" lesson-plans roundup (thehomeschoolmom.com/homeschool-lesson-plans/mexico-independence-day/) lists external resources with descriptions, including a link labeled "The Mexican War for Independence, 1810-1821" pointing at mexicanhistory.org/Independence.htm, described as covering "how the war differed from that of the American Revolution... Congress of Chilpancingo, Army revolt in Spain, and Plan de Iguala."
+
+**Confirmed dead:** `curl` to both http://mexicanhistory.org/Independence.htm and the bare domain http://mexicanhistory.org/ return a clean HTTP 409 Conflict with body `<html><head><title>409 Conflict</title></head><body><center><h1>409 Conflict</h1></center><hr><center>hws</center></body></html>` — a generic Hostinger shared-server error ("hws" = Hostinger web server) indicating the domain isn't mapped to any actively configured site on that IP. HTTPS on the same domain fails the TLS handshake entirely (no certificate served). DNS resolves cleanly (A record 72.60.75.74, cross-checked via Google DNS-over-HTTPS), so this isn't a DNS-death case like the 8/9 grandparents.com precedent — it's a live IP serving a domain-level "not hosting anything" error on every path tried, a stronger signal than a simple 404 and independently re-verified by a separate review agent (also caught the HTTPS TLS failure detail independently).
+
+**Topic match:** DayAlmanac's own `mexican-independence-day` page (https://dayalmanac.com/mexican-independence-day/, confirmed HTTP 200, content checked against `src/data/guides.ts`) covers exactly the 1810-1821 span the dead link's description promised: Hidalgo's September 16, 1810 Grito de Dolores at Dolores, his 1811 capture and execution, the war continuing under other commanders, and the actual 1821 treaty (which Spain itself didn't ratify until 1836). Independently re-verified as a genuine match, not a stretch.
+
+**Contact channel problem:** No general/editorial email exists anywhere on thehomeschoolmom.com. The /contact/ page routes into narrow, non-matching categories only (local-resource listings, field trips, advertising, "we don't accept article submissions," DMCA, privacy) with no catch-all option. /about/ and /faq/ have no email. The only email found anywhere on the site is help@makelleyandcompanyinc.com, on the Privacy Policy page, explicitly scoped to GDPR/CCPA data requests, not editorial content. The target article's byline is a generic "THSM Activities" account, not a named person. Searched Facebook business page and RocketReach-style lookups for a personal/editorial email; none found.
+
+**Recipient:** help@makelleyandcompanyinc.com (site's only public email, legal/privacy-scoped, used here as best-effort since no editorial channel exists)
+**Subject:** Dead link on your Mexico Independence Day lesson plans page
+
+**Body:**
+
+Hi,
+
+I was going through the resource list on your Mexico Independence Day lesson plans page and noticed the MexicanHistory.org link (the one described as covering the Mexican War for Independence, 1810-1821) doesn't resolve anymore. The whole domain returns a 409 error on every page I tried, including the homepage, and it doesn't even have a working HTTPS certificate, so it looks like the site itself is gone rather than just that one page moving.
+
+If you want something to swap in, we put together a page on the same 1810-1821 span your description mentions, covering Hidalgo's bell-ringing at Dolores and the eleven years between that and the treaty Spain didn't actually ratify until 1836: https://dayalmanac.com/mexican-independence-day/
+
+Take it or leave it, obviously. Just flagging it since the rest of that lesson plan page is well put together and this one link drags it down.
+
+Best,
+Owen
+DayAlmanac
+contact@dayalmanac.com
+
+**Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) — clean on both, no em/en dashes, no curly quotes, no AI-vocabulary hits, closing line varied from the phrasing already used in the 8/9 and 8/16 drafts ("no pressure either way, just didn't want...") to avoid a repeated template feel. Dedup checked via `gmail_send.py list --query "to:thehomeschoolmom.com OR from:thehomeschoolmom.com OR thehomeschoolmom OR makelleyandcompanyinc"` (empty) and `grep -ril "thehomeschoolmom\|mexicanhistory" 独立站/` across the whole matrix (no prior contact or mention anywhere).
+
+**Status: independent review verdict "send to help@makelleyandcompanyinc.com, but downgrade expectations — treat as low-probability-of-response, don't follow up if no reply, don't escalate channel-hunting further."** All five review items (dead-link re-verification, topic-match re-verification, dedup, email quality/tone, and the contact-channel judgment call) independently confirmed. Sent 2026-08-26 via `gmail_send.py send --from dayalmanac`, Message ID `1a03e50104f5cf4d`. Because the recipient is a legal/privacy inbox rather than an editorial one, no 10-14 day follow-up is planned for this one even if unreplied — a follow-up to a legal inbox about a content-correction request would compound the channel mismatch rather than fix it.

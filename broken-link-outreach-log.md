@@ -227,3 +227,40 @@ Red Ribbon Week 方向的教师资源合集（teachersfirst等）外链密度不
 1. Grokipedia的International Men's Day/World Kindness Day/Movember三个词条本身外链密度可能不低，但由于AI自动生成百科没有可联系的人类维护者，即使找到死链也无法执行"联系页面维护者"这一步——**这类候选源本身不适合本任务的操作模式（邮件外联），以后遇到同类AI百科/自动聚合站点可以直接跳过，不必逐条探测浪费预算**。
 2. Checkiday.com的national-dog-day页面（Sources区块nationaldogday.com）14天冷却期将于2026-08-30到期（8/16首次联系），到期后如果想继续挖同域名，注意nationaldogday.com本身已确认是存活的Wix站点（08-21标注"多次超时无法判定"的结论应更新——本轮用curl通过环境代理已能正常连接并确认存活），checkiday对该页的引用不构成断链候选，无需再单独核实这一条。
 3. 本轮确认的方法论教训：DayAlmanac定位"深度求证少数重点节日"与市面"大而全节日数据库/roundup"存在结构性覆盖错位——死链密度高的资源页覆盖的节日本站大多没有，本站已发布节日对应的资源页又多由大机构（政府/高校/全国性NGO）维护、死链率天然低。连续两轮（08-21、08-24）用不同角度验证了同一结论，如果下次运行还是从"找资源页"入手大概率继续无功而返，或可考虑改变策略方向（如等第4条"纪念日礼物清单"或第5条"生辰石生辰花大师参考图"等linkable asset做出来后，改用"资产型外链"打法而非纯断链置换）。
+
+---
+
+## 2026-08-26（第六次运行）
+
+### 本轮新角度 vs 历次已耗尽的角度
+
+先读完整日志（08-04至08-24共五轮）+ `src/data/guides.ts`当前全部60篇文章的slug/category/title列表（比此前"46篇"记录多，含8/22-8/26新增的mexican-independence-day/national-adoption-day/banned-books-week等）。历次结论：三个方向已确认耗尽——icalendars.net全部已知节日slug试探（08-24）、nationaltoday.com竞品外链缺口分析（08-16/21/24三次同一结果）、Grokipedia类AI百科（无可联系维护者）。08-21遗留建议"改搜本站已发布具体节日名而非泛主题合集"本轮进一步深挖，本轮新试的角度：
+
+1. **按本站已发布节日名分别搜索**（不止一个竞品站内，改用WebSearch广泛搜）：International Men's Day（Nova Southeastern LibGuide，内容稀薄无外部引用）、Banned Books Week（Gonzaga/ALA/Ashland/USC四个LibGuides，其中USC页面本身已404、Gonzaga页面外链丰富但逐条curl核实后均为200或403(WAF)或超时，无一条真实DEAD）、World Kindness Day（教师资源合集多为200存活）、ADHD/Ovarian Cancer/Epilepsy三个Awareness Month的LibGuides（Illinois/mccollege/Livingston等，内容稀薄或全为EBSCO付费墙链接，0条DEAD）、World Teachers Day（UNESCO官方页，未深挖，机构维护良好先验概率低）、Talk Like a Pirate Day官方"Pirate Links"页（约100条外链，年代久远大概率有真死链，但内容是节日相关的海盗节庆/商品/社群链接，跟本站"日期规则/起源考据"选题结构性不对应，即使死链也无法置换，未逐条verify，判定方向不成立）、National Adoption Day官方resources页（仅4条外链，全部200/403）、Anniversary Gifts by Year相关搜索（找到的都是现代竞品文章而非"引用列表"型资源页，此类型本身不存在，同08-24生辰石/生辰花方向的结论）
+2. **国际化内容角度**（任务新提示，此前各轮均未专门搜索）：确认DayAlmanac没有独立的"国际版"文章，而是把国际差异整合进现有文章的caveat字段（如national-grandparents-day提到Canada/Italy/Australia的不同日期，national-daughters-day提到India的International Daughters Day）。搜索"International Daughters Day India resources"、"Grandparents Day Canada Italy Australia resource page"，均只找到内容型文章（新闻/百科），没有"引用外部来源"结构的资源合集页，此角度本身也不成立。
+
+### 发现的真实失效链接 + 首次命中的主题匹配
+
+**http://mexicanhistory.org/Independence.htm**（及裸域名首页）→ TheHomeSchoolMom的"Mexico Independence Day"教师课程资源页所引用，锚文本"The Mexican War for Independence, 1810-1821"。curl核实：全部路径返回干净HTTP 409 Conflict，响应体为通用Hostinger共享服务器错误页（"hws"），HTTPS完全无法建立TLS握手，DNS正常解析（72.60.75.74，Google DoH交叉验证）。判定为域名级"未托管任何实际网站"的强信号（比普通404更强，同08-16 nationalcatday.com案例的证据强度级别）。
+
+**首次真正的主题匹配**：DayAlmanac新发布的`mexican-independence-day`文章（2026-08-22发布，"The Cry Came in 1810, the Treaty in 1821"）与死链锚文本描述的1810-1821跨度、Hidalgo事件、独立战争进程完全对应，不是硬凑。这是连续六轮以来第一次同时满足"真实DEAD"+"真实主题对应"两个条件（此前五轮:1次找到但因健康/YMYL错配放弃、多次因主题不重合放弃）。
+
+### 处理结果：找到真实机会但联系渠道存在缺陷，独立审核后降级发送
+
+TheHomeSchoolMom（thehomeschoolmom.com，运营方Kelley Media, Ltd.）网站没有任何可发现的编辑/内容类联系邮箱——`/contact/`页面只有几个不匹配的窄分类表单（本地资源提交、实地考察提交、广告、"不接受文章投稿"、DMCA、隐私），无通用兜底选项；`/about/`、`/faq/`均无邮箱；全站唯一能找到的邮箱是隐私政策页的`help@makelleyandcompanyinc.com`，明确是GDPR/CCPA数据请求专用，非编辑渠道；目标文章署名是泛化账号"THSM Activities"，非具名个人。
+
+起草两段式邮件（paragraph 1纯粹指出死链不提DayAlmanac，paragraph 2给出真实匹配的替换建议），过Skill(humanizer)+Skill(avoid-ai-writing)双检查（干净，无需改动，仅将结尾句从此前两轮已用过的"no pressure either way, just didn't want..."模板改写以避免重复腔调）。
+
+**独立复核agent**（全新会话，仅给背景不给我的结论）逐项独立核实：(1)死链证据独立复现，额外发现TLS handshake层面失败细节；(2)替换页面主题匹配独立核实为真实对应非牵强；(3)`gmail_send.py list`+`grep -ril`查重均为空，无历史联系记录；(4)邮件质量核实为干净、非模板腔；(5)**核心判断题——是否该把内容纠错邮件发到一个法务/隐私专用邮箱**，独立给出的判断是"可以发，但降级预期为低概率回复的尝试性联系，不追加跟进"，理由是下行风险低（单封邮件、语气不激进、易被忽略）而上行风险是若真被转发到有权限的人手上则是一次合理的置换。采纳该判断。
+
+**已发送** 2026-08-26，via `gmail_send.py send --from dayalmanac --to help@makelleyandcompanyinc.com`，Message ID `1a03e50104f5cf4d`。**因收件方是法务/隐私邮箱而非编辑邮箱，不安排10-14天常规跟进**——对一个法务邮箱追加"内容纠错"跟进邮件只会放大渠道错配，不会提高命中率。
+
+### 排除的误报
+
+同历史纪律：403(WAF)、超时、5xx一律不计为DEAD。本轮新增判例：**409 Conflict + HTTPS TLS握手完全失败 + 响应体为托管商通用错误页**（无站点特定内容）视为域名级"未托管实际网站"信号，证据强度与"域名DNS完全死亡"（08-09 grandparents.com）和"域名正确解析但服务方确认未连接站点"（08-16 nationalcatday.com Wix错误页）同级，比单纯404更强，独立复核agent已交叉验证。
+
+### 遗留待办
+
+1. **Talk Like a Pirate Day官方"Pirate Links"页**（talklikeapirate.com/wordpress/pirate-links，约100条外链，多为2006-2010年代的老式pirate festival/merch/fan站链接）大概率含真实死链（年代久远、部分是mailman列表/geocities风格老站），但内容性质（节庆活动/商品/粉丝社群）跟本站"日期规则/起源考据"定位结构性不对应，即使有死链也无替换素材——下次不必重新验证这条思路，除非DayAlmanac将来发布"pirate festival roundup"类文章。
+2. **国际化角度（Canada/Italy/Australia Grandparents Day、India Daughters Day）经本轮验证不成立**——这类信息目前只以新闻/百科文章形式存在，不存在"资源合集/引用列表"结构的页面可供断链置换，此方向已耗尽，未来除非DayAlmanac新增专门的国际版独立文章，否则不必再单独搜索这个角度。
+3. **本轮最重要的方法论确认**：连续第一次找到"真实DEAD+真实主题对应"的机会，命中路径是"直接搜索本站已发布节日名+泛用WebSearch而非局限单一竞品站"（08-21/08-24建议的延伸）——但受限于目标站点联系渠道质量参差不齐，仍需要为每个候选单独排查是否有编辑邮箱，不能假设"找到匹配=能发送"。下次如果继续深挖已发布节日名这条线，可以优先选择官方基金会/协会类站点（通常有更明确的press/media联系方式）而非个人博客/教育资源站（联系渠道更随意，命中率与08-20 Riya's Blogs案例类似更依赖运气）。

@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of National Adoption Day, 1997 to 2025</title>
+  <desc id="desc">1997: Judge Michael Nash starts opening LA's juvenile court on Saturdays to clear its adoption backlog. 2000: A five-organization coalition takes the model national on November 18, with nine cities finalizing 1,100 adoptions. 2007: The event is held in all 50 states and DC for the first time. 2019: The 20th annual event finalizes 5,200 adoptions (participating cities separately reached 400 the year before, in 2018). 2025: The 26th annual event brings the cumulative total past 90,000 children.</desc>
+  <rect width="1000" height="320" fill="#faf7f0" />
+
+  <line x1="60" y1="160" x2="940" y2="160" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1997 -->
+  <circle cx="100" cy="160" r="7" fill="#5b6d45" />
+  <text x="100" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">1997</text>
+  <text x="100" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="100" dy="0">Judge Michael Nash</tspan>
+    <tspan x="100" dy="15">opens LA's juvenile</tspan>
+    <tspan x="100" dy="15">court on Saturdays</tspan>
+  </text>
+
+  <!-- 2000 -->
+  <circle cx="290" cy="160" r="7" fill="#a8352b" />
+  <text x="290" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2000</text>
+  <text x="290" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="290" dy="0">Coalition of 5 orgs</tspan>
+    <tspan x="290" dy="15">takes it national: 9</tspan>
+    <tspan x="290" dy="15">cities, 1,100 adoptions</tspan>
+  </text>
+
+  <!-- 2007 -->
+  <circle cx="480" cy="160" r="7" fill="#5b6d45" />
+  <text x="480" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2007</text>
+  <text x="480" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="480" dy="0">First year held in</tspan>
+    <tspan x="480" dy="15">all 50 states and</tspan>
+    <tspan x="480" dy="15">the District of Columbia</tspan>
+  </text>
+
+  <!-- 2019 -->
+  <circle cx="670" cy="160" r="7" fill="#5b6d45" />
+  <text x="670" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2019</text>
+  <text x="670" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="670" dy="0">20th annual event</tspan>
+    <tspan x="670" dy="15">finalizes 5,200</tspan>
+    <tspan x="670" dy="15">adoptions (400 cities in '18)</tspan>
+  </text>
+
+  <!-- 2025 -->
+  <circle cx="860" cy="160" r="7" fill="#a8352b" />
+  <text x="860" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2025</text>
+  <text x="860" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
+    <tspan x="860" dy="0">26th annual event;</tspan>
+    <tspan x="860" dy="15">cumulative total</tspan>
+    <tspan x="860" dy="15">passes 90,000 children</tspan>
+  </text>
+
+  <text x="500" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.6">
+    Sources: nationaladoptionday.org/about; Alliance for Children's Rights &amp; LA Superior Court, 26th National Adoption Day fact sheet (Nov. 22, 2025)
+  </text>
+</svg>

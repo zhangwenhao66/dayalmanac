@@ -168,6 +168,18 @@ export const RULES = {
 		base: { kind: 'nth-weekday', month: 9, weekday: 'Monday', nth: 1 },
 		offsetDays: 6,
 	},
+	// Not a statute — an organizer convention run since 2000 by the National Adoption Day
+	// coalition (Dave Thomas Foundation for Adoption, Congressional Coalition on Adoption
+	// Institute, Alliance for Children's Rights, Children's Action Network). "The Saturday
+	// before Thanksgiving" checks out against every year this page verified against
+	// independent court press releases (2023-11-18, 2024-11-23, 2025-11-22). Several
+	// calendar sites publish 2026-11-22 for this observance, which is a Sunday, not a
+	// Saturday — see the page's caveat.
+	usNationalAdoptionDay: {
+		kind: 'offset',
+		base: { kind: 'nth-weekday', month: 11, weekday: 'Thursday', nth: 4 },
+		offsetDays: -5,
+	},
 };
 
 /** CLI: node tools/generate-dates.mjs <ruleName|month/day> [startYear] [count] */

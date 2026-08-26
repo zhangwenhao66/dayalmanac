@@ -8904,6 +8904,174 @@ export const guides: Guide[] = [
     "image": "/images/banned-books-week-protest.jpg",
     "imageAlt": "A protester holds a hand-lettered sign reading \"Stop Banning Books\" at a book-banning protest outside the Georgia State Capitol in Atlanta, February 2022",
     "imageCredit": "John Ramspott, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Book_Banning_Protest,_Atlanta,_GA_2-12-2022_P2120070_(51878089751).jpg)"
+  },
+  {
+    "slug": "national-adoption-day",
+    "category": "Observances",
+    "title": "National Adoption Day: Two Sites Have 2026's Date Wrong",
+    "description": "Two major calendar sites list November 22, 2026 for this observance. The organizers say November 21 — and the waiting-children count is years out of date.",
+    "published": "2026-08-26",
+    "updated": "2026-08-26",
+    "coreSummary": "National Adoption Day, coordinated since 2000 by a coalition led by the Dave Thomas Foundation for Adoption and the Alliance for Children's Rights, falls on the Saturday before Thanksgiving — November 21 in 2026, which the organizers' own website confirms, not November 22 as nationaldaycalendar.com and nationaltoday.com currently list it (a Sunday). The 'children waiting to be adopted' figure attached to the day is just as unsettled: the organizers' own site says over 100,000, other calendar sites still cite 123,000 to 125,000, and the federal count that both figures have fallen behind, from AFCARS preliminary FY2024 data released in September 2025, is 70,421.",
+    "dateRule": {
+      "kind": "offset",
+      "text": "The Saturday before Thanksgiving, an organizer convention rather than a statute. It has held without exception across the years this page independently checked: 2023 (November 18), and 2024 and 2025 (November 23 and November 22), the latter two confirmed directly against state court press releases. The organizers' own homepage lists 2026's date as Saturday, November 21.",
+      "status": "documented",
+      "source": {
+        "label": "National Adoption Day — official homepage (lists \"Saturday, November 21, 2026\")",
+        "url": "https://www.nationaladoptionday.org/"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-21",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-11-20",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2028-11-18",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2029-11-17",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-11-23",
+          "weekday": "Saturday"
+        }
+      ],
+      "caveat": "Two of the best-known day-of-the-year calendar sites currently list the wrong 2026 date. Both National Day Calendar and National Today publish November 22, 2026 for National Adoption Day — but November 22, 2026 is a Sunday, not the Saturday the observance has run on for 26 straight years. The organizers' own homepage, updated for the current year, states plainly: \"Saturday, November 21, 2026.\" This page's own occurrence table was computed independently from the \"Saturday before Thanksgiving\" rule and lands on the same date the organizers publish, not the one the calendar sites do."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "National Adoption Day traces to a Los Angeles courtroom fix, not a marketing calendar. In 1997, Michael Nash, then presiding judge of Los Angeles County's Juvenile Court, began opening his court on Saturdays and enlisting pro bono attorneys and court staff to work through a backlog of foster-care adoption cases, an effort the coalition still calls the \"Adoption Saturday\" model; that Los Angeles program alone has finalized more than 46,000 adoptions since 1997. On November 18, 2000, five organizations, the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights, the Children's Action Network, and the Freddie Mac Foundation, took the model national for the first time: nine cities opened their courts that Saturday and finalized 1,100 adoptions. The coalition's own materials are not perfectly consistent about the launch year, though: the organization's current about page dates the first event to November 18, 2000, while its own homepage separately states the day was \"launched\" in 1999. This page follows the dated, more specific claim (November 18, 2000) over the undated one.",
+      "source": {
+        "label": "National Adoption Day — About (\"On November 18, 2000, a coalition of national partners...\")",
+        "url": "https://www.nationaladoptionday.org/about/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "A 26-year-old rule, and two calendar sites that got 2026 wrong",
+        "body": [
+          "National Adoption Day 2026 falls on Saturday, November 21, matching the observance's own consistent rule: the Saturday before Thanksgiving. This page checked that rule against independent local reporting for two straight years, and it held every time: North Carolina, Maryland, and Colorado court systems each independently reported events on November 23, 2024, and Maryland's circuit courts confirm November 22, 2025. The organizers' current homepage states the 2026 date outright: \"Saturday, November 21, 2026.\"",
+          "That makes it worth flagging directly that two of the largest day-of-the-year calendar sites, National Day Calendar and National Today, both currently publish November 22, 2026, for this observance. November 22, 2026 is a Sunday. Neither site's page explains the discrepancy or acknowledges the Saturday-before-Thanksgiving rule they otherwise both state in their own copy. This page's occurrence table, below, was generated independently from that stated rule and matches the organizers, not the calendar sites."
+        ],
+        "image": {
+          "src": "/images/national-adoption-day-timeline.svg",
+          "alt": "Timeline showing National Adoption Day's growth from a single Los Angeles courthouse in 1997 to a nationwide 26th annual event in 2025"
+        }
+      },
+      {
+        "heading": "Where it actually started: a courthouse backlog, not a campaign",
+        "body": [
+          "The event began as a practical fix for case backlog, not an awareness campaign. In 1997, Michael Nash, then the presiding judge of Los Angeles County's Juvenile Court, one of the busiest in the country, started opening his courtroom on Saturdays and drawing on volunteer court staff and pro bono attorneys to finalize adoptions that would otherwise sit in queue. That Los Angeles \"Adoption Saturday\" program, run in partnership with the county's Department of Children and Family Services, the Alliance for Children's Rights, and Public Counsel, has finalized more than 46,000 adoptions since it began and still runs four times a year.",
+          "Three years later, five organizations took the same model national. On November 18, 2000, the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights, the Children's Action Network, and the Freddie Mac Foundation coordinated the first National Adoption Day: nine cities opened their courts that Saturday and finalized 1,100 adoptions in a single day. Growth from there was fast by the coalition's own numbers, tracked as two separate series that do not land in the same years: participating cities grew from 17 in 2001 to 340 in 2009 to 400 by 2018, with the District of Columbia and all 50 states first covered back in 2007; adoptions finalized in a single day grew from 1,500 in 2001 to 4,835 in 2009 to 5,200 at the 20th annual event in 2019. The 26th annual event, held November 22, 2025, pushed the coalition's cumulative total, children who found a permanent family specifically through a National Adoption Day event since 2000, past 90,000."
+        ]
+      },
+      {
+        "heading": "How many children are actually waiting? Three different numbers are in circulation",
+        "body": [
+          "The statistic attached to this observance, \"children waiting to be adopted from foster care,\" is repeated at three noticeably different scales depending on which source is quoted. The organizers' own current homepage rounds up to \"more than 100,000.\" National Today's page for the day states \"more than 125,000.\" Neither figure carries a publication date or a direct citation to a specific report.",
+          "The most current federal count comes from AFCARS, the Adoption and Foster Care Analysis and Reporting System run by the U.S. Children's Bureau. Preliminary FY2024 estimates, released September 5, 2025 (Report No. 32) and cited on the coalition's own 2025 fact sheet, put 70,421 of the 328,947 children in out-of-home foster care nationally, 21 percent, on a case plan with adoption as the permanency goal; a narrower subset, 49,994 children, are legally free for adoption, meaning parental rights have already been terminated. A separate tally from the National Council for Adoption's own AFCARS write-up puts the same \"waiting to be adopted\" figure at 70,418, three off from the fact sheet's number, almost certainly because the two organizations pulled the same live dashboard on slightly different days rather than because either made an error.",
+          "Either way, 70,421 sits roughly 30 percent below the organizers' own rounded \"100,000+\" and closer to 44 percent below the 125,000 some calendar sites still repeat. That older, higher figure is not fabricated: AFCARS data from around 2017 did put the national count of children waiting near 123,000. It has simply not been updated since, on some of the pages still citing it, even as the underlying federal number has fallen by close to half."
+        ]
+      },
+      {
+        "heading": "A day, not the month, and the two get different federal treatment",
+        "body": [
+          "November is also National Adoption Month, and the two observances get treated differently at the federal level in a way that is easy to miss because they share a season and a cause. National Adoption Month receives an annual presidential proclamation, most recently \"National Adoption Month, 2025,\" issued by the White House on November 17, 2025 and reprinted in the Federal Register three days later. National Adoption Day itself has never received a presidential proclamation or a governing federal statute in any year this page could find records for; it remains, 26 years on, an event organized entirely by its founding nonprofit coalition and the individual courts, judges, and child-welfare agencies that choose to participate each year.",
+          "State and county government offices do participate directly, which can blur that line for a casual reader. Court systems and governors' offices in states including North Carolina, Maryland, Colorado, and California issue their own press releases and, in some years, gubernatorial proclamations recognizing the day locally. None of that amounts to a federal designation, though, and the coalition's own materials do not claim one."
+        ]
+      },
+      {
+        "heading": "Not the first stale statistic this calendar has found",
+        "body": [
+          "A widely repeated number quietly falling behind the current data, while nobody updates the pages still citing it, is a pattern this calendar has run into before. [National Cat Day](/national-cat-day/) found the same thing with shelter-intake and euthanasia figures: several blog posts still cite numbers from an older, larger era of the U.S. shelter system that the ASPCA's own current statistics have since improved well past. [Banned Books Week](/banned-books-week/) and [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) show a related but distinct pattern, where it is the federal recognition itself, not a statistic, that observers assume is more settled than the record shows. National Adoption Day fits both patterns at once: an unsettled statistic and a date that two of the internet's most-consulted day-of-the-year sites currently have wrong."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the exact date of National Adoption Day in 2026?",
+        "answer": "Saturday, November 21, 2026. That is the Saturday before Thanksgiving, the rule the observance has followed every year this page checked. It matches the date stated on the organizers' own homepage. Two major calendar sites, National Day Calendar and National Today, currently list November 22, 2026, instead, which falls on a Sunday, not a Saturday."
+      },
+      {
+        "question": "Who started National Adoption Day, and when?",
+        "answer": "A five-organization coalition, the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights, the Children's Action Network, and the Freddie Mac Foundation, held the first national event on November 18, 2000, when nine cities opened their courts and finalized 1,100 adoptions. The model was inspired by Los Angeles Juvenile Court Judge Michael Nash, who had been opening his own courtroom on Saturdays to clear an adoption backlog since 1997."
+      },
+      {
+        "question": "How many children are currently waiting to be adopted from foster care in the US?",
+        "answer": "70,421, according to AFCARS preliminary FY2024 estimates released by the U.S. Children's Bureau in September 2025, out of 328,947 children in out-of-home foster care nationally. That is the number of children whose case plan names adoption as the permanency goal; a narrower figure, 49,994, is legally free for adoption, meaning parental rights have already been terminated. Both are well below the 100,000-125,000 range still cited on some organizer and calendar pages."
+      },
+      {
+        "question": "Is National Adoption Day the same as National Adoption Month?",
+        "answer": "No. National Adoption Month runs the full month of November and receives an annual presidential proclamation, most recently for 2025. National Adoption Day is one specific Saturday within that month and has never received a presidential proclamation or federal statute; it is organized entirely by its founding nonprofit coalition and the courts and agencies that choose to participate."
+      },
+      {
+        "question": "How many children have been adopted through National Adoption Day events overall?",
+        "answer": "More than 90,000, cumulatively, since the first national event in 2000, according to the coalition's own count as of the 26th annual event in November 2025. Adoptions finalized in a single day grew from 1,100 across nine cities in 2000 to 5,200 at the 20th annual event in 2019; participating cities, tracked separately, reached 400 the year before, in 2018."
+      },
+      {
+        "question": "Is National Adoption Day held in every state?",
+        "answer": "It has been since 2007, the first year the coalition reports the event was held in all 50 states and the District of Columbia. By 2018 the coalition counted roughly 400 participating cities and counties annually; the 26th annual event in 2025 had 62 jurisdictions across 27 states formally registered on the organizers' website by the time of the event, with over 400 total events anticipated."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Adoption Day — official homepage (2026 date, current \"more than 100,000\" figure)",
+        "url": "https://www.nationaladoptionday.org/"
+      },
+      {
+        "label": "National Adoption Day — About (founding coalition, November 18, 2000, nine cities)",
+        "url": "https://www.nationaladoptionday.org/about/"
+      },
+      {
+        "label": "Alliance for Children's Rights & Los Angeles Superior Court — 26th National Adoption Day Fact Sheet (Nov. 22, 2025; AFCARS FY2024 figures, growth history)",
+        "url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCCommunications-76-NAD2025FactSheet.pdf"
+      },
+      {
+        "label": "National Council For Adoption — Foster Care and Adoption Statistics, AFCARS 2025 Update (70,418 waiting figure)",
+        "url": "https://adoptioncouncil.org/article/foster-care-and-adoption-statistics/"
+      },
+      {
+        "label": "Wikipedia — National Adoption Day (growth history corroboration)",
+        "url": "https://en.wikipedia.org/wiki/National_Adoption_Day"
+      },
+      {
+        "label": "National Day Calendar — National Adoption Day, \"Saturday Before Thanksgiving\" (currently lists Nov. 22, 2026)",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-adoption-day-saturday-before-thanksgiving"
+      },
+      {
+        "label": "National Today — National Adoption Day (currently lists Nov. 22, 2026)",
+        "url": "https://nationaltoday.com/national-adoption-day/"
+      },
+      {
+        "label": "The White House — National Adoption Month, 2025 (presidential proclamation)",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/11/national-adoption-month-2025/"
+      },
+      {
+        "label": "North Carolina Judicial Branch — Mecklenburg County Celebrates National Adoption Day, November 23, 2024",
+        "url": "https://www.nccourts.gov/news/tag/press-release/mecklenburg-county-celebrates-national-adoption-day-november-23-2024"
+      },
+      {
+        "label": "Maryland Courts — Media Advisory: National Adoption Day celebrations, Nov. 23, 2024",
+        "url": "https://www.courts.state.md.us/media/news/2024/pr20241120b"
+      },
+      {
+        "label": "Maryland Courts — Media Advisory: National Adoption Day celebrations, Nov. 22, 2025",
+        "url": "https://www.courts.state.md.us/media/news/2025/pr20251114"
+      },
+      {
+        "label": "Colorado Judicial Branch — Colorado Courts Celebrate National Adoption Day, Nov. 23, 2024",
+        "url": "https://www.coloradojudicial.gov/media/press-release/colorado-courts-celebrate-national-adoption-day"
+      }
+    ],
+    "image": "/images/national-adoption-day-timeline.svg",
+    "imageAlt": "Timeline showing National Adoption Day's growth from a single Los Angeles courthouse in 1997 to a nationwide 26th annual event in 2025"
   }
 ];
 

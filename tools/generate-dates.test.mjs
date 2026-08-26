@@ -121,6 +121,23 @@ test('Grandparents Day is NOT the first Sunday in September', () => {
 	assert.equal(occurrenceFor(RULES.usGrandparentsDay, 2030).date, '2030-09-08');
 });
 
+test('National Adoption Day is the Saturday before Thanksgiving', () => {
+	// Not a statute -- an organizer convention. Pinned against independent court press
+	// releases rather than the generator itself: Mecklenburg County NC and Maryland courts
+	// both held it 2024-11-23; Maryland and Facebook/Dave Thomas Foundation both confirm
+	// 2025-11-22. 2023-11-18 is corroborated the same way. 2026-11-21 follows from the same
+	// "Saturday before Thanksgiving" rule applied to Thanksgiving 2026 (2026-11-26) -- several
+	// calendar sites instead publish 2026-11-22, which this test proves is a Sunday, not the
+	// Saturday the rule calls for.
+	const expected = ['2026-11-21', '2027-11-20', '2028-11-18', '2029-11-17', '2030-11-23'];
+	const got = expand(RULES.usNationalAdoptionDay, 2026, 5);
+	assert.deepEqual(got.map((o) => o.date), expected);
+	assert.ok(got.every((o) => o.weekday === 'Saturday'));
+	assert.equal(occurrenceFor(RULES.usNationalAdoptionDay, 2023).date, '2023-11-18');
+	assert.equal(occurrenceFor(RULES.usNationalAdoptionDay, 2024).date, '2024-11-23');
+	assert.equal(occurrenceFor(RULES.usNationalAdoptionDay, 2025).date, '2025-11-22');
+});
+
 test('the paraphrase and the statute coincide when September 1 is a Monday', () => {
 	// 2025 and 2031 both start September on a Monday, so Labor Day is the 1st and the first
 	// Sunday is the 7th under either reading. Worth pinning: someone spot-checking the page

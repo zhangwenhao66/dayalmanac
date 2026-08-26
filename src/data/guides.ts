@@ -8739,6 +8739,171 @@ export const guides: Guide[] = [
     ],
     "image": "/images/galentines-day-timeline.svg",
     "imageAlt": "Timeline showing Galentine's Day's history: NBC airs the Parks and Recreation episode that invents it on February 11, 2010; real-world Feb 13 parties spread through the 2010s via word of mouth, social media and retail merchandise; Michelle Obama posts #GalentinesDay in 2020; Massachusetts Senate President Karen Spilka hosts the first of an annual Galentine's Day event at City Winery in Boston on February 13, 2023, repeated every year since with around 150 guests"
+  },
+  {
+    "slug": "banned-books-week",
+    "category": "Observances",
+    "title": "Banned Books Week: A Moving Date, No Federal Law Behind It",
+    "description": "Its date broke from late September into October in three of the last four years, and seven straight resolutions to make it official have all stalled in Congress.",
+    "published": "2026-08-26",
+    "updated": "2026-08-26",
+    "coreSummary": "Banned Books Week, coordinated annually since 1982 by a coalition led by the American Library Association, does not sit on a fixed calendar rule: three of the last four years (2023, 2025, and 2026) moved it into early October instead of the late-September slot it held for years before, reset by the organizers rather than governed by any recurring formula. In 2026 it runs October 4 through 10. Congress has introduced seven separate resolutions recognizing the week across the 117th, 118th, and 119th Congresses since 2022; none has passed either chamber, and no President has proclaimed it.",
+    "dateRule": {
+      "kind": "table",
+      "text": "The American Library Association and the Banned Books Week Coalition announce each year's dates themselves, typically the spring before, with no published formula tying the week to a fixed weekday count. The table lists the starting Sunday of each year's observance; the week runs through the following Saturday in every case. In 2026 it runs October 4 through 10.",
+      "status": "conventional",
+      "source": {
+        "label": "American Library Association — Banned Books Week (October 4-10, 2026)",
+        "url": "https://www.ala.org/bbooks/banned"
+      },
+      "occurrences": [
+        {
+          "date": "2022-09-18",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2023-10-01",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2024-09-22",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2025-10-05",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2026-10-04",
+          "weekday": "Sunday"
+        }
+      ],
+      "caveat": "Reference sites and library guides commonly describe Banned Books Week as falling \"the last week of September,\" and that description used to be reliable: it held for years running up to 2022 (September 18-24) and again in 2024 (September 22-28). But it has not been true in three of the last four years. 2023 ran October 1-7, and both 2025 (October 5-11) and 2026 (October 4-10) moved into early October as well. No organizer has published a rule explaining the back-and-forth, and this page could not find one. The one pattern that has held across all five years checked here is structural rather than seasonal: every occurrence has started on a Sunday and run through the following Saturday. Which Sunday is decided fresh each year, and dates beyond 2026 are not yet announced, which is why this table stops there rather than projecting forward."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Banned Books Week grew out of a documented 1981-1982 flashpoint, not a single founder's idea in isolation. In January 1981, the Reverend Jerry Falwell's Moral Majority sent a mass mailing urging supporters to examine school libraries and textbooks for \"immoral, anti-family and anti-American content\" and report what they found; the American Library Association, which had long tracked censorship complaints, reported the numbers climbing afterward. Judith Krug, director of ALA's Office for Intellectual Freedom since 1967, worked with two other organizations to respond. The New York Times' contemporaneous September 1982 coverage names the resulting group plainly: \"a national coalition,\" made up of the American Booksellers Association, the American Library Association, and the National Association of College Stores, designated that week as the first Banned Books Week. Krug told the Times at the time that the country's censors were \"searching for something unreal—the good old days,\" and pointed directly at Falwell's letters as the kind of pressure the campaign was answering. The same year, in June 1982, the Supreme Court decided Island Trees Union Free School District v. Pico, ruling that school officials cannot remove books from a library simply because they dislike the ideas in them, a case that did not create Banned Books Week but decided in the same twelve months as the same underlying fight.",
+      "source": {
+        "label": "Longreads — Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting the New York Times, Sept. 1982)",
+        "url": "https://longreads.com/2015/10/02/jerry-falwell-judith-krug-and-the-origins-of-banned-books-week/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "A date the organizers reset every year",
+        "body": [
+          "Banned Books Week 2026 runs October 4 through 10, under the theme \"Let Books Be. Protect the Freedom to Read,\" announced by the American Library Association and the Banned Books Week Coalition. That is worth stating plainly because a lot of what gets repeated about the week's timing is out of date. Library guides and calendar sites commonly describe it as falling \"the last week of September,\" and for a run of years that was accurate: the 2022 observance ran September 18-24, and 2024 ran September 22-28. But the pattern broke in between and has broken again since. 2023 ran October 1-7. 2025 moved to October 5-11. 2026 stays in early October at October 4-10. In three of the last four years, a reader trusting the \"last week of September\" rule would have shown up at the wrong time.",
+          "No organization publishes a formula explaining the back-and-forth, and none was found for this page. What has held steady across all five years checked here is a narrower, structural regularity: every occurrence starts on a Sunday and runs through the following Saturday. Which Sunday is a fresh decision each year, usually surfacing in a spring theme announcement, not a standing rule a reader could compute in advance."
+        ]
+      },
+      {
+        "heading": "Where it actually came from: a 1981 mailing and a Supreme Court case",
+        "body": [
+          "The immediate spark, by the most detailed contemporaneous account available, was political correspondence rather than a library-world initiative acting alone. In January 1981, the Reverend Jerry Falwell's Moral Majority sent a mass mailing urging supporters to scrutinize their local school libraries and textbooks for \"immoral, anti-family and anti-American content\" and to report anything they found. The American Library Association, which already tracked censorship complaints as part of its ordinary work, reported those complaints rising through 1981. TIME covered the broader trend that year in a piece titled \"The Growing Battle of the Books.\"",
+          "Judith Krug, who had directed ALA's Office for Intellectual Freedom since 1967, worked with two other organizations to answer it. The New York Times' own September 1982 coverage, at the time, put it directly: \"a national coalition\" made up of the American Booksellers Association, the American Library Association, and the National Association of College Stores designated that week as the first Banned Books Week, aiming, in the Times' words, \"to encourage resistance by communities against efforts to suppress books.\" Krug told the Times that the censorship pressure of the moment reflected censors \"searching for something unreal—the good old days,\" and named Falwell's letters specifically as the kind of climate the campaign was responding to.",
+          "The same year carried a second, unrelated but overlapping event: in June 1982, the Supreme Court decided Island Trees Union Free School District v. Pico, ruling that school officials cannot remove books from a school library simply because they object to the ideas in them. The ruling did not create Banned Books Week and the two are not the same campaign, but they landed in the same twelve months as two responses to the same underlying dispute over who controls what students and patrons can read. One later account, not sourced to the Times' own 1982 reporting, instead credits the Association of American Publishers with first approaching Krug; this page follows the contemporaneous coalition description over that later retelling, but flags the discrepancy rather than picking a side silently."
+        ]
+      },
+      {
+        "heading": "Three Congresses, seven resolutions, zero floor votes",
+        "body": [
+          "Banned Books Week has never been proclaimed by a President or established by federal statute, and this page found no exception in any year checked. Congress has come closer than it once did, but not close enough to change that. In the 117th Congress, Rep. Jamie Raskin introduced H.Res. 1392 in September 2022, recognizing Banned Books Week and condemning what the resolution called sweeping attacks on books; it was referred to committee and, per GovTrack's own tracking, died without a floor vote when that Congress ended. Sen. Brian Schatz introduced a Senate companion, S.Res. 838, that same Congress on November 17, 2022; it died the same way.",
+          "The same pairing tried again in the 118th Congress: H.Res. 733 and S.Res. 372, both introduced in late September 2023, met the identical fate. Schatz brought a second Senate attempt within that same Congress, S.Res. 857, in September 2024; it also died without a vote, bringing the 118th Congress's total to three resolutions on its own. A third Congress followed suit: in the 119th, H.Res. 797 and S.Res. 443 were both introduced October 8, 2025, timed to that year's observance. As of this page's research in August 2026, both were still sitting at \"introduced,\" the first stage of the legislative process, with no committee action recorded yet. Three separate two-year Congresses, seven resolutions between the two chambers, and not one has reached a floor vote in either the House or the Senate."
+        ]
+      },
+      {
+        "heading": "What last year's numbers actually show",
+        "body": [
+          "The American Library Association's Office for Intellectual Freedom (OIF) tracked 4,235 unique titles challenged in 2025, the second-highest total OIF has ever documented; the record was 4,240 in 2023. Of those challenged titles, 1,671, or 40 percent, represent the lived experiences of LGBTQIA+ people or people of color. OIF separately logged 713 total attempts to censor library materials or services in 2025, of which 487 targeted books specifically, down from 821 attempts in 2024. What changed was not just volume but source: 92 percent of 2025's book challenges were initiated by pressure groups, government officials, or other decision-makers, up from 72 percent the year before, while less than 3 percent came from individual parents acting alone. \"In 2025, book bans were not sparked by concerned parents, and they were not the result of local grassroots efforts,\" OIF Executive Director Sarah Lamdan said in the ALA's own April 2026 release of the data. \"They were part of a well-funded, politically-driven campaign.\"",
+          "ALA's own definitions matter here and are worth stating precisely, because the two words get used loosely elsewhere. ALA defines a ban as the actual removal of material from a library because of someone's objection, and a challenge as an attempt to have material removed or restricted, whether or not that attempt succeeds. By that definition, OIF recorded 5,668 books actually banned from libraries in 2025, 66 percent of everything challenged that year, both the highest raw count and the highest conversion rate from challenge to ban that OIF has recorded across its 1990-2025 tracking. Another 920 books were censored through narrower access restrictions, such as relocation to a different section or a new parental-permission requirement, short of outright removal. The most targeted individual titles in 2025 were Sold by Patricia McCormick, The Perks of Being a Wallflower by Stephen Chbosky, and Gender Queer: A Memoir by Maia Kobabe, according to ALA's own top-11 list for the year."
+        ]
+      },
+      {
+        "heading": "Is anything actually \"banned\"? The dispute that's as old as the week itself",
+        "body": [
+          "The word \"banned\" has been contested since close to the campaign's founding, and this page found no sign the dispute has settled. Focus on the Family, a conservative Christian organization, has argued for years that nothing is really banned in the strict legal sense, since a book pulled from one school library usually remains available for purchase elsewhere; its vice president of public policy, Tom Minnery, has called the framing \"the 'banned' books lie.\" Mitchell Muncy made a similar argument in The Wall Street Journal, that the censorship being protested does not exist in the way the campaign implies. Boston Globe columnist Jeff Jacoby made a narrower, related point: that most books on ALA's annual lists were challenged, not actually removed.",
+          "ALA and its defenders answer that the challenge-versus-ban distinction does not resolve the underlying concern. Former ALA president Camila Alire has said the campaign highlights \"hundreds of documented attempts to suppress access to information,\" and that a library restricting access for others is itself a form of censorship regardless of whether the book still exists somewhere else. Doug Archer, a past chair of ALA's Intellectual Freedom Committee, has argued that treating only outright government bans as real censorship sets an unreasonably narrow bar, one that would count strong, successful defense of a book as proof that no threat existed in the first place. Writing in Slate, Ruth Graham took a more specific middle position: that the campaign's rhetoric sometimes blurs a school declining to add a book to its curriculum with a public library removing a book from general circulation, two different kinds of decision that deserve separate scrutiny rather than one shared label."
+        ]
+      },
+      {
+        "heading": "An international companion, and where this sits on this site's spectrum",
+        "body": [
+          "Banned Books Week is not only a U.S. campaign. Amnesty International runs a parallel international observance during the same week, built around individual \"focus cases\": named writers it says have been jailed, harassed, or killed for what they wrote, with country entries in recent years spanning Azerbaijan, China, Cuba, Egypt, Gambia, Iran, Myanmar, Russia, and Sri Lanka. That international campaign draws on the same week and the same freedom-to-read framing but is organized separately from the ALA-led U.S. coalition, with its own annual list rather than a shared one.",
+          "This site has now checked the federal paper trail behind several awareness observances, and Banned Books Week sits at one end of a rough spectrum. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) reached an actual congressional joint resolution behind a specific year, 1989's Public Law 101-112, and Congress went back and renewed that same one-year designation once more for 1991, but nothing has renewed it since. [ADHD Awareness Month](/adhd-awareness-month/) has a documented run of five consecutive Senate resolutions, 2004 through 2008, before the practice simply stopped. [National Suicide Prevention Month](/suicide-prevention-month/) has two Senate resolutions agreed to by unanimous consent, in the 115th and 116th Congresses, but no House resolution has ever passed and its most recent 2025 attempt stalled in both chambers. Banned Books Week's own record, three separate two-year Congresses trying since 2022 and seven total resolutions between both chambers, is the most persistent pattern of the group and the only one that has drawn a fresh attempt in every single Congress since it began, yet it has produced fewer floor votes than any of them: zero, in either chamber, in any year checked."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the exact dates of Banned Books Week in 2026?",
+        "answer": "October 4 through 10, 2026, under the theme \"Let Books Be. Protect the Freedom to Read,\" as announced by the American Library Association and the Banned Books Week Coalition."
+      },
+      {
+        "question": "Is Banned Books Week always held during the last week of September?",
+        "answer": "No, not anymore. That was true in 2022 (September 18-24) and 2024 (September 22-28), but 2023 ran October 1-7, and both 2025 (October 5-11) and 2026 (October 4-10) moved into early October. Three of the last four years broke the \"last week of September\" pattern that many library guides still describe. The one thing that has held across all five years is that the week always starts on a Sunday and runs through the following Saturday; which Sunday is announced fresh each year."
+      },
+      {
+        "question": "Who founded Banned Books Week?",
+        "answer": "A three-organization coalition launched it in 1982: the American Booksellers Association, the American Library Association, and the National Association of College Stores, per the New York Times' own September 1982 coverage. Judith Krug, director of ALA's Office for Intellectual Freedom since 1967, led ALA's role, working in response to a 1981 mass mailing from Jerry Falwell's Moral Majority urging supporters to scrutinize school libraries and report objectionable content."
+      },
+      {
+        "question": "Has Congress ever made Banned Books Week official?",
+        "answer": "No. Resolutions recognizing the week have been introduced in three separate two-year Congresses since 2022, the 117th (H.Res. 1392 and S.Res. 838), the 118th (H.Res. 733, S.Res. 372, and a second Senate attempt, S.Res. 857, the following year), and the 119th (H.Res. 797 and S.Res. 443), seven resolutions total between the House and Senate. None has received a floor vote in either chamber, and no President has proclaimed the week."
+      },
+      {
+        "question": "What's the difference between a \"challenge\" and a \"ban\" in ALA's own data?",
+        "answer": "ALA defines a challenge as any attempt to have a library resource removed or restricted, whether or not it succeeds, and a ban as material actually removed because of that objection. In 2025, ALA's Office for Intellectual Freedom tracked 4,235 unique titles challenged and reported that 5,668 books, 66 percent of everything challenged, were actually banned from libraries, the highest conversion rate the organization has recorded since it began tracking in 1990."
+      },
+      {
+        "question": "Are books actually banned in the United States, or just challenged?",
+        "answer": "Both happen, and which word applies is contested. Critics including Focus on the Family and a Wall Street Journal opinion piece have argued that most challenged books remain purchasable elsewhere, so nothing is truly banned. ALA and its defenders respond that removal from a library is itself a form of censorship regardless of a book's availability elsewhere, and ALA's own 2025 data recorded thousands of books actually removed from library shelves, not merely challenged. Slate's Ruth Graham has taken a middle position, arguing the debate often blurs a school declining to teach a book with a library removing one from circulation."
+      },
+      {
+        "question": "Does Banned Books Week only cover the United States?",
+        "answer": "The American Library Association's campaign is U.S.-focused, but Amnesty International runs a parallel international observance the same week, documenting individual writers it says have been jailed, harassed, or killed over their writing in countries including China, Cuba, Egypt, Iran, Myanmar, and Russia. The two campaigns share the week and the freedom-to-read theme but are organized separately, each with its own list."
+      }
+    ],
+    "sources": [
+      {
+        "label": "American Library Association — Banned Books Week (October 4-10, 2026 dates and theme)",
+        "url": "https://www.ala.org/bbooks/banned"
+      },
+      {
+        "label": "American Library Association — 2025 Most Challenged Books List and censorship data (April 2026)",
+        "url": "https://www.ala.org/news/2026/04/american-library-association-releases-2025-most-challenged-books-list-national-library"
+      },
+      {
+        "label": "Longreads — Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting New York Times, Sept. 1982)",
+        "url": "https://longreads.com/2015/10/02/jerry-falwell-judith-krug-and-the-origins-of-banned-books-week/"
+      },
+      {
+        "label": "National Council of Teachers of English — A Look Back at the History of Banned Books Week",
+        "url": "https://ncte.org/blog/2020/09/41588/"
+      },
+      {
+        "label": "Wikipedia — Banned Books Week",
+        "url": "https://en.wikipedia.org/wiki/Banned_Books_Week"
+      },
+      {
+        "label": "GovTrack — H.Res. 1392 (117th Congress, 2022, died without a vote)",
+        "url": "https://www.govtrack.us/congress/bills/117/hres1392"
+      },
+      {
+        "label": "GovTrack — S.Res. 838 (117th Congress, introduced Nov. 17, 2022, died without a vote)",
+        "url": "https://www.govtrack.us/congress/bills/117/sres838"
+      },
+      {
+        "label": "GovTrack — S.Res. 443 (119th Congress, introduced Oct. 8, 2025)",
+        "url": "https://www.govtrack.us/congress/bills/119/sres443"
+      },
+      {
+        "label": "Amnesty International USA — Banned Books Week",
+        "url": "https://www.amnestyusa.org/campaigns/banned-books/"
+      }
+    ],
+    "image": "/images/banned-books-week-protest.jpg",
+    "imageAlt": "A protester holds a hand-lettered sign reading \"Stop Banning Books\" at a book-banning protest outside the Georgia State Capitol in Atlanta, February 2022",
+    "imageCredit": "John Ramspott, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Book_Banning_Protest,_Atlanta,_GA_2-12-2022_P2120070_(51878089751).jpg)"
   }
 ];
 

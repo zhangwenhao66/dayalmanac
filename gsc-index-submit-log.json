@@ -272,5 +272,15 @@
     "submitted_urls": [],
     "already_indexed_no_action": [],
     "quota_used": "0 (submission failed: Quota Exceeded)"
+  },
+  {
+    "date": "2026-08-26",
+    "action": "submitted",
+    "reason": "游标停留位DayAlmanac续做昨日未完成条目。今日新发布banned-books-week，URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功。",
+    "submitted_urls": [
+      "https://dayalmanac.com/banned-books-week/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": 1
   }
 ]

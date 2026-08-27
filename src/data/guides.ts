@@ -9238,6 +9238,153 @@ export const guides: Guide[] = [
     "image": "/images/bullying-prevention-month.jpg",
     "imageAlt": "Students at Rota Elementary School in Spain gather for a Unity Day assembly, wearing orange to mark National Bullying Prevention Month",
     "imageCredit": "U.S. Navy photo by Courtney Pollock, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rota_Elementary_School_Holds_Unity_Day_Assembly_(7472185).jpg)"
+  },
+  {
+    "slug": "national-pepperoni-pizza-day",
+    "category": "Observances",
+    "title": "National Pepperoni Pizza Day: September 20, and Nobody Knows Why",
+    "description": "National Pepperoni Pizza Day falls on September 20 every year. National Day Calendar, the group that registers it, says it's still researching who started it.",
+    "published": "2026-08-27",
+    "updated": "2026-08-27",
+    "coreSummary": "National Pepperoni Pizza Day is observed in the United States on September 20 every year, an unofficial food day with no statute or proclamation behind it. National Day Calendar, which registers the observance, states outright that it is still researching who created it. Pepperoni itself has a documented history as an American invention rather than an Italian one, but even food historians disagree on when it began and who first put it on a pizza.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 20 in the United States, the same calendar date every year. No statute or proclamation establishes it; National Day Calendar and pizza-industry coverage have listed it consistently on September 20 across at least 2023, 2024, 2025, and 2026.",
+      "source": {
+        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-20",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-09-20",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-09-20",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-09-20",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2030-09-20",
+          "weekday": "Friday"
+        },
+        {
+          "date": "2031-09-20",
+          "weekday": "Saturday"
+        }
+      ],
+      "caveat": "National Pepperoni Pizza Day is not the only pizza-related day on the calendar, and the three are easy to conflate. National Cheese Pizza Day falls roughly two weeks earlier, on September 5. National Pizza Day, the broadest of the three and not topping-specific, falls on February 9, on the opposite side of the calendar year. All three are registered with National Day Calendar, and none has a documented founder.",
+      "status": "conventional"
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "National Day Calendar, the organization most closely associated with registering and promoting the observance, states on its official page for the day that it is still researching the observance's source, without offering even an approximate decade or region to narrow the search, an unusually direct admission from a group that otherwise dates and credits the founding of most entries in its registry. No pizza chain has stepped forward to claim the date either, despite being the parties with the most to gain from the association: Jet's Pizza sponsors the observance and runs deals around it, and Domino's and Pizza Hut do the same independently, but none of the three claims to have picked September 20 or to know who did. The gap resembles [National Coffee Day](/national-coffee-day/), another undocumented food observance earlier the same month: a promotional apparatus has grown up around a date nobody can trace to a founder.",
+      "source": {
+        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Pepperoni Pizza Day is",
+        "body": [
+          "National Pepperoni Pizza Day is an unofficial US food observance held every September 20. It carries no legal or governmental status: nothing about it appears in federal law, and government offices, schools, banks, and the postal service run on their ordinary schedule regardless of the date.",
+          "In practice, the day functions the way most food observances on this calendar do. Jet's Pizza has run a dedicated National Pepperoni Pizza Day promotional page and has been described in local news coverage as a sponsor of the day, and Domino's and Pizza Hut both run their own September 20 deals independent of that sponsorship. Home cooks and food media use the date as a prompt to post about pizza, a chain-driven marketing pattern similar to what [National Taco Day](/national-taco-day/) sees every fall, even though that observance's own date has since become a moving target rather than a fixed one.",
+          "The commercial interest tracks pepperoni's standing among pizza toppings generally. A YouGov poll published in May 2023 found pepperoni named as the single favorite topping by 24 percent of Americans, more than any other topping, against 29 percent who named anchovies their least favorite. An older industry estimate, cited by Wikipedia from Convenience Store Decisions, put annual US pepperoni consumption at 251.7 million pounds in 2009, spread across 36 percent of all pizzas produced nationally that year."
+        ]
+      },
+      {
+        "heading": "Even the registrar admits it does not know where the date came from",
+        "body": [
+          "Most observances on this calendar trace back to something: a congressional resolution, a presidential proclamation, a named founder, or at least a company that stepped forward and said it started the tradition. National Pepperoni Pizza Day has none of these. National Day Calendar's official page for the day addresses its own history in a single line, without offering even an approximate decade or region to narrow the search:",
+          "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;National Day Calendar continues researching the source of this delicious food holiday.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">National Day Calendar, official page for Pepperoni Pizza Day</p></div>",
+          "That contrasts with a comparable case on this calendar, National Taco Day. [Its 2024 rule change](/national-taco-day/) shows Taco Bell and National Day Calendar founder Marlo Anderson jointly stepping forward, on the record, to rewrite the date rule once a trademark dispute over \"Taco Tuesday\" cleared. No comparable company or individual has made an equivalent move for National Pepperoni Pizza Day, despite chains with a similar commercial interest in the outcome."
+        ]
+      },
+      {
+        "heading": "Pepperoni is an American invention, and sources disagree on exactly when it began",
+        "body": [
+          "Despite its name, pepperoni was not created in Italy. Peperone is the Italian word for a bell pepper, and the cured meat Americans call pepperoni has no direct equivalent in traditional Italian charcuterie; it was developed by Italian immigrant butchers working in the United States with American ingredients and techniques.",
+          "Precisely when is where sources stop agreeing. Wikipedia's account of the sausage's history dates the first printed use of the word to 1888 in the Times of London, the first use of \"pepperoni\" specifically for a sausage to 1916 at the latest, and its documented availability in New York City to 1919. Food writer and historian John Mariani, in his book on Italian food's spread through American cuisine, credits Italian immigrants in New York with inventing pepperoni in 1919. A separate account points earlier still, to a 1908 article about sausage purity in The Gateway, a Michigan arts-and-culture magazine, as the first print mention of the word. None of these claims can be fully reconciled against the others from the published record, and all of them predate any evidence that pepperoni was used as a pizza topping specifically."
+        ]
+      },
+      {
+        "heading": "Two pizzerias, decades apart, are each credited with the first pepperoni pizza",
+        "body": [
+          "The most-cited claim points to New Haven, Connecticut. Colin Caplan, a pizza historian and author of the book New Haven Apizza, has identified a photographed 1950 menu at a pizzeria called The Spot as the earliest documented evidence of pepperoni used as a pizza topping in the United States. The Spot was later bought by the ownership of Frank Pepe Pizzeria Napoletana, one of New Haven's best-known pizzerias, and Caplan has suggested the topping likely migrated onto pizza from its earlier use as an appetizer plate, the same way many toppings entered American pizza through experimentation rather than a single deliberate invention.",
+          "A second, less-verified claim comes from Columbus, Ohio. A short 2015 article in the Columbus Dispatch about Massey's Pizza, a regional chain still operating in the area, included a passing line crediting the company with introducing pepperoni as a topping, alongside a quote attributed to its founder responding to whether he knew what he was doing when he first added it: \"Sure I do! Nobody in Chicago, New York or anywhere ever used pepperoni!\" The claim has a notable gap, though: Massey's own published company history, as posted on its own website, does not repeat or reference it at all, the same kind of thin, unrepeated origin story this calendar has flagged before on [National Boyfriend Day](/national-boyfriend-day/), where a claim gets passed around without the person or company closest to it ever confirming it in their own words.",
+          "Whichever pizzeria came first, or whether both arrived at the same idea independently, pepperoni's spread across American pizza in the following decades owed more to economics than to either originating claim. As Pizza Hut and Domino's expanded rapidly through the 1960s and 1970s, both chains adopted pepperoni because it was cheap to produce, held up well in distribution, and did not require refrigeration the way fresher toppings did, cementing it as the country's most common pizza topping long after any single inventor could have been credited or remembered."
+        ]
+      },
+      {
+        "heading": "Three pizza-related days, three different dates",
+        "body": [
+          "Two other pizza days sit on the calendar alongside this one, and a reader searching for \"national pizza day\" can land on any of the three by mistake. National Cheese Pizza Day, observed roughly two weeks earlier on September 5, covers plain cheese pizza specifically rather than any one topping. National Pizza Day, the broadest of the three and not tied to a topping at all, falls on February 9, well apart from the September pair rather than anywhere near them. National Day Calendar registers all three, and consistent with the pattern documented above for pepperoni, none of them has ever had a founder or founding organization step forward to claim it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What day is National Pepperoni Pizza Day in 2026?",
+        "answer": "Sunday, September 20, 2026. The date is fixed and does not shift from year to year."
+      },
+      {
+        "question": "Who started National Pepperoni Pizza Day?",
+        "answer": "Nobody has publicly claimed it. National Day Calendar, the organization most closely associated with registering the observance, states plainly on its own page that it is still researching the source of the holiday, and no pizza chain has claimed to have picked the date."
+      },
+      {
+        "question": "Is pepperoni Italian?",
+        "answer": "No. Despite its Italian-derived name, pepperoni was developed by Italian immigrant butchers in the United States, not in Italy, where the cured meat known as pepperoni does not traditionally exist."
+      },
+      {
+        "question": "When did pepperoni first appear on pizza?",
+        "answer": "The earliest documented evidence is a photographed 1950 menu at The Spot, a pizzeria in New Haven, Connecticut, identified by pizza historian Colin Caplan. A separate, less-verified claim credits Massey's Pizza in Columbus, Ohio, around the same era, though the chain's own published company history does not repeat that claim."
+      },
+      {
+        "question": "Is National Pepperoni Pizza Day the same as National Pizza Day?",
+        "answer": "No. National Pizza Day is a separate, broader observance on February 9. National Cheese Pizza Day is a third, on September 5. All three are registered with National Day Calendar and none has a documented founder."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
+      },
+      {
+        "label": "Wikipedia — Pepperoni",
+        "url": "https://en.wikipedia.org/wiki/Pepperoni"
+      },
+      {
+        "label": "YouGov — Americans' Favorite Pizza Topping Is Pepperoni, Their Least Favorite Is Anchovies (May 16, 2023)",
+        "url": "https://today.yougov.com/topics/consumer/articles-reports/2023/05/16/americans-favorite-pizza-topping-pepperoni-poll"
+      },
+      {
+        "label": "PMQ Pizza — Who Invented Pepperoni Pizza? The Answer Is Complicated",
+        "url": "https://www.pmq.com/who-invented-pepperoni-pizza-the-answer-is-complicated/"
+      },
+      {
+        "label": "QSR Magazine — Jet's Pizza to Offer Discounted Items on National Pepperoni Pizza Day",
+        "url": "https://www.qsrmagazine.com/growth/marketing-promotions/jets-pizza-to-offer-discounted-items-on-national-pepperoni-pizza-day/"
+      },
+      {
+        "label": "National Day Calendar — National Cheese Pizza Day, September 5",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-cheese-pizza-day-september-5"
+      },
+      {
+        "label": "National Day Calendar — National Pizza Day, February 9",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-pizza-day-february-9"
+      }
+    ],
+    "image": "/images/national-pepperoni-pizza-day.jpg",
+    "imageAlt": "A pepperoni pizza with the pepperoni slices curled and browned at the edges",
+    "imageCredit": "Photo by Andy Li, CC0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pepperoni_pizza-_boella_co._2024-02-17.jpg)"
   }
 ];
 

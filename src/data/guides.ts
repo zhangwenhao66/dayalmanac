@@ -9680,6 +9680,143 @@ export const guides: Guide[] = [
     "image": "/images/national-nachos-day.jpg",
     "imageAlt": "A large platter of loaded nachos topped with melted cheese, jalapeños, and salsa",
     "imageCredit": "Photo by [Willis Lam](https://www.flickr.com/people/85567416@N03), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Los_Hermano%27s_Mexican_Food_Super_Nachos_(30190480813).jpg)"
+  },
+  {
+    "slug": "national-wildlife-day",
+    "category": "Observances",
+    "title": "National Wildlife Day: September 4, Founding Year in Dispute",
+    "description": "National Wildlife Day falls every September 4, founded by Colleen Paige. Sources disagree on whether it began in 2005 or in 2006, after Steve Irwin died.",
+    "published": "2026-08-27",
+    "updated": "2026-08-27",
+    "coreSummary": "National Wildlife Day is a US observance held every September 4, founded by pet lifestyle expert Colleen Paige and associated with the memory of conservationist Steve Irwin, who died on that date in 2006. Sources disagree on the founding year itself, splitting between 2005 and 2006, and disagree further on whether the day was created because of Irwin's death or already existed and was rededicated to him afterward. It is also one of at least three differently sourced wildlife-themed observances on the calendar, alongside the UN's World Wildlife Day and the US State Department's World Wildlife Conservation Day.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "September 4 every year in the United States. No federal law or proclamation sets this date; it is the date used consistently by National Day Calendar, National Today, and Calendarr.",
+      "status": "conventional",
+      "source": {
+        "label": "National Today — National Wildlife Day",
+        "url": "https://nationaltoday.com/national-wildlife-day/"
+      },
+      "occurrences": [
+        { "date": "2026-09-04", "weekday": "Friday" },
+        { "date": "2027-09-04", "weekday": "Saturday" },
+        { "date": "2028-09-04", "weekday": "Monday" },
+        { "date": "2029-09-04", "weekday": "Tuesday" },
+        { "date": "2030-09-04", "weekday": "Wednesday" },
+        { "date": "2031-09-04", "weekday": "Thursday" }
+      ],
+      "caveat": "September 4 is the date Steve Irwin, the Australian conservationist known as \"The Crocodile Hunter,\" died in 2006 from a stingray injury while filming near Australia's Great Barrier Reef. It is not his birthday, which fell on February 22, 1962. Calendarr's own account states Paige separately added February 22 as an additional, less-followed observance specifically for Irwin's birthday, distinct from the September 4 date covered on this page. National Wildlife Day should also not be confused with two differently sourced, government-recognized observances that share the word \"wildlife\": World Wildlife Day (March 3), proclaimed by the UN General Assembly in 2013 to mark the 1973 signing of CITES, and World Wildlife Conservation Day (December 4), created in 2012 by the US State Department under Secretary of State Hillary Clinton to address wildlife trafficking. All three target similar causes but have three separate founders, three separate dates, and three unconnected origin stories."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Colleen Paige, a pet and family lifestyle expert who is also credited elsewhere on this calendar as the founder of National Cat Day and National Dog Day, is named as the founder of National Wildlife Day by National Today, National Day Calendar, and Calendarr alike. What those sources do not agree on is the year, or the sequence of events. National Today's own published timeline for the observance places its founding in 2006 and states that Paige \"created National Wildlife Day in honor of the late wildlife conservationist Steve Irwin,\" phrasing that reads as a direct response to his September 4, 2006 death. Calendarr's account instead states National Wildlife Day \"was founded in 2005\" to raise general awareness of threats facing wildlife, and only afterward, when Irwin died in September 2006, was the day \"dedicated\" to his memory. Those are two different sequences of events, not only two different years. One version has the day created because of Irwin's death. The other has the day already existing, then rededicated to his memory once he died. Neither source cites a registration, a press release, or an original announcement from Paige predating either claim, the same evidentiary gap already documented on this calendar's National Cat Day and National Dog Day pages, both founded by the same person without an independently verifiable paper trail.",
+      "source": {
+        "label": "National Today — National Wildlife Day (timeline)",
+        "url": "https://nationaltoday.com/national-wildlife-day/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Wildlife Day is",
+        "body": [
+          "National Wildlife Day is an unofficial US observance held on September 4, encouraging attention to endangered species, habitat loss, and the work of zoos, sanctuaries, and conservation nonprofits. It carries no legal or governmental status: no federal law or state proclamation recognizes it, government offices and banks run their ordinary September 4 schedule, and no time off is attached to it. In 2026 it falls on a Friday.",
+          "It spreads mainly through zoos, wildlife sanctuaries, conservation nonprofits, and social media rather than through any civic institution, the same pattern behind [National Cat Day](/national-cat-day/) and [National Dog Day](/national-dog-day/) elsewhere on this calendar. What sets this page apart is not the marketing around the day but a genuine disagreement, across the sources that cover it, about when and why it started."
+        ]
+      },
+      {
+        "heading": "Who gets credit, and which year",
+        "body": [
+          "The founder is not seriously in dispute: Colleen Paige, the same pet and family lifestyle expert behind National Cat Day (2005) and National Dog Day (2004), is named as National Wildlife Day's creator by every calendar site checked for this page. What is in dispute is the year and the story behind the date.",
+          "National Today's own history timeline for the observance carries a single entry dated 2006, titled \"National Wildlife Day was born.\" Its accompanying text states that Colleen Paige \"created National Wildlife Day in honor of the late wildlife conservationist Steve Irwin,\" going on to describe him as the famed Crocodile Hunter. Read together, that entry implies the day began in 2006, as a direct response to Irwin's death on September 4 of that year.",
+          "Calendarr tells a different sequence. Its background section states plainly that \"National Wildlife Day was founded in 2005 by Colleen Paige, to bring awareness to the problems that the planet's wildlife faces,\" and only afterward adds: \"In September 2006, the world lost one of its best wildlife experts and conservationists, Steve Irwin. Paige dedicated National Wildlife Day to honour Steve Irwin's work.\" In that version, the day predates Irwin's death by roughly a year and was rededicated to his memory once he died, rather than created because of it.",
+          "Both tellings agree on the founder, the September 4 date, and the eventual connection to Irwin. Neither cites an original 2005 or 2006 announcement, registration, or press release from Paige herself to settle which sequence is correct, and no source checked for this page attempts to reconcile the two. Readers should treat the founder's identity as settled and the exact year, along with whether Irwin's death caused the day or merely reshaped it, as unresolved."
+        ]
+      },
+      {
+        "heading": "Three wildlife days, three founders, zero overlap",
+        "body": [
+          "\"Wildlife day\" is not one observance. At least three exist, each with its own founder, its own founding story, and no connection to the others beyond the word in the name.",
+          "National Wildlife Day, covered on this page, falls September 4 in the United States and traces to Colleen Paige, a private individual, in either 2005 or 2006 depending on the source. World Wildlife Day is an entirely different, government-backed observance: the United Nations General Assembly proclaimed March 3 as World Wildlife Day in a resolution adopted December 20, 2013, choosing that date because it marks the anniversary of the 1973 signing of CITES, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, in Washington, D.C. World Wildlife Conservation Day is a third, separate observance, created in 2012 by the US State Department: on November 8, 2012, then-Secretary of State Hillary Clinton launched a \"Call to Action\" on wildlife trafficking at an event held at the department, and December 4 was set as the annual date going forward.",
+          "The three overlap in subject and even in name, which is exactly what makes them easy to conflate. But one traces to a single private founder with no registration on record, one traces to a UN General Assembly resolution tied to an international treaty's signing date, and one traces to a named US Cabinet official's own department. Confusing any of them for another means citing the wrong founder, the wrong date, and the wrong sponsoring body all at once."
+        ],
+        "image": {
+          "src": "/images/national-wildlife-day.jpg",
+          "alt": "A saltwater crocodile resting near water at Australia Zoo, Queensland, Australia",
+          "credit": "Photo by [Bernard DUPONT](https://www.flickr.com/people/65695019@N07), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saltwater_Crocodile_(Crocodylus_porosus)_(10106331165).jpg)"
+        }
+      },
+      {
+        "heading": "What the real numbers say",
+        "body": [
+          "Coverage of wildlife observances tends to cite one of two very different-sounding figures without explaining why they differ. The most commonly repeated one is that roughly one million species are at risk of extinction, a figure that traces to the 2019 IPBES Global Assessment Report, prepared by 145 experts from 50 countries and approved at the panel's plenary session in Paris that May. That report's headline finding was that around one million animal and plant species are threatened with extinction, many within decades, framed as roughly one in eight of all species on Earth.",
+          "A second, smaller figure comes from the IUCN Red List, the formal, species-by-species conservation assessment that has been running since 1964. As tracked by Our World in Data using the IUCN's own release, the Red List classified about 48,600 species as Vulnerable, Endangered, or Critically Endangered in its 2025 data; broken down by group, that works out to about 21 percent of evaluated vertebrates and 41 percent of evaluated amphibians specifically.",
+          "The two numbers are not competing estimates of the same thing, and neither is wrong. The IUCN's 48,600 counts only species that have gone through its individual, one-by-one assessment process, a small slice of the roughly 8.7 million species a 2011 study in PLoS Biology (Mora et al.) estimated exist on Earth, most of them insects and other invertebrates that have never been formally evaluated at all. IPBES's one million is a broader, model-based extrapolation intended to capture that unassessed majority, not a list of confirmed individual cases. A reader encountering either number in isolation, without that context, has no way to tell that a strikingly smaller figure and a strikingly larger one are both defensible answers to almost the same question, asked in different ways."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Wildlife Day in 2026?",
+        "answer": "Friday, September 4, 2026. The date is fixed at September 4 every year in the United States and does not shift for weekends."
+      },
+      {
+        "question": "Who founded National Wildlife Day?",
+        "answer": "Colleen Paige, a pet and family lifestyle expert who also founded National Cat Day and National Dog Day, is named as the founder by every source checked. Sources disagree on the year: National Today's timeline places it in 2006, tied to Steve Irwin's death, while Calendarr states it was founded in 2005 and only later dedicated to Irwin's memory."
+      },
+      {
+        "question": "Is National Wildlife Day connected to Steve Irwin?",
+        "answer": "Yes, though sources disagree on how directly. September 4 is the date Irwin died in 2006 from a stingray injury while filming near Australia's Great Barrier Reef. One account says the observance was created that year specifically in his honor; another says it already existed since 2005 and was rededicated to his memory afterward. His birthday, February 22, is described by at least one source as a separate, less-followed observance."
+      },
+      {
+        "question": "Is National Wildlife Day the same as World Wildlife Day?",
+        "answer": "No. National Wildlife Day falls September 4 and traces to a private individual, Colleen Paige. World Wildlife Day falls March 3 and was proclaimed by the United Nations General Assembly in 2013, chosen to mark the 1973 signing of CITES, the international treaty on endangered-species trade."
+      },
+      {
+        "question": "What is World Wildlife Conservation Day, and is it different too?",
+        "answer": "Yes, it is a third, separate observance. World Wildlife Conservation Day falls December 4 and was created in 2012 by the US State Department, after then-Secretary of State Hillary Clinton launched a wildlife-trafficking \"Call to Action\" that November. It has no connection to either National Wildlife Day or World Wildlife Day beyond the shared subject."
+      },
+      {
+        "question": "How many species are actually at risk of extinction?",
+        "answer": "It depends which count is being cited. The IUCN Red List's 2025 data classifies about 48,600 species as threatened, based on formal, individual, species-by-species assessments. The more widely quoted \"one million species\" figure comes from the 2019 IPBES Global Assessment Report, a broader model-based estimate covering the much larger number of species, mostly insects, that have never been individually assessed. Both are legitimate; they are answering different questions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Today — National Wildlife Day (timeline, 2006 founding)",
+        "url": "https://nationaltoday.com/national-wildlife-day/"
+      },
+      {
+        "label": "Calendarr — National Wildlife Day (2005 founding, dedicated to Steve Irwin)",
+        "url": "https://www.calendarr.com/united-states/national-wildlife-day/"
+      },
+      {
+        "label": "CNN — Stingray kills 'Crocodile Hunter' (Steve Irwin, September 4, 2006)",
+        "url": "https://www.cnn.com/2006/WORLD/asiapcf/09/04/australia.irwin/"
+      },
+      {
+        "label": "United Nations — World Wildlife Day background",
+        "url": "https://www.un.org/en/observances/world-wildlife-day/background"
+      },
+      {
+        "label": "National Day Calendar — Wildlife Conservation Day, December 4",
+        "url": "https://www.nationaldaycalendar.com/december/wildlife-conservation-day-december-4"
+      },
+      {
+        "label": "IPBES — 2019 Global Assessment Report on Biodiversity and Ecosystem Services",
+        "url": "https://files.ipbes.net/ipbes-web-prod-public-files/webform/impact_tracking_database/46408/2019%20IPBES%20Biodiversity%20and%20Ecosystem%20Services%20report%20Final.pdf"
+      },
+      {
+        "label": "Our World in Data — Number of species threatened with extinction (IUCN Red List)",
+        "url": "https://ourworldindata.org/grapher/number-species-threatened"
+      },
+      {
+        "label": "Nature — Number of species on Earth tagged at 8.7 million (Mora et al., PLoS Biology, 2011)",
+        "url": "https://www.nature.com/articles/news.2011.498"
+      }
+    ],
+    "image": "/images/national-wildlife-day.jpg",
+    "imageAlt": "A saltwater crocodile resting near water at Australia Zoo, Queensland, Australia",
+    "imageCredit": "Photo by [Bernard DUPONT](https://www.flickr.com/people/65695019@N07), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saltwater_Crocodile_(Crocodylus_porosus)_(10106331165).jpg)"
   }
 ];
 

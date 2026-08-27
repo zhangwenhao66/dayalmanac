@@ -41,10 +41,10 @@
   "https://dayalmanac.com/december-birthstone/": {
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-17",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-24",
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold | 2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天，延续08-23首次观察到的\"全站Blocked\"异常，dayalmanac此前是四站中唯一持续保持正命中率的站点，本次连续第2次运行0命中率"
+    "note": "discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold | 2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天，延续08-23首次观察到的\"全站Blocked\"异常，dayalmanac此前是四站中唯一持续保持正命中率的站点，本次连续第2次运行0命中率 | 2026-08-28: Discovered but not crawled，discovered 07 Aug，账龄21天"
   },
   "https://dayalmanac.com/national-daughters-day/": {
     "submitted_date": "2026-08-04",
@@ -65,32 +65,34 @@
   "https://dayalmanac.com/march-birthstone/": {
     "submitted_date": "2026-08-04",
     "last_submitted_date": "2026-08-04",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-24",
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天"
+    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天 | 2026-08-28: Discovered but not crawled，discovered 07 Aug，账龄21天"
   },
   "https://dayalmanac.com/september-birthstone/": {
     "submitted_date": "2026-08-05",
     "last_submitted_date": "2026-08-22",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-20",
-    "verified_method": "bwt_url_inspection"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-28",
+    "verified_method": "bwt_url_inspection",
+    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
   },
   "https://dayalmanac.com/scorpio-dates/": {
     "submitted_date": "2026-08-05",
     "last_submitted_date": "2026-08-23",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-23",
-    "verified_method": "bwt_url_inspection"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-28",
+    "verified_method": "bwt_url_inspection",
+    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
   },
   "https://dayalmanac.com/january-birthstone/": {
     "submitted_date": "2026-08-05",
     "last_submitted_date": "2026-08-24",
-    "verified_status": "pending",
-    "last_checked_date": "2026-08-24",
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 08 Aug账龄16天"
+    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 08 Aug账龄16天 | 2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
   },
   "https://dayalmanac.com/https://dayalmanac.com/national-sons-day/": {
     "submitted_date": "2026-08-05",

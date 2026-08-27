@@ -9385,6 +9385,174 @@ export const guides: Guide[] = [
     "image": "/images/national-pepperoni-pizza-day.jpg",
     "imageAlt": "A pepperoni pizza with the pepperoni slices curled and browned at the edges",
     "imageCredit": "Photo by Andy Li, CC0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pepperoni_pizza-_boella_co._2024-02-17.jpg)"
+  },
+  {
+    "slug": "national-wife-appreciation-day",
+    "category": "Observances",
+    "title": "National Wife Appreciation Day: A Moving Date and No Named Founder",
+    "description": "National Wife Appreciation Day falls on the third Sunday in September, a date that shifts every year. No founder or company has ever been documented as its source.",
+    "published": "2026-08-27",
+    "updated": "2026-08-27",
+    "coreSummary": "National Wife Appreciation Day is observed on the third Sunday in September, landing on September 20 in 2026. Several calendar sites agree on that rule, but none of them, including National Day Calendar itself, has been able to name a founder or a registering organization.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The third Sunday in September, every year. Because the rule is tied to a weekday rather than a calendar date, the day of the month moves from year to year.",
+      "status": "conventional",
+      "source": {
+        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-20",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-09-19",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-09-17",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-09-16",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-09-15",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-09-21",
+          "weekday": "Sunday"
+        }
+      ],
+      "caveat": "National Today lists Wife Appreciation Day as September 21, 2026, which is a Monday. That conflicts with the third-Sunday rule used by National Day Calendar, Calendarr, Holiday Calendar and NonStop Celebrations, all of which give September 20, 2026, the actual third Sunday of the month. No source explains National Today's date."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No individual, company, or organization has been documented as the source of National Wife Appreciation Day. National Day Calendar, which typically credits a submitter when a day was formally registered with the site, was not able to identify who proposed or registered this one. A number of calendar and lifestyle sites state that a version of the day first appeared in Chase's Calendar of Events around 2006, but that claim traces back to secondhand summaries rather than to Chase's own catalog, and none of those sites names a submitter or cites a page number. The explanation offered most often, without documentation, is that greeting-card and gift retailers popularized the day as a September counterpart to Mother's Day, aimed at wives without children. No dated original announcement, registration record, or proclamation has surfaced to confirm any part of that account.",
+      "source": {
+        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What Wife Appreciation Day is",
+        "body": [
+          "National Wife Appreciation Day is an unofficial observance held on the third Sunday in September, set aside for husbands to acknowledge a wife. Nothing organizes it centrally and no organization runs a campaign around it; it exists mainly as a prompt on calendar sites and social media, repeated from year to year without an operating body behind it.",
+          "The word \"National\" in the name carries no legal weight here. It is not established by statute, and no congressional record or presidential proclamation names it. That puts it in the same category as several other observances this calendar has documented, including [National Boyfriend Day](/national-boyfriend-day/): a name that sounds official, kept alive by repetition across calendar sites rather than by any government action.",
+          "It differs from Mother's Day in one structural way worth noting. Mother's Day has a documented founder, Anna Jarvis, and a 1914 congressional resolution behind it. Wife Appreciation Day has neither, despite sometimes being described in marketing copy as a companion observance for wives specifically."
+        ]
+      },
+      {
+        "heading": "The date: the third Sunday in September, not a fixed calendar date",
+        "body": [
+          "Wife Appreciation Day does not sit on a fixed day of the month the way, say, National Boyfriend Day sits on October 3 every year. It is defined by a weekday rule, the third Sunday in September, which means the date itself moves: September 20 in 2026, September 19 in 2027, September 17 in 2028, September 16 in 2029, September 15 in 2030, and back up to September 21 in 2031, since September 2031 itself opens on a Monday, which pushes that year's first Sunday to the 7th and its third Sunday all the way to the 21st.",
+          "National Day Calendar, Calendarr, Holiday Calendar and NonStop Celebrations all state the rule the same way, and all four give September 20 for 2026. National Today is the outlier, listing September 21, 2026, which is a Monday under any calendar. The rule these other four sites describe is unambiguous enough to check by counting Sundays: September 2026 opens on a Tuesday, so its Sundays fall on the 6th, 13th, 20th and 27th, and the third one is the 20th. Nothing in National Today's page explains the discrepancy.",
+          "Because the rule ties to a weekday rather than a date, a reader who bookmarks or shares \"September 20\" as this day's date will be wrong within a year or two. The rule to remember is the third Sunday in September, not a specific day of the month."
+        ]
+      },
+      {
+        "heading": "Nobody can document who started it",
+        "body": [
+          "National Day Calendar's own history note for the observance does not name a founder, a company, or a submission date, which is unusual for that site: when a day has been formally registered with them, the history section normally says so and credits whoever filed it. Here there is nobody to credit.",
+          "One claim that recurs across several calendar and lifestyle sites is that the day traces back to an entry in Chase's Calendar of Events around 2006. That claim shows up across several lifestyle and calendar sites, but every version of it is a paraphrase of a paraphrase, none pointing to a specific edition or page of Chase's own publication, and none naming who submitted it if it was in fact submitted. It is plausible on its face, since Chase's has long served as a general clearinghouse for exactly this kind of observance, but it has not been independently confirmed here.",
+          "Absent that, the day reads as one that spread through informal adoption, most likely encouraged by greeting-card and gift retailers looking for a September occasion, rather than one that was deliberately founded by a named person or organization. That is a plausible reading, not a documented one, and it is offered here as such rather than dressed up as settled history."
+        ]
+      },
+      {
+        "heading": "Not scheduled to match a husband's day",
+        "body": [
+          "Unlike National Boyfriend Day and National Girlfriend Day, which at least share the pattern of falling on fixed calendar dates in different months (October 3 and August 1, respectively, and even that pairing is disputed, as the Boyfriend Day page on this site documents), there is no single day that calendar sites treat as Wife Appreciation Day's direct counterpart for husbands.",
+          "Three separate observances compete for that role, and none of them shares Wife Appreciation Day's third-Sunday-in-September rule. Husband Appreciation Day is listed by multiple calendar sites as the third Saturday in April, a different month and a different weekday pattern entirely. National Day Calendar separately lists National Spouses Day on January 26, aimed at both spouses rather than either one specifically. A third day, sometimes called Husband Day, is listed on January 30 by some calendar sites. None of the three sites hosting these days describes any of them as the intended companion to Wife Appreciation Day, and no source ties their scheduling to September at all.",
+          "The practical result is that a reader searching for \"the husband version of this day\" will not find one clean answer, only three loosely related days scattered across January and April with no documented connection to each other or to Wife Appreciation Day."
+        ]
+      },
+      {
+        "heading": "How people mark it",
+        "body": [
+          "Mostly through cards, small gifts, and social media posts, the same low-key pattern as the other spouse- and partner-honoring days this calendar has covered. There is no dedicated retail campaign comparable to Valentine's Day, and no gift category specific to this day the way birthstones or anniversary years have their own established conventions.",
+          "Brand and content calendars that track \"national days\" for marketing purposes generally include it in their September listings, alongside the other minor observances that fall that month, without treating it as a major promotional date."
+        ]
+      },
+      {
+        "heading": "Official status",
+        "body": [
+          "National Wife Appreciation Day is not a public holiday in the United States. Nothing closes on it, no one receives time off, and it has no standing in federal or state law. No presidential proclamation or congressional resolution establishes it, which distinguishes it from statutory observances like Mother's Day.",
+          "It is best understood as an internet-era \"national day\" of the kind that has multiplied on calendar sites over the past two decades: real in the sense that it is consistently listed and occasionally marked, but without any government body, registered founder, or verifiable founding document behind it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Wife Appreciation Day in 2026?",
+        "answer": "September 20, 2026, a Sunday. The day is defined as the third Sunday in September rather than a fixed date, so it lands on a different day of the month each year."
+      },
+      {
+        "question": "Does National Wife Appreciation Day fall on the same date every year?",
+        "answer": "No. It always falls on the third Sunday in September, but the calendar date shifts: September 20 in 2026, September 19 in 2027, September 17 in 2028, September 16 in 2029, September 15 in 2030, and September 21 in 2031."
+      },
+      {
+        "question": "Who started National Wife Appreciation Day?",
+        "answer": "Nobody has been documented as its founder. National Day Calendar's own research did not turn up a submitter, company, or organization behind it. Several sites report that a version of the day appeared in Chase's Calendar of Events around 2006, but that claim has not been independently confirmed against Chase's own catalog, and no source names an individual founder."
+      },
+      {
+        "question": "Is there a Husband Appreciation Day?",
+        "answer": "Several observances compete for that role, but none is scheduled to match Wife Appreciation Day's rule. Husband Appreciation Day is listed as the third Saturday in April by multiple calendar sites, National Spouses Day falls on January 26, and a day sometimes called Husband Day is listed on January 30. None of these is described by its own source as the intended companion to Wife Appreciation Day."
+      },
+      {
+        "question": "Is National Wife Appreciation Day an official holiday?",
+        "answer": "No. It is not a federal or state holiday in the United States, has no presidential proclamation or congressional resolution behind it, and confers no time off. Nothing about it is set by any government body."
+      },
+      {
+        "question": "Why does National Today list a different date than other calendar sites?",
+        "answer": "National Today gives September 21, 2026 for Wife Appreciation Day, but that date is a Monday, not a Sunday, and conflicts with the third-Sunday-in-September rule used by National Day Calendar, Calendarr, Holiday Calendar and NonStop Celebrations, all four of which list September 20, 2026 instead. No source explains National Today's figure."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
+      },
+      {
+        "label": "Calendarr — Wife Appreciation Day (National Wife Day)",
+        "url": "https://www.calendarr.com/united-states/wife-appreciation-day/"
+      },
+      {
+        "label": "Holiday Calendar — Wife Appreciation Day",
+        "url": "https://www.holidaycalendar.io/holiday/wife-appreciation-day"
+      },
+      {
+        "label": "NonStop Celebrations — Wife Appreciation Day, third Sunday in September",
+        "url": "https://www.nonstopcelebrations.com/days/in-september/celebrate-wife-appreciation-day-the-third-sunday-in-september/"
+      },
+      {
+        "label": "National Today — Wife Appreciation Day",
+        "url": "https://nationaltoday.com/wife-appreciation-day/"
+      },
+      {
+        "label": "Awareness Days — National Husband Appreciation Day",
+        "url": "https://www.awarenessdays.com/awareness-days-calendar/national-husband-appreciation-day/"
+      },
+      {
+        "label": "National Day Calendar — National Spouses Day, January 26",
+        "url": "https://nationaldaycalendar.com/celebrations/national-spouses-day-january-26"
+      },
+      {
+        "label": "Holiday Calendar — Husband Day",
+        "url": "https://www.holidaycalendar.io/holiday/husband-day"
+      },
+      {
+        "label": "Library of Congress — Today in History, Mother's Day (May 8, 1914 congressional resolution and Wilson's 1914 proclamation)",
+        "url": "https://www.loc.gov/item/today-in-history/may-09/"
+      }
+    ],
+    "image": "/images/national-wife-appreciation-day.jpg",
+    "imageAlt": "Close-up of a diamond engagement ring stacked with a wedding band on a hand",
+    "imageCredit": "Photo by Derek Ramsey, CC BY-SA 2.5, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wedding_and_Engagement_Rings_2151px.jpg)"
   }
 ];
 

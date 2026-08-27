@@ -9553,6 +9553,133 @@ export const guides: Guide[] = [
     "image": "/images/national-wife-appreciation-day.jpg",
     "imageAlt": "Close-up of a diamond engagement ring stacked with a wedding band on a hand",
     "imageCredit": "Photo by Derek Ramsey, CC BY-SA 2.5, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wedding_and_Engagement_Rings_2151px.jpg)"
+  },
+  {
+    "slug": "national-nachos-day",
+    "category": "Observances",
+    "title": "National Nachos Day: November 6, and No Founder on Record",
+    "description": "National Nachos Day falls every November 6. The dish has a well-documented 1943 origin, but no founder or registration has ever been traced to the observance itself.",
+    "published": "2026-08-27",
+    "updated": "2026-08-27",
+    "coreSummary": "National Nachos Day is observed every November 6 in the United States. Unlike National Quesadilla Day, a calendar neighbor with a named company and a documented 2019 launch, no founder, business, or registration has ever been traced to National Nachos Day itself. What is well documented is the dish it celebrates: restaurant manager Ignacio \"Nacho\" Anaya improvised the first nachos in 1943 in Piedras Negras, Mexico, a story confirmed independently across multiple sources.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "November 6 every year, the same fixed calendar date. No law or proclamation sets this date; it is simply the date calendar-aggregator sites and restaurant chains have consistently used for the observance.",
+      "status": "conventional",
+      "source": {
+        "label": "National Day Calendar — National Nachos Day, November 6",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-nachos-day-november-6"
+      },
+      "occurrences": [
+        { "date": "2026-11-06", "weekday": "Friday" },
+        { "date": "2027-11-06", "weekday": "Saturday" },
+        { "date": "2028-11-06", "weekday": "Monday" },
+        { "date": "2029-11-06", "weekday": "Tuesday" },
+        { "date": "2030-11-06", "weekday": "Wednesday" },
+        { "date": "2031-11-06", "weekday": "Thursday" }
+      ],
+      "caveat": "National Nachos Day (November 6) is a separate observance from International Nacho Day, which calendar sites including Calendarr place on October 21, more than two weeks earlier. The two are not the same day under different names, and confusing them means celebrating early. National Today labels its own page \"National Nacho Day,\" singular, while National Day Calendar and Calendarr both use the plural \"National Nachos Day\"; both names point at the same November 6 date."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No founder, company, or registration has ever been traced to National Nachos Day. Holiday Calendar's own history timeline states plainly, \"The origin of National Nachos Day is unclear, but it has been celebrated on November 6th since the mid-1990s,\" without naming who started it or citing a proclamation, press release, or registration of any kind. National Day Calendar, Calendarr, and National Today all publish the day without crediting a founder, which is unusual only in how consistent the silence is; contrast National Quesadilla Day, a similar food-brand observance on this calendar with a named company, a named executive, and contemporaneous 2019 news coverage of its launch. Nothing comparable exists for National Nachos Day. What every source agrees on instead is the origin of the dish the day celebrates, which is unusually well documented for 1940s border-town cooking.",
+      "source": {
+        "label": "Holiday Calendar — National Nachos Day (history timeline)",
+        "url": "https://www.holidaycalendar.io/holiday/national-nachos-day"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Nachos Day is",
+        "body": [
+          "National Nachos Day is an unofficial food observance with no legal or governmental status. Nothing about it appears in federal law or any state proclamation, and banks, government offices, and the postal service run on their ordinary November 6 schedule regardless of the day's name.",
+          "It functions the way most food-calendar days do: restaurant chains, food bloggers, and grocery brands treat November 6 as a hook for deals and social posts, and aggregator sites such as National Day Calendar, Checkiday, and Calendarr list it alongside hundreds of similar days, the same pattern behind [National Taco Day](/national-taco-day/) and [National Guacamole Day](/national-guacamole-day/) elsewhere on this calendar. What makes this one worth a closer look is not the marketing around it but the gap between how well the dish's own history is documented and how poorly the day's history is."
+        ]
+      },
+      {
+        "heading": "The dish has a real, well-documented origin",
+        "body": [
+          "The story behind nachos itself holds up across independent retellings. In 1943, in the Mexican border town of Piedras Negras, just across the Rio Grande from Eagle Pass, Texas, a group of wives of U.S. soldiers stationed at nearby Fort Duncan arrived at the Victory Club restaurant after it had technically closed for the day. The restaurant's manager, Ignacio \"Nacho\" Anaya, improvised a dish from what was left in the kitchen: he sliced fried corn tortillas into triangles, topped them with shredded cheddar cheese and sliced pickled jalapeños, and warmed the plate in the oven. The group asked what the dish was called, and Anaya answered \"Nacho's especiales,\" using his own nickname. The name shortened to \"nachos\" as the dish spread.",
+          "That account is not sourced to a single site repeating itself; National Today, The Fact Site, and Calendarr all independently describe the same restaurant, the same year, the same soldiers'-wives detail, and the same improvised ingredients, which is the kind of cross-source agreement National Nachos Day's own founding story does not have. Anaya's original recipe was later printed in the 1954 St. Anne's Cookbook, and the dish crossed into mainstream American food culture in stages: a Los Angeles waitress named Carmen Rocha is credited with bringing nachos to Southern California's El Cholo restaurant in 1959, a cheese-sauce variant appeared at a Texas Rangers baseball game at Arlington Stadium in 1976, and ABC sportscaster Howard Cosell mentioned \"nachos\" on air during a 1978 Monday Night Football broadcast, a moment widely credited with pushing the word into everyday American vocabulary."
+        ]
+      },
+      {
+        "heading": "Why the day's own start date is unverified",
+        "body": [
+          "None of that dish history answers who decided November 6 should be National Nachos Day, or when. Holiday Calendar's history timeline is the only source found that even attempts a date for the observance's origin, and its own wording concedes the gap: \"The origin of National Nachos Day is unclear, but it has been celebrated on November 6th since the mid-1990s.\" No founder is named, no company is credited, and no proclamation, registration record, or press release is cited to support the mid-1990s figure. It reads as an estimate rather than a documented fact, and no other source checked corroborates or contradicts it with anything more specific.",
+          "That absence is worth noting because it is not universal on this calendar. [National Quesadilla Day](/national-quesadilla-day/), a comparable food-brand observance, has a named founding company (V&V Supremo Foods), a named executive who appeared on live television the day it launched, and trade-press coverage from the days before the 2019 launch. National Nachos Day has none of that. Until a dated original announcement, a company registration, or a proclamation surfaces, the honest answer is that nobody has shown who started it or exactly when."
+        ],
+        "image": {
+          "src": "/images/national-nachos-day.jpg",
+          "alt": "A large platter of loaded nachos topped with melted cheese, jalapeños, and salsa",
+          "credit": "Photo by [Willis Lam](https://www.flickr.com/people/85567416@N03), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Los_Hermano%27s_Mexican_Food_Super_Nachos_(30190480813).jpg)"
+        }
+      },
+      {
+        "heading": "Not the same day as International Nacho Day",
+        "body": [
+          "National Nachos Day is frequently confused with International Nacho Day, a separate observance that Calendarr and other calendar sites place on October 21, more than two weeks earlier. The two names are close enough, and both days celebrate the same dish, that readers checking a calendar quickly can end up celebrating on the wrong date. Piedras Negras itself, the town where nachos were invented, runs its own annual International Nacho Festival each October, complete with live music and a \"giant nacho\" contest, which sits closer to the October date than to November 6.",
+          "A second, smaller naming wrinkle sits inside November 6 itself: National Today's own page calls the day \"National Nacho Day,\" singular, while National Day Calendar and Calendarr both use the plural \"National Nachos Day.\" Both names refer to the same date and the same dish; nothing distinguishes them beyond how each site chose to write it."
+        ]
+      },
+      {
+        "heading": "How big a moment this actually is",
+        "body": [
+          "Nachos ride on the back of a much larger snack category: tortilla and tostada chips. That category is not a minor line item. During Super Bowl week 2024, the single highest-volume week of the year for game-day snacking, American shoppers bought 34 million pounds of tortilla and tostada chips, generating $172.2 million in sales and a 31.7 percent increase over the prior week, according to retail-tracking data from Circana reported through the trade group SNAC International. That figure covers tortilla chips broadly, not nachos specifically, since retail data does not separate chips eaten plain from chips piled with cheese and jalapeños, but it is the best available proxy for how central the format is to American snacking habits during the year's biggest game-day stretch."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Nachos Day in 2026?",
+        "answer": "Friday, November 6, 2026. It falls on the same calendar date, November 6, every year."
+      },
+      {
+        "question": "Who invented nachos?",
+        "answer": "Ignacio \"Nacho\" Anaya, the manager of the Victory Club restaurant in Piedras Negras, Mexico, improvised the first nachos in 1943 for a group of visiting U.S. soldiers' wives, using fried tortilla triangles, shredded cheese, and sliced jalapeños."
+      },
+      {
+        "question": "Who started National Nachos Day, the observance?",
+        "answer": "Nobody has been documented as the founder. Unlike National Quesadilla Day, which has a named founding company and a documented 2019 launch, no company, individual, or registration has been traced to National Nachos Day. One calendar site states it has been observed since the mid-1990s but cites no source for that date."
+      },
+      {
+        "question": "Is National Nachos Day the same as International Nacho Day?",
+        "answer": "No. National Nachos Day falls on November 6, while International Nacho Day is a separate observance that calendar sites place on October 21, more than two weeks earlier."
+      },
+      {
+        "question": "Is National Nachos Day a federal holiday?",
+        "answer": "No. It has no legal or governmental status. Banks, government offices, and the postal service operate on their normal schedule on November 6."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Today — National Nacho Day",
+        "url": "https://nationaltoday.com/national-nacho-day/"
+      },
+      {
+        "label": "The Fact Site — National Nachos Day",
+        "url": "https://www.thefactsite.com/national-nachos-day/"
+      },
+      {
+        "label": "Calendarr — National Nachos Day (notes International Nacho Day, October 21)",
+        "url": "https://www.calendarr.com/united-states/national-nachos-day/"
+      },
+      {
+        "label": "Holiday Calendar — National Nachos Day (history timeline, mid-1990s claim)",
+        "url": "https://www.holidaycalendar.io/holiday/national-nachos-day"
+      },
+      {
+        "label": "National Day Calendar — National Nachos Day, November 6",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-nachos-day-november-6"
+      },
+      {
+        "label": "BakeryAndSnacks (William Reed) — Super Bowl snacking facts and figures, citing Circana/SNAC International data",
+        "url": "https://www.bakeryandsnacks.com/Article/2025/02/07/super-bowl-snacking-facts-figures-and-fan-favourites/"
+      }
+    ],
+    "image": "/images/national-nachos-day.jpg",
+    "imageAlt": "A large platter of loaded nachos topped with melted cheese, jalapeños, and salsa",
+    "imageCredit": "Photo by [Willis Lam](https://www.flickr.com/people/85567416@N03), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Los_Hermano%27s_Mexican_Food_Super_Nachos_(30190480813).jpg)"
   }
 ];
 

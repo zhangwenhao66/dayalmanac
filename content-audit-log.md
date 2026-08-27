@@ -1498,3 +1498,94 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "domestic-violence-awareness-month",
+  "last_audited": "2026-08-27",
+  "published_date": "2026-08-09",
+  "audit_focus": [
+    "Al Green个人年度决议的真实起始年份与是否曾获众议院表决（文章原称'since at least 2020'且'从未表决'）",
+    "1989/1991两次国会联合决议(SJRes.133/SJRes.73)与对应总统公告(6043/6340)的编号、日期、Public Law编号是否互相对应",
+    "Bush 1991年公告'every autumn since 1985'这条差异化断言是否逐字属实",
+    "NCADV与National Domestic Violence Hotline 2022年合并现状（ncadv.org是否仍指向thehotline.org）",
+    "白宫2025年Presidential Message来源URL slug与标题内容不符是否构成误引"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "文章以国会联合决议号+总统公告号+GovTrack/presidency.ucsb.edu原文为主证据，'Bush自己公告写错年份'这类差异化处理具体、可核实，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "发现1处严重问题（已修复）",
+      "detail": "founding.text/正文第四节/FAQ第3条三处均称Al Green'since at least 2020'年年提交决议且'从未表决'。curl+WebSearch核实Al Green官方House.gov新闻稿：该决议最早可追溯2005年（H.Con.Res.209），且H.Con.Res.209已于2005-09-27以404-0表决通过众议院、H.Res.817已于2009-10-26经口头表决通过众议院——'2020年起'和'从未表决'均为编造/严重失实。同时验证了：SJRes.133→Public Law 101-112→Proclamation 6043（1989年）、SJRes.73(102nd Congress)→Public Law 102-114→Proclamation 6340（1991年，注意101st Congress同编号SJRes.73是完全不相关的Gaucher's Disease Awareness Week决议，需按国会届次区分）均准确；Bush 1991年公告原文逐字确认包含'every autumn since 1985'这句话，差异化断言属实；VAWA/hotline史实（1994年签署、Texas Council on Family Violence $100万拨款、1996-02-21首次接听）核实无误。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "整月观察日无nth-weekday计算风险；occurrences 2026-2031六年独立复核weekday字段吻合。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "'国会1991年后未再以联合决议正式续期，仅总统年年自行公告'+'Bush公告自相矛盾的1985年说法'两条差异化角度，经核实均为真实且head部竞品（thehotline.org/wikipedia等）未做的细致拆解。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上title/canonical(自引用)/单一H1/meta robots均正常。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "未重新打分",
+      "detail": "本次修复未涉及结构性GEO薄弱维度（FAQ/schema结构未删减，仅更新文本内容+补充sources条目），未触发重新评分条件，此前发布时已按≥80门槛通过。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "published=2026-08-09，晚于avoid-ai-writing 2026-08-07接入时间点，符合流程；本次新增的三段修复文本已过humanizer+avoid-ai-writing两项检查，无em-dash/AI词表命中。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（两个已知反爬域名例外）",
+      "detail": "10条sources逐条curl实测：presidency.ucsb.edu(x2)/congress.gov PDF/bidenwhitehouse.archives.gov/whitehouse.gov/cawc.org/ncadv.org均200；congress.gov bill页面与thehotline.org(x2)对curl返回403，为已知反爬拦截模式（非真实失效）。新增的两条GovTrack条目实测200。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "本文非孤儿页，正文自身引用national-grandparents-day/national-sons-day/red-ribbon-week三个slug均在guides.ts中真实存在。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "本次编辑已同步",
+      "detail": "updated字段随本次修复同步为2026-08-27（published字段本就存在，非缺失回填场景）；sources[]新增两条GovTrack条目对应正文新增的具体事实断言。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "家暴议题现实世界近19天无新增争议使表述需要调整。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "/images/domestic-violence-awareness-month.jpg与-timeline.svg本地文件确认存在，imageCredit(USAG-Humphreys, CC BY 2.0)与配图内容匹配。"
+    },
+    {
+      "dimension": "AdSense政策风险",
+      "status": "未发现问题",
+      "detail": "正文对家暴议题的记述为百科式历史陈述（组织沿革/立法史/公告文本），未渲染猎奇/煽动性细节；ads.txt/privacy/terms均正常。白宫2025年Presidential Message来源URL slug('national-youth-substance-abuse-prevention-month')与页面实际标题('Presidential Message on National Domestic Violence Awareness Month')不符——直接curl该URL确认页面实际内容确实是DV Awareness Month全文（Trump政府2025-10-10发布），标签与URL不符是白宫自己CMS的命名瑕疵，不是本站引用错误，判定非问题。"
+    }
+  ],
+  "independent_verification": "对'Al Green决议起始年份+是否曾获表决'这一条发现spawn独立agent核实，agent未卡死正常返回，判定REFUTED并交叉确认109th/111th Congress具体决议号、表决方式、日期，与本次调研结论一致。",
+  "actions_taken": [
+    "founding.text、正文'A federal fixture...'一节、FAQ第3条三处均改写：Al Green决议史改为'自2005年起近乎每年提交，其中H.Con.Res.209(2005,404-0)与H.Res.817(2009,口头表决)曾通过众议院但未获参议院通过未成为法律，近年版本未获众议院表决'",
+    "sources[]新增两条：GovTrack H.Con.Res.209(109th Congress)、GovTrack H.Res.817(111th Congress)，均实测200",
+    "updated字段由2026-08-09改为2026-08-27"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "未重新打分（本次修复不涉及结构性GEO短板，此前发布时已按≥80门槛通过）",
+  "escalation": null
+}
+```

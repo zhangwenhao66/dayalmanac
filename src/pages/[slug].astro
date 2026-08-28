@@ -50,6 +50,18 @@ function md(text: string): string {
 // lunisolar/religious calendars) are transcribed rather than generated years ahead, so a
 // countdown left running for years on someone else's page could go quietly wrong.
 const countdownEligible = guide.dateRule && guide.dateRule.kind !== 'table';
+
+// Mini date blocks for the "nearby on the calendar" rows — same build-time "today"
+// contract as DateTable's next-occurrence highlight.
+const today = new Date().toISOString().slice(0, 10);
+const MONTHS_ABBR = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+function blockParts(date: string) {
+	const [, m, d] = date.split('-').map(Number);
+	return { mon: MONTHS_ABBR[m - 1], day: String(d).padStart(2, '0') };
+}
+function relatedNext(g: Guide) {
+	return g.dateRule?.occurrences.find((o) => o.date >= today) ?? g.dateRule?.occurrences[0];
+}
 const embedUrl = `${SITE_ORIGIN}/embed/${guide.slug}/`;
 const embedSnippet = countdownEligible
 	? `<iframe src="${embedUrl}" width="280" height="230" style="border:1px solid #ddd;border-radius:8px" title="Days until ${guide.title}" loading="lazy"></iframe>`
@@ -96,10 +108,18 @@ import { imgDims } from '../data/imageDims';
 				{guide.title}
 			</h1>
 			<p class="mt-4 text-[1.05rem] leading-relaxed text-[var(--ink)]/65">{guide.description}</p>
-			<p class="mt-3 text-xs text-[var(--ink)]/40">Last updated {guide.updated}</p>
+			<p class="mt-3 text-xs text-[var(--ink)]/45">Last updated {guide.updated}</p>
 		</header>
 
-		<div class="mx-auto mt-9 max-w-[720px]">
+		<!-- Red-letter annotation: the core answer inked in the margin, kept above the fold. -->
+		<div class="mx-auto mt-7 max-w-[720px]">
+			<div class="redletter px-5 py-4">
+				<p class="rubric m-0">In brief</p>
+				<p class="font-prose mt-2 mb-0 text-[1.1rem] leading-relaxed text-[var(--ink)]">{guide.coreSummary}</p>
+			</div>
+		</div>
+
+		<div class="mx-auto mt-7 max-w-[720px]">
 			{guide.dateRule && <DateTable rule={guide.dateRule} />}
 		</div>
 
@@ -126,13 +146,8 @@ import { imgDims } from '../data/imageDims';
 		)}
 
 		<div class="mx-auto mt-11 max-w-[680px]">
-			<div class="panel px-5 py-5">
-				<p class="rubric m-0">In brief</p>
-				<p class="font-prose mt-3 mb-0 text-[1.1rem] leading-relaxed text-[var(--ink)]">{guide.coreSummary}</p>
-			</div>
-
 			{guide.founding && (
-				<div class="mt-6 border-l-2 border-[var(--rule)] pl-5">
+				<div class="border-l-2 border-[var(--rule)] pl-5">
 					<p class="rubric m-0">
 						{guide.founding.status === 'documented' ? 'Who started it' : 'Who started it (unresolved)'}
 					</p>
@@ -174,11 +189,14 @@ import { imgDims } from '../data/imageDims';
 			{guide.faq && guide.faq.length > 0 && (
 				<div class="mt-14 border-t-2 border-[var(--ink)] pt-6">
 					<h2 class="font-display m-0 text-2xl font-semibold text-[var(--ink)]">Frequently asked questions</h2>
-					<div class="mt-2 flex flex-col">
+					<div class="mt-7 flex flex-col gap-8">
 						{guide.faq.map((item) => (
-							<div class="border-b border-[var(--rule)] py-5 last:border-b-0">
-								<p class="font-display m-0 text-[1.12rem] font-semibold text-[var(--ink)]">{item.question}</p>
-								<p class="mt-2 mb-0 text-[0.95rem] leading-relaxed text-[var(--ink)]/70" set:html={md(item.answer)} />
+							<div>
+								<p class="m-0 flex items-baseline gap-3">
+									<span class="faq-q text-[1.55rem] leading-none" aria-hidden="true">Q.</span>
+									<span class="font-display text-[1.12rem] leading-snug font-semibold text-[var(--ink)]">{item.question}</span>
+								</p>
+								<p class="mt-2 mb-0 pl-[2.5rem] text-[0.95rem] leading-relaxed text-[var(--ink)]/75" set:html={md(item.answer)} />
 							</div>
 						))}
 					</div>
@@ -225,18 +243,37 @@ import { imgDims } from '../data/imageDims';
 
 		{related.length > 0 && (
 			<div class="mt-16">
-				<h3 class="font-display m-0 text-xl font-semibold text-[var(--ink)]">Also on the calendar</h3>
-				<div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-					{related.map((g) => (
-						<a href={`/${g.slug}/`} class="entry panel block px-4 py-4 no-underline">
-							<p class="rubric m-0">{g.category}</p>
-							<p class="font-display entry-title m-0 mt-1.5 text-[1.05rem] leading-snug font-semibold text-[var(--ink)]">{g.title}</p>
-							{g.dateRule?.occurrences[0] && (
-								<p class="m-0 mt-2 text-xs text-[var(--ink)]/50">{g.dateRule.text}</p>
-							)}
-						</a>
-					))}
-				</div>
+				<h3 class="font-display m-0 border-b-2 border-[var(--ink)] pb-2 text-xl font-semibold text-[var(--ink)]">Nearby on the calendar</h3>
+				<ul class="m-0 mt-1 list-none p-0">
+					{related.map((g) => {
+						const occ = relatedNext(g);
+						const p = occ ? blockParts(occ.date) : null;
+						return (
+							<li class="border-b border-[var(--rule)] last:border-b-0">
+								<a href={`/${g.slug}/`} class="entry flex items-start gap-4 py-3.5 no-underline">
+									{p ? (
+										<span class="date-block mt-0.5" aria-hidden="true">
+											<span class="db-month">{p.mon}</span>
+											<span class="db-day">{p.day}</span>
+										</span>
+									) : (
+										<span class="date-block mt-0.5" aria-hidden="true">
+											<span class="db-month">REF</span>
+											<span class="db-day">&sect;</span>
+										</span>
+									)}
+									<span class="min-w-0 flex-1">
+										<span class="rubric block">{g.category}</span>
+										<span class="font-display entry-title mt-0.5 block text-[1.05rem] leading-snug font-semibold text-[var(--ink)]">{g.title}</span>
+										{g.dateRule && (
+											<span class="mt-0.5 block text-[0.85rem] leading-relaxed text-[var(--ink)]/70">{g.dateRule.text}</span>
+										)}
+									</span>
+								</a>
+							</li>
+						);
+					})}
+				</ul>
 			</div>
 		)}
 
@@ -247,23 +284,10 @@ import { imgDims } from '../data/imageDims';
 </Layout>
 
 <style>
-	.entry {
-		transition:
-			border-color 0.15s ease,
-			box-shadow 0.15s ease;
-	}
-	.entry:hover {
-		border-color: var(--flag);
-		box-shadow: 0 1px 2px rgb(31 29 26 / 0.06);
-	}
 	.entry:hover .entry-title {
+		color: var(--flag-dark);
 		text-decoration: underline;
 		text-underline-offset: 3px;
-	}
-	@media (prefers-reduced-motion: reduce) {
-		.entry {
-			transition: none;
-		}
 	}
 </style>
 

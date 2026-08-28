@@ -97,3 +97,92 @@ body {
 	color: var(--flag-dark);
 	font-weight: 600;
 }
+/* Dates are the point of this site, so table dates get the slab face at reading size. */
+.date-table tbody th,
+.date-table tbody td {
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+	font-size: 1rem;
+}
+
+/*
+ * Tear-off calendar chrome (2026-08 layout differentiation).
+ *
+ * The metaphor is a wall tear-off calendar: a red band across the top of every page
+ * (the calendar's binding strip), a big "today" leaf on the front page whose bottom
+ * edge is perforated into hanging triangles, and small month-over-day date blocks in
+ * list rows — each row its own miniature leaf.
+ */
+
+/* Tear-off leaf: bottom border is replaced by a row of hanging perforation triangles. */
+.leaf-torn {
+	position: relative;
+	background: var(--leaf);
+	border: 1px solid var(--rule);
+	border-bottom: 0;
+	box-shadow: 0 12px 14px -12px rgb(31 29 26 / 0.28);
+}
+.leaf-torn::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -8px;
+	height: 8px;
+	background: conic-gradient(from -45deg at 50% 100%, var(--leaf) 90deg, transparent 0) 0 0 / 16px 8px repeat-x;
+}
+
+/* Mini tear-off date block for row lists: month strip in calendar red over the day. */
+.date-block {
+	display: flex;
+	width: 3.1rem;
+	flex-direction: column;
+	flex-shrink: 0;
+	border: 1px solid var(--rule);
+	background: var(--leaf);
+	text-align: center;
+}
+.date-block .db-month {
+	background: var(--flag);
+	color: var(--leaf);
+	font-size: 0.6rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	padding: 0.16rem 0 0.12rem;
+}
+.date-block .db-day {
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+	font-size: 1.3rem;
+	font-weight: 700;
+	line-height: 1.6;
+	color: var(--flag-dark);
+	font-variant-numeric: tabular-nums;
+}
+
+/* Header date stamp: today's date inked next to the wordmark, set slightly askew. */
+.date-stamp {
+	display: inline-block;
+	border: 1.5px solid var(--flag);
+	color: var(--flag-dark);
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+	font-size: 0.62rem;
+	font-weight: 700;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	padding: 0.18rem 0.5rem;
+	transform: rotate(-3deg);
+	white-space: nowrap;
+}
+
+/* Red-letter annotation box: the almanac's red-ink margin note, on lighter stock. */
+.redletter {
+	background: var(--leaf);
+	border: 1px solid var(--rule);
+	border-left: 4px solid var(--flag);
+}
+
+/* The oversized red Q that marks each question in the flat FAQ list. */
+.faq-q {
+	font-family: 'Bitter Variable', 'Noto Serif SC', Georgia, serif;
+	color: var(--flag);
+	font-weight: 800;
+}

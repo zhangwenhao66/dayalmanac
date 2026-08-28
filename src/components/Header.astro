@@ -1,10 +1,18 @@
 ---
 import { SITE_TITLE } from '../consts';
+
+// Build-time date stamp next to the wordmark. The site rebuilds on every publish
+// (daily), the same freshness contract DateTable already relies on for its
+// "next occurrence" highlight.
+const MONTHS_ABBR = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+const [y, m, d] = new Date().toISOString().slice(0, 10).split('-').map(Number);
+const stamp = `${MONTHS_ABBR[m - 1]} ${d}, ${y}`;
 ---
 
 <!-- Almanac masthead: slab wordmark over a thick/thin rule pair, the way an almanac
-     cover sets its year banner. -->
+     cover sets its year banner. The red strip up top is the calendar's binding. -->
 <header class="bg-[var(--paper)]">
+	<div class="h-[6px] bg-[var(--flag)]"></div>
 	<div class="mx-auto max-w-6xl px-5 md:px-8">
 		<nav class="flex items-end justify-between gap-2 pt-6 pb-3">
 			<a href="/" class="flex shrink-0 items-center gap-2.5 no-underline" aria-label={`${SITE_TITLE} home`}>
@@ -17,6 +25,7 @@ import { SITE_TITLE } from '../consts';
 					<rect x="10.4" y="12.4" width="3.2" height="3.2" rx="0.6" fill="var(--flag)"/>
 				</svg>
 				<span class="font-display text-[1.6rem] leading-none font-semibold tracking-tight text-[var(--ink)]">{SITE_TITLE}</span>
+				<span class="date-stamp ml-2 hidden sm:inline-block" aria-hidden="true">{stamp}</span>
 			</a>
 
 			<div class="flex items-baseline gap-6 pb-1">

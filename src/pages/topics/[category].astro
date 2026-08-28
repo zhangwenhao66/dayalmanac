@@ -24,6 +24,13 @@ function nextDate(g: Guide): string | null {
 	return g.dateRule?.occurrences.find((o) => o.date >= today)?.date ?? null;
 }
 
+// Mini tear-off date blocks, matching the front page's row list.
+const MONTHS_ABBR = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+function blockParts(date: string) {
+	const [, m, d] = date.split('-').map(Number);
+	return { mon: MONTHS_ABBR[m - 1], day: String(d).padStart(2, '0') };
+}
+
 // Dated entries first, soonest occurrence first; undated entries after, alphabetically.
 const sorted = [...entries].sort((a, b) => {
 	const da = nextDate(a);
@@ -60,16 +67,25 @@ const breadcrumbItems = [
 		<ul class="m-0 mt-9 list-none p-0">
 			{sorted.map((g) => {
 				const next = g.dateRule?.occurrences.find((o) => o.date >= today);
+				const p = next ? blockParts(next.date) : null;
 				return (
 					<li class="border-b border-[var(--rule)] first:border-t">
-						<a href={`/${g.slug}/`} class="entry block py-4 no-underline">
-							{next && (
-								<span class="font-display block text-[0.85rem] font-semibold text-[var(--flag-dark)] tabular-nums">
-									{formatOccurrence(next)}
+						<a href={`/${g.slug}/`} class="entry flex items-start gap-4 py-4 no-underline">
+							{p && (
+								<span class="date-block mt-0.5" aria-hidden="true">
+									<span class="db-month">{p.mon}</span>
+									<span class="db-day">{p.day}</span>
 								</span>
 							)}
-							<span class="font-display entry-title mt-0.5 block text-[1.1rem] leading-snug font-semibold text-[var(--ink)]">{g.title}</span>
-							<span class="mt-0.5 block text-[0.9rem] leading-relaxed text-[var(--ink)]/60">{g.description}</span>
+							<span class="min-w-0 flex-1">
+								{next && (
+									<span class="font-display block text-[0.8rem] font-semibold text-[var(--flag-dark)] tabular-nums">
+										{formatOccurrence(next)}
+									</span>
+								)}
+								<span class="font-display entry-title mt-0.5 block text-[1.1rem] leading-snug font-semibold text-[var(--ink)]">{g.title}</span>
+								<span class="mt-0.5 block text-[0.9rem] leading-relaxed text-[var(--ink)]/70">{g.description}</span>
+							</span>
 						</a>
 					</li>
 				);

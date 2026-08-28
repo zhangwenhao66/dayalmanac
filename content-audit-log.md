@@ -1589,3 +1589,6 @@
   "escalation": null
 }
 ```
+
+## 2026-08-28 CTR抢救审计（top15页面标题优化，Owen批准的一次性专项）
+依据：8/28 全矩阵体检——本站多页排名 4-14 但点击稀少。本次给 4 页标题加年份钩子/把答案（日期）前置：virgo-dates（钩子句式微调）、national-daughters-day（标题原本没有日期，补 September 25 + 2026）、national-taco-day（补 2026 实际日期 October 6，来自页面自身已核实内容）、national-bosses-day（补 2026）。national-dog-day（8/26 已过峰）与 september-birthstone（标题已含答案）本轮不动。正文与 description 未动。观察点：2-4 周后 site-search-opportunity-refresh 复查 CTR 与排名（排名下滑>5位则回滚该页标题）。⚠️ 3 个标题含 2026：年度刷新时需同步更新（与年份 FAQ 同一轮做）。

@@ -342,7 +342,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-daughters-day",
     "category": "Observances",
-    "title": "National Daughters Day: Date, Origin, and Why Sources Disagree",
+    "title": "National Daughters Day 2026: September 25 (or the 4th Sunday?)",
     "description": "National Daughters Day falls on September 25 in the US, but other calendars use the fourth Sunday in September. Here is which is which, and who says what.",
     "published": "2026-08-02",
     "updated": "2026-08-04",
@@ -1056,7 +1056,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-bosses-day",
     "category": "Observances",
-    "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
+    "title": "National Boss's Day 2026: Oct 16, the Rule Nobody Approved",
     "description": "National Boss's Day falls on October 16 every year, registered by Patricia Bays Haroski in 1958. The weekend-shift rule widely repeated for it has no traceable source.",
     "published": "2026-08-02",
     "updated": "2026-08-12",
@@ -1659,7 +1659,7 @@ export const guides: Guide[] = [
   {
     "slug": "virgo-dates",
     "category": "Zodiac Dates",
-    "title": "Virgo Dates: August 23–September 22, in Three Systems",
+    "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23–September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
     "updated": "2026-08-05",
@@ -2624,7 +2624,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-taco-day",
     "category": "Observances",
-    "title": "National Taco Day: The First Tuesday of October, Not October 4",
+    "title": "National Taco Day 2026: October 6, Not October 4 Anymore",
     "description": "National Taco Day was October 4 for years. In September 2024, Taco Bell and the registrar moved it to the first Tuesday of October, making 2026's date October 6.",
     "published": "2026-08-09",
     "updated": "2026-08-09",

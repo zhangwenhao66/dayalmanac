@@ -1592,3 +1592,102 @@
 
 ## 2026-08-28 CTR抢救审计（top15页面标题优化，Owen批准的一次性专项）
 依据：8/28 全矩阵体检——本站多页排名 4-14 但点击稀少。本次给 4 页标题加年份钩子/把答案（日期）前置：virgo-dates（钩子句式微调）、national-daughters-day（标题原本没有日期，补 September 25 + 2026）、national-taco-day（补 2026 实际日期 October 6，来自页面自身已核实内容）、national-bosses-day（补 2026）。national-dog-day（8/26 已过峰）与 september-birthstone（标题已含答案）本轮不动。正文与 description 未动。观察点：2-4 周后 site-search-opportunity-refresh 复查 CTR 与排名（排名下滑>5位则回滚该页标题）。⚠️ 3 个标题含 2026：年度刷新时需同步更新（与年份 FAQ 同一轮做）。
+
+```json
+{
+  "url_slug": "national-hispanic-heritage-month",
+  "last_audited": "2026-08-28",
+  "published_date": "2026-08-10",
+  "selection_note": "content-audit-log.md中17个唯一slug已审计，其余49篇（占guides.ts全部66篇的大多数）从未被本任务审计过。本次按'从未审计优先'选取guides.ts中published日期最早（2026-08-10）且未被2026-08-28上午CTR抢救专项touch过的一篇（同为2026-08-10发布的national-taco-day已被CTR专项改过标题，为避免同日两个项目互相干扰，改选同批次中file序位更靠前的national-hispanic-heritage-month）。",
+  "custom_checklist": [
+    "H.J.Res.1299(1968)提出日期/提案人/19位联署人名单（含George H.W. Bush）是否准确",
+    "P.L.90-498签署日+Johnson同日发布Proclamation 3869是否准确",
+    "Torres的H.R.3182(1987)'死在委员会'的表述是否准确，是否被合并进其他法案（对照L-0825-1教训）",
+    "真正成为法律的是Simon的S.2200而非Torres的H.R.3182这一'常被混淆的归因'是否准确（对照L-0806-9'首创者'断言教训）",
+    "Reagan 1988年Proclamation 5859只覆盖'week beginning September 11'且只引用1968年旧法这一关键反差细节是否逐字准确",
+    "Bush 1989年Proclamation 6021'as amended'措辞+'21年后'的cosponsor身份换算是否准确",
+    "36 U.S.C. §126于1998年重新编纂的年份是否准确",
+    "2025年白宫公告延迟到9/22+对比Trump第一任期四份公告日期'均早于9/15至少一天'这一比较类断言是否经过实算（对照L-0804-7比较断言必须实算的教训）"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以具体法案号/公告号/签署日期为证据展开（H.J.Res.1299/P.L.90-498/H.R.3182/S.2200/P.L.100-402/Proclamation 5859/Proclamation 6021/36 U.S.C. §126），founding.status='documented'且确有扎实的一手文献支撑，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（8条核心断言逐一WebSearch核实+独立agent复核）",
+      "detail": "custom_checklist列出的全部8条断言经WebSearch对照congress.gov/govtrack.us/presidency.ucsb.edu(American Presidency Project)/prologue.blogs.archives.gov(National Archives)/history.house.gov/federalregister.gov/uscode.house.gov核实，全部准确，包括最容易被简化掉的细节：Reagan 1988年公告原文'the week beginning September 11, 1988'且只引用1968年旧法（不提自己刚签的新法）、Bush 1989年公告'as amended'措辞、Torres法案确实死于委员会而Simon的参院版本才是真正成为法律的文本。对照Wikipedia自身词条核实发现Wikipedia把'Torres提案+Simon修正'简化成单一归因，本文'a lot of retrospectives flatten, crediting Torres alone'这句差异化论断因此成立且准确，非编造。"
+    },
+    {
+      "dimension": "事实准确性（比较类断言专项）",
+      "status": "未发现问题",
+      "detail": "'2025年公告晚于Trump第一任期四份公告至少一天'这一比较断言独立核实：2017年9/13、2018年9/13、2019年9/13、2020年9/14，均早于9/15至少一天，与2025年9/22形成真实对比，非拍脑袋断言（对照L-0804-7）。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "dateRule覆盖2026-2031六年，全部weekday字段用Python datetime独立重算完全吻合（2026年9/15=周二……2031年9/15=周一）。下次occurrence（2026-09-15）尚未发生，无过期问题。published(2026-08-10)/updated(2026-08-10)字段均已存在，本次未触发'新增published'的前置检查流程。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "curl实测头部竞品nationaltoday.com正文：仅笼统称'extended to a 30-day celebration by President Ronald Reagan'，完全未提及Reagan本人1988年公告仍只覆盖一周、也未提及Torres/Simon两个法案的区别。WebSearch核实Wikipedia词条虽然提到Bush 1989年才首次公告月度版本，但对1987-1988年的法案归属同样简化为'Torres提案，经Simon修正'的单一叙事，未点破'Torres的众院版本死了，真正过关的是Simon独立提出的参院版本'这层区别。本文'The month nobody proclaimed in 1988'一节的具体反差是头部竞品和Wikipedia均未覆盖的真实增量信息，非同质化内容。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title 75字符(不含站名62字符)/description 146字符均在合理区间；canonical自指；单一H1，H2→H3层级无跳级；URL evergreen不带年份；robots.txt对全部主流AI爬虫(GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended)及通用UA均Allow，含sitemap引用。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约87/99（权威原文引语15/16——法案号/公告号/公告原文引语密集但缺少人物直接采访引语；统计数据完整性8/14——本文以立法时间线为主非统计数据密集型，故此项低于本站统计驱动型文章的历史得分；可引用性12/13；结构规范性12/12；表达流畅度9/10；语义密度7/8；权威信号7/8；专业术语5/6；鲁棒性5/5；跨域连接4/4；易懂表达3/3），已达标≥80，未发现需修复的结构性短板。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "不适用",
+      "detail": "本文published 2026-08-10，晚于avoid-ai-writing技能接入日期(2026-08-07)，不属于'早期内容'范畴，无需补跑。仍做了机械抽查：正文场景下em-dash出现0次（全部12处em-dash均位于sources[].label引用元数据，与既往审计对同类情况的判定一致）；ASCII双连字符(--)0处；花体引号0处；delve/tapestry/testament/underscore等AI高频词0处；'rather than'出现5次但分别修饰5个不同的具体对象(公告vs法律条文/总统权力来源/日期规则/周vs月/请求vs要求)，是主题本身反复涉及'名义与实质有别'这类细微区分导致的正常重复，非L-0820-2所指的'同一比较框架套在同一件事上'的机械重复。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（三处bot拦截误报已排除）",
+      "detail": "9条sources链接实测：law.cornell.edu/prologue.blogs.archives.gov/presidency.ucsb.edu(两条)/history.house.gov/federalregister.gov均直接200。congress.gov(403)与forbes.com(403)为Cloudflare/WAF对自动化请求的拦截（与既往审计对同类站点的判定一致，WebSearch证实内容仍可正常检索）；govtrack.us（sources未直接引用其URL，但正文提及）用curl返回000（连接失败非403），换WebSearch核实该页面正常可访问、内容与本文引用一致，判定为本机沙箱网络环境对该域名的连接问题而非链接真实失效。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题，非孤儿页",
+      "detail": "grep确认本文被至少4篇其他文章通过自然锚文本正文内链指向：diabetes-awareness-month(FAQ对比段落)、mexican-independence-day(两处)、national-guacamole-day、national-quesadilla-day，均为真实上下文相关的手写内链而非仅靠related-guides轮转机制。Observances分类现有41篇，轮转窗口(6篇)只是本文获得曝光的其中一条路径，非唯一路径，不存在孤儿页风险。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "curl实测线上JSON-LD：FAQPage.mainEntity的6组问答与guides.ts的faq数组逐字一致；Article.datePublished/dateModified均为2026-08-10，与guide.published/updated一致；BreadcrumbList、Event(6个occurrence)、Organization等schema类型均存在且未见异常。本次未做任何编辑，无需重新验证一致性变化。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及的历史人物（Johnson/Reagan/Bush/Trump及多位国会议员）均为中性的立法史事实陈述，无党派评论或争议性框架。未发现2025-2026年出现的新增争议性关联事件需要补充说明。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "hero image(/images/hispanic-heritage-month.jpg)和正文内嵌timeline SVG均200可访问。Wikimedia Commons原始文件页面curl实测确认'Public domain'状态未变，与guide.imageCredit标注一致。自制SVG时间线逐行核对：6个时间节点日期与正文/sources完全对应，配色图例(绿=国会行动/红=总统公告)与5个对应节点颜色一致，末尾'Twenty-one years separate Bush the cosponsor from Bush the President'的21年数值(1989-1968)经计算准确。次要观察（未达'确认问题'门槛，不作为finding处理）：1998年重新编纂节点用了第三种颜色(蓝)但图例文字只解释了绿/红两色，属极轻微的说明完整性缺口，非事实错误，未纳入修复范围。"
+    },
+    {
+      "dimension": "AdSense政策风险",
+      "status": "未发现问题；另发现一项站点级(非本文专属)观察项",
+      "detail": "正文为中性的立法史百科式陈述，无猎奇/暴力内容，无误导性框架。ads.txt正确指向pub-5245502795720653。/about/与/privacy/均200且About页含contact@dayalmanac.com邮箱，满足'联系方式可达'要求；站点级观察（不影响本文，仅记录供参考）：/contact/路径本身返回404，站内导航也没有直接的Contact入口，仅在About页正文里嵌了邮箱，站点级別是否需要补一个独立/contact/页面留给后续站点级审计判断，不在本次单篇文章审计范围内处理。"
+    }
+  ],
+  "independent_verification": "对'事实准确性'维度的8条核心断言（Step1自定义checklist全部8条）spawn了1个独立agent，agent仅拿到断言清单本身、未见本次审计的任何结论或信源列表，独立用WebSearch核对congress.gov/govtrack.us/presidency.ucsb.edu/National Archives/Federal Register/uscode.house.gov等一手信源，返回：8条全部CONFIRMED，含最容易出错的细节（Reagan 1988年公告原文措辞、Bush 1989年'as amended'引用语、Trump第一任期四年公告日期）均与一手文献逐字吻合，agent正常完成未卡死，无需启用看门狗兜底自查流程。",
+  "actions_taken": [
+    "本次审计13个维度、8条自定义核心事实断言均未发现需要修复的问题，未做任何文件编辑，未触发build/deploy/IndexNow流程",
+    "仅更新本条日志的last_audited字段"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约87/99（已达标≥80），未发现结构性短板，未做改动",
+  "escalation": null
+}
+```

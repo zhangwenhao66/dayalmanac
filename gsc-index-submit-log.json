@@ -302,5 +302,15 @@
       "https://dayalmanac.com/national-cat-day/"
     ],
     "quota_used": 1
+  },
+  {
+    "date": "2026-08-28",
+    "action": "submitted",
+    "reason": "今日新发布National Days in October（national-days-in-october，13:35档，本日第一篇）：URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+    "submitted_urls": [
+      "https://dayalmanac.com/national-days-in-october/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

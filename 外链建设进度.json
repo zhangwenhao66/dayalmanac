@@ -5,50 +5,45 @@
       "site": "dayalmanac.com",
       "target_page": "https://dayalmanac.com/national-boyfriend-day/",
       "question_url": "https://www.quora.com/What-is-the-significance-of-October-3rd-in-Mean-Girls-among-fans-of-the-movie",
-      "question_title": "What is the significance of October 3rd in 'Mean Girls' among fans of the movie?",
       "answer_url": "https://www.quora.com/What-is-the-significance-of-October-3rd-in-Mean-Girls-among-fans-of-the-movie/answer/Owen-Zhang-161",
       "status": null,
-      "notes": "DayAlmanac首次外链建设。目标文章核心论点是National Boyfriend Day(10月3日)起源无从查证，且10月3日同时是Mean Girls Day，两者共用同一天。没有直接搜到问National Boyfriend Day起源的好问题(相关问题要么在dealzone.quora.com这种垃圾Space下，要么长期0答案但问题措辞本身混乱)，改用与站内文章直接相关的Mean Girls Day问题：该问题发布前仅1个真实答案，只解释了电影台词本身(Cady Heron/Aaron Samuels那场戏)，没有提及这个梗在网上何时开始被过节日化、也没提及它跟同一天的National Boyfriend Day有何关系。以站内文章骨架撰写(电影台词原文、粉丝自发标记始于约2011年、Dictionary.com关于'Boyfriend Day蹭Mean Girls Day同一天热度'的推测性解读)。额外用WebSearch找到站内原文没有的真实增量事实：2023年Paramount在新版电影上映前，把整部《贱女孩》拆成23段免费发布在TikTok上，专门选在10月3日当天，媒体报道称这是大型电影公司首次以这种方式把完整电影放上该平台——这是Mean Girls Day从纯粹网友自发行为第一次获得片方官方层面呼应的具体时间点和细节，站内文章没有提到这一点。过humanizer skill检查，确认无破折号、无三段式列举结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。已直接发布成功(非Space类问题)，发布后用javascript_tool核实渲染页面上确实是<a href>真实超链接。⚠️遵守流量站清单.md对本站的专属提醒：观察日内容易被视为营销，回答内容全程保持怀疑/事实核查视角，不带任何'快去庆祝'式营销语气。"
+      "notes": "DayAlmanac首次外链建设。目标文章核心论点是National Boyfriend Day(10月3日)起源无从查证，且10月3日同时是Mean Girls Day，两者共用同一天。没有直接搜到问National Boyfriend Day起源的好问题(相关问题要么在dealzone.quora.com这种垃圾Space下，要么长期0答案但问题措辞本身混乱)，改用与站内文章直接相关的Mean Girls Day问题：该问题发布前仅1个真实答案，只解释了电影台词本身(Cady Heron/Aaron Samuels那场戏)，没有提及这个梗在网上何时开始被过节日化、也没提及它跟同一天的National Boyfriend Day有何关系。以站内文章骨架撰写(电影台词原文、粉丝自发标记始于约2011年、Dictionary.com关于'Boyfriend Day蹭Mean Girls Day同一天热度'的推测性解读)。额外用WebSearch找到站内原文没有的真实增量事实：2023年Paramount在新版电影上映前，把整部《贱女孩》拆成23段免费发布在TikTok上，专门选在10月3日当天，媒体报道称这是大型电影公司首次以这种方式把完整电影放上该平台——这是Mean Girls Day从纯粹网友自发行为第一次获得片方官方层面呼应的具体时间点和细节，站内文章没有提到这一点。过humanizer skill检查，确认无破折号、无三段式列举结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。已直接发布成功(非Space类问题)，发布后用javascript_tool核实渲染页面上确实是<a href>真实超链接。⚠️遵守流量站清单.md对本站的专属提醒：观察日内容易被视为营销，回答内容全程保持怀疑/事实核查视角，不带任何'快去庆祝'式营销语气。 | question_title: What is the significance of October 3rd in 'Mean Girls' among fans of the movie?"
     },
     {
       "date": "2026-08-06",
       "site": "dayalmanac.com",
       "target_page": "https://dayalmanac.com/scorpio-dates/",
       "question_url": "https://www.quora.com/How-many-constellations-does-the-Sun-move-every-day",
-      "question_title": "How many constellations does the Sun move every day?",
       "answer_url": "https://www.quora.com/How-many-constellations-does-the-Sun-move-every-day/answer/Owen-Zhang-161",
       "status": null,
-      "notes": "尝试多个National Sons Day相关搜索词(谁创立/9月28日是否属实等)均零结果或无关，改用scorpio-dates文章的天文角度。发布时该问题有2个真实答案(前专业天文教授Thomas Wm. Hamilton给出准确数字8天，另一条也认同但更简短)，数字都对但都没解释'为什么'只有8天、也没连到占星学Scorpio日期争议这个更实用的延伸问题，判定为方向对但缺深度解释的空白，回答开头先认可两条现有答案。以站内文章骨架撰写(黄道十二宫在天文学上不是均分：Scorpius被蛇夫座Ophiuchus挤压，太阳每年12月要在蛇夫座停留约18天，这个真实存在的第十三个星座在黄道十二宫系统被正式确立时就被排除在外，太阳离开天蝎座后立刻进入蛇夫座地界，把天蝎座的实际天文学窗口压缩到约8天；西方回归黄道占星的'天蝎座'是完全不同的东西，从春分点起算的30度等分弧决定10/23-11/21这个日期，跟头顶实际星座位置无关；印度恒星黄道占星用不同参照点，把对应的'天蝎座'整体推后约一个月到11月中-12月中)。过humanizer skill检查，确认无破折号、无三段式列举、无负向排比结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布后用javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/scorpio-dates/。"
+      "notes": "尝试多个National Sons Day相关搜索词(谁创立/9月28日是否属实等)均零结果或无关，改用scorpio-dates文章的天文角度。发布时该问题有2个真实答案(前专业天文教授Thomas Wm. Hamilton给出准确数字8天，另一条也认同但更简短)，数字都对但都没解释'为什么'只有8天、也没连到占星学Scorpio日期争议这个更实用的延伸问题，判定为方向对但缺深度解释的空白，回答开头先认可两条现有答案。以站内文章骨架撰写(黄道十二宫在天文学上不是均分：Scorpius被蛇夫座Ophiuchus挤压，太阳每年12月要在蛇夫座停留约18天，这个真实存在的第十三个星座在黄道十二宫系统被正式确立时就被排除在外，太阳离开天蝎座后立刻进入蛇夫座地界，把天蝎座的实际天文学窗口压缩到约8天；西方回归黄道占星的'天蝎座'是完全不同的东西，从春分点起算的30度等分弧决定10/23-11/21这个日期，跟头顶实际星座位置无关；印度恒星黄道占星用不同参照点，把对应的'天蝎座'整体推后约一个月到11月中-12月中)。过humanizer skill检查，确认无破折号、无三段式列举、无负向排比结构。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向目标页面。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布后用javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/scorpio-dates/。 | question_title: How many constellations does the Sun move every day?"
     },
     {
       "date": "2026-08-12",
       "site": "dayalmanac.com",
       "target_page": "https://dayalmanac.com/september-birth-flower/",
       "question_url": "https://www.quora.com/How-can-you-identify-the-September-birth-flower",
-      "question_title": "How can you identify the September birth flower?",
       "answer_url": "https://www.quora.com/How-can-you-identify-the-September-birth-flower/answer/Owen-Zhang-161",
       "status": null,
-      "notes": "发布时该问题0答案(1条折叠垃圾答案不计)。以站内文章骨架撰写(aster希腊词源、1994 Guy Nesom分类学重分类、morning glory昼夜节律、Ipomoea词源、Aztec占卜用种)。额外WebSearch找到Ipomoea purpurea在亚利桑那州(2020重分类后仍列入)和阿肯色州被列为有害杂草的增量事实。过humanizer+avoid-ai-writing自查，全程怀疑视角无营销语气。用Quora Add Link功能(Cmd+K)插入真实超链接，全程只填URL字段不碰Text字段，发布前DOM核实class为span link。已直接发布成功(非Space类问题)，发布后javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/september-birth-flower/。"
+      "notes": "发布时该问题0答案(1条折叠垃圾答案不计)。以站内文章骨架撰写(aster希腊词源、1994 Guy Nesom分类学重分类、morning glory昼夜节律、Ipomoea词源、Aztec占卜用种)。额外WebSearch找到Ipomoea purpurea在亚利桑那州(2020重分类后仍列入)和阿肯色州被列为有害杂草的增量事实。过humanizer+avoid-ai-writing自查，全程怀疑视角无营销语气。用Quora Add Link功能(Cmd+K)插入真实超链接，全程只填URL字段不碰Text字段，发布前DOM核实class为span link。已直接发布成功(非Space类问题)，发布后javascript_tool核实DOM中确实是<a href>真实超链接指向https://dayalmanac.com/september-birth-flower/。 | question_title: How can you identify the September birth flower?"
     },
     {
       "date": "2026-08-18",
       "site": "dayalmanac.com",
       "target_page": "https://dayalmanac.com/april-birth-flower/",
       "question_url": "https://www.quora.com/What-is-lathyrism",
-      "question_title": "What is lathyrism?",
       "answer_url": "https://www.quora.com/What-is-lathyrism/answer/Owen-Zhang-161",
       "status": null,
-      "notes": "发布时该问题仅1个真实答案，把'lathyrism'和'neurolathyrism'当同义词混用，完全没提到同一个umbrella term下还有一个由观赏香豌豆(sweet pea，4月生辰花之一)引起的完全不同病症osteolathyrism，判定为真实概念混淆值得纠正。以站内文章骨架撰写(neurolathyrism是南亚/东非饥荒史病，由grass pea毒素ODAP导致运动神经元损伤和下肢瘫痪，自Hippocrates时代即有记载；osteolathyrism/odoratism是1952年Ponseti和Baird研究首次系统描述的骨骼与结缔组织病，由完全不同的毒素beta-aminopropionitrile(BAPN)导致，破坏胶原蛋白交联而非损伤神经，来源是观赏香豌豆Lathyrus odoratus的种子；观赏香豌豆从未像grass pea那样被当作食物作物，BAPN和ODAP是不同毒素、导致不同组织的不同疾病，很多园艺/生辰花网站把'香豌豆种子有毒'和饥荒瘫痪病混为一谈)。过humanizer+avoid-ai-writing双重检查（无破折号、无AI高频词；开场避免'worth separating out'类空心背书措辞，改用直接指出对方答案问题所在的陈述句）。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向april-birth-flower页面，全程只填URL字段。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"，发布后再次核实渲染页面DOM中确实是<a href=\"https://dayalmanac.com/april-birth-flower/\">here</a>真实超链接，非纯文本。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。"
+      "notes": "发布时该问题仅1个真实答案，把'lathyrism'和'neurolathyrism'当同义词混用，完全没提到同一个umbrella term下还有一个由观赏香豌豆(sweet pea，4月生辰花之一)引起的完全不同病症osteolathyrism，判定为真实概念混淆值得纠正。以站内文章骨架撰写(neurolathyrism是南亚/东非饥荒史病，由grass pea毒素ODAP导致运动神经元损伤和下肢瘫痪，自Hippocrates时代即有记载；osteolathyrism/odoratism是1952年Ponseti和Baird研究首次系统描述的骨骼与结缔组织病，由完全不同的毒素beta-aminopropionitrile(BAPN)导致，破坏胶原蛋白交联而非损伤神经，来源是观赏香豌豆Lathyrus odoratus的种子；观赏香豌豆从未像grass pea那样被当作食物作物，BAPN和ODAP是不同毒素、导致不同组织的不同疾病，很多园艺/生辰花网站把'香豌豆种子有毒'和饥荒瘫痪病混为一谈)。过humanizer+avoid-ai-writing双重检查（无破折号、无AI高频词；开场避免'worth separating out'类空心背书措辞，改用直接指出对方答案问题所在的陈述句）。用Quora Add Link功能(Cmd+K)插入真实超链接，锚文本'here'，指向april-birth-flower页面，全程只填URL字段。该问题不属于任何Space，提交后直接发布成功，credential选择默认'Business Communications Researcher'。发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"，发布后再次核实渲染页面DOM中确实是<a href=\"https://dayalmanac.com/april-birth-flower/\">here</a>真实超链接，非纯文本。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。 | question_title: What is lathyrism?"
     },
     {
       "date": "2026-08-21",
       "site": "dayalmanac.com",
       "target_page": "https://dayalmanac.com/world-smile-day/",
       "question_url": "https://www.quora.com/When-is-World-Smile-Day-celebrated",
-      "question_title": "When is World Smile Day celebrated?",
       "answer_url": "https://www.quora.com/When-is-World-Smile-Day-celebrated/answer/Owen-Zhang-161",
       "status": null,
-      "notes": "发布时该问题0答案(仅1条折叠答案不计)。以站内文章骨架撰写(每年10月第一个星期五，非固定日期，2026年10月2日/2027年10月1日/2028年10月6日；不要与5月31日的National Smile Day混淆，后者2018年由伊利诺伊州牙科诊所Compassionate Dentalcare的Tim Stirneman与Jim Wojdyla创立，与Harvey Ball或Harvey Ball World Smile Foundation无关；Wikipedia关于Harvey Ball的词条目前称他本人于1999年创立了Harvey Ball World Smile Foundation，但基金会官网称成立于2001年、是为纪念2001年4月12日去世的Ball，只有作为身后致敬才讲得通；Ball确实在1999年创立了World Smile Day本身，但没有创立现在运营这一天的基金会)。过humanizer+avoid-ai-writing双重检查：初稿两处worth adding/worth flagging属vague endorsement模式，已用双击选词逐一改写为that tends to trip people up/a separate issue；全文无破折号、无AI高频词。用Quora Add Link功能(Cmd+K)插入真实超链接,锚文本here,指向world-smile-day页面,全程只填URL字段。已直接发布成功(非Space类问题),发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"(非link_pending),发布后再次核实渲染页面DOM中确实是<a href>真实超链接指向https://dayalmanac.com/world-smile-day/,锚文本为here。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。"
+      "notes": "发布时该问题0答案(仅1条折叠答案不计)。以站内文章骨架撰写(每年10月第一个星期五，非固定日期，2026年10月2日/2027年10月1日/2028年10月6日；不要与5月31日的National Smile Day混淆，后者2018年由伊利诺伊州牙科诊所Compassionate Dentalcare的Tim Stirneman与Jim Wojdyla创立，与Harvey Ball或Harvey Ball World Smile Foundation无关；Wikipedia关于Harvey Ball的词条目前称他本人于1999年创立了Harvey Ball World Smile Foundation，但基金会官网称成立于2001年、是为纪念2001年4月12日去世的Ball，只有作为身后致敬才讲得通；Ball确实在1999年创立了World Smile Day本身，但没有创立现在运营这一天的基金会)。过humanizer+avoid-ai-writing双重检查：初稿两处worth adding/worth flagging属vague endorsement模式，已用双击选词逐一改写为that tends to trip people up/a separate issue；全文无破折号、无AI高频词。用Quora Add Link功能(Cmd+K)插入真实超链接,锚文本here,指向world-smile-day页面,全程只填URL字段。已直接发布成功(非Space类问题),发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"(非link_pending),发布后再次核实渲染页面DOM中确实是<a href>真实超链接指向https://dayalmanac.com/world-smile-day/,锚文本为here。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。 | question_title: When is World Smile Day celebrated?"
     }
   ],
   "reddit": []

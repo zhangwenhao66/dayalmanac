@@ -9817,7 +9817,139 @@ export const guides: Guide[] = [
     "image": "/images/national-wildlife-day.jpg",
     "imageAlt": "A saltwater crocodile resting near water at Australia Zoo, Queensland, Australia",
     "imageCredit": "Photo by [Bernard DUPONT](https://www.flickr.com/people/65695019@N07), CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saltwater_Crocodile_(Crocodylus_porosus)_(10106331165).jpg)"
+  },
+  {
+    "slug": "national-days-in-october",
+    "category": "Observances",
+    "title": "National Days in October: Sorted by How Much Evidence Backs Them",
+    "description": "Twenty of October's national days, sorted by how solid the founding story is, from a 1934 federal proclamation to a farmers' holiday four sources can't agree on.",
+    "published": "2026-08-28",
+    "updated": "2026-08-28",
+    "coreSummary": "October carries at least twenty national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution of the United Nations Food and Agriculture Organization's own member conference. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
+    "sections": [
+      {
+        "heading": "Twenty observances, one calendar, wildly different paper trails",
+        "body": [
+          "Most calendar sites list October's national days in a single undifferentiated column and describe each one with some version of \"has been celebrated since...\", a phrase that sounds like evidence without actually pointing to any. This page does something narrower: it sorts October's observances by how much you could actually verify if you tried. Some rest on a named founder, a dated document, and a citable source. Others are conventional, meaning the date is real and consistently observed but nobody ever formally established it. A few are unverified, meaning the founding story repeated across a dozen sites has no primary source underneath it that this page could find.",
+          "Between the four observances that claim the entire month and the individual days below, at least twenty land somewhere in October 2026. Thirteen of them (the four month-long ones plus nine single-day and single-week observances) already have their own deep-dive page on this site, linked further down. The other seven are covered directly on this page, including an oddity: two different October 12 observances with opposite kinds of evidence behind them."
+        ]
+      },
+      {
+        "heading": "The four observances that claim the whole month",
+        "body": [
+          "October holds four awareness designations that run the entire month rather than a single day, and this site has checked the founding paper trail on each. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traces to 1985, though sources disagree on the precise founding story: the American Cancer Society's own materials credit 1985 without naming a corporate co-founder, while other accounts date it to 1984 and name a pharmaceutical company as a founding partner. No permanent federal law renews the designation automatically each year. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) was designated by Congress for 1989 by name, and no comparable law has renewed that designation since. [ADHD Awareness Month](/adhd-awareness-month/) has a Senate that approved a single September day five years running, 2004 through 2008, then stopped, and the Senate never approved the full October month at all. [National Bullying Prevention Month](/bullying-prevention-month/) was founded by the nonprofit PACER in 2006 and has never been proclaimed by a sitting president."
+        ]
+      },
+      {
+        "heading": "Documented: a named party, a real date, a source that holds up",
+        "body": [
+          "World Vegetarian Day, October 1, is worth naming carefully because the search term most people use for it, \"national vegetarian day,\" is not its real name. The North American Vegetarian Society founded it in 1977 as World Vegetarian Day, and the International Vegetarian Union endorsed it the following year, 1978. It opens Vegetarian Awareness Month, NAVS's own month-long follow-on campaign.",
+          "World Animal Day, October 4, has an unusually well-documented founder. Cynologist Heinrich Zimmermann organized the first observance in Berlin on March 24, 1925, drawing roughly 5,000 attendees. He had originally wanted October 4 for the date, aligning with the feast day of Francis of Assisi, the Catholic patron saint of animals and ecology, but the Berlin venue was not available that day in 1925. The event first ran on October 4 in 1929, and in May 1931, a congress of international animal-protection organizations meeting in Florence, Italy unanimously adopted Zimmermann's proposal to make October 4 the observance's permanent, universal date.",
+          "World Food Day, October 16, traces to the founding of its sponsoring body rather than to any individual. The United Nations Food and Agriculture Organization held its first meeting in Quebec City, Canada on October 16, 1945, and adopted its founding constitution there. Member nations at the FAO's own twentieth conference session picked that anniversary date for World Food Day in a resolution passed in November 1979, and the observance was first held in 1981."
+        ]
+      },
+      {
+        "heading": "October 12, 2026: one date, two holidays, one paper trail and one without",
+        "body": [
+          "October 12 falls on the second Monday of October in 2026, which is the fixed formula behind Columbus Day, and also the date most sites give for National Farmers Day. The two observances could not differ more in how well their founding stories hold up.",
+          "Columbus Day's federal history is documented in stages. In 1934, after decades of lobbying, Congress passed a joint resolution asking the president to proclaim October 12 as Columbus Day, and Franklin Roosevelt did so, but that proclamation was an annual presidential act, not a law giving federal workers a paid day off. The Uniform Monday Holiday Act, enacted in 1968 and effective from 1971, changed that: it made Columbus Day a true statutory federal holiday and fixed it permanently to the second Monday in October, which is how it lands on October 12 in 2026. Indigenous Peoples' Day shares the date rather than competing with a separate one. Its modern form traces to a 1977 United Nations International Conference on Discrimination Against Indigenous Populations in the Americas, held in Geneva, where delegates proposed October 12 as an international day of solidarity. Berkeley, California became the first U.S. city to officially observe it in 1992. It is not a federal statute in its own right, but more than a dozen states and over a hundred U.S. cities now recognize it, and recent presidents have issued proclamations for it alongside the Columbus Day proclamation on the same date.",
+          "National Farmers Day, kept on that identical October 12, has nothing resembling that trail. Several sites cite a 1919 Woodrow Wilson proclamation as the origin, but that 1919 proclamation was for a differently named observance, National Farm Products Day, and no source this page could find shows it was ever renamed or continued into what's celebrated today. Other sites cite a 1940 joint resolution signed by Franklin Roosevelt establishing \"National Farmers Day\" specifically, but no text of that resolution turned up in this page's research, only later sites repeating the claim about each other. A third, frequently repeated line calls it a federal holiday since 1970, a claim contradicted by the plainest available evidence: banks, the U.S. Postal Service, and federal offices do not close for it, which is what a real federal holiday requires. Absent a document any of these claims actually point to, this page treats National Farmers Day's origin as unverified, not a settled history."
+        ]
+      },
+      {
+        "heading": "Sweetest Day: a real 1921 event, a founder whose exact role is disputed",
+        "body": [
+          "Sweetest Day falls on the third Saturday of October, which is October 17 in 2026. Unlike National Farmers Day, this one has a real, dated, contemporaneously covered origin: the first Sweetest Day was observed on October 10, 1921, in Cleveland, planned by a committee of 12 confectioners chaired by candymaker C. C. Hartzell, calling themselves the \"Sweetest Day in the Year\" committee. The Cleveland Plain Dealer's own account of the event, published October 8, 1922, put the candy distributed to newsboys, orphans, older residents, and the poor at more than 20,000 boxes, with silent-film stars including Theda Bara and Ann Pennington helping hand it out.",
+          "What's disputed is the individual credit. Herbert Birch Kingston is the name most often attached to Sweetest Day, described by some sources as a Cleveland advertising executive who reinvented an earlier, similar \"Candy Day\" concept into the new holiday, and by others simply as a member of the candy-makers' committee itself. This page found sources disagreeing on which of those Kingston actually was, and treats the event's date and existence as documented while flagging the founder's precise role as unresolved rather than picking one version to repeat as settled fact."
+        ]
+      },
+      {
+        "heading": "Already mapped on this site, in date order",
+        "body": [
+          "Nine of October's single-day and single-week observances already have their own researched page here. In the first week: [World Smile Day](/world-smile-day/) falls on October's first Friday, run by a foundation that only began in 2001, after founder Harvey Ball's death, not by Ball himself in 1999 as Wikipedia states. [National Boyfriend Day](/national-boyfriend-day/), October 3, has a consistent date across sources but no verifiable founder or registration behind it at all. [World Teachers' Day](/world-teachers-day/), October 5, was proclaimed by UNESCO in 1994, and is a separate observance from India's own Teachers' Day, which predates it by 32 years. [National Taco Day](/national-taco-day/) moved in September 2024: it ran on October 4 for years, but Taco Bell and the day's registrar shifted it to the first Tuesday of October, putting 2026's date on October 6.",
+          "In the second week: [World Mental Health Day](/world-mental-health-day/), October 10, was founded in 1992 by Richard Hunter of the World Federation for Mental Health, and is regularly confused with two other nearby dates that share no founder with it. [National Boss's Day](/national-bosses-day/) falls on October 16 every year, registered by Patricia Bays Haroski back in 1958, though the weekend-shift rule widely repeated alongside it has no traceable source this site could confirm.",
+          "In the back half of the month: [Red Ribbon Week](/red-ribbon-week/) runs October 23 through 31 on fixed dates set by the National Family Partnership; the DEA promotes it heavily but did not found or organize it. [National First Responders Day](/national-first-responders-day/), October 28, has drawn eleven separate congressional bills across a decade, with the Senate passing two of them and the House never passing a single one. [National Cat Day](/national-cat-day/), October 29, was founded in 2005 by Colleen Paige, the same registrant behind National Dog Day and National Wildlife Day, and is one of at least four differently dated cat observances that get conflated with it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many national days are in October?",
+        "answer": "This site counts at least twenty October observances across its keyword research, including four monthlong awareness designations and roughly sixteen single-day or single-week ones. That is a partial count limited to observances with meaningful search interest and a checkable founding story, not every minor \"national day\" claimed by calendar sites; some sites list several dozen more low-traffic ones for October that this page does not attempt to verify."
+      },
+      {
+        "question": "Is National Farmers Day an official U.S. federal holiday?",
+        "answer": "No. Despite a commonly repeated claim that it became a federal holiday in 1970, banks, the U.S. Postal Service, and federal offices all remain open on October 12 for National Farmers Day, which is what an actual federal holiday would close for. This page found no single, verifiable primary source for the holiday's founding at all, only conflicting and uncorroborated claims across different sites."
+      },
+      {
+        "question": "What is the difference between Columbus Day and Indigenous Peoples' Day?",
+        "answer": "They share the same date, the second Monday of October, rather than competing for two different ones. Columbus Day is the older federal holiday, made statutory by the 1968 Uniform Monday Holiday Act after a 1934 congressional resolution and Roosevelt proclamation first established it as an annual observance. Indigenous Peoples' Day grew out of a 1977 United Nations conference proposal and was first officially adopted by Berkeley, California in 1992; it is not a federal statute in its own right, but is now recognized by more than a dozen states and over a hundred U.S. cities, and recent presidents have proclaimed it alongside Columbus Day on the same date."
+      },
+      {
+        "question": "Is October 12, 2026 really both Columbus Day and National Farmers Day?",
+        "answer": "Yes, both land on October 12, 2026, the second Monday of the month, though for very different reasons. Columbus Day is fixed to the second Monday by federal statute. National Farmers Day is conventionally kept on the fixed calendar date of October 12 regardless of weekday, and 2026 happens to be a year where that fixed date and Columbus Day's floating Monday formula coincide."
+      },
+      {
+        "question": "Which October observance on this list has the strongest documented origin?",
+        "answer": "World Animal Day and World Food Day both have unusually clean paper trails: World Animal Day to organizer Heinrich Zimmermann's 1925 event and its 1931 international ratification in Florence, and World Food Day to a dated November 1979 resolution of the UN Food and Agriculture Organization's own member conference. Columbus Day's federal-statute history, via the 1968 Uniform Monday Holiday Act, is comparably solid but reflects government legislation rather than a single founder."
+      },
+      {
+        "question": "Is Sweetest Day a real historical event or just a greeting-card holiday?",
+        "answer": "Both, in a sense that most \"just a greeting-card holiday\" dismissals miss. The first Sweetest Day was a real, dated event on October 10, 1921, organized by a 12-member committee of Cleveland confectioners and covered by the Cleveland Plain Dealer the following year, with actresses helping distribute more than 20,000 boxes of candy to orphans, older residents, and the poor. What is unresolved is the exact role of Herbert Birch Kingston, the individual most often credited as its founder: sources disagree on whether he was an outside advertising figure or a member of the candy-makers' committee itself."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — World Animal Day",
+        "url": "https://en.wikipedia.org/wiki/World_Animal_Day"
+      },
+      {
+        "label": "World Animal Day — 100 Years of World Animal Day: The Forgotten Legacy of Heinrich Zimmermann",
+        "url": "https://www.worldanimalday.org/100-years-of-world-animal-day-the-forgotten-legacy-of-heinrich-zimmermann/"
+      },
+      {
+        "label": "Wikipedia — World Vegetarian Day",
+        "url": "https://en.wikipedia.org/wiki/World_Vegetarian_Day"
+      },
+      {
+        "label": "FAO — 80th anniversary and founding history",
+        "url": "https://www.fao.org/europe/about-us/fao-in-europe-and-central-asia/fao-80th-anniversary/en"
+      },
+      {
+        "label": "SDG Resource Centre — World Food Day (FAO 1979 resolution, first observed 1981)",
+        "url": "https://sdgresources.relx.com/events/world-food-day"
+      },
+      {
+        "label": "Wikipedia — Uniform Monday Holiday Act",
+        "url": "https://en.wikipedia.org/wiki/Uniform_Monday_Holiday_Act"
+      },
+      {
+        "label": "Federal Times — Is Columbus Day a federal holiday? (1934 resolution, 1968 statute)",
+        "url": "https://www.federaltimes.com/management/2022/10/04/is-columbus-day-a-federal-holiday/"
+      },
+      {
+        "label": "Farmers' Almanac — When Is Indigenous Peoples' Day 2026",
+        "url": "https://www.farmersalmanac.com/when-is-indigenous-peoples-day"
+      },
+      {
+        "label": "AgAmerica — National Farmer's Day History (competing founding claims)",
+        "url": "https://agamerica.com/blog/history-of-national-farmers-day/"
+      },
+      {
+        "label": "The Old Farmer's Almanac — National Farmer's Day (October 12)",
+        "url": "https://www.almanac.com/national-farmers-day"
+      },
+      {
+        "label": "Wikipedia — Sweetest Day",
+        "url": "https://en.wikipedia.org/wiki/Sweetest_Day"
+      },
+      {
+        "label": "News 5 Cleveland — How a Cleveland candy maker created Sweetest Day",
+        "url": "https://www.news5cleveland.com/entertainment/how-a-cleveland-candy-maker-created-the-holiday-known-as-sweetest-day"
+      }
+    ],
+    "image": "/images/national-days-in-october.jpg",
+    "imageAlt": "A rural road in Great Valley, New York in October, lined with a weathered barn, pumpkins stacked for sale, and hillsides turning autumn color",
+    "imageCredit": "Photo by [Andre Carrotflower](https://commons.wikimedia.org/wiki/User:Andre_Carrotflower), CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autumn_in_Great_Valley,_New_York,_October_2015.jpg)"
   }
 ];
-
-

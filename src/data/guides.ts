@@ -9951,5 +9951,131 @@ export const guides: Guide[] = [
     "image": "/images/national-days-in-october.jpg",
     "imageAlt": "A rural road in Great Valley, New York in October, lined with a weathered barn, pumpkins stacked for sale, and hillsides turning autumn color",
     "imageCredit": "Photo by [Andre Carrotflower](https://commons.wikimedia.org/wiki/User:Andre_Carrotflower), CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autumn_in_Great_Valley,_New_York,_October_2015.jpg)"
+  },
+  {
+    "slug": "national-burrito-day",
+    "category": "Observances",
+    "title": "National Burrito Day: First Thursday of April, No Named Founder",
+    "description": "National Burrito Day moves with the calendar, always the first Thursday of April, but no person, company, or filing has ever been tied to starting it.",
+    "published": "2026-08-28",
+    "updated": "2026-08-28",
+    "coreSummary": "National Burrito Day falls on the first Thursday of April each year (April 2 in 2026), a moving date rather than a fixed one, and no founder, company, or registration has ever been traced to it. The burrito itself is far older than the day: a Scottish traveler described eating tortillas called burros in Michoacán as early as 1843, more than fifty years before the word's first appearance in a Mexican dictionary in 1895.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar rather than staying fixed from year to year. It carries no legal or governmental status. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
+      "status": "conventional",
+      "source": {
+        "label": "National Burrito Day, First Thursday of April — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-burrito-day-first-thursday-of-april"
+      },
+      "occurrences": [
+        { "date": "2026-04-02", "weekday": "Thursday" },
+        { "date": "2027-04-01", "weekday": "Thursday" },
+        { "date": "2028-04-06", "weekday": "Thursday" },
+        { "date": "2029-04-05", "weekday": "Thursday" },
+        { "date": "2030-04-04", "weekday": "Thursday" },
+        { "date": "2031-04-03", "weekday": "Thursday" }
+      ]
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No founder, company, or filing has ever been traced to National Burrito Day. Unlike some of National Day Calendar's other food observances, which the site backs with a dated \"New Day Proclamation\" naming whoever registered them, no such document exists in its archive for this one. Coverage of the day describes it as having spread organically through restaurant marketing and social media in the mid-2010s rather than through a documented registration, and chains including Chipotle, Qdoba, and Moe's Southwest Grill now build annual promotions around it without any of them claiming to have started it."
+    },
+    "sections": [
+      {
+        "heading": "A moving date nobody claims to have set",
+        "body": [
+          "National Burrito Day doesn't sit on a fixed square of the calendar the way [National Taco Day](/national-taco-day/) does. It's pegged to a weekday, the first Thursday of April, which means the date itself shifts every year: April 2 in 2026, April 1 in 2027, April 6 in 2028. That's an unusual choice for a food holiday, and it looks deliberate: landing on a weekday rather than a weekend gives restaurant chains a guaranteed Thursday to run a promotion, instead of gambling on which day of the week a fixed date falls.",
+          "What's missing is any record of who made that choice. National Day Calendar lists the observance every year, but its archive holds no proclamation crediting a person or company with registering it, in contrast to sibling entries on the same site that do name a founder and a year. Chipotle's 2026 promotion alone put more than $2 million in prizes behind a \"Burrito Vault\" game for the day, and Qdoba and Moe's Southwest Grill run their own deals alongside it, a lot of annual marketing weight resting on a date nobody has stepped forward to claim."
+        ]
+      },
+      {
+        "heading": "The word is older than the holiday by a century",
+        "body": [
+          "The burrito itself predates its national day by well over a hundred years, and even the food's own written history turns out to be older than the source most commonly cited for it. Search results and food-history roundups routinely point to the 1895 Diccionario de Mejicanismos as the earliest written mention of \"burrito.\" It isn't. In her 1843 travel memoir Life in Mexico, the Scottish-born writer Frances Erskine Inglis (published as Madame Calderón de la Barca) describes being offered food on the road in Michoacán: a local gentleman asked if she would like \"to eat a burro in the mean time,\" and, knowing burro meant donkey, she was \"rather startled at the proposition\" until the dish arrived as hot tortillas filled with cheese, which she found \"particularly good.\" That account predates the dictionary entry by 52 years.",
+          "The 1895 Diccionario de Mejicanismos is still notable, just not for being first: it's the earliest dictionary definition, describing \"burrito\" as a regional Guanajuato term for a rolled tortilla with meat or other filling inside, the same thing other parts of Mexico called a coçito (Yucatán) or a taco (Mexico City and Cuernavaca). That regional pattern held for decades. Later dictionaries recorded the same word doing the same job in Guerrero, Michoacán, and Sinaloa, and central and southern Mexico still call the dish tacos de harina, \"wheat-flour tacos,\" rather than burritos. The idea of the burrito as a food category distinct from the taco is largely an American development, not a Mexican one."
+        ]
+      },
+      {
+        "heading": "Two rival stories for \"little donkey,\" and one that's just folklore",
+        "body": [
+          "\"Burrito\" is the diminutive of burro, Spanish for donkey, but sources don't agree on why the food got that name, and at least one of the popular explanations is folklore rather than documented history. The Sonoran historian Horacio Sobarzo Díaz, writing in his 1966 Vocabulario Sonorense, offered a specific and unflattering theory: he traced the name to food stalls in Sonora that were suspected of substituting cheap donkey meat for beef, and argued that customers began calling the dish \"burro\" as a sly dig at what might really be inside it.",
+          "A second, more benign theory holds that the name is a visual comparison rather than an accusation: a rolled, stuffed tortilla resembles the bedrolls and packs a donkey would carry, making \"little donkey\" a case of naming a food after what it looks like being hauled rather than what might be in it. A third story circulates constantly online and deserves to be labeled clearly as folklore rather than fact: that a street vendor named Juan Méndez, selling food from a donkey cart in Ciudad Juárez during the Mexican Revolution (1910 to 1921), inspired the name because customers started asking for \"the little donkey's food.\" It's a good story, but no contemporary record of Méndez has turned up to confirm it, and it should be read as the same kind of retrofitted origin tale that surrounds plenty of other foods, not as settled history."
+        ]
+      },
+      {
+        "heading": "How a regional word became an American restaurant category",
+        "body": [
+          "The burrito's move from a Mexican regionalism to a fixture of American menus has a clearer paper trail than its name does. Alejandro and Rosa Borquez opened the Sonora Cafe in Los Angeles in 1923; a customer's caricature drawing in 1925 led them to rename it El Cholo, and the restaurant is credited with putting the first restaurant-style burritos on a U.S. menu sometime in the 1930s. The word reached U.S. print not long after: historian Erna Fergusson's 1934 Mexican Cookbook, a collection of New Mexican regional recipes, is cited as its first appearance in American media.",
+          "From there the burrito moved from restaurant plate to freezer aisle. In 1956, Duane Roberts developed the first frozen burrito in Southern California, a step that did more than any single restaurant to put the dish within reach of people who'd never eaten Mexican food at all. A heavier, more elaborate lineage of burrito was taking shape around the same years, five hundred miles north in San Francisco, built around ingredients like guacamole, the topic of [National Guacamole Day](/national-guacamole-day/) elsewhere on this calendar."
+        ]
+      },
+      {
+        "heading": "San Francisco and San Diego each built their own style, and neither one agrees on who started it",
+        "body": [
+          "The oversized, foil-wrapped \"Mission-style\" burrito, stuffed with rice, whole beans, and sour cream on top of the meat, traces back to the taquerías of San Francisco's Mission District in the 1960s and 1970s, and even that more recent history is contested. Febronio Ontiveros, owner of El Faro on Folsom Street, says he built the first \"super burrito\" for a group of hungry firefighters on September 26, 1961, laying out several small tortillas together because larger ones weren't commercially available yet. Taquería La Cumbre tells a separate story, dating its own version to 1969, eight years later, when it began assembling burritos on a steam-table line for its blue-collar customers. Both restaurants are still open, both still tell their own version, and no outside record settles which one actually came first.",
+          "Two hundred miles south, San Diego built a different burrito tradition with its own separate founder story. Roberto Robledo opened a tortillería in San Diego in the early 1960s and began selling small bean burritos at a stand called La Lomita by the late 1960s, opening the first Roberto's Taco Shop by 1970, a lineage credited with popularizing the simpler, no-frills San Diego style and the carne asada burrito, the kind of small, meat-forward burrito pictured on this page, a world apart from the Mission's assembly-line excess. Readers curious about the rest of this calendar's Mexican-food observances can find [National Quesadilla Day](/national-quesadilla-day/) in late September, a rare case among these food days with an actual company and year attached to it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Burrito Day in 2026?",
+        "answer": "Thursday, April 2, 2026. The date is the first Thursday of April every year, so it moves: 2027's falls on April 1, and 2028's on April 6."
+      },
+      {
+        "question": "Who founded National Burrito Day?",
+        "answer": "No one that any source checked for this page could identify. National Day Calendar lists the observance annually but has no proclamation crediting a founder, unlike some of its other food-day entries that do name a person or company."
+      },
+      {
+        "question": "Does National Burrito Day have any official or government status?",
+        "answer": "No. It has no legal or legislative backing. It's a calendar-industry and restaurant-marketing convention, kept consistent across observance-tracking sites, not a government-designated day."
+      },
+      {
+        "question": "Why is a burrito called a \"burrito\"?",
+        "answer": "\"Burrito\" means \"little donkey\" in Spanish. Sources disagree on why: Sonoran historian Horacio Sobarzo Díaz traced it to a slur about stalls substituting donkey meat for beef, while another theory holds it's a visual comparison to the bedrolls a donkey would carry. A popular story about a Ciudad Juárez street vendor named Juan Méndez is widely repeated online but has no contemporary record backing it, and should be treated as folklore."
+      },
+      {
+        "question": "What's the earliest written record of a burrito?",
+        "answer": "Not the 1895 dictionary entry that's usually cited. Frances Erskine Inglis's 1843 travel memoir Life in Mexico describes eating a \"burro\" (a tortilla filled with cheese) on the road in Michoacán, 52 years before the word appears in the Diccionario de Mejicanismos."
+      },
+      {
+        "question": "Did the burrito originate in the United States or Mexico?",
+        "answer": "The word and the basic dish are Mexican, originally just a regional name for what other parts of the country called a taco. The idea of the burrito as its own distinct American restaurant category, separate from the taco, largely developed in the United States, starting with Los Angeles's El Cholo Spanish Cafe in the 1930s."
+      },
+      {
+        "question": "Who really invented the Mission-style burrito?",
+        "answer": "It's disputed. El Faro's owner, Febronio Ontiveros, says he built the first one for firefighters in 1961. Taquería La Cumbre dates its own version to 1969. Both San Francisco restaurants are still open, both still tell their own version, and no independent record has settled which came first."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Burrito Day, First Thursday of April — National Day Calendar",
+        "url": "https://nationaldaycalendar.com/celebrations/national-burrito-day-first-thursday-of-april"
+      },
+      {
+        "label": "Burrito — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Burrito"
+      },
+      {
+        "label": "El Cholo Spanish Cafe — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/El_Cholo_Spanish_Cafe"
+      },
+      {
+        "label": "SF's El Faro, the birthplace of the Mission burrito, must be saved — San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/food/restaurants/article/el-faro-mission-burrito-creator-22206173.php"
+      },
+      {
+        "label": "How San Francisco's Famous Mission-Style Burritos Were Born — Chowhound",
+        "url": "https://www.chowhound.com/1905363/where-did-mission-burrito-originate/"
+      },
+      {
+        "label": "CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION — Chipotle Newsroom",
+        "url": "https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY"
+      }
+    ],
+    "image": "/images/national-burrito-day.jpg",
+    "imageAlt": "A carne asada burrito from a San Diego-area restaurant, sliced open to show the meat, beans, and rice inside",
+    "imageCredit": "Photo by [Dougk49](https://commons.wikimedia.org/wiki/User:Dougk49), CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carne-asada-burrito.jpg)"
   }
 ];

@@ -264,3 +264,32 @@ TheHomeSchoolMom（thehomeschoolmom.com，运营方Kelley Media, Ltd.）网站�
 1. **Talk Like a Pirate Day官方"Pirate Links"页**（talklikeapirate.com/wordpress/pirate-links，约100条外链，多为2006-2010年代的老式pirate festival/merch/fan站链接）大概率含真实死链（年代久远、部分是mailman列表/geocities风格老站），但内容性质（节庆活动/商品/粉丝社群）跟本站"日期规则/起源考据"定位结构性不对应，即使有死链也无替换素材——下次不必重新验证这条思路，除非DayAlmanac将来发布"pirate festival roundup"类文章。
 2. **国际化角度（Canada/Italy/Australia Grandparents Day、India Daughters Day）经本轮验证不成立**——这类信息目前只以新闻/百科文章形式存在，不存在"资源合集/引用列表"结构的页面可供断链置换，此方向已耗尽，未来除非DayAlmanac新增专门的国际版独立文章，否则不必再单独搜索这个角度。
 3. **本轮最重要的方法论确认**：连续第一次找到"真实DEAD+真实主题对应"的机会，命中路径是"直接搜索本站已发布节日名+泛用WebSearch而非局限单一竞品站"（08-21/08-24建议的延伸）——但受限于目标站点联系渠道质量参差不齐，仍需要为每个候选单独排查是否有编辑邮箱，不能假设"找到匹配=能发送"。下次如果继续深挖已发布节日名这条线，可以优先选择官方基金会/协会类站点（通常有更明确的press/media联系方式）而非个人博客/教育资源站（联系渠道更随意，命中率与08-20 Riya's Blogs案例类似更依赖运气）。
+
+---
+
+## 2026-08-28（第七次运行）— trafficsite-broken-link-building「外链产能集中规则」本轮命中DayAlmanac（11-30位曝光511，矩阵第二名）
+
+### 第一部分：核实旧pitch——本轮无满足条件的记录
+
+逐条核对08-09(icalendars.net，8/21已验证not_replaced+已跟进)、08-16(checkiday.com，实际8/21由Owen人工提交，7天未满10天)、08-26(TheHomeSchoolMom，2天)，无≥10天未验证的记录，本轮按规则跳过第0步。
+
+**⚠️顺带发现（非本轮处理范围，如实记录）**：08-26 TheHomeSchoolMom那条pitch收件人`help@makelleyandcompanyinc.com`，draft自己的记录里已写明"explicitly scoped to GDPR/CCPA data requests, not editorial content"，属于`~/.claude/CLAUDE.md`"单一用途联系渠道禁止降级发送"红线的典型违规，且已经发出无法撤回。这条已被`trafficsite-nightly-ops-review`标记在`独立站/待Owen处理事项.md`，本轮不重复处理，仅在此记录一笔避免遗漏。
+
+### 第二部分：National Wildlife Day断链——同一失效域名，两个独立第三方站点
+
+**共同证据**：checkiday.com的"National Wildlife Day"来源引用`http://www.nationalwildlifeday.com/`，该域名已被抢注，多解析器(dig/Google DoH/Cloudflare DoH)交叉确认解析到217.182.4.139，返回200但服务内容是无关的印尼语电影新闻站——域名存活但内容与原意完全脱钩，证据强度同08-16 nationalcatday.com(Wix错误页)/08-26 mexicanhistory.org(409无TLS)先例。checkiday.com本身因8/21已人工提交+14天冷却期(至9/4)不再重复联系，改为搜索其他真实站点也链到这个同一死域名的文章，找到2条：
+
+**机会A：Natural Habitat Adventures (nathab.com)** ——WWF合作的真实生态旅行公司博客"Happy National Wildlife Day!"，逐年在观察日当天更新(dateModified 2024-09-04)。死链：锚文本"National Wildlife Day"→`nationalwildlifeday.com/about.htm`。替换：`national-wildlife-day`（8/27新发布，冷启动优先），对应内容：9/4是Steve Irwin忌日非生日（生日2/22）+ National Today(2006)与Calendarr(2005)创立年份分歧，均与guides.ts原文核对一致。收件人`info@nathab.com`（页面仅有的两个通用邮箱之一）。
+
+**机会B：National Band and Tag Company (nationalband.com)** ——真实野生动物/宠物标牌制造商(1902年至今)博客"National Wildlife Day"，具体这篇文章6年未更新(dateModified 2020-11-04)但整站博客近期(2026-04)仍活跃，独立复核判定"页面**或**整站近12月有更新"满足OR条件通过。死链：纯文本URL`nationalwildlifeday.com`（原文出现2次）。替换：同`national-wildlife-day`文章。收件人`tags@nationalband.com`（/contact/返回403，唯一可用邮箱，独立复核判定为公司通用联系邮箱非法务/隐私/广告专用红线范围，本地部分"tags"是公司名"National Band **and Tag** Co."的自然巧合非渠道限定信号）。
+
+**独立复核**：两条均spawn全新独立复核agent（无本次调研上下文），逐项重新curl/dig核实死链、逐项核对dayalmanac.com/national-wildlife-day/页面正文确认邮件引用事实非编造、逐项核实收件人真实性、`gmail_send.py list`+全矩阵grep查重均为空、语气重新通读无AI写作痕迹，**两条均判定 VERDICT: SEND**（机会B额外对"6年未更新"和"tags@邮箱是否算单一用途渠道"两个专属问题给出独立判断，均通过）。
+
+**已发送**：
+- 机会A → `info@nathab.com`，`gmail_send.py send --from dayalmanac`，Message ID `1a04892f03440fa7`
+- 机会B → `tags@nationalband.com`，`gmail_send.py send --from dayalmanac`，Message ID `1a0489301d9ba7eb`
+
+### 遗留待办
+
+1. 08-26 TheHomeSchoolMom法务邮箱违规发送问题已在`独立站/待Owen处理事项.md`跟踪，非本任务需处理项，此处仅存档提醒。
+2. 两条pitch共享同一份"死链证据+替换文章"素材，措辞结构存在一定相似性（独立复核已指出，判定"收件人互不相关、非重复发送风险，仅是修辞骨架的合理复用"），未来如果同一死域名还能找到第三个独立机会，应刻意换一种邮件结构避免累积成模板化风险。

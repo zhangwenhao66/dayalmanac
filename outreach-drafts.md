@@ -163,3 +163,73 @@ contact@dayalmanac.com
 **Checks done:** Passed through Skill(humanizer) and Skill(avoid-ai-writing) — clean on both, no em/en dashes, no curly quotes, no AI-vocabulary hits, closing line varied from the phrasing already used in the 8/9 and 8/16 drafts ("no pressure either way, just didn't want...") to avoid a repeated template feel. Dedup checked via `gmail_send.py list --query "to:thehomeschoolmom.com OR from:thehomeschoolmom.com OR thehomeschoolmom OR makelleyandcompanyinc"` (empty) and `grep -ril "thehomeschoolmom\|mexicanhistory" 独立站/` across the whole matrix (no prior contact or mention anywhere).
 
 **Status: independent review verdict "send to help@makelleyandcompanyinc.com, but downgrade expectations — treat as low-probability-of-response, don't follow up if no reply, don't escalate channel-hunting further."** All five review items (dead-link re-verification, topic-match re-verification, dedup, email quality/tone, and the contact-channel judgment call) independently confirmed. Sent 2026-08-26 via `gmail_send.py send --from dayalmanac`, Message ID `1a03e50104f5cf4d`. Because the recipient is a legal/privacy inbox rather than an editorial one, no 10-14 day follow-up is planned for this one even if unreplied — a follow-up to a legal inbox about a content-correction request would compound the channel mismatch rather than fix it.
+
+---
+
+## 2026-08-28 (SENT) — Two candidates, both replacing the same dead domain (nationalwildlifeday.com) on different sites — National Wildlife Day broken-link pitch
+
+**Shared dead-link evidence:** checkiday.com's own "National Wildlife Day" Sources block cites `http://www.nationalwildlifeday.com/` (the presumed official founder site), which led to discovering this domain is now squatted. `curl` (both direct and cross-checked via Google DNS-over-HTTPS and Cloudflare 1.1.1.1 resolvers, both returning the same IP 217.182.4.139) confirms the domain resolves and returns HTTP 200, but the page served is an unrelated Indonesian-language WordPress film-news portal ("Portal berita film terbaru tentang berita film terkini..."), with zero content related to wildlife, Colleen Paige, or the observance. This is a "domain alive but repurposed to unrelated content" signal, the same evidence tier as the 2026-08-16 nationalcatday.com (Wix ConnectYourDomain error) and 2026-08-26 mexicanhistory.org (409/no TLS) precedents — stronger than a plain 404 because the domain is demonstrably not serving its original purpose to any visitor, not merely returning an error.
+
+Note: checkiday.com itself cannot be re-contacted this round (contacted 2026-08-21, Owen manually submitted the form past the Turnstile check per `独立站/待Owen处理事项.md` item A2; 14-day cooldown runs to 2026-09-04, and the broken-link-outreach-log's own rediscovery-check instruction defers re-checking that page to 2026-08-31 anyway). Instead of pitching checkiday.com again, WebSearch surfaced two independent third-party sites whose own blog posts link out to the same dead nationalwildlifeday.com domain — a wider footprint than one page.
+
+**Topic match (both candidates):** DayAlmanac's `national-wildlife-day` article (published 2026-08-27, brand-new, zero prior outreach — cold-start allocation per the 14-day-new-content rule) directly resolves the exact ambiguity both target posts either state as settled fact or gesture at without resolving: the founding year (National Today says 2006, Calendarr says 2005, DayAlmanac documents both accounts and that neither cites a primary source) and why September 4 specifically was picked (it's Steve Irwin's death anniversary, not his birthday — birthday is February 22, the second, less-followed date). Content verified against `src/data/guides.ts`, `national-wildlife-day` entry (dateRule.caveat and founding.text fields).
+
+---
+
+### Candidate 1 — Natural Habitat Adventures (nathab.com)
+
+**Target:** nathab.com, a Boulder, CO eco-tourism company (conservation-travel outfitter partnered with World Wildlife Fund; trips to polar bear tours, African safaris, Galapagos, etc. — a real, currently operating business, not a content farm). Blog post "Happy National Wildlife Day!" (nathab.com/blog/happy-national-wildlife-day), byline Emily Deemer, `datePublished` 2023-09-04, `dateModified` 2024-09-04 — modified annually on the observance date itself, a strong signal this specific post gets revisited yearly rather than being abandoned.
+
+**Dead link location:** Second paragraph, the anchor text "National Wildlife Day" itself is hyperlinked to `https://www.nationalwildlifeday.com/about.htm`.
+
+**Contact:** No personal email found for Emily Deemer (author bio page has no email) or via /awards-media-press or /contact (redirects checked, neither exposes a media-specific address). Only two emails exist anywhere on the domain: `info@nathab.com` and `naturalhabitat@nathab.com`, both general company inboxes (not legal/privacy/ads-scoped) used across FAQ/About/contact-adjacent pages. Using `info@nathab.com`.
+
+**Subject:** Dead link in your National Wildlife Day post
+
+**Body:**
+
+Hi,
+
+I was reading your "Happy National Wildlife Day!" post and noticed the National Wildlife Day link (nationalwildlifeday.com/about.htm) doesn't go where it used to. The whole domain now resolves to an unrelated Indonesian film-news site, not the wildlife observance page your link text describes.
+
+If it's helpful, we put together a page on the same observance that also covers something your post doesn't quite spell out: why September 4 was picked in the first place. It's the anniversary of Steve Irwin's death in 2006, not his birthday (that's February 22, the date your post already mentions separately). We also found that National Today and Calendarr disagree on the founding year itself, 2005 versus 2006, and on whether Paige created the day because of Irwin's death or rededicated an existing one to him. https://dayalmanac.com/national-wildlife-day/
+
+No obligation, just didn't want a broken link sitting in an otherwise solid post.
+
+Best,
+Owen
+DayAlmanac
+contact@dayalmanac.com
+
+**Checks done:** Passed Skill(humanizer) and Skill(avoid-ai-writing) unmodified — no em/en dashes, no AI-vocabulary hits, no template phrases, no filler. Dedup: `gmail_send.py list --query "to:nathab.com OR from:nathab.com OR nathab"` → empty. `grep -ril "nathab" 独立站/` → two incidental hits (FactCrumbs SERP-competitor mention and a 候选二号站 keyword-research note listing nathab.com as an unrelated SERP result), no prior outreach record.
+
+---
+
+### Candidate 2 — National Band and Tag Company (nationalband.com)
+
+**Target:** nationalband.com, a Newport, KY manufacturer of ID tags/bands (wildlife conservation tags, pet tags, livestock tags — "Made in the USA" since 1902 per site copy). Blog post "National Wildlife Day" (nationalband.com/national-wildlife-day/), byline "Andrea," `datePublished` 2019-02-22, `dateModified` 2020-11-04 — **flagging honestly: this specific post has not been touched in almost 6 years**, longer than the task's own "skip resource pages with no update in ~12 months" guardrail contemplates. The company's blog as a whole is clearly active (recent 2025 posts on unrelated topics visible in the sidebar, real ongoing business), so this isn't an abandoned site, but the individual page is stale by the letter of that rule. Flagging for independent review to judge whether this one clears the bar or should be dropped; I did not decide it myself.
+
+**Dead link location:** Final paragraph, plain-text URL `http://www.nationalwildlifeday.com` (linked, appears twice in the raw HTML — once in "Learn more about National Wildlife Day here:" and once as the earlier embedded anchor).
+
+**Contact:** /contact/ returns HTTP 403 (bot-blocked) regardless of user agent tried. The only email found anywhere on the site (About, FAQ, this blog post's byline area) is `tags@nationalband.com`. This is not a scoped legal/privacy/ads inbox — the local part matches the company's core product line and it's used site-wide as the general/customer-service contact — but it's also not unambiguously an editorial inbox, so noting this for review rather than asserting it clears the single-purpose-channel rule outright.
+
+**Subject:** Broken link on your National Wildlife Day blog post
+
+**Body:**
+
+Hi,
+
+I came across your "National Wildlife Day" post and noticed the link to nationalwildlifeday.com doesn't lead anywhere related anymore. The domain now hosts an unrelated Indonesian film-news site rather than anything about the observance.
+
+If useful, we have a page on the same day that gets into a detail your post touches on but doesn't fully untangle: two different accounts have Paige starting the observance in 2005 versus 2006, and disagree on whether it was created in response to Steve Irwin's death or rededicated to him afterward. https://dayalmanac.com/national-wildlife-day/
+
+No pressure, just flagging it since your conservation customers probably still visit that page.
+
+Best,
+Owen
+DayAlmanac
+contact@dayalmanac.com
+
+**Checks done:** Passed Skill(humanizer) and Skill(avoid-ai-writing) unmodified — no em/en dashes, no AI-vocabulary hits, no template phrases, no filler. Dedup: `gmail_send.py list --query "to:nationalband.com OR from:nationalband.com OR nationalband"` → empty. `grep -ril "nationalband" 独立站/` → no hits at all.
+
+**Status: SENT.** Independent review (fresh-context agent) verdict on both: SEND. (1) Candidate 2's ~6-year-stale post cleared the "not abandoned" guardrail because the site's blog overall is active (posts as recent as 2026-04) and the rule is "page OR site" not "page AND site." (2) `tags@nationalband.com` judged to be the company's single general-purpose contact address (published site-wide in the footer), not a legal/privacy/ads-scoped inbox, so it does not trigger the single-purpose-channel red line. Both re-verified independently for dead-link evidence, on-page presence, topic-match honesty against the live dayalmanac.com page, recipient authenticity, and dedup. Sent 2026-08-28 via `gmail_send.py send --from dayalmanac`: Candidate 1 (nathab.com) → `info@nathab.com`, Message ID `1a04892f03440fa7`; Candidate 2 (nationalband.com) → `tags@nationalband.com`, Message ID `1a0489301d9ba7eb`.

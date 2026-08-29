@@ -2627,7 +2627,7 @@ export const guides: Guide[] = [
     "title": "National Taco Day 2026: October 6, Not October 4 Anymore",
     "description": "National Taco Day was October 4 for years. In September 2024, Taco Bell and the registrar moved it to the first Tuesday of October, making 2026's date October 6.",
     "published": "2026-08-09",
-    "updated": "2026-08-09",
+    "updated": "2026-08-29",
     "coreSummary": "National Taco Day no longer falls on a fixed date. From 2009 through 2023 it was October 4 every year; in September 2024, National Day Calendar and Taco Bell jointly moved it to the first Tuesday of October so it always lands on Taco Tuesday. That makes it October 6, 2026, not October 4, which many older listings still show.",
     "dateRule": {
       "kind": "nth-weekday",
@@ -2759,8 +2759,8 @@ export const guides: Guide[] = [
         "url": "https://nationaltoday.com/national-taco-day/"
       },
       {
-        "label": "AOL / Taco Bell Newsroom — Taco Bell's National Taco Day deals for Tuesday, Oct. 7, 2025",
-        "url": "https://www.aol.com/articles/taco-bells-national-taco-day-120320719.html"
+        "label": "TODAY.com — National Taco Day 2025: Score Free Tacos and Deals at Taco Bell, Moe's, Del Taco and More",
+        "url": "https://www.today.com/food/restaurants/national-taco-day-deals-2025-rcna233705"
       }
     ],
     "image": "/images/national-taco-day.jpg",

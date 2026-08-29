@@ -233,3 +233,71 @@ contact@dayalmanac.com
 **Checks done:** Passed Skill(humanizer) and Skill(avoid-ai-writing) unmodified — no em/en dashes, no AI-vocabulary hits, no template phrases, no filler. Dedup: `gmail_send.py list --query "to:nationalband.com OR from:nationalband.com OR nationalband"` → empty. `grep -ril "nationalband" 独立站/` → no hits at all.
 
 **Status: SENT.** Independent review (fresh-context agent) verdict on both: SEND. (1) Candidate 2's ~6-year-stale post cleared the "not abandoned" guardrail because the site's blog overall is active (posts as recent as 2026-04) and the rule is "page OR site" not "page AND site." (2) `tags@nationalband.com` judged to be the company's single general-purpose contact address (published site-wide in the footer), not a legal/privacy/ads-scoped inbox, so it does not trigger the single-purpose-channel red line. Both re-verified independently for dead-link evidence, on-page presence, topic-match honesty against the live dayalmanac.com page, recipient authenticity, and dedup. Sent 2026-08-28 via `gmail_send.py send --from dayalmanac`: Candidate 1 (nathab.com) → `info@nathab.com`, Message ID `1a04892f03440fa7`; Candidate 2 (nationalband.com) → `tags@nationalband.com`, Message ID `1a0489301d9ba7eb`.
+
+---
+
+## 2026-08-29 — Embed-invite batch (countdown widget distribution, National Guacamole Day)
+
+Per `trafficsite-linkable-asset-building`'s "定向邀请嵌入" step for the Days-Until countdown widget (published 2026-08-25, `linkable-asset-log.md`). Both targets found via WebSearch for real, currently-published content about National Guacamole Day (Sept 16), matched against a guide already covered by the countdown widget (`dateRule` present, kind !== 'table'). Step 2 (unlinked-mention recovery) run first via WebSearch for `"dayalmanac.com" -site:dayalmanac.com` — no results referencing the site (expected, page still young). No recovery opportunity this round.
+
+### Candidate 1 — Always the Holidays (alwaystheholidays.com)
+
+**Target:** alwaystheholidays.com, a personal holiday/recipe blog. Post "Observe National Guacamole Day with an Easy Guacamole Recipe" (alwaystheholidays.com/national-guacamole-day/), live and indexed.
+
+**Contact:** cgspeake@gmail.com, found on the site's About page — a personal address tied to the blog author, not a scoped legal/privacy/ads inbox.
+
+**Subject:** A countdown widget for your Guacamole Day post
+
+**Body:**
+
+Hi,
+
+I came across your National Guacamole Day post while looking for good holiday content to cite for a project. It's one of the more thorough recipe write-ups I found for that day.
+
+I run DayAlmanac, a site that tracks the sourcing behind these "national day" observances (who actually founded them, whether there's a real proclamation behind the date, that kind of thing). While building out the Guacamole Day page, I put together a small countdown widget that shows readers how many days are left until the next occurrence, updated automatically so it never goes stale.
+
+If it's useful, here's the embed code for your post:
+
+<iframe src="https://dayalmanac.com/embed/national-guacamole-day/" width="280" height="230" style="border:1px solid #ddd;border-radius:8px" title="Days until National Guacamole Day" loading="lazy"></iframe>
+
+No obligation at all if it doesn't fit the page. Either way, nice post.
+
+Owen
+DayAlmanac
+https://dayalmanac.com/national-guacamole-day/
+
+**Checks done:** Passed Skill(humanizer) unmodified. Skill(avoid-ai-writing) found no issues in this draft. Dedup: `grep -ril "alwaystheholidays"` across 独立站/ → no prior contact. Live-verified both URLs (`https://dayalmanac.com/national-guacamole-day/` and `/embed/national-guacamole-day/`) return HTTP 200 via cache-busted curl before drafting.
+
+### Candidate 2 — UF/IFAS Extension Indian River County (blogs.ifas.ufl.edu)
+
+**Target:** UF/IFAS Extension Indian River County, a real university extension office blog. Post "National Guacamole Day, September 16th" by Leslie Nicole Munroe, Environmental Horticulture Agent (blogs.ifas.ufl.edu/indianriverco/2021/10/26/national-guacamole-day-september-16th/), live.
+
+**Contact:** indian@ifas.ufl.edu — the Indian River County Extension office's own address (confirmed live on indian.ifas.ufl.edu), not the platform-wide webteam@ifas.ufl.edu alias originally drafted. Independent review flagged the platform alias as likely to be read as a support ticket rather than routed to the post's author; re-addressed to the county office's own contact, one click from the blog's byline, before sending.
+
+**Subject:** Small widget for the National Guacamole Day post (Indian River County blog)
+
+**Body:**
+
+Hello,
+
+I'm writing about a specific post on the Indian River County Extension blog: "National Guacamole Day, September 16th" by Leslie Nicole Munroe. It's a well-sourced piece and one of the better explanations I've found of how avocado growing ties into the Florida angle on that day.
+
+I run DayAlmanac, a reference site on the origins and sourcing of "national day" observances. For the Guacamole Day entry I built a small countdown widget. It shows visitors how many days remain until the next occurrence and updates itself, so nobody has to touch it again.
+
+If it's a fit for the post (or any future update to it), here's the embed code:
+
+<iframe src="https://dayalmanac.com/embed/national-guacamole-day/" width="280" height="230" style="border:1px solid #ddd;border-radius:8px" title="Days until National Guacamole Day" loading="lazy"></iframe>
+
+Happy to answer any questions about it. If Nickie is the right person to route this to, feel free to forward it along, but no worries either way.
+
+Thanks for the useful post.
+
+Owen
+DayAlmanac
+https://dayalmanac.com/national-guacamole-day/
+
+**Checks done:** Passed Skill(humanizer). Skill(avoid-ai-writing) caught and fixed two em dashes (mid-sentence splices) — replaced with a colon and a period-based restructure respectively. Dedup: `grep -ril "ifas.ufl.edu"` across 独立站/ → no prior contact.
+
+**Independent review verdict:** Candidate 1 — CAN SEND (all four checks clear; cgspeake@gmail.com confirmed as the real site owner via the site's own copyright footer). Candidate 2 — flagged PROBLEM (webteam@ifas.ufl.edu is a generic platform-wide alias, not routed to the specific county office); re-addressed to indian@ifas.ufl.edu (verified live) per the review's recommendation, no other content changes needed.
+
+**Status: SENT 2026-08-29** via `gmail_send.py send --from dayalmanac`. Candidate 1 → cgspeake@gmail.com, Message ID `1a04c0e8ed6243d7`. Candidate 2 → indian@ifas.ufl.edu, Message ID `1a04c0ea06855e07`.

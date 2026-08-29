@@ -39,3 +39,34 @@
 ### 遗留
 
 `linkable-asset-backlog.md` 剩余4条待制作点子（National Day官方依据核验指数、National Day官方依据速查工具——依赖第1条数据集、纪念日礼物清单权威对照表、生辰石与生辰花大师参考图）留给下次任务运行处理。下次运行到本站时，第2/3/3.5步（未加链接回收+主动pitch+发现平台投放）应该正式执行一次，本次完全跳过。
+
+---
+
+## 2026-08-29（第0步选站：11-30位曝光量重排，见下方说明）
+
+**第0步（选站）**：本次运行执行"🎯 外链产能集中规则"——现算全矩阵10站近28天11-30位曝光量，排除压制中三站（CalcBadger 2、DialWick 495、LingoGrove 100，均在算法压制观察期）。剩余站排序：WageLark(532) > **DayAlmanac(303)** > UmberLore(236) > FactCrumbs(113) > MythCairn(84) > WarCrumbs(39) > Hollowvane(10)。本次选中WageLark/DayAlmanac/UmberLore三站集中投产能，本站属于其中之一。
+
+**执行顺序：分发优先于新产**（2026-08-28 Owen拍板）。本站已有1个已发布资产（第2条"Days Until"倒计时组件，2026-08-25发布），此前从未做过分发（上次运行第2/3/3.5步全部跳过），本次优先执行分发，不制作新资产。
+
+### 第2步（未加链接提及回收）
+
+WebSearch `"dayalmanac.com" -site:dayalmanac.com` → 无相关结果引用本站（页面仍新，符合预期）。本轮无回收机会。
+
+### 第3步补充（交互工具定向邀请嵌入）
+
+倒计时组件覆盖的30+篇观察日文章中，选定National Guacamole Day（Sept 16）作为切入点——已通过WebSearch找到两个真实、当前在线、内容对应的目标：
+
+1. **alwaystheholidays.com**（个人节日/食谱博客）"Observe National Guacamole Day with an Easy Guacamole Recipe"，联系人cgspeake@gmail.com（站内About页公开的个人邮箱，经独立复核确认是站主本人真实邮箱）。
+2. **UF/IFAS Extension Indian River County**（佛罗里达大学推广办公室官方博客）"National Guacamole Day, September 16th" by Leslie Nicole Munroe，最初起草用webteam@ifas.ufl.edu（平台级通用别名），独立复核agent指出更合适的渠道是县办公室自己的联系地址indian@ifas.ufl.edu（在indian.ifas.ufl.edu上核实存在），已按建议改用后发送。
+
+两封邮件均先过`Skill(humanizer)`，IFAS那封被`Skill(avoid-ai-writing)`抓出2处正文内破折号并修复。两封均存入`outreach-drafts.md`（追加），跨站查重（`gmail_send.py list --query "to:cgspeake@gmail.com OR to:indian@ifas.ufl.edu OR ..."`）确认此前均无联系记录。独立、全新上下文的复核agent逐一核实：目标页面真实在线且内容匹配、DayAlmanac两个URL（正文页+embed路由）均返回200、收件人是否为合规邮箱、语气是否有AI痕迹——候选1直接判定"CAN SEND"，候选2判定"PROBLEM"（webteam别名不够针对性）并给出更优地址，已按建议改址重发。
+
+两封均于2026-08-29通过`gmail_send.py send --from dayalmanac`实际发出：candidate 1 → cgspeake@gmail.com（Message ID `1a04c0e8ed6243d7`），candidate 2 → indian@ifas.ufl.edu（Message ID `1a04c0ea06855e07`）。
+
+### 第3.5步（发现平台投放）
+
+未执行——本站资产是30+个embed路由的组件而非单一可展示页面，`reddit-投放候选清单.md`已明确将其列入"明确不投的"名单（无单一URL可发帖）。Show HN同理不适用（非技术向可展示产品）。本轮跳过，符合既定候选清单口径。
+
+### 分发计数
+
+本站累计已邀请/投放目标数：2/10（本次新增2个，此前0个）。距离"分发饱和"（≥10个合格目标且全部有结果记录）门槛还差8个，下次运行如果本站仍在选站范围内应继续补齐。

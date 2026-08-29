@@ -312,5 +312,32 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-29",
+    "action": "skipped_all_indexed",
+    "reason": "今日新发布october-birthstone已实测确认收录（URL is on Google）。用build-index-queue.py队列继续遍历20个候选（suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day/international-mens-day/december-birthstone/september-birthstone/anniversary-gifts-by-year/national-cat-day/prostate-cancer-awareness-month/bullying-prevention-month/11th-anniversary-gift/adhd-awareness-month/diabetes-awareness-month/talk-like-a-pirate-day/1987-chinese-zodiac/lung-cancer-awareness-month），逐个URL Inspection均已收录（本站抓取预算充裕，新文章几乎实时收录），未发现未收录候选，跳过该站不耗配额（本次未遍历完45个候选队列的全部，剩余候选留给下次运行）。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/october-birthstone/",
+      "https://dayalmanac.com/suicide-prevention-month/",
+      "https://dayalmanac.com/breast-cancer-awareness-month/",
+      "https://dayalmanac.com/world-mental-health-day/",
+      "https://dayalmanac.com/world-kindness-day/",
+      "https://dayalmanac.com/international-mens-day/",
+      "https://dayalmanac.com/december-birthstone/",
+      "https://dayalmanac.com/september-birthstone/",
+      "https://dayalmanac.com/anniversary-gifts-by-year/",
+      "https://dayalmanac.com/national-cat-day/",
+      "https://dayalmanac.com/prostate-cancer-awareness-month/",
+      "https://dayalmanac.com/bullying-prevention-month/",
+      "https://dayalmanac.com/11th-anniversary-gift/",
+      "https://dayalmanac.com/adhd-awareness-month/",
+      "https://dayalmanac.com/diabetes-awareness-month/",
+      "https://dayalmanac.com/talk-like-a-pirate-day/",
+      "https://dayalmanac.com/1987-chinese-zodiac/",
+      "https://dayalmanac.com/lung-cancer-awareness-month/"
+    ],
+    "quota_used": 0
   }
 ]

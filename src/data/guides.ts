@@ -10224,5 +10224,142 @@ export const guides: Guide[] = [
     "image": "/images/october-birthstone-opal.jpg",
     "imageAlt": "A play-of-color precious opal seam embedded in silicified claystone from the Coocoran Opal Field, New South Wales, Australia",
     "imageCredit": "Photo by [James St. John](https://commons.wikimedia.org/wiki/User:James_St._John), CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Precious_opal_in_silicified_claystone_(Griman_Creek_Formation,_Lower_Cretaceous;_Coocoran_Opal_Field,_New_South_Wales,_Australia)_1_(29822194731).jpg)"
+  },
+  {
+    "slug": "corn-moon",
+    "category": "Observances",
+    "title": "Corn Moon: The Date, and Why It Isn't Always the Harvest Moon",
+    "description": "September's full moon is called the Corn Moon every year, and it's usually the Harvest Moon too, but the two titles split about once every three years, next in 2028.",
+    "published": "2026-08-29",
+    "updated": "2026-08-29",
+    "coreSummary": "September's full moon is the Corn Moon every year; in 2026 it falls on Saturday, September 26, at 12:49 p.m. Eastern time, according to the U.S. Naval Observatory. It also carries the separate Harvest Moon title in 2026, but the two names split about once every three years, most recently due in 2028, when the Harvest Moon shifts to October and September's full moon keeps only the Corn Moon name.",
+    "dateRule": {
+      "kind": "table",
+      "text": "September's full moon, every year. The exact date moves with the lunar cycle rather than sitting on a fixed calendar day.",
+      "status": "documented",
+      "source": {
+        "label": "The Old Farmer's Almanac — Full Moon Names",
+        "url": "https://www.almanac.com/full-moon-names"
+      },
+      "occurrences": [
+        {
+          "date": "2026-09-26",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-09-15",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-09-03",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-09-22",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2030-09-11",
+          "weekday": "Wednesday"
+        }
+      ],
+      "caveat": "\"Corn Moon\" always names September's full moon. \"Harvest Moon\" is a separate title that goes to whichever full moon, September's or October's, falls closest to the autumn equinox. Most years those are the same night: in 2026, 2027, 2029, and 2030, September's full moon is both. About once every three years the calendar splits them instead, next due in 2028, when the full moon nearest the equinox falls in October (October 3) and September's full moon (September 3) keeps only the Corn Moon name."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No individual is credited with coining \"Corn Moon,\" and the earliest written record doesn't get much more specific than a nationality-free \"the Indians.\" Captain Jonathan Carver, born in the Province of Massachusetts Bay in 1710, traveled through the Great Lakes and northern Mississippi Valley in the 1760s and spent time with Dakota, Ojibwe, and Ho-Chunk communities, then published a list of twelve lunar month names in his 1778 travel book, written after he had relocated to England. September appears on it as \"Corn Moon.\" Carver doesn't say which of the people he traveled with told him this, or name a specific nation for most entries on the list; attributing customs broadly to \"the Indians\" rather than to a named source was his habit throughout the book. The Old Farmer's Almanac carried Carver's \"Corn Moon\" into the 12-name list it has published since 1964, which is the version still printed on American calendars today. Separately, the Western Abenaki and Dakota have their own documented names for the same lunar month, Corn Maker Moon and Corn Harvest Moon, neither a translation of Carver's English label.",
+      "source": {
+        "label": "History.com — How Are Full Moons Named?",
+        "url": "https://www.history.com/articles/full-moons-naming-native-american"
+      }
+    },
+    "sections": [
+      {
+        "heading": "When the Corn Moon falls in 2026",
+        "body": [
+          "The full moon that lands in September carries the name Corn Moon every year, and in 2026 that night is Saturday, September 26. The U.S. Naval Observatory puts the moment of exact fullness at 12:49 p.m. Eastern time (16:49 UTC), a figure the Old Farmer's Almanac reports independently and matches to the minute. Like every full moon date, this one moves with the lunar cycle rather than sitting on a fixed spot on the calendar, so next year's date has to be checked rather than assumed.",
+          "That's easy to see one year out: in 2027 the Corn Moon falls on Wednesday, September 15, eleven days earlier in the month than in 2026. This kind of drift is normal for any full moon tied to a calendar month instead of a fixed date. A lunar cycle runs about 29.5 days, which adds up to roughly eleven fewer days than a 365-day year across twelve full moons, so the date creeps earlier from one year to the next. About once every two to three years that drift is enough to squeeze a second full moon into a single calendar month, an event usually called a Blue Moon. The Almanac's own 2026 calendar already has one, in May."
+        ]
+      },
+      {
+        "heading": "Corn Moon and Harvest Moon aren't always the same night",
+        "body": [
+          "Most calendar sites treat \"Corn Moon\" and \"Harvest Moon\" as two names for one night, and most years that's correct, but the two titles aren't actually tied together. Harvest Moon isn't linked to a calendar month at all; it's an astronomical title that goes to whichever full moon, September's or October's, falls closest to the autumn equinox. Since September's full moon is normally the nearer one, the Corn Moon usually inherits the Harvest Moon title along with its own. That's the case in 2026: the equinox falls on September 22, a little under four days before the Corn Moon, well ahead of October's full moon on October 26, so September 26, 2026 carries both names.",
+          "The titles come apart when September's full moon falls unusually early in the month, early enough that October's full moon ends up sitting closer to the equinox instead. The next time that happens is 2028: the Corn Moon falls on September 3, about eighteen and a half days before that year's September 22 equinox, while October's full moon lands on October 3, just over eleven days after it. October keeps the Harvest Moon title that year, and the September 3 full moon is Corn Moon only, not Harvest Moon. The Naval Observatory's published moon-phase and equinox data confirm both 2028 dates, and an independent harvest-moon calendar published by moonphase.today lands on the same October 3 date through its own reckoning. The Old Farmer's Almanac describes the split as happening roughly once every three years; across the five years from 2026 through 2030 covered on this page, it happens exactly once."
+        ]
+      },
+      {
+        "heading": "Where the name comes from",
+        "body": [
+          "No single person is credited with naming September's full moon the Corn Moon, and the earliest written record doesn't get much more specific than that. Jonathan Carver's 1778 travel book, Travels Through the Interior Parts of North-America, lists September as \"Corn Moon\" in a table of month names he attributed to Native peoples he had traveled among roughly a decade earlier, on a trip he dates in the book's own title to 1766 through 1768. Carver doesn't identify which of the Dakota, Ojibwe, or Ho-Chunk communities he stayed with actually used that name, and historians researching the list note his habit of crediting customs to \"the Indians\" generally rather than to a named nation or individual.",
+          "There's also a common misconception built into how the name gets described. According to History.com's account of the record, Native nations of that period generally didn't name individual full moons; they named the lunar months themselves, each one running from new moon to full moon, and each month's name described what was happening across that stretch of the seasonal cycle, corn ripening, leaves turning, ice forming. Carver's list, and the modern full-moon names built on it, map those month names onto the single night of the full moon instead, a workable adaptation but not quite how the original naming worked.",
+          "Names that don't trace back to Carver's list confirm the same month mattered elsewhere for the same reason. The Old Farmer's Almanac separately records the Western Abenaki calling it the Corn Maker Moon and the Dakota calling it the Corn Harvest Moon, both landing independently on corn as the defining feature of the month without either being a translation of Carver's English phrase."
+        ]
+      },
+      {
+        "heading": "The names nobody standardized",
+        "body": [
+          "There was never one Native American lunar calendar to standardize in the first place. Dozens of nations across the continent, speaking unrelated languages and living in different climates, kept their own month names, and those names didn't always agree on what stood out about early autumn. The Old Farmer's Almanac lists several other documented names for the same month: the Dakota's own Moon When Rice Is Laid Up to Dry, describing wild rice harvest and drying rather than corn; the Cree's Autumn Moon; the Ojibwe's Falling Leaves Moon; the Anishinaabe's Leaves Turning Moon; the Lakota's Moon of Brown Leaves; and the Assiniboine's Yellow Leaf Moon. Corn, rice, and changing leaves were all visible markers of the same few weeks, and which one a given nation built its name around depended on what mattered most where they lived."
+        ]
+      },
+      {
+        "heading": "Why the moon seems to rise at nearly the same time several nights running",
+        "body": [
+          "Full moons always rise close to sunset, and on an ordinary night the moon rises about fifty minutes later than it did the previous night, working its way around a full cycle over about a month. Around whichever full moon falls nearest the autumn equinox, that daily delay shrinks to only twenty to twenty-five minutes for several nights running, at mid-northern latitudes like most of the continental United States. EarthSky attributes this to the moon's path across the sky making an unusually shallow angle with the horizon in autumn, so each night's moonrise point shifts less and the moon climbs into view sooner after sunset than the usual fifty-minute gap would predict.",
+          "That shortened gap is why farmers historically valued this particular full moon: several nights of near-continuous light right after sunset, instead of the usual stretch of full darkness between dusk and moonrise, meant extra time to finish bringing in a harvest. The effect follows whichever full moon holds the Harvest Moon title in a given year, not September specifically, so in a split year like 2028 it shows up around the October 3 full moon rather than the September 3 Corn Moon. For a look at what else the month carries, [September's birthstone is sapphire](/september-birthstone/) and [its birth flowers are aster and morning glory](/september-birth-flower/); the calendar keeps moving into [October's own crowded lineup of observances](/national-days-in-october/) right behind it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is the Corn Moon in 2026?",
+        "answer": "Saturday, September 26, 2026, reaching exact fullness at 12:49 p.m. Eastern time (16:49 UTC). The U.S. Naval Observatory and the Old Farmer's Almanac both report this figure."
+      },
+      {
+        "question": "Is the Corn Moon the same as the Harvest Moon?",
+        "answer": "Usually, but not automatically. Harvest Moon is a separate title that goes to whichever full moon, September's or October's, falls closest to the autumn equinox; most years that's September's Corn Moon, which is why the two names get treated as interchangeable. In 2026 they fall on the same night, September 26. The titles split in years like 2028, when October's full moon sits closer to the equinox and keeps the Harvest Moon name on its own."
+      },
+      {
+        "question": "Where does the name Corn Moon come from?",
+        "answer": "The earliest written record traces to Captain Jonathan Carver's 1778 travel book, which lists a set of month names he attributed generally to Native peoples he had traveled among in the Great Lakes region during the 1760s, without naming a specific source. The Old Farmer's Almanac carried Carver's Corn Moon into the 12-name list it has published since 1964. Separately, the Western Abenaki and Dakota have their own documented names for the same month, Corn Maker Moon and Corn Harvest Moon."
+      },
+      {
+        "question": "What is September's full moon called in a year when it isn't the Harvest Moon?",
+        "answer": "Still the Corn Moon. That name is tied to the calendar month, not to the equinox, so it applies every September regardless of which moon wins the Harvest Moon title that year. In 2028, for example, the September 3 full moon is Corn Moon only; the Harvest Moon title goes to October's full moon instead."
+      },
+      {
+        "question": "Does the Corn Moon actually look bigger or more orange than other full moons?",
+        "answer": "No more than any other full moon does. EarthSky attributes the big, orange look to the moon illusion, a documented visual effect that happens whenever the moon sits low near the horizon, which is simply when people are most likely to be looking for it, shortly after sunset. It isn't a property of the Corn Moon or Harvest Moon specifically."
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Naval Observatory, Astronomical Applications Department — Moon Phase and Season Data API",
+        "url": "https://aa.usno.navy.mil/data/api"
+      },
+      {
+        "label": "The Old Farmer's Almanac — Full Moon Names",
+        "url": "https://www.almanac.com/full-moon-names"
+      },
+      {
+        "label": "The Old Farmer's Almanac — When Is the Next Full Moon? Full Moon Dates for 2026",
+        "url": "https://www.almanac.com/astronomy/moon/full"
+      },
+      {
+        "label": "History.com — How Are Full Moons Named?",
+        "url": "https://www.history.com/articles/full-moons-naming-native-american"
+      },
+      {
+        "label": "EarthSky — The Super Harvest Moon (Harvest Moon explainer)",
+        "url": "https://earthsky.org/astronomy-essentials/harvest-moon-2/"
+      },
+      {
+        "label": "MoonPhase.Today — Harvest Moon Calendar 2026 to 2030",
+        "url": "https://moonphase.today/harvest-moon-calendar/"
+      }
+    ],
+    "image": "/images/corn-moon.jpg",
+    "imageAlt": "A large full moon rising orange above Blanca Peak, seen from Great Sand Dunes National Park and Preserve",
+    "imageCredit": "NPS photo by Patrick Myers, Great Sand Dunes National Park and Preserve, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harvest_Moon_over_Blanca_Peak_(29735999351).jpg)"
   }
 ];

@@ -1691,3 +1691,95 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "national-taco-day",
+  "last_audited": "2026-08-29",
+  "published_date": "2026-08-09",
+  "专属核查清单": [
+    "1. dateRule.occurrences六年(2026-2031)与'first Tuesday of October'规则是否真实吻合，包括2026-10-04是周日这个具体反例",
+    "2. Marlo Anderson引语（2024-09-17日期变更公告）是否逐字准确，National Day Calendar/Taco Bell联合声明是否真实",
+    "3. Taco Tuesday商标解禁时间线（2023-05-16申请/2023-10-20最后一州放弃/2023-10-24全美自由使用）是否准确——这是'为什么一家连锁店能改动一个全国性节日'这条核心论证的关键支撑",
+    "4. Gonzalez 1968年5月3日国会认定 vs 2000年代Oct 4起源，两条互不相关的'National Taco Day'历史线是否被文章正确区分、未混淆",
+    "5. nationaltoday.com至今仍显示'October 4, 2026'这一'竞品未更新'的具体断言，审计当下(2026-08-29)是否仍然成立（时效性强，随时可能被竞品自行修正）"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以具名信源（Taco Bell/National Day Calendar联合公告、L.A. Taco记者Gustavo Arellano的专题调查）为骨架，对不确定的细节使用防守性措辞（'no identified author'、'nobody can name who first said October 4'），founding.status标为'documented'但正文明确承认Oct 4起源链条中'谁最先提出这个日期'仍是未知——这种诚实呈现证据边界的写法符合本站已建立的EEAT惯例（对比Boss' Day条目同样'documented'但文中承认'falls short of fully documented'）。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "确认1处问题（外部来源死链），核心事实断言全部核实通过",
+      "detail": "逐条核实专属清单5条：(1)Python独立复算dateRule六年occurrences，2024年Oct1/2025年Oct7/2026年Oct4=周日/2026-2031六行weekday字段，与文章数据100%吻合；(2)WebSearch核实Marlo Anderson引语与Taco Bell Newsroom/PR Newswire/多家媒体(Fox News/NRN/AOL)转述一致，日期2024-09-17准确；(3)WebSearch独立核实商标时间线：Taco Bell 2023-05-16提交TTAB撤销申请（准确）、新泽西Gregory's Restaurant & Bar于2023-10-20正式放弃注册（准确，NBC/CBC/Inquirer均报道此日期）、Taco Bell 2023-10-24宣布全美50州自由使用（准确，CNN/Axios/Taco Bell Newsroom原文均为此日期）——文章三个日期全部精确无误；(4)WebSearch核实Wikipedia'Taco Day'词条确认Gonzalez 1968年5月3日国会记录属实，且Wikipedia本身仍笼统断言'This holiday was created...by Del Taco'(2009年)，反而是本站文章更准确地呈现'Del Taco是最早有据可查的推广方，但不是日期的原始提出者'这一更细致的区分；(5)curl+WebSearch双重核实nationaltoday.com截至审计当天(2026-08-29)仍显示'National Taco Day — October 4, 2026'（dateModified 2026-06-11，说明该页6月更新过但仍未修正日期），文章关于'竞品未跟进新规则'的断言依旧成立。唯一发现的问题：sources[]第五条AOL链接（`aol.com/articles/taco-bells-national-taco-day-120320719.html`）curl实测返回真实HTTP 404（CloudFront直接served，非反爬拦截），用于支撑'Taco Bell和Del Taco均在2025-10-07举办National Taco Day促销'这条断言——命中内容通用教训库L-0817-4（sources[]死链）的第4次复发，本次是真死链非假阳性。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "occurrences覆盖2026-2031共6年，当前(2026-08-29)最近一次(2026-10-06)尚未发生。updated字段本次审计前为2026-08-09（发布当天，从未刷新过），符合发布未满一年evergreen页面的正常状态，本次因内容改动同步刷新为2026-08-29。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题，差异化真实",
+      "detail": "dataforseo-query实测'national taco day'真实SERP：头部为nationaldaycalendar.com(标题已滚动显示'October 5, 2027'预告下一年)/en.wikipedia.org/tacobell.com/farmersalmanac.com/nationaltoday.com(仍卡在Oct4 2026)/bunkhistory.org(镜像转载本文同一篇L.A. Taco源文章)。本站文章的真实增量：(a)把'日期变更'和'为什么Taco Bell能改动它'（商标解禁的因果链）系统性串联，头部竞品均未做这层论证；(b)纠正了连Wikipedia都在犯的简化错误（Wikipedia断言'Del Taco在2009年创造了这个节日'，本站基于L.A. Taco一手调查区分'推广者'与'原始提出者'）；(c)独家收录1968年Gonzalez国会认定这一段几乎所有日历站都不提的历史，且明确标注这是与现代Oct4观察日'同名不同源'的两条线，未见任何竞品页面做这个区分。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl+解析线上HTML：title/meta description/canonical(自指)均正确，单一H1，7个H2/H3无跳级（What it is/date changed/why a chain could move it/nobody can name/forgotten first/FAQ/Nearby on the calendar），robots.txt对GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended均显式Allow，sitemap-index.xml含本页slug，无noindex/x-robots-tag标记。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站发布任务同一套99分制11维度自评约90/99（权威原文引语14/16、统计数据完整性12/14、可引用性12/13、结构规范性12/12、表达流畅度9/10、语义密度7/8、权威信号7/8、专业术语5/6、鲁棒性5/5、跨域连接4/4、易懂表达3/3），已达标≥80。schema层面确认FAQPage(5问)/Article/BreadcrumbList/Event×6全部有效且与guides.ts数据逐字一致（含本次修改后的sources字段不影响schema，因sources不直接进JSON-LD）。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "不适用（发布日期晚于规则生效日）",
+      "detail": "本文published=2026-08-09，晚于'英文对外内容双重去AI味检查'规则生效日2026-08-07，发布流程已内置humanizer+avoid-ai-writing检查。本次机械扫描正文复核：em-dash 7处，逐一核对全部位于sources/dateRule.source的label字段（'机构 — 标题'固定引用格式），非正文内容；无curly quotes；无delve/tapestry/testament/underscore等AI高频词；未发现须补漏的AI写作痕迹。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "确认问题，已修复",
+      "detail": "5条sources逐一curl实测：lataco.com/prnewswire.com/nationaltoday.com均200；nationaldaycalendar.com返回403（既往站内多次核实为Cloudflare对自动化请求的拦截，非真实死链，WebSearch确认该页面仍被正常索引）；aol.com返回真实404（CloudFront served，无验证码/JS挑战特征），是真实死链。已用today.com同主题文章替换（见'修复'）。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题，健康度优秀",
+      "detail": "全站67篇文章，Observances分类42篇（远超轮转窗口阈值6篇，走正常轮转算法）。正文出站锚文本3处（national-coffee-day/national-boyfriend-day/national-dog-day，curl实测均200）；反向grep确认另有6篇其他文章（national-hispanic-heritage-month/national-quesadilla-day/national-pepperoni-pizza-day/national-days-in-october/national-burrito-day等）正文中主动链接回本文，入站链接充分，非孤儿页。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "线上JSON-LD的FAQPage.mainEntity（5问）、Event×6（startDate与dateRule.occurrences逐年比对完全一致）、Article.image指向guides.ts的image字段，均与guides.ts数据源逐字一致；datePublished/dateModified对应published/updated字段，本次修复后dateModified已同步更新为2026-08-29。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及的实体（Taco Bell/Del Taco/Taco John's/Chuy's Tex-Mex/Taco Cabana/National Day Calendar/L.A. Taco）均为中性引用，无现实新增争议（Taco Tuesday商标纠纷已在2023年和解，非活跃争议）。主题本身（快餐连锁营销节日+一段有据可查的商标史）无敏感度风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "hero图`national-taco-day.jpg`（525KB，200可达）EXIF内嵌'Copyright 2017. All rights reserved.'字样一度引发怀疑，但直连Wikimedia Commons文件页（`File:The_Taco_Project,_Tarrytown,_United_States_(Unsplash).jpg`）核实许可协议确为CC0（publicdomain/zero/1.0），确认EXIF字样是原始相机/软件写入的过时元数据、早已被Unsplash上传者主动放弃版权覆盖，图片credit标注（Katlyn Giberson摄, CC0）准确，非真实版权冲突。timeline SVG（4.1KB, 200可达, imageCredit留空因SVG为站内原创插图）无问题。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "全文为编辑/调查性质的历史与商标纠纷叙事，未列出任何当前年度的具体优惠码/折扣/'限时'促销语言（对2024/2025年deals的提及均为历史性描述，非当期促销引导），标题'National Taco Day 2026: October 6, Not October 4 Anymore'准确反映内容非标题党。机械扫描'buy now/click here/discount code/coupon/affiliate/sign up/act now/limited time/order now/shop now'等诱导性CTA词汇，全部零命中。本站十站共用同一AdSense发布者账号，本文风险判定为低。"
+    }
+  ],
+  "independent_verification": "对'外部引用链接腐烂'维度发现的aol.com死链，spawn了1个独立agent（正常完成，未卡死，约26秒/3次工具调用）：独立复现curl -I确认404为CloudFront直接served的真实404（非反爬挑战页），并独立核实替代来源today.com文章的articleBody逐字支持'Taco Bell 10/7当日多档促销+Del Taco 10/7-9促销'这一断言，判定死链发现CONFIRMED、替代来源adequate，据此执行替换。其余12个维度未发现问题，未额外spawn独立agent。",
+  "actions_taken": [
+    "sources[]第五条：将死链`https://www.aol.com/articles/taco-bells-national-taco-day-120320719.html`替换为`https://www.today.com/food/restaurants/national-taco-day-deals-2025-rcna233705`（TODAY.com，200可达，内容逐字支持原断言）",
+    "updated字段从2026-08-09刷新为2026-08-29",
+    "内容通用教训库.md的L-0817-4追加第4次复发记录（本次为真死链，非此前两次的反爬假阳性）",
+    "npm test 18/18通过，npm run build 120页0报错；commit 99c025a（仅src/data/guides.ts，未提交并发任务遗留的imageDims.ts无关改动及外链建设进度.json备份文件）并push成功；轮询确认线上sources已更新为TODAY.com链接；seo_drift.py compare对比基线未见非预期CRITICAL；IndexNow提交本页；内容发布日志.md追加本次审计记录"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约90/99（已达标≥80），本次修复不涉及GEO薄弱维度，未重新完整打分",
+  "escalation": null
+}
+```

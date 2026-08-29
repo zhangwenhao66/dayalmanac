@@ -10077,5 +10077,152 @@ export const guides: Guide[] = [
     "image": "/images/national-burrito-day.jpg",
     "imageAlt": "A carne asada burrito from a San Diego-area restaurant, sliced open to show the meat, beans, and rice inside",
     "imageCredit": "Photo by [Dougk49](https://commons.wikimedia.org/wiki/User:Dougk49), CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carne-asada-burrito.jpg)"
+  },
+  {
+    "slug": "october-birthstone",
+    "category": "Birthstones",
+    "title": "October Birthstone: Opal and Tourmaline",
+    "description": "October has two official birthstones, opal and tourmaline, and opal's reputation for bad luck traces to one 1829 novel, not to any older superstition.",
+    "published": "2026-08-29",
+    "updated": "2026-08-29",
+    "coreSummary": "Jewelers of America's current chart lists two official October birthstones: opal, carried over from the trade group's original 1912 list, and tourmaline, added in a 1952 revision. Opal's modern reputation for bad luck is not an old folk belief; it traces to a single 1829 novel by Sir Walter Scott, after which, according to the American Gem Society, European opal sales fell by half within a year.",
+    "sections": [
+      {
+        "heading": "October's two official birthstones",
+        "body": [
+          "Jewelers of America, the trade association whose predecessor created the modern US birthstone list in 1912, names exactly two official birthstones for October on its current chart: opal and tourmaline. Both the Gemological Institute of America and the American Gem Society present the same pair on their own birthstone pages, with opal identified as the older, \"traditional\" stone and tourmaline as the newer, \"modern\" addition.",
+          "That two-stone structure isn't unique to October, though it isn't the majority pattern either. Checked directly against the current chart, [seven months carry a single official stone and five carry two or three](/birthstones-by-month/): June and December each get three, and August, October, and November each get two. What sets opal and tourmaline apart from the other multi-stone months is how differently the two stones' reputations have moved over time, one gaining a myth it never had before, the other overturning centuries of mistaken identity."
+        ]
+      },
+      {
+        "heading": "Opal: named in two ancient languages before English ever touched it",
+        "body": [
+          "Opal is the older of the two stones by a wide margin, and its name reflects that age. According to GIA, the word is believed to trace to Sanskrit upala, meaning \"precious stone,\" a term used in India, the source of the first opals reaching the Western world. Ancient Rome adapted the word into opalus, and English inherited it from there, secondhand, the same way \"turquoise\" reached English through French traders rather than from any language spoken where the stone was mined.",
+          "Long before any 1912 trade-group meeting, opal already carried a stack of separate folk beliefs across unconnected cultures. Bedouins believed the stone held lightning and fell from the sky during thunderstorms. Ancient Greeks credited it with the power of prophecy and protection from disease. Medieval Europeans treated it as a talisman that combined the virtues of every other colored gem, because its play-of-color seemed to contain a little of each one. None of these traditions coordinated with each other; they simply all landed in the same positive place."
+        ],
+        "image": {
+          "src": "/images/october-birthstone-opal.jpg",
+          "alt": "A play-of-color precious opal seam embedded in silicified claystone from the Coocoran Opal Field, New South Wales, Australia",
+          "credit": "Photo by [James St. John](https://commons.wikimedia.org/wiki/User:James_St._John), CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Precious_opal_in_silicified_claystone_(Griman_Creek_Formation,_Lower_Cretaceous;_Coocoran_Opal_Field,_New_South_Wales,_Australia)_1_(29822194731).jpg)"
+        }
+      },
+      {
+        "heading": "The \"unlucky opal\" myth is a 19th-century novel, not ancient folklore",
+        "body": [
+          "Opal's reputation as an unlucky stone feels old, the kind of superstition that predates recordkeeping. It isn't. The American Gem Society traces the entire belief to a single specific source: Sir Walter Scott's 1829 novel Anne of Geierstein. The book's enchanted princess wears an opal that shifts color with her moods; when a few drops of holy water extinguish the stone's inner fire, she dies soon after. Readers took the fictional device literally, and, per AGS, opal sales across Europe fell by 50 percent within a year of the novel's publication.",
+          "A second, later legend attached itself to the same reputation: Spain's King Alfonso XII reportedly gave an opal ring to his wife as a wedding gift, and after her death it passed in turn to his grandmother, sister, and sister-in-law, each of whom also died while wearing it, before Alfonso himself wore the ring and died shortly after. AGS presents this specifically as legend rather than established fact, noting the deaths coincided with a cholera epidemic and explicitly flagging its own opal-folklore page as \"myth, legend, and historical lore,\" not history.",
+          "The myth didn't hold. AGS notes that opal's reputation recovered once major deposits were found in Australia after 1850, when the country began producing the large majority of the world's opal supply and demand for the stone returned. There is no comparable pre-1829 textual tradition of opal as unlucky in any major European language; for centuries before Scott's novel, as the Rome and medieval traditions above show, the stone's associations ran almost entirely the other way."
+        ]
+      },
+      {
+        "heading": "Where opal actually comes from",
+        "body": [
+          "Australia remains the dominant source. Commercial mining there traces to specific, dated discoveries: at White Cliffs in New South Wales, four kangaroo shooters found opal in 1889 and had it valued by geologist Tullie Cornthwaite Wollaston, who went on to market it commercially the following year. Lightning Ridge, now famous for rare black opal, had a false start decades earlier: station manager Robert Moore collected specimens there as early as 1873 or 1874, only to be told by Sydney valuers they were worth little more than road-building material, and he gave up looking. Organized mining didn't begin until prospector Charlie Nettleton, shown a local woman's own opal find, sank the field's first documented shaft on February 15, 1902, with a mining syndicate forming the following year to work the deposit systematically. Lightning Ridge's black opal, with its dark body tone that makes flashes of color read as more saturated, remains one of the most prized forms of the stone.",
+          "Australia's dominance has a real challenger now. In 2008, a new deposit was found near the village of Wegel Tena in Ethiopia's Welo province. GIA's own Gems & Gemology journal called it a \"promising new deposit\" at the time, and the material, now traded as \"welo opal,\" proved more resistant to crazing (the fine surface cracking that can develop in some opal over time) than opal from Ethiopia's earlier Shewa fields. The discovery has meaningfully reshaped supply since, though Australia's fields, and the specific mining towns above, remain where the stone's modern trade history was actually built."
+        ]
+      },
+      {
+        "heading": "Tourmaline: discovered in Maine by two students, then mistaken for other gems for centuries",
+        "body": [
+          "Tourmaline has none of opal's ancient pedigree, but its own origin story is unusually well documented for a gemstone. According to accounts drawn from Augustus Choate Hamlin's 1895 book History of Mount Mica, two students with an interest in mineralogy, Elijah Hamlin and Ezekiel Holmes, were descending Mount Mica in Paris, Maine in 1820 when a flash of green near the roots of an uprooted tree caught Hamlin's eye. The crystal they picked up was later identified as tourmaline by Yale professor Benjamin Silliman, marking what's usually described as the first gemstone mining operation in the United States. Elijah Hamlin went on to serve as Maine's lieutenant governor; the mine he stumbled onto as a student still intermittently produces tourmaline today.",
+          "Before scientists formally recognized tourmaline as its own distinct mineral species in the 1800s, its wide range of natural colors repeatedly got it mistaken for other gems. GIA notes that a pendant in the Russian crown jewels known as the \"Caesar's Ruby\" is actually a red tourmaline (a variety called rubellite), and that a 16th-century Spanish conquistador found green tourmaline in Brazil and mistook it for emerald. The name itself comes from the Sinhalese word toramalli, \"stone with mixed colors,\" a fitting label for a mineral whose color range caused so much historical confusion.",
+          "Tourmaline's most valuable modern variety was discovered comparatively recently. In the late 1980s, gem-quality tourmaline showing electric green, blue, and violet colors began coming out of pegmatites in Brazil's Paraíba state. Scientists traced the unusually intense color to trace amounts of copper, a coloring agent not previously documented in any other tourmaline. Similar copper-bearing \"Paraíba-type\" material later turned up in Mozambique and Nigeria in the early 2000s, but stones from the original Brazilian locality still command the highest prices of any tourmaline variety."
+        ],
+        "image": {
+          "src": "/images/october-birthstone-tourmaline.jpg",
+          "alt": "A polished bicolor tourmaline crystal cross-section showing pink and golden-yellow zones",
+          "credit": "Photo by Rob Lavinsky, iRocks.com, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tourmaline-121240.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "When tourmaline joined the official list, and who exactly added it",
+        "body": [
+          "Opal has held its place on the birthstone chart since the modern US list was first adopted in 1912, when the American National Retail Jewelers Association, now Jewelers of America, met in Kansas City to standardize the many competing folk lists then in circulation. Tourmaline is a later addition, folded into the same 1952 revision that added zircon to December, citrine to November, and alexandrite to June.",
+          "As with December's 1952 addition of zircon, this piece did not find a primary document that definitively settles which body carried out October's 1952 revision. Some accounts describe it as an update by Jewelers of America's own predecessor association; others attribute the broader 1952 changes to a separate industry group of the era. What's well documented is the outcome, not the exact committee: tourmaline has appeared as October's second official stone, alongside opal, ever since."
+        ]
+      },
+      {
+        "heading": "Choosing between them, and what an anniversary list adds to the picture",
+        "body": [
+          "Durability is the most practical difference between the two stones for anyone shopping by birth month rather than by observance. Opal rates 5 to 6.5 on the Mohs hardness scale and also carries water content that can make it dry out and crack in very low humidity, which is why jewelers generally recommend it for pendants and earrings over daily-wear rings. Tourmaline rates a harder 7 to 7.5, comparable to quartz, and holds up well in rings and bracelets that see regular wear.",
+          "Both stones also carry a separate, wedding-anniversary meaning that has nothing to do with birth months: GIA lists opal as the traditional gift for a 14th anniversary and tourmaline for an 8th. That gemstone-anniversary list is not the only one in circulation, though, and isn't owned outright by any single trade group, the same ownership gap explored at length in [Anniversary Gifts by Year](/anniversary-gifts-by-year/). For an October birthday specifically, the choice comes down to opal's unmatched play-of-color and older pedigree against tourmaline's far wider color range and everyday durability, not to one stone being more official than the other; per Jewelers of America's own chart, neither outranks the other."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are October's official birthstones?",
+        "answer": "Opal and tourmaline, per Jewelers of America's current birthstone chart. Opal is the older of the two, carried over from the original 1912 list, while tourmaline was added in a 1952 revision."
+      },
+      {
+        "question": "Is opal really bad luck?",
+        "answer": "No good evidence supports it, and the belief isn't even old. The American Gem Society traces the entire modern superstition to a single 1829 novel, Sir Walter Scott's Anne of Geierstein, in which a fictional opal-wearing princess dies. Opal sales in Europe reportedly fell by half within a year of the book's publication, and the reputation only recovered once major Australian deposits were found after 1850."
+      },
+      {
+        "question": "Which is the older October birthstone, opal or tourmaline?",
+        "answer": "Opal. It appeared on the original 1912 US birthstone list. Tourmaline is the newer addition, folded into a 1952 revision alongside new stones for November, December, and June."
+      },
+      {
+        "question": "What color is the October birthstone?",
+        "answer": "There isn't one single color, because October has two birthstones with very different color behavior. Opal shows a shifting rainbow \"play-of-color\" across its surface rather than one fixed hue, while tourmaline occurs naturally in nearly every color, including pink and red rubellite, green and blue-violet \"paraíba\" varieties, and bicolor crystals that shade from one color to another in a single stone."
+      },
+      {
+        "question": "Where does opal come from?",
+        "answer": "Mostly Australia, whose fields, including White Cliffs (discovered 1889) and Lightning Ridge (known for black opal since the early 1900s), have supplied the majority of the world's opal for well over a century. A 2008 discovery near Wegel Tena in Ethiopia's Welo province has meaningfully added to global supply since, producing opal traded under the name \"welo opal.\""
+      },
+      {
+        "question": "Where was tourmaline first mined in the United States?",
+        "answer": "Mount Mica, near Paris, Maine, where two students, Elijah Hamlin and Ezekiel Holmes, found a green crystal in 1820 that a Yale professor later identified as tourmaline. It's usually described as the first gemstone mining operation in US history, and the site still intermittently produces tourmaline today."
+      },
+      {
+        "question": "Which is more durable for everyday jewelry, opal or tourmaline?",
+        "answer": "Tourmaline, by a clear margin. It rates 7 to 7.5 on the Mohs hardness scale, comparable to quartz, versus opal's 5 to 6.5. Opal can also dry out and develop fine cracks in low humidity, which is why jewelers typically recommend it for earrings or pendants rather than rings worn daily."
+      },
+      {
+        "question": "Is opal or tourmaline the wedding anniversary gemstone?",
+        "answer": "Both are, for different anniversaries. GIA lists opal as the traditional 14th-anniversary gemstone and tourmaline as the 8th. That particular gemstone list isn't the only anniversary-gift list in circulation, though, and no single trade group owns it outright."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstones",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
+      },
+      {
+        "label": "GIA — October Birthstones: Opal & Tourmaline",
+        "url": "https://www.gia.edu/birthstones/october-birthstones"
+      },
+      {
+        "label": "American Gem Society — October's Dual Birthstones: Opal & Tourmaline",
+        "url": "https://www.americangemsociety.org/octobers-dual-birthstones-opal-tourmaline/"
+      },
+      {
+        "label": "American Gem Society — The Folklore of Opal",
+        "url": "https://www.americangemsociety.org/the-folklore-of-opal/"
+      },
+      {
+        "label": "Lightning Ridge Historical Society — The Discovery of Opal",
+        "url": "https://lrhs.org.au/the-discovery-of-opal"
+      },
+      {
+        "label": "National Opal Collection — The Australian Opal Fields",
+        "url": "https://www.nationalopal.com/opals/australian-opal-fields.html"
+      },
+      {
+        "label": "Opal Academy — White Cliffs Opal Fields",
+        "url": "https://www.opal.academy/home/2019/6/27/white-cliff-opal-fields-stcsd"
+      },
+      {
+        "label": "Digital Maine — \"Maine Tourmaline\"",
+        "url": "https://digitalmaine.com/arc_200th_moments/11/"
+      },
+      {
+        "label": "Sun Journal — From Mount Mica to the 'Big Find,' Western Maine's history told by tourmaline",
+        "url": "https://www.sunjournal.com/2026/01/25/from-mount-mica-to-the-big-find-history-of-tourmaline-tells-story-of-western-maine/"
+      }
+    ],
+    "image": "/images/october-birthstone-opal.jpg",
+    "imageAlt": "A play-of-color precious opal seam embedded in silicified claystone from the Coocoran Opal Field, New South Wales, Australia",
+    "imageCredit": "Photo by [James St. John](https://commons.wikimedia.org/wiki/User:James_St._John), CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Precious_opal_in_silicified_claystone_(Griman_Creek_Formation,_Lower_Cretaceous;_Coocoran_Opal_Field,_New_South_Wales,_Australia)_1_(29822194731).jpg)"
   }
 ];

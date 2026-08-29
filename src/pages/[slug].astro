@@ -277,13 +277,109 @@ import { imgDims } from '../data/imageDims';
 			</div>
 		)}
 
+		<div class="da-feedback redletter mx-auto mt-14 max-w-[680px] px-5 py-4" data-da-fb>
+			<p class="rubric m-0">Reader's note</p>
+			<p class="font-display m-0 mt-2 text-[1.12rem] leading-snug font-semibold text-[var(--ink)]">Was this day's page useful?</p>
+			<div class="mt-3.5 flex flex-wrap gap-3">
+				<button type="button" class="da-fb-btn" data-da-fb-btn="helpful">Yes, useful</button>
+				<button type="button" class="da-fb-btn" data-da-fb-btn="not_helpful">Not really</button>
+			</div>
+			<div class="da-fb-msgs mt-3" aria-live="polite">
+				<p class="m-0 text-sm text-[var(--ink)]/70" data-da-fb-thanks hidden>Noted in the margin. Thank you.</p>
+				<p class="m-0 mt-0.5 text-sm text-[var(--ink)]/70" data-da-fb-missing hidden>
+					Tell us what's missing: <a class="da-fb-mail" data-da-fb-mail href="mailto:contact@dayalmanac.com?subject=Page%20feedback">write to the almanac</a>
+				</p>
+			</div>
+		</div>
+
 		<div class="mx-auto mt-14 max-w-[680px] border-t border-[var(--rule)] pt-5 text-sm text-[var(--ink)]/55">
 			<p class="m-0">Written and edited by <a href="/about/" class="text-[var(--ink)]/70 no-underline hover:text-[var(--ink)] hover:underline">{AUTHOR_NAME}</a></p>
 		</div>
 	</div>
 </Layout>
 
+<script is:inline>
+	(function () {
+		var root = document.querySelector('[data-da-fb]');
+		if (!root) return;
+		var btns = root.querySelectorAll('[data-da-fb-btn]');
+		var thanks = root.querySelector('[data-da-fb-thanks]');
+		var missing = root.querySelector('[data-da-fb-missing]');
+		var mail = root.querySelector('[data-da-fb-mail]');
+		btns.forEach(function (btn) {
+			btn.addEventListener('click', function () {
+				var verdict = btn.getAttribute('data-da-fb-btn');
+				try {
+					if (typeof window.gtag === 'function') {
+						window.gtag('event', 'page_feedback', { verdict: verdict });
+					}
+				} catch (e) {}
+				btns.forEach(function (b) {
+					b.disabled = true;
+				});
+				btn.setAttribute('aria-pressed', 'true');
+				if (thanks) thanks.hidden = false;
+				if (verdict === 'not_helpful' && missing) {
+					if (mail) {
+						mail.href =
+							'mailto:contact@dayalmanac.com?subject=' +
+							encodeURIComponent('Page feedback: ' + location.pathname);
+					}
+					missing.hidden = false;
+				}
+			});
+		});
+	})();
+</script>
+
 <style>
+	/* Reader's-note margin box: same red-edged annotation treatment as the
+	   "In brief" redletter, with calendar-red ink reserved for the verdict. */
+	/* Reserve room for the tallest post-click state (thanks + mailto line
+	   wrapping to two lines at 375px) so nothing below shifts. */
+	.da-fb-msgs {
+		min-height: 3rem;
+	}
+	.da-fb-btn {
+		font-size: 0.75rem;
+		font-weight: 600;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--ink); /* #1f1d1a on #fffdf8 — 16.4:1 */
+		background: var(--paper);
+		border: 1px solid var(--rule);
+		border-radius: 6px;
+		padding: 0.5rem 1rem;
+		cursor: pointer;
+	}
+	.da-fb-btn:hover:not(:disabled) {
+		border-color: var(--flag);
+		color: var(--flag-dark);
+	}
+	.da-fb-btn:focus-visible {
+		outline: 2px solid var(--flag-dark);
+		outline-offset: 2px;
+	}
+	.da-fb-btn[aria-pressed='true'] {
+		background: var(--flag-dark); /* #862a22; paper text on it — 8.0:1 */
+		border-color: var(--flag-dark);
+		color: var(--paper);
+	}
+	.da-fb-btn:disabled {
+		cursor: default;
+	}
+	.da-fb-btn:disabled:not([aria-pressed='true']) {
+		opacity: 0.45;
+	}
+	.da-fb-mail {
+		color: var(--flag-dark); /* #862a22 on #fffdf8 — 8.0:1 */
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+	.da-fb-mail:hover {
+		color: var(--ink);
+	}
+
 	.entry:hover .entry-title {
 		color: var(--flag-dark);
 		text-decoration: underline;

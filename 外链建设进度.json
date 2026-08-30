@@ -44,6 +44,15 @@
       "answer_url": "https://www.quora.com/When-is-World-Smile-Day-celebrated/answer/Owen-Zhang-161",
       "status": null,
       "notes": "发布时该问题0答案(仅1条折叠答案不计)。以站内文章骨架撰写(每年10月第一个星期五，非固定日期，2026年10月2日/2027年10月1日/2028年10月6日；不要与5月31日的National Smile Day混淆，后者2018年由伊利诺伊州牙科诊所Compassionate Dentalcare的Tim Stirneman与Jim Wojdyla创立，与Harvey Ball或Harvey Ball World Smile Foundation无关；Wikipedia关于Harvey Ball的词条目前称他本人于1999年创立了Harvey Ball World Smile Foundation，但基金会官网称成立于2001年、是为纪念2001年4月12日去世的Ball，只有作为身后致敬才讲得通；Ball确实在1999年创立了World Smile Day本身，但没有创立现在运营这一天的基金会)。过humanizer+avoid-ai-writing双重检查：初稿两处worth adding/worth flagging属vague endorsement模式，已用双击选词逐一改写为that tends to trip people up/a separate issue；全文无破折号、无AI高频词。用Quora Add Link功能(Cmd+K)插入真实超链接,锚文本here,指向world-smile-day页面,全程只填URL字段。已直接发布成功(非Space类问题),发布前用javascript_tool核实编辑器DOM中该span确实是class=\"span link\"(非link_pending),发布后再次核实渲染页面DOM中确实是<a href>真实超链接指向https://dayalmanac.com/world-smile-day/,锚文本为here。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查/纠错视角，无营销语气。 | question_title: When is World Smile Day celebrated?"
+    },
+    {
+      "date": "2026-08-30",
+      "site": "dayalmanac.com",
+      "target_page": "https://dayalmanac.com/corn-moon/",
+      "question_url": "https://www.quora.com/What-are-the-differences-between-a-corn-moon-and-a-harvest-moon",
+      "answer_url": "https://www.quora.com/What-are-the-differences-between-a-corn-moon-and-a-harvest-moon/answer/Owen-Zhang-161",
+      "status": null,
+      "notes": "本次为外链产能集中规则(2026-08-25新增)首次执行：用gsc_query.py现算8个非压制站近28天11-30位曝光，DayAlmanac(286)排第二，与WageLark(533)/UmberLore(259)一并获得本轮全部产能。目标页选取遵循冷启动规则：corn-moon页2026-08-29发布，从未建过外链。发布时该问题0答案(1条折叠答案不计)，与站内文章标题角度完全一致。以站内corn-moon文章骨架撰写(Corn Moon固定指九月满月不随月份变化；Harvest Moon是独立于月份的天文学称号，归属于离秋分最近的那次满月；两者通常重合但每约三年分离一次，下次为2028年，九月满月9月3日早于秋分18天而十月满月10月3日更接近秋分，Harvest Moon头衔转给十月；命名溯源到Jonathan Carver 1778年游记，原住民传统按整个朔望月命名而非单夜，玉米成熟/落叶等物候描述被后世简化套用到单夜满月)。已过humanizer+avoid-ai-writing双重检查(无破折号、无vague endorsement、无AI高频词)。用Quora Add Link功能(Cmd+K)插入真实超链接,锚文本here,指向corn-moon页面,全程只填URL字段。发布前用javascript_tool核实编辑器DOM中生成了真实<a href>(查询[href*=\"dayalmanac\"]命中)，发布后再次核实渲染页面DOM中确实是<a href=\"https://dayalmanac.com/corn-moon/\">真实超链接,锚文本为here。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查视角，无营销语气。 | question_title: What are the differences between a corn moon and a harvest moon?"
     }
   ],
   "reddit": []

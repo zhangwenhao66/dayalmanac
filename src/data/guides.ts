@@ -9822,22 +9822,23 @@ export const guides: Guide[] = [
     "slug": "national-days-in-october",
     "category": "Observances",
     "title": "National Days in October: Sorted by How Much Evidence Backs Them",
-    "description": "Twenty of October's national days, sorted by how solid the founding story is, from a 1934 federal proclamation to a farmers' holiday four sources can't agree on.",
+    "description": "Twenty-six of October's national days, sorted by how solid the founding story is, from a 1934 federal proclamation to a farmers' holiday four sources can't agree on.",
     "published": "2026-08-28",
-    "updated": "2026-08-28",
-    "coreSummary": "October carries at least twenty national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution of the United Nations Food and Agriculture Organization's own member conference. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
+    "updated": "2026-08-30",
+    "coreSummary": "October carries at least twenty-six national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution of the United Nations Food and Agriculture Organization's own member conference. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
     "sections": [
       {
-        "heading": "Twenty observances, one calendar, wildly different paper trails",
+        "heading": "Twenty-six observances, one calendar, wildly different paper trails",
         "body": [
           "Most calendar sites list October's national days in a single undifferentiated column and describe each one with some version of \"has been celebrated since...\", a phrase that sounds like evidence without actually pointing to any. This page does something narrower: it sorts October's observances by how much you could actually verify if you tried. Some rest on a named founder, a dated document, and a citable source. Others are conventional, meaning the date is real and consistently observed but nobody ever formally established it. A few are unverified, meaning the founding story repeated across a dozen sites has no primary source underneath it that this page could find.",
-          "Between the four observances that claim the entire month and the individual days below, at least twenty land somewhere in October 2026. Thirteen of them (the four month-long ones plus nine single-day and single-week observances) already have their own deep-dive page on this site, linked further down. The other seven are covered directly on this page, including an oddity: two different October 12 observances with opposite kinds of evidence behind them."
+          "Between the ten observances that claim the entire month and the individual days below, at least twenty-six land somewhere in October 2026. Thirteen of them (four month-long ones plus nine single-day and single-week observances) already have their own deep-dive page on this site, linked further down. The other thirteen are covered directly on this page, including an oddity: two different October 12 observances with opposite kinds of evidence behind them."
         ]
       },
       {
-        "heading": "The four observances that claim the whole month",
+        "heading": "Ten observances that claim the whole month",
         "body": [
-          "October holds four awareness designations that run the entire month rather than a single day, and this site has checked the founding paper trail on each. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traces to 1985, though sources disagree on the precise founding story: the American Cancer Society's own materials credit 1985 without naming a corporate co-founder, while other accounts date it to 1984 and name a pharmaceutical company as a founding partner. No permanent federal law renews the designation automatically each year. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) was designated by Congress for 1989 by name, and no comparable law has renewed that designation since. [ADHD Awareness Month](/adhd-awareness-month/) has a Senate that approved a single September day five years running, 2004 through 2008, then stopped, and the Senate never approved the full October month at all. [National Bullying Prevention Month](/bullying-prevention-month/) was founded by the nonprofit PACER in 2006 and has never been proclaimed by a sitting president."
+          "October holds at least ten awareness designations that run the entire month rather than a single day, and this site has checked the founding paper trail on each. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traces to 1985, though sources disagree on the precise founding story: the American Cancer Society's own materials credit 1985 without naming a corporate co-founder, while other accounts date it to 1984 and name a pharmaceutical company as a founding partner. No permanent federal law renews the designation automatically each year. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) was designated by Congress for 1989 by name, and no comparable law has renewed that designation since. [ADHD Awareness Month](/adhd-awareness-month/) has a Senate that approved a single September day five years running, 2004 through 2008, then stopped, and the Senate never approved the full October month at all. [National Bullying Prevention Month](/bullying-prevention-month/) was founded by the nonprofit PACER in 2006 and has never been proclaimed by a sitting president.",
+          "Six more claim the same whole-month scope without a dedicated page here yet. National Disability Employment Awareness Month traces furthest back of any of them: Congress created a one-week version in 1945, National Employ the Physically Handicapped Week, then expanded it into today's full month and current name through Public Law 100-630 in 1988. Down Syndrome Awareness Month grew out of the National Down Syndrome Society, founded in 1979, and reached federal recognition when President Reagan signed a resolution on September 28, 1984 proclaiming that October as National Down Syndrome Month. LGBTQ+ History Month has a single named founder: Missouri high-school teacher Rodney Wilson started it in 1994, choosing October partly because the month already held the anniversaries of the 1979 and 1987 Marches on Washington. National Cybersecurity Awareness Month launched in October 2004, a joint effort between the Department of Homeland Security and the nonprofit National Cyber Security Alliance, fourteen years before the federal agency that now co-leads it, CISA, was created in 2018. Health Literacy Month has the smallest founding story of the group: educator Helen Osborne started it in 1999 after polling a health-literacy mailing list about the idea and getting roughly 50 encouraging replies back. Filipino American History Month traces to a single organization's board vote: the Filipino American National Historical Society proposed it in 1991 for a first observance the following October, picking the month to mark the October 18, 1587 landing of the first recorded Filipinos in what is now Morro Bay, California; Congress did not formally recognize the observance until 2009."
         ]
       },
       {
@@ -9875,7 +9876,11 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "How many national days are in October?",
-        "answer": "This site counts at least twenty October observances across its keyword research, including four monthlong awareness designations and roughly sixteen single-day or single-week ones. That is a partial count limited to observances with meaningful search interest and a checkable founding story, not every minor \"national day\" claimed by calendar sites; some sites list several dozen more low-traffic ones for October that this page does not attempt to verify."
+        "answer": "This site counts at least twenty-six October observances across its keyword research, including ten monthlong awareness designations and roughly sixteen single-day or single-week ones. That is a partial count limited to observances with meaningful search interest and a checkable founding story, not every minor \"national day\" claimed by calendar sites; some sites list several dozen more low-traffic ones for October that this page does not attempt to verify."
+      },
+      {
+        "question": "What are the awareness months observed in October?",
+        "answer": "At least ten: Breast Cancer Awareness Month, Domestic Violence Awareness Month, ADHD Awareness Month, National Bullying Prevention Month, National Disability Employment Awareness Month, Down Syndrome Awareness Month, LGBTQ+ History Month, National Cybersecurity Awareness Month, Health Literacy Month, and Filipino American History Month. National Disability Employment Awareness Month has the oldest paper trail among them, a 1945 act of Congress; LGBTQ+ History Month has the newest, a single teacher's 1994 initiative. None of the ten shares a common origin or sponsor with any other."
       },
       {
         "question": "Is National Farmers Day an official U.S. federal holiday?",
@@ -9946,6 +9951,46 @@ export const guides: Guide[] = [
       {
         "label": "News 5 Cleveland — How a Cleveland candy maker created Sweetest Day",
         "url": "https://www.news5cleveland.com/entertainment/how-a-cleveland-candy-maker-created-the-holiday-known-as-sweetest-day"
+      },
+      {
+        "label": "CISA — Cybersecurity Awareness Month",
+        "url": "https://www.cisa.gov/cybersecurity-awareness-month"
+      },
+      {
+        "label": "Wikipedia — National Cyber Security Awareness Month",
+        "url": "https://en.wikipedia.org/wiki/National_Cyber_Security_Awareness_Month"
+      },
+      {
+        "label": "U.S. Department of Labor — National Disability Employment Awareness Month (NDEAM)",
+        "url": "https://www.dol.gov/agencies/odep/initiatives/ndeam"
+      },
+      {
+        "label": "Library of Congress — National Disability Employment Awareness Month: Legislative History Overview",
+        "url": "https://guides.loc.gov/national-disability-employment-awareness-month/legislative-history-overview"
+      },
+      {
+        "label": "National Down Syndrome Society — History",
+        "url": "https://ndss.org/history"
+      },
+      {
+        "label": "National Down Syndrome Society — Down Syndrome Awareness Month",
+        "url": "https://ndss.org/down-syndrome-awareness-month"
+      },
+      {
+        "label": "KCUR — A Missouri teacher founded LGBT History Month 30 years ago",
+        "url": "https://www.kcur.org/history/2024-10-09/lgbt-history-month-october-rodney-wilson"
+      },
+      {
+        "label": "Health Literacy Consulting — How Health Literacy Month Got Started",
+        "url": "https://healthliteracy.com/2023/10/01/how-health-literacy-month-got-started/"
+      },
+      {
+        "label": "Wikipedia — Filipino American History Month",
+        "url": "https://en.wikipedia.org/wiki/Filipino_American_History_Month"
+      },
+      {
+        "label": "Filipino American National Historical Society — About FANHS",
+        "url": "https://www.fanhs-national.org/about-fanhs"
       }
     ],
     "image": "/images/national-days-in-october.jpg",

@@ -1783,3 +1783,92 @@
   "escalation": null
 }
 ```
+
+```json
+{
+  "url_slug": "11th-anniversary-gift",
+  "last_audited": "2026-08-30",
+  "published_date": "2026-08-24",
+  "selection_note": "70篇文章中51篇从未被本审计任务处理过；按'从未审计过优先于last_audited最早'规则，本次选中guides.ts数组内这51篇里排位靠前的一篇。全年常青页（无dateRule/occurrences），非N/S/W任何季节尖峰层，审计不影响发布节奏。",
+  "专属核查清单": [
+    "美国传统清单'钢'(steel)与英国Pears Cyclopaedia清单第11年'空白'的对比，是否准确反映维基百科原表格内容，还是审计者/写作者自行脑补的对比",
+    "'1937年美国全国零售珠宝商协会扩展清单填补包括第11年在内的空白'——命中L-0806-9'X是首创/起点'断言模式，必须专门核实1937年前有没有更早的第11年材质版本",
+    "Jewelers of America当前宝石清单第11年是否确为turquoise，GIA对turquoise硬度/护理的具体数值是否逐字准确",
+    "3处内链（/anniversary-gifts-by-year/、/december-birthstone/、/national-boyfriend-day/）指向的目标文章是否真实存在且桥接句描述与目标文章原文一致",
+    "'时尚珠宝'现代清单归因给1950年代芝加哥珠宝商但无具名来源'——文章自己承认此说法不可查证，需核实这个'不可查证'的自我定性本身是否准确（即网上是否真能找到可查证的具名来源反证文章判断有误）"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以具体机构原始来源为证据展开（维基百科US/UK对比表+两个具名脚注来源、Jewelers of America现行宝石指南、GIA turquoise gem overview与care guide两个独立页面），对'时尚珠宝=现代清单'这一网传说法明确标注'无名称/无出版物/无可点击来源'，属实证怀疑式写作，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实+独立agent复核）",
+      "detail": "直连MediaWiki API抓取en.wikipedia.org『Wedding anniversary』条目wikitext原文核实核心对比表：US列11th='Steel'（脚注引用Chicago Public Library Information Center/Anderson RQ 1985/World Almanac/World Book四个来源），UK列11th=空白（脚注引用Pears Cyclopaedia 1978–79版），与本文描述逐字吻合。核实'1937年American National Retail Jeweler(s) Association扩展清单覆盖第1-20年'：维基百科正文原文确认（引用Cookie Lee 2001年著作），但'filling in gaps including the 11th'这句具体表述不是维基百科逐字原文，属基于表格结构做的推论——已就此专门spawn独立agent复核（见下方独立复核记录），判定A：证据充分可采信，独立agent自行做5次WebSearch确认Emily Post 1922年清单及至少4个独立聚合站均明确11th不在1937年之前的任何普遍公认清单中，未查到任何反例。Jewelers of America现行买购指南turquoise=11th宝石、GIA turquoise Mohs硬度5-6/care guidance（禁止超声波/蒸汽清洗、避免乳液香水直接接触）均WebSearch多信源交叉确认准确。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "published=updated=2026-08-24（发布后6天首次审计）。本文无dateRule/occurrences字段（常青参考页，非年度观察日），不存在过期年份问题。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题（dataforseo-query实测真实SERP）",
+      "detail": "python3 dataforseo_query.py serp '11th anniversary gift' 实测：前10自然位全部为购物导购类站点（Amazon/Etsy/Uncommon Goods/TheKnot/Walmart/American Greetings/Pinterest/Reddit×2），dayalmanac.com未进入前20（站点太新，符合预期）。头部竞品清一色是'礼物点子清单'型内容，无一篇像本文一样正面对比美英两套清单的具体分歧、追溯1937年扩展清单的历史成因、或引用GIA的turquoise护理细节。增量价值真实。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML（绕缓存）：title/meta description与guides.ts一致，canonical自指，单一H1，5个H2（含FAQ标题）无跳级，URL为evergreen不带年份。robots.txt对GPTBot/ChatGPT-User/ClaudeBot/Claude-Web/PerplexityBot/Google-Extended均显式Allow。sitemap-0.xml确认收录本URL。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站发布任务同一套99分制11维度自评约88/99（权威原文引语14/16、统计数据完整性10/14、可引用性12/13、结构规范性12/12、表达流畅度9/10、语义密度7/8、权威信号7/8、专业术语5/6、鲁棒性5/5、跨域连接4/4、易懂表达3/3），已达标≥80。6条FAQ答案字数32-56词，落在40-60词提取友好区间附近。schema层面确认FAQPage(6问)/Article/BreadcrumbList全部有效且与guides.ts数据逐字一致（datePublished/dateModified均为2026-08-24T00:00:00+00:00）。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "不适用（发布晚于规则生效日）",
+      "detail": "本文published 2026-08-24，晚于avoid-ai-writing 2026-08-07强制接入日期，非'早期内容'范畴。仍补做机械扫描：正文4处em-dash全部位于sources[].label元数据字段（'机构名 — 标题'固定格式，与站内既定惯例一致），0处出现在description/coreSummary/sections/faq正文；0处花体引号；0处常见AI高频词(delve/tapestry/testament/underscore/meticulous/boast/navigate等)；'rather than'3处、'not just'1处，未达到L-0820-2定义的'同一对比框架反复出现'的机械感门槛。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "4条sources链接curl实测（含-L跟随跳转）：en.wikipedia.org/wiki/Wedding_anniversary、jewelers.org buying guide、gia.edu/turquoise/gem-overview、gia.edu/turquoise-care-cleaning，全部200，无需bot拦截判定。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题（记录一处轻度观察）",
+      "detail": "Anniversaries分类全站仅2篇文章（本文+anniversary-gifts-by-year），互为唯一同类peer，site-toolkit的related-guides轮转窗口逻辑（categoryPeers.length=1≤6）保证双向可达——curl实测线上页面侧栏'entry'链接确实指向/anniversary-gifts-by-year/。正文另有3处出站手动锚文本链接（/anniversary-gifts-by-year/×2、/december-birthstone/、/national-boyfriend-day/）。轻度观察：全站grep确认目前没有任何其他文章（含anniversary-gifts-by-year本身）在正文里手动锚文本反向链接回本文，完全依赖自动轮转侧栏这一条通路，非孤儿页（有可达路径）但入站锚文本渠道单一，随全站文章数增长后续审计可关注是否有新的自然链接机会。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "线上JSON-LD的FAQPage.mainEntity(6问)、Article.image(2248×1591,与guides.ts image字段同一文件)、BreadcrumbList(Home/Anniversaries/本文)均与guides.ts数据源逐字一致，datePublished/dateModified对应published/updated字段且两者相同（未曾修改过）。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及的实体（Jewelers of America、GIA、维基百科编辑社群、American National Retail Jewelers Association历史沿革）均为中性机构引用，无现实新增争议。主题（婚礼周年礼物传统对比）无敏感度风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "直连Wikimedia Commons API核实File:Turquoise_Cerillos_Smithsonian.jpg：许可LicenseShortName='CC BY-SA 2.0'、Artist='Tim Evanson'、AttributionRequired=true，与guides.ts的imageCredit逐字一致。线上og:image/twitter:image均为该JPEG（非SVG回退问题）。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "全文为礼物传统对比与宝石护理科普，无暴力/武器/毒品/赌博类内容，无标题党。ads.txt线上200且正确指向pub-5245502795720653；/privacy/、/terms/、/about/均200可访问。"
+    }
+  ],
+  "独立复核记录": "对'1937年填补第11年空白'这一命中L-0806-9模式的核心历史论断，spawn了1个全新独立agent（正常完成，未卡死，约54秒/6次工具调用）：独立做5次WebSearch专门核实'钢/第11年在1937年前是否已存在'的反例，结果确认Emily Post 1922年清单及至少4个独立聚合站均明确11th不在1937年前的任何清单中，未查到反例，判定A（证据充分可采信）。其余12个维度经本次运行内的直接技术核实（curl/WebSearch/Wikimedia API/dataforseo_query.py实测SERP）均未发现候选问题，未再额外spawn独立agent（无候选问题可复核）。",
+  "actions_taken": [],
+  "seo_score": "技术SEO全项通过，未发现需修复项",
+  "geo_score": "自评约88/99（已达标≥80），未发现需补强的薄弱维度",
+  "escalation": null,
+  "备注": "本次审计13个维度均未发现需要修复的问题（内链健康度一项为轻度观察记录，非阻断性问题），guides.ts/线上页面均未做任何改动。因此本次未触发npm build/commit/push/CF部署/seo_drift.py compare/IndexNow重新提交，也未在内容发布日志.md追加记录（该日志的作用是让trafficsite-gsc-index-requests任务据此对已变更页面发起Google手动索引请求，本文内容未变更，追加记录会造成对未变更页面的无谓索引请求、浪费全站共享的GSC配额）。"
+}
+```

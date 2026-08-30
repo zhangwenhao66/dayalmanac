@@ -339,5 +339,15 @@
       "https://dayalmanac.com/lung-cancer-awareness-month/"
     ],
     "quota_used": 0
+  },
+  {
+    "date": "2026-08-30",
+    "action": "submitted",
+    "reason": "今日新发布1988 Chinese Zodiac（1988-chinese-zodiac）：URL Inspection确认Crawled-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
+    "submitted_urls": [
+      "https://dayalmanac.com/1988-chinese-zodiac/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

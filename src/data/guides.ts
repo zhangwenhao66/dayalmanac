@@ -10361,5 +10361,117 @@ export const guides: Guide[] = [
     "image": "/images/corn-moon.jpg",
     "imageAlt": "A large full moon rising orange above Blanca Peak, seen from Great Sand Dunes National Park and Preserve",
     "imageCredit": "NPS photo by Patrick Myers, Great Sand Dunes National Park and Preserve, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harvest_Moon_over_Blanca_Peak_(29735999351).jpg)"
+  },
+  {
+    "slug": "1988-chinese-zodiac",
+    "category": "Chinese Zodiac",
+    "title": "1988 Chinese Zodiac: Earth Dragon, But Only After February 17",
+    "description": "1988 is the Year of the Earth Dragon in the Chinese zodiac, but the lunar year didn't start until February 17. Anyone born earlier in January is a Rabbit.",
+    "published": "2026-08-30",
+    "updated": "2026-08-30",
+    "coreSummary": "1988 is the Year of the Earth Dragon, running from February 17, 1988 through February 5, 1989, according to the Hong Kong Observatory's own Gregorian-lunar conversion tables. Anyone born between January 1 and February 16, 1988, before that boundary, was actually born under the preceding zodiac year, Fire Rabbit, DJ and producer Skrillex among them.",
+    "sections": [
+      {
+        "heading": "The Earth Dragon year starts February 17, not January 1",
+        "body": [
+          "A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1988 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1988, the government's own reference for converting between the two calendars, labels the relevant lunar year Wu-chen (戊辰) and marks February 17, 1988 as the first day of its first lunar month, the actual start of the new year. Everyone born January 1 through February 16, 1988, the 47 days before that boundary, was born under the outgoing year instead, Ding-mao (丁卯), Fire Rabbit, the same year covered on this calendar's own [1987 Chinese Zodiac](/1987-chinese-zodiac/) page.",
+          "The year doesn't end on December 31 either. The Observatory's table for 1989 shows the twelfth and final lunar month of Wu-chen running through February 5, 1989; the next day, February 6, opens the following lunar year, Ji-si (己巳), Earth Snake. That puts the full Earth Dragon window at February 17, 1988 through February 5, 1989, a span of 355 days close to an ordinary lunar year's length. Unlike the Rabbit year immediately before it, which the Observatory's own tables show inserting a leap sixth lunar month to keep the calendar aligned with the seasons (a mechanism this calendar's [1987 Chinese Zodiac](/1987-chinese-zodiac/) page covers in full), Wu-chen carries no leap month at all: the Observatory's 1988 table runs straight through twelve ordinary lunar months, first to twelfth, with no repeated month anywhere in the sequence."
+        ],
+        "image": {
+          "src": "/images/1988-chinese-zodiac-dragon-figure.jpg",
+          "alt": "Earthenware funerary sculpture of a dragon from a set of the twelve Chinese zodiac animals, Yuan dynasty",
+          "credit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), dragon figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(11_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
+        }
+      },
+      {
+        "heading": "Two musicians born five weeks apart in January 1988 are technically Rabbits, not Dragons",
+        "body": [
+          "A generic year-to-animal chart, the kind that maps a birth year straight onto a zodiac animal without checking where that particular year's lunar new year fell, assigns anyone born anywhere in calendar-year 1988 to the Dragon. That's wrong for the year's first 47 days, and two working musicians happen to fall on opposite sides of the boundary within five weeks of each other.",
+          "Skrillex, the Grammy-winning DJ and producer born Sonny John Moore, was born January 15, 1988, per Wikipedia, more than a month before that year's lunar new year on February 17. By the Hong Kong Observatory's own boundary, his birth falls in the preceding zodiac year, Ding-mao, Fire Rabbit, not the Earth Dragon his birth year alone would suggest. FKA Twigs, the singer and producer born Tahliah Debrett Barnett, was born January 17, 1988, also per Wikipedia, twenty-nine days short of the same cutoff, which places her in the identical position: Fire Rabbit, not Dragon. Both were born inside the same 47-day window discussed above, the stretch of calendar-year 1988 that belongs to the year before.",
+          "Not every early-1988 birthday raises the question. Rihanna, born February 20, 1988, arrived three days after the cutoff, which makes her a straightforward Earth Dragon by the same Observatory table, no boundary to check. The distinction only matters for the roughly seven-week stretch at the start of the calendar year, not for the ten-plus months on either side of it; readers checking their own January birthday against a page like this one, or against the site's own [January birthstone](/january-birthstone/) list, should apply the same caution any year-based zodiac lookup skips."
+        ]
+      },
+      {
+        "heading": "Why Dragon years are always Yang, never Yin",
+        "body": [
+          "\"Earth Dragon\" stacks two separate labels, and the traditional calendar tracks each on its own clock. The animal comes from a twelve-position cycle of Earthly Branches; the element comes from a ten-position cycle of Heavenly Stems, where each of the five elements appears twice, once Yang and once Yin. The two clocks only realign every 60 years, the sexagenary cycle, and because ten and twelve share a greatest common factor of two, an even-position branch can only ever pair with a Yang stem, an odd-position branch only ever with Yin. The Dragon's branch, Chen, sits at the fifth (even) position, so a Dragon year is always Yang. Its year names cycle through only five stems, Jia, Bing, Wu, Geng, Ren, the Yang form of wood, fire, earth, metal, and water respectively, never once through a Yin stem.",
+          "That's the same polarity as the [1994 Chinese Zodiac](/1994-chinese-zodiac/) page's Dog year, Xu's branch sitting at an even position too, and the opposite of the [1987 Chinese Zodiac](/1987-chinese-zodiac/) page's Rabbit year immediately before it, whose odd-position branch locks it to Yin every single time. Wikipedia's articles on the Earthly Branches and the sexagenary cycle document the same even-Yang, odd-Yin pairing across all twelve branches: Rat, Tiger, Dragon, Horse, Monkey, and Dog are permanently Yang animals; Ox, Rabbit, Snake, Goat, Rooster, and Pig are permanently Yin. 1988's stem is Wu, Yang earth, so 1988 is specifically the Yang Earth Dragon, though almanacs typically drop the \"Yang\" label since it never varies for this animal and would be redundant on every Dragon-year page."
+        ]
+      },
+      {
+        "heading": "The other Earth Dragon year most people alive have never seen",
+        "body": [
+          "Because a specific stem-branch pairing like Wu-chen only recurs once every 60 years, the previous Earth Dragon year was 1928, six decades before 1988, and the next one is 2048, six decades after. Every other Dragon year in between carries a different element, cycling through the five Yang stems in order: 1976 was Bing-chen, Fire Dragon; 2000 was Geng-chen, Metal Dragon; 2012 was Ren-chen, Water Dragon; 2024, the most recent one, was Jia-chen, Wood Dragon, widely covered in the press at the time as an auspicious Lunar New Year; the next one, 2036, returns to Bing-chen, Fire Dragon, before the cycle reaches Wu-chen again in 2048.",
+          "None of these boundary dates sit still from one year to the next, either. Chinese New Year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1988 new year fell on February 17, but 1987's fell on January 29 and 1989's on February 6, three noticeably different dates within a three-week span, per the Hong Kong Observatory's own tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What Chinese zodiac sign is 1988?",
+        "answer": "The Earth Dragon, but only from February 17, 1988 onward. The Hong Kong Observatory's own Gregorian-lunar conversion table marks that date as the first day of the lunar year Wu-chen, which runs through February 5, 1989."
+      },
+      {
+        "question": "Was Skrillex really born in the Year of the Dragon?",
+        "answer": "No, by the Hong Kong Observatory's own calendar boundary. He was born January 15, 1988, more than a month before that year's lunar new year on February 17, which places him in the preceding zodiac year, Ding-mao, Fire Rabbit, instead."
+      },
+      {
+        "question": "What if I was born in January 1988?",
+        "answer": "Anyone born January 1 through February 16, 1988 was born before that year's lunar new year and belongs to the preceding zodiac year, Ding-mao, Fire Rabbit, per the Hong Kong Observatory's 1988 conversion table, not the Earth Dragon. Anyone born February 17 through 29, 1988 is an Earth Dragon."
+      },
+      {
+        "question": "Why is 1988 called the \"Earth\" Dragon instead of just \"the Dragon\"?",
+        "answer": "Because the traditional calendar pairs each of the twelve zodiac animals with one of five elements. 1988's stem is Wu, Yang earth; other Dragon years carry different elements, such as 1976's Fire Dragon or 2024's Wood Dragon."
+      },
+      {
+        "question": "Are Dragon years ever Yin instead of Yang?",
+        "answer": "No, never. The Dragon's branch sits at an even position in the twelve-branch cycle, which only ever pairs with the five Yang stems. Every Dragon year on record is Yang; the Ox, Rabbit, Snake, Goat, Rooster, and Pig are the six animals that are permanently Yin instead."
+      },
+      {
+        "question": "When is the next Earth Dragon year?",
+        "answer": "2048. The specific pairing of earth with the Dragon only recurs every 60 years, the length of the full sexagenary cycle. The previous Earth Dragon year was 1928."
+      },
+      {
+        "question": "Is Chinese New Year always in February?",
+        "answer": "No. It isn't pinned to one fixed day the way a Gregorian holiday is; the date moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1988 new year fell on February 17, but 1987's fell on January 29 and 1989's on February 6, per the Hong Kong Observatory's own tables for those years."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1988e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1989 (Ji-si, year of the Snake)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1989e.pdf"
+      },
+      {
+        "label": "Wikipedia — Skrillex",
+        "url": "https://en.wikipedia.org/wiki/Skrillex"
+      },
+      {
+        "label": "Wikipedia — FKA Twigs",
+        "url": "https://en.wikipedia.org/wiki/FKA_Twigs"
+      },
+      {
+        "label": "Wikipedia — Rihanna",
+        "url": "https://en.wikipedia.org/wiki/Rihanna"
+      },
+      {
+        "label": "Wikipedia — Earthly Branches",
+        "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
+      },
+      {
+        "label": "Wikipedia — Heavenly Stems",
+        "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
+      },
+      {
+        "label": "Wikipedia — Sexagenary cycle",
+        "url": "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+      }
+    ],
+    "image": "/images/1988-chinese-zodiac-dragon-figure.jpg",
+    "imageAlt": "Earthenware funerary sculpture of a dragon from a set of the twelve Chinese zodiac animals, Yuan dynasty",
+    "imageCredit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), dragon figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(11_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
   }
 ];

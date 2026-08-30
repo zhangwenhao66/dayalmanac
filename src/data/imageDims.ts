@@ -15,6 +15,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 625,
   "w": 467
  },
+ "/images/1988-chinese-zodiac-dragon-figure.jpg": {
+  "h": 600,
+  "w": 900
+ },
  "/images/1994-chinese-zodiac-dog-figure.jpg": {
   "h": 624,
   "w": 462
@@ -70,6 +74,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/bullying-prevention-month.jpg": {
   "h": 1066,
   "w": 1600
+ },
+ "/images/corn-moon.jpg": {
+  "h": 960,
+  "w": 1280
  },
  "/images/december-birth-flower-holly.jpg": {
   "h": 1600,

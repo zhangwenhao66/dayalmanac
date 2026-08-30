@@ -235,6 +235,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1066,
   "w": 1600
  },
+ "/images/national-burrito-day.jpg": {
+  "h": 660,
+  "w": 1226
+ },
  "/images/national-cat-day.jpg": {
   "h": 1066,
   "w": 1600
@@ -330,6 +334,14 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/october-birth-flower-marigold.jpg": {
   "h": 2144,
   "w": 2249
+ },
+ "/images/october-birthstone-opal.jpg": {
+  "h": 1085,
+  "w": 1280
+ },
+ "/images/october-birthstone-tourmaline.jpg": {
+  "h": 439,
+  "w": 600
  },
  "/images/ovarian-cancer-awareness-month-timeline.svg": {
   "h": 400,

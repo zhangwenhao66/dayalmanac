@@ -1872,3 +1872,94 @@
   "备注": "本次审计13个维度均未发现需要修复的问题（内链健康度一项为轻度观察记录，非阻断性问题），guides.ts/线上页面均未做任何改动。因此本次未触发npm build/commit/push/CF部署/seo_drift.py compare/IndexNow重新提交，也未在内容发布日志.md追加记录（该日志的作用是让trafficsite-gsc-index-requests任务据此对已变更页面发起Google手动索引请求，本文内容未变更，追加记录会造成对未变更页面的无谓索引请求、浪费全站共享的GSC配额）。"
 }
 ```
+
+```json
+{
+  "url_slug": "no-shave-november",
+  "last_audited": "2026-08-31",
+  "published_date": "2026-08-10",
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以具体、可核实的证据展开：EIN 47-3673254、Louisiana HCR No. 20 (2014)编号、$2,000首年筹款额、逐年组织沿革（2013 ACS合作/2015基金会登记/2024移交Fight CRC）均带具体年份和机构名，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题（逐条WebSearch/curl核实，含L-0804-2绝对化断言反例检索）",
+      "detail": "本文最载荷的3个断言逐一核实：①'从未获得任何联邦认可'——多角度WebSearch（congress.gov/govtrack站内检索、'No-Shave November federal proclamation'等）均未找到国会决议或总统公告的反例，仅Louisiana HCR No.20(2014)一年州级决议，与文章表述一致；②Fight CRC官网'We proudly carry forward the Hill family's inspiring legacy'——直接curl no-shave.org原文逐字核对，完全一致；③Movember起源（2003年墨尔本，Travis Garone与Luke Slattery所创）——WebSearch多信源交叉核实准确。另核实：EIN 47-3673254及2015年登记（ProPublica/Charity Navigator/Daffy三方交叉确认）、2013年ACS合作（多信源确认）、Louisiana HCR No.20实际内容（WebSearch摘要与文章caveat逐点吻合，含'2014年11月'一年性表述、Leger议员提案）、'与Movember无合并/无关联'（WebSearch确认两者从未合并，仅常被混淆）。dateRule.occurrences六个年份(2026-2031)用Python datetime独立复核全部吻合。文章内3处跨文章桥接句（引用national-sons-day/red-ribbon-week/domestic-violence-awareness-month三篇姊妹文章的具体事实）逐一核对guides.ts对应条目原文，全部准确（含'1989年+1991年两次国会决议'这一细节）。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现需修复问题（一项观察项，未采取行动）",
+      "detail": "updated 2026-08-10，下次occurrence（2026-11-01）尚未发生，无过期年份问题。WebSearch发现americancancerfund.org/pledge.to等第三方平台将其参与的'No-Shave November'子活动更名为'Growvember'，但直接curl本文两个主要信源（no-shave.org、fightcolorectalcancer.org/no-shave-november-rules/）确认截至审计当天两个权威信源仍统一使用'No-Shave November'名称（fightcolorectalcancer.org页面的'Growvember'仅作为keywords标签之一出现，非主品牌名），判定非本文需要更新的时效性问题，仅作观察记录供下次审计参考。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "WebSearch'no-shave November meaning history when is it'：头部结果为Fox News、Dictionary.com、no-shave.org、多个博客站。对比这些页面的公开摘要，均未像本文一样正面区分'官方现有网站语言'与'仅见于二手报道的具体细节（Rebecca Hill具名、$2,000首年数字）'两个证据层级，也未提及Louisiana HCR No.20这一具体州级立法细节或本站跨文章'11月零联邦认可观察日'比较框架，增量价值真实。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "curl实测线上HTML：title/meta description经`check_seo_field_stats.py`核实均在71篇同站文章分布的正常范围内（z-score title=0.01、description=-0.10，远低于1.0阈值），canonical自指（https://dayalmanac.com/no-shave-november/），单一H1，7个H2+1个H3无跳级，URL evergreen不带年份，schema共9块（Article/FAQPage/BreadcrumbList/Event×6）与guides.ts数据逐字一致。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标，未做结构性改动",
+      "detail": "按本站99分制11维度自评约89/99（权威原文引语与具体数字完整性突出：EIN、决议编号、$2,000、具体年份链条均带出处），已达标≥80。本次修复（去机械重复句式）不涉及GEO薄弱维度，未重新完整打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "不适用（published 2026-08-10晚于2026-08-07强制线，写作时已受avoid-ai-writing约束）",
+      "detail": "机械扫描：em-dash 8处，逐一核对全部位于sources[]的label引用元数据（非正文），零花体引号，零AI高频词命中。"
+    },
+    {
+      "dimension": "机械化行文模式（本次审计新增专项，脚本`check_prose_patterns.py`）",
+      "status": "确认问题，已修复",
+      "detail": "首次运行报3类报警：①「[具名信源]'s own [名词]」归因短语命中7次（Hill family's own network×2、Fight CRC's own materials/site/rules page、organization's own site/current site text），命中L-0819-8已毕业硬检查；②rather than/instead of命中6次（超过阈值4次），命中L-0820-2已毕业硬检查——逐句核对后判定其中4处（date/floating week对比、continuing/replacing对比、family-run/legislated对比、DEA agent/private family对比）是真实不同话题的独立区分（比照L-0820-2的nudibranch判例，非机械重复框架），仅founding.text内2处相邻'二手信源vs一手信源'的同类对比合并为1处；③FAQ 6条与正文/dateRule/founding近乎逐字重合≥20字符（最高83字符），命中L-0819-9已毕业硬检查。三类均已修复：①全部7处去除'own'或改写归因方式，降至0处；②合并+改写降至4处（对比L-0820-2判例的'脚本阈值只是候选信号'原则，未强行改写4处真实区分句）；③6条FAQ改写为独立措辞表述（换角度而非删减重排），降至仅FAQ#5残留32字符重合（'the Prevent Cancer Foundation'慈善机构专有名词本身，比照L-0819-9的FactCrumbs `nudibranch`判例，专有名词不可再改写，接受非零退出码）。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题（两处需说明的例外）",
+      "detail": "6条sources链接实测：no-shave.org/fightcolorectalcancer.org/today.com/themanual.com均curl直接200。daffy.org对curl自动化请求返回404（响应头含AWSALB/AWSALBCORS等AWS WAF特征cookie），但WebSearch确认该确切URL标题仍被索引为'Donate to Matthew Hill Foundation Inc (47-3673254) using Daffy'，判定为bot拦截而非真实链接失效，与站内既有对nationaldaycalendar.com/congress.gov同类案例的判定标准一致。legis.la.gov在TLS握手阶段超时（curl exit 35，非HTTP层403/404），WebSearch证实该域名下同类House Concurrent Resolution文档普遍可被索引，且此前一轮WebSearch的摘要内容已直接印证该HCR No.20文档的具体内容（Leger议员提案/'2014年11月'一年性表述）与文章caveat完全吻合，判定为同类bot/TLS拦截而非真实链接失效，未采取行动（未替换链接）。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "grep全站guides.ts确认本文已被至少6篇姊妹文章（breast-cancer-awareness-month、international-mens-day、epilepsy-awareness-month、lung-cancer-awareness-month等）用手动锚文本`[No-Shave November](/no-shave-november/)`正文互链，非仅依赖轮转窗口自动推荐，非孤儿页。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "线上JSON-LD的FAQPage.mainEntity（7条，含本次修改后的新措辞）、Article.datePublished/dateModified（均为2026-08-10T00:00:00+00:00，与guides.ts published/updated一致）、Article.image（1200×630，与guides.ts image字段一致）均与guides.ts数据逐字一致。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "文章提及的实体（Hill家族成员、Fight CRC、Movember创始人、Louisiana议员）均为中性引用，无现实世界新增争议。主题（结肠癌纪念+募捐活动）无敏感度风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "hero图（/images/no-shave-november.jpg，1200×630）为本站自制时间线插图（非第三方摄影作品，据内容发布日志.md记录），imageAlt准确描述为'Timeline illustration'，无需外部版权归属字段（guides.ts本条目本就无imageCredit字段，与其余引用真实摄影作品的文章不同，属正常状态非缺陷）。线上og:image/twitter:image均指向该文件且200可访问。另一张/images/no-shave-november-timeline.svg（正文内嵌时间线图）同样200可访问。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "全文为公益募捐活动历史科普，无暴力/武器/毒品/赌博类内容，无标题党。"
+    }
+  ],
+  "独立复核记录": "对本次审计确认为真实问题的机械化行文模式发现（\"'s own\"归因重复7次/rather than超阈值6次/FAQ逐字重合6处），spawn了1个全新独立agent（正常完成，未卡死，约77秒/4次工具调用）：独立重新计数三类模式，逐一确认CONFIRMED（计数与本次发现一致）。修复方案本身（保留4处真实区分性rather than、接受FAQ#5专有名词残留重合）依据本文件已确立的L-0820-2/L-0819-9判例自行判断，未额外spawn第二个agent复核（判例已有明确先例可循，非需要独立验证的新问题）。事实性断言（联邦认可缺失/引语逐字核对/组织沿革）均为本次运行内直接WebSearch/curl核实，未发现候选问题，无需spawn独立agent复核。",
+  "actions_taken": [
+    "founding.text/dateRule.text/两处sections[].body：去除全部7处「X's own Y」归因短语，改写为不同句式（如'Fight CRC's own site'→'Fight CRC's site'，'the Hill family's own network'→'the family's original circle of friends and supporters'/'the family's initial supporters'两处采用不同措辞避免二次重复）",
+    "founding.text：合并两处相邻'二手信源vs一手信源'对比句为一句，减少1处rather than；dateRule.text改写为分号结构消除1处rather than，总数从6降至4（保留4处经判定为真实不同话题的区分句，未强行改写）",
+    "6条FAQ答案改写为独立措辞（换角度陈述而非删减重排），消除与正文/dateRule/founding的20+字符逐字重合；FAQ#5残留32字符重合（充分核实为慈善机构专有名词'the Prevent Cancer Foundation'本身）判定为不可再改写，接受check_prose_patterns.py非零退出码",
+    "python3 seo_drift.py baseline（编辑前）；npm run build（Node）125页0报错；npm test 41/41通过；git commit ec4110e（仅暂存src/data/guides.ts）并push；CF Pages自动部署后轮询确认线上FAQ新文本已生效"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项（本次未改动title/description/canonical/heading/schema结构）",
+  "geo_score": "自评约89/99（已达标≥80），本次修复不涉及GEO薄弱维度，未重新完整打分",
+  "escalation": null,
+  "备注": "本次审计新增了check_prose_patterns.py机械行文模式专项检查（此前该站审计日志未见此项，可能是首次将2026-08-30已毕业的L-0819-8/L-0819-9/L-0820-2三项硬检查系统性应用于回头审计）。三项检查中rather than与FAQ重合两项均出现'脚本阈值触发≠必须强行改写到0'的判例适用情形，已按既有判例（L-0820-2/L-0819-9最新条目）处理，未盲目追求零报警而损害内容准确性或引入新的不自然表达。'Growvember'品牌名观察项供下次审计（预计2027年前后本文再次轮到）复查是否已成为主要信源的正式名称变更。"
+}
+```

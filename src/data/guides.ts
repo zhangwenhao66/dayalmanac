@@ -10657,5 +10657,141 @@ export const guides: Guide[] = [
     "image": "/images/national-mango-day.jpg",
     "imageAlt": "A ripe mango, whole and unpeeled, photographed in India",
     "imageCredit": "Photo by [Dinesh Valke](https://www.flickr.com/people/91314344@N00), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mango_(433686277).jpg), CC BY-SA 2.0"
+  },
+  {
+    "slug": "national-apple-day",
+    "category": "Observances",
+    "title": "National Apple Day: October 21, and a Documented Founder",
+    "description": "National Apple Day falls on October 21, founded in 1990 by Britain's Common Ground charity, though most calendar sites never name the founder at all.",
+    "published": "2026-08-31",
+    "updated": "2026-08-31",
+    "coreSummary": "National Apple Day falls on October 21, launched in 1990 by the British charity Common Ground and its two founders, Sue Clifford and Angela King, at a market event in London's Covent Garden. It grew from 40 stalls that first year to more than 600 separate events across the country by 1999, and orchards, National Trust properties, and community groups still mark it most Octobers. Several American calendar-aggregator sites present the day as a United States observance without naming a founder at all, and it is a distinct thing from National Apple Month, a U.S. promotional campaign tracing to 1904.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "October 21 every year, the anniversary of the first Apple Day event in 1990. The date does not shift for weekends or weekdays.",
+      "status": "documented",
+      "source": {
+        "label": "Common Ground — Apple Day",
+        "url": "https://www.commonground.org.uk/apple-day/"
+      },
+      "occurrences": [
+        { "date": "2026-10-21", "weekday": "Wednesday" },
+        { "date": "2027-10-21", "weekday": "Thursday" },
+        { "date": "2028-10-21", "weekday": "Saturday" },
+        { "date": "2029-10-21", "weekday": "Sunday" },
+        { "date": "2030-10-21", "weekday": "Monday" },
+        { "date": "2031-10-21", "weekday": "Tuesday" }
+      ],
+      "caveat": "Common Ground fixed the anniversary at October 21, but most present-day Apple Day events are organized independently by orchards, National Trust properties, and community groups, and plenty are scheduled for whichever day suits the local venue, often the closest weekend, rather than the 21st itself. Several American calendar-aggregator sites also list the observance under \"United States\" without any UK attribution, and it is easy to confuse with the unrelated National Apple Month; see the FAQ below."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "National Apple Day was launched on October 21, 1990, by Common Ground, a small UK charity that Sue Clifford and Angela King had founded roughly a decade earlier, in 1982 or 1983 depending on the source, to promote what the pair called \"local distinctiveness.\" The first event took place in the Piazza at Covent Garden in London, in the old Apple Market, which had gone without fruit stalls for roughly sixteen years by Common Ground's count (a later retelling by the wildlife charity People's Trust for Endangered Species, PTES, puts the gap at seventeen). Forty stalls took part: growers and nurseries selling apple varieties and trees, alongside cider makers, juice makers, and writers with their own apple books. Common Ground never intended to repeat that single event; the plan was to spread the idea so that towns, villages, and gardens across Britain would organize their own versions. The count of separate Apple Day events grew from more than 60 in 1991 to 300 by 1997 and past 600 by 1999.",
+      "source": {
+        "label": "Common Ground — Apple Day",
+        "url": "https://www.commonground.org.uk/apple-day/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What National Apple Day is",
+        "body": [
+          "National Apple Day falls on October 21, a Wednesday in 2026 and a Thursday in 2027. It carries no legal status anywhere: no law in the UK, the US, or any other country recognizes it, and government offices, banks, and postal services keep their normal schedule regardless of the date.",
+          "The word \"National\" in the name is worth a second look. Common Ground, the charity that started the observance, has only ever called it Apple Day in its published materials; nothing in the record credits any single nation with owning it. National Today, a major American calendar aggregator, lists the day's location field as simply \"United States\" and gives the founding a single sentence naming Common Ground but neither of its two founders nor the London market where the day actually began.",
+          "That gap in sourcing puts most calendar-site coverage of this day well behind what is actually on the public record. [National Mango Day](/national-mango-day/)'s best-known founding claim traces to an Indian agency that never documented it, and [National Boyfriend Day](/national-boyfriend-day/) has no verifiable founder at all, the two most common patterns turned up on this site. National Apple Day breaks that pattern: a named charity, two named founders, a specific date, and a specific market, confirmed independently across Common Ground's own materials, Wikipedia, and a wildlife charity that later quoted one of the founders directly."
+        ]
+      },
+      {
+        "heading": "Why Common Ground picked the apple",
+        "body": [
+          "Common Ground picked the apple deliberately, not because it was an easy theme to sell. As the wildlife charity PTES, which still maintains a live map of Apple Day events nationwide, tells it: Common Ground had been dismayed by the loss of so many traditional orchards, and amazed at the thousands of varieties of apples grown across the British Isles, when the idea for Apple Day came together. The apple worked as a stand-in for something larger: dozens of small, differently colored, differently flavored local varieties disappearing in favor of a handful bred for supermarket shelf life.",
+          "The scale of that variety is larger than most people assume. Wikipedia's overview of the species puts the figure at more than 7,500 recognized apple cultivars worldwide, bred for uses ranging from fresh eating to cider and juice pressing. Only a small fraction show up in any given country's grocery stores; most survive, when they survive at all, in old orchards, botanical collections, and the kind of local growers' groups Apple Day was built to celebrate.",
+          "Clifford put the underlying idea directly, in a line the wildlife charity still carries on its Apple Day page: \"Apple Day is not a marketing device, its creation has been impelled by altruism and idealism for living better with nature – the apple and the orchard are symbols of hope.\" The same quote lists what an orchard supports beyond fruit: trees, bees, bats, butterflies, birds, and badgers. [National Wildlife Day](/national-wildlife-day/), founded more than a decade later by a completely different organizer, runs on a similar instinct, using a single day to point at species and habitats that would otherwise go unnoticed."
+        ]
+      },
+      {
+        "heading": "Still marked most Octobers, just not always on the 21st",
+        "body": [
+          "Apple Day has run every year since 1990, mostly through local organizers rather than Common Ground itself. Within a decade the charity had shifted into a supporting and promotional role, pointing visitors toward orchard groups, community-orchard registers, and properties run by the National Trust and the Royal Horticultural Society (RHS), many of which host their own events most Octobers.",
+          "Recent seasons show the pattern continuing: gardens run by the National Trust have hosted Apple Day-branded events across early and mid-October in different years, built around apple-variety displays, pressing and tasting, and orchard tours, rather than a single fixed date shared by every venue. PTES keeps a national map of these events current each year, alongside directories of community orchards and local orchard groups, and invites organizers to add their own event listings to it.",
+          "For a fuller list of what else lands on the calendar around Apple Day, see this site's [roundup of October's national days](/national-days-in-october/), sorted the same way this page treats founding evidence: by how much of each claimed history actually holds up."
+        ]
+      },
+      {
+        "heading": "Not the same thing as National Apple Month",
+        "body": [
+          "National Apple Day and National Apple Month share almost nothing beyond the fruit and the coincidence of a similar name. National Apple Month runs the entire month of October in the United States, promoted today by the U.S. Apple Association. The association's archived history page says only that it was \"originally founded in 1904 as National Apple Week\" before being \"expanded to the entire month of October\"; the more specific scheduling, that National Apple Week ran the second full week of August until 1995 before the October switch in 1996, comes from Checkiday's holiday database, not from the association's page itself.",
+          "Unlike Apple Day, National Apple Month has no individual founder on record anywhere this page could verify. The association's archived page names an organization and a year, not a person or a specific event. A specific version of the founding story circulates on some calendar and lifestyle sites, crediting a named individual with organizing the first 1904 observance in a named Midwestern city; that name does not appear in the association's published materials, in any newspaper archive this page could search, or anywhere else independent of those secondary sites, so this page treats it as unconfirmed instead of settled fact.",
+          "The overlapping name creates real confusion in search results and on social media, since both observances involve the same fruit and both fall in the same season. National Apple Day, on this page, means the October 21 observance that Common Ground founded in the UK. Its monthlong American counterpart carries a noticeably thinner paper trail behind it."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Apple Day?",
+        "answer": "Every year on the 21st of October, a date fixed since the very first celebration back in 1990. That puts this year's edition on a Wednesday, with 2027 sliding one weekday later, to a Thursday."
+      },
+      {
+        "question": "Who started National Apple Day?",
+        "answer": "A British charity called Common Ground, founded and run by Angela King and Sue Clifford. The pair organized the debut celebration in 1990 at Covent Garden's old fruit market in central London, then intentionally handed the idea off so towns and orchards elsewhere could build their own local versions of it."
+      },
+      {
+        "question": "Is National Apple Day an American holiday?",
+        "answer": "No, though plenty of U.S.-facing holiday sites describe it that way. Its roots are British, it has never held legal status in any country, and the organization that runs it has stuck to one plain name from the start: Apple Day, dropping \"National\" altogether."
+      },
+      {
+        "question": "What's the difference between National Apple Day and National Apple Month?",
+        "answer": "They come from opposite sides of the Atlantic and rest on very different evidence. This page is about the UK's fixed October 21 date, backed by a documented charity and two documented founders, while its similarly named American cousin is USApple's monthlong campaign, which grew out of a differently titled 1904 observance whose individual organizer was never recorded anywhere."
+      },
+      {
+        "question": "Is National Apple Day still celebrated today?",
+        "answer": "Very much so. Local groups tending community orchards, along with RHS and National Trust gardens throughout Britain, keep running their own versions most years, tracked on a live map that the conservation group PTES maintains; a fair number pick a convenient weekend near October 21 instead of the exact date."
+      },
+      {
+        "question": "How many varieties of apple actually exist?",
+        "answer": "More than 7,500, by Wikipedia's count. That scale is part of why Common Ground created Apple Day in the first place: almost none of those varieties reach a supermarket shelf, and the founders wanted a yearly occasion to remind people the diversity still exists, in old orchards and small growers' collections if nowhere else."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Common Ground — Apple Day",
+        "url": "https://www.commonground.org.uk/apple-day/"
+      },
+      {
+        "label": "Wikipedia — Apple Day",
+        "url": "https://en.wikipedia.org/wiki/Apple_Day"
+      },
+      {
+        "label": "Wikipedia — Common Ground (United Kingdom)",
+        "url": "https://en.wikipedia.org/wiki/Common_Ground_(United_Kingdom)"
+      },
+      {
+        "label": "People's Trust for Endangered Species — Apple Day (Orchard Network)",
+        "url": "https://ptes.org/campaigns/traditional-orchard-project/orchard-network/apple-day/"
+      },
+      {
+        "label": "Wikipedia — Apple (cultivar count)",
+        "url": "https://en.wikipedia.org/wiki/Apple"
+      },
+      {
+        "label": "Washington State University Tree Fruit — Apple Varieties (independent 7,500-cultivar corroboration)",
+        "url": "https://treefruit.wsu.edu/web-article/apple-varieties/"
+      },
+      {
+        "label": "National Today — National Apple Day",
+        "url": "https://nationaltoday.com/national-apple-day/"
+      },
+      {
+        "label": "Checkiday — National Apple Month",
+        "url": "https://www.checkiday.com/47db92818ce0b63a7e7825c2b2cd4116/national-apple-month"
+      },
+      {
+        "label": "U.S. Apple Association — National Apple Month (archived via Wayback Machine)",
+        "url": "https://web.archive.org/web/20191206153501/http://usapple.org/all-about-apples/national-apple-month/"
+      }
+    ],
+    "image": "/images/national-apple-day.jpg",
+    "imageAlt": "Rows of apple trees heavy with red fruit in an orchard, with wooden harvest crates set between the rows",
+    "imageCredit": "Photo by [Bob Embleton](https://www.geograph.org.uk/profile/125), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Orchards_ready_for_the_Harvest._-_geograph.org.uk_-_56410.jpg), CC BY-SA 2.0"
   }
 ];

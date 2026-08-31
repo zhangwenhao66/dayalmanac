@@ -231,6 +231,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 320,
   "w": 1000
  },
+ "/images/national-apple-day.jpg": {
+  "h": 479,
+  "w": 640
+ },
  "/images/national-bosses-day-timeline.svg": {
   "h": 300,
   "w": 900

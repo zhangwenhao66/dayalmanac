@@ -349,5 +349,17 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-08-31",
+    "action": "skipped_no_quota_used",
+    "reason": "今日新发布national-mango-day，URL Inspection确认已收录。Page indexing报告仅有的1个Crawled-currently-not-indexed候选birth-flowers-by-month实测已收录（报告stale于8/21）。队列最高价值候选suicide-prevention-month（proxy 1392940）同样已收录。本站55/58已收录，其余3个是404/redirect问题非索引问题，本轮无可提交候选，跳过不消耗配额。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/national-mango-day/",
+      "https://dayalmanac.com/birth-flowers-by-month/",
+      "https://dayalmanac.com/suicide-prevention-month/"
+    ],
+    "quota_used": "0 - skipped, all checked candidates already indexed"
   }
 ]

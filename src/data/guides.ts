@@ -10518,5 +10518,144 @@ export const guides: Guide[] = [
     "image": "/images/1988-chinese-zodiac-dragon-figure.jpg",
     "imageAlt": "Earthenware funerary sculpture of a dragon from a set of the twelve Chinese zodiac animals, Yuan dynasty",
     "imageCredit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), dragon figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(11_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
+  },
+  {
+    "slug": "national-mango-day",
+    "category": "Observances",
+    "title": "National Mango Day: July 22, and a 1987 Story Nobody Can Source",
+    "description": "National Mango Day falls on July 22 in the US and India. A widely repeated 1987 story traces to a real Delhi mango festival, not a decision to create this day.",
+    "published": "2026-08-31",
+    "updated": "2026-08-31",
+    "coreSummary": "National Mango Day is observed on July 22 in both the United States and India. A founding story crediting India's National Horticulture Board in 1987 circulates across dozens of calendar sites, but no primary source connects that year to this specific date; 1987 is independently documented only as the founding year of Delhi's International Mango Festival, a separate event. The U.S. National Mango Board, a federal marketing order created in 2004, promotes July 22 without claiming to have started it.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "July 22 every year, observed under the same name in both the United States and India. No source describes a weekend-shift convention or a differing regional date.",
+      "status": "conventional",
+      "source": {
+        "label": "National Mango Board (mango.org) — Celebrating National Mango Day",
+        "url": "https://www.mango.org/blog/celebrating-national-mango-day/"
+      },
+      "occurrences": [
+        { "date": "2026-07-22", "weekday": "Wednesday" },
+        { "date": "2027-07-22", "weekday": "Thursday" },
+        { "date": "2028-07-22", "weekday": "Saturday" },
+        { "date": "2029-07-22", "weekday": "Sunday" },
+        { "date": "2030-07-22", "weekday": "Monday" },
+        { "date": "2031-07-22", "weekday": "Tuesday" }
+      ]
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No source names a person, agency, or decision that set National Mango Day on July 22. A specific claim keeps circulating anyway: that India's National Horticulture Board designated the date in 1987. It appears, worded almost identically, on several secondary calendar and lifestyle sites, but none of them cite a gazette notification, a Board announcement, or any other primary document, and the National Horticulture Board's website carries no page describing it. The one verifiable 1987 event connecting mangoes and India is a different thing: the International Mango Festival, a mango exhibition first held that year in Delhi and organized by the Delhi Tourism and Transportation Development Corporation together with national horticulture and export-promotion agencies. National Today, a major calendar aggregator, keeps the two separate in its published history for the day: the 1987 entry in its timeline credits India's tourism board with the Mango Festival specifically, not a national-day declaration, and it never explains why July 22 became the date. In the United States, the National Mango Board promotes the date every year but has never claimed to have created it; the Board itself was not established until 2004, well after July 22 was already in circulation as National Mango Day."
+    },
+    "sections": [
+      {
+        "heading": "What National Mango Day is",
+        "body": [
+          "National Mango Day is an unofficial food observance held on July 22 in the United States, with a longer-running observance under the same name in India. Neither version carries legal status. No law in either country recognizes the day, and government offices, banks, and postal services run their ordinary schedule regardless of the date. In 2026 it falls on a Wednesday.",
+          "In practice, the day works the way [National Coffee Day](/national-coffee-day/) does: a recurring slot on food-brand and retail marketing calendars rather than a civic or religious occasion. The U.S. National Mango Board runs an annual #AlwaysMangoSZN social media campaign around the date, and grocery chains, yogurt brands, and juice makers use it each July to promote mango-flavored products.",
+          "The Board also promotes a second, easily confused date: National Mango Month, which falls in June, not July. \"Mango has popped up in different applications from soft drinks to hard seltzers to new menu offerings, so National Mango Month comes at the perfect time to highlight where it all starts, fresh whole mango,\" the Board's executive director, Manuel Michel, said in a June 2021 trade-press release about that separate June observance. The same release cited a 93% rise in U.S. mango consumption per person, from 1.88 pounds in 2005 to 3.63 pounds in 2020."
+        ]
+      },
+      {
+        "heading": "The 1987 story nobody can source",
+        "body": [
+          "Search for who started National Mango Day and the same claim turns up, worded almost identically, across a cluster of calendar and lifestyle sites: India's National Horticulture Board designated July 22 in 1987. None of those sites cite a gazette notification, a Board press release, or any other document to back it, and the National Horticulture Board's website has no page describing such a designation. A gazette notification is the normal way an Indian government body records a decision like this, and a direct search turned up none.",
+          "There is a well-documented 1987 event tied to mangoes and India, but it is a different thing: the International Mango Festival, a mango exhibition first held that year in Delhi and organized by the Delhi Tourism and Transportation Development Corporation together with the country's horticulture board and export-promotion agency. It has run most years since, usually as a two-day event at a Delhi venue built around mango varieties and cultivation, not a July 22 observance. Even National Today, a major calendar aggregator with an obvious incentive to have a founding story on file, keeps the two apart in its published history for the day: the 1987 entry in its timeline names India's tourism board and the Mango Festival specifically, and stops there, without saying why July 22 got attached to the fruit.",
+          "The likeliest reading is that the National Horticulture Board claim has no documented source anywhere, and grew out of a garbled retelling of the Mango Festival's real founding year, not an actual decision to name July 22 as a national day."
+        ]
+      },
+      {
+        "heading": "A federal marketing order that inherited the date, not one that invented it",
+        "body": [
+          "The organization most associated with National Mango Day today, the National Mango Board, has a founding that is fully documented and considerably more recent than 1987. The U.S. Department of Agriculture's Agricultural Marketing Service opened a proposed rule and comment period on August 26, 2002, then held an industry referendum on creating a mango research and promotion program; growers and importers approved it with 77% support. The resulting Mango Promotion, Research and Information Order, authorized under the Commodity Promotion, Research and Information Act of 1996, took effect November 3, 2004, and the 18-member Board began operating under it.",
+          "That timeline puts the Board's creation seventeen years after the 1987 date already attached to National Mango Day elsewhere. Mango.org marks July 22 every year with recipes and a social media push, but its posts state only that the date exists; they do not claim the Board created it, name a founder, or repeat the National Horticulture Board story at all. The Board built a marketing moment on a date that was already circulating, a pattern [National Taco Day](/national-taco-day/) follows too, once its own founding gets traced back past the brands that later adopted it."
+        ]
+      },
+      {
+        "heading": "Nearly half the world's production, from one country",
+        "body": [
+          "Whatever the truth about who started the day, one country dominates the crop itself. In a written reply to the Lok Sabha on August 1, 2023, India's Agriculture and Farmers Welfare Minister, Narendra Singh Tomar, said India's mango production had risen 12.7% over the prior decade, from more than 184 lakh tonnes (18.4 million tonnes) in 2013-14 to more than 207 lakh tonnes (20.7 million tonnes) in 2022-23, and that India accounted for nearly 44% of world production of mangoes, guavas, and mangosteens combined as of 2020-21. Mango.org, the U.S. industry board's site, calls mango India's national fruit and puts India's share of world mango output even higher, at nearly half.",
+          "In the United States, the National Mango Board lists six mango varieties commonly sold in supermarkets, including Tommy Atkins, the large red-and-green mango most Americans picture by default, and Kent, a sweeter, less fibrous variety available across two overlapping growing windows that together cover most of the year."
+        ]
+      },
+      {
+        "heading": "What's actually in a mango",
+        "body": [
+          "The National Mango Board's nutrition label, sourced to the USDA National Nutrient Database, puts a 3/4-cup serving of mango pieces (124 grams) at 70 calories, 19 grams of carbohydrate, 2 grams of fiber, and 1 gram of protein. The same serving carries 45 milligrams of vitamin C, half of a 2,000-calorie diet's daily value, plus smaller shares of vitamin A (8%), folate (15%), copper (15%), and potassium (4%). On that basis, the Board markets mango as an excellent source of vitamin C and a good source of folate and copper."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Mango Day?",
+        "answer": "Every July 22, both in the U.S. and separately in India. This year's date lands on a Wednesday, and 2027's falls a day later on the calendar, a Thursday."
+      },
+      {
+        "question": "Who created National Mango Day?",
+        "answer": "That is exactly what cannot be pinned down. Calendar sites repeat a claim that an Indian horticulture agency picked the date in 1987, yet not one of them links to a notification, a press statement, or anything the agency itself published. What actually happened in Delhi that year was a mango festival, a distinct event from any national-day announcement."
+      },
+      {
+        "question": "Is the 1987 founding story true?",
+        "answer": "There is no way to check it. The line gets copied from one calendar site to the next without a citation attached, and the aggregator with the most detailed timeline on the subject, National Today, ties 1987 specifically to Delhi's mango festival, run by that city's tourism office, rather than to a decision naming July 22."
+      },
+      {
+        "question": "Did the National Mango Board start National Mango Day?",
+        "answer": "No. Its origin is on the record and dated far later: a USDA marketing order effective November 3, 2004, following an industry vote to create it. Seventeen years separate that founding from 1987, when the date was reportedly already in use. The board simply built a promotional push around a date that predates it."
+      },
+      {
+        "question": "Which country grows the most mangoes?",
+        "answer": "India, and not by a small amount. A 2023 parliamentary statement put the country's share of world output, combining mangoes with guavas and mangosteens, at nearly 44 percent, and the fruit is commonly described as the country's national symbol among fruits."
+      },
+      {
+        "question": "Is National Mango Day a federal holiday?",
+        "answer": "No, it carries no legal weight anywhere. Businesses, government agencies, and mail carriers in the U.S. and India both operate on an unchanged, ordinary July 22."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Mango Board (mango.org) — Celebrating National Mango Day",
+        "url": "https://www.mango.org/blog/celebrating-national-mango-day/"
+      },
+      {
+        "label": "National Mango Board — Nutrition Info for 3/4 Cup Mango Pieces (USDA National Nutrient Database, Release 28)",
+        "url": "https://www.mango.org/wp-content/uploads/2019/11/0.75-Cup-Mango_New-Nutrition-Facts-Label_New-DVs.pdf"
+      },
+      {
+        "label": "National Mango Board — NMB History Timeline (77% referendum support figure)",
+        "url": "https://www.mango.org/about-the-nmb/nmb-history-timeline/"
+      },
+      {
+        "label": "AndNowUKnow — National Mango Board Celebrates National Mango Month; Manuel Michel Comments (June 2, 2021)",
+        "url": "https://www.andnowuknow.com/quick-dish/national-mango-board-celebrates-national-mango-month-Manuel-Michel/lilian-diep/73722"
+      },
+      {
+        "label": "USDA Agricultural Marketing Service — Mango Promotion, Research and Information Order, Federal Register History",
+        "url": "https://www.ams.usda.gov/rules-regulations/research-promotion/mango/federal-register-history"
+      },
+      {
+        "label": "eCFR — 7 CFR Part 1206, Mango Promotion, Research, and Information",
+        "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-XI/part-1206"
+      },
+      {
+        "label": "National Today — Mango Day (history timeline)",
+        "url": "https://nationaltoday.com/mango-day/"
+      },
+      {
+        "label": "Wikipedia — International Mango Festival",
+        "url": "https://en.wikipedia.org/wiki/International_Mango_Festival"
+      },
+      {
+        "label": "Wikipedia — National Horticulture Board",
+        "url": "https://en.wikipedia.org/wiki/National_Horticulture_Board"
+      },
+      {
+        "label": "News on AIR (All India Radio) — Government Says Production of Mango in Country Has Increased by 12.7 Percent Over Last 10 Years (Aug. 1, 2023)",
+        "url": "https://newsonair.gov.in/government-says-production-of-mango-in-country-has-increased-by-12-7-percent-over-last-10-years/"
+      }
+    ],
+    "image": "/images/national-mango-day.jpg",
+    "imageAlt": "A ripe mango, whole and unpeeled, photographed in India",
+    "imageCredit": "Photo by [Dinesh Valke](https://www.flickr.com/people/91314344@N00), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mango_(433686277).jpg), CC BY-SA 2.0"
   }
 ];

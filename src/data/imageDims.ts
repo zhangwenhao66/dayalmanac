@@ -287,6 +287,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 320,
   "w": 1160
  },
+ "/images/national-mango-day.jpg": {
+  "h": 675,
+  "w": 900
+ },
  "/images/national-nachos-day.jpg": {
   "h": 1200,
   "w": 1600

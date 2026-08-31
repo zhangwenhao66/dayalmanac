@@ -301,3 +301,40 @@ https://dayalmanac.com/national-guacamole-day/
 **Independent review verdict:** Candidate 1 — CAN SEND (all four checks clear; cgspeake@gmail.com confirmed as the real site owner via the site's own copyright footer). Candidate 2 — flagged PROBLEM (webteam@ifas.ufl.edu is a generic platform-wide alias, not routed to the specific county office); re-addressed to indian@ifas.ufl.edu (verified live) per the review's recommendation, no other content changes needed.
 
 **Status: SENT 2026-08-29** via `gmail_send.py send --from dayalmanac`. Candidate 1 → cgspeake@gmail.com, Message ID `1a04c0e8ed6243d7`. Candidate 2 → indian@ifas.ufl.edu, Message ID `1a04c0ea06855e07`.
+
+---
+
+## 2026-08-31 — Broken-link pitch (National Adoption Day, adoptmidtn.com)
+
+Per `trafficsite-broken-link-building`'s produce-capacity rule (DayAlmanac ranked #1 by 11-30-position impressions this run, 627 impressions). Found via `独立站/research-db/dataforseo_query.py backlinks kids-alliance.org` (1,625 backlinks, 1,114 flagged as broken by the tool's own count) after checkiday.com's own Sources sections (12 published-topic pages scanned via `独立站/tools/broken_link_scan.py`) turned up mostly checkiday's own social-profile links plus a handful of dead citations with no independent third-party citer or no topic match — see log for the full elimination trail.
+
+### Target
+
+**adoptmidtn.com** (Adoption Law Center of Middle Tennessee), post "What Is National Adoption Day?" (adoptmidtn.com/2017/11/17/what-is-national-adoption-day/, by Jennifer Hall, dateModified 2023-07-24; site overall active, sitemap lastmod Feb 2026). The post lists four National Adoption Day sponsor organizations with links; one, "Alliance for Children's Rights" → kids-alliance.org, is dead. Confirmed: HTTP returns a clean 404 (Flywheel hosting placeholder, "Unknown Domain"), HTTPS fails TLS entirely (cert is for app.getflywheel.com, not kids-alliance.org). The other three sponsor links (Dave Thomas Foundation, CCAI, Children's Action Network) are all live. The org has since rebranded to allianceforchildrensrights.org, which explains the abandoned domain.
+
+**Replacement:** dayalmanac.com/national-adoption-day/ (published 2026-08-26), which covers the Alliance for Children's Rights as one of the five 2000-era founding coalition partners of National Adoption Day, plus two honest fact-check points not in the target post: the "110,000 children waiting" figure the post cites is stale against the federal AFCARS FY2024 count (70,421), and there's a live 2026 date discrepancy (organizers say November 21, National Day Calendar/National Today say November 22 — a Sunday, not the Saturday the event has run on for 26 years).
+
+**Contact:** info@adoptmidtn.com — the firm's one general listed contact address (used site-wide for consultation requests), not a legal/privacy/GDPR/ads-scoped inbox.
+
+**Subject:** Broken link on your National Adoption Day post
+
+**Body:**
+
+Hi,
+
+I came across your post "What Is National Adoption Day?" and noticed one of the four sponsor links, the Alliance for Children's Rights one, no longer works. kids-alliance.org now returns a 404 over plain HTTP and doesn't even have a valid SSL certificate for the domain, so the link's been broken a while. The other three sponsor links (Dave Thomas Foundation, CCAI, Children's Action Network) still work fine.
+
+If it's useful, we put together a page on National Adoption Day that catches two things your post doesn't mention. The "110,000 children waiting" figure is stale; the most recent federal count (AFCARS, FY2024) puts it at 70,421. And there's a live date conflict for 2026: the organizers list November 21, but National Day Calendar and National Today both currently show November 22, which is a Sunday, not the Saturday the event has run on for 26 years straight. https://dayalmanac.com/national-adoption-day/
+
+No worries either way, just didn't want the sponsor list pointing somewhere dead.
+
+Best,
+Owen
+DayAlmanac
+contact@dayalmanac.com
+
+**Checks done:** Passed Skill(humanizer) (no em/en dashes, no curly quotes, no AI vocabulary). Skill(avoid-ai-writing) flagged one vague-endorsement phrase ("something worth knowing") in an earlier draft, rewritten to a concrete "catches two things your post doesn't mention." Dedup: `gmail_send.py list --query "to:adoptmidtn.com OR from:adoptmidtn.com OR adoptmidtn"` → empty; `grep -ril "adoptmidtn" 独立站/` → no prior contact (only an unrelated DataForSEO cache file mentioning it).
+
+**Independent review verdict: SEND.** Fresh-context agent independently re-verified all six checks: dead link confirmed (404 + TLS cert mismatch, not a timeout/WAF), replacement topic match confirmed with no fabricated facts (AFCARS figure and 2026 weekday math both checked out independently), info@adoptmidtn.com judged a general small-firm contact address not a scoped legal/privacy/ads inbox, dedup clean, tone clean of AI tells, site confirmed actively maintained (not parked).
+
+**Status: SENT 2026-08-31** via `gmail_send.py send --from dayalmanac --to info@adoptmidtn.com`, Message ID `1a058092399d4114`.

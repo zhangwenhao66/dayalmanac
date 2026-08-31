@@ -293,3 +293,43 @@ TheHomeSchoolMom（thehomeschoolmom.com，运营方Kelley Media, Ltd.）网站�
 
 1. 08-26 TheHomeSchoolMom法务邮箱违规发送问题已在`独立站/待Owen处理事项.md`跟踪，非本任务需处理项，此处仅存档提醒。
 2. 两条pitch共享同一份"死链证据+替换文章"素材，措辞结构存在一定相似性（独立复核已指出，判定"收件人互不相关、非重复发送风险，仅是修辞骨架的合理复用"），未来如果同一死域名还能找到第三个独立机会，应刻意换一种邮件结构避免累积成模板化风险。
+
+---
+
+## 2026-08-31（第八次运行）— trafficsite-broken-link-building「外链产能集中规则」本轮命中DayAlmanac（11-30位曝光627，矩阵第一名）
+
+### 第一部分：核实旧pitch——本轮无满足条件的记录
+
+逐条核对08-09(icalendars.net，8/21已验证not_replaced+已跟进)、08-26(TheHomeSchoolMom，5天)、08-28(nathab.com/nationalband.com，3天)，均未满10-14天窗口，checkiday.com（8/21 Owen人工提交）14天冷却期至9/4未到，本轮跳过第0步。
+
+### 第二部分：候选来源与排查过程
+
+**候选资源页收集**：延续历次"checkiday.com Sources区块"命中模式，本轮针对本站12个已发布未查过的具体节日/纪念日主题（taco/mango/burrito/nachos/quesadilla/pepperoni-pizza/adoption-day/apple-month/world-smile-day/world-mental-health-day/emergency-responders-day/galentines-day）逐一在checkiday.com上定位对应页面URL，另加10个教师/图书馆节日资源合集页（weareteachers.com、childhood101.com两篇、ssww.com两篇、teachervision.com、littleowlsresources.com）和3个11周年结婚纪念礼物清单页（allgiftsconsidered.com、myweddinganniversary.com、werenotonabreak.com），共22个候选URL，跑`独立站/tools/broken_link_scan.py`批量扫描。
+
+**扫描结果**：checkiday.com各页面出站链接里，绝大多数DEAD是checkiday自己的社交主页链接（`assistant.google.com`、`bsky.app/profile/checkiday.bsky.social`等，无内容价值，且checkiday本身在冷却期无法联系）；真正有内容价值的DEAD包括`worldnationaldays.com/national-emergency-responders-day/`（干净404，但该holiday是9/11纪念性质，跟本站`national-first-responders-day`文章的10/28节日是两个不同节日，主题错配，放弃）、`elcholo.com/location/los-angeles`（301→301→404确认真死，本站`national-burrito-day`和`national-nachos-day`文章确实提到El Cholo餐厅，但除checkiday外找不到其他第三方站引用这同一条URL，放弃）、`kids-alliance.org`（checkiday的national-adoption-day页面上的Sources链接，同样只在checkiday上出现——但这条最终通过另一渠道找到了独立机会，见下）、世界微笑日老版Joomla路径3条（`worldsmileday.com/index.php/...`，同样只在checkiday出现，搜索未找到其他引用者，放弃）。教师/图书馆资源页和纪念品清单页的DEAD全部是broken affiliate/product链接（shareasale/Etsy/Amazon短链），不是编辑引用性质，跟"死链置换"逻辑不匹配，全部放弃。
+
+**关键突破——改用DataForSEO反查死域名的真实外链**：`kids-alliance.org`本站文章`national-adoption-day`明确提到该组织是National Adoption Day五个创始联盟机构之一，值得深挖。改用`独立站/research-db/dataforseo_query.py domain kids-alliance.org`查外链概览，发现该域名有1,625条外链、508个引荐域名，且工具自报**1,114条为失效外链**（域名已废弃，机构已更名为allianceforchildrensrights.org）。再用`dataforseo_query.py backlinks kids-alliance.org --limit 50 --mode one_per_domain`拉明细并读原始JSON找到完整引荐页URL（而非仅域名），逐一核对主题匹配后锁定**adoptmidtn.com/2017/11/17/what-is-national-adoption-day/**——一篇专门讲"什么是National Adoption Day"的文章，列出四个赞助机构链接，其中Alliance for Children's Rights一条链接到kids-alliance.org。
+
+### 发现的真实失效链接 + 主题匹配
+
+**https://kids-alliance.org/**（及`http://kids-alliance.org/`）→ HTTP层面确认真死：HTTP返回干净404（Flywheel托管的"Unknown Domain"占位页），HTTPS证书完全不匹配（证书签发给`app.getflywheel.com`，TLS握手直接失败），比单纯404证据强度更高（同08-09 grandparents.com、08-16 nationalcatday.com同级）。该组织已更名为allianceforchildrensrights.org（现存活200），旧域名被弃用未续费托管，解释了失效原因。
+
+**主题匹配**：adoptmidtn.com文章列出的四个赞助机构（Dave Thomas Foundation、CCAI、Alliance for Children's Rights、Children's Action Network）中，前三个链接实测全部200存活，唯独Alliance for Children's Rights一条死链。本站`national-adoption-day`文章（2026-08-26发布）逐条核实确实覆盖该机构作为2000年五个创始联盟机构之一的角色，且额外提供文章本身没有的两个诚实纠错点：文章引用的"110,000名等待收养儿童"数字已过时（联邦AFCARS FY2024最新数据为70,421），以及2026年日期存在冲突（主办方定11月21日，National Day Calendar/National Today误标11月22日实为周日）。
+
+### 处理结果
+
+**独立复核agent**（全新会话，仅给背景不给我的结论）逐项独立核实：(1)死链证据独立复现（HTTP 404+TLS证书不匹配，非超时/WAF）；(2)替换页面主题匹配+两个具体数字（AFCARS 70,421、2026年11/21为周六/11/22为周日）独立核实无编造；(3)收件邮箱`info@adoptmidtn.com`独立判定为该小型律所网站全站唯一通用联系地址（用于预约咨询），非法务/隐私/广告专用邮箱；(4)`gmail_send.py list`+全矩阵grep查重均为空；(5)语气独立核实干净，无AI写作痕迹，未夸大DayAlmanac替换内容与原死链的对等性；(6)网站活跃度确认（sitemap最近更新2026年2月，非停运域名）。**VERDICT: SEND。**
+
+**已发送** 2026-08-31，via `gmail_send.py send --from dayalmanac --to info@adoptmidtn.com`，Message ID `1a058092399d4114`。
+
+### 排除的误报
+
+同历史纪律：403(WAF)、超时、5xx一律不计为DEAD。本轮新增确认：`http://elcholo.com/location/los-angeles`经301→301跳转后落地页返回干净HTTP 404（LiteSpeed服务器，非WAF拦截页），判定真实失效，但因找不到checkiday以外的独立引用者而未采用，仅记录方法论供下次参考。
+
+### 遗留待办
+
+1. **worldnationaldays.com/national-emergency-responders-day/**已确认真实404，但主题与本站`national-first-responders-day`（10/28，联邦无成文法）不匹配——checkiday的"National Emergency Responders Day"是9/11纪念性质，是两个不同节日。如果本站将来发布9/11相关观察日文章，可回头复用这条死链证据（需重新核实时效性）。
+2. **kids-alliance.org的DataForSEO外链反查方法论**本轮首次验证有效——比"逐个WebSearch找引用者"效率高得多，直接从死域名的历史外链明细里筛主题匹配的真实引荐页。下次遇到"checkiday/icalendars.net等聚合站上的死链只有聚合站自己引用、找不到独立第三方"的僵局时，优先对死域名本身跑`dataforseo_query.py domain`+`backlinks`反查，而不是继续用WebSearch逐个关键词试错。
+3. checkiday.com上其余11个已发布节日主题页面（taco/mango/burrito/nachos/quesadilla/pepperoni-pizza/apple-month/world-smile-day/world-mental-health-day/galentines-day）本轮已扫描但除emergency-responders-day外均无内容相关DEAD，14天冷却期内不必重扫；冷却期后（9/4起）如果checkiday本身要联系，可优先处理world-smile-day页面的3条Joomla旧路径死链（若届时能找到独立引用者）。
+
+**累计口径**：DayAlmanac断链置换战术累计已发送6封pitch（icalendars.net 08-09、checkiday.com 08-21由Owen人工提交、TheHomeSchoolMom 08-26、nathab.com与nationalband.com 08-28、adoptmidtn.com 08-31），已验证not_replaced 1条（icalendars.net）、verified_live_backlink_confirmed 0条（其余5条尚在10-14天验证窗口内或冷却期中，暂未到复核节点），转化率0/6（样本量小，多数pitch距发送不足14天，尚不能判定最终转化）。

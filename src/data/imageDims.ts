@@ -179,6 +179,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1066,
   "w": 1600
  },
+ "/images/libra-birthstone-opal-coober-pedy.jpg": {
+  "h": 528,
+  "w": 1190
+ },
  "/images/lung-cancer-awareness-month-timeline.svg": {
   "h": 400,
   "w": 1200

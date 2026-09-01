@@ -10805,5 +10805,118 @@ export const guides: Guide[] = [
     "image": "/images/national-apple-day.jpg",
     "imageAlt": "Rows of apple trees heavy with red fruit in an orchard, with wooden harvest crates set between the rows",
     "imageCredit": "Photo by [Bob Embleton](https://www.geograph.org.uk/profile/125), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Orchards_ready_for_the_Harvest._-_geograph.org.uk_-_56410.jpg), CC BY-SA 2.0"
+  },
+  {
+    "slug": "libra-birthstone",
+    "category": "Birthstones",
+    "title": "Libra Birthstone: Sapphire and Opal, Not 1913's Chrysolite",
+    "description": "Sapphire and opal get marketed as Libra birthstones, borrowed from September and October lists. The 1913 zodiac table names a stone too archaic to pin down.",
+    "published": "2026-09-01",
+    "updated": "2026-09-01",
+    "coreSummary": "Sapphire and opal are the two stones marketed as \"Libra's birthstones,\" borrowed from Jewelers of America's September and October lists because Libra's date range straddles both months. Gemologist George Frederick Kunz's 1913 zodiac-stone table assigns Libra a different stone: chrysolite, a name so archaic that Wikipedia's reproduction of that table links it to a disambiguation page rather than to one mineral article, the only sign in the whole table treated that way.",
+    "sections": [
+      {
+        "heading": "Two calendar months' birthstones, relabeled for one zodiac sign",
+        "body": [
+          "Jewelers of America's current chart names exactly one official stone for September, sapphire, and two for October, opal and tourmaline. Libra's date range runs September 23 to October 22, a 30-day span with 8 days in September and the remaining 22 in October, so jewelry retailers marketing \"Libra birthstones\" borrow from both calendar lists instead of drawing on any dedicated zodiac tradition: opal, the majority-month stone, usually gets billed as primary, with sapphire as a secondary stone for Libras born in the season's first week.",
+          "Two details from DayAlmanac's own coverage of those calendar months are worth carrying over here rather than re-explaining in full. [The September page](/september-birthstone/) covers why sapphire isn't only blue, but any color of corundum except red, with red corundum classified separately as ruby. [The October page](/october-birthstone/) covers why opal's reputation as an unlucky stone doesn't trace to old folklore at all: it comes from a single 1829 novel, Sir Walter Scott's Anne of Geierstein, after which, per the American Gem Society, European opal sales fell by half within a year."
+        ]
+      },
+      {
+        "heading": "Sapphire's older reputation: a sky myth, not a jewelry brand",
+        "body": [
+          "Long before any 1912 trade meeting standardized September's birthstone, sapphire already carried a reputation built on cosmology, not commerce. Ancient Persians believed the entire earth rested on a giant sapphire, and that the stone's color was the reason the sky itself appeared blue, according to GIA's account of the stone's history and lore. Ancient Greeks and Romans wore sapphire believing it protected them from harm and envy, and clerics of the Middle Ages wore it, per GIA, because it symbolized Heaven.",
+          "Medieval Europeans went further, crediting the stone with direct healing powers: sapphire was thought to cure plague boils and diseases of the eye, and to work as an antidote to poison. None of that folklore was tied to September specifically; the stone had no calendar-month assignment until the trade-list era began in 1912. The name itself predates all of it, tracing to the Greek sappheiros, and sapphire's ranking second only to diamond in hardness on the Mohs scale is one of the few claims about the stone that ancient believers and modern gemologists both happen to agree on, for entirely different reasons."
+        ]
+      },
+      {
+        "heading": "Opal: built from water and glass spheres, not just a myth about a novel",
+        "body": [
+          "Opal isn't a mineral in the way sapphire is. GIA classifies it as hydrated silica, chemical formula SiO2 with water bound into its structure, and a single stone can hold up to 20 percent water by content. It forms when silica-rich gel fills crevices in surrounding rock; as that water gradually evaporates, the silica deposits itself in tiny spheres, some as small as 0.2 microns across, on the order of a thousandth the width of a human hair.",
+          "Those spheres, not any pigment, are what produce opal's signature play-of-color. GIA describes the mechanism as diffraction: the silica spheres stack inside the stone the way ping-pong balls stack in a box, and where they're uniform in size and packed in an orderly grid, light bends around them and splits into flashes of spectral color as the stone is turned. Grids of spheres near that 0.2-micron size specifically produce red flashes; other sphere sizes produce other colors, which is why individual opals show such different color ranges. No two stones, per GIA, are assembled quite the same way."
+        ],
+        "image": {
+          "src": "/images/libra-birthstone-opal-coober-pedy.jpg",
+          "alt": "A rough opal specimen from Coober Pedy, South Australia, held between two fingers and showing bands of green, blue, red, and violet play-of-color against its pale matrix",
+          "credit": "Photo by Dpulitzer, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coober_Pedy_Opal.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "What the 1913 zodiac table actually says, and why even Wikipedia won't commit to one gem",
+        "body": [
+          "None of the above comes from a dedicated zodiac-stone tradition. The documented historical table pairing each sign with one stone traces to gemologist George Frederick Kunz's 1913 research, published as The Curious Lore of Precious Stones, and Wikipedia's Birthstone article reproduces it directly. For Libra, spanning September 23 to October 22, that table names a single stone: chrysolite. This site's coverage of September already ran into two of that same table's other entries: Kunz assigns sapphire to Taurus, not Virgo or Libra, and gives Virgo carnelian instead, so the documented zodiac tradition and the modern month-list overlap don't share a single stone across this stretch of the calendar.",
+          "Chrysolite is where Kunz's table gets unusually messy, and it shows up in Wikipedia's markup, not just its prose. Every other sign in the table links to one specific mineral article: Bloodstone for Aries, Sapphire for Taurus, Agate for Gemini, and on through Pisces' Amethyst. Libra is the single exception. Its entry links instead to a disambiguation page, Wikipedia's own acknowledgment that the word doesn't resolve to one gem.",
+          "The 1911 Encyclopædia Britannica, published two years before Kunz's book, explains why. Chrysolite means \"golden stone\" in Greek, and the name was historically applied to whatever yellowish gem a given writer had in mind, including topaz, several varieties of beryl, and chrysoberyl. The encyclopedia calls the \"true chrysolite of the modern mineralogist\" a magnesium silicate belonging to the species olivine, and recommends the name specifically for the lighter, yellow-leaning stones in that species, reserving \"peridot\" for the darker green ones, a distinction almost nobody keeps today. Modern references, Britannica's current entry included, now treat chrysolite mostly as an old name for peridot.",
+          "Read that way, Kunz's table would assign Libra a stone that belongs to neither of the two calendar months retailers already draw from for \"Libra birthstones.\" Peridot is one of Jewelers of America's two current stones for August, alongside spinel, a month with no overlap in Libra's date range at all. Between the two-month retail mashup and the archaic zodiac table, there is no single documented or marketed answer to what Libra's birthstone actually is."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Libra's birthstone?",
+        "answer": "Retailers most often market opal, October's official birthstone, as Libra's main stone, with sapphire, September's stone, treated as a backup for anyone born in Libra's opening week. Both are simply the picks that one same trade association makes for those overlapping months, not a stone chosen for the zodiac sign itself."
+      },
+      {
+        "question": "Why does Libra have two birthstones instead of one?",
+        "answer": "Because its date range crosses a calendar-month boundary: 8 of Libra's 30 days sit in September, whose birthstone is sapphire, and the other 22 sit in October, which lists two stones of its own, tourmaline alongside opal. Jewelry sellers draw from each month's chart instead of using one dedicated to the sign."
+      },
+      {
+        "question": "What does the actual 1913 zodiac-stone table say Libra's birthstone is?",
+        "answer": "Chrysolite. A 1913 table pairing every zodiac sign with one gem, compiled by gem expert George F. Kunz and still reproduced on Wikipedia today, names chrysolite for Libra instead of sapphire or opal."
+      },
+      {
+        "question": "What is chrysolite?",
+        "answer": "An archaic gemstone name derived from Greek words for \"gold\" and \"stone.\" Britannica's 1911 entry notes that writers applied it inconsistently to several yellow or yellow-green stones over the centuries, among them topaz, certain beryls, and chrysoberyl, not one fixed gem."
+      },
+      {
+        "question": "Is chrysolite the same as peridot?",
+        "answer": "That's the modern default reading; today's Britannica entry leans toward treating the word as outdated shorthand for peridot. But the Wikipedia table's Libra row points to a page listing several possible gems rather than a single Peridot article, the only row treated that way out of the twelve signs, which reads as Wikipedia's way of flagging that the word still doesn't settle on one gem."
+      },
+      {
+        "question": "Is opal durable enough for everyday jewelry?",
+        "answer": "Less so than most birthstones. Opal is hydrated silica that can hold as much as a fifth of its weight in trapped water, rates only 5 to 6.5 on the Mohs hardness scale, and can dry out or crack in very low humidity, which is why jewelers typically recommend it for earrings or pendants rather than rings worn daily."
+      },
+      {
+        "question": "What wedding anniversaries are associated with Libra's two birthstones?",
+        "answer": "Sapphire, September's stone, is associated with the 5th and 45th wedding anniversaries. Opal, October's stone, is associated with the 14th. Both traditions come from separate gemstone-anniversary lists, not the birth-month lists, and predate any zodiac connection."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jewelers of America — Birthstones",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
+      },
+      {
+        "label": "GIA — September Birthstones",
+        "url": "https://www.gia.edu/birthstones/september-birthstones"
+      },
+      {
+        "label": "GIA — Opal (Composition, Formation, and Play-of-Color)",
+        "url": "https://www.gia.edu/opal"
+      },
+      {
+        "label": "American Gem Society — The Folklore of Opal",
+        "url": "https://www.americangemsociety.org/the-folklore-of-opal/"
+      },
+      {
+        "label": "Wikipedia — Birthstone (Zodiacal, Tropical Zodiac Table)",
+        "url": "https://en.wikipedia.org/wiki/Birthstone#Zodiacal"
+      },
+      {
+        "label": "Wikipedia — Chrysolite (disambiguation)",
+        "url": "https://en.wikipedia.org/wiki/Chrysolite"
+      },
+      {
+        "label": "1911 Encyclopædia Britannica — Chrysolite (via Wikisource)",
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chrysolite"
+      },
+      {
+        "label": "Britannica — Chrysolite",
+        "url": "https://www.britannica.com/science/chrysolite"
+      }
+    ],
+    "image": "/images/libra-birthstone-opal-coober-pedy.jpg",
+    "imageAlt": "A rough opal specimen from Coober Pedy, South Australia, held between two fingers and showing bands of green, blue, red, and violet play-of-color against its pale matrix",
+    "imageCredit": "Photo by Dpulitzer, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coober_Pedy_Opal.jpg), CC BY-SA 3.0"
   }
 ];

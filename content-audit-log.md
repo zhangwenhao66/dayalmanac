@@ -1963,3 +1963,44 @@
   "备注": "本次审计新增了check_prose_patterns.py机械行文模式专项检查（此前该站审计日志未见此项，可能是首次将2026-08-30已毕业的L-0819-8/L-0819-9/L-0820-2三项硬检查系统性应用于回头审计）。三项检查中rather than与FAQ重合两项均出现'脚本阈值触发≠必须强行改写到0'的判例适用情形，已按既有判例（L-0820-2/L-0819-9最新条目）处理，未盲目追求零报警而损害内容准确性或引入新的不自然表达。'Growvember'品牌名观察项供下次审计（预计2027年前后本文再次轮到）复查是否已成为主要信源的正式名称变更。"
 }
 ```
+
+```json
+{
+  "url_slug": "breast-cancer-awareness-month",
+  "last_audited": "2026-09-01",
+  "published_date": "2026-08-10",
+  "escalation": null,
+  "选取说明": "首次被审计。content-audit-log.md已有21条记录，全部对应最近发布批次，其余51篇存量文章从未审计过；比对73篇guides.ts全量slug后，选定这51篇里published最早（2026-08-10）的本文。",
+  "专属核查重点": [
+    "ACS官方'1985年创立'声明 vs Pezzullo 2003年论文'1984年'说法+仅归功Zeneca的三方分歧账本是否逐字准确",
+    "1990-1994四次国会专项立法（SJR301/PL102-120/HJR11/PL103-367）编号、年份、法律效力是否准确，'1994年后无常设法律'断言是否属实",
+    "Zeneca 1989年员工筛查项目1996年成本分析（$400k/$1.5M/$1.1M）出处是否可信",
+    "National Metastatic Breast Cancer Awareness Day（10/13）S.Res.295/H.Res.787（2009年）简单决议 vs 联合决议/公法的法律效力区分是否准确",
+    "'pinkwashing'批评的具体史实依据（Toxic Links Coalition/NYT 2015 Dick's Sporting Goods报道）是否真实可核"
+  ],
+  "findings": [
+    {"dimension": "EEAT", "status": "未发现问题", "detail": "全文用三方分歧账本呈现founding年份争议（ACS官方1985 vs Pezzullo论文1984），并明确标注'哪个账本都未被证伪'，非泛泛而谈或单方定论。"},
+    {"dimension": "事实准确性", "status": "未发现问题（5组核心论断WebSearch核实）", "detail": "ACS 2025年四十周年新闻稿'co-led the effort'1985年措辞、Pezzullo 2003年QJS论文原文'Since 1984, October has been recognized'+仅归功Zeneca、S.Res.295/H.Res.787（2009年10/13简单决议）、Zeneca 1996年screening项目净节省$1.1M（独立PubMed研究交叉印证同一量级数字）、NYT 2015年10月Gina Kolata'pinkification'报道及Dick's Sporting Goods细节，全部WebSearch核实准确。"},
+    {"dimension": "时效性", "status": "未发现问题", "detail": "published/updated均2026-08-10，dateRule 2026-2031六年occurrence weekday用Python datetime独立复核全部吻合，下次occurrence（2026-10-01）尚未发生。"},
+    {"dimension": "竞品差异化", "status": "未发现问题", "detail": "WebSearch核实头部竞品（Wikipedia/Britannica/nationaltoday.com）均只提及1985年founding+简短pinkwashing批评，未涉及1984/1985两说分歧的具体文献依据、四次国会立法编号、或Metastatic Day法律效力区分，差异化真实。"},
+    {"dimension": "SEO技术审计", "status": "未发现问题", "detail": "check_seo_field_stats.py：title 65字符z=0.99、description 151字符z=-0.69，均正常范围；curl实测线上canonical自指、单一h1、6个h2无跳级、schema含FAQPage(6问)/Article/BreadcrumbList/Event×6。"},
+    {"dimension": "GEO审计", "status": "达标，未做结构性改动", "detail": "自评约91/99（已达标≥80）。"},
+    {"dimension": "早期内容AI味补漏", "status": "确认问题，已修复", "detail": "顺带发现正文（founding.text+sections）2处em-dash，与站内'正文0处em-dash'既有惯例不符，非本次核查重点但一并清理为逗号。"},
+    {"dimension": "外部引用链接腐烂", "status": "未发现问题（两处需说明的例外）", "detail": "10条sources链接curl实测：8条200；nytimes.com与doi.org（Taylor&Francis）返回403（付费墙/反爬特征，与本站既有'bot拦截非真实失效'判定标准一致），WebSearch分别核实两篇内容确与文中描述吻合，未采取行动。"},
+    {"dimension": "内链健康度", "status": "未发现问题", "detail": "grep确认anniversary-gifts-by-year/suicide-prevention-month/lung-cancer-awareness-month/world-teachers-day/ovarian-cancer-awareness-month/national-days-in-october共6篇文章正文已有手写锚文本入链；本文自身正文出链domestic-violence-awareness-month/red-ribbon-week/no-shave-november共3处，均curl实测200。非孤儿页。"},
+    {"dimension": "Schema数据一致性", "status": "未发现问题", "detail": "published字段本身已存在（2026-08-10），无需回填；线上json-ld Article.datePublished/dateModified均为2026-08-10T00:00:00+00:00，与guides.ts一致；FAQPage 7问与faq数组逐字一致。"},
+    {"dimension": "合规/敏感度漂移", "status": "未发现问题", "detail": "文章提及实体（ACS、AstraZeneca/Zeneca、Pezzullo、Breast Cancer Action、Toxic Links Coalition、NYT）均中性/学术引用，pinkwashing批评是文章主动呈现的历史争议而非渲染煽动，无新增现实争议。"},
+    {"dimension": "配图可用性与版权", "status": "未发现问题", "detail": "image字段指向真实JPEG（White House pink 2017, D. Myles Cullen），curl实测线上200；Wikimedia Commons File:White_House_illuminated_pink_in_2017.jpg页面curl实测200，WebSearch确认仍为Public Domain（官方白宫工作人员职务作品），许可状态未变化。timeline.svg自制配图同样200。"},
+    {"dimension": "AdSense政策合规风险", "status": "未发现问题", "detail": "正文无暴力/伤亡渲染式描写（乳腺癌相关内容为历史/立法记述而非医疗细节），无武器/毒品/赌博提及，标题非标题党。ads.txt线上200且正确指向pub-5245502795720653，/privacy/页面200可访问。"},
+    {"dimension": "机械散文四项检查", "status": "确认问题，部分已修复", "detail": "①\"X's own Y\"归因短语15次（阈值>2）——独立agent复核确认为真实机械写作问题，改写12处，保留FAQ内2处（复核确认为必要精确表达），修复后降至2次通过。②rather than/instead of共6-7次——独立agent复核确认非系统性问题（史实澄清类文章的必要区分表达），发现founding.text与sections对同一'两说并存'表述用近乎相同收尾句重复，已精简founding侧1处冗余；其余保留，脚本仍报警（6次，阈值>4），判定为可接受的非零退出码。③连字符0处叙事性命中，通过。④FAQ与正文7处≥20字符重合——独立agent复核确认为法律/日期类事实的必要精确重复（如决议编号措辞、pinkwashing定义），不构成问题，未改写，脚本仍报警。"}
+  ],
+  "actions_taken": [
+    "改写12处'X's own Y'归因短语措辞（分布于coreSummary/dateRule.caveat/founding.text/sections），保留FAQ内2处；精简founding.text 1处与sections重复的'rather than'收尾分句；清理正文2处em-dash为逗号",
+    "seo_drift.py baseline（编辑前）；npm run build 128页0报错；node --test 18/18通过；重跑check_prose_patterns.py确认\"'s own\"降至2次通过（rather than 6次与FAQ重合7次经复核判定为可接受不强行清零）",
+    "commit 47e767b（仅暂存src/data/guides.ts，未提交并发任务遗留的两个外链建设进度备份文件）并push；轮询3次确认线上breast-cancer-awareness-month已生效新措辞；seo_drift.py compare仅INFO级'HTML内容有变化'提示，无CRITICAL/WARNING意外回归；IndexNow提交（Bing 200/Yandex 200）；内容发布日志.md追加审计记录"
+  ],
+  "seo_score": "技术SEO全项通过，未发现需修复项（本次未改动title/description/canonical/heading/schema结构）",
+  "geo_score": "自评约91/99（已达标≥80），本次修复为措辞层面，不涉及GEO结构性薄弱维度，未重新完整打分",
+  "备注": "三个独立复核agent均在15-20分钟看门狗上限内正常完成，无卡死情形。'rather than'与'FAQ重合'两项延续既有判例（本文件上一条march-birthstone记录同类情形），脚本非零退出码为预期接受状态，不代表未处理。"
+}
+```

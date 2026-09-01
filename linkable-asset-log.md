@@ -70,3 +70,29 @@ WebSearch `"dayalmanac.com" -site:dayalmanac.com` → 无相关结果引用本�
 ### 分发计数
 
 本站累计已邀请/投放目标数：2/10（本次新增2个，此前0个）。距离"分发饱和"（≥10个合格目标且全部有结果记录）门槛还差8个，下次运行如果本站仍在选站范围内应继续补齐。
+
+---
+
+## 2026-09-01（第0步选站：11-30位曝光量重排，见下方说明）
+
+**第0步（选站）**：现算全矩阵10站近28天11-30位曝光量：dialwick(766)/**dayalmanac(627)**/wagelark(596)/umberlore(344)/mythcairn(118)/factcrumbs(114)/lingogrove(114)/warcrumbs(41)/hollowvane(10)/calcbadger(2)。排除三个压制中站（CalcBadger 8/18起、DialWick 8/22起、LingoGrove 8/24起，均在观察期内，`流量站矩阵风险应对追踪.md`确认尚未复查解除）。剩余排序：**DayAlmanac(627) > WageLark(596) > UmberLore(344)**，与8/29上次运行一致，本站继续入选。
+
+**执行顺序：分发优先于新产**。本站唯一已发布资产（倒计时组件）分发计数2/10，远未饱和，本次继续执行分发，不制作新资产。
+
+### 第2步（未加链接提及回收）
+
+WebSearch `"dayalmanac.com" -site:dayalmanac.com` — 无结果引用本站。本轮无回收机会。
+
+### 第3步（新目标定向邀请）
+
+本轮尝试为倒计时组件寻找新的embed邀请目标（National Taco Day / National Grandparents Day / National Dog Day 等已收录观察日相关博客），排查了dwsjewellery.com（内容与站点主题弱相关，判定不适合）、biteeatrepeat.com（活跃真实博客但仅有评论区无公开邮箱）、grannymaze.com（仅联系表单无可见邮箱）、teacherideafactory.com（403拒绝抓取）、clickvieweducation.com（页面无邮箱，大型edtech公司不太可能个人化回应）、impactful.ninja（仅联系表单）、senior living类站点storypoint.com/cascadeliving.com（均无可见邮箱或403）。National Day Calendar（nationaldaycalendar.com）虽有明确media inquiries邮箱，但属于同类目直接竞品，不是合适的embed邀请对象。
+
+本轮未找到可核实、可直接联系（真实邮箱而非纯表单）且主题匹配的新目标。诚实记录为"本轮未推进"，不强行用表单提交凑数（表单提交无法保证阅读、也不符合本任务"个性化冷邮件"的定位）。
+
+### 第3.5步（发现平台投放）
+
+未重新评估——8/29的评估结论（无单一可展示页面，Reddit/HN均不适用）未变，本轮无新信息触发重新评估。
+
+### 分发计数
+
+本站累计已邀请/投放目标数：2/10（本轮新增0个）。仍未饱和，下次运行应继续尝试寻找可核实邮箱的新目标。

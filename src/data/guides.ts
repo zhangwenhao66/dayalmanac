@@ -1662,7 +1662,7 @@ export const guides: Guide[] = [
     "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23–September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
-    "updated": "2026-08-05",
+    "updated": "2026-09-01",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year. Vedic sidereal astrology, built on a different reference point, puts Virgo roughly a month later, around September 17 to October 16. The actual astronomical constellation the sign borrows its name from holds the Sun longer still, from about September 16 to October 30. All three ranges are correctly stated by their own rules; there is no single authority whose ruling overrides the other two.",
     "sections": [
       {
@@ -1743,6 +1743,10 @@ export const guides: Guide[] = [
       {
         "question": "Who decided Virgo's dates? Is there an official governing body?",
         "answer": "No single body. The twelve equal-sign system originated with Babylonian astronomers by around the 5th century BCE, was adopted by Greek astronomers soon after, and was cemented in its tropical form by Ptolemy's Tetrabiblos in the 2nd century CE. It's the product of a centuries-long mathematical convention, not a ruling anyone made on a specific date."
+      },
+      {
+        "question": "What is the Virgo birthstone?",
+        "answer": "There's no single official answer. This site's [birthstones-by-month page](/birthstones-by-month/) documents the current monthly list: peridot for August, sapphire for September. The sign straddles both, with only 9 of its days falling in August against 22 in September. The trade group behind that monthly list has never published a separate zodiac-sign chart, so retailers filling the gap most often name sapphire as 'the' Virgo stone, with peridot, carnelian, and moss agate offered as alternates depending on the site."
       }
     ],
     "sources": [
@@ -1781,6 +1785,14 @@ export const guides: Guide[] = [
       {
         "label": "Farmers' Almanac — Virgo Zodiac Sign",
         "url": "https://www.farmersalmanac.com/virgo-zodiac-sign"
+      },
+      {
+        "label": "Jewelers of America — Birthstones",
+        "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
+      },
+      {
+        "label": "American Gem Society — Birthstones",
+        "url": "https://www.americangemsociety.org/birthstones/"
       }
     ],
     "image": "/images/virgo-dates-uranias-mirror.jpg",

@@ -361,5 +361,16 @@
       "https://dayalmanac.com/suicide-prevention-month/"
     ],
     "quota_used": "0 - skipped, all checked candidates already indexed"
+  },
+  {
+    "date": "2026-09-01",
+    "action": "skipped_no_quota_used",
+    "reason": "今日为轻量丰富virgo-dates（非新页面），URL Inspection确认已收录。Page indexing报告仅1个Crawled-currently-not-indexed候选october-birthstone，实测已收录（报告stale）；discovered-currently-not-indexed为0。队列最高价值候选suicide-prevention-month同样已收录。本站全站候选均已收录，本轮无可提交项，跳过不消耗配额。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/october-birthstone/",
+      "https://dayalmanac.com/suicide-prevention-month/"
+    ],
+    "quota_used": "0 - skipped, all checked candidates already indexed"
   }
 ]

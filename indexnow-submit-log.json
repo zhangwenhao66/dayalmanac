@@ -143,7 +143,9 @@
   "https://dayalmanac.com/breast-cancer-awareness-month/": {
     "submitted_date": "2026-08-10",
     "last_submitted_date": "2026-09-01",
-    "verified_status": "pending"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-09-02",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/diabetes-awareness-month/": {
     "submitted_date": "2026-08-10",
@@ -162,17 +164,23 @@
   "https://dayalmanac.com/birthstones-by-month/": {
     "submitted_date": "2026-08-11",
     "last_submitted_date": "2026-08-11",
-    "verified_status": "pending"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-09-02",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/international-mens-day/": {
     "submitted_date": "2026-08-11",
     "last_submitted_date": "2026-08-11",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-09-02",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/august-birth-flower/": {
     "submitted_date": "2026-08-11",
     "last_submitted_date": "2026-08-11",
-    "verified_status": "pending"
+    "verified_status": "stale_not_indexed",
+    "last_checked_date": "2026-09-02",
+    "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/september-birth-flower/": {
     "submitted_date": "2026-08-12",

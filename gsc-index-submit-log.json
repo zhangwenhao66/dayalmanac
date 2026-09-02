@@ -372,5 +372,19 @@
       "https://dayalmanac.com/suicide-prevention-month/"
     ],
     "quota_used": "0 - skipped, all checked candidates already indexed"
+  },
+  {
+    "date": "2026-09-02",
+    "action": "skipped",
+    "reason": "trafficsite-gsc-index-requests例行运行，游标停留位DayAlmanac，本站排第1位。今日新发布1991-chinese-zodiac已收录；Page indexing报告显示79/83页面已索引，剩余4个不可索引原因分别为noindex标签1个/404 1个/redirect 1个/crawled-currently-not-indexed 1个（UI未能定位到该条具体URL），队列最高价值候选suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day均已收录，无可提交项，跳过不消耗配额，游标越过本站前进。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/1991-chinese-zodiac/",
+      "https://dayalmanac.com/suicide-prevention-month/",
+      "https://dayalmanac.com/breast-cancer-awareness-month/",
+      "https://dayalmanac.com/world-mental-health-day/",
+      "https://dayalmanac.com/world-kindness-day/"
+    ],
+    "quota_used": "0 - skipped, all checked candidates already indexed"
   }
 ]

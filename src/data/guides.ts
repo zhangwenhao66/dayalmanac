@@ -10918,5 +10918,117 @@ export const guides: Guide[] = [
     "image": "/images/libra-birthstone-opal-coober-pedy.jpg",
     "imageAlt": "A rough opal specimen from Coober Pedy, South Australia, held between two fingers and showing bands of green, blue, red, and violet play-of-color against its pale matrix",
     "imageCredit": "Photo by Dpulitzer, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coober_Pedy_Opal.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "1991-chinese-zodiac",
+    "category": "Chinese Zodiac",
+    "title": "1991 Chinese Zodiac: Metal Goat, But Only After February 15",
+    "description": "1991 is the Year of the Metal Goat in the Chinese zodiac, but the lunar year didn't start until February 15. Anyone born earlier that year is a Metal Horse instead.",
+    "published": "2026-09-02",
+    "updated": "2026-09-02",
+    "coreSummary": "1991 is the Year of the Metal Goat, running from February 15, 1991 through February 3, 1992, per the Hong Kong Observatory's Gregorian-lunar conversion tables. Anyone born between January 1 and February 14, 1991, before that boundary, was actually born under the preceding zodiac year, Metal Horse, actress Emma Roberts among them; actor Jeremy Allen White, born two days after the cutoff, is a genuine Metal Goat.",
+    "sections": [
+      {
+        "heading": "The Metal Goat year starts February 15, not January 1",
+        "body": [
+          "A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1991 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1991, the government reference for converting between the two calendars, labels the relevant lunar year Xin-wei (辛未) and marks February 15, 1991 as the first day of its first lunar month, the actual start of the new year. Everyone born earlier that winter, January 1 through February 14, 1991, was born under the outgoing year instead, Geng-wu (庚午), Metal Horse; the equivalent table for 1990 puts that prior year's boundary at January 27.",
+          "The year doesn't close out on December 31 either. The following year's table shows the next lunar year, Ren-shen (壬申), Water Monkey, opening on February 4, 1992; the day just before that, February 3, closes out Xin-wei's twelfth and final lunar month. That puts the full Metal Goat window at February 15, 1991 through February 3, 1992, a span of 354 days. It's an ordinary lunar year with no leap month inserted, considerably shorter than the 384-day stretch covered on this calendar's [1987 Chinese Zodiac](/1987-chinese-zodiac/) page, where a repeated sixth lunar month drew that Fire Rabbit year out much longer."
+        ],
+        "image": {
+          "src": "/images/1991-chinese-zodiac-goat-figure.jpg",
+          "alt": "Earthenware funerary sculpture of a goat from a set of the twelve Chinese zodiac animals, Yuan dynasty",
+          "credit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), goat figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(2_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
+        }
+      },
+      {
+        "heading": "Emma Roberts and Jeremy Allen White were born a week apart, on opposite sides of the boundary",
+        "body": [
+          "A generic year-to-animal chart, the kind that maps a birth year straight onto a zodiac animal without checking where that particular year's lunar new year fell, assigns anyone born anywhere in calendar-year 1991 to the Goat. That's wrong for the year's first 45 days, and two working actors happen to fall on opposite sides of the boundary within a week of each other.",
+          "Emma Roberts, the actress known for Scream Queens and American Horror Story, arrived on February 10, 1991, per Wikipedia, five days ahead of the 1991 cutoff. That timing puts her on the earlier side of the calendar boundary, so her actual sign is the outgoing one, Geng-wu, Metal Horse, not the Metal Goat a plain birth-year lookup would suggest.",
+          "Jeremy Allen White, the actor known for The Bear and Shameless, arrived on February 17, 1991, also per Wikipedia, just two days past the same line, which makes him a straightforward Metal Goat with nothing to double-check. The two actors' real signs still share something despite landing on opposite sides of that line: 1990's Horse and 1991's Goat sit back to back in the ten-stem cycle, so both carry the same element, Metal, even though the animal differs."
+        ]
+      },
+      {
+        "heading": "Why Goat years are always Yin, never Yang",
+        "body": [
+          "Two independent counters combine to name a Chinese zodiac year in full, and they don't run in step. Twelve Earthly Branches supply the animal; ten Heavenly Stems supply the element, paired off two at a time, one Yang and one Yin, for each of the five elements before the cycle rolls to the next. Because twelve and ten share a factor of two, the branches split cleanly into two fixed groups that never cross: Zi, Yin, Chen, Wu, Shen, and Xu only ever draw a Yang stem, while Chou, Mao, Si, Wei, You, and Hai only ever draw a Yin one. Wei carries the Goat, which puts it permanently in the second group, so every Goat year on record, without exception, is Yin.",
+          "That groups the Goat with Mao, the [1987 Chinese Zodiac](/1987-chinese-zodiac/) page's Rabbit branch, and sets it apart from Chen and Xu, the branches behind the Dragon and Dog the [1988 Chinese Zodiac](/1988-chinese-zodiac/) and [1994 Chinese Zodiac](/1994-chinese-zodiac/) pages cover. Wikipedia's entries on the Earthly Branches and the sexagenary cycle lay out the identical six-and-six split across the full set of twelve. Within its own Yin group, a Goat year still rotates through five possible stems, Yi, Ding, Ji, Xin, Gui, each one the Yin half of a single element in turn: wood, fire, earth, metal, water. 1991 draws Xin off that list, so this is technically a Yin Metal Goat, though almanacs drop the \"Yin\" in practice since the polarity never varies for this animal."
+        ]
+      },
+      {
+        "heading": "1931 and 2051 bracket 1991 by exactly sixty years",
+        "body": [
+          "Chinese New Year doesn't sit on a fixed date the way December 25 does; it tracks the lunar calendar and can land anywhere from January 21 to February 20. Three consecutive turnovers show how much that window moves: 1990 opened on January 27, 1991 on February 15, and 1992 on February 4, a nineteen-day spread across just two years. That's exactly why a page like this one checks the Observatory's table year by year instead of assuming last year's date carries over.",
+          "The stem-branch pairing itself, Xin-wei, is rarer still. Ten stems and twelve branches only realign once every 60 years, so the previous Metal Goat year was 1931 and the next is 2051, a full sexagenary cycle in either direction. Every Goat year between those two carries a different element, stepping through the remaining Yin stems in sequence: Ji-wei, Earth, in 1979; Gui-wei, Water, in 2003; Yi-wei, Wood, in 2015; and Ding-wei, Fire, due in 2027, before the sequence circles back to Xin-wei, Metal, in 2051."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What Chinese zodiac sign is 1991?",
+        "answer": "The Metal Goat, starting February 15, 1991. That date opens Xin-wei, 1991's lunar year, according to Hong Kong's official calendar authority, and the year lasts until February 3 of the following year."
+      },
+      {
+        "question": "Was Emma Roberts really born in the Year of the Goat?",
+        "answer": "No. Her birthday, Feb. 10, 1991, sits five full days before Xin-wei begins, so she counts as Metal Horse (Geng-wu), the outgoing sign, instead."
+      },
+      {
+        "question": "What if I was born in January or early February 1991?",
+        "answer": "A birthday anywhere from New Year's Day up to and including February 14 lands in Metal Horse (Geng-wu), the sign carried over from 1990, rather than the Metal Goat. Only February 15 onward counts as Xin-wei."
+      },
+      {
+        "question": "Why is 1991 called the \"Metal\" Goat instead of just \"the Goat\"?",
+        "answer": "A second, five-element label rides alongside every zodiac animal. Xin, the stem attached to 1991, corresponds to metal; other Goat years draw another one of the five instead, giving 1979 an Earth Goat and 2015 a Wood Goat."
+      },
+      {
+        "question": "Are Goat years ever Yang instead of Yin?",
+        "answer": "No, never. The branch tied to the Goat, Wei, occupies an odd slot in the twelve-branch cycle, and odd slots pair only with stems of Yin polarity. Dog, Monkey, Horse, Dragon, Tiger, and Rat fill out the permanently Yang half of the animal roster instead."
+      },
+      {
+        "question": "When is the next Metal Goat year?",
+        "answer": "2051, sixty years on from 1991 and from 1931 before it. A given stem-branch combination such as Xin-wei only comes back around once all 60 stem-branch slots have cycled through."
+      },
+      {
+        "question": "Is Chinese New Year always in February?",
+        "answer": "No. The date can fall anywhere between January 21 and February 20, depending on how that year's moon-based calendar happens to line up. 1990's version started January 27, while 1992 waited until February 4, bracketing 1991's February 15 start on either side."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1991 (Xin-wei, year of the Goat)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1991e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1992e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1990 (Geng-wu, year of the Horse)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1990e.pdf"
+      },
+      {
+        "label": "Wikipedia — Emma Roberts",
+        "url": "https://en.wikipedia.org/wiki/Emma_Roberts"
+      },
+      {
+        "label": "Wikipedia — Jeremy Allen White",
+        "url": "https://en.wikipedia.org/wiki/Jeremy_Allen_White"
+      },
+      {
+        "label": "Wikipedia — Earthly Branches",
+        "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
+      },
+      {
+        "label": "Wikipedia — Heavenly Stems",
+        "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
+      },
+      {
+        "label": "Wikipedia — Sexagenary cycle",
+        "url": "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+      }
+    ],
+    "image": "/images/1991-chinese-zodiac-goat-figure.jpg",
+    "imageAlt": "Earthenware funerary sculpture of a goat from a set of the twelve Chinese zodiac animals, Yuan dynasty",
+    "imageCredit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), goat figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(2_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
   }
 ];

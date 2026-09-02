@@ -19,6 +19,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 600,
   "w": 900
  },
+ "/images/1991-chinese-zodiac-goat-figure.jpg": {
+  "h": 1400,
+  "w": 2100
+ },
  "/images/1994-chinese-zodiac-dog-figure.jpg": {
   "h": 624,
   "w": 462

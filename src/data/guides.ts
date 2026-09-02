@@ -8041,6 +8041,135 @@ export const guides: Guide[] = [
     "imageCredit": "Photo by David Weinberg, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexandrite_26.75cts.jpg), CC BY-SA 3.0"
   },
   {
+    "slug": "june-birthstone",
+    "category": "Birthstones",
+    "title": "June Birthstone: Pearl, Moonstone, and a 1952 Latecomer",
+    "description": "June ties December for the most official birthstones on Jewelers of America's list: pearl and moonstone from 1912, alexandrite added forty years later.",
+    "published": "2026-09-02",
+    "updated": "2026-09-02",
+    "coreSummary": "June is one of only two months, along with December, assigned three official birthstones on Jewelers of America's modern list: pearl and moonstone from the original 1912 standardization, and alexandrite added in a 1952 revision. The three have almost nothing in common structurally: pearl is the only birthstone grown inside a living creature, moonstone's glow comes from layered feldspar, and alexandrite is prized for changing color under different light.",
+    "sections": [
+      {
+        "heading": "June's three official birthstones",
+        "body": [
+          "Jewelers of America, the trade association that has maintained the US birthstone list since 1912, currently names three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own month-by-month breakdown of that list](/birthstones-by-month/), June ties only with December for the most stones assigned to any month; most months carry just one or two.",
+          "The three could hardly be less alike as physical objects. Pearl isn't cut from a crystal at all; it's secreted, layer by layer, inside a living mollusk. Moonstone is a feldspar whose glow comes from how light scatters through microscopically thin internal layers. Alexandrite is a variety of the mineral chrysoberyl valued specifically because it doesn't stay one color: it shifts hue depending on the light source it's viewed under. A shopper who assumes \"June birthstone\" points to one kind of gem, the way \"April birthstone\" points to diamond, is working from the wrong model entirely."
+        ]
+      },
+      {
+        "heading": "Pearl: the birthstone that grows, not one that's mined",
+        "body": [
+          "Every other stone in this monthly list is a mineral, pulled out of rock and then cut and polished. Pearl is not. The Gemological Institute of America classifies it as an organic gem, the single birthstone produced inside a living creature: a mollusk, usually an oyster, secretes a substance called nacre in concentric layers around an irritant trapped in its shell, and the pearl builds outward from there over months or years.",
+          "Natural pearls, formed without any human involvement, became scarce enough by the early 1900s that entire wild pearl-oyster beds had been fished out. Japanese entrepreneur Kokichi Mikimoto spent years experimenting with deliberately implanting a bead nucleus into akoya oysters to trigger that same process under controlled conditions on a farm, and patented his implantation method in January 1908. A separate pair of researchers, Tatsuhei Mise and Tokichi Nishikawa, patented a competing round-nucleation technique in 1907, and the two methods effectively merged into the process pearl farms still use; the first cultured round pearls reached the market in 1921. Cultured pearls now account for nearly all pearls sold, which is why a jeweler's first question about a strand is almost always whether it's natural or cultured, a distinction that matters far more than the oyster species involved.",
+          "Pearl's place in human ornament predates any of that industrial history by thousands of years. In 2017, archaeologists working a Neolithic site on Marawah Island, off Abu Dhabi, recovered a small natural pearl that radiocarbon dating placed at roughly 5800 to 5600 BCE, making it the oldest known pearl connected to human use anywhere in the world. The find, now known as the Abu Dhabi Pearl, was later displayed at Louvre Abu Dhabi as part of an exhibition on ten thousand years of luxury; it shows people were already collecting and likely wearing pearls millennia before anyone had a written birthstone list to put one on."
+        ]
+      },
+      {
+        "heading": "Moonstone: real adularescence, and a market flooded with a different mineral",
+        "body": [
+          "Moonstone belongs to the feldspar mineral group, and its signature effect, adularescence, comes from the way light scatters off alternating microscopic layers of two feldspar types grown together inside the same crystal. The result is a soft, billowy sheen that seems to float just beneath the surface and drift as the stone is turned, unlike the sharper flash of a faceted gem. Roman naturalist Pliny the Elder is credited with naming the stone, on the belief that its glow tracked the moon's phases; GIA notes gemology has since retired that idea, though the name outlasted it.",
+          "A large share of what's sold today as \"rainbow moonstone,\" though, isn't moonstone at all. GIA runs a consumer FAQ addressing exactly this confusion, and it states plainly that most rainbow moonstone in the trade tests as labradorite, a related but distinct plagioclase feldspar with a different optical effect called labradorescence: color flashes that are sharper and more directional than moonstone's soft white-to-blue billow. GIA is direct about the mismatch, while also noting the trade has broadly accepted the material as a gem in its own right under that name regardless. A buyer who wants the actual June birthstone is better off asking a jeweler to confirm adularescent orthoclase or oligoclase feldspar by name, not trusting \"rainbow moonstone\" on a label alone. Today's principal sources for genuine moonstone are India and Sri Lanka, with smaller deposits mined in Madagascar, Brazil, and Tanzania."
+        ],
+        "image": {
+          "src": "/images/june-birthstone-moonstone.jpg",
+          "alt": "Polished, translucent moonstone cabochons displayed in a jeweller's shop window",
+          "credit": "Photo by Adrian Pingstone, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moonstone.cabochons.arp.jpg), public domain"
+        }
+      },
+      {
+        "heading": "Alexandrite: chromium, a Russian find, and a Brazilian rush",
+        "body": [
+          "Alexandrite is a color-change variety of chrysoberyl: green to bluish-green under daylight or fluorescent light, shifting to red or purplish-red under incandescent light. The cause is chromium ions occupying some of the aluminum sites in the crystal's structure, which absorbs a narrow band of yellow light and leaves the two remaining color bands, green and red, to dominate depending on which wavelengths the light source is strongest in.",
+          "The first known deposit turned up in Russia's Ural Mountains in the 1830s, identified by Finnish mineralogist Nils Gustaf Nordenskiöld and named for the future Tsar Alexander II, reportedly because its red-and-green shift echoed Imperial Russia's military colors. That original Ural source is long since exhausted. The modern trade instead traces largely to a single event: in 1987, prospectors struck a major alexandrite deposit at the Hematita mine in Minas Gerais, Brazil, and roughly 3,000 independent miners, known locally as garimpeiros, descended on the site over a four-month rush that pulled an estimated 50 kilograms of rough gem material from the ground. With the Ural supply spent and Sri Lanka's deposits thinning through the 1980s, Brazil became the world's dominant alexandrite source for a period after Hematita, alongside smaller modern supply from Sri Lanka and East Africa, chiefly Tanzania.",
+          "Fine alexandrite with a strong, clean color shift remains one of the rarest colored stones in the trade; large, well-matched pieces routinely command higher per-carat prices than comparable sapphire, which is part of why most alexandrite jewelry sold at accessible prices uses stones under half a carat."
+        ],
+        "image": {
+          "src": "/images/june-birthstone-alexandrite-crystal.jpg",
+          "alt": "A rough, uncut alexandrite crystal specimen from Zimbabwe",
+          "credit": "Photo by Parent Géry, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexandrite_2(Zimbabwe).jpg), public domain"
+        }
+      },
+      {
+        "heading": "How the three-stone list came together",
+        "body": [
+          "Like every other month on the current US chart, June's pearl and moonstone go back to one meeting: the American National Retail Jewelers Association, now Jewelers of America, gathered in Kansas City in August 1912 and settled on a single twelve-month list, replacing the patchwork of regional folk birthstone traditions retailers had been working from until then. June left that meeting already holding two stones, unlike some other months that only picked up a second stone in a later revision.",
+          "Alexandrite followed forty years afterward, in a 1952 revision that also added zircon to December, citrine to November, and pink tourmaline to October. Trade histories disagree on exactly which body carried out that 1952 update: some accounts credit a predecessor of Jewelers of America directly, while others name a separate trade group, the Jewelry Industry Council of America. This piece did not find a primary document that settles which is correct, a gap that also turns up in [DayAlmanac's write-up on December's birthstone list](/december-birthstone/), covering a month revised in that same 1952 round.",
+          "No revision since 1952 has touched June's lineup. The list has moved for other months, most recently in 2016, when the American Gem Trade Association and Jewelers of America jointly added spinel to August, but June's three stones have stood unchanged for more than seventy years."
+        ]
+      },
+      {
+        "heading": "Choosing among June's three stones",
+        "body": [
+          "Hardness is the most practical difference between the three, and it matters more for June than for most other months because the gap here is unusually wide. Pearl sits at 2.5 to 4.5 on the Mohs scale, soft enough that it can be scratched by ordinary dust or a knock against a ring on the same hand; it suits a strand, pendant, or earrings kept away from daily abrasion far better than a ring worn every day. Moonstone runs 6 to 6.5, tougher than pearl but still soft enough to chip along its internal cleavage plane if struck hard. Alexandrite, as a variety of chrysoberyl, comes in at 8.5, hard enough for a ring meant to be worn without much thought about protecting it.",
+          "Price follows a similar spread, for different reasons. Fine natural alexandrite is scarce enough to command prices well above the other two; moonstone is comparatively abundant and inexpensive even in good quality; pearl's price depends heavily on type; a cultured akoya strand, a Tahitian black pearl, or a South Sea pearl can differ by an order of magnitude even though all three qualify as the same birthstone. None of that pricing logic has anything to do with the zodiac-stone claims that circulate separately online: [Gemini's popularly marketed birthstones are pearl and alexandrite](/gemini-birthstone/), borrowed from June's calendar overlap rather than from any dedicated zodiac-stone tradition, and the documented historical zodiac table actually assigns Gemini a different stone, agate, entirely. Pearl also shows up outside the birthstone calendar altogether: on the gemstone anniversary chart covered in [DayAlmanac's anniversary-gift breakdown](/anniversary-gifts-by-year/), pearl marks the third and thirtieth wedding anniversaries, and alexandrite marks the fifty-fifth, independent of anyone's birth month."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are June's three official birthstones?",
+        "answer": "Two go back to the trade list a US jewelers' group first standardized in 1912, moonstone and its better-known counterpart formed inside a mollusk; a color-shifting third stone, alexandrite, joined that lineup four decades afterward, in 1952."
+      },
+      {
+        "question": "Why does June have three birthstones instead of one?",
+        "answer": "The two oldest were assigned together in 1912, when a US trade group first agreed on a standardized month-by-month list. A later revision folded a third stone on top of that original pair without dropping either one."
+      },
+      {
+        "question": "Is pearl a mineral like June's other two birthstones?",
+        "answer": "No, and that puts it in a category by itself among June's three: GIA groups it with organic gems rather than minerals. A mollusk builds it up over time, coating an irritant lodged in its shell with layer upon layer of nacre."
+      },
+      {
+        "question": "Is \"rainbow moonstone\" real moonstone?",
+        "answer": "Usually not. GIA's consumer FAQ on the material says most stones sold under that name turn out to be labradorite once tested in a lab, a related feldspar whose color flashes read more pointed and localized than genuine adularescence. GIA notes the trade keeps using the name regardless."
+      },
+      {
+        "question": "What causes alexandrite's color change?",
+        "answer": "Inside the chrysoberyl crystal, chromium atoms take the place normally held by aluminum, and that substitution soaks up a narrow slice of yellow light, so green tones win out in daylight and red tones win out under warm, tungsten-filament bulbs."
+      },
+      {
+        "question": "Which of June's birthstones holds up best in an everyday ring?",
+        "answer": "Alexandrite, by a wide margin. At 8.5 on the Mohs hardness scale it resists scratching well enough for daily wear, compared with 6 to 6.5 for moonstone and just 2.5 to 4.5 for pearl, which is better suited to a strand or earrings than a ring worn constantly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GIA — June Birthstones: Pearl, Alexandrite, and Moonstone",
+        "url": "https://www.gia.edu/birthstones/june-birthstones"
+      },
+      {
+        "label": "GIA — Pearl",
+        "url": "https://www.gia.edu/pearl"
+      },
+      {
+        "label": "GIA — Is Rainbow Moonstone Really Moonstone?",
+        "url": "https://www.gia.edu/gia-faq-rainbow-moonstone-really-moonstone"
+      },
+      {
+        "label": "GIA — Alexandrite History and Lore",
+        "url": "https://www.gia.edu/alexandrite-history-lore"
+      },
+      {
+        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      },
+      {
+        "label": "Department of Culture and Tourism – Abu Dhabi — The Abu Dhabi Pearl, World's Oldest Known Natural Pearl",
+        "url": "https://dct.gov.ae/en/media.centre/news/abu.dhabi.pearl.the.worlds.oldest.known.natural.pearl.discovered.on.marawah.island..aspx"
+      },
+      {
+        "label": "Alexandrite.net — Brazilian Alexandrite Locality: Hematita, Minas Gerais",
+        "url": "https://www.alexandrite.net/localities/alexandrite-locality-brazil-minas-gerais-hematita.html"
+      }
+    ],
+    "image": "/images/june-birthstone-pearls.jpg",
+    "imageAlt": "Strands of natural white, round, and dyed-blue freshwater pearls threaded on silk",
+    "imageCredit": "Photo by W.carter, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Strands_of_freshwater_pearls_threaded_on_silk.jpg), CC BY 4.0"
+  },
+  {
     "slug": "1987-chinese-zodiac",
     "category": "Chinese Zodiac",
     "title": "1987 Chinese Zodiac: Fire Rabbit, But Only After January 29",

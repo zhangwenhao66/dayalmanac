@@ -3478,6 +3478,14 @@ export const guides: Guide[] = [
         ]
       },
       {
+        "heading": "November is where the confusion actually shows up at the register",
+        "body": [
+          "The chart disagreements above are mostly invisible to shoppers, since March and August's extra stones are the kind of detail only someone cross-checking three organizations' pages would notice. November works differently, according to Oliver Hobart, creative director at 925E, a wholesale silver jewelry supplier working with retailers in more than 100 countries. Topaz and citrine aren't a historical footnote there, they're two stones a customer can find side by side at retail, at very different price points, both under the same \"November birthstone\" label.",
+          "Topaz was November's original stone; the 1952 revision that added citrine did so specifically as a more affordable alternative, and the two have stayed on the chart together since. Topaz spans a wide color and price range, while citrine is a yellow-to-orange quartz that sits lower on the price scale. A shopper who asks two different retailers for \"the November birthstone\" can walk away with either one, and without context there's no way to tell whether the retailer selling topaz is charging a premium or the one selling citrine is cutting corners, when in practice neither is doing anything wrong. They're just drawing from different ends of the same official list.",
+          "Hobart's comparison: other months where trade lists disagree, like March or August covered above, tend to have one stone dominate retail while the alternative stays relatively obscure. November puts two commonly stocked, commonly marketed stones in front of the same customer at the same time, which is why it generates more real purchasing confusion than the organizational disagreements elsewhere on this chart. His advice to shoppers facing the choice: pick whichever stone actually appeals, since neither carries more official standing than the other."
+        ]
+      },
+      {
         "heading": "Why the charts don't converge",
         "body": [
           "There's no single body with the authority to force Jewelers of America, GIA, the American Gem Trade Association, the American Gem Society, and Britain's National Association of Goldsmiths onto one chart. Each maintains and revises its own list on its own schedule, the same way this calendar's own [observance pages](/national-cat-day/) keep finding multiple organizations each claiming to have started the same day. A shopper who checks two of these sites for March or August, or checks a US site against a UK one for September, isn't finding a mistake on either page; both are accurately reporting what their own organization currently says.",

@@ -386,5 +386,16 @@
       "https://dayalmanac.com/world-kindness-day/"
     ],
     "quota_used": "0 - skipped, all checked candidates already indexed"
+  },
+  {
+    "date": "2026-09-03",
+    "action": "skipped_no_candidates",
+    "reason": "今日新发布november-birthstone经URL Inspection确认已收录（Google对本站抓取速度快）。Page indexing报告仅1个Crawled-currently-not-indexed（october-birthstone），查询确认也已收录（报告数据滞后8/28）。Discovered-currently-not-indexed=0。无可提交候选，跳过不消耗配额。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/november-birthstone/",
+      "https://dayalmanac.com/october-birthstone/"
+    ],
+    "quota_used": "0 of shared account-wide daily quota"
   }
 ]

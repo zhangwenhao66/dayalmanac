@@ -1935,7 +1935,7 @@ export const guides: Guide[] = [
     "title": "September Birthstone: Sapphire, Unchanged Since 1912",
     "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912, though the UK trade list still adds a second stone, lapis lazuli.",
     "published": "2026-08-05",
-    "updated": "2026-08-22",
+    "updated": "2026-09-03",
     "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912. The three trade-group updates since then (1952, 2002, 2016) each touched a different month. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's own 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
     "sections": [
       {
@@ -1989,6 +1989,10 @@ export const guides: Guide[] = [
       {
         "question": "What is the official September birthstone?",
         "answer": "Sapphire, the only stone on Jewelers of America's current birthstone list for September, unchanged since the list was first adopted in 1912."
+      },
+      {
+        "question": "What is September's birth flower, alongside its birthstone?",
+        "answer": "Sapphire is the birthstone. The birth flowers are aster and morning glory, per the Old Farmer's Almanac list most modern trade sources draw from. Neither pairing traces to the same governing body: the birthstone list dates to a documented 1912 trade meeting, while the flower pairing comes from 19th-century floriography dictionaries that were never consolidated into one official standard. See [this calendar's September birth flower page](/september-birth-flower/) for how aster and morning glory got their names."
       },
       {
         "question": "Does the September birthstone have to be blue?",

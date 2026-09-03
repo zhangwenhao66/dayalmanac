@@ -70,3 +70,9 @@
 ## 2026-08-04：按上条建议跳过
 
 本站主题结构（非官方观察日大面积无对应维基条目 + 观察日内容易被视为营销）没有变化，跳过理由不受站龄影响，本次未做任何排查。若本站将来上线 O 层（awareness 月）或 deadline 日历内容，下次应重新纳入排查范围。
+
+---
+
+## 2026-09-03 复查：O层/deadline日历仍未上线，跳过理由维持
+
+实地检查`dayalmanac/src/data/guides.ts`当前76篇文章的category分布：Observances 45、Birth Flowers 13、Birthstones 10、Chinese Zodiac 4、Zodiac Dates 2、Anniversaries 2——仍是N层（法定/知名节日）与W层（生辰石/生肖/星座），O层（awareness月）和deadline日历尚未上线，08-04记录的"若上线O层/deadline日历需重新纳入排查"这个触发条件本次未达成，故继续跳过。

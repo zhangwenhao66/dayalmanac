@@ -11167,5 +11167,129 @@ export const guides: Guide[] = [
     "image": "/images/1991-chinese-zodiac-goat-figure.jpg",
     "imageAlt": "Earthenware funerary sculpture of a goat from a set of the twelve Chinese zodiac animals, Yuan dynasty",
     "imageCredit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), goat figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(2_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
+  },
+  {
+    "slug": "november-birthstone",
+    "category": "Birthstones",
+    "title": "November Birthstone: Topaz and Citrine, Forty Years Apart",
+    "description": "Topaz has stood for November since the 1912 trade list; citrine joined forty years later. Most sold under either name isn't quite what it looks like.",
+    "published": "2026-09-03",
+    "updated": "2026-09-03",
+    "coreSummary": "November carries two official birthstones, topaz and citrine, assigned forty years apart: topaz was part of the original 1912 US trade list, citrine followed in a 1952 revision. Neither stone is sold today the way its name suggests. Most \"blue topaz\" on the market is colorless topaz that's been irradiated and heat-treated, and most \"citrine\" is heat-treated amethyst, not the rare natural stone.",
+    "sections": [
+      {
+        "heading": "November's two official birthstones",
+        "body": [
+          "Jewelers of America, the US trade group that has maintained the modern birthstone list since 1912, names two official stones for November: topaz and citrine. Per [DayAlmanac's own month-by-month breakdown of that list](/birthstones-by-month/), the two months on either side of November, October and December, each also carry a pair, so a shopper assuming \"the\" November birthstone is one specific gem is already working from the wrong premise.",
+          "The two aren't close relatives. Topaz is a silicate mineral, aluminum combined with fluorine and hydroxyl, that forms as an 8 on the Mohs hardness scale. Citrine is a variety of ordinary quartz, silicon dioxide, at 7 on the same scale. That one-point gap looks like it settles which stone holds up better in daily wear; it doesn't, for reasons that only show up once cleavage enters the picture."
+        ]
+      },
+      {
+        "heading": "Topaz: a name that outlived the gem it was first attached to",
+        "body": [
+          "Most sources trace \"topaz\" back to Topazios, the ancient Greek name for a small island in the Red Sea now called Zabargad, or St. John's Island, off the Egyptian coast. Pliny the Elder wrote about a gem called topazos being mined there, describing it in tones of green to yellow-green. GIA's own account of the island's history notes the mineral actually pulled from that mine was peridot, not the aluminum silicate gemologists now call topaz; the name simply carried over once mineralogists had the tools to tell the two apart, leaving today's gem holding a label that once belonged to something else. A separate, competing theory traces the word instead to a Sanskrit root, tapas, meaning fire. Neither explanation has fully displaced the other.",
+          "Topaz's rarest and most valuable form is imperial topaz, prized for pink, orange, and peach tones. The story commonly told for the name is that 19th-century Russia reserved the finest pink stones from its Ural Mountains deposits for the imperial family, though that account rests on repeated trade lore rather than a document this piece could verify. What's better documented is where the stone comes from now: the modern supply centers on the Ouro Preto district of Minas Gerais, Brazil, chiefly the Vermelhão and Capão mines, worked since the early 1800s.",
+          "The color most people picture when they hear \"topaz\" today, though, is one that barely exists in nature. GIA's material on topaz quality states that virtually all blue topaz sold in stores began as colorless natural topaz, then was irradiated and heat-treated to induce the blue; the treatment was refined commercially starting in the late 1970s and made blue topaz one of the most widely available colored stones on the market. A buyer who wants topaz in a color the earth actually produced, rather than one a lab induced afterward, should be asking about the pink or orange imperial material, not the blue."
+        ],
+        "image": {
+          "src": "/images/november-birthstone-blue-topaz.jpg",
+          "alt": "An emerald-cut blue topaz gemstone",
+          "credit": "Photo by Gemsphoto, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Natural_blue_topaz_gemstone.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "Citrine: mostly not what its own name implies",
+        "body": [
+          "Citrine is quartz colored by trace iron impurities, roughly 40 parts per million of Fe3+ locked into the crystal structure, producing shades from pale straw yellow through deep orange-brown. The name for yellow gems of this kind has been in use since at least 1385, well before anyone sorted out what caused the color.",
+          "Genuinely natural citrine is uncommon in the trade. Most stones sold as citrine today started out as amethyst or smoky quartz and were heat-treated to shift their color toward yellow and orange, a practice mineralogists worked out in the mid-18th century once they realized heat alone could push one quartz color into another. GIA's consumer guidance on the subject confirms treated stones make up the bulk of what's on the market. There's a rough visual tell: natural citrine tends toward a paler, sometimes smoky yellow, while heat-treated material, sold at its deepest as \"Madeira citrine,\" usually runs to a richer, more saturated orange-brown that natural stones rarely reach on their own."
+        ],
+        "image": {
+          "src": "/images/november-birthstone-citrine.jpg",
+          "alt": "A faceted citrine gemstone from Minas Gerais, Brazil, showing its golden color",
+          "credit": "Photo by Didier Descouens, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Citrine_taillee.jpg), CC BY-SA 4.0"
+        }
+      },
+      {
+        "heading": "How November ended up with two stones, forty years apart",
+        "body": [
+          "Topaz's place on the November slot goes back to the same meeting that set June's original two stones: the American National Retail Jewelers Association, now Jewelers of America, gathered in Kansas City in August 1912 and adopted a single standardized twelve-month list. Citrine followed in a 1952 revision, the same round that added alexandrite to [June](/june-birthstone/), zircon to [December](/december-birthstone/), and pink tourmaline to October. Exactly who ran that 1952 update is an open question in the trade record; [DayAlmanac's write-up on December's list](/december-birthstone/) covers the same dispute over whether credit belongs to a Jewelers of America predecessor or to a separate group, and no primary document turned up here to settle it one way or the other for November either.",
+          "The reason usually offered for adding citrine specifically is practical, not aesthetic: by the mid-20th century, fine topaz in warm golden tones had grown scarce and expensive, while citrine, visually similar despite being a completely different mineral, offered jewelers an affordable stand-in. The two had reportedly been mistaken for each other by shoppers for long enough already that formalizing the substitute made a certain sense."
+        ]
+      },
+      {
+        "heading": "Choosing between topaz and citrine",
+        "body": [
+          "The Mohs number alone is misleading here. Topaz's 8 rating measures scratch resistance, not overall toughness, and topaz has perfect basal cleavage: a single sharp knock in the right direction can split a stone that would otherwise resist a fingernail or a piece of steel without a mark. GIA's gem reference material rates topaz's toughness as poor for exactly this reason. Citrine, as a variety of quartz, has no cleavage plane at all; it breaks unevenly, in a conchoidal fracture, rather than splitting cleanly along one line. A softer stone that's harder to split clean in half is, in practice, often the steadier choice for a ring worn every day.",
+          "Price follows a different logic than durability. Imperial topaz in fine pink or orange tones can run well above citrine of comparable size, while pale or blue topaz, virtually all of it treated, is inexpensive and everywhere. Citrine sits at the affordable end for a related but different reason: because most of what's sold under that name is heat-treated amethyst rather than a scarce natural stone. Topaz shows up on a separate calendar, too, independent of anyone's birth month: [DayAlmanac's anniversary-gift breakdown](/anniversary-gifts-by-year/) lists blue topaz as the traditional fourth-year wedding gemstone."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are November's two official birthstones?",
+        "answer": "Topaz and citrine, but not from the same generation of the list. A trade group fixed topaz's spot in 1912; citrine only got added four decades on, in a 1952 update."
+      },
+      {
+        "question": "Why does November have two birthstones instead of one?",
+        "answer": "Topaz came first, set at the 1912 meeting where US jewelers agreed on one national chart covering every month. Decades later, a revision folded citrine into November without bumping topaz off it."
+      },
+      {
+        "question": "Is blue topaz a natural color?",
+        "answer": "Almost never for what's actually on shelves. What's sold as blue topaz is typically clear natural stone that a lab has zapped with radiation and then baked until it turns blue, a treatment the trade scaled up commercially by the end of the 1970s and now supplies nearly the entire market."
+      },
+      {
+        "question": "Is citrine really just quartz?",
+        "answer": "Yes, citrine is a form of quartz, and trace iron trapped inside it produces the yellow-to-orange tone. What actually reaches most jewelry counters, though, started life as a different purple or gray-brown quartz variety and was baked until its color shifted, not stone that grew yellow underground on its own."
+      },
+      {
+        "question": "Which holds up better in a ring worn every day, topaz or citrine?",
+        "answer": "Citrine, somewhat counterintuitively. Topaz is harder and shrugs off scratches better, but one well-placed knock can split it clean along an internal plane it's prone to breaking along; quartz has no such plane, so citrine tends to survive the kind of bump that would crack a topaz."
+      },
+      {
+        "question": "Where does imperial topaz, the rare pink and orange kind, come from today?",
+        "answer": "A mining district outside Ouro Preto, Brazil, in the state of Minas Gerais, mainly two pits, Capão and Vermelhão, that have been producing it for roughly two centuries. A widely repeated story ties the stone's \"imperial\" label to the tsarist-era royal court instead, but that's trade folklore this page couldn't trace to any documented record."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GIA — November Birthstones",
+        "url": "https://www.gia.edu/birthstones/november-birthstones"
+      },
+      {
+        "label": "GIA — Peridot History and Lore",
+        "url": "https://www.gia.edu/peridot-history-lore"
+      },
+      {
+        "label": "GIA — Topaz Quality Factors",
+        "url": "https://www.gia.edu/topaz-quality-factor"
+      },
+      {
+        "label": "GIA — Topaz Care and Cleaning Guide",
+        "url": "https://www.gia.edu/topaz-care-cleaning"
+      },
+      {
+        "label": "GIA — Citrine Quality Factors",
+        "url": "https://www.gia.edu/citrine-quality-factors"
+      },
+      {
+        "label": "GIA — Is Citrine Treated?",
+        "url": "https://www.gia.edu/gia-faq-treated-citrine"
+      },
+      {
+        "label": "GIA — Historical Reading List: Imperial Topaz from Minas Gerais, Brazil",
+        "url": "https://www.gia.edu/reading-list-imperial-topaz"
+      },
+      {
+        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      }
+    ],
+    "image": "/images/november-birthstone-topaz-gems.jpg",
+    "imageAlt": "Faceted topaz gemstones in a range of natural colors, from clear to sherry-brown to pink",
+    "imageCredit": "Photo by Michelle Jo, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Large_Topaz_Gemstones.jpg), CC BY 3.0"
   }
 ];

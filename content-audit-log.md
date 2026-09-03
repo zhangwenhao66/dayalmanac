@@ -2049,3 +2049,13 @@
   "pending_for_owen": null
 }
 ```
+
+## 2026-09-03 CTR受控改写第2批（旺季页 5 页，协议见 独立站/标题CTR改写方法论_20260903.md）
+背景：8/27 起本站曝光 1,281→640-760/天，跌的集中在正进入旺季的页面（september-birthstone 36/天@11→3.8/天@94、grandparents-day 32@16→19.5@33、coffee-day 28@23→6.8@68、scorpio-dates 52@28→19.5@58、boyfriend-day 34@41→26@67），全部 0 点击，判断为试用位因无点击被收回（WarCrumbs 8/13 剧本）。这 5 页排名已在 13-26，标题改动的下行风险有限。
+改法（每页只改 title，H1/schema 自动跟随，正文/description 不动；R1 现标题里带曝光的词全部保留；数字/日期全部来自页面已核实内容）：
+- september-birthstone：「September Birthstone: Sapphire, Unchanged Since 1912」→「September Birthstones: Sapphire, or Two Stones?」假设：top 查询 "september birthstones"(复数, 43 名) 与 "alternative birthstones for september" 说明用户在找"不止一块"，AIO 只答 sapphire，标题给 UK 第二块石（lapis）这个 AIO 不给的钩子。
+- national-grandparents-day：「National Grandparents Day: The Date Rule in US Federal Law」→「National Grandparents Day 2026: Sept 13, Not the 1st Sunday」假设：top 查询 "when is grandparents day 2026"(2 名) / "when is national grandparents day"(57 名)，标题给日期 + "不是九月第一个周日"反常识钩子；2026-09-13 来自页面 occurrences。
+- national-coffee-day：「National Coffee Day: September 29 in the United States」→「National Coffee Day 2026 & 2027: Sept 29, Not October 1」假设：top 查询 "national coffee day 2027"(87 次, 10.7 名) 占本页曝光最大头，标题覆盖 2026/2027 + 与 International Coffee Day(10/1) 的区分钩子。
+- scorpio-dates：「Scorpio Dates: October 23–November 21, in Three Systems」→「Scorpio Dates: October 23–November 21, or 24 to 22?」假设："in Three Systems" 抽象，换成页面里 Britannica 10/24 与 Almanac 11/22 的具体分歧。
+- national-boyfriend-day：「National Boyfriend Day: October 3, and Its Unverified Origin」→「National Boyfriend Day 2026: Saturday, Oct 3. Is It Real?」假设：top 查询带年份 (2026/2027 共 128 次) 且 "does national boyfriend day exist" 类查询存在，标题给年份 + 星期 + 真实性钩子。
+对照组（不改）：national-sons-day / national-daughters-day / national-taco-day / virgo-dates / december-birthstone / march-birthstone / no-shave-november。快照 `seo-geo-trinity/data/title_tests/dayalmanac-0903-inseason-hook.json`，change_date 2026-09-03。复核：9/17 `title_test.py evaluate --label dayalmanac-0903-inseason-hook`（14 天），10/1 定去留；排名跌 >5、曝光 -50%（扣对照）或基线 top 查询丢失即回滚为快照里的 title_before。⚠️ 4 个标题含年份，进年度刷新清单（coffee-day 含 2027，2027 年 1 月改成 2027 & 2028）。

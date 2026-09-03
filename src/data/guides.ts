@@ -172,7 +172,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-boyfriend-day",
     "category": "Observances",
-    "title": "National Boyfriend Day: October 3, and Its Unverified Origin",
+    "title": "National Boyfriend Day 2026: Saturday, Oct 3. Is It Real?",
     "description": "National Boyfriend Day falls on October 3 every year. The date is consistent across sources, but no founder, registration, or proclamation can be verified.",
     "published": "2026-08-02",
     "updated": "2026-08-04",
@@ -692,7 +692,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-coffee-day",
     "category": "Observances",
-    "title": "National Coffee Day: September 29 in the United States",
+    "title": "National Coffee Day 2026 & 2027: Sept 29, Not October 1",
     "description": "National Coffee Day falls on September 29 in the US every year. Its origin is undocumented. International Coffee Day is a separate day, October 1.",
     "published": "2026-08-02",
     "updated": "2026-08-03",
@@ -876,7 +876,7 @@ export const guides: Guide[] = [
   {
     "slug": "national-grandparents-day",
     "category": "Observances",
-    "title": "National Grandparents Day: The Date Rule in US Federal Law",
+    "title": "National Grandparents Day 2026: Sept 13, Not the 1st Sunday",
     "description": "National Grandparents Day falls on the first Sunday in September after Labor Day, not the first Sunday in September. The statutory rule, explained.",
     "published": "2026-08-02",
     "updated": "2026-08-09",
@@ -1932,7 +1932,7 @@ export const guides: Guide[] = [
   {
     "slug": "september-birthstone",
     "category": "Birthstones",
-    "title": "September Birthstone: Sapphire, Unchanged Since 1912",
+    "title": "September Birthstones: Sapphire, or Two Stones?",
     "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912, though the UK trade list still adds a second stone, lapis lazuli.",
     "published": "2026-08-05",
     "updated": "2026-09-03",
@@ -2048,7 +2048,7 @@ export const guides: Guide[] = [
   {
     "slug": "scorpio-dates",
     "category": "Zodiac Dates",
-    "title": "Scorpio Dates: October 23–November 21, in Three Systems",
+    "title": "Scorpio Dates: October 23–November 21, or 24 to 22?",
     "description": "Scorpio runs October 23–November 21 in tropical astrology, though Britannica dates it a day later. Sidereal astrology draws yet another line.",
     "published": "2026-08-06",
     "updated": "2026-08-06",

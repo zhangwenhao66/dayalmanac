@@ -2004,3 +2004,48 @@
   "备注": "三个独立复核agent均在15-20分钟看门狗上限内正常完成，无卡死情形。'rather than'与'FAQ重合'两项延续既有判例（本文件上一条march-birthstone记录同类情形），脚本非零退出码为预期接受状态，不代表未处理。"
 }
 ```
+
+```json
+{
+  "url_slug": "diabetes-awareness-month",
+  "last_audited": "2026-09-03",
+  "published_date": "2026-08-10",
+  "findings": [
+    {
+      "dimension": "机械散文检查（check_prose_patterns.py）",
+      "status": "确认问题，已修复",
+      "detail": "'X's own Y'归因短语9次超过阈值2次（如'the ADA's own current materials'、'the proclamation's own text'、'that year's own proclamation or message'等）；5条FAQ答案与正文存在≥20字符逐字重合。"
+    },
+    {
+      "dimension": "事实框架完整性（白宫文件格式变化的表述）",
+      "status": "独立agent确认问题，已修复",
+      "detail": "正文（founding字段+正文第4节）原表述'Reagan/两位Bush/Obama/Biden均用Proclamation格式，2025年11月Trump White House改用Presidential Message'，暗示这是2025年孤立的新变化。独立复核agent做WebSearch核实：Trump第一任期同样从未用过Proclamation格式（2017年为Statement、2019/2020年均为Presidential Message），trumpwhitehouse.archives.gov可查。原文遗漏这段历史，属于'以偏概全'的误导性框架（字面陈述2025年那句话本身不算错，但紧跟在'历届总统都用Proclamation'之后，制造了'仅2025年偏离'的错误印象）。已改写为如实反映Trump两任期均倾向用较简短格式这一持续模式。"
+    },
+    {
+      "dimension": "事实准确性（核心论断/引语溯源）",
+      "status": "未发现问题",
+      "detail": "逐条WebSearch/Wikisource核实：Reagan Proclamation 4861原文（Wikisource全文API）确认1981年9月28日签署（'twenty-eighth day of September'），Oct 4-10单周，与正文'issued September 28'吻合（联邦公报归档日期9/29是另一个日期口径，非原文使用的口径，未构成错误）；Proclamation 4994确认1982年11月2日签署'National Diabetes Month, 1982'，依据S.J.Res.257；S.J.Res.145（99届国会）确认1985年11月由决议指定，成为Public Law 99-142；S.Res.479/H.Res.810（117届国会）确认为不需总统签署的非约束性决议；Banting/Best/Macleod 1923年诺贝尔奖细节（Macleod与Banting共同获奖、Best未被列为正式共同获奖人但Banting分享奖金给他）逐字匹配；World Diabetes Day由IDF+WHO于1991年创立、2006年成为联合国国际日核实准确。3处内链（national-hispanic-heritage-month签署vs宣告年份混淆、no-shave-november私人发起无联邦认可、domestic-violence-awareness-month仅1989年一次性指定未再续）均核实目标文章内容与类比表述准确。"
+    },
+    {
+      "dimension": "EEAT / 竞品差异化 / 外链腐烂 / 内链健康度 / SEO技术 / GEO / 配图版权 / Schema一致性 / 合规敏感度",
+      "status": "未发现问题",
+      "detail": "外链腐烂：10条来源中congress.gov 3条+cdc.gov 1条对curl返回403（换浏览器UA测试后确认为反爬拦截，WebSearch已核实内容真实存在，非真实失效，与本站/其他站历史bot-block先例一致）；其余6条（reaganlibrary.gov、presidency.ucsb.edu×2、whitehouse.gov、diabetesselfmanagement.com、dictionary.com）均200。内链健康度：全站6处其他文章引用/diabetes-awareness-month/，非孤儿页。配图：本地文件+Wikimedia Commons页面均可访问，自制SVG时间线图无版权问题。SEO技术：title/description z-score正常范围（-0.74/-1.40），单一H1，6个H2，9个schema区块。GEO：自评约91/99（99分制11维度），PASS。合规：健康类内容为百科式记述观察日历史沿革，非医疗建议，无YMYL风险，无AdSense限制类目。"
+    }
+  ],
+  "actions_taken": [
+    "改写全部9处'X's own Y'归因短语",
+    "全部重写5条FAQ答案消除与正文≥20字符逐字重合",
+    "改写founding字段与正文第4节，补上Trump第一任期(2017 Statement/2019-2020 Message)同样跳过Proclamation格式的历史，消除'2025年孤立新变化'的误导框架",
+    "updated字段由2026-08-10改为2026-09-03（published字段已存在，无需回填）",
+    "npm run build验证通过（130页），check_prose_patterns.py验证通过（退出码0）",
+    "⚠️编辑期间发现并发会话正在同一guides.ts撰写新文章november-birthstone（未提交），改用git hash-object+update-index blob级隔离暂存，只提交本文章改动，commit c134ee6并push，工作树里对方WIP未受影响",
+    "⚠️自曝失误：修复malformed indexnow-submit-log.json key时用了git checkout --，意外revert掉并发会话对该文件的未提交修改（验证状态类字段，无法通过git恢复，已在内容发布日志.md如实记录，判断为低风险自愈型缓存字段）",
+    "seo_drift.py部署前基线+部署后对比：仅WARNING（schema内容变化，预期内），无CRITICAL",
+    "IndexNow提交（Bing 200/Yandex 200，正确path参数），内容发布日志.md追加记录"
+  ],
+  "seo_score": "技术SEO检查通过（title/description z-score正常范围，schema完整），未使用独立数值打分工具",
+  "geo_score": "自评约91/99（99分制11维度），PASS（≥80）",
+  "escalation": null,
+  "pending_for_owen": null
+}
+```

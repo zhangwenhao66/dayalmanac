@@ -23,6 +23,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1400,
   "w": 2100
  },
+ "/images/1992-chinese-zodiac-monkey-figure.jpg": {
+  "h": 624,
+  "w": 468
+ },
  "/images/1994-chinese-zodiac-dog-figure.jpg": {
   "h": 624,
   "w": 462
@@ -181,6 +185,18 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  },
  "/images/june-birth-flower-rose.jpg": {
   "h": 1066,
+  "w": 1600
+ },
+ "/images/june-birthstone-alexandrite-crystal.jpg": {
+  "h": 1062,
+  "w": 1600
+ },
+ "/images/june-birthstone-moonstone.jpg": {
+  "h": 1290,
+  "w": 1573
+ },
+ "/images/june-birthstone-pearls.jpg": {
+  "h": 1608,
   "w": 1600
  },
  "/images/libra-birthstone-opal-coober-pedy.jpg": {
@@ -350,6 +366,18 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/november-birth-flower-peony.jpg": {
   "h": 1200,
   "w": 1600
+ },
+ "/images/november-birthstone-blue-topaz.jpg": {
+  "h": 1454,
+  "w": 1304
+ },
+ "/images/november-birthstone-citrine.jpg": {
+  "h": 1521,
+  "w": 1920
+ },
+ "/images/november-birthstone-topaz-gems.jpg": {
+  "h": 353,
+  "w": 538
  },
  "/images/october-birth-flower-cosmos.jpg": {
   "h": 2112,

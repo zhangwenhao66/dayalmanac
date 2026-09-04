@@ -11173,6 +11173,117 @@ export const guides: Guide[] = [
     "imageCredit": "Los Angeles County Museum of Art, [Funerary Sculpture of the Animals of the Twelve-Year Chinese Zodiac (Shengxiao), goat figure](https://commons.wikimedia.org/wiki/File:Funerary_Sculpture_of_the_Animals_of_the_Twelve-Year_Chinese_Zodiac_(Shengxiao)_LACMA_M.90.80a-l_(2_of_12).jpg), Yuan dynasty (1279–1368), public domain, via Wikimedia Commons"
   },
   {
+    "slug": "1992-chinese-zodiac",
+    "category": "Chinese Zodiac",
+    "title": "1992 Chinese Zodiac: Water Monkey After Feb 4",
+    "description": "1992 is the Year of the Water Monkey in the Chinese zodiac, but the lunar year didn't start until February 4. Anyone born earlier that year is a Metal Goat instead.",
+    "published": "2026-09-04",
+    "updated": "2026-09-04",
+    "coreSummary": "1992 is the Year of the Water Monkey, running from February 4, 1992 through January 22, 1993 according to the Hong Kong Observatory's own Gregorian-lunar conversion tables. Anyone born between January 1 and February 3, 1992, before that boundary, was actually born under the preceding zodiac year, Metal Goat, actors Alden Richards and Laurie Davidson among them; Taylor Lautner, born a week after the cutoff, is a genuine Water Monkey.",
+    "sections": [
+      {
+        "heading": "The Water Monkey year starts February 4, not January 1",
+        "body": [
+          "Chinese zodiac years follow the lunar calendar, so the label \"1992\" doesn't line up with the 365 days most people picture when they see that number. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1992, the government body's reference for converting between the two calendars, names the relevant lunar year Ren-Shen (壬申) and marks February 4, 1992 as the first day of its first lunar month, the actual start of the new year. That is a government body's published table, not a private calendar site's estimate.",
+          "The year doesn't end on December 31 either. The Observatory's table for 1993 shows the twelfth and final lunar month of Ren-Shen running out on January 22; the next day, January 23, opens the following lunar year, Gui-You (癸酉), Water Rooster, the same boundary this site's 1994 Chinese Zodiac page already cites from the same table series. That puts the full Water Monkey window at February 4, 1992 through January 22, 1993, a span of 354 days that leaves out the first month of calendar-year 1992 entirely. Anyone born January 1 through February 3, 1992, that excluded stretch, falls before the boundary and belongs to the outgoing year instead, Xin-Wei (辛未), Metal Goat, the same year this site's [1991 Chinese Zodiac page](/1991-chinese-zodiac/) covers. This page follows the same rule the calendar's [birthstones by month](/birthstones-by-month/) list does elsewhere: check each organization's own current source directly rather than copy a secondhand aggregator's chart."
+        ],
+        "image": {
+          "src": "/images/1992-chinese-zodiac-monkey-figure.jpg",
+          "alt": "Qing dynasty porcelain figure of a monkey from a set of the twelve Chinese zodiac animals, Kangxi period",
+          "credit": "The Metropolitan Museum of Art, [Zodiac figure: monkey](https://www.metmuseum.org/art/collection/search/44681), Kangxi period (1662–1722), public domain"
+        }
+      },
+      {
+        "heading": "Alden Richards and Laurie Davidson were born before the cutoff",
+        "body": [
+          "Three actors born in early 1992 show how easy this boundary is to miss. Alden Richards, the Filipino actor and television host, was born January 2, 1992, per Wikipedia, thirty-three days before that year's lunar new year. Laurie Davidson, the English actor known for the TNT series Will and the 2019 film Cats, was born January 29, 1992, six days before it. A birth-year shortcut would file both of them under Water Monkey. The Observatory's conversion table puts them in the preceding lunar year instead, Xin-Wei, Metal Goat, the same sign as anyone born from February 15, 1991 onward.",
+          "Taylor Lautner, known for playing Jacob Black in the Twilight film series, was born February 11, 1992, one week after the boundary. He is a genuine Water Monkey by the same table. The thirteen-day gap separating Davidson's birthday from Lautner's sits entirely inside a single calendar month, February, which is part of why a birth-year approach trips up here more than it does for observances tied to a fixed Gregorian date: the lunar new year can land anywhere from late January to mid-February, and a birthday inside that shifting window needs the specific year's boundary checked, not assumed."
+        ]
+      },
+      {
+        "heading": "Why Monkey years are always Yang, never Yin",
+        "body": [
+          "The animal and the element ride on two separate counters that don't advance together. Twelve Earthly Branches supply the animal; ten Heavenly Stems supply the element, paired off two at a time, one Yang and one Yin, for each of the five elements before the cycle moves on. Because ten and twelve share a factor of two, the branches split into two groups that never cross: Zi, Yin, Chen, Wu, Shen, and Xu draw only Yang stems, while Chou, Mao, Si, Wei, You, and Hai draw only Yin ones. Shen carries the Monkey, which sits it permanently in the first group, so every Monkey year on record, without exception, is Yang.",
+          "That grouping is why 1992, 1980, and 2004 all land on a Yang stem despite differing in element: Ren, Geng, and Jia are each the Yang half of their own element (water, metal, and wood respectively), never the Yin half. A Monkey year still rotates through five possible stems within that Yang group, Jia, Bing, Wu, Geng, Ren, each the Yang side of a single element in turn. 1992 draws Ren off that list, technically a Yang Water Monkey, though almanacs typically drop the \"Yang\" since the polarity never varies for this animal. The Western zodiac's [Scorpio](/scorpio-dates/) has nothing comparable; a Scorpio is a Scorpio regardless of which year they arrive in."
+        ]
+      },
+      {
+        "heading": "1932 and 2052 bracket 1992 by exactly sixty years",
+        "body": [
+          "The most recent Water Monkey year before 1992 was 1932, sixty years earlier under the same fixed cycle; the next one is 2052, sixty years after 1992. Anyone alive today who was born under the 1932 Water Monkey is in their nineties. The 2052 recurrence is decades off, distant enough that this specific stem-branch pairing won't touch a new generation again for a long time after 1992's.",
+          "Before China's 1912 switch to the Gregorian calendar, the sixty-year ganzhi cycle didn't only label birth years. It was also how official records dated the calendar year itself, the same function a numbered year like \"1992\" performs today, not just a folk label attached to birth years."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What Chinese zodiac sign is 1992?",
+        "answer": "Water Monkey, but not for the whole calendar year. Government tables place day one of that lunar cycle, Ren-Shen, on the fourth of February 1992, lasting to the day before the following Rooster year opens, January 23, 1993."
+      },
+      {
+        "question": "Was Taylor Lautner really born in the Year of the Monkey?",
+        "answer": "Yes, by that year's lunar boundary. His birthday, February 11, falls a week past the new year, so he is a real Water Monkey, not a Metal Goat a birth-year-only method might assume."
+      },
+      {
+        "question": "What if I was born in January 1992?",
+        "answer": "Roughly the five weeks before that February cutoff still belong to the prior lunar cycle, Xin-Wei, the Metal Goat year. It's why the actor born January 2 and the one born January 29 both ended up Metal Goats rather than the Monkey their birth year would suggest."
+      },
+      {
+        "question": "Why is 1992 called the \"Water\" Monkey instead of just \"the Monkey\"?",
+        "answer": "Because a separate five-element rotation runs alongside the twelve animals, giving every year a second label that changes every two years. 1992 lands on the water portion of that rotation; other Monkey years land on different portions, such as 1980's Metal Monkey or 2004's Wood Monkey."
+      },
+      {
+        "question": "When is the next Water Monkey year?",
+        "answer": "2052. The pairing of water with the Monkey only recurs every sixty years, the length of the full sexagenary cycle. The previous Water Monkey year was 1932."
+      },
+      {
+        "question": "Is Chinese New Year always in February?",
+        "answer": "No. Unlike a fixed Western sign such as Scorpio, this holiday's date shifts by roughly a month depending on the calendar, falling anywhere from January 21 to February 20 in a given year. 1992 landed on February 4; 1993 fell on January 23 instead."
+      },
+      {
+        "question": "How is the Chinese zodiac different from a Western sign like Scorpio?",
+        "answer": "A Western sun sign keeps roughly the same date range every year. The Chinese zodiac's year boundary moves by about a month from one year to the next, so which animal and element a birthday falls under has to be checked against that specific year's lunar calendar, not assumed from the birth year alone."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1992e.pdf"
+      },
+      {
+        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1993e.pdf"
+      },
+      {
+        "label": "Wikipedia — Alden Richards",
+        "url": "https://en.wikipedia.org/wiki/Alden_Richards"
+      },
+      {
+        "label": "Wikipedia — Laurie Davidson (actor)",
+        "url": "https://en.wikipedia.org/wiki/Laurie_Davidson_(actor)"
+      },
+      {
+        "label": "Wikipedia — Taylor Lautner",
+        "url": "https://en.wikipedia.org/wiki/Taylor_Lautner"
+      },
+      {
+        "label": "Wikipedia — Heavenly Stems",
+        "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
+      },
+      {
+        "label": "Wikipedia — Earthly Branches",
+        "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
+      },
+      {
+        "label": "The Metropolitan Museum of Art — Zodiac figure: monkey",
+        "url": "https://www.metmuseum.org/art/collection/search/44681"
+      }
+    ],
+    "image": "/images/1992-chinese-zodiac-monkey-figure.jpg",
+    "imageAlt": "Qing dynasty porcelain figure of a monkey from a set of the twelve Chinese zodiac animals, Kangxi period",
+    "imageCredit": "The Metropolitan Museum of Art, [Zodiac figure: monkey](https://www.metmuseum.org/art/collection/search/44681), Kangxi period (1662–1722), public domain"
+  },
+  {
     "slug": "november-birthstone",
     "category": "Birthstones",
     "title": "November Birthstone: Topaz and Citrine, Forty Years Apart",

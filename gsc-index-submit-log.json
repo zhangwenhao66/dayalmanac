@@ -397,5 +397,15 @@
       "https://dayalmanac.com/october-birthstone/"
     ],
     "quota_used": "0 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-09-09",
+    "action": "submitted",
+    "reason": "今日随机休息(节奏自然化)未发布新文。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1(libra-birthstone)，查询确认未收录，提交成功。",
+    "submitted_urls": [
+      "https://dayalmanac.com/libra-birthstone/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

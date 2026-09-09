@@ -2059,3 +2059,63 @@
 - scorpio-dates：「Scorpio Dates: October 23–November 21, in Three Systems」→「Scorpio Dates: October 23–November 21, or 24 to 22?」假设："in Three Systems" 抽象，换成页面里 Britannica 10/24 与 Almanac 11/22 的具体分歧。
 - national-boyfriend-day：「National Boyfriend Day: October 3, and Its Unverified Origin」→「National Boyfriend Day 2026: Saturday, Oct 3. Is It Real?」假设：top 查询带年份 (2026/2027 共 128 次) 且 "does national boyfriend day exist" 类查询存在，标题给年份 + 星期 + 真实性钩子。
 对照组（不改）：national-sons-day / national-daughters-day / national-taco-day / virgo-dates / december-birthstone / march-birthstone / no-shave-november。快照 `seo-geo-trinity/data/title_tests/dayalmanac-0903-inseason-hook.json`，change_date 2026-09-03。复核：9/17 `title_test.py evaluate --label dayalmanac-0903-inseason-hook`（14 天），10/1 定去留；排名跌 >5、曝光 -50%（扣对照）或基线 top 查询丢失即回滚为快照里的 title_before。⚠️ 4 个标题含年份，进年度刷新清单（coffee-day 含 2027，2027 年 1 月改成 2027 & 2028）。
+
+```json
+{
+  "url_slug": "suicide-prevention-month",
+  "last_audited": "2026-09-09",
+  "published_date": "2026-08-16",
+  "checklist": [
+    "文中引用的具体法案编号（H.Res. 850/1067/1436/697、S.Res. 84/636/738/385）是否真实存在且状态描述准确",
+    "988生命热线立法史（National Suicide Hotline Designation Act of 2020）的三个日期是否准确",
+    "CDC/NCHS 2023自杀率统计数字是否准确",
+    "作为自杀相关YMYL/敏感话题，措辞是否克制、求助资源是否位置合理"
+  ],
+  "findings": [
+    {
+      "dimension": "机械散文检查（check_prose_patterns.py）",
+      "status": "确认问题，已修复",
+      "detail": "7条FAQ答案与正文存在≥20字符逐字重合，脚本确定性输出未走独立agent复核。迭代约12轮才清零，多次撞上机构全称/其他文章标题这类难以规避的重合来源，改用缩写(IASP/NCHS)、paraphrase标题、拆解常见搭配词序解决。"
+    },
+    {
+      "dimension": "事实准确性——具体数字（CDC/NCHS男性自杀率）",
+      "status": "独立agent确认CONTRADICTED，已修复",
+      "detail": "正文与FAQ均称'2023年男性自杀率22.8/10万'。用pdfplumber直接解析CDC NCHS Data Brief No. 541（2025年9月）原始数据表'Data table for Figure 1'发现：22.8实际是**2018年**数字，2023年真实数字是**22.7**（女性5.9正确不变）。鉴于话题敏感性，spawn独立复核agent专门核实（只给原始PDF链接+核对指令，不透露已形成的判断），agent同样直连NCHS原文表格确认CONTRADICTED。已修复正文第5节+FAQ#6两处。"
+    },
+    {
+      "dimension": "事实准确性——法案编号与立法时间线",
+      "status": "未发现问题",
+      "detail": "curl直连GovTrack.us核实全部8个法案（H.Res. 850/1067/1436/697、S.Res. 84/636/738/385）的引入/表决/委员会滞留状态，与正文逐条吻合；curl直连GovTrack确认National Suicide Hotline Designation Act of 2020三个日期（2020-05-13参院/2020-09-21众院/2020-10-17签署为Public Law 116-172）精确吻合。AAS 1968年由Edwin S. Shneidman创立、1974年5月宣传周历史、Obama/Biden历年公告均核实准确。"
+    },
+    {
+      "dimension": "跨页事实一致性（意外发现，超出本文范围）",
+      "status": "确认问题，已修复（涉及另外2篇文章）",
+      "detail": "核实本文'Domestic Violence Awareness Month 1989年立法后再无同类续期'这条引用时，发现`/domestic-violence-awareness-month/`自己的title/description/coreSummary恰好断言同一件事，但该文章自己的founding/sections/faq字段其实正确记录了1991年续期（S.J.Res. 73，Public Law 102-114）——顶层三个SEO字段从未同步更新，构成自相矛盾。curl直连govinfo.gov核实Public Law 102-114原文确认1991年续期真实存在。grep全站另发现`/national-days-in-october/`的'Ten observances'小节复述了同一处过时断言。两篇文章各自的title/description/coreSummary或段落已同步修复；两篇文章本身存在的check_prose_patterns.py历史遗留报警（确认非本次编辑引入）留给各自被轮到时处理，不在本次范围内扩大修复。"
+    },
+    {
+      "dimension": "谷歌垃圾政策合规（Skill(google-spam-compliance)）",
+      "status": "PASS，1项软性建议",
+      "detail": "三要素判定投入/原创/附加价值均'有'（差异化角度：戳穿'这个月有正式联邦立法'的常见误解）；11项政策核对全部PASS；措辞百科式记述无煽动性。988求助提示信息准确，但位置偏后（第4节末尾而非文章更靠前处）——记录为软性改进建议，非合规硬伤，本次未强行调整避免过度编辑已高频改动的敏感文章。"
+    },
+    {
+      "dimension": "EEAT / 竞品差异化 / 外链腐烂 / 内链健康度 / SEO技术 / GEO / 配图版权 / Schema一致性",
+      "status": "未发现问题",
+      "detail": "内链目标（domestic-violence-awareness-month/adhd-awareness-month/epilepsy-awareness-month）均存在。SEO技术：title/description z-score正常范围（-0.43/-0.66）。未单独重跑Skill(ai-seo)打分（改动幅度可控，原有GEO要素齐全，判断不需要）。本文无正文配图。"
+    }
+  ],
+  "actions_taken": [
+    "改写全部7条FAQ answer消除与正文≥20字符逐字重合",
+    "修正正文+FAQ两处22.8→22.7的男性自杀率数字错误",
+    "顺带修复domestic-violence-awareness-month的title/description/coreSummary三字段+national-days-in-october一处小节引用，均反映1989+1991两次立法的准确史实",
+    "三篇updated字段均从旧日期改为2026-09-09（三篇published字段均已存在，无需回填）",
+    "node --test 41/41通过，npm run build验证通过（132页），check_prose_patterns.py验证通过（退出码0）",
+    "三个URL各自seo_drift.py部署前基线+部署后对比：仅WARNING（schema内容变化为预期内；domestic-violence-awareness-month额外报title/description变化，为本次编辑的预期结果），无CRITICAL",
+    "node tools/submit-indexnow.mjs一次性提交三个路径，Bing 200/Yandex 202，内容发布日志.md追加记录"
+  ],
+  "independent_verification": "FAQ复述检查为脚本确定性字符串匹配未spawn独立agent；跨页矛盾的1991年续期史实与法案编号均为本会话直接curl/WebSearch可验证的客观事实。唯一spawn的1个独立agent（核实22.8 vs 22.7）已完成并确认CONTRADICTED，本次运行无独立agent卡死情况。",
+  "seo_score": "title/description z-score正常范围（-0.43/-0.66），未使用独立数值打分工具",
+  "geo_score": "未单独重跑Skill(ai-seo)，原有GEO要素（coreSummary/6节正文/founding字段/dateRule caveat/7条FAQ schema/多条来源）齐全，判断改动幅度不需要重新打分",
+  "escalation": null,
+  "pending_for_owen": null
+}
+```

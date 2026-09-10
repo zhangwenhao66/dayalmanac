@@ -11406,5 +11406,128 @@ export const guides: Guide[] = [
     "image": "/images/november-birthstone-topaz-gems.jpg",
     "imageAlt": "Faceted topaz gemstones in a range of natural colors, from clear to sherry-brown to pink",
     "imageCredit": "Photo by Michelle Jo, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Large_Topaz_Gemstones.jpg), CC BY 3.0"
+  },
+  {
+    "slug": "april-birthstone",
+    "category": "Birthstones",
+    "title": "April Birthstone: Diamond, Unchanged Since the 1912 List",
+    "description": "Diamond is the one 1912 birthstone assignment none of three later revisions touched, from Golconda and Brazil to a 2025 split in how diamonds get graded.",
+    "published": "2026-09-10",
+    "updated": "2026-09-10",
+    "coreSummary": "Diamond is the sole modern birthstone for April, and unlike five other months, it has never been added to or changed since the original 1912 trade chart. Diamond's much older trade history runs from fourth-century-BCE India through Brazil and Kimberley, South Africa, where Cecil Rhodes built De Beers into a company that, in 2025, closed its lab-grown diamond brand after wholesale prices for factory-made stones fell 90 percent.",
+    "sections": [
+      {
+        "heading": "One birthstone, never touched since 1912",
+        "body": [
+          "Diamond is the only birthstone the Jewelers of America trade chart assigns to April, and it has held that spot since the chart existed. The group, then called the American National Retail Jewelers Association, standardized a twelve-month birthstone list in 1912. According to [DayAlmanac's month-by-month breakdown of that chart](/birthstones-by-month/), it has been revised three separate times since: a 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December; tanzanite joined December's list again in 2002; spinel joined August in 2016. None of those three rounds touched April. Along with January, February, March, May, July, and September, April has kept the exact stone it started with.",
+          "That is the modern list. A separate traditional list, which the International Gem Society traces to Poland between the 16th and 18th centuries and which predates the 1912 trade convention entirely, also lands on diamond for April. That agreement is not universal across the calendar: October is the clearest mismatch, since the modern list names tourmaline while the traditional list names opal, and a shopper who trusts only one source can end up buying the wrong stone for a month that never settled on one answer. April's birth flowers, daisy and sweet pea, never got the modern list's kind of single-body standardization either; [DayAlmanac's April birth flower page](/april-birth-flower/) covers why that pairing stayed split between competing 19th-century sources instead of converging the way birthstones did."
+        ]
+      },
+      {
+        "heading": "Where the stone's history actually starts",
+        "body": [
+          "Diamond's use as jewelry predates its status as a birthstone by roughly two thousand years. GIA traces the trade to India, where diamonds were gathered from rivers and streams and traded as early as the fourth century BCE, prized by royalty and the wealthy. Caravans later carried Indian diamonds to medieval markets in Venice, and by the 1400s they had become fashionable among Europe's elite. The first diamond engagement ring on record dates to 1477, when Archduke Maximilian of Austria gave one to his betrothed, Mary of Burgundy.",
+          "India's Golconda mining region produced the stone now known as the Hope Diamond, a 45.52-carat blue diamond that recent evidence traces to that source before its sale to King Louis XIV of France in 1668, when it went by a different name, the French Blue. Those Indian deposits carried the world's diamond supply for centuries, until they began running low in the early 1700s and the trade had to look elsewhere."
+        ],
+        "image": {
+          "src": "/images/april-birthstone-rough-diamond-kimberley.jpg",
+          "alt": "A rough octahedral diamond crystal from the Kimberley Mine in South Africa",
+          "credit": "Photo by Robert M. Lavinsky, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diamond-gem7-52a.jpg), CC BY-SA 3.0"
+        }
+      },
+      {
+        "heading": "Three moves in two hundred years, India to Brazil to South Africa",
+        "body": [
+          "Brazil picked up where India left off. Gold miners sifting gravel along the banks of the Jequitinhonha River, in what is now Minas Gerais, started turning up diamonds in the early 1700s, and Brazil dominated the world market for more than a century and a half. The next shift came in the late 1860s, when diamonds turned up near Kimberley, South Africa, an event GIA marks as the start of the modern diamond market. Entrepreneur Cecil Rhodes founded De Beers Consolidated Mines in 1888, and within twelve years the company controlled an estimated 90 percent of the world's rough diamond production.",
+          "South Africa's Premier mine produced the largest diamond ever recovered, a 3,106-carat rough stone found in 1905. Cut down, its largest piece became the pear-shaped, 530-carat Cullinan I, also called the Great Star of Africa, now set in Britain's Royal Sceptre with Cross alongside the rest of the Crown Jewels in the Tower of London. The Cullinan's record has held for well over a century, surviving even Botswana's Karowe mine turning up a 2,492-carat stone in August 2024, the second-largest gem-quality rough diamond ever found and, according to Lucara Diamond Corp, the biggest recovered in 120 years."
+        ],
+        "image": {
+          "src": "/images/april-birthstone-cullinan-rough.jpg",
+          "alt": "The rough Cullinan diamond, the largest gem-quality rough diamond ever found, before it was cut",
+          "credit": "Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cullinan_diamond_rough.jpg), public domain"
+        }
+      },
+      {
+        "heading": "Hardest gem on the chart, with one hidden weak point",
+        "body": [
+          "The word diamond comes from the Greek adamas, meaning invincible or unbreakable, and on one measure that reputation holds up: diamond sits at 10, the top of the Mohs hardness scale that mineralogist Friedrich Mohs introduced in 1822. Only another diamond can scratch a diamond.",
+          "Hardness is not the same thing as toughness, and GIA is direct about the gap: diamond is the hardest gemstone but not necessarily the toughest one, and a hard blow can still cleave or fracture it despite its resistance to scratching. The weak point runs along cleavage planes, directions where the stone's carbon atoms are bonded less tightly than everywhere else; strike one at the wrong angle and a diamond that shrugged off a steel blade can split cleanly in two. GIA's own care guidance is more cautious on cleaning than the hardness rating alone would suggest: it advises against ultrasonic and steam cleaners at home, not because the diamond itself would be damaged, but because the vibration can loosen a stone in its setting, and it recommends a lint-free cloth, mild detergent, or a professional jeweler's cleaning instead, doubly so for a heavily included or treated stone."
+        ]
+      },
+      {
+        "heading": "The company that built the modern diamond trade just quit lab-grown",
+        "body": [
+          "De Beers, the company Cecil Rhodes founded in 1888, spent the last several years running a lab-grown diamond jewelry brand, Lightbox, launched in 2018 at a transparent $800 per carat. In May 2025, De Beers announced it would close the business. Wholesale prices for lab-grown diamonds in the jewelry sector had fallen 90 percent since Lightbox launched, the company said, tracking closer to a cost-plus manufacturing model than to anything priced like a natural stone. CEO Al Cook tied the decision to natural diamonds specifically, citing cheap lab-grown supply from China and US supermarkets pushing prices lower still.",
+          "GIA changed how it grades the two kinds of stone within the same year. Since October 1, 2025, GIA has stopped applying its natural-diamond 4Cs system, the same grading standard it built in 1953, to lab-grown diamonds. Factory-made stones now receive a 'Premium' or 'Standard' rating instead, a label GIA president Pritesh Patel tied to most lab-grown diamonds clustering tightly in one narrow band of color and clarity, too narrow for the finer natural-diamond scale to mean much. Anyone shopping for diamond jewelry for an April birthday in 2026 is comparing across two separate grading systems, not just two price tags. Diamond has one other job on the calendar, unrelated to birth months: it is also the traditional 60th and 75th wedding-anniversary gem, alongside the earlier-year stones [DayAlmanac's anniversary-gift breakdown](/anniversary-gifts-by-year/) covers."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is April's birthstone?",
+        "answer": "Diamond. It is the only gem the US trade chart has ever assigned to the month, going back to when the list was first standardized in 1912."
+      },
+      {
+        "question": "Has April's birthstone ever changed?",
+        "answer": "No. The chart's three later updates, in 1952, 2002, and 2016, each added a stone somewhere else on the calendar, but April's original 1912 slot never moved."
+      },
+      {
+        "question": "Is diamond really the hardest substance on Earth?",
+        "answer": "Hardness and toughness are different measurements. Diamond tops the 1822 Mohs scale at 10, but a sharp blow along one of its internal cleavage planes can still chip or split a stone that shrugs off marks from almost anything else."
+      },
+      {
+        "question": "Why does GIA now grade lab-grown April birthstones differently from natural ones?",
+        "answer": "Natural stones still get graded on the detailed 4Cs scale GIA built in 1953. As of October 1, 2025, lab-grown stones get one of two simpler descriptive ratings instead, because GIA's president said most submitted lab-grown stones come out nearly identical on quality, leaving little for a finer scale to distinguish."
+      },
+      {
+        "question": "Why did De Beers shut down its lab-grown diamond brand?",
+        "answer": "Its factory-made jewelry stones got too cheap to justify keeping around. De Beers told the market in May 2025 that Lightbox, running since 2018, was now selling diamonds at roughly a tenth of their original wholesale price, and it chose to redirect that investment toward marketing mined stones."
+      },
+      {
+        "question": "Does any other month share diamond as a birthstone?",
+        "answer": "No. On the current trade chart, diamond is assigned to April only, and no other month lists it."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GIA — April Birthstones",
+        "url": "https://www.gia.edu/birthstones/april-birthstones"
+      },
+      {
+        "label": "GIA 4Cs — More than the Mohs Scale: Understanding Gem Durability",
+        "url": "https://4cs.gia.edu/en-us/blog/more-than-mohs-scale-gem-durability/"
+      },
+      {
+        "label": "GIA — Diamond Care and Cleaning Guide",
+        "url": "https://www.gia.edu/diamond-care-cleaning"
+      },
+      {
+        "label": "GIA — GIA Launches Updated Laboratory-Grown Diamond Services October 1",
+        "url": "https://www.gia.edu/gia-news-press/updated-laboratory-grown-diamond-services-to-launch-october-1"
+      },
+      {
+        "label": "De Beers Group — De Beers Group Announces Intention to Close Lightbox Business",
+        "url": "https://www.debeersgroup.com/news-insights/latest-group-news/2025/de-beers-group-announces-intention-to-close-lightbox-business"
+      },
+      {
+        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+      },
+      {
+        "label": "International Gem Society — Birthstone Chart: Modern and Traditional",
+        "url": "https://www.gemsociety.org/article/birthstone-chart/"
+      },
+      {
+        "label": "Lucara Diamond Corp — Lucara Recovers Epic 2,492 Carat Diamond From the Karowe Mine",
+        "url": "https://lucaradiamond.com/newsroom/news-releases/lucara-recovers-epic-2-492-carat-diamond-from-the-122900/"
+      },
+      {
+        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
+      }
+    ],
+    "image": "/images/april-birthstone-rough-diamond-kimberley.jpg",
+    "imageAlt": "A rough octahedral diamond crystal from the Kimberley Mine in South Africa",
+    "imageCredit": "Photo by Robert M. Lavinsky, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diamond-gem7-52a.jpg), CC BY-SA 3.0"
   }
 ];

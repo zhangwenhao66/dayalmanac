@@ -407,5 +407,16 @@
     ],
     "already_indexed_no_action": [],
     "quota_used": "1 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-09-10",
+    "action": "skipped_no_candidates",
+    "reason": "今日新发布april-birthstone，URL Inspection确认已收录（Page is indexed，本站索引速度一贯很快）。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1（libra-birthstone，09-09已提交），复查确认已收录。全站无可提交候选，跳过不消耗配额。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/april-birthstone/",
+      "https://dayalmanac.com/libra-birthstone/"
+    ],
+    "quota_used": "0 of shared account-wide daily quota"
   }
 ]

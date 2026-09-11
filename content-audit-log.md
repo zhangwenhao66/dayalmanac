@@ -2119,3 +2119,113 @@
   "pending_for_owen": null
 }
 ```
+
+
+```json
+{
+  "url_slug": "birthstones-by-month",
+  "last_audited": "2026-09-12",
+  "published_date": "2026-08-11",
+  "diagnostic_focus": [
+    "1. 全篇核心卖点是JA/GIA/AGS三方权威机构对March(bloodstone)和August(sardonyx)的分歧——须逐一实测三方当前官网页面，不能只信文章自己的转述",
+    "2. 1912/1952/2002/2016四轮修订历史+具体机构归属（American National Retail Jewelers Association/Jewelry Industry Council of America/AGTA）——须回Wikipedia/National Jeweler原文逐字核对",
+    "3. UK NAG 2013年清单（9月sapphire+lapis lazuli，12月无lapis lazuli）——须核对Wikipedia比较表原始wikitext（plaintext extract会把表格截断，必须用wikitext API）",
+    "4. November段落有一段具名行业人士(Oliver Hobart, 925E creative director)的分析性引语/评论——具名信源+具体分析内容，是L-0804-1类断言的高风险模式，须独立核实此人是否真的发表过这段内容",
+    "5. 14篇姊妹文章的内链桥接句（对march-birthstone/september-birthstone/december-birthstone/virgo-dates等文章的类比/转述）是否与目标文章实际内容一致"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "三方权威机构官网原始页面直接交叉核对（非转述），且明确指出National Jeweler旧报道已被AGS当前页面推翻（AGS现在把bloodstone加进March），展示了'自己重新核实而非照抄旧结论'的实证意识。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "确认1处问题（已修复），其余全部核实无误",
+      "detail": "对第1步识别的5条专属核查点逐一WebSearch+curl直连核实：①JA当前月度表（curl实测jewelers.org逐月比对，12个月stone完全吻合，含March=aquamarine alone、August=peridot+spinel、无bloodstone/sardonyx）CONFIRMED准确；②1912年'Kansas City'会议+'American National Retail Jewelers Association'名称，直接抓取Wikipedia Birthstone词条wikitext原文'In August 1912...met in Kansas City and officially adopted a list'逐字确认，'1952年由Jewelry Industry Council of America修订'一句同样在wikitext原文逐字找到；2002年tanzanite/AGTA、2016年spinel/AGTA+JA联合公告均经National Jeweler原文交叉确认；③UK NAG 2013年表（Sapphire+Lapis Lazuli for September；Tanzanite+Turquoise for December，无lapis lazuli）用Wikipedia wikitext表格逐格核对CONFIRMED；④AGS官网March/August页面导航栏实测确认'March Birthstones: Aquamarine and Bloodstone'标题逐字存在，August分类下Peridot/Sardonyx/Spinel三石并列存在，均与文章描述一致；⑤**Oliver Hobart(925E creative director)一段具名分析性评论——CONFIRMED编造归因**：Hobart其人及925E职位属实（Marie Claire/WWD/JCK/HELLO!/Yahoo多次引用其对皇室/名人珠宝的评论），但穷尽搜索（\"Oliver Hobart\" November birthstone/topaz/citrine/925E birthstone等9组关键词）未找到任何独立出处显示他发表过关于'November两种生日石造成零售购买困惑'的分析，他所有可查证的公开评论都是关于王室/名人珠宝新闻，与本文归给他的内容主题完全不搭边。判定为借用真实人物身份包装编造分析。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题",
+      "detail": "无dateRule/年份字段（非节日型文章），今日(2026-09-12)重新实测JA/GIA/AGS三方页面与文章描述完全一致，无需因时效性改动内容本身（updated字段因本次实际编辑而更新）。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题",
+      "detail": "三方机构交叉核对+具体点出分歧（March/August）是市面同类'birthstones by month'页面罕见的差异化角度，14篇姊妹文章反向引用本文佐证其作为站内权威hub页的地位。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "Skill(seo-audit)脚本核实：H1/canonical PASS；title 74字符、slug含stop word 'by'均为该skill通用阈值触发的warn，但check_seo_field_stats.py显示title z-score=0.32、description z-score=0.23，均远低于z<1不得标记的门槛，判定非真实问题。Schema: FAQPage PASS；Article/Organization缺recommended字段(publisher/sameAs/contactPoint)——核实为全站模板级共性，非本文独有缺陷，不在本次针对性修复范围。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "达标（未做结构性改动，未重新完整打分）",
+      "detail": "按站内既有11维度自评法：coreSummary/6节正文/FAQ schema/8条来源/自制SVG图表齐全，权威原文交叉核对充分，估算≥80分达标；本次修复(去除编造归因+精简重复措辞)提升可信度而非降低，未见GEO薄弱维度需要重新打分触发。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "N/A",
+      "detail": "published 2026-08-11晚于avoid-ai-writing接入日(2026-08-07)，原文已过初次发布前检查，跳过补漏。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现问题",
+      "detail": "sources[]全部8条URL curl实测200：jewelers.org、gia.edu×2、americangemsociety.org×3、en.wikipedia.org、nationaljeweler.com，无腐烂。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题，非孤儿页",
+      "detail": "grep全站确认本文被至少14篇姊妹文章（virgo-dates/may-birth-flower/june-birthstone/august-birth-flower/july-birth-flower/october-birthstone/february-birthstone/april-birthstone/november-birthstone/1993-chinese-zodiac等）在正文中用真实手写锚文本链接引用，是站内被引用最多的hub页之一，远超一般孤儿页风险线。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "本次编辑仅改动sections/faq/coreSummary/imageAlt/updated字段文本内容，未涉及schema结构本身；FAQPage.mainEntity与guides.ts faq数组保持逐字同步（构建流程自动生成）。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "纯珠宝知识内容，无现实世界争议实体，无敏感度漂移风险。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "非外部图片，是站内自制SVG图表(/images/birthstones-by-month-grid.svg)，数据与文章描述一致（本次核实chart与JA/AGS当前页面吻合），无版权依赖，imageDims.ts已有对应条目。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "ads.txt实测正确指向pub-5245502795720653；内容为中性珠宝知识科普，非限制类目；无误导性标题/诱导点击布局。"
+    },
+    {
+      "dimension": "check_prose_patterns.py机械检查",
+      "status": "确认2类命中，均已修复，重跑至exit 0",
+      "detail": "①L-0819-8 \"X's own Y\"归因短语重复22次（阈值>2）——独立复核agent确认CONFIRMED REAL ISSUE（概念合理但措辞机械重复），已在coreSummary+5节正文+imageAlt共22处改写/精简为0次；②L-0819-9 FAQ与正文≥20连续字符逐字重合，6条FAQ全部命中（最长83字符）——独立复核agent确认FAQ#2/#3/#4为真实的复制粘贴问题，已重写FAQ#1-4采用文章已建立的JA/GIA/AGS缩写规避重合，迭代9轮后脚本exit 0。③连字符(' -- ')0处，对比框架2次/1503词，均PASS未触发。"
+    },
+    {
+      "dimension": "谷歌垃圾政策合规(google-spam-compliance)",
+      "status": "PASS（全部11项+AI三要素+AdSense）",
+      "detail": "三要素判定：投入[有]/原创[有]/附加价值[有]，无高危信号。11类政策逐条PASS或N/A（无隐藏文字/关键词堆砌/抓取/伪装门页/恶意行为；内链目标slug全部实测存在）。AI内容专属判定：非商品化内容（有本站独有的三方交叉核对角度），PASS。AdSense合规PASS。"
+    }
+  ],
+  "independent_review": [
+    "Oliver Hobart引语真实性——独立agent（零上下文，仅给具体断言+背景）自行WebSearch核实：CONFIRMED REAL ISSUE。Hobart本人及925E职位真实（多家媒体常年引用其王室/名人珠宝评论），但穷尽搜索找不到任何出处显示他谈过November birthstone购买困惑这个话题，判定为借真实身份包装的编造分析。",
+    "check_prose_patterns.py两类命中——独立agent（零上下文，实际读取guides.ts对应行区间）：'s own重复22次CONFIRMED REAL ISSUE（核心概念合理但措辞应多样化）；FAQ/正文重合6条中至少3条(#2/#3/#4)CONFIRMED REAL ISSUE为真实复制粘贴（非仅技术性专有名词重合），#1/#6程度较轻。"
+  ],
+  "actions_taken": [
+    "删除对Oliver Hobart(925E)的编造归因，November段落改写为站内自己的分析陈述，保留原有可辩护的论点(November两种常见零售石头比March/August的冷门替代石头更容易造成真实购买困惑)，不再假托第三方具名人士背书",
+    "改写coreSummary+5节正文+imageAlt共22处\"X's own Y\"归因短语为多样化措辞（如'own'→删除/'separate'/'current'），保留文章'每个机构核对自己当前页面'这一核心论点不变",
+    "重写FAQ#1-4（Q2重排月份顺序、Q3/Q4改用文章已建立的JA/GIA/AGS缩写、调整连词结构），消除与正文≥20字符逐字重合，FAQ#5/#6轻微调整用词但结论不变",
+    "补充published字段前置检查：本条目本身published/updated字段完整（无需按第4步'仅有updated无published'流程回填），updated改为2026-09-12",
+    "SEO回归基线：seo_drift.py baseline已存（部署前，200/单H1/4个schema/canonical自指）",
+    "npm run build 134页0报错；commit efb79d6（仅暂存src/data/guides.ts，规避同目录indexnow-submit-log.json等并发文件）+ push成功，已用git merge-base --is-ancestor确认efb79d6是origin/main当前HEAD(d3bf429，同晚另一并发任务的docs commit)的祖先，代码改动无丢失风险",
+    "部署未按预期在合理时间内生效：轮询dayalmanac.com与dayalmanac.pages.dev（源站，排除自定义域名CDN缓存因素）共约14分钟/3轮后台轮询仍返回旧内容。核对全局记忆cf_deploy_hooks.md发现Owen刚记录的同晚新故障模式（2026-09-12）：delta/gamma/alpha三站当晚均出现\"hook返回200+deployment id但内容20-30分钟后仍不上线\"，判定为Cloudflare Pages账号级/服务侧构建-发布延迟异常（非本次commit/push/build哪一步出错，已用git ls-remote+merge-base验证代码本身完好）。按该记忆文档的既定处置：不再为等待生效而长时间空转轮询，commit/push/build本地验证已完成即视为本次内容修复已完成，IndexNow提交与seo_drift.py compare两步（均依赖线上已生效）推迟到下次任务运行时先复查本URL是否已生效再执行"
+  ],
+  "seo_score": "技术SEO全项PASS，未改动（title/description/H1/canonical均未变动，z-score分别0.32/0.23远低于离群阈值）；线上验证因CF侧部署延迟异常推迟",
+  "geo_score": "估算≥80分达标，未触发结构性改动，未重新完整打分（本次修复方向是提升可信度/去重复，非补GEO薄弱维度）",
+  "escalation": null,
+  "pending_for_owen": "IndexNow提交+内容发布日志最终确认+seo_drift.py compare三步依赖线上生效，因当晚Cloudflare Pages账号级部署延迟异常（详见cf_deploy_hooks.md 2026-09-12记录，同晚delta/gamma/alpha三站同一故障）未能完成，非本次任务失败——下次trafficsite-content-quality-audit或任何dayalmanac相关任务运行时，先curl -s -o /dev/null -w %{http_code} https://dayalmanac.com/birthstones-by-month/?cb=RANDOM 确认November段落已不含Oliver Hobart字样，确认生效后补跑IndexNow提交并在内容发布日志.md记一笔"
+}
+```

@@ -389,3 +389,26 @@ TheHomeSchoolMom（thehomeschoolmom.com，运营方Kelley Media, Ltd.）网站�
 3. **独立复核agent的完成状态必须以可引用的真实task-notification为准，不能凭对话里出现过"VERDICT: SEND"字样就当作已验证**——本轮机会A的缺口已如实记录在`outreach-drafts.md`对应条目里，未来同类情况应在怀疑agent卡死或响应缺失时，优先按全局CLAUDE.md"后台agent看门狗"规则主动查证/自行核实，而不是在没有真实证据的情况下顺势往下走。
 
 **累计口径**：DayAlmanac断链置换战术累计已发送8封pitch(icalendars.net 08-09、checkiday.com 08-21由Owen人工提交、TheHomeSchoolMom 08-26、nathab.com与nationalband.com 08-28、adoptmidtn.com 08-31、writeshop.com与beardsleyzoo.org 09-02)，已验证not_replaced 2条(icalendars.net、checkiday.com)、verified_live_backlink_confirmed 0条(其余6条尚在10-14天验证窗口内或冷却期中，暂未到复核节点)，转化率0/8(样本量小，多数pitch距发送不足14天，尚不能判定最终转化)。
+
+---
+
+## 2026-09-11（第十次运行）— 「外链产能集中规则」本轮命中DayAlmanac（11-30位曝光396，矩阵内容型站排名第一）
+
+### 第一部分：核实旧pitch
+
+逐条核对08-28(nathab.com/nationalband.com，14天)、08-31(adoptmidtn.com，11天)、09-02(writeshop.com/beardsleyzoo.org，9天，未满10天)，本轮取最早的**TheHomeSchoolMom**（08-26发出，Message ID `1a03e50104f5cf4d`，收件人`help@makelleyandcompanyinc.com`）——16天，此前从未验证过。
+
+- curl复查 `https://www.thehomeschoolmom.com/homeschool-lesson-plans/mexico-independence-day/`：HTTP 200，全文出现`mexicanhistory`2次，无"dayalmanac"字样，判定**`not_replaced`**。
+- `python3 research-db/dataforseo_query.py backlinks dayalmanac.com --limit 100`：外链明细共1条（`shootingnewsweekly.com → /national-taco-day/`，dofollow，与本条pitch无关，如实记录不计入本条验证）。
+- `gmail_send.py list --query "from:thehomeschoolmom.com OR from:makelleyandcompanyinc"`返回空，对方从未回复。
+- **不安排跟进**：收件邮箱已确认是GDPR/CCPA法务/隐私专用邮箱（08-26原记录已如实标注、且已被`trafficsite-nightly-ops-review`记入`独立站/待Owen处理事项.md`同名条目），维持08-26原决定"不追加跟进邮件"。标记 **`not_replaced`**。
+
+### 第二部分：新机会挖掘
+
+本轮尝试"checkiday.com已发布节日教师资源合集"（TCEA/123homeschool4me/digitalhygge/kidsactivitiesblog等National Taco Day相关资源）与"世界微笑日Joomla死链独立引用者"两个延续角度，均无新真实候选：blog.tcea.org的National Taco Day课堂活动页出站链接全部是站内工具/表单，无可置换的第三方引用；其余搜索结果多为竞品文章（daysoftheyear/nationaltoday）而非资源合集页，同08-26轮已确认的"引用列表型页面在此选题下稀缺"结论一致。**本轮未发现新的真实死链+主题对应机会。**
+
+### ⛔ SES迁移冻结——本轮未做任何实际发送尝试
+
+处理DayAlmanac前已从DialWick处理过程中发现`独立站/待Owen处理事项.md`"SES迁移期间14个域名邮件发送暂停执行"条目仍然有效（截至09-10/09-11未见Owen完成切换的记录），本轮TheHomeSchoolMom的验证环节不涉及新发送（法务邮箱本就不安排跟进），第二部分也未找到新候选需要发送，因此本站本轮不构成SES冻结下的新违规。
+
+**累计口径不变**：仍是8封pitch，已验证`not_replaced` 3条(icalendars.net、checkiday.com、TheHomeSchoolMom)，转化率0/8。

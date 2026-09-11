@@ -418,5 +418,16 @@
       "https://dayalmanac.com/libra-birthstone/"
     ],
     "quota_used": "0 of shared account-wide daily quota"
+  },
+  {
+    "date": "2026-09-11",
+    "action": "skipped_no_candidate",
+    "reason": "今日新发布june-22-zodiac，URL Inspection确认已收录（本站索引速度一贯很快）。Page indexing报告Crawled-not-indexed仅1条libra-birthstone，核查已收录（09-09提交生效）。全站无可提交候选，跳过不消耗配额。",
+    "submitted_urls": [],
+    "already_indexed_no_action": [
+      "https://dayalmanac.com/june-22-zodiac/",
+      "https://dayalmanac.com/libra-birthstone/"
+    ],
+    "quota_used": "0"
   }
 ]

@@ -1800,6 +1800,134 @@ export const guides: Guide[] = [
     "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Virgo.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
   },
   {
+    "slug": "june-22-zodiac",
+    "category": "Zodiac Dates",
+    "title": "June 22 Zodiac: Cancer, Despite the Cusp Claims",
+    "description": "June 22 falls under Cancer by every mainstream tropical chart. Wikipedia's astrology entry still manages to give two different start dates for the sign, a day apart.",
+    "published": "2026-09-11",
+    "updated": "2026-09-11",
+    "coreSummary": "June 22 is Cancer under the Western tropical zodiac, the system behind most horoscope columns, which AstroStyle and Farmers' Almanac both place at June 21 to July 22. The boundary itself is set by the June solstice, not a fixed calendar date, and U.S. Naval Observatory data shows that solstice hasn't landed on June 22 since 1975 and won't again through 2100, so the day carries none of the real year-to-year ambiguity that June 20 or 21 births do.",
+    "sections": [
+      {
+        "heading": "What sign is June 22, really",
+        "body": [
+          "Every mainstream astrology publisher agrees on the broad strokes: June 22 is Cancer. AstroStyle and Farmers' Almanac both give the sign's range as June 21 to July 22, which puts June 22 on the second day of the sign, not its opening one.",
+          "Go looking for exactly where Cancer starts, though, and the sources stop agreeing, sometimes within the same source. Wikipedia's entry on Cancer (astrology) opens by stating that \"the Sun transits this area between approximately June 22 and July 23,\" then two sections later says anyone \"born from approximately June 21 to July 22 (depending upon the year)\" counts as a Cancer. The opening line makes June 22 the sign's first day; the later section makes it the second. Neither passage cites the other, and nothing in the article flags the mismatch.",
+          "That one-day gap looks like sloppy editing, but it's really a symptom of how the tropical zodiac works. Cancer's start isn't a fixed date on the calendar at all. It's pinned to an astronomical event that moves."
+        ]
+      },
+      {
+        "heading": "Why the start date drifts by about a day",
+        "body": [
+          "Cancer's opening boundary is set by the June solstice, the moment the Sun reaches its northernmost point and the Northern Hemisphere tilts most directly toward it. In 2026 that moment falls on June 21 at 08:24 UTC, per the U.S. Naval Observatory's published seasons data, which calculates the event to the minute for any year from 1700 to 2100.",
+          "The solstice doesn't land on the same calendar date every year because Earth's trip around the Sun takes about 365.2422 days, not a clean 365. Each ordinary year the moment arrives roughly six hours later than the year before, and a leap day resets most of that drift every four years. Across that cycle the solstice moves within a narrow band, generally June 20 to June 22, and which side of midnight it falls on in a given time zone decides whether that year's Cancer opens on the 20th, 21st, or 22nd.",
+          "That's the entire explanation for why AstroStyle and Farmers' Almanac say June 21 while Wikipedia's opening paragraph says June 22. Neither is disagreeing about astrology. They're rounding a moving target to different days."
+        ]
+      },
+      {
+        "heading": "How far the wobble actually reaches",
+        "body": [
+          "Pop-astrology sites treat the Gemini-Cancer boundary as a wide, mysterious \"cusp.\" YourTango, for one, places the cusp window at June 16 through June 22, implying nearly a week of genuine ambiguity about which sign applies.",
+          "The Naval Observatory's actual solstice data doesn't support a window anywhere near that wide. Checked year by year against the agency's published data, the June solstice has landed only on June 20, 21, or 22, never earlier or later, and June 22 is the rare edge of that range: the tables show it hasn't happened since 1975, and it doesn't recur through 2100, the far limit of the agency's current calculator. For anyone born in the past half-century, or anyone who will be born through the end of this century, June 22 sits a full calendar day past where the solstice can plausibly fall, with no real chance the sign boundary crosses it.",
+          "The birthdays where the tropical sign genuinely can't be read off a calendar are June 20 and June 21, the two dates the solstice actually moves between. A \"cusp\" defined the way YourTango and similar sites define it, spanning nearly a week, is describing a mood more than a measurable fact.",
+          "Settling a genuine June 20 or 21 birth takes more than any general-purpose date range. It takes an ephemeris, a table giving the Sun's exact position for a specific date, time, and location, checked against the birth's own local time zone. A calendar page like this one answers the question correctly for the overwhelming majority of Cancer births, June 22 comfortably among them, and has nothing useful to say about the small slice of people born within a day of the solstice itself, where the hour of birth, not just the date, decides which sign applies."
+        ]
+      },
+      {
+        "heading": "What the actual constellation is doing on June 22",
+        "body": [
+          "Zodiac dates and constellation positions are different questions, and Cancer shows the gap better than most signs. Per EarthSky, the Sun doesn't pass in front of the actual constellation Cancer until roughly July 21, staying there until about August 10, a full month after the tropical zodiac says Cancer season opens.",
+          "That lag is precession, the slow 25,800-year wobble of Earth's rotational axis, at work. It's also why the Tropic of Cancer, the latitude line where the solstice Sun sits directly overhead, still carries Cancer's name from when Greco-Roman astronomers drew it more than two thousand years ago. Per Wikipedia's entry on the line, the Sun sat in front of the constellation Cancer at the June solstice when the name was fixed; today, at that same solstice, the Sun sits in front of Taurus. The tropical zodiac ignores this drift by design, resetting to the solstices and equinoxes every year regardless of which stars sit behind the Sun, while the constellation itself has simply moved on without it."
+        ]
+      },
+      {
+        "heading": "A different calendar entirely: Vedic sidereal astrology",
+        "body": [
+          "Vedic astrology, practiced widely across South Asia, uses a sidereal zodiac tied to the fixed stars rather than the solstice, and it places the Sun's entry into Karka (Cancer) about a month after the Western tropical start. The 2026 transit, called Karka Sankranti, falls on July 16, per the Hindu festival calendar site Ganesha Speaks, and marks the start of Dakshinayana, the period Hindu tradition associates with the Sun's southward journey.",
+          "The gap between the two systems is less a disagreement than two reference points drifting apart over centuries. Tropical astrology resets to the solstice every year; sidereal astrology tracks the actual backdrop of stars; the difference between them, called the ayanamsha, widens by roughly a degree every 72 years. A person born June 22 is a tropical Cancer on every Western horoscope chart and, on the Vedic calendar, still a sidereal Gemini, since that transition doesn't arrive until the sidereal Sun reaches Karka in mid-July."
+        ]
+      },
+      {
+        "heading": "What doesn't move: symbol, planet, and birthstone",
+        "body": [
+          "Whichever calendar sets the boundary, Cancer's traditional attributes stay fixed across every tropical source. It's a cardinal Water sign, ruled by the Moon, and represented by the crab, tracing to a Greek myth in which a crab that harassed Heracles during his fight with the Hydra was crushed underfoot and placed among the stars by Hera afterward.",
+          "One thing the tropical system doesn't supply is an official birthstone. This site's [June birthstone page](/june-birthstone/) documents the Jewelers of America chart: pearl and moonstone from the original 1912 list, with alexandrite added forty years later. There's no comparable trade-group chart assigning stones to zodiac signs, and readers a day or two over on the Gemini side run into a separate mismatch: this site's [Gemini birthstone page](/gemini-birthstone/) traces the \"pearl and alexandrite\" claim some retailers make for Gemini back to June's own monthly list, since the older zodiac birthstone table most of those retailers actually draw from names agate for Gemini instead."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What zodiac sign is June 22?",
+        "answer": "Cancer. The Western zodiac most horoscopes use marks the sign as running from around the June solstice through late July, and June 22 lands squarely inside that stretch rather than anywhere near an edge."
+      },
+      {
+        "question": "Why do some sources say Cancer starts on June 21 and others say June 22?",
+        "answer": "They're rounding the same moving marker differently. Cancer's opening tracks a specific instant in the sky rather than sitting on a fixed square of the calendar, and that instant creeps later by hours each year until a leap day nudges it back, so a one-day split between publishers reflects rounding, not a factual dispute."
+      },
+      {
+        "question": "Is June 22 part of the Gemini-Cancer cusp?",
+        "answer": "Only under generous pop-astrology definitions that stretch a 'cusp' out to nearly a week. The real mechanism behind any cusp, official government solstice records, confines the swing to a two-day range that doesn't reach June 22 at all in the current era, making this date one of the more secure, non-ambiguous Cancer birthdays on the calendar."
+      },
+      {
+        "question": "What are Cancer's ruling planet, element, and symbol?",
+        "answer": "Moon-ruled, cardinal, and Water-elemented, pictured as a crab. The imagery goes back to a Hydra-fight episode in Greek myth, where Hera placed the crushed creature among the stars as a small reward for its trouble."
+      },
+      {
+        "question": "When does the Sun actually pass through the constellation Cancer?",
+        "answer": "Weeks after astrological Cancer season ends its opening stretch, not during it. Precession has pulled the physical constellation roughly a month out of step with the zodiac sign that borrows its name, a gap EarthSky's own tracking of the sky documents directly."
+      },
+      {
+        "question": "What is the Vedic or sidereal date for Cancer?",
+        "answer": "About four weeks behind the tropical version. India's sidereal calendar marks the shift with a named transit, Karka Sankranti, landing in mid-July rather than late June, so a tropical Cancer birthday in June can still fall under a different sidereal sign entirely."
+      },
+      {
+        "question": "What is the June 22 zodiac's birthstone?",
+        "answer": "No astrology group has ever published one. What circulates instead is the calendar-month list from the jewelry trade, which this calendar covers separately under its own June entry."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Cancer (astrology)",
+        "url": "https://en.wikipedia.org/wiki/Cancer_(astrology)"
+      },
+      {
+        "label": "Wikipedia — Tropic of Cancer",
+        "url": "https://en.wikipedia.org/wiki/Tropic_of_Cancer"
+      },
+      {
+        "label": "Wikipedia — June solstice",
+        "url": "https://en.wikipedia.org/wiki/June_solstice"
+      },
+      {
+        "label": "U.S. Naval Observatory — Earth's Seasons",
+        "url": "https://aa.usno.navy.mil/data/Earth_Seasons"
+      },
+      {
+        "label": "AstroStyle — Cancer Dates",
+        "url": "https://astrostyle.com/astrology/cancer-dates/"
+      },
+      {
+        "label": "Farmers' Almanac — Cancer Zodiac Sign",
+        "url": "https://www.farmersalmanac.com/zodiac-zone-meet-cancer"
+      },
+      {
+        "label": "EarthSky — Cancer: Here's your constellation",
+        "url": "https://earthsky.org/constellations/cancer-heres-your-constellation/"
+      },
+      {
+        "label": "YourTango — Gemini-Cancer Cusp",
+        "url": "https://www.yourtango.com/zodiac/gemini-cancer-cusp"
+      },
+      {
+        "label": "Ganesha Speaks — Karka Sankranti",
+        "url": "https://www.ganeshaspeaks.com/festival-calendars/information/karka-sankranti/"
+      }
+    ],
+    "image": "/images/june-22-zodiac-cancer-uranias-mirror.jpg",
+    "imageAlt": "Hand-colored 1825 star chart of the Cancer constellation from Urania's Mirror, showing the crab",
+    "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Cancer.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
+  },
+  {
     "slug": "march-birthstone",
     "category": "Birthstones",
     "title": "March Birthstone: Aquamarine and Bloodstone",

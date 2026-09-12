@@ -8,8 +8,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 24
  },
  "/images/11th-anniversary-gift-turquoise.jpg": {
-  "h": 1591,
-  "w": 2248
+  "h": 1132,
+  "w": 1600
  },
  "/images/1987-chinese-zodiac-rabbit-figure.jpg": {
   "h": 625,
@@ -20,8 +20,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 900
  },
  "/images/1991-chinese-zodiac-goat-figure.jpg": {
-  "h": 1400,
-  "w": 2100
+  "h": 1067,
+  "w": 1600
  },
  "/images/1992-chinese-zodiac-monkey-figure.jpg": {
   "h": 624,
@@ -44,12 +44,12 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1200
  },
  "/images/april-birth-flower-daisy.jpg": {
-  "h": 1281,
-  "w": 1920
+  "h": 1068,
+  "w": 1600
  },
  "/images/april-birth-flower-sweet-pea.jpg": {
-  "h": 2757,
-  "w": 1920
+  "h": 2298,
+  "w": 1600
  },
  "/images/april-birthstone-cullinan-rough.jpg": {
   "h": 400,
@@ -64,8 +64,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1280
  },
  "/images/august-birth-flower-poppy.jpg": {
-  "h": 1623,
-  "w": 1920
+  "h": 1352,
+  "w": 1600
  },
  "/images/banned-books-week-protest.jpg": {
   "h": 960,
@@ -104,8 +104,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1600
  },
  "/images/december-birthstone-tanzanite.jpg": {
-  "h": 726,
-  "w": 736
+  "h": 736,
+  "w": 726
  },
  "/images/december-birthstone-turquoise.jpg": {
   "h": 577,
@@ -140,12 +140,12 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1200
  },
  "/images/february-birth-flower-primrose.jpg": {
-  "h": 1438,
-  "w": 1920
+  "h": 1198,
+  "w": 1600
  },
  "/images/february-birth-flower-violet.jpg": {
-  "h": 1440,
-  "w": 1920
+  "h": 1200,
+  "w": 1600
  },
  "/images/galentines-day-timeline.svg": {
   "h": 480,
@@ -220,8 +220,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1200
  },
  "/images/lung-cancer-awareness-month.jpg": {
-  "h": 1800,
-  "w": 1800
+  "h": 1600,
+  "w": 1600
  },
  "/images/march-birth-flower-daffodil.jpg": {
   "h": 869,
@@ -360,8 +360,8 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1280
  },
  "/images/national-wife-appreciation-day.jpg": {
-  "h": 1815,
-  "w": 2151
+  "h": 1350,
+  "w": 1600
  },
  "/images/national-wildlife-day.jpg": {
   "h": 914,
@@ -388,20 +388,20 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "w": 1304
  },
  "/images/november-birthstone-citrine.jpg": {
-  "h": 1521,
-  "w": 1920
+  "h": 1268,
+  "w": 1600
  },
  "/images/november-birthstone-topaz-gems.jpg": {
   "h": 353,
   "w": 538
  },
  "/images/october-birth-flower-cosmos.jpg": {
-  "h": 2112,
-  "w": 2816
+  "h": 1200,
+  "w": 1600
  },
  "/images/october-birth-flower-marigold.jpg": {
-  "h": 2144,
-  "w": 2249
+  "h": 1525,
+  "w": 1600
  },
  "/images/october-birthstone-opal.jpg": {
   "h": 1085,

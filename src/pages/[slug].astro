@@ -6,7 +6,6 @@ import FAQPage from '../../vendor/site-toolkit/packages/schema/src/FAQPage.astro
 import { pickRelatedGuides } from '../../vendor/site-toolkit/packages/related-guides/src/index.ts';
 import CountdownWidget from '../components/CountdownWidget.astro';
 import DateTable from '../components/DateTable.astro';
-import ObservanceEvents from '../components/ObservanceEvents.astro';
 import AmazonPicks from '../components/AmazonPicks.astro';
 import { guides, categorySlug, type Guide } from '../data/guides';
 import { AUTHOR_NAME, SITE_ORIGIN } from '../consts';
@@ -86,15 +85,6 @@ import { imgDims } from '../data/imageDims';
 		url={pageUrl}
 	/>
 	<BreadcrumbList slot="head" items={breadcrumbItems} />
-	{guide.dateRule && (
-		<ObservanceEvents
-			slot="head"
-			name={guide.title}
-			description={guide.description}
-			url={pageUrl}
-			occurrences={guide.dateRule.occurrences}
-		/>
-	)}
 
 	<div class="mx-auto max-w-[880px]">
 		<nav class="mb-8 flex flex-wrap items-center gap-1.5 text-sm text-[var(--ink)]/40">

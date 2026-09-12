@@ -11657,5 +11657,148 @@ export const guides: Guide[] = [
     "image": "/images/april-birthstone-rough-diamond-kimberley.jpg",
     "imageAlt": "A rough octahedral diamond crystal from the Kimberley Mine in South Africa",
     "imageCredit": "Photo by Robert M. Lavinsky, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diamond-gem7-52a.jpg), CC BY-SA 3.0"
+  },
+  {
+    "slug": "national-pasta-day",
+    "category": "Observances",
+    "title": "National Pasta Day: An Origin No One Can Source",
+    "description": "The '1995 National Pasta Association' story behind October 17 has no source. What is documented: National Pasta Month, and the real World Pasta Day, October 25.",
+    "published": "2026-09-12",
+    "updated": "2026-09-12",
+    "coreSummary": "National Pasta Day falls on the fixed date of October 17 every year, a Saturday in 2026. The claim that the National Pasta Association designated this date in 1995 circulates across nearly every calendar site, but this page could not find that claim documented anywhere in the association's published materials, and National Day Calendar's page for the holiday states outright that it is still researching the day's origins. What the National Pasta Association has verifiably put its name to is different: National Pasta Month, promoted every October through its Share the Pasta consumer program, and published figures on how much pasta Americans actually eat (about 20 pounds a year per person, the country's sixth-highest per-capita food category, per a National Pasta Association fact sheet). A separate, well-documented observance, World Pasta Day, falls eight days later on October 25, tracing to the first World Pasta Congress held in Rome in 1995 and celebrated annually since 1998. In 2026 only, October 17 also happens to coincide with Sweetest Day, a floating, unrelated 1921 Cleveland observance.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "A fixed calendar date, October 17, observed every year regardless of the day of the week it falls on.",
+      "status": "conventional",
+      "source": {
+        "label": "National Day Calendar: National Pasta Day, October 17",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-pasta-day-october-17"
+      },
+      "occurrences": [
+        { "date": "2026-10-17", "weekday": "Saturday" },
+        { "date": "2027-10-17", "weekday": "Sunday" },
+        { "date": "2028-10-17", "weekday": "Tuesday" },
+        { "date": "2029-10-17", "weekday": "Wednesday" },
+        { "date": "2030-10-17", "weekday": "Thursday" },
+        { "date": "2031-10-17", "weekday": "Friday" }
+      ],
+      "caveat": "October 17 is not in dispute as a date, but it is easy to confuse with two other pasta-related observances that sit near it on the calendar and share its sponsor's orbit. World Pasta Day, an entirely separate observance with its own documented founding, falls eight days later on October 25. National Pasta Month, run by the same National Pasta Association that gets credited with National Pasta Day, covers the entire month of October rather than a single date. All three get referenced interchangeably in casual writing and even some retailer promotions, but they are three distinct observances with three different evidentiary records."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "No primary source this page could find backs up the story usually attached to this date. The version repeated across calendar and blog sites credits the National Pasta Association with designating October 17 as National Pasta Day in 1995. The association's website, ilovepasta.org, documents its industry's history in real detail elsewhere, including its 1904 founding as the National Association of Macaroni and Noodle Manufacturers of America and its 1981 rename, but nowhere claims credit for October 17 specifically. National Day Calendar, the day-registration site most searches for this term land on, does not repeat the 1995 story either; its page for the observance states plainly that it \"continues researching the origins of this delicious food holiday.\" That is a rare admission from a site that dates and sources most of its other thousands of entries, and it sits uneasily next to the confident, specific \"1995\" claim that circulates elsewhere without a citation attached to it.",
+      "source": {
+        "label": "National Day Calendar: National Pasta Day (\"continues researching the origins\")",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-pasta-day-october-17"
+      }
+    },
+    "sections": [
+      {
+        "heading": "October 17, and a claim nobody can source",
+        "body": [
+          "National Pasta Day lands on October 17 every year, a fixed date rather than a floating one, which puts it on a Saturday in 2026. Nearly every calendar site describes the day the same way, and most of them repeat some version of the same origin story: that the National Pasta Association designated the date back in 1995. This page went looking for whoever actually made that decision.",
+          "It isn't there. The National Pasta Association's website covers its industry's history in real detail, including the year its trade group formed and the year it changed its name, but nowhere claims credit for October 17 specifically. National Day Calendar, the site most people land on when they search this term, is more direct about the gap than most: its page for the holiday states plainly that it \"continues researching the origins of this delicious food holiday.\" That is an unusual admission from a site that dates and sources most of its thousands of other entries, and it does not square with the confident, specific \"1995\" story that keeps circulating elsewhere."
+        ],
+        "image": {
+          "src": "/images/national-pasta-day-october-comparison.svg",
+          "alt": "Diagram comparing National Pasta Month (all of October, documented), National Pasta Day (October 17, unverified origin), and World Pasta Day (October 25, documented to a 1995 Rome congress)"
+        }
+      },
+      {
+        "heading": "What the National Pasta Association actually put its name on",
+        "body": [
+          "The National Pasta Association itself is not in question, only the day it's often credited for. It traces to 1904, when a group calling itself the National Association of Macaroni and Noodle Manufacturers of America formed, with annual dues of $5, as the U.S. pasta industry grew out of an era that had begun with the country's first commercial pasta factory, opened on the Brooklyn waterfront in 1848 by French immigrant Antoine Zerega. The organization took its current name, National Pasta Association, in 1981.",
+          "What the association has actually put its name to, consistently and for years, is a month, not a single day: National Pasta Month, promoted every October through a consumer-facing program the group has run since 2011. That program wasn't always called Share the Pasta, either: the association operated it as Pasta Fits from 2011 until a January 2021 relaunch renamed it Share the Pasta, according to the group's own announcement of the change. A specific October 17 \"day,\" carved out of that month and credited to a 1995 association decision, is the part this page could not turn up in anything the group has published."
+        ]
+      },
+      {
+        "heading": "The pasta day that is verifiable: October 25",
+        "body": [
+          "Eight days later on the calendar sits a different pasta observance with an actual paper trail. World Pasta Day traces to the first World Pasta Congress, held in Rome on October 25, 1995, where pasta makers from around the world agreed the food deserved annual worldwide recognition, according to the event's official website. The congress happened in 1995, but the annual celebration itself didn't start immediately afterward: that same website states the day has been marked \"every year since 1998,\" a three-year gap between the founding meeting and the first actual observance that tends to get smoothed over whenever the two years get mentioned together.",
+          "National Pasta Day and World Pasta Day get used interchangeably in casual writing, and some retailer promotions run \"pasta week\" campaigns spanning both without distinguishing them. They are two different observances eight days apart, with two very different origin stories: one that a primary source actually documents, in Rome in 1995, and one that neither the association usually credited nor the internet's most-consulted day-calendar site can confirm."
+        ]
+      },
+      {
+        "heading": "What the trade group's numbers say Americans actually eat",
+        "body": [
+          "Whatever the truth about who picked October 17, the National Pasta Association's published figures back up the holiday's underlying claim that pasta is a real American staple. According to a consumer fact sheet the association distributes, the average American eats approximately 20 pounds of pasta a year, a total the group calls the sixth-highest of any single food category measured per person nationally, at an average shelf price around $1.45 per pound. A consumer survey cited in that same document found 73% of respondents ate pasta at least once a week or more. On the supply side, the sheet puts U.S. production at about 4.4 billion pounds of pasta annually, describing that as the second-largest volume of any pasta-producing country.",
+          "That fact sheet carries no printed date, but its references to pandemic-era buying shifts, including a cited 80% of consumers eating more pasta since the pandemic began, place its data around 2020-2021. This page could not find a newer release updating those figures, so treat the consumption, production, and price numbers above as a documented baseline from that period rather than a fresh count for the current year."
+        ]
+      },
+      {
+        "heading": "Why the 1995 story keeps circulating anyway",
+        "body": [
+          "The 1995 claim likely persists because it reads like a real citation without being one: it names an actual organization, attaches a specific year, and mimics the structure of holidays that were, in fact, registered this way. [National Boss's Day](/national-bosses-day/), for one, really was registered by a named individual, Patricia Bays Haroski, back in 1958. Once a sentence with that shape appears on one calendar site, later sites tend to copy its structure rather than check it, and nothing published by the trade group, or by National Day Calendar in its admitted uncertainty, ever catches up to correct it. The result is a claim that reads as sourced without ever actually having been sourced."
+        ]
+      },
+      {
+        "heading": "A calendar quirk that only applies in 2026",
+        "body": [
+          "National Pasta Day's fixed October 17 date happens to land on something else in 2026 specifically: Sweetest Day, a real and separately documented 1921 Cleveland observance that [this site's roundup of October's national days](/national-days-in-october/) traces to a twelve-member committee of local confectioners. Sweetest Day isn't fixed to a calendar date, though; it floats to the third Saturday of October every year, and running the math for both rules side by side shows the two land on the same day only in 2026 within the next several years. In 2027, Sweetest Day falls a day earlier, on October 16; the two observances won't share a date again through at least 2032. The overlap is a one-year coincidence, not a connection: no source ties the two observances to each other, and treating a shared date as evidence of a shared origin would repeat exactly the kind of unsourced leap this page has tried to avoid making about October 17 itself."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is National Pasta Day in 2026?",
+        "answer": "October 17, 2026, which this year is a Saturday. That's an accident of the calendar; the holiday itself never shifts to catch a particular weekday."
+      },
+      {
+        "question": "Who founded National Pasta Day, and when?",
+        "answer": "This page couldn't confirm anyone. A story tying the trade group to a decision to pick October 17 in 1995 shows up across a number of calendar sites, but no document from that trade group repeats the claim, and the top result for this search term openly admits it hasn't tracked down where the date came from."
+      },
+      {
+        "question": "Is National Pasta Day the same as World Pasta Day?",
+        "answer": "No. World Pasta Day sits on October 25, a week and a day later, and goes back cleanly to Rome's inaugural pasta-industry congress in 1995, with the observance itself running every year starting 1998. By contrast, the October 17 date this page covers has no equivalent record behind it."
+      },
+      {
+        "question": "Is National Pasta Day the same thing as National Pasta Month?",
+        "answer": "No. The month covers all of October as a branded campaign the trade group has run every year since 2011. The day is a single date pulled from inside that stretch, and it's the day, not the month-long campaign, that lacks a traceable origin."
+      },
+      {
+        "question": "How much pasta does the average American actually eat?",
+        "answer": "Roughly 20 pounds annually per person, a figure the trade group ranks sixth among all individual food categories measured by per-person volume nationwide. That number comes from an undated fact sheet whose mentions of pandemic-era shopping habits point to around 2020-2021, so it's best treated as a documented snapshot from that period, not a live 2026 count."
+      },
+      {
+        "question": "Does National Pasta Day ever land on the same date as another holiday?",
+        "answer": "In 2026, yes: Sweetest Day lands on that same October 17, because that observance floats to whichever Saturday is the third one in October each year rather than landing on one set date annually. That's a one-off overlap: the two fall a day apart again in 2027 and stay apart at least through 2032."
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Pasta Association: \"Did You Know\" consumer fact sheet (per-capita consumption, production, price, survey data)",
+        "url": "https://ilovepasta.org/wp-content/uploads/2021/03/National-Pasta-Association-Key-Message-Points-Final.pdf"
+      },
+      {
+        "label": "National Pasta Association: History (1848 first U.S. factory, 1904 trade-group founding)",
+        "url": "https://ilovepasta.org/history/"
+      },
+      {
+        "label": "National Pasta Association: Consumer Program Relaunches to Share the Pasta (Pasta Fits, 2011-2021, renamed 2021)",
+        "url": "https://sharethepasta.org/in-the-news/share-the-pasta-launch/"
+      },
+      {
+        "label": "Wikipedia: National Pasta Association (1981 rename from National Association of Macaroni and Noodle Manufacturers of America)",
+        "url": "https://en.wikipedia.org/wiki/National_Pasta_Association"
+      },
+      {
+        "label": "National Day Calendar: National Pasta Day, October 17 (\"continues researching the origins\")",
+        "url": "https://www.nationaldaycalendar.com/national-day/national-pasta-day-october-17"
+      },
+      {
+        "label": "World Pasta Day: official site (1995 Rome congress; celebrated annually since 1998)",
+        "url": "https://www.worldpastaday.org/"
+      },
+      {
+        "label": "This site: National Days in October (Sweetest Day's 1921 Cleveland founding)",
+        "url": "https://dayalmanac.com/national-days-in-october/"
+      },
+      {
+        "label": "This site: National Boss's Day (Patricia Bays Haroski's 1958 registration)",
+        "url": "https://dayalmanac.com/national-bosses-day/"
+      }
+    ],
+    "image": "/images/national-pasta-day-october-comparison.svg",
+    "imageAlt": "Diagram comparing National Pasta Month (all of October, documented), National Pasta Day (October 17, unverified origin), and World Pasta Day (October 25, documented to a 1995 Rome congress)"
   }
 ];

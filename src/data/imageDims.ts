@@ -51,6 +51,14 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 2757,
   "w": 1920
  },
+ "/images/april-birthstone-cullinan-rough.jpg": {
+  "h": 400,
+  "w": 300
+ },
+ "/images/april-birthstone-rough-diamond-kimberley.jpg": {
+  "h": 574,
+  "w": 582
+ },
  "/images/august-birth-flower-gladiolus.jpg": {
   "h": 1707,
   "w": 1280
@@ -178,6 +186,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/july-birth-flower-water-lily.jpg": {
   "h": 1200,
   "w": 1600
+ },
+ "/images/june-22-zodiac-cancer-uranias-mirror.jpg": {
+  "h": 1200,
+  "w": 839
  },
  "/images/june-birth-flower-honeysuckle.jpg": {
   "h": 1200,
@@ -323,6 +335,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1200,
   "w": 1600
  },
+ "/images/national-pasta-day-october-comparison.svg": {
+  "h": 340,
+  "w": 1000
+ },
  "/images/national-pepperoni-pizza-day.jpg": {
   "h": 1200,
   "w": 1600
@@ -462,6 +478,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/world-teachers-day-timeline.svg": {
   "h": 560,
   "w": 1200
+ },
+ "/logo-512.png": {
+  "h": 512,
+  "w": 512
  }
 };
 

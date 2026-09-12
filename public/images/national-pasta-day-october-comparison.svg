@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1000 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Three pasta observances in October, compared by evidence</title>
+  <desc id="desc">National Pasta Month runs October 1 through 31, promoted every year since 2011 by a National Pasta Association consumer program (Pasta Fits until a 2021 rename to Share the Pasta): documented. National Pasta Day falls on the fixed date of October 17 every year; no primary source names who set that date, and National Day Calendar's own research page says the creator has not been identified: unverified. World Pasta Day falls on October 25, established at the first World Pasta Congress in Rome on October 25, 1995, and celebrated annually since 1998: documented. In 2026, October 17 also happens to be Sweetest Day, an unrelated 1921 Cleveland observance, since Sweetest Day floats to the third Saturday of the month.</desc>
+  <rect width="1000" height="340" fill="#faf7f0" />
+
+  <!-- Month band: National Pasta Month -->
+  <rect x="60" y="60" width="880" height="34" rx="6" fill="#5b6d45" opacity="0.18" />
+  <text x="500" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#1f1d1a">National Pasta Month: all of October</text>
+  <text x="500" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">Documented: NPA consumer program since 2011 (Pasta Fits, renamed Share the Pasta in 2021)</text>
+
+  <!-- Timeline axis -->
+  <line x1="60" y1="200" x2="940" y2="200" stroke="#e2dbcc" stroke-width="2" />
+  <text x="60" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1f1d1a" opacity="0.6">Oct 1</text>
+  <text x="940" y="222" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1f1d1a" opacity="0.6">Oct 31</text>
+
+  <!-- Oct 17: National Pasta Day -->
+  <circle cx="529" cy="200" r="8" fill="#a8352b" />
+  <text x="529" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#1f1d1a">Oct 17</text>
+  <text x="529" y="178" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">National Pasta Day</text>
+  <text x="529" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#a8352b" font-style="italic">
+    <tspan x="529" dy="0">Unverified: no primary</tspan>
+    <tspan x="529" dy="15">source names a founder</tspan>
+  </text>
+
+  <!-- Oct 25: World Pasta Day -->
+  <circle cx="764" cy="200" r="8" fill="#5b6d45" />
+  <text x="764" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="600" fill="#1f1d1a">Oct 25</text>
+  <text x="764" y="178" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.8">World Pasta Day</text>
+  <text x="764" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#5b6d45" font-style="italic">
+    <tspan x="764" dy="0">Documented: 1995 World</tspan>
+    <tspan x="764" dy="15">Pasta Congress, Rome</tspan>
+  </text>
+
+  <!-- 2026 coincidence note -->
+  <text x="529" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1f1d1a" opacity="0.65">
+    <tspan x="529" dy="0">In 2026 only, Oct 17 also lands on Sweetest Day</tspan>
+    <tspan x="529" dy="14">(the year's third Saturday), a separate, unrelated 1921 holiday</tspan>
+  </text>
+
+  <text x="500" y="322" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.6">
+    Sources: ilovepasta.org and sharethepasta.org (National Pasta Association); nationaldaycalendar.com; worldpastaday.org
+  </text>
+</svg>

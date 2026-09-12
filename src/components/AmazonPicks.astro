@@ -1,0 +1,39 @@
+---
+// Gift-idea links for the birthstone / birth flower / anniversary / Chinese zodiac
+// families. Renders nothing for every other page family. See src/lib/affiliate.ts for
+// the program rules this follows; do not add Amazon links anywhere else on the page.
+import { affiliatePicks, amazonSearchUrl, AMAZON_DISCLOSURE } from '../lib/affiliate';
+
+interface Props {
+	guide: { category: string; title: string; slug: string };
+}
+
+const { guide } = Astro.props;
+const picks = affiliatePicks(guide);
+---
+
+{picks.length > 0 && (
+	<aside class="panel mt-12 px-5 py-5 sm:px-6" aria-labelledby="amazon-picks-heading">
+		<p class="rubric m-0">Gift ideas</p>
+		<p id="amazon-picks-heading" class="font-display m-0 mt-2 text-[1.12rem] leading-snug font-semibold text-[var(--ink)]">
+			If this page is for a gift
+		</p>
+		<ul class="m-0 mt-3 list-none p-0 text-[0.975rem] leading-relaxed">
+			{picks.map((p) => (
+				<li class="py-1">
+					<a
+						href={amazonSearchUrl(p.query)}
+						target="_blank"
+						rel="sponsored nofollow noopener"
+						class="text-[var(--flag-dark)] underline underline-offset-2 hover:text-[var(--ink)]"
+					>{p.label}</a>
+					<span class="text-[var(--ink)]/55"> on Amazon</span>
+				</li>
+			))}
+		</ul>
+		<p class="mt-3 mb-0 text-xs leading-relaxed text-[var(--ink)]/50">
+			{AMAZON_DISCLOSURE} These open Amazon.com search results; we have not tested the
+			products, and prices and availability change.
+		</p>
+	</aside>
+)}

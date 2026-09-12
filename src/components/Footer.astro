@@ -1,5 +1,6 @@
 ---
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { AMAZON_DISCLOSURE } from '../lib/affiliate';
 const year = new Date().getFullYear();
 ---
 
@@ -8,6 +9,7 @@ const year = new Date().getFullYear();
 		<div class="border-t border-[var(--rule)]"></div>
 		<div class="mt-[3px] border-t-2 border-[var(--ink)]"></div>
 		<p class="m-0 max-w-2xl pt-6 text-sm leading-relaxed text-[var(--ink)]/50">{SITE_DESCRIPTION}</p>
+		<p class="m-0 mt-2 max-w-2xl text-xs leading-relaxed text-[var(--ink)]/45">{AMAZON_DISCLOSURE} Links to Amazon on gift-related pages are marked as such.</p>
 		<div class="flex flex-col gap-4 py-7 text-sm text-[var(--ink)]/55 md:flex-row md:items-center md:justify-between">
 			<p class="font-display m-0 text-[0.95rem]">&copy; {year} {SITE_TITLE}</p>
 			<nav class="flex flex-wrap gap-5">

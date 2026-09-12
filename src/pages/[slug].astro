@@ -7,6 +7,7 @@ import { pickRelatedGuides } from '../../vendor/site-toolkit/packages/related-gu
 import CountdownWidget from '../components/CountdownWidget.astro';
 import DateTable from '../components/DateTable.astro';
 import ObservanceEvents from '../components/ObservanceEvents.astro';
+import AmazonPicks from '../components/AmazonPicks.astro';
 import { guides, categorySlug, type Guide } from '../data/guides';
 import { AUTHOR_NAME, SITE_ORIGIN } from '../consts';
 
@@ -217,6 +218,8 @@ import { imgDims } from '../data/imageDims';
 					</section>
 				))}
 			</article>
+
+			<AmazonPicks guide={guide} />
 
 			{guide.faq && guide.faq.length > 0 && (
 				<div class="mt-14 border-t-2 border-[var(--ink)] pt-6">

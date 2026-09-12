@@ -429,5 +429,15 @@
       "https://dayalmanac.com/libra-birthstone/"
     ],
     "quota_used": "0"
+  },
+  {
+    "date": "2026-09-12",
+    "action": "submitted",
+    "reason": "今日新发布national-pasta-day，URL Inspection确认URL is not on Google，提交成功。同日birthstones-by-month为content-quality-audit审计更新但当时线上未及时生效（Cloudflare部署延迟异常，见内容发布日志），本次未验证其GSC状态，留待下次运行复查。",
+    "submitted_urls": [
+      "https://dayalmanac.com/national-pasta-day/"
+    ],
+    "already_indexed_no_action": [],
+    "quota_used": "1 of shared account-wide daily quota"
   }
 ]

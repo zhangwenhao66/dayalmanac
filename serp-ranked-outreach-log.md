@@ -21,12 +21,12 @@ Fields per entry: date, target keyword, target type, target URL, contact method,
 | 联系方式 | 邮件 hello@teambonding.com（/contact-us/、/about-us/ 均公开列出的通用联系邮箱） |
 | AI 复核 | ✅ 可以发送（六项检查——查重、事实准确性、目标页现场再验证、新鲜度门槛、语气去AI味、诉求是否得体——全部通过） |
 | 发送状态 | ✅ 已发送 2026-08-29（Gmail msg `1a04db663b7e7ac1`；已回读投递 From 头确认为 `DayAlmanac <contact@dayalmanac.com>`） |
-| 10天后验证 | ⏳ 待 2026-09-08 之后回查（目标页面是否加上真 `<a href>` 链接 + `dataforseo_query.py backlinks dayalmanac.com` 确认 dofollow） |
+| 10天后验证 | `not_replaced`（2026-09-12 复核：curl目标页 `https://www.teambonding.com/boss-day/` 返回200，全文无 `dayalmanac` 字样；`dataforseo_query.py backlinks dayalmanac.com` 结果里无 `teambonding.com` 匹配行） |
 
 ### 本次运行累计记账（外链记账纪律，2026-08-25起硬性）
 
 | 指标 | 数值 |
 |---|---|
 | 累计已发送 | 1 |
-| 累计已验证到手（dofollow） | 0（本轮首次发送，未到10天验证窗口） |
-| 转化率 | 待验证（首次运行，n=1，10天后才有第一个数据点） |
+| 累计已验证到手（dofollow） | 0 |
+| 转化率 | 0/1（2026-09-12 复核 TeamBonding 未加链接，判定 not_replaced） |

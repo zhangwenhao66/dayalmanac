@@ -303,6 +303,14 @@ export const guides: Guide[] = [
       {
         "question": "Is there a National Girlfriend Day?",
         "answer": "Yes, National Girlfriend Day is observed on August 1. It is often cited as the reason the boyfriend version exists, but the two registries that define it, National Today and National Day Calendar, both describe August 1 as a day for female friendship rather than for romantic partners. Its own origin is disputed rather than settled, with different sources crediting different people or groups depending on which account you read."
+      },
+      {
+        "question": "Is October 1 Girlfriend Day?",
+        "answer": "No. National Girlfriend Day falls on August 1, not October 1, and National Boyfriend Day itself falls on October 3. Nothing on either registry's calendar places a girlfriend- or boyfriend-themed observance on October 1 specifically."
+      },
+      {
+        "question": "Is today National Boyfriend and Girlfriend Day?",
+        "answer": "There is no single combined day by that name. National Boyfriend Day (October 3) and National Girlfriend Day (August 1) are two separate, unofficial observances more than two months apart, each with its own disputed origin story, not one joint holiday for couples."
       }
     ],
     "sources": [
@@ -472,6 +480,10 @@ export const guides: Guide[] = [
       {
         "question": "How is National Daughters Day different from National Son's and Daughter's Day?",
         "answer": "They are different dates covering different groups. National Son's and Daughter's Day is on August 11 and includes children of both sexes. National Daughters Day is on September 25 in the US and is specific to daughters. Neither has official status, and the origins of both are poorly documented."
+      },
+      {
+        "question": "Is there two Daughters Day?",
+        "answer": "There are actually three related observances, not two. National Daughters Day falls on September 25 in the US; International Daughters Day, which originated in India, falls on the fourth Sunday in September; and a separate, older observance, National Son's and Daughter's Day, covers both sexes on August 11. All three get blended together because they land within weeks of each other and use overlapping names."
       }
     ],
     "sources": [
@@ -640,6 +652,10 @@ export const guides: Guide[] = [
       {
         "question": "Is there a National Daughters Day as well?",
         "answer": "Yes. National Day Calendar lists National Daughter's Day on September 25. Its existence is part of the stated reason National Sons Day was created, since the founder set out to give sons an equivalent day."
+      },
+      {
+        "question": "Is March 4, 2026 National Sons Day?",
+        "answer": "Yes. March 4 is the fixed date for National Sons Day every year, chosen because \"march forth\" reads as a motivational instruction. A second, unofficial version of the day is also widely observed on September 28, but neither date carries government recognition."
       }
     ],
     "sources": [
@@ -1316,6 +1332,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Cat Day a federal holiday?",
         "answer": "No. It has no legal status. Government offices, banks, and most businesses operate on their normal schedule on October 29, and no time off is attached to the day."
+      },
+      {
+        "question": "Is National Black Cat Day on August 17 or October 27?",
+        "answer": "Neither date is wrong, they're two different holidays. August 17 is Black Cat Appreciation Day, a US observance founded in 2011 by Wayne H. Morris. October 27 is National Black Cat Day, a separate UK observance launched the same year by the charity Cats Protection. Both are distinct from National Cat Day itself, October 29."
       }
     ],
     "sources": [
@@ -1482,6 +1502,10 @@ export const guides: Guide[] = [
       {
         "question": "How many dogs are in US shelters right now?",
         "answer": "According to the ASPCA's current shelter statistics, 2.8 million dogs entered US shelters and rescues in 2025, about 2 million were adopted, and approximately 320,000 were euthanized. A 2013 New York State resolution's claim of \"approximately one million dogs saved through adoptions\" since 2004 is not tied to any cited source."
+      },
+      {
+        "question": "Do dogs cry at the end of life?",
+        "answer": "Not the way humans do. PetMD's veterinary guidance on end-of-life dogs describes physical decline, like muscle loss and labored breathing, rather than an emotional goodbye; any whining or vocalizing in a dog's final days is generally tied to pain, anxiety, or confusion rather than an intentional expression of grief."
       }
     ],
     "sources": [
@@ -1612,6 +1636,10 @@ export const guides: Guide[] = [
       {
         "question": "Why is December's zircon usually a specific shade of blue?",
         "answer": "Most of it starts out brown and is heat-treated to turn blue. Nearly all of that treated rough comes from Ratanakiri province in Cambodia, which the International Colored Gemstone Association describes as the world's only deposit of material capable of producing that rich blue color."
+      },
+      {
+        "question": "What are the 12 birthstones by month?",
+        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, checked directly against Jewelers of America's live list: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon, the three stones covered on this page."
       }
     ],
     "sources": [
@@ -2148,6 +2176,10 @@ export const guides: Guide[] = [
       {
         "question": "Where does the name \"bloodstone\" come from?",
         "answer": "From a legend that its red iron-oxide spots represent the blood of Christ. Its alternate name, heliotrope, is a separate and older reference, from ancient Greek for \"to turn the sun.\""
+      },
+      {
+        "question": "Is March the only month with two birthstones?",
+        "answer": "No. On Jewelers of America's current chart, June and December each carry three stones and August, October, and November each carry two. March is one of several months with more than one recognized stone, not the exception."
       }
     ],
     "sources": [
@@ -2268,6 +2300,10 @@ export const guides: Guide[] = [
       {
         "question": "Is sapphire durable enough for an everyday ring?",
         "answer": "Yes. It ranks 9 on the Mohs hardness scale, second only to diamond among natural minerals, and has no cleavage, meaning it resists chipping under normal wear."
+      },
+      {
+        "question": "What are the two birthstones for September?",
+        "answer": "On the US list, September has just one, sapphire. The \"two birthstones\" version comes from Britain's separate jewelry-trade list, revised in 2013, which pairs sapphire with lapis lazuli. Jewelers of America's US chart has never included lapis lazuli for September; that stone belongs to December in the American tradition."
       }
     ],
     "sources": [
@@ -2511,6 +2547,14 @@ export const guides: Guide[] = [
       {
         "question": "Is garnet Capricorn's zodiac birthstone?",
         "answer": "Depends on the source. Many modern sites say so, but the historical zodiac table traced to gemologist George Kunz's 1913 work, reproduced on Wikipedia, assigns garnet to Aquarius instead. In that same table, Capricorn's stone is ruby."
+      },
+      {
+        "question": "Is January's birthstone garnet or ruby?",
+        "answer": "Garnet, on every monthly birthstone list checked, from the 1912 US standard through the 2019 update. Ruby belongs to July. The mix-up likely traces to the 1913 Kunz zodiac table, reproduced on Wikipedia, which assigns ruby to Capricorn (the portion of the zodiac running into mid-January) and garnet to Aquarius, a separate zodiac-sign tradition rather than a monthly birthstone one."
+      },
+      {
+        "question": "What are the two birthstones for the January zodiac?",
+        "answer": "Ruby and garnet. Per the 1913 Kunz zodiac table reproduced on Wikipedia, Capricorn (running through January 19) is assigned ruby, and Aquarius (starting January 20) is assigned garnet. That's a separate, older zodiac-sign tradition from the monthly birthstone list, which names garnet alone for the calendar month of January."
       }
     ],
     "sources": [
@@ -3010,6 +3054,10 @@ export const guides: Guide[] = [
       {
         "question": "Is this the same National Taco Day that Congress recognized in 1968?",
         "answer": "No. Congressman Henry B. Gonzalez designated May 3, 1968 as National Taco Day, tied to a San Antonio civic group called the National Taco Council. That observance faded from public record after 1980 and has no documented connection to the October 4 date that emerged independently in the 2000s."
+      },
+      {
+        "question": "Does Taco Bell have $1 tacos every Tuesday?",
+        "answer": "Not as a fixed weekly deal. Taco Bell's Rewards app runs \"Tuesday Drops,\" a different discounted item most Tuesdays, a $1 Burrito Supreme one week, a $1 Meximelt or Quesarito another, available first-come, first-served to a capped number of members rather than a standing $1-taco guarantee."
       }
     ],
     "sources": [

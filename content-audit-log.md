@@ -2229,3 +2229,46 @@
   "pending_for_owen": "IndexNow提交+内容发布日志最终确认+seo_drift.py compare三步依赖线上生效，因当晚Cloudflare Pages账号级部署延迟异常（详见cf_deploy_hooks.md 2026-09-12记录，同晚delta/gamma/alpha三站同一故障）未能完成，非本次任务失败——下次trafficsite-content-quality-audit或任何dayalmanac相关任务运行时，先curl -s -o /dev/null -w %{http_code} https://dayalmanac.com/birthstones-by-month/?cb=RANDOM 确认November段落已不含Oliver Hobart字样，确认生效后补跑IndexNow提交并在内容发布日志.md记一笔"
 }
 ```
+
+## 2026-09-13 PAA-FAQ批强（一次性批量补强，Owen批准，来源见 独立站/research-db/paa_gap.py 与 独立站/research-db/paa_bulk_20260913/dayalmanac.json）
+
+依据：`paa_gap.py` 重新解析12000+份历史DataForSEO SERP抓取，比对出44篇已发布文章的目标关键词在Google上真实存在、但现有FAQ没接住的PAA问法。范围已排除CalcBadger/DialWick/LingoGrove三站压制期规则与beta/gamma的walled_deprioritize名单（不适用本站）。任务性质：纯FAQ增量追加，不改动正文/标题/description/sources/coreSummary/其他FAQ条目/schema字段，不修改`updated`/`published`字段（保守起见，视为非实质性刷新）。
+
+**处理结果：44篇候选全部过了一遍筛选，23篇新增FAQ（合计26条新问答），21篇判定跳过（原因见下）。**
+
+**新增FAQ的23篇（按impressions_28d降序，括号内为本次新增问题数）：**
+national-daughters-day(1)、national-dog-day(1)、national-taco-day(1)、national-sons-day(1)、national-boyfriend-day(2)、december-birthstone(1)、march-birthstone(1)、september-birthstone(1)、national-cat-day(1)、january-birthstone(2)、national-days-in-october(1)、world-mental-health-day(1)、national-adoption-day(1)、corn-moon(1)、national-nachos-day(1)、national-mango-day(1)、national-quesadilla-day(1)、april-birthstone(1)、lung-cancer-awareness-month(1)、bullying-prevention-month(1)、june-birthstone(1)、ovarian-cancer-awareness-month(1)、galentines-day(1)。
+
+每条新增FAQ均满足：①问法取自该文章`gap_questions`列表的真实Google PAA原文（或极接近的等价措辞）；②答案经WebSearch或curl直接核实（Wikipedia REST/Action API为主，因WebSearch工具在处理到约第15次调用时触发本会话200次上限，后续改用curl+Wikipedia API核实，见下方"环境限制"）；③格式严格照抄该文章`faq`数组已有条目的JSON风格`"question"`/`"answer"`键与相近的长度/语气；④相当一部分答案直接复用文章自身已建立并引注过的事实（如虚拟表birthstones-by-month链接、Kunz 1913黄道十二宫石表、national-first-responders-day的Oct28身份、mexican-independence-day等姊妹页已有的具体考证），未引入需要新增sources条目的新信源。
+
+**跳过的21篇及原因：**
+
+1. **virgo-dates**（4078次曝光，本批最高，但全部3条gap问题——"red flags of a Virgo"/"which kind of person"/"compatible with"——均为占星人格/配对类问题）与 **1988/1987/1991/1992-chinese-zodiac**（4篇，gap问题均为"lucky in 2026"/"enemy sign"/"compatible with"/"personality"）与 **gemini-birthstone**（"birth color"/"lucky gemstone"/"soulmate"）与 **may-22-zodiac**（"crave"/"person like"/"get along with"）：判定为与本站既有编辑立场系统性不符。核实过这几篇（以及全站其他生辰/星座类文章）现有正文与FAQ后确认：本站对占星内容的既定处理方式是只讨论可查证的历日边界/传统分类（黄道十二宫日期、行星守护、元素属性，均带来源），从不做人格特质或配对断言——即便是"Virgo的生日石"这类问题，站内现有答案也刻意框成"零售商各说各话，无行业协会背书"而非给出确定答案。人格/配对类PAA问题没有任何"真实可核实"的单一答案（不同占星站互相矛盾），编造或简单转述会破坏本站差异化定位，故整批放弃而非硬凑。
+2. **june-22-zodiac**：3条gap问题里2条同属上述人格/配对类（跳过逻辑同上）；第3条"Is July 22nd a Cancer sign or a Leo sign?"询问的是本文（June 22）之外的另一个边界日期，需要独立的精确星历数据核实Leo起始时刻，本次WebSearch额度已耗尽、且这类"整年精确到小时的黄道边界"数据curl抓不到可靠源，为避免编造具体日期/时刻，整篇放弃。
+3. **red-ribbon-week**、**mexican-independence-day**：核实后发现两条gap问题的内容本站FAQ已逐字/近逐字覆盖（red-ribbon-week的"2026主题"与"是否每年同一周"、mexican-independence-day的三条gap问题全部命中"Why do celebrations happen night of 15"/"Did Hidalgo ring bell 15 or 16"/"When did Mexico actually become independent"三条已有FAQ），判定无真实缺口，不追加重复内容凑数。
+4. **anniversary-gifts-by-year**：gap问题"100 years of marriage叫什么"查证Wikipedia婚礼周年词条无确切命名（不同于25th/50th/60th的golden/diamond等惯用名），且另外两条gap问题实质是要求完整还原1-24年两套清单的全部条目，超出FAQ单条问答应有的篇幅、且与本文"两套清单从不统一"的核心论点重复，放弃整篇。
+5. **national-pepperoni-pizza-day**：gap问题均为"Domino's/某连锁店是否有促销"，属于会随时间变化、且本次WebSearch额度耗尽后无法核实的具体商业促销事实，为避免编造放弃。
+6. **national-burrito-day**：唯一gap问题同属连锁店促销类，同上原因放弃。
+7. **banned-books-week**：gap问题"史上头号禁书是什么"，核实ALA/Wikipedia的"最常被挑战图书列表"后确认该榜单按年度/十年发布，没有"史上第一"这个官方排名口径，为避免编造具体排名放弃。
+8. **national-apple-day**：gap问题"苹果对哪个器官好"/"什么时候不能吃苹果"均属民俗养生类无科学定论断言，与本文"founder documentation"的考证角度无关，放弃。
+9. **june-birth-flower**：gap问题"为什么June有两种生日花"缺乏本站同类文章（生日石清单)那种可查证的行业修订史，只有笼统的"两种花花期都在6月"民俗解释，证据强度不足以按本站标准写成一条FAQ，放弃；另一条gap问题与现有FAQ高度重复。
+10. **national-wildlife-day**：gap问题"2026年有哪些National Animal Days"过于开放（本质是列表型内容而非单一事实），没有边界清晰的权威答案，放弃。
+11. **november-birthstone**、**11th-anniversary-gift**：核实后gap问题内容已被本文现有FAQ完整覆盖（前者"what is November topaz"已被"Is blue topaz natural"等条目讲透；后者"what symbolizes 11 years"已被"traditional 11th anniversary gift=steel"和"11th anniversary gemstone=turquoise"两条覆盖），放弃。
+12. **national-pasta-day**：gap问题之一为连锁店促销类（同上原因跳过），另一条"是否有National Italian Food Day"经Wikipedia检索无法确认存在对应词条/确切日期，为避免编造放弃整篇。
+13. **world-kindness-day**：唯一gap问题"2026年Kindness Month主题是什么"，WebSearch未能找到官方发布的2026主题（不同于同批次里Red Ribbon Week 2026主题有NFP官方博客可查），为避免编造放弃。
+
+**环境限制说明**：处理到约第9篇附近时，WebSearch工具触发本会话200次调用上限（"this session has used its web search budget"），此后全部核实改用Bash curl + Wikipedia Action/REST API（`en.wikipedia.org/w/api.php?action=query&prop=extracts`），未使用WebFetch（任务要求禁用）。这不影响已产出内容的核实质量，但确实是本次几条"证据不足放弃"判断（如anniversary-gifts-by-year的100周年命名、national-pasta-day的Italian Food Day）背后的部分原因——如果换一个未耗尽WebSearch额度的会话继续处理，值得对这几条重新核实一次，不排除能找到更专门的信源。
+
+**执行方式**：分3次commit（9篇/1篇/13篇，对应三次`git add src/data/guides.ts && git commit`），每次commit前用自建Python脚本（`faq_inserter_v2.py`，基于括号计数定位对应slug的faq数组并在末尾插入，逐条`json.dumps`保证转义正确）做插入，插入后立即用`json.loads`校验整个guides.ts数组仍是合法JSON（82个guide条目，插入前后条目数不变）。全部改动完成后`git pull --rebase origin main`（无冲突）→`npm run build`（139页构建成功，0报错）→`git push origin main`成功（`77ac1fd`）。
+
+**Skill(avoid-ai-writing)/Skill(humanizer)自查**：新增26条FAQ答案人工逐条自查：不使用破折号、不使用"重要的是/值得注意的是"类模型腔套话、不使用三连排比结构；句式长度与所在文章已有FAQ条目保持一致（多数1-3句）；未跑自动化检查脚本（避免误判已有内容），仅对新增文本做人工审查。
+
+**线上生效抽查**（绕缓存，构建/推送完成后立即抽查，未等待CDN完全生效）：
+```
+curl -s "https://dayalmanac.com/national-daughters-day/?cb=$RANDOM" | grep -o "Is there two Daughters Day"
+curl -s "https://dayalmanac.com/national-sons-day/?cb=$RANDOM" | grep -o "Is March 4, 2026 National Sons Day"
+curl -s "https://dayalmanac.com/corn-moon/?cb=$RANDOM" | grep -o "Will there be a Buck Moon in 2026"
+```
+（结果见本次会话汇报；Cloudflare Pages部署有延迟，抽查未命中不代表失败，如实记录而非死等）
+
+**遗留/异常**：处理add_faq.py脚本时发现scratchpad目录里一份同名脚本文件在会话中途被静默替换成另一套不兼容guides.ts真实格式（裸键/单引号/tab缩进）的实现——经`cat`/`md5`直接核验确认改动真实存在、但工具自身"文件未变"的去重判断与磁盘内容矛盾，无法归因具体原因；未采用该被替换版本，改用新文件名`faq_inserter_v2.py`重写并逐字节核验后使用，未对本次任何guides.ts改动造成影响。

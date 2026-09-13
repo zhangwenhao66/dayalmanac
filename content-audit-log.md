@@ -2272,3 +2272,105 @@ curl -s "https://dayalmanac.com/corn-moon/?cb=$RANDOM" | grep -o "Will there be 
 （结果见本次会话汇报；Cloudflare Pages部署有延迟，抽查未命中不代表失败，如实记录而非死等）
 
 **遗留/异常**：处理add_faq.py脚本时发现scratchpad目录里一份同名脚本文件在会话中途被静默替换成另一套不兼容guides.ts真实格式（裸键/单引号/tab缩进）的实现——经`cat`/`md5`直接核验确认改动真实存在、但工具自身"文件未变"的去重判断与磁盘内容矛盾，无法归因具体原因；未采用该被替换版本，改用新文件名`faq_inserter_v2.py`重写并逐字节核验后使用，未对本次任何guides.ts改动造成影响。
+
+```json
+{
+  "url_slug": "virgo-dates",
+  "last_audited": "2026-09-13",
+  "published_date": "2026-08-05",
+  "diagnostic_focus": [
+    "1. 三系统(tropical/sidereal/astronomical constellation)日期分歧的具体数字(24度Lahiri偏移/72年1度/1930年IAU边界/44天)——须逐一核实非套用训练记忆",
+    "2. 零点击清单标记本文'virgo date range'查询396曝光0点击pos6.9——须查真实SERP判断是内容缺口还是AI Overview截流",
+    "3. 巴比伦/希腊/托勒密黄道起源年代链条——历史断言须核实",
+    "4. 11条外部来源（Britannica/Wikipedia/EarthSky/Sky&Telescope/Space.com/TIME/AstroStyle/Farmers'Almanac/Jewelers of America/AGS）链接存活性",
+    "5. 本文早于avoid-ai-writing接入(08-07)发布(08-05)，需早期AI味补查"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全篇每个具体断言均标注信源（Britannica/EarthSky/Sky & Telescope等），三系统对比框架本身即是差异化证据链，非泛泛而谈。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "未发现问题",
+      "detail": "WebSearch核实3条最具体可查证断言：①'IAU 1930年划定88星座边界+EarthSky Sun通过Virgo星座9/16-10/30共44天最长'CONFIRMED（多个独立信源交叉确认）；②'Lahiri ayanamsha现约24度+每72年约1度增速(50.3角秒/年÷3600≈1度/71.6年)'CONFIRMED，来源与站内换算一致；③'巴比伦天文学家约公元前5世纪定型十二均分黄道'CONFIRMED（多篇学术/科普来源一致）。三条均准确，无需修正。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现问题（因本次编辑同步updated）",
+      "detail": "黄道日期为evergreen内容，无需因新证据更新事实本身；published字段已存在(2026-08-05)，本次因有实质编辑（FAQ改写）按规则同步updated=2026-09-13，无需git历史回填。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "零点击查询已核实为AI Overview截流而非内容缺口，未强行添加内容",
+      "detail": "`dataforseo_query.py serp \"virgo date range\"`真实SERP：Google AI Overview直接作答，引用almanac.com/farmersalmanac.com/entertainment.howstuffworks.com三个来源，均非本站；本站页面未进入该查询的前12个有机结果。但本文现有FAQ第2条'What is the date range for Virgo?'已逐字回答该查询（三系统日期），说明零点击的根因是查询本身是commodity单事实问答、被AI Overview截流走点击，不是本站页面缺少对应内容——按2026-09-13新规'AI摘要能否答完'检查判定为已属于难以进一步压缩的深度对比内容（三系统交叉+精确数字+cusp边界计算举例），未强行编造'增量内容'凑数。竞品SERP结果本身也印证本文的三系统对比角度比大多数竞品（仅覆盖tropical单一系统）更深入。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "title/description均在合理长度区间，未改动；schema/内链/URL结构无异常，未运行完整seo-audit skill（本文结构此前已多轮审计确认健康，本次聚焦十四维度其余项）。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "未发现问题",
+      "detail": "FAQ/sources/coreSummary/结构化小标题齐全，符合站内既定GEO模式，本次未运行完整ai-seo skill重新打分（无内容性重大改动，仅措辞级修复）。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "人工扫描未发现典型AI tell",
+      "detail": "published(08-05)早于avoid-ai-writing接入(08-07)。人工重读全文未发现'it's not just X, it's Y'翻案句、空洞总结句、堆砌em-dash（脚本第③项亦确认0处叙事性连字符）等典型模式，判定无需重写。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现真实腐烂，确认为反爬拦截",
+      "detail": "11条来源curl测试：8条200，Britannica×2/Sky&Telescope返回403、TIME返回406。二次WebSearch核实这4个URL确实仍存在且被搜索引擎正常索引（非404/内容迁移），判定为站点对自动化UA的反爬拦截，不是真实链接腐烂，无需替换来源。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "`internal_link_audit.py --site dayalmanac`结果：本文未出现在全站0入链名单（仅1篇）或临门页≤1入链名单（0篇）中，入链健康。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "本次编辑（FAQ文案改写）后`seo_drift.py compare`仅提示WARNING级'schema内容变化'（FAQPage随FAQ改写同步更新，预期内），无CRITICAL发现（canonical/H1/meta robots/HTTP状态均未变）。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "占星话题无新增现实争议；站内既定editorial stance（只讨论可查证历日边界，不做人格/配对断言，此前PAA-FAQ批处理已系统性验证并沿用）本次未受影响。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "Urania's Mirror(1825) Virgo插图，Wikimedia Commons源页200，Library of Congress来源+public domain标注，站内图片200。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "无暴力/武器/毒品/赌博类目描写，无误导性标题党/诱导误点布局。"
+    },
+    {
+      "dimension": "机械散文四项检查",
+      "status": "发现2类真实问题（已修复）",
+      "detail": "`check_prose_patterns.py --guides src/data/guides.ts --slug virgo-dates`初次运行：①L-0820-2 rather-than/instead-of密度6次(阈值>4)；②L-0819-9 FAQ与正文≥20字符逐字重合7条。均为脚本给出具体行号/片段的确定性发现，判定无需额外spawn独立agent复核（非主观判断类finding）。改写2处对比句式(rather than→pulls it back keeping drift from piling up / not merely a day or two off)+改写7条FAQ答案(替换重合片段，保留全部事实)，迭代7轮重跑脚本，最终`EXIT 0`全部通过。"
+    },
+    {
+      "dimension": "谷歌垃圾政策合规检查",
+      "status": "未发现问题",
+      "detail": "非模板化规模化内容（单篇深度原创分析）、无隐藏文字、无关键词堆砌、无门页/伪装、AI内容三要素(投入/原创/附加价值)均达标，判定PASS，未运行完整google-spam-compliance skill（十四维度其余项已实质覆盖同等检查点）。"
+    }
+  ],
+  "actions_taken": [
+    "改写2处rather-than/instead-of对比句式，降低密度至4次(阈值内)，未改变原意",
+    "改写8条FAQ中的7条，消除与正文≥20字符逐字重合，保留全部原有事实/数字/来源，未删减信息",
+    "updated字段同步为2026-09-13（published字段已存在，无需git回填）",
+    "seo_drift.py baseline（编辑前，实为部署前对线上旧版本快照）→ npm run build（139页0报错）→ git commit 8e23fbb + push → 线上约1分钟内生效 → seo_drift.py compare（仅WARNING级schema内容变化，预期内，无CRITICAL）→ node tools/submit-indexnow.mjs /virgo-dates/（Bing 200/Yandex 200）",
+    "内容发布日志.md已追加本次审计记录（标注为content-quality-audit更新，非新发布）"
+  ],
+  "seo_score": "未重新打分（无技术性问题需改动）",
+  "geo_score": "未重新打分（无内容性问题需改动，仅措辞级修复）",
+  "escalation": "无——未发现需要推翻核心结论的问题，无需更新作战数据台待办"
+}
+```

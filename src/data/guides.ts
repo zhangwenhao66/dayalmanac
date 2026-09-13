@@ -1690,7 +1690,7 @@ export const guides: Guide[] = [
     "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23–September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
-    "updated": "2026-09-01",
+    "updated": "2026-09-13",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year. Vedic sidereal astrology, built on a different reference point, puts Virgo roughly a month later, around September 17 to October 16. The actual astronomical constellation the sign borrows its name from holds the Sun longer still, from about September 16 to October 30. All three ranges are correctly stated by their own rules; there is no single authority whose ruling overrides the other two.",
     "sections": [
       {
@@ -1704,7 +1704,7 @@ export const guides: Guide[] = [
         "heading": "Why the boundary doesn't land on the same day every year",
         "body": [
           "Astrology sites that mention it at all describe the Virgo start date as \"usually\" August 23, occasionally August 22. That's not sloppiness; it's a real feature of the calendar math. The tropical zodiac's zero point, the spring equinox, doesn't fall at the same clock time each year. That's a consequence of the mismatch between Earth's actual orbital period (about 365.2422 days) and the 365-day calendar year: the equinox arrives roughly six hours later each year, then jumps back by about eighteen hours whenever a leap day resets the count. That same six-hour wobble propagates forward through the year to every other 30-degree boundary the tropical zodiac defines, Virgo's included, which is why the exact moment the Sun crosses into Virgo can fall late on August 22 in one year's local time zone and early on August 23 the next.",
-          "The shift is small and it doesn't accumulate: the leap-year correction resets it on a roughly four-year cycle rather than letting it drift indefinitely. But it means a page that states \"Virgo is August 23 to September 22, no exceptions\" is rounding off a boundary that, strictly, moves by up to a day depending on the year and the time zone doing the counting. The same single-day rounding gap shows up on the Cancer side of the calendar: [this site's June 22 zodiac page](/june-22-zodiac/) walks through why Wikipedia and the major horoscope publishers land a day apart on exactly when that sign opens."
+          "The shift is small and it doesn't accumulate: the leap-year correction pulls it back on a roughly four-year cycle, keeping the drift from piling up year after year. But it means a page that states \"Virgo is August 23 to September 22, no exceptions\" is rounding off a boundary that, strictly, moves by up to a day depending on the year and the time zone doing the counting. The same single-day rounding gap shows up on the Cancer side of the calendar: [this site's June 22 zodiac page](/june-22-zodiac/) walks through why Wikipedia and the major horoscope publishers land a day apart on exactly when that sign opens."
         ]
       },
       {
@@ -1718,7 +1718,7 @@ export const guides: Guide[] = [
         "heading": "A different Virgo entirely: sidereal astrology",
         "body": [
           "Everything above describes the tropical zodiac, the system behind Western horoscope astrology. Vedic astrology, practiced across South Asia, uses a sidereal zodiac instead, and it assigns Virgo, called Kanya rashi, to a noticeably later stretch of the calendar, commonly cited as around September 17 to October 16. Sources on the sidereal side don't fully agree with each other either: some Vedic astrology references give September 16 as the start, others September 18, a day-or-two spread that mirrors the tropical system's own cusp uncertainty rather than resolving it.",
-          "The gap between the two systems traces back to a single astronomical phenomenon: precession, the slow 25,800-year wobble of Earth's rotational axis, first described mathematically by the Greek astronomer Hipparchus around 127 BCE. Tropical astrology anchors itself to the seasons and ignores precession by design, resetting to 0 degrees Aries at the equinox every year regardless of which stars sit behind the Sun. Sidereal astrology does the opposite, tracking the actual background stars, and India's most widely used reference point for that calculation, the Lahiri ayanamsha, currently puts the two systems about 24 degrees apart, a gap that grows by roughly one degree every 72 years. That 24-degree offset is most of the width of a zodiac sign, which is why sidereal Virgo lands nearly a full month after tropical Virgo instead of a few days off."
+          "The gap between the two systems traces back to a single astronomical phenomenon: precession, the slow 25,800-year wobble of Earth's rotational axis, first described mathematically by the Greek astronomer Hipparchus around 127 BCE. Tropical astrology anchors itself to the seasons and ignores precession by design, resetting to 0 degrees Aries at the equinox every year regardless of which stars sit behind the Sun. Sidereal astrology does the opposite, tracking the actual background stars, and India's most widely used reference point for that calculation, the Lahiri ayanamsha, currently puts the two systems about 24 degrees apart, a gap that grows by roughly one degree every 72 years. That 24-degree offset is most of the width of a zodiac sign, which is why sidereal Virgo lands nearly a full month after tropical Virgo, not merely a day or two off."
         ]
       },
       {
@@ -1746,31 +1746,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What are the official dates for Virgo?",
-        "answer": "In Western tropical astrology, the system behind most horoscope columns and apps, Virgo runs from August 23 to September 22. That's the range Britannica and every major astrology publisher cite, though the exact start can shift to August 22 in some years depending on the calendar's leap-year cycle."
+        "answer": "Most astrology sites, including Britannica, place the sign between August 23 and September 22 under tropical astrology's rules (the framework behind the majority of horoscope columns and apps). The opening day occasionally slips to August 22, a side effect of the calendar's leap-year cycle."
       },
       {
         "question": "What is the date range for Virgo?",
-        "answer": "August 23 to September 22, in Western tropical astrology, the system used by most horoscope columns and apps. Vedic sidereal astrology puts the range about a month later, roughly September 17 to October 16, and the actual astronomical constellation holds the Sun longer still, from about September 16 to October 30."
+        "answer": "The Western tropical calendar most horoscopes rely on puts Virgo's window at 30 days, opening August 23 and closing September 22. Two other systems draw different lines: Vedic astrology's sidereal calendar shifts the window about a month later, to roughly September 17–October 16, while the star pattern the sign is named for keeps the Sun overhead for a longer 44-day span, per EarthSky's mapping of where that star group actually sits in the sky."
       },
       {
         "question": "Why do some sources say Virgo starts on August 22 instead of August 23?",
-        "answer": "Because the tropical zodiac's boundaries are pinned to the equinoxes, and the exact moment an equinox falls drifts by roughly six hours later each year before a leap day resets it. That same drift shifts every other 30-degree sign boundary by up to a day, Virgo's start included, so which calendar date is correct depends on the specific year and time zone."
+        "answer": "Tropical astrology's boundaries trace back to the equinoxes, and that anchor point creeps about a quarter-day later on the clock every year before a leap day pulls it back. Every 30-degree sign boundary inherits that same creep, Virgo's opening included, so which calendar date is correct for a given year is a matter of local clocks, not astrology."
       },
       {
         "question": "What if I was born right on the boundary (August 22–24 or September 21–23)?",
-        "answer": "A generic date range can't settle it. The Sun crosses into or out of Virgo at a specific hour each year, and whether a birth falls before or after that moment depends on the exact birth time and time zone, not just the date. Resolving a genuine cusp birth requires checking an ephemeris for that year, not reading a calendar page."
+        "answer": "A one-size-fits-all date range can't settle it. Virgo's opening and closing moments each fall at a specific hour in a given year, and whether a birth lands on one side or the other hinges on the exact birth time and time zone, not just the calendar date. Settling a genuine cusp birth means pulling that year's ephemeris, not reading a calendar page."
       },
       {
         "question": "Are Virgo's dates the same in every astrology system?",
-        "answer": "No. Vedic sidereal astrology assigns Kanya (Virgo) to roughly September 17–October 16, about a month later than the Western tropical range, because it tracks the actual background stars rather than the equinox. The two systems are currently about 24 degrees apart, a gap caused by the precession of Earth's axis and growing by about one degree every 72 years."
+        "answer": "No. Vedic astrology's sidereal calendar assigns Kanya (Virgo) to roughly September 17–October 16, about a month later than the Western tropical range, because it tracks the real backdrop of fixed stars rather than the equinox. The offset between the two, currently near 24 degrees per the widely used Lahiri reference point, is a byproduct of Earth's axial precession and widens by about a degree per 72-year stretch."
       },
       {
         "question": "Does the actual constellation Virgo match the astrology sign's dates?",
-        "answer": "Not closely. Per EarthSky, for the period from roughly 1990 to 2062, the Sun passes through the astronomical constellation Virgo from roughly September 16 to October 30, a 44-day span, the longest of any zodiacal constellation, because the International Astronomical Union's 1930 constellation boundaries were drawn around the stars' actual positions rather than in equal 30-degree slices."
+        "answer": "Not closely. EarthSky's mapping shows the Sun spending 44 days crossing the star pattern named Virgo, from mid-September into late October across the 1990-2062 window, longer than any other constellation on the ecliptic. The mismatch traces to astronomy's governing body, the IAU, which drew those irregular 1930 borders around where the stars actually sit, not tidy 30-degree math."
       },
       {
         "question": "Who decided Virgo's dates? Is there an official governing body?",
-        "answer": "No single body. The twelve equal-sign system originated with Babylonian astronomers by around the 5th century BCE, was adopted by Greek astronomers soon after, and was cemented in its tropical form by Ptolemy's Tetrabiblos in the 2nd century CE. It's the product of a centuries-long mathematical convention, not a ruling anyone made on a specific date."
+        "answer": "No single body. Mesopotamian (Babylonian) astronomers worked out the twelve equal-sign scheme by roughly the fifth century BCE; Greek astronomers picked it up soon after, and its tropical form reached lasting shape when Ptolemy wrote it into his 2nd-century-CE treatise, the Tetrabiblos. What emerged is a shared mathematical habit built up gradually across cultures and centuries, not a ruling anyone signed on a specific date."
       },
       {
         "question": "What is the Virgo birthstone?",

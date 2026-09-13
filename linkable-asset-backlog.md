@@ -85,7 +85,9 @@
 - **制作复杂度**：中——干支纪年的计算逻辑本身是确定性数学（60年一甲子），需要一个可靠的年份↔干支/五行映射表并做单元测试验证边界（比如农历新年切换点，需参照站内`tools/generate-dates.mjs`已有的谨慎态度，不能自己发明历法换算逻辑，边界年份要查证权威来源）。
 - **备注**：这条比其他几条更偏个人查询工具而非纯公开数字资产，制作时应优先做好"下一次同组合年份"这个可摘录数字的独立呈现，不要只做成一个纯粹的"查你自己命理"小玩具。
 
-## 10. Holiday Spending Statistics 2026：节日消费数据统计枢纽页 `[统计枢纽][已制作，待次日推送]`
+## 10. Holiday Spending Statistics 2026：节日消费数据统计枢纽页 `[统计枢纽][已发布] https://dayalmanac.com/holiday-spending-statistics/`
+
+**⚠️ 2026-09-13 速度上限例外说明**：本站当日常规发布任务已发布1篇（may-22-zodiac），本资产为当日第2篇，超出1篇/天的速度红线。Owen本人在会话中明确批准（"发布把，偶尔超一篇应该没事的把"），判断依据是内容已完成两轮独立复核、非批量模板生产、属一次性资产制作而非常规选题超发，不构成"固定钟点+恒定日产量"的机器节奏指纹。这是Owen对速度政策的一次性例外授权，不代表1篇/天上限已解除，下次运行仍按原上限执行；如后续`gsc-anomaly-watch`速度审计对本日计数提出告警，应识别为本次已知的、经批准的例外，不是新异常。
 
 **2026-09-13 统计数据枢纽页筛查**（第四类资产，参考 @fba Citation Hub 长文，规格见 `trafficsite-linkable-asset-building` 第4条）。
 
@@ -97,4 +99,4 @@
 - **为什么会被引用**：本站核心定位是节日/观察日权威站，零售/理财媒体每年感恩节前后高频引用NRF数字，目前多数引用只挑单一数字（"人均$890"），一份逐条溯源、覆盖历年趋势+分品类的策展页比零散引用更有工具价值。
 - **制作复杂度**：低——NRF/PwC/LendingTree均为公开新闻稿+报告，核心工作是逐条摘录+标注来源年份，不需要额外调研。
 - **备注**：本站已有多个节日消费相关分区（观察日/awareness月），本条统计枢纽页需覆盖跨节日的横向对比（不止感恩节/圣诞），避免与已有单节日消费文章内容重复；每年NRF数据发布后需要重新核实刷新，纳入年度刷新纪律。
-- **制作结果**：slug `holiday-spending-statistics`，category `Consumer Trends`，正文≈2140词，58条统计+9项PwC世代/行为数据+11项LendingTree债务/感恩节数据，来源22条（NRF 19 + PwC 1 + LendingTree 2），全部curl+grep逐条核实数字真实出现在页面上；Key Takeaways 14条 + 8个问句H2 + FAQ 6条（4条来自真实PAA）+ Cite this块；`npm test` 49/49、`npm run build` 139页通过；`check_prose_patterns`/`check_comparatives`/`check_bridge_sentences`（2条内链候选人工核对CONFIRMED）/`check_seo_field_stats`/`title_lint` 全部通过；`Skill(humanizer)`+`Skill(avoid-ai-writing)` detect-only 两轮，清除22处叙事性em-dash（sources标签的"机构—标题"惯例保留）、打破3处"How much"标题句式对称；`Skill(google-spam-compliance)` 全项PASS（§7抽查5条统计逐条curl复核命中）。因当日 DayAlmanac 发文速度上限（1篇/天）已被常规发布任务用掉，本次 commit 不 push，待次日推送，详见 `内容发布日志.md` 2026-09-13 条目。
+- **制作结果**：slug `holiday-spending-statistics`，category `Consumer Trends`，正文≈2140词，58条统计+9项PwC世代/行为数据+11项LendingTree债务/感恩节数据，来源22条（NRF 19 + PwC 1 + LendingTree 2），全部curl+grep逐条核实数字真实出现在页面上；Key Takeaways 14条 + 8个问句H2 + FAQ 6条（4条来自真实PAA）+ Cite this块；`npm test` 49/49、`npm run build` 139页通过；`check_prose_patterns`/`check_comparatives`/`check_bridge_sentences`（2条内链候选人工核对CONFIRMED）/`check_seo_field_stats`/`title_lint` 全部通过；`Skill(humanizer)`+`Skill(avoid-ai-writing)` detect-only 两轮，清除22处叙事性em-dash（sources标签的"机构—标题"惯例保留）、打破3处"How much"标题句式对称；`Skill(google-spam-compliance)` 全项PASS（§7抽查5条统计逐条curl复核命中）。当日 DayAlmanac 发文速度上限（1篇/天）已被常规发布任务用掉，本资产为当日第2篇，经Owen当场明确批准作为一次性例外，`git push`（fe07e0d）后线上已生效并提交IndexNow（Bing/Yandex均200），详见 `内容发布日志.md` 2026-09-13 条目。

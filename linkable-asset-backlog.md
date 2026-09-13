@@ -22,6 +22,8 @@
 
 2026-08-25 已发布，见 `linkable-asset-log.md`。实际做法：`src/lib/countdown.ts` 提供纯函数（`nextCountdown`/`formatCountdownLabel`/`todayISO`，7个单元测试全过，覆盖今天早于/等于/晚于列表、全部过期的降级提示、空列表），`CountdownWidget.astro` 在客户端用这套逻辑实时算出"离X还有几天"，不依赖构建时间戳。全站30篇有`dateRule`且非`table`类的观察日文章（占全站55篇的多数，`table`类0篇，全部合格）自动获得：①正文页内一个可直接看到的实时倒计时小卡片；②卡片下方"Embed this countdown"区块，一段指向`/embed/<slug>/`的iframe代码，嵌入版页面固定带不可关闭的"Countdown by DayAlmanac"回链（同一套embed路由排除规则已加入`astro.config.mjs`的sitemap `excludePaths`，避免跟正文页重复收录，做法照抄CalcBadger`src/pages/embed/[slug].astro`的既有模式）。
 
+**[同类反查 2026-09-13]**：本资产是跨30篇文章的嵌入功能，不是独立URL，选取代表页 `/national-coffee-day/` 做查询。`serp "embeddable holiday countdown widget"` 结果几乎全是Indify/Elfsight/Common Ninja等SaaS商业widget产品（按规则"跳过纯商业软件页"排除），唯一非商业候选 holidayhub.co.za（南非本地节日倒计时内容站）的 `backlinks` 查询返回0条外链（域名本身几乎无外链档案，非查询失败）。**本次未产出合格候选**，原因是该资产形态（嵌入功能而非独立主题页）在SERP上的"同类"几乎全被商业SaaS产品占据，缺少可反查的编辑型同类资产。
+
 - **原始点子内容**（供参考）：基于 `guides.ts` 里已有的 `dateRule.occurrences` 数据，做一个轻量倒计时组件生成器——任何一个已收录的观察日页面下方提供一段可复制的 iframe/JS 嵌入代码（"Days Until National Coffee Day"），生成方自动读取该日期数据实时计算剩余天数，页面上会带一行"Powered by DayAlmanac"及回链。
 - **为什么会被引用**：倒计时小组件是被验证过多次有效的"嵌入式外链"套路（同类站点如 daysoftheyear.com 也在用），营销日历博客、活动策划类网站、零售促销页面（比如National Coffee Day当天做促销的咖啡店博客）愿意直接贴一段代码省得自己写逻辑，比要求对方手动加链接的传统外链请求转化率高得多。
 

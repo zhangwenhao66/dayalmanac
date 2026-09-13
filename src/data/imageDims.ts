@@ -239,6 +239,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1300,
   "w": 1280
  },
+ "/images/may-22-zodiac-gemini-uranias-mirror.jpg": {
+  "h": 839,
+  "w": 1200
+ },
  "/images/may-birth-flower-hawthorn.jpg": {
   "h": 1201,
   "w": 1600

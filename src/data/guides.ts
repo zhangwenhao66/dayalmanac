@@ -1928,6 +1928,133 @@ export const guides: Guide[] = [
     "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Cancer.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
   },
   {
+    "slug": "may-22-zodiac",
+    "category": "Zodiac Dates",
+    "title": "May 22 Zodiac: Gemini, by One Contested Day",
+    "description": "May 22 falls under Gemini by every mainstream account. Wikipedia's own entry starts the sign a day earlier than AstroStyle or Farmers' Almanac do.",
+    "published": "2026-09-13",
+    "updated": "2026-09-13",
+    "coreSummary": "May 22 is Gemini under the Western tropical zodiac that AstroStyle and Farmers' Almanac both place at May 21 to June 20, making the day the sign's second, not its first. Wikipedia's own entry states the transit begins about May 22, a full day earlier, and published ephemeris data for 2024 through 2028 shows the Sun's actual crossing landing only on May 20 or May 21, matching neither publisher's wording exactly and never once reaching May 22 itself.",
+    "sections": [
+      {
+        "heading": "What zodiac sign is May 22, and which day of it",
+        "body": [
+          "AstroStyle and Farmers' Almanac agree on Gemini's range: May 21 through June 20. Farmers' Almanac's coverage of the 2026 calendar confirms the pattern holds this year too, noting the Sun crosses into Gemini on May 21, 2026 and runs through June 20. By that count, May 22 is the sign's second day, not its opening one.",
+          "Wikipedia's entry on Gemini (astrology) puts it differently, stating plainly that \"the sun transits this zodiac sign between about May 22 to June 21,\" which makes May 22 the very first day of the sign rather than the second. AstroStyle's site does acknowledge some year-to-year drift, noting that \"some years it starts May 20 or ends June 21,\" but even that acknowledged range stops at May 21. Nothing in AstroStyle's account pushes the starting edge as far as Wikipedia's May 22.",
+          "The gap is one calendar day, and it isn't a factual dispute so much as three publishers rounding the same moving marker differently."
+        ]
+      },
+      {
+        "heading": "Why the start date isn't nailed to one calendar day",
+        "body": [
+          "The tropical zodiac divides the year into twelve equal 30-degree arcs of the Sun's apparent path, counted from zero degrees at the spring equinox. Gemini opens at the 60-degree mark, two arcs in. Because Earth moves faster near its closest approach to the Sun in January and slower near its farthest point in July, and because the year runs about 365.2422 days rather than an even 365, the moment the Sun reaches that 60-degree mark creeps later within a run of years and resets earlier again after each leap day.",
+          "MoonTracks, an astrology site that publishes solar ingress tables years ahead, lists the 2026 crossing at May 21, 00:36 UTC, matching what Farmers' Almanac and AstroStyle both point to. Its table carries the same event to May 21, 06:18 UTC in 2027, then back to May 20, 12:09 UTC in 2028. Separate reporting on the 2024 and 2025 transits puts both of those years on May 20 as well. Across five consecutive years, the recorded instant has never landed later than May 21.",
+          "That drift isn't only recent, and it hasn't always sat this early. LoveToKnow's astrology reference, in a table pairing well-known people with their exact Sun placement near this boundary, lists someone born May 22, 1907 with the Sun still at 29 degrees Taurus that year, meaning the sign hadn't yet turned over to Gemini on that date at all. Nothing in the 2024 through 2028 crossings comes anywhere near that late. The boundary moves over decades as well as year to year; it simply hasn't landed on or after May 22 in the recent data available."
+        ]
+      },
+      {
+        "heading": "How wide the cusp really is, depending which site you read",
+        "body": [
+          "Pop-astrology coverage of the Taurus-Gemini boundary doesn't agree on how far a \"cusp\" extends, and the gap between sites runs wider than a day or two. YourTango's page on what it calls the \"Cusp of Energy\" states that \"those on the Taurus-Gemini cusp are born between May 16th and May 23rd,\" an eight-day span that puts May 22 comfortably inside it, one day short of the far edge.",
+          "LoveToKnow's cusp page draws a much tighter line, telling readers \"if you were born between May 19th and 21st, you were probably born on the Taurus-Gemini cusp,\" tying that specifically to a Sun placement of 27 to 29 degrees Taurus. Its range ends entirely before May 22 arrives.",
+          "The two sites aren't reading different data; they're applying the word \"cusp\" to different things. YourTango's version reads like a folk window around the season change, while LoveToKnow ties the term to an actual degree range on a birth chart, one that lines up closely with where MoonTracks' ephemeris places the real crossing. Measured against that record of May 20 or 21, May 22 sits at least a full calendar day inside Gemini in every year checked, closer to LoveToKnow's account of the boundary than to YourTango's wider claim."
+        ]
+      },
+      {
+        "heading": "What the actual constellation is doing on May 22",
+        "body": [
+          "The tropical zodiac sign and the physical star pattern it borrows its name from aren't in the same part of the sky. Per EarthSky, \"the sun annually passes in front of Gemini from about June 21 until July 20,\" roughly a month after the tropical sign of the same name opens. On May 22 the Sun is astronomically still positioned in front of Taurus, not Gemini.",
+          "The gap traces to precession, the roughly 25,800-year wobble in Earth's rotational axis. Babylonian and Greek astronomers fixed the tropical zodiac to the constellations more than two thousand years ago; since then the stars have drifted out of step with the calendar dates that still carry their names, while the tropical system keeps resetting to the equinoxes and solstices every year regardless of where the constellations have moved."
+        ]
+      },
+      {
+        "heading": "A different calendar entirely: Vedic sidereal astrology",
+        "body": [
+          "Vedic, or Jyotish, astrology tracks the Sun against the fixed stars rather than the tropical seasons, using a reference point called the Lahiri ayanamsha. Its version of Gemini's start, called Mithuna Sankranti, lands weeks later than any tropical account. The astrology site GaneshaSpeaks, tracking its own festival calendar, states that on \"15th June 2026, Sun is going to leave the Taurus (Vrishabh) sign and enter the Gemini (Mithun) sign,\" placing the sidereal transition almost a full month after the tropical one.",
+          "That makes a May 22 birth a tropical Gemini on every Western chart discussed here, and still a sidereal Taurus on the Vedic calendar, since the sidereal Sun doesn't reach Mithuna until the middle of June."
+        ]
+      },
+      {
+        "heading": "What doesn't move: symbol, planet, and birthstone",
+        "body": [
+          "Whichever calendar sets the opening date, Gemini's traditional attributes hold steady across every source above: a mutable Air sign ruled by Mercury, pictured as twins. Per Wikipedia's account of the myth, Castor and Pollux were conceived by different fathers, Zeus for Pollux and the Spartan king Tyndareus for Castor, and when the mortal Castor died, Zeus granted the pair shared immortality by uniting them together in the heavens. The same two stars carried an older identity before that story attached: Wikipedia's entry notes Babylonian astronomers already tracked them as \"the Great Twins,\" under the names Lugal-irra and Meslamta-ea, both titles associated with the god Nergal.",
+          "There's no official zodiac birthstone for Gemini either. Pearl and alexandrite, often marketed under Gemini's name, actually come from June's calendar-month birthstone list. This site's [Gemini birthstone page](/gemini-birthstone/) traces that specific claim and notes the older, documented zodiac-stone table assigned Gemini a different stone altogether: agate. A reader curious how a nearby tropical sign works through the same three-calendar comparison can find it laid out on this site's [Virgo dates page](/virgo-dates/), and June 22 runs into its own version of the same Wikipedia-versus-publisher date gap on [this site's June 22 zodiac page](/june-22-zodiac/)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What zodiac sign is May 22?",
+        "answer": "Gemini, on every mainstream Western horoscope chart. Two major publishers in that tradition place it a day into the sign; Wikipedia's own phrasing puts it right on the opening line instead."
+      },
+      {
+        "question": "Why does Wikipedia give a different start date for Gemini than other astrology sites do?",
+        "answer": "The sign change tracks a moving astronomical moment, not a square on a printed calendar, so different writers round it differently. One popular horoscope site admits the moment can slip a day earlier some years, yet its own low end still sits a day ahead of what Wikipedia claims."
+      },
+      {
+        "question": "Is May 22 on the Taurus-Gemini cusp?",
+        "answer": "Only under the loosest definitions. One widely shared cusp window runs a full week and swallows this date with room to spare; a rival version ties the cusp to an exact degree on a birth chart and cuts off two days sooner. Solar ingress records spanning five recent years back the tighter version, landing consistently a day or two before this date."
+      },
+      {
+        "question": "When does the Sun actually enter Gemini each year?",
+        "answer": "Right around the border of May 20 and May 21, based on a published ingress table covering half a decade of crossings. The clock time drifts by a few hours annually and resets on the calendar every fourth year, keeping the changeover well clear of the 22nd throughout that stretch."
+      },
+      {
+        "question": "What are Gemini's ruling planet, element, and symbol?",
+        "answer": "The sign answers to Mercury, carries the Air element in a mutable mode, and is pictured as a pair of twins. That imagery goes back to a Greek tale of two brothers sharing one fate, layered atop an even earlier Mesopotamian name for the same paired stars."
+      },
+      {
+        "question": "When does the Sun enter the actual constellation Gemini?",
+        "answer": "Not until the summer solstice window, weeks after the astrological sign has already opened, and the Sun lingers among those stars into the following month. A slow multi-thousand-year drift in Earth's axis is what pulled the two apart."
+      },
+      {
+        "question": "What is the Vedic or sidereal date for Gemini?",
+        "answer": "Roughly one lunar month behind the Western sign change. The Hindu sidereal calendar marks its own named transit into the sign in mid-June, so someone counted as a Western Gemini in May can still land in the previous sidereal sign entirely."
+      },
+      {
+        "question": "What is the May 22 zodiac's birthstone?",
+        "answer": "No trade group has ever assigned one to the sign itself. What gets sold under that name is really borrowed from the following month's gem list, a substitution this site's dedicated birthstone page for the sign unpacks in full, including the very different stone an older reference table names instead."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Gemini (astrology)",
+        "url": "https://en.wikipedia.org/wiki/Gemini_(astrology)"
+      },
+      {
+        "label": "AstroStyle — Gemini Dates",
+        "url": "https://astrostyle.com/astrology/gemini-dates/"
+      },
+      {
+        "label": "Farmers' Almanac — Gemini Zodiac Sign",
+        "url": "https://www.farmersalmanac.com/zodiac-zone-meet-gemini"
+      },
+      {
+        "label": "MoonTracks — 2026-2028 Sun's Zodiac Sign Ingress Dates",
+        "url": "https://www.moontracks.com/sun_solar_ingress.html"
+      },
+      {
+        "label": "YourTango — Taurus-Gemini Cusp",
+        "url": "https://www.yourtango.com/zodiac/taurus-gemini-cusp"
+      },
+      {
+        "label": "LoveToKnow — Taurus-Gemini Cusp",
+        "url": "https://www.lovetoknow.com/life/astrology/gemini-cusp"
+      },
+      {
+        "label": "EarthSky — Gemini: Here's your constellation",
+        "url": "https://earthsky.org/constellations/gemini-heres-your-constellation/"
+      },
+      {
+        "label": "Ganesha Speaks — Mithuna Sankranti",
+        "url": "https://www.ganeshaspeaks.com/festival-calendars/information/mithuna-sankranti-festival/"
+      }
+    ],
+    "image": "/images/may-22-zodiac-gemini-uranias-mirror.jpg",
+    "imageAlt": "Hand-colored 1825 star chart of the Gemini constellation from Urania's Mirror, showing the twins Castor and Pollux",
+    "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Gemini.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
+  },
+  {
     "slug": "march-birthstone",
     "category": "Birthstones",
     "title": "March Birthstone: Aquamarine and Bloodstone",

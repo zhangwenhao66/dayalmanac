@@ -1,443 +1,454 @@
 [
-  {
-    "date": "2026-08-03",
-    "action": "no_submission_needed_first_check",
-    "reason": "trafficsite-gsc-index-requests首次处理本站GSC索引提交（此前gsc-index-submit-log.json为空数组——站点8/2建站+8/2完成GSC domain property验证，但此任务此前从未实际跑过本站）。第0步核实dayalmanac.com（sc-domain:）已是已验证property。本站累计已发布6篇（首批5篇+national-bosses-day，2026-08-02），远超4篇首次提交门槛。今日dayalmanac-content-publishing尚未产出新文章（该任务定时19:30跑，晚于本次运行时刻）。按两轮制配额稀缺模式，本站round1取尚未提交、体量最高的页面：national-boyfriend-day（246,000/月）。URL Inspection结果为'URL is on Google, but has issues'——已自然收录，无需提交索引请求。副带发现：Events结构化数据6项无效（Enhancements & Experience面板），与索引提交无关，已另建task_ef38a138跟进排查（不在本任务范围内处理）。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-boyfriend-day/ (URL is on Google, but has issues — Events schema 6 invalid items，已建task_ef38a138跟进)"
-    ],
-    "quota_used": "0 (page already indexed, no request needed)"
-  },
-  {
-    "date": "2026-08-04",
-    "action": "submitted_partial_already_indexed",
-    "reason": "trafficsite-gsc-index-requests例行运行，跨天连续游标机制首次运行。今日新发布national-dog-day（URL is not on Google）提交成功。第二轮检查队列另外3个高代理项（national-daughters-day/national-sons-day/national-boyfriend-day），均已显示'URL is on Google'（自然收录，未消耗提交配额），本站第二轮无新提交，游标继续前进不重置。",
-    "submitted_urls": [
-      "https://dayalmanac.com/national-dog-day/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-daughters-day/",
-      "https://dayalmanac.com/national-sons-day/",
-      "https://dayalmanac.com/national-boyfriend-day/"
-    ],
-    "quota_used": "1 of shared account-wide daily quota (7th request this run)"
-  },
-  {
-    "date": "2026-08-05",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（virgo-dates/march-birthstone）。第一轮取virgo-dates（URL is not on Google）提交成功，第二轮取march-birthstone（同样未收录）提交成功。",
-    "submitted_urls": [
-      "https://dayalmanac.com/virgo-dates/",
-      "https://dayalmanac.com/march-birthstone/"
-    ],
-    "quota_used": "2 requests this run (round 1 and round 2)"
-  },
-  {
-    "date": "2026-08-06",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（scorpio-dates/january-birthstone，见内容发布日志.md；national-sons-day为同日审计更新非新发布）。第一轮取scorpio-dates已'URL is on Google'（自然收录，未消耗配额），改提交january-birthstone（URL is not on Google）成功。第二轮因Chrome扩展断连未能到达本站，队列后续候选本次未检查。",
-    "submitted_urls": [
-      "https://dayalmanac.com/january-birthstone/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/scorpio-dates/"
-    ],
-    "quota_used": "1 request this run (round 1 only; round 2 not reached due to Chrome extension disconnect)"
-  },
-  {
-    "date": "2026-08-06",
-    "action": "already_indexed",
-    "reason": "第二轮（Chrome扩展重连后继续）：依次检查december-birthstone/national-daughters-day/national-sons-day/national-boyfriend-day均已'URL is on Google'（自然收录，未消耗配额）。本站第二轮无新提交，游标继续前进不重置。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/national-daughters-day/",
-      "https://dayalmanac.com/national-sons-day/",
-      "https://dayalmanac.com/national-boyfriend-day/"
-    ],
-    "quota_used": "0 requests (round 2, all checked candidates already indexed)"
-  },
-  {
-    "date": "2026-08-07",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行（跨天连续游标轮换，两轮）。按收入代理排序队列逐个URL Inspection检查：已收录（URL is on Google）的候选跳过不消耗配额，共7个；找到未收录候选后提交REQUEST INDEXING，两轮各提交1个，共2个。",
-    "submitted_urls": [
-      "https://dayalmanac.com/red-ribbon-week/",
-      "https://dayalmanac.com/national-bosses-day/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-boyfriend-day/",
-      "https://dayalmanac.com/scorpio-dates/",
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/national-daughters-day/",
-      "https://dayalmanac.com/national-sons-day/",
-      "https://dayalmanac.com/national-cat-day/",
-      "https://dayalmanac.com/national-coffee-day/"
-    ],
-    "quota_used": "2 requests (2轮各1次)"
-  },
-  {
-    "date": "2026-08-08",
-    "action": "skipped_all_indexed",
-    "reason": "trafficsite-gsc-index-requests例行运行。队列内9个候选全部已'URL is on Google'（自然收录），未消耗提交配额。附带发现：至少6个页面（national-boyfriend-day/national-daughters-day/national-sons-day/national-cat-day/national-coffee-day/national-grandparents-day）在Enhancements区域显示Events结构化数据'5-6 invalid items detected'，不影响索引状态但已作为独立任务flag，非本次任务处理范围。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-boyfriend-day/",
-      "https://dayalmanac.com/scorpio-dates/",
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/national-daughters-day/",
-      "https://dayalmanac.com/national-sons-day/",
-      "https://dayalmanac.com/national-cat-day/",
-      "https://dayalmanac.com/national-coffee-day/",
-      "https://dayalmanac.com/national-grandparents-day/",
-      "https://dayalmanac.com/september-birthstone/"
-    ],
-    "quota_used": "0 requests (全部候选已自然收录)"
-  },
-  {
-    "date": "2026-08-09",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行。处理今日新发布 domestic-violence-awareness-month，URL Inspection确认'URL is not on Google'，REQUEST INDEXING后确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/domestic-violence-awareness-month/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 request"
-  },
-  {
-    "date": "2026-08-10",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行。今日两篇新发布：national-hispanic-heritage-month查询已收录未提交；no-shave-november查询确认'URL is unknown to Google'，REQUEST INDEXING后确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/no-shave-november/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-hispanic-heritage-month/"
-    ],
-    "quota_used": "1 request"
-  },
-  {
-    "date": "2026-08-11",
-    "action": "submitted",
-    "reason": "游标第9站。今日新发布birthstones-by-month（S层参考页，13:35档）URL Inspection显示未收录（URL is unknown to Google），REQUEST INDEXING后确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/birthstones-by-month/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 request"
-  },
-  {
-    "date": "2026-08-12",
-    "action": "submitted",
-    "reason": "游标第8站。今日新发布september-birth-flower（13:35档，本日第1篇）URL Inspection显示未收录（URL is unknown to Google），REQUEST INDEXING后确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/september-birth-flower/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 request"
-  },
-  {
-    "date": "2026-08-13",
-    "action": "submitted",
-    "reason": "trafficsite-gsc-index-requests例行运行。今日新发布National Epilepsy Awareness Month（13:35档）。首次误按标题拼出URL national-epilepsy-awareness-month/（实际slug无national-前缀），URL Inspection的Live Test确认该URL确为404（Not found），REQUEST INDEXING被GSC拒绝（Indexing request rejected），未计入成功提交、且404请求本身大概率不消耗真实索引配额。核对guides.ts确认正确slug为epilepsy-awareness-month后重新检查，'URL is not on Google'，REQUEST INDEXING提交成功，等待约20秒确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/epilepsy-awareness-month/"
-    ],
-    "rejected_wrong_url": [
-      "https://dayalmanac.com/national-epilepsy-awareness-month/ (404, slug错误未消耗有效配额)"
-    ],
-    "quota_used": "1 of shared account-wide daily quota (8th request this run; 1 additional rejected 404 attempt on wrong slug)"
-  },
-  {
-    "date": "2026-08-16",
-    "action": "submitted",
-    "reason": "按队列脚本代理排序检查候选：adhd-awareness-month（08-13新发布）、breast-cancer-awareness-month均已收录。改查Page indexing报告的'Discovered - currently not indexed'分类，命中topics/birthstones（专题聚合页），URL Inspection确认'URL is not on Google'（Discovered - currently not indexed），REQUEST INDEXING提交成功确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/topics/birthstones/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/adhd-awareness-month/",
-      "https://dayalmanac.com/breast-cancer-awareness-month/"
-    ],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-16",
-    "action": "submitted",
-    "reason": "同日第二次运行（首次运行结尾因Claude in Chrome工具故障卡在Hollowvane，等待网络恢复后重试成功续跑）。GSC自身'Crawled - currently not indexed'分类候选true-or-false/已收录。改查build-index-queue.py队列高代理候选：international-mens-day/december-birthstone/september-birthstone/national-cat-day/diabetes-awareness-month/talk-like-a-pirate-day/july-birth-flower连续7个均已收录（本站索引速度很快），national-first-responders-day确认'URL is not on Google'（URL unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/national-first-responders-day/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/true-or-false/",
-      "https://dayalmanac.com/international-mens-day/",
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/september-birthstone/",
-      "https://dayalmanac.com/national-cat-day/",
-      "https://dayalmanac.com/diabetes-awareness-month/",
-      "https://dayalmanac.com/talk-like-a-pirate-day/",
-      "https://dayalmanac.com/july-birth-flower/"
-    ],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-17",
-    "action": "submitted",
-    "reason": "今日新发布两篇（November Birth Flower补跑00:08触发；October Birth Flower 13:35档本日第2篇）+内容质量审计更新National Dog Day。URL Inspection确认november-birth-flower/october-birth-flower均'URL is not on Google'，REQUEST INDEXING各自提交成功确认'Indexing requested'；national-dog-day经核实已收录（'URL is on Google'），无需提交。",
-    "submitted_urls": [
-      "https://dayalmanac.com/november-birth-flower/",
-      "https://dayalmanac.com/october-birth-flower/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-dog-day/"
-    ],
-    "quota_used": "2 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-18",
-    "action": "submitted",
-    "reason": "今日新发布April Birth Flower（本日第1篇新发布），URL Inspection确认'URL is not on Google'，REQUEST INDEXING提交成功确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/april-birth-flower/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-19",
-    "action": "submitted",
-    "reason": "今日新发布January Birth Flower（january-birth-flower，13:35档，本日第1篇），URL Inspection确认'URL is not on Google'（unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
-    "submitted_urls": [
-      "https://dayalmanac.com/january-birth-flower/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-20",
-    "action": "submitted",
-    "reason": "今日新发布world-smile-day（dayalmanac-content-publishing任务）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/world-smile-day/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-21",
-    "action": "submitted",
-    "reason": "今日新发布June Birth Flower（dayalmanac-content-publishing任务，13:35档）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/june-birth-flower/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-22",
-    "action": "submitted",
-    "reason": "今日新发布Birth Flowers by Month hub页（dayalmanac-content-publishing任务，13:35档，本日第一次运行）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/birth-flowers-by-month/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-23",
-    "action": "submitted",
-    "reason": "今日dayalmanac-content-publishing 13:35档修复完成1994-chinese-zodiac（该文经历trafficsite-nightly-ops-review抢先commit未审核草稿、后被本会话次日修复覆盖的插曲，线上最终为修复版）。URL Inspection确认URL is not on Google/Discovered-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/1994-chinese-zodiac/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-24",
-    "action": "skipped_all_indexed",
-    "reason": "本次运行时刻（游标轮到DayAlmanac）该站今日3档发布尚未产出新记录。队列头部suicide-prevention-month经URL Inspection已收录。Pages报告仅1个Crawled-currently not indexed候选birth-flowers-by-month，URL Inspection核实已转为'URL is on Google'（报告滞后快照，非真实未收录）；Discovered-currently not indexed为0。判定当前无真实未提交候选，跳过本轮不消耗配额，游标继续前进至DialWick。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/suicide-prevention-month/",
-      "https://dayalmanac.com/birth-flowers-by-month/"
-    ],
-    "quota_used": "0 (skipped, no unindexed candidate found)"
-  },
-  {
-    "date": "2026-08-25",
-    "action": "quota_exceeded",
-    "reason": "今日新发布Ovarian Cancer Awareness Month（dayalmanac-content-publishing任务）。URL Inspection确认URL is not on Google/unknown to Google，点击REQUEST INDEXING后返回'Quota Exceeded'（共享账号级配额当日已用完，本轮此前5站FactCrumbs/WarCrumbs/MythCairn/UmberLore/CalcBadger各提交1个成功，Hollowvane跳过不耗配额），立即停止未重试。游标停留在DayAlmanac，下次运行从此站续做（含今日这篇+DialWick/LingoGrove/WageLark均未轮到）。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [],
-    "quota_used": "0 (submission failed: Quota Exceeded)"
-  },
-  {
-    "date": "2026-08-26",
-    "action": "submitted",
-    "reason": "游标停留位DayAlmanac续做昨日未完成条目。今日新发布banned-books-week，URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功。",
-    "submitted_urls": [
-      "https://dayalmanac.com/banned-books-week/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": 1
-  },
-  {
-    "date": "2026-08-27",
-    "action": "submitted",
-    "reason": "游标停留位DayAlmanac开始处理。今日新发布national-pepperoni-pizza-day（13:35档），URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。完整绕行10站一圈后回到DayAlmanac进行第二轮检查：suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day/international-mens-day/december-birthstone/september-birthstone/anniversary-gifts-by-year/national-cat-day共9个build-index-queue.py队列候选逐一URL Inspection核查，均已是'URL is on Google'（已收录，不耗配额），未再提交，游标前进至DialWick。",
-    "submitted_urls": [
-      "https://dayalmanac.com/national-pepperoni-pizza-day/"
-    ],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/suicide-prevention-month/",
-      "https://dayalmanac.com/breast-cancer-awareness-month/",
-      "https://dayalmanac.com/world-mental-health-day/",
-      "https://dayalmanac.com/world-kindness-day/",
-      "https://dayalmanac.com/international-mens-day/",
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/september-birthstone/",
-      "https://dayalmanac.com/anniversary-gifts-by-year/",
-      "https://dayalmanac.com/national-cat-day/"
-    ],
-    "quota_used": 1
-  },
-  {
-    "date": "2026-08-28",
-    "action": "submitted",
-    "reason": "今日新发布National Days in October（national-days-in-october，13:35档，本日第一篇）：URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/national-days-in-october/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-29",
-    "action": "skipped_all_indexed",
-    "reason": "今日新发布october-birthstone已实测确认收录（URL is on Google）。用build-index-queue.py队列继续遍历20个候选（suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day/international-mens-day/december-birthstone/september-birthstone/anniversary-gifts-by-year/national-cat-day/prostate-cancer-awareness-month/bullying-prevention-month/11th-anniversary-gift/adhd-awareness-month/diabetes-awareness-month/talk-like-a-pirate-day/1987-chinese-zodiac/lung-cancer-awareness-month），逐个URL Inspection均已收录（本站抓取预算充裕，新文章几乎实时收录），未发现未收录候选，跳过该站不耗配额（本次未遍历完45个候选队列的全部，剩余候选留给下次运行）。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/october-birthstone/",
-      "https://dayalmanac.com/suicide-prevention-month/",
-      "https://dayalmanac.com/breast-cancer-awareness-month/",
-      "https://dayalmanac.com/world-mental-health-day/",
-      "https://dayalmanac.com/world-kindness-day/",
-      "https://dayalmanac.com/international-mens-day/",
-      "https://dayalmanac.com/december-birthstone/",
-      "https://dayalmanac.com/september-birthstone/",
-      "https://dayalmanac.com/anniversary-gifts-by-year/",
-      "https://dayalmanac.com/national-cat-day/",
-      "https://dayalmanac.com/prostate-cancer-awareness-month/",
-      "https://dayalmanac.com/bullying-prevention-month/",
-      "https://dayalmanac.com/11th-anniversary-gift/",
-      "https://dayalmanac.com/adhd-awareness-month/",
-      "https://dayalmanac.com/diabetes-awareness-month/",
-      "https://dayalmanac.com/talk-like-a-pirate-day/",
-      "https://dayalmanac.com/1987-chinese-zodiac/",
-      "https://dayalmanac.com/lung-cancer-awareness-month/"
-    ],
-    "quota_used": 0
-  },
-  {
-    "date": "2026-08-30",
-    "action": "submitted",
-    "reason": "今日新发布1988 Chinese Zodiac（1988-chinese-zodiac）：URL Inspection确认Crawled-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
-    "submitted_urls": [
-      "https://dayalmanac.com/1988-chinese-zodiac/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-08-31",
-    "action": "skipped_no_quota_used",
-    "reason": "今日新发布national-mango-day，URL Inspection确认已收录。Page indexing报告仅有的1个Crawled-currently-not-indexed候选birth-flowers-by-month实测已收录（报告stale于8/21）。队列最高价值候选suicide-prevention-month（proxy 1392940）同样已收录。本站55/58已收录，其余3个是404/redirect问题非索引问题，本轮无可提交候选，跳过不消耗配额。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/national-mango-day/",
-      "https://dayalmanac.com/birth-flowers-by-month/",
-      "https://dayalmanac.com/suicide-prevention-month/"
-    ],
-    "quota_used": "0 - skipped, all checked candidates already indexed"
-  },
-  {
-    "date": "2026-09-01",
-    "action": "skipped_no_quota_used",
-    "reason": "今日为轻量丰富virgo-dates（非新页面），URL Inspection确认已收录。Page indexing报告仅1个Crawled-currently-not-indexed候选october-birthstone，实测已收录（报告stale）；discovered-currently-not-indexed为0。队列最高价值候选suicide-prevention-month同样已收录。本站全站候选均已收录，本轮无可提交项，跳过不消耗配额。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/october-birthstone/",
-      "https://dayalmanac.com/suicide-prevention-month/"
-    ],
-    "quota_used": "0 - skipped, all checked candidates already indexed"
-  },
-  {
-    "date": "2026-09-02",
-    "action": "skipped",
-    "reason": "trafficsite-gsc-index-requests例行运行，游标停留位DayAlmanac，本站排第1位。今日新发布1991-chinese-zodiac已收录；Page indexing报告显示79/83页面已索引，剩余4个不可索引原因分别为noindex标签1个/404 1个/redirect 1个/crawled-currently-not-indexed 1个（UI未能定位到该条具体URL），队列最高价值候选suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day均已收录，无可提交项，跳过不消耗配额，游标越过本站前进。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/1991-chinese-zodiac/",
-      "https://dayalmanac.com/suicide-prevention-month/",
-      "https://dayalmanac.com/breast-cancer-awareness-month/",
-      "https://dayalmanac.com/world-mental-health-day/",
-      "https://dayalmanac.com/world-kindness-day/"
-    ],
-    "quota_used": "0 - skipped, all checked candidates already indexed"
-  },
-  {
-    "date": "2026-09-03",
-    "action": "skipped_no_candidates",
-    "reason": "今日新发布november-birthstone经URL Inspection确认已收录（Google对本站抓取速度快）。Page indexing报告仅1个Crawled-currently-not-indexed（october-birthstone），查询确认也已收录（报告数据滞后8/28）。Discovered-currently-not-indexed=0。无可提交候选，跳过不消耗配额。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/november-birthstone/",
-      "https://dayalmanac.com/october-birthstone/"
-    ],
-    "quota_used": "0 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-09-09",
-    "action": "submitted",
-    "reason": "今日随机休息(节奏自然化)未发布新文。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1(libra-birthstone)，查询确认未收录，提交成功。",
-    "submitted_urls": [
-      "https://dayalmanac.com/libra-birthstone/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-09-10",
-    "action": "skipped_no_candidates",
-    "reason": "今日新发布april-birthstone，URL Inspection确认已收录（Page is indexed，本站索引速度一贯很快）。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1（libra-birthstone，09-09已提交），复查确认已收录。全站无可提交候选，跳过不消耗配额。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/april-birthstone/",
-      "https://dayalmanac.com/libra-birthstone/"
-    ],
-    "quota_used": "0 of shared account-wide daily quota"
-  },
-  {
-    "date": "2026-09-11",
-    "action": "skipped_no_candidate",
-    "reason": "今日新发布june-22-zodiac，URL Inspection确认已收录（本站索引速度一贯很快）。Page indexing报告Crawled-not-indexed仅1条libra-birthstone，核查已收录（09-09提交生效）。全站无可提交候选，跳过不消耗配额。",
-    "submitted_urls": [],
-    "already_indexed_no_action": [
-      "https://dayalmanac.com/june-22-zodiac/",
-      "https://dayalmanac.com/libra-birthstone/"
-    ],
-    "quota_used": "0"
-  },
-  {
-    "date": "2026-09-12",
-    "action": "submitted",
-    "reason": "今日新发布national-pasta-day，URL Inspection确认URL is not on Google，提交成功。同日birthstones-by-month为content-quality-audit审计更新但当时线上未及时生效（Cloudflare部署延迟异常，见内容发布日志），本次未验证其GSC状态，留待下次运行复查。",
-    "submitted_urls": [
-      "https://dayalmanac.com/national-pasta-day/"
-    ],
-    "already_indexed_no_action": [],
-    "quota_used": "1 of shared account-wide daily quota"
-  }
+    {
+        "date": "2026-08-03",
+        "action": "no_submission_needed_first_check",
+        "reason": "trafficsite-gsc-index-requests首次处理本站GSC索引提交（此前gsc-index-submit-log.json为空数组——站点8/2建站+8/2完成GSC domain property验证，但此任务此前从未实际跑过本站）。第0步核实dayalmanac.com（sc-domain:）已是已验证property。本站累计已发布6篇（首批5篇+national-bosses-day，2026-08-02），远超4篇首次提交门槛。今日dayalmanac-content-publishing尚未产出新文章（该任务定时19:30跑，晚于本次运行时刻）。按两轮制配额稀缺模式，本站round1取尚未提交、体量最高的页面：national-boyfriend-day（246,000/月）。URL Inspection结果为'URL is on Google, but has issues'——已自然收录，无需提交索引请求。副带发现：Events结构化数据6项无效（Enhancements & Experience面板），与索引提交无关，已另建task_ef38a138跟进排查（不在本任务范围内处理）。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-boyfriend-day/ (URL is on Google, but has issues — Events schema 6 invalid items，已建task_ef38a138跟进)"
+        ],
+        "quota_used": "0 (page already indexed, no request needed)"
+    },
+    {
+        "date": "2026-08-04",
+        "action": "submitted_partial_already_indexed",
+        "reason": "trafficsite-gsc-index-requests例行运行，跨天连续游标机制首次运行。今日新发布national-dog-day（URL is not on Google）提交成功。第二轮检查队列另外3个高代理项（national-daughters-day/national-sons-day/national-boyfriend-day），均已显示'URL is on Google'（自然收录，未消耗提交配额），本站第二轮无新提交，游标继续前进不重置。",
+        "submitted_urls": [
+            "https://dayalmanac.com/national-dog-day/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-daughters-day/",
+            "https://dayalmanac.com/national-sons-day/",
+            "https://dayalmanac.com/national-boyfriend-day/"
+        ],
+        "quota_used": "1 of shared account-wide daily quota (7th request this run)"
+    },
+    {
+        "date": "2026-08-05",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（virgo-dates/march-birthstone）。第一轮取virgo-dates（URL is not on Google）提交成功，第二轮取march-birthstone（同样未收录）提交成功。",
+        "submitted_urls": [
+            "https://dayalmanac.com/virgo-dates/",
+            "https://dayalmanac.com/march-birthstone/"
+        ],
+        "quota_used": "2 requests this run (round 1 and round 2)"
+    },
+    {
+        "date": "2026-08-06",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行。今日新发布2篇（scorpio-dates/january-birthstone，见内容发布日志.md；national-sons-day为同日审计更新非新发布）。第一轮取scorpio-dates已'URL is on Google'（自然收录，未消耗配额），改提交january-birthstone（URL is not on Google）成功。第二轮因Chrome扩展断连未能到达本站，队列后续候选本次未检查。",
+        "submitted_urls": [
+            "https://dayalmanac.com/january-birthstone/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/scorpio-dates/"
+        ],
+        "quota_used": "1 request this run (round 1 only; round 2 not reached due to Chrome extension disconnect)"
+    },
+    {
+        "date": "2026-08-06",
+        "action": "already_indexed",
+        "reason": "第二轮（Chrome扩展重连后继续）：依次检查december-birthstone/national-daughters-day/national-sons-day/national-boyfriend-day均已'URL is on Google'（自然收录，未消耗配额）。本站第二轮无新提交，游标继续前进不重置。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/national-daughters-day/",
+            "https://dayalmanac.com/national-sons-day/",
+            "https://dayalmanac.com/national-boyfriend-day/"
+        ],
+        "quota_used": "0 requests (round 2, all checked candidates already indexed)"
+    },
+    {
+        "date": "2026-08-07",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行（跨天连续游标轮换，两轮）。按收入代理排序队列逐个URL Inspection检查：已收录（URL is on Google）的候选跳过不消耗配额，共7个；找到未收录候选后提交REQUEST INDEXING，两轮各提交1个，共2个。",
+        "submitted_urls": [
+            "https://dayalmanac.com/red-ribbon-week/",
+            "https://dayalmanac.com/national-bosses-day/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-boyfriend-day/",
+            "https://dayalmanac.com/scorpio-dates/",
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/national-daughters-day/",
+            "https://dayalmanac.com/national-sons-day/",
+            "https://dayalmanac.com/national-cat-day/",
+            "https://dayalmanac.com/national-coffee-day/"
+        ],
+        "quota_used": "2 requests (2轮各1次)"
+    },
+    {
+        "date": "2026-08-08",
+        "action": "skipped_all_indexed",
+        "reason": "trafficsite-gsc-index-requests例行运行。队列内9个候选全部已'URL is on Google'（自然收录），未消耗提交配额。附带发现：至少6个页面（national-boyfriend-day/national-daughters-day/national-sons-day/national-cat-day/national-coffee-day/national-grandparents-day）在Enhancements区域显示Events结构化数据'5-6 invalid items detected'，不影响索引状态但已作为独立任务flag，非本次任务处理范围。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-boyfriend-day/",
+            "https://dayalmanac.com/scorpio-dates/",
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/national-daughters-day/",
+            "https://dayalmanac.com/national-sons-day/",
+            "https://dayalmanac.com/national-cat-day/",
+            "https://dayalmanac.com/national-coffee-day/",
+            "https://dayalmanac.com/national-grandparents-day/",
+            "https://dayalmanac.com/september-birthstone/"
+        ],
+        "quota_used": "0 requests (全部候选已自然收录)"
+    },
+    {
+        "date": "2026-08-09",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行。处理今日新发布 domestic-violence-awareness-month，URL Inspection确认'URL is not on Google'，REQUEST INDEXING后确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/domestic-violence-awareness-month/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 request"
+    },
+    {
+        "date": "2026-08-10",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行。今日两篇新发布：national-hispanic-heritage-month查询已收录未提交；no-shave-november查询确认'URL is unknown to Google'，REQUEST INDEXING后确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/no-shave-november/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-hispanic-heritage-month/"
+        ],
+        "quota_used": "1 request"
+    },
+    {
+        "date": "2026-08-11",
+        "action": "submitted",
+        "reason": "游标第9站。今日新发布birthstones-by-month（S层参考页，13:35档）URL Inspection显示未收录（URL is unknown to Google），REQUEST INDEXING后确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/birthstones-by-month/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 request"
+    },
+    {
+        "date": "2026-08-12",
+        "action": "submitted",
+        "reason": "游标第8站。今日新发布september-birth-flower（13:35档，本日第1篇）URL Inspection显示未收录（URL is unknown to Google），REQUEST INDEXING后确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/september-birth-flower/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 request"
+    },
+    {
+        "date": "2026-08-13",
+        "action": "submitted",
+        "reason": "trafficsite-gsc-index-requests例行运行。今日新发布National Epilepsy Awareness Month（13:35档）。首次误按标题拼出URL national-epilepsy-awareness-month/（实际slug无national-前缀），URL Inspection的Live Test确认该URL确为404（Not found），REQUEST INDEXING被GSC拒绝（Indexing request rejected），未计入成功提交、且404请求本身大概率不消耗真实索引配额。核对guides.ts确认正确slug为epilepsy-awareness-month后重新检查，'URL is not on Google'，REQUEST INDEXING提交成功，等待约20秒确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/epilepsy-awareness-month/"
+        ],
+        "rejected_wrong_url": [
+            "https://dayalmanac.com/national-epilepsy-awareness-month/ (404, slug错误未消耗有效配额)"
+        ],
+        "quota_used": "1 of shared account-wide daily quota (8th request this run; 1 additional rejected 404 attempt on wrong slug)"
+    },
+    {
+        "date": "2026-08-16",
+        "action": "submitted",
+        "reason": "按队列脚本代理排序检查候选：adhd-awareness-month（08-13新发布）、breast-cancer-awareness-month均已收录。改查Page indexing报告的'Discovered - currently not indexed'分类，命中topics/birthstones（专题聚合页），URL Inspection确认'URL is not on Google'（Discovered - currently not indexed），REQUEST INDEXING提交成功确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/topics/birthstones/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/adhd-awareness-month/",
+            "https://dayalmanac.com/breast-cancer-awareness-month/"
+        ],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-16",
+        "action": "submitted",
+        "reason": "同日第二次运行（首次运行结尾因Claude in Chrome工具故障卡在Hollowvane，等待网络恢复后重试成功续跑）。GSC自身'Crawled - currently not indexed'分类候选true-or-false/已收录。改查build-index-queue.py队列高代理候选：international-mens-day/december-birthstone/september-birthstone/national-cat-day/diabetes-awareness-month/talk-like-a-pirate-day/july-birth-flower连续7个均已收录（本站索引速度很快），national-first-responders-day确认'URL is not on Google'（URL unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/national-first-responders-day/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/true-or-false/",
+            "https://dayalmanac.com/international-mens-day/",
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/september-birthstone/",
+            "https://dayalmanac.com/national-cat-day/",
+            "https://dayalmanac.com/diabetes-awareness-month/",
+            "https://dayalmanac.com/talk-like-a-pirate-day/",
+            "https://dayalmanac.com/july-birth-flower/"
+        ],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-17",
+        "action": "submitted",
+        "reason": "今日新发布两篇（November Birth Flower补跑00:08触发；October Birth Flower 13:35档本日第2篇）+内容质量审计更新National Dog Day。URL Inspection确认november-birth-flower/october-birth-flower均'URL is not on Google'，REQUEST INDEXING各自提交成功确认'Indexing requested'；national-dog-day经核实已收录（'URL is on Google'），无需提交。",
+        "submitted_urls": [
+            "https://dayalmanac.com/november-birth-flower/",
+            "https://dayalmanac.com/october-birth-flower/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-dog-day/"
+        ],
+        "quota_used": "2 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-18",
+        "action": "submitted",
+        "reason": "今日新发布April Birth Flower（本日第1篇新发布），URL Inspection确认'URL is not on Google'，REQUEST INDEXING提交成功确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/april-birth-flower/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-19",
+        "action": "submitted",
+        "reason": "今日新发布January Birth Flower（january-birth-flower，13:35档，本日第1篇），URL Inspection确认'URL is not on Google'（unknown to Google），REQUEST INDEXING提交成功确认'Indexing requested'。",
+        "submitted_urls": [
+            "https://dayalmanac.com/january-birth-flower/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-20",
+        "action": "submitted",
+        "reason": "今日新发布world-smile-day（dayalmanac-content-publishing任务）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/world-smile-day/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-21",
+        "action": "submitted",
+        "reason": "今日新发布June Birth Flower（dayalmanac-content-publishing任务，13:35档）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/june-birth-flower/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-22",
+        "action": "submitted",
+        "reason": "今日新发布Birth Flowers by Month hub页（dayalmanac-content-publishing任务，13:35档，本日第一次运行）。URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/birth-flowers-by-month/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-23",
+        "action": "submitted",
+        "reason": "今日dayalmanac-content-publishing 13:35档修复完成1994-chinese-zodiac（该文经历trafficsite-nightly-ops-review抢先commit未审核草稿、后被本会话次日修复覆盖的插曲，线上最终为修复版）。URL Inspection确认URL is not on Google/Discovered-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/1994-chinese-zodiac/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-24",
+        "action": "skipped_all_indexed",
+        "reason": "本次运行时刻（游标轮到DayAlmanac）该站今日3档发布尚未产出新记录。队列头部suicide-prevention-month经URL Inspection已收录。Pages报告仅1个Crawled-currently not indexed候选birth-flowers-by-month，URL Inspection核实已转为'URL is on Google'（报告滞后快照，非真实未收录）；Discovered-currently not indexed为0。判定当前无真实未提交候选，跳过本轮不消耗配额，游标继续前进至DialWick。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/suicide-prevention-month/",
+            "https://dayalmanac.com/birth-flowers-by-month/"
+        ],
+        "quota_used": "0 (skipped, no unindexed candidate found)"
+    },
+    {
+        "date": "2026-08-25",
+        "action": "quota_exceeded",
+        "reason": "今日新发布Ovarian Cancer Awareness Month（dayalmanac-content-publishing任务）。URL Inspection确认URL is not on Google/unknown to Google，点击REQUEST INDEXING后返回'Quota Exceeded'（共享账号级配额当日已用完，本轮此前5站FactCrumbs/WarCrumbs/MythCairn/UmberLore/CalcBadger各提交1个成功，Hollowvane跳过不耗配额），立即停止未重试。游标停留在DayAlmanac，下次运行从此站续做（含今日这篇+DialWick/LingoGrove/WageLark均未轮到）。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [],
+        "quota_used": "0 (submission failed: Quota Exceeded)"
+    },
+    {
+        "date": "2026-08-26",
+        "action": "submitted",
+        "reason": "游标停留位DayAlmanac续做昨日未完成条目。今日新发布banned-books-week，URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功。",
+        "submitted_urls": [
+            "https://dayalmanac.com/banned-books-week/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": 1
+    },
+    {
+        "date": "2026-08-27",
+        "action": "submitted",
+        "reason": "游标停留位DayAlmanac开始处理。今日新发布national-pepperoni-pizza-day（13:35档），URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。完整绕行10站一圈后回到DayAlmanac进行第二轮检查：suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day/international-mens-day/december-birthstone/september-birthstone/anniversary-gifts-by-year/national-cat-day共9个build-index-queue.py队列候选逐一URL Inspection核查，均已是'URL is on Google'（已收录，不耗配额），未再提交，游标前进至DialWick。",
+        "submitted_urls": [
+            "https://dayalmanac.com/national-pepperoni-pizza-day/"
+        ],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/suicide-prevention-month/",
+            "https://dayalmanac.com/breast-cancer-awareness-month/",
+            "https://dayalmanac.com/world-mental-health-day/",
+            "https://dayalmanac.com/world-kindness-day/",
+            "https://dayalmanac.com/international-mens-day/",
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/september-birthstone/",
+            "https://dayalmanac.com/anniversary-gifts-by-year/",
+            "https://dayalmanac.com/national-cat-day/"
+        ],
+        "quota_used": 1
+    },
+    {
+        "date": "2026-08-28",
+        "action": "submitted",
+        "reason": "今日新发布National Days in October（national-days-in-october，13:35档，本日第一篇）：URL Inspection确认URL is not on Google/unknown to Google，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/national-days-in-october/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-29",
+        "action": "skipped_all_indexed",
+        "reason": "今日新发布october-birthstone已实测确认收录（URL is on Google）。用build-index-queue.py队列继续遍历20个候选（suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day/international-mens-day/december-birthstone/september-birthstone/anniversary-gifts-by-year/national-cat-day/prostate-cancer-awareness-month/bullying-prevention-month/11th-anniversary-gift/adhd-awareness-month/diabetes-awareness-month/talk-like-a-pirate-day/1987-chinese-zodiac/lung-cancer-awareness-month），逐个URL Inspection均已收录（本站抓取预算充裕，新文章几乎实时收录），未发现未收录候选，跳过该站不耗配额（本次未遍历完45个候选队列的全部，剩余候选留给下次运行）。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/october-birthstone/",
+            "https://dayalmanac.com/suicide-prevention-month/",
+            "https://dayalmanac.com/breast-cancer-awareness-month/",
+            "https://dayalmanac.com/world-mental-health-day/",
+            "https://dayalmanac.com/world-kindness-day/",
+            "https://dayalmanac.com/international-mens-day/",
+            "https://dayalmanac.com/december-birthstone/",
+            "https://dayalmanac.com/september-birthstone/",
+            "https://dayalmanac.com/anniversary-gifts-by-year/",
+            "https://dayalmanac.com/national-cat-day/",
+            "https://dayalmanac.com/prostate-cancer-awareness-month/",
+            "https://dayalmanac.com/bullying-prevention-month/",
+            "https://dayalmanac.com/11th-anniversary-gift/",
+            "https://dayalmanac.com/adhd-awareness-month/",
+            "https://dayalmanac.com/diabetes-awareness-month/",
+            "https://dayalmanac.com/talk-like-a-pirate-day/",
+            "https://dayalmanac.com/1987-chinese-zodiac/",
+            "https://dayalmanac.com/lung-cancer-awareness-month/"
+        ],
+        "quota_used": 0
+    },
+    {
+        "date": "2026-08-30",
+        "action": "submitted",
+        "reason": "今日新发布1988 Chinese Zodiac（1988-chinese-zodiac）：URL Inspection确认Crawled-currently not indexed，REQUEST INDEXING提交成功确认Indexing requested。",
+        "submitted_urls": [
+            "https://dayalmanac.com/1988-chinese-zodiac/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-08-31",
+        "action": "skipped_no_quota_used",
+        "reason": "今日新发布national-mango-day，URL Inspection确认已收录。Page indexing报告仅有的1个Crawled-currently-not-indexed候选birth-flowers-by-month实测已收录（报告stale于8/21）。队列最高价值候选suicide-prevention-month（proxy 1392940）同样已收录。本站55/58已收录，其余3个是404/redirect问题非索引问题，本轮无可提交候选，跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/national-mango-day/",
+            "https://dayalmanac.com/birth-flowers-by-month/",
+            "https://dayalmanac.com/suicide-prevention-month/"
+        ],
+        "quota_used": "0 - skipped, all checked candidates already indexed"
+    },
+    {
+        "date": "2026-09-01",
+        "action": "skipped_no_quota_used",
+        "reason": "今日为轻量丰富virgo-dates（非新页面），URL Inspection确认已收录。Page indexing报告仅1个Crawled-currently-not-indexed候选october-birthstone，实测已收录（报告stale）；discovered-currently-not-indexed为0。队列最高价值候选suicide-prevention-month同样已收录。本站全站候选均已收录，本轮无可提交项，跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/october-birthstone/",
+            "https://dayalmanac.com/suicide-prevention-month/"
+        ],
+        "quota_used": "0 - skipped, all checked candidates already indexed"
+    },
+    {
+        "date": "2026-09-02",
+        "action": "skipped",
+        "reason": "trafficsite-gsc-index-requests例行运行，游标停留位DayAlmanac，本站排第1位。今日新发布1991-chinese-zodiac已收录；Page indexing报告显示79/83页面已索引，剩余4个不可索引原因分别为noindex标签1个/404 1个/redirect 1个/crawled-currently-not-indexed 1个（UI未能定位到该条具体URL），队列最高价值候选suicide-prevention-month/breast-cancer-awareness-month/world-mental-health-day/world-kindness-day均已收录，无可提交项，跳过不消耗配额，游标越过本站前进。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/1991-chinese-zodiac/",
+            "https://dayalmanac.com/suicide-prevention-month/",
+            "https://dayalmanac.com/breast-cancer-awareness-month/",
+            "https://dayalmanac.com/world-mental-health-day/",
+            "https://dayalmanac.com/world-kindness-day/"
+        ],
+        "quota_used": "0 - skipped, all checked candidates already indexed"
+    },
+    {
+        "date": "2026-09-03",
+        "action": "skipped_no_candidates",
+        "reason": "今日新发布november-birthstone经URL Inspection确认已收录（Google对本站抓取速度快）。Page indexing报告仅1个Crawled-currently-not-indexed（october-birthstone），查询确认也已收录（报告数据滞后8/28）。Discovered-currently-not-indexed=0。无可提交候选，跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/november-birthstone/",
+            "https://dayalmanac.com/october-birthstone/"
+        ],
+        "quota_used": "0 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-09-09",
+        "action": "submitted",
+        "reason": "今日随机休息(节奏自然化)未发布新文。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1(libra-birthstone)，查询确认未收录，提交成功。",
+        "submitted_urls": [
+            "https://dayalmanac.com/libra-birthstone/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-09-10",
+        "action": "skipped_no_candidates",
+        "reason": "今日新发布april-birthstone，URL Inspection确认已收录（Page is indexed，本站索引速度一贯很快）。Page indexing报告Discovered-currently-not-indexed=0，Crawled-currently-not-indexed=1（libra-birthstone，09-09已提交），复查确认已收录。全站无可提交候选，跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/april-birthstone/",
+            "https://dayalmanac.com/libra-birthstone/"
+        ],
+        "quota_used": "0 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-09-11",
+        "action": "skipped_no_candidate",
+        "reason": "今日新发布june-22-zodiac，URL Inspection确认已收录（本站索引速度一贯很快）。Page indexing报告Crawled-not-indexed仅1条libra-birthstone，核查已收录（09-09提交生效）。全站无可提交候选，跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/june-22-zodiac/",
+            "https://dayalmanac.com/libra-birthstone/"
+        ],
+        "quota_used": "0"
+    },
+    {
+        "date": "2026-09-12",
+        "action": "submitted",
+        "reason": "今日新发布national-pasta-day，URL Inspection确认URL is not on Google，提交成功。同日birthstones-by-month为content-quality-audit审计更新但当时线上未及时生效（Cloudflare部署延迟异常，见内容发布日志），本次未验证其GSC状态，留待下次运行复查。",
+        "submitted_urls": [
+            "https://dayalmanac.com/national-pasta-day/"
+        ],
+        "already_indexed_no_action": [],
+        "quota_used": "1 of shared account-wide daily quota"
+    },
+    {
+        "date": "2026-09-13",
+        "action": "skipped_already_indexed",
+        "reason": "今日新发布may-22-zodiac经URL Inspection确认已是'URL is on Google'（已收录）；队列次候选suicide-prevention-month同样已收录；老页未收录巡检本身对本站结果就是0未收录（sitemap 81页零曝光页全部已收录）。跳过不消耗配额。",
+        "submitted_urls": [],
+        "already_indexed_no_action": [
+            "https://dayalmanac.com/may-22-zodiac/",
+            "https://dayalmanac.com/suicide-prevention-month/"
+        ],
+        "quota_used": "0 of shared account-wide daily quota"
+    }
 ]

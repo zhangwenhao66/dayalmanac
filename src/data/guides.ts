@@ -7369,6 +7369,10 @@ export const guides: Guide[] = [
       {
         "question": "Has a U.S. president always issued a proclamation for this observance?",
         "answer": "No. The earliest presidential proclamation found on the record is President Biden's, for November 2022, signed October 31 of that year. No proclamation under this name has been found from any earlier administration. Biden issued further proclamations in 2023 and 2024, and the Trump administration marked the month again in November 2025."
+      },
+      {
+        "question": "What color ribbon is worn for lung cancer?",
+        "answer": "White. The Colorado couple Heidi and Pierre Nafman-Onda made the first plywood white ribbon for their own porch in fall 2020, and the effort grew into The White Ribbon Project, a standing nonprofit, within about six months."
       }
     ],
     "sources": [
@@ -8073,6 +8077,10 @@ export const guides: Guide[] = [
       {
         "question": "How many countries does the World Federation for Mental Health actually reach?",
         "answer": "Sources disagree. Wikipedia's article on World Mental Health Day states WFMH has members and contacts in more than 150 countries, while Wikipedia's separate article on WFMH itself states more than 94 countries on six continents. Neither figure links to a dated primary count, so this page reports both rather than choosing one."
+      },
+      {
+        "question": "What is the importance of April 7?",
+        "answer": "April 7 is World Health Day, not World Mental Health Day, an entirely separate WHO observance marking the organization's own 1948 founding; the World Health Assembly set the date in 1948, effective from 1950. World Mental Health Day, the subject of this page, falls on October 10 and was founded in 1992 by a different organization, the World Federation for Mental Health."
       }
     ],
     "sources": [
@@ -8444,6 +8452,10 @@ export const guides: Guide[] = [
       {
         "question": "Which of June's birthstones holds up best in an everyday ring?",
         "answer": "Alexandrite, by a wide margin. At 8.5 on the Mohs hardness scale it resists scratching well enough for daily wear, compared with 6 to 6.5 for moonstone and just 2.5 to 4.5 for pearl, which is better suited to a strand or earrings than a ring worn constantly."
+      },
+      {
+        "question": "What are the 12 birthstones by month?",
+        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, checked directly against Jewelers of America's live list: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon."
       }
     ],
     "sources": [
@@ -8831,6 +8843,10 @@ export const guides: Guide[] = [
       {
         "question": "Why is ovarian cancer called a 'silent killer,' and is that accurate?",
         "answer": "The label reflects that about 70% of cases are diagnosed at an advanced stage, since no screening test has been shown reliable enough for general use — the U.S. Preventive Services Task Force gives ovarian-cancer screening a Grade D. But symptoms do occur: a 2000 survey of 1,725 women with the disease found 95% reported noticing bloating, pelvic pain, early fullness, or urinary changes at some point before diagnosis. Some researchers argue this makes 'silent' inaccurate; the symptoms are real but easily mistaken for digestive issues, which is a different problem than having no symptoms at all."
+      },
+      {
+        "question": "What color ribbon is for ovarian cancer?",
+        "answer": "Teal, used by the National Ovarian Cancer Coalition, OCRA, and international partner organizations. It's most often attributed to the Ovarian Cancer National Alliance, a precursor to today's OCRA, introducing it around 1994 or 1995, though that specific attribution rests on secondary sources rather than an official history page."
       }
     ],
     "sources": [
@@ -9016,6 +9032,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Quesadilla Day a federal holiday?",
         "answer": "No. It has no legal or governmental status. Banks, government offices, and the postal service operate on their normal schedule on September 25."
+      },
+      {
+        "question": "Which country is the quesadilla originally from?",
+        "answer": "Mexico. The dish dates to the country's colonial era, long before V&V Supremo built National Quesadilla Day around it in 2019 to promote its own cheese brand. The observance is a recent American marketing invention; the food it celebrates isn't."
       }
     ],
     "sources": [
@@ -9173,6 +9193,10 @@ export const guides: Guide[] = [
       {
         "question": "Does Galentine's Day always fall exactly on February 13?",
         "answer": "The canonical date from the show is February 13, and that is the date this calendar's table tracks. In practice, many real-world celebrations are held on whichever nearby day is most convenient, which Wikipedia's own account of the observance acknowledges directly. That flexibility is a practical accommodation, not a dispute over the \"real\" date."
+      },
+      {
+        "question": "Is Galentine's Day for single women only?",
+        "answer": "No. The founding premise, per Leslie Knope's original line from the 2010 episode, is that women set aside their husbands and boyfriends for the morning to celebrate each other, not that participants can't have partners. It's built around female friendship, not relationship status."
       }
     ],
     "sources": [
@@ -9482,6 +9506,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Adoption Day held in every state?",
         "answer": "It has been since 2007, the first year the coalition reports the event was held in all 50 states and the District of Columbia. By 2018 the coalition counted roughly 400 participating cities and counties annually; the 26th annual event in 2025 had 62 jurisdictions across 27 states formally registered on the organizers' website by the time of the event, with over 400 total events anticipated."
+      },
+      {
+        "question": "What is an adoption anniversary called?",
+        "answer": "\"Gotcha Day\" is the most common term, per Wikipedia, marking the anniversary of the day a child joined their family, sometimes a different date than the legal finalization. It's also called Family Day or Homecoming Day, and the term \"Gotcha Day\" itself is considered offensive by some adoptees, so families don't use it universally."
       }
     ],
     "sources": [
@@ -9655,6 +9683,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Bullying Prevention Month the same as UNESCO's bullying prevention day?",
         "answer": "No. UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month, and was established by a unanimous vote of UNESCO member states in 2019, first observed in 2020. It is a distinct, internationally coordinated observance, not part of PACER's October campaign."
+      },
+      {
+        "question": "Is \"Anti-Bullying Day\" the same as National Bullying Prevention Month?",
+        "answer": "No, and \"Anti-Bullying Day\" itself refers to more than one thing. The UK's Anti-Bullying Week, organized by the Anti-Bullying Alliance since 2004, runs the third week of November, separate from PACER's US-based National Bullying Prevention Month covered on this page, from STOMP Out Bullying's October World Day of Bullying Prevention, and from Canada's Pink Shirt Day, held the last Wednesday of February."
       }
     ],
     "sources": [
@@ -10105,6 +10137,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Nachos Day a federal holiday?",
         "answer": "No. It has no legal or governmental status. Banks, government offices, and the postal service operate on their normal schedule on November 6."
+      },
+      {
+        "question": "What does \"Nacho\" literally mean?",
+        "answer": "It's simply the common Spanish nickname for the name Ignacio. The dish is named directly after its inventor, Ignacio \"Nacho\" Anaya, not after a Spanish word describing the food itself."
       }
     ],
     "sources": [
@@ -10357,6 +10393,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Sweetest Day a real historical event or just a greeting-card holiday?",
         "answer": "Both, in a sense that most \"just a greeting-card holiday\" dismissals miss. The first Sweetest Day was a real, dated event on October 10, 1921, organized by a 12-member committee of Cleveland confectioners and covered by the Cleveland Plain Dealer the following year, with actresses helping distribute more than 20,000 boxes of candy to orphans, older residents, and the poor. What is unresolved is the exact role of Herbert Birch Kingston, the individual most often credited as its founder: sources disagree on whether he was an outside advertising figure or a member of the candy-makers' committee itself."
+      },
+      {
+        "question": "Why is October 28 a special day?",
+        "answer": "It's National First Responders Day, honoring police officers, firefighters, EMTs, paramedics, and 911 dispatchers. Congress introduced eleven separate bills to establish it between 2014 and 2023, and the Senate passed two of them, but the House never passed one, so no federal statute names the day; recent presidents have filled that gap with their own proclamations instead."
       }
     ],
     "sources": [
@@ -10831,6 +10871,10 @@ export const guides: Guide[] = [
       {
         "question": "Does the Corn Moon actually look bigger or more orange than other full moons?",
         "answer": "No more than any other full moon does. EarthSky attributes the big, orange look to the moon illusion, a documented visual effect that happens whenever the moon sits low near the horizon, which is simply when people are most likely to be looking for it, shortly after sunset. It isn't a property of the Corn Moon or Harvest Moon specifically."
+      },
+      {
+        "question": "Will there be a Buck Moon in 2026?",
+        "answer": "Yes. Buck Moon is the customary name for July's full moon on the same Old Farmer's Almanac 12-name list this page cites for September's Corn Moon. Every year has one, since the name is tied to the calendar month rather than to a rarer astronomical event."
       }
     ],
     "sources": [
@@ -11066,6 +11110,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Mango Day a federal holiday?",
         "answer": "No, it carries no legal weight anywhere. Businesses, government agencies, and mail carriers in the U.S. and India both operate on an unchanged, ordinary July 22."
+      },
+      {
+        "question": "Which US state grows the most mangoes?",
+        "answer": "Florida, and it isn't close domestically. Commercial mango growing in the US is concentrated in South Florida, where the first commercial orchard was planted in 1833; Florida remained the country's largest mango producer as of 2021, per Wikipedia's entry on the state's mango industry."
       }
     ],
     "sources": [
@@ -11789,6 +11837,10 @@ export const guides: Guide[] = [
       {
         "question": "Does any other month share diamond as a birthstone?",
         "answer": "No. On the current trade chart, diamond is assigned to April only, and no other month lists it."
+      },
+      {
+        "question": "What stone is April's zodiac sign, Taurus?",
+        "answer": "Sapphire, per gemologist George Frederick Kunz's 1913 zodiac table, reproduced on Wikipedia and already checked elsewhere on this site against September's and January's zodiac-stone claims. That's a separate, older tradition from the monthly birthstone list, which assigns April's actual calendar month diamond alone."
       }
     ],
     "sources": [

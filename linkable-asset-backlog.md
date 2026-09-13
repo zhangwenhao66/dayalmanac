@@ -85,14 +85,16 @@
 - **制作复杂度**：中——干支纪年的计算逻辑本身是确定性数学（60年一甲子），需要一个可靠的年份↔干支/五行映射表并做单元测试验证边界（比如农历新年切换点，需参照站内`tools/generate-dates.mjs`已有的谨慎态度，不能自己发明历法换算逻辑，边界年份要查证权威来源）。
 - **备注**：这条比其他几条更偏个人查询工具而非纯公开数字资产，制作时应优先做好"下一次同组合年份"这个可摘录数字的独立呈现，不要只做成一个纯粹的"查你自己命理"小玩具。
 
-## 10. Holiday Spending Statistics 2026：节日消费数据统计枢纽页 `[统计枢纽][待制作]`
+## 10. Holiday Spending Statistics 2026：节日消费数据统计枢纽页 `[统计枢纽][已制作，待次日推送]`
 
 **2026-09-13 统计数据枢纽页筛查**（第四类资产，参考 @fba Citation Hub 长文，规格见 `trafficsite-linkable-asset-building` 第4条）。
 
 - **候选头词**：holiday spending statistics 2026
 - **v2 分档**：B（`Skill(keyword-screening)` 真实SERP：开放位7个 `pwc.com`/`thetradedesk.com`/`salsify.com`/`lendingtree.com`/`uschamber.com`/`nrf.com`/`zetaglobal.com`，最年轻开放域名zetaglobal.com注册131个月，无年轻站证据）。
-- **已确认原始数据源**：①National Retail Federation（NRF）年度假日消费者调查（联合Prosper Insights & Analytics，已进入第23年）②PwC假日购物展望报告 ③LendingTree消费者假日支出调查 ④美国商会（US Chamber of Commerce）
+- **已确认原始数据源**：①National Retail Federation（NRF）年度假日消费者调查（联合Prosper Insights & Analytics，已进入第23年）②PwC假日购物展望报告 ③LendingTree消费者假日支出调查 ④~~美国商会（US Chamber of Commerce）~~
+- **⚠️ 2026-09-13 制作时勘误**：US Chamber 不是原始数据源，实测其 CO— 博客文章（如"top-smb-holiday-trends"）是转引 Deloitte（$1,595 vs $1,778 平均消费）、Adobe（AI流量+520%）等第三方调研的媒体二次报道，本身不产出假日消费调查数据。**成稿未采用 US Chamber 任何数字**，实际只用了 NRF/PwC/LendingTree 三个真正的原始发布方（22条来源URL全部逐一curl+grep核实数字确实出现在页面上）。以后任何任务再考虑引用 US Chamber 的假日消费数据，先确认它这篇具体文章是不是在转述别家调研，不能只看"看起来像行业媒体"就当原始源。
 - **具体做什么**：策展≥50条可追溯统计（按节日拆分的人均消费、按品类拆分（礼物/食品/装饰）、历年对比、按世代/收入分层数据），NRF单份年度调查本身有历年数据+多维拆分，体量足够。
 - **为什么会被引用**：本站核心定位是节日/观察日权威站，零售/理财媒体每年感恩节前后高频引用NRF数字，目前多数引用只挑单一数字（"人均$890"），一份逐条溯源、覆盖历年趋势+分品类的策展页比零散引用更有工具价值。
 - **制作复杂度**：低——NRF/PwC/LendingTree均为公开新闻稿+报告，核心工作是逐条摘录+标注来源年份，不需要额外调研。
 - **备注**：本站已有多个节日消费相关分区（观察日/awareness月），本条统计枢纽页需覆盖跨节日的横向对比（不止感恩节/圣诞），避免与已有单节日消费文章内容重复；每年NRF数据发布后需要重新核实刷新，纳入年度刷新纪律。
+- **制作结果**：slug `holiday-spending-statistics`，category `Consumer Trends`，正文≈2140词，58条统计+9项PwC世代/行为数据+11项LendingTree债务/感恩节数据，来源22条（NRF 19 + PwC 1 + LendingTree 2），全部curl+grep逐条核实数字真实出现在页面上；Key Takeaways 14条 + 8个问句H2 + FAQ 6条（4条来自真实PAA）+ Cite this块；`npm test` 49/49、`npm run build` 139页通过；`check_prose_patterns`/`check_comparatives`/`check_bridge_sentences`（2条内链候选人工核对CONFIRMED）/`check_seo_field_stats`/`title_lint` 全部通过；`Skill(humanizer)`+`Skill(avoid-ai-writing)` detect-only 两轮，清除22处叙事性em-dash（sources标签的"机构—标题"惯例保留）、打破3处"How much"标题句式对称；`Skill(google-spam-compliance)` 全项PASS（§7抽查5条统计逐条curl复核命中）。因当日 DayAlmanac 发文速度上限（1篇/天）已被常规发布任务用掉，本次 commit 不 push，待次日推送，详见 `内容发布日志.md` 2026-09-13 条目。

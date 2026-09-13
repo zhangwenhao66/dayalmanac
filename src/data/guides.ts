@@ -11927,5 +11927,216 @@ export const guides: Guide[] = [
     ],
     "image": "/images/national-pasta-day-october-comparison.svg",
     "imageAlt": "Diagram comparing National Pasta Month (all of October, documented), National Pasta Day (October 17, unverified origin), and World Pasta Day (October 25, documented to a 1995 Rome congress)"
+  },
+  {
+    "slug": "holiday-spending-statistics",
+    "category": "Consumer Trends",
+    "title": "Holiday Spending Statistics 2026, All Sourced",
+    "description": "More than 50 holiday spending statistics for 2026, each traced to NRF's, PwC's, or LendingTree's published survey, sorted by holiday, by category, and by year.",
+    "published": "2026-09-13",
+    "updated": "2026-09-13",
+    "coreSummary": "NRF's surveys recorded new dollar-spending records in 2026 for nearly every holiday this page tracks, from $29.1 billion on Valentine's Day to $103.5 billion on college back-to-school shopping, even as PwC's newest survey (published September 2026) found average per-person gift budgets dipping 2% and millennials cutting travel spending 37% year over year.",
+    "sections": [
+      {
+        "heading": "Key Takeaways",
+        "body": [
+          "NRF's fall 2025 survey put average per-person winter-holiday spending at $890.49, the second-highest figure in the survey's 23-year history, with $627.93 of that going to gifts.",
+          "NRF forecast $1.01 trillion to $1.02 trillion in November-and-December 2025 US retail sales, the first time the winter holiday season has crossed $1 trillion.",
+          "NRF's 2026 survey put Valentine's Day spending at a record $29.1 billion, up from $27.5 billion in 2025.",
+          "NRF's 2026 survey put Easter spending at a record $24.9 billion, with per-person spending at a record $195.59.",
+          "NRF's 2026 survey put Mother's Day spending at a record $38 billion, led by $7.5 billion on jewelry.",
+          "NRF's 2026 survey put Father's Day spending at a record $27.9 billion, with 77% of consumers planning to celebrate.",
+          "NRF's most recent Halloween survey, from fall 2025, recorded $13.1 billion in spending, a record, up from $11.6 billion in 2024.",
+          "NRF's 2026 survey put Super Bowl spending at a record $20.2 billion, with 213.1 million US adults planning to watch.",
+          "NRF's 2026 survey put K-12 back-to-school spending at a record $43.3 billion and college spending at a record $103.5 billion, the first time college spending has topped $100 billion.",
+          "PwC's newest Holiday Outlook, published September 8, 2026, projects average household holiday gift spending of $708 in 2026, a 2% dip from 2025.",
+          "PwC found millennials cutting 2026 holiday gift budgets 10% and travel budgets 37% year over year, even though they remain the season's biggest spenders overall.",
+          "LendingTree's December 2025 survey found 37% of Americans took on holiday debt that season, averaging $1,223, up from $1,181 in 2024.",
+          "LendingTree's November 2025 survey found potential Thanksgiving hosts planned to spend $487 on food, drinks, and decor, up 13% from $431 in 2024.",
+          "NRF's 2026 figures put St. Patrick's Day per-person spending at a record $47.45 and Independence Day per-person food spending at a record $94.41."
+        ]
+      },
+      {
+        "heading": "How much are Americans spending on the winter holidays?",
+        "body": [
+          "The most recent complete answer comes from NRF's fall 2025 survey, since NRF typically publishes its winter-holiday forecast every October and won't release 2026-season numbers until then. Consumers told NRF's Prosper Insights & Analytics survey they planned to spend an average of $890.49 on gifts, food, decorations, and other seasonal items in 2025, the second-highest figure the survey has recorded in its 23-year history and just short of 2024's record $901.99. Of that total, $627.93 goes to gifts for family and friends, with the remaining $262.56 covering food, decorations, and greeting cards.",
+          "NRF's parallel retail forecast projected total November-and-December 2025 sales of $1.01 trillion to $1.02 trillion, the first time the season has crossed $1 trillion, on growth of 3.7% to 4.2% over 2024. Retailers expected to hire between 265,000 and 365,000 seasonal workers, down from 442,000 seasonal hires in 2024. Ninety-one percent of consumers said they planned to celebrate winter holidays such as Christmas, Hanukkah, or Kwanzaa, and a record 186.9 million people said they planned to shop between Thanksgiving Day and Cyber Monday."
+        ]
+      },
+      {
+        "heading": "What did each individual holiday record in 2026?",
+        "body": [
+          "NRF's 2026 Valentine's Day survey put total spending at a record $29.1 billion, up from $27.5 billion in 2025, $23.9 billion in 2022, and $18.2 billion nine years earlier in 2017. Average per-person spending reached a record $199.78, up from $188.81 in 2025 and above the previous record of $196.31 set in 2020.",
+          "NRF's 2026 Easter survey put total spending at a record $24.9 billion, up from $23.6 billion in 2025, with average per-person spending reaching a record $195.59.",
+          "NRF's 2026 Mother's Day survey put total spending at a record $38 billion, up from $34.1 billion in 2025, $33.5 billion in 2024, and a then-record $35.7 billion in 2023, meaning 2026 is only the second year the holiday has topped $35 billion. Average per-person spending reached a record $284.25, up from $259.04 in 2025.",
+          "NRF's 2026 Father's Day survey put total spending at a record $27.9 billion, up from a then-record $24 billion in 2025 and $22.4 billion in 2024. Seventy-seven percent of consumers said they planned to celebrate, and average per-person spending reached $226.58.",
+          "NRF's holiday-trends pages list St. Patrick's Day per-person spending at a record $47.45 in 2026, with 60% of consumers planning to celebrate, and Independence Day per-person food spending at a record $94.41, with 87% planning to celebrate the Fourth of July.",
+          "NRF's 2026 Super Bowl survey put total spending on food, drinks, apparel, decorations, and other purchases at a record $20.2 billion, or $94.77 per person. A record 213.1 million US adults said they planned to watch, including 121.1 million planning to host or attend a party and another 18.2 million planning to watch at a bar or restaurant.",
+          "NRF's 2026 graduation survey put total spending at a record $7.2 billion, with 39% of respondents planning to buy a gift for a high school or college graduate, and cash remains the top gift.",
+          "Halloween is the one major holiday here where 2026's own NRF number isn't out yet: NRF typically publishes its Halloween forecast in mid-to-late September, and this page will update once that survey lands. The most recent complete figure, from NRF's fall 2025 survey, put total Halloween spending at a record $13.1 billion, up from $11.6 billion in 2024 and above the previous record of $12.2 billion set in 2023. Seventy-three percent of consumers said they planned to celebrate, and average per-person spending reached a record $114.45.",
+          "NRF's 2026 back-to-school survey put K-12 spending at a record $43.3 billion, up from $39.4 billion in 2025, and college spending at a record $103.5 billion, the first time college spending has topped $100 billion, up from $88.8 billion in 2025. The average K-12 family plans to spend $863.86 and the average college family $1,437.79, both records."
+        ]
+      },
+      {
+        "heading": "What do people actually buy with that money, by category?",
+        "body": [
+          "Within NRF's 2026 Mother's Day total, jewelry leads all gift categories at $7.5 billion, followed by special outings at $6.4 billion and electronics at $4.4 billion, the first time electronics spending has topped $4 billion in the survey's history. Flowers are projected to bring in $3.2 billion. For a look at how the jewelry trade itself standardizes gift-giving on a different calendar, this site's chart of [birthstones by month](/birthstones-by-month/) checks Jewelers of America, GIA, and the American Gem Society's current lists stone by stone.",
+          "Within NRF's fall 2025 Halloween total, costumes lead at $4.3 billion, including $1.4 billion for kids and $2 billion for adults, with decorations at $4.2 billion and candy at $3.9 billion.",
+          "Within NRF's 2026 K-12 back-to-school total, families plan to spend $293.11 per student on electronics ($14.7 billion total), $250.29 on clothing and accessories ($12.5 billion total), $174.01 on shoes ($8.7 billion total), and $146.45 on school supplies ($7.3 billion total).",
+          "Within NRF's 2026 college total, families plan to spend $341.95 per student on electronics ($24.63 billion total), $194.00 on dorm or apartment furnishings ($14.0 billion total), $182.39 on clothing and accessories ($13.1 billion total), $153.91 on food ($11.1 billion total), and $133.34 on personal care items ($9.6 billion total). This calendar's own page on [anniversary gifts by year](/anniversary-gifts-by-year/) runs into the same lack of a single governing authority from a different angle: it found two separate lists, one of traditional materials and one of modern gemstones, that disagree on what to give for most anniversary years, the same fragmented picture that shows up whenever a survey asks what people actually buy for an occasion nobody legislated."
+        ]
+      },
+      {
+        "heading": "How is 2026 different from 2025, according to PwC's newest survey?",
+        "body": [
+          "PwC's Holiday Outlook 2026, published September 8, 2026, surveyed 4,093 US consumers between June 15 and June 26, 2026, and reached a different-sounding conclusion from NRF's per-holiday dollar records above. At the household level, average expected holiday gift spending is $708 in 2026, a 2% dip from 2025, even as consumer confidence fell 18.5% year over year on the University of Michigan's index, from 60.7 in June 2025 to 49.5 in June 2026. Households with children expect to spend more ($875) than households without ($635).",
+          "The pullback isn't even across generations. PwC found millennials, who remain the season's biggest spenders overall because they're in their peak earning years, cutting gift budgets 10% and travel budgets 37% year over year. Gen Z is pulling back on a similar pattern: gift spending down 9%, travel down 29%, and total holiday spending down 23% overall. Baby boomers are moving the other direction, with more discretionary income as expenses like mortgages and dependent costs recede.",
+          "Twenty-nine percent of consumers told PwC they plan to use AI somewhere in their 2026 holiday shopping, up from 22% in 2025, mostly to research products (three-quarters of AI users) and compare prices (55%). Sixty-four percent of all consumers say they're prioritizing screen-free, nostalgic gifts this year (board games, books, art supplies), rising to 78% among Gen Z, who are also more likely to say a shared meal (63%) matters more to them than a physical present. Physical stores remain the top channel regardless: 52% of consumers plan to visit a store in person to decide what to give, ahead of search engines (42%), social media (29%), and AI tools (14%), and 60% plan to actually buy in-store at checkout.",
+          "Travel intentions are holding closer to steady: 40% of PwC's respondents plan to travel over the 2026 winter holidays, against 44% in 2025, with 17% still undecided. The budget behind that travel dropped sharply, though, from $553 per person in 2025 to $419 in 2026, a 24% decline."
+        ]
+      },
+      {
+        "heading": "Which generation spends the most on holidays?",
+        "body": [
+          "PwC's survey, above, finds millennials remaining the single biggest generational spender across the 2026 holiday season overall, even as they cut their own budgets the most. LendingTree's separate research on individual occasions points the same way: among Americans hosting Thanksgiving in 2025, millennials planned to spend more ($594) than any other generation the survey named, trailing only six-figure earners as an income bracket ($633). This calendar's page on [Galentine's Day](/galentines-day/) covers a different corner of the same February gift-giving calendar Valentine's Day sits in, minus the romantic framing."
+        ]
+      },
+      {
+        "heading": "Are Americans going into debt for the holidays?",
+        "body": [
+          "LendingTree's December 2025 survey of more than 2,000 US consumers found 37% took on holiday debt that season, averaging $1,223, up from $1,181 in 2024 and the highest since 2022. Parents with children under 18 were hit hardest: 48% borrowed, averaging $1,324. Six-figure earners weren't exempt either: 47% borrowed, averaging $1,505, the highest average of any demographic group LendingTree tracked, ahead of millennials and Gen Zers, who each borrowed at 44% and averaged $1,294 and $1,295 respectively.",
+          "Nearly half of gift-givers, 46%, told LendingTree their single most expensive present cost $250 or more. Separately, LendingTree's tariff analysis found that if the tariffs in place today had applied retroactively to the 2024 winter holidays, consumers and retailers together would have absorbed an extra $40.6 billion in costs, or about $132 per shopper."
+        ]
+      },
+      {
+        "heading": "What does hosting Thanksgiving actually cost?",
+        "body": [
+          "LendingTree's November 2025 survey found 59% of Americans might host Thanksgiving that year, and those potential hosts planned to spend an average of $487 on food, drinks, and decor, up 13% from $431 in 2024. Six-figure-earning hosts planned to spend the most, at $633, followed by millennial hosts ($594) and hosts with children under 18 ($590). Sixty percent of Thanksgiving celebrators said inflation would affect their budget or plans, and 42% of potential hosts planned to put at least some of the cost on a credit card."
+        ]
+      },
+      {
+        "heading": "How to cite this page",
+        "body": [
+          "Cite this page as: DayAlmanac Editorial Team, “Holiday Spending Statistics 2026, All Sourced,” DayAlmanac, published September 13, 2026, https://dayalmanac.com/holiday-spending-statistics/.",
+          "Every figure above is credited to the research organization that produced it, NRF, PwC, or LendingTree, both inline and in the sources list below; this page compiles and verifies their published numbers rather than generating new research. It is scheduled for reverification whenever those organizations publish new survey data, most notably NRF's Halloween and winter-holiday releases each fall and its Valentine's Day, Easter, Mother's Day, and Father's Day releases through the following spring."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is holiday spending up or down in 2026?",
+        "answer": "It depends on which occasion and which measure. NRF logged new record dollar totals in 2026 for every occasion this page tracks apart from the winter season itself, spanning spring holidays, the Super Bowl, graduation season, and the return to school each fall. But PwC's household-level survey found the average amount set aside for gifts slipping 2% from a year earlier, with millennials pulling back 10% on gifts and Gen Z cutting its overall seasonal spending by nearly a quarter. A growing population and rising prices can lift dollar totals to new highs even while individual budgets get tighter for some groups."
+      },
+      {
+        "question": "What holiday do Americans spend the most money on?",
+        "answer": "Nothing else on this page comes close to the Christmas-and-Hanukkah season: NRF's most recent winter-holiday survey, fielded last fall, found spending averaging close to $890 a person and projected the November-December retail season at more than a trillion dollars for the first time. Set the winter season aside, and NRF's 2026 numbers show college move-in shopping (over $103 billion) and Mother's Day ($38 billion) as the two biggest single occasions covered on this page."
+      },
+      {
+        "question": "What are the latest statistics on Christmas consumerism?",
+        "answer": "NRF folds Christmas into a broader winter-holiday survey alongside Hanukkah and Kwanzaa rather than measuring it alone. In that survey's latest full edition, fielded last fall, nine in ten respondents said they'd be celebrating, per-person budgets averaged just under $890, roughly seven in ten of those dollars went toward gifts, and close to 187 million shoppers turned out over the Thanksgiving-to-Cyber-Monday stretch."
+      },
+      {
+        "question": "What are the expected holiday trends for 2026?",
+        "answer": "PwC's newest research flags three shifts worth watching: shoppers turning to AI tools more often this season than last, a swing toward screen-free and nostalgia-driven gifts that's especially pronounced among Gen Z, and travel spending shrinking by roughly a quarter per person even though the overall share of people planning any trip barely moved."
+      },
+      {
+        "question": "Which generation spends the most on holidays?",
+        "answer": "Millennials, according to both firms that break the question out by age group. PwC puts them at the top of total seasonal spending even as they trim their own budgets more than anyone else, a byproduct of being in their highest-earning years. LendingTree's look at one specific occasion, Thanksgiving hosting, lines up the same way: millennial hosts outspent every age group the firm asked about, trailing only households with six-figure incomes."
+      },
+      {
+        "question": "How much debt do Americans take on for the holidays?",
+        "answer": "Just over a third of US consumers borrowed for the 2025 season, per LendingTree, with the group's average balance climbing to a four-year high. Parents raising kids under 18 and households earning six figures both borrowed at rates well above that overall average, and carried larger balances than the typical borrower once they did."
+      }
+    ],
+    "sources": [
+      {
+        "label": "NRF — Winter Holiday Data and Trends",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays"
+      },
+      {
+        "label": "NRF — Consumers to Spend Second-Highest Amount on Record, According to NRF Holiday Survey (Oct. 16, 2025)",
+        "url": "https://nrf.com/media-center/press-releases/consumers-to-spend-second-highest-amount-on-record-according-to-nrf-holiday-survey"
+      },
+      {
+        "label": "NRF — NRF Expects Holiday Sales to Surpass $1 Trillion for the First Time in 2025",
+        "url": "https://nrf.com/media-center/press-releases/nrf-expects-holiday-sales-to-surpass-1-trillion-for-the-first-time-in-2025"
+      },
+      {
+        "label": "NRF — Valentine's Day Spending Expected to Reach New Records (2026)",
+        "url": "https://nrf.com/media-center/press-releases/valentine-s-day-spending-expected-to-reach-new-records"
+      },
+      {
+        "label": "NRF — NRF Survey: Valentine's Day Spending Reaches Record $27.5 Billion (2025)",
+        "url": "https://nrf.com/media-center/press-releases/nrf-survey-valentine-s-day-spending-reaches-record-27-5-billion"
+      },
+      {
+        "label": "NRF — Valentine's Day Data and Trends (historical highlights)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/valentines-day"
+      },
+      {
+        "label": "NRF — Easter Spending Expected to Reach a Record $24.9 Billion (2026)",
+        "url": "https://nrf.com/media-center/press-releases/easter-spending-expected-to-reach-a-record-24-9-billion"
+      },
+      {
+        "label": "NRF — Easter Data and Trends (historical highlights)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/easter"
+      },
+      {
+        "label": "NRF — Mother's Day Spending Expected to Hit Record $38 Billion (2026)",
+        "url": "https://nrf.com/media-center/press-releases/mother-s-day-spending-expected-to-hit-record-38-billion"
+      },
+      {
+        "label": "NRF — Mother's Day Data and Trends (historical highlights)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/mothers-day"
+      },
+      {
+        "label": "NRF — Father's Day Spending to Hit Record $27.9 Billion (2026)",
+        "url": "https://nrf.com/media-center/press-releases/father-s-day-spending-to-hit-record-27-9-billion"
+      },
+      {
+        "label": "NRF — Father's Day Data and Trends (historical highlights)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/fathers-day"
+      },
+      {
+        "label": "NRF — NRF Consumer Survey Finds Halloween Spending to Reach Record $13.1 Billion (2025)",
+        "url": "https://nrf.com/media-center/press-releases/nrf-consumer-survey-finds-halloween-spending-to-reach-record-13-1-billion"
+      },
+      {
+        "label": "NRF — Halloween Data and Trends (historical highlights)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/halloween"
+      },
+      {
+        "label": "NRF — Super Bowl Data and Trends (2026)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/super-bowl"
+      },
+      {
+        "label": "NRF — St. Patrick's Day Data and Trends (2026)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day"
+      },
+      {
+        "label": "NRF — Independence Day Data and Trends (2026)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/independence-day"
+      },
+      {
+        "label": "NRF — Graduation Data and Trends (2026)",
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/graduation"
+      },
+      {
+        "label": "NRF — Majority of Back-to-School Shoppers Get a Head Start on the Season (2026)",
+        "url": "https://nrf.com/media-center/press-releases/majority-of-back-to-school-shoppers-get-a-head-start-on-the-season"
+      },
+      {
+        "label": "PwC — Holiday Outlook 2026: A Season of Presents and Presence (published Sept. 8, 2026)",
+        "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/holiday-outlook-trends.html"
+      },
+      {
+        "label": "LendingTree — Holiday Debt Study (published Dec. 22, 2025)",
+        "url": "https://www.lendingtree.com/credit-cards/study/holiday-debt-tariffs/"
+      },
+      {
+        "label": "LendingTree — Thanksgiving Hosting Cost Study (published Nov. 11, 2025)",
+        "url": "https://www.lendingtree.com/credit-cards/study/thanksgiving-higher-costs/"
+      }
+    ]
   }
 ];

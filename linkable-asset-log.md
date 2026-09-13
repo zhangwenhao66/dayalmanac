@@ -4,6 +4,18 @@
 
 ---
 
+## 2026-09-13：制作第四类资产「统计数据枢纽页」——Holiday Spending Statistics 2026
+
+**资产**：`holiday-spending-statistics`（Consumer Trends 类目），backlog 第10条制作完成。58条NRF统计+9项PwC世代/行为数据+11项LendingTree债务/感恩节数据，22条来源全部curl+grep逐条核实。详细制作过程、独立复核发现的5处问题及修复见`内容发布日志.md`2026-09-13条目。
+
+**状态**：backlog第10条改`[已制作，待次日推送]`。当日DayAlmanac常规发布日上限（1篇/天）已用，本次`git commit`不`push`，待明日推送后再走本站发布流程第7步（提交IndexNow）。
+
+**分发（第2/3/3.5步）**：本次运行未执行——按本任务"分发优先于新产"的默认顺序，本次是backlog里已确认的候选制作，且资产尚未上线（待次日push），未加链接回收和定向pitch无从谈起，留待资产实际发布并稳定收录后的下一次运行执行。
+
+**下次运行提醒**：资产push+索引提交完成后，下次`trafficsite-linkable-asset-building`运行本站时，第2步查未加链接提及回收、第3步为该资产寻找记者/理财媒体pitch目标（零售/理财媒体每年感恩节前后高频引用NRF数字，是明确的pitch角度）、第3.5步评估Reddit/HN投放可行性（数据类枢纽页可能适合r/personalfinance等子版，需先核实版规）。
+
+---
+
 ## 2026-08-25
 
 **第0步（选站）**：这是本站第一次被 `trafficsite-linkable-asset-building` 处理——`dayalmanac`/`dialwick`/`lingogrove`/`wagelark` 四个工具型流量站此前从未产出过 `linkable-asset-log.md`，属于"从未处理"的队尾站点（详见全局 CLAUDE.md「一个定时任务服务多个对象时须定处理顺序」），本次优先处理其中之一。

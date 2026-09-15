@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim: 1987-chinese-zodiac covers the year Ding-mao, Fire Rabbit. Target title reads '1987 Chinese Zodiac: Fire Rabbit, But Only After January 29' and target body labels 'the relevant lunar year Ding-mao (丁卯)' -- matches exactly."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim: the 1987 page covers the leap-sixth-lunar-month mechanism in full. Target body states 'the Observatory's 1987 table repeats a sixth lunar month, running July 26 through August 23, 1987' and goes on to explain the 'no zhongqi' rule for why that specific month repeats -- this is a full explanation of the mechanism, confirming the claim."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Bridge sentence makes no specific factual claim about january-birthstone content beyond it being 'a page like this one' with a January list. Target title 'January Birthstone: Garnet, Unchanged Since Before 1912' confirms it is indeed a month-based reference list on this site, consistent with the passing mention."
+  },
+  {
+    "index": 4,
+    "verdict": "CONFIRMED",
+    "note": "Claim: the 1994 Chinese Zodiac Dog year is Yang (even-position branch). Target 1994 body states '1994's stem is Jia, yang wood' and cites '1958 was also a Dog year, but its stem was Wu, yang earth' and '2006 was Bing-Xu' (Bing is a yang stem) -- all three named Dog-year instances carry yang-polarity stems, which corroborates the claim that Dog years are consistently Yang, even though the target text doesn't use the literal words 'even position'."
+  },
+  {
+    "index": 5,
+    "verdict": "CONFIRMED",
+    "note": "Claim: the 1987 Chinese Zodiac Rabbit year is Yin (odd-position branch, locks it to Yin every time). Target 1987 body states verbatim: 'The Rabbit's branch, Mao, sits at the fourth (odd) position, so a Rabbit year is always Yin.' -- direct, exact confirmation of the claim."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "Readers checking their own birthday, especially a January one, against a page like the site's [January birthstone](/january-birthstone/) list should apply the same 28-day caution to any zodiac-by-year chart they consult.",
+    "target_slug": "january-birthstone",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "That's the mirror image of the [1994 Chinese Zodiac](/1994-chinese-zodiac/) page's Dog year: Xu, the Dog's branch, sits at an even position, so every Dog year on record, 1958's Earth Dog and 2006's Fire Dog included, is Yang.",
+    "target_slug": "1994-chinese-zodiac",
+    "target_found": true
+  }
+]

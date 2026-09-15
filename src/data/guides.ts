@@ -8531,13 +8531,13 @@ export const guides: Guide[] = [
     "description": "1987 is the Year of the Fire Rabbit in the Chinese zodiac, but the lunar year didn't start until January 29. Anyone born earlier in January is a Tiger.",
     "published": "2026-08-24",
     "updated": "2026-08-24",
-    "coreSummary": "1987 is the Year of the Fire Rabbit, running from January 29, 1987 through February 16, 1988, according to the Hong Kong Observatory's own Gregorian-lunar conversion tables. Anyone born between January 1 and January 28, 1987, before that boundary, was actually born under the preceding zodiac year, Fire Tiger, Glee actress Naya Rivera among them.",
+    "coreSummary": "1987 is the Year of the Fire Rabbit, running from January 29, 1987 through February 16, 1988, according to the Hong Kong Observatory's Gregorian-lunar conversion tables. Anyone born between January 1 and January 28, 1987, before that boundary, was actually born under the preceding zodiac year, Fire Tiger, Glee actress Naya Rivera among them.",
     "sections": [
       {
         "heading": "The Fire Rabbit year starts January 29, not January 1",
         "body": [
-          "A birth year alone is not enough to name a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1987 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1987, the same reference Hong Kong's own courts and banks use to compute lunar-calendar deadlines, labels the relevant lunar year Ding-mao (丁卯) and marks January 29, 1987 as the first day of its first lunar month, the actual start of the new year.",
-          "That new year doesn't close out on December 31, either. The Observatory's table for 1988 shows the twelfth and final lunar month of Ding-mao running out on February 16, 1988; the next day, February 17, opens the following lunar year, Wu-chen (戊辰), Earth Dragon. That puts the full Fire Rabbit window at January 29, 1987 through February 16, 1988, an unusually long span of 384 days because the Observatory's own 1987 table repeats a sixth lunar month, running July 26 through August 23, 1987. A lunisolar calendar has to insert an extra month like that every two or three years: twelve ordinary lunar months add up to roughly 354 days, eleven days short of the solar year, and without a periodic thirteenth month the new year would drift earlier through the seasons rather than keep landing in the same January-to-February window. Which month gets doubled isn't arbitrary, either. The calendar tracks twelve major solar terms across a normal year, one for each month; in a year that needs a leap month, one lunar month ends up containing none of them, because lunar months run slightly shorter than the roughly 30.4-day gap between solar terms, and that term-less month is the one that repeats under the leap label, a rule astronomers call the \"no zhongqi\" rule. Ordinary Fire Rabbit years, without a leap month, run closer to that 354-day figure. The 28 days at the start of calendar-year 1987 fall outside the Fire Rabbit window entirely; anyone born January 1 through January 28, 1987 belongs to the outgoing year instead, Bing-yin (丙寅), Fire Tiger, confirmed by the Observatory's own 1986 table, which marks February 9, 1986 as that year's new year boundary."
+          "A birth year alone is not enough to name a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1987 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1987, the same reference Hong Kong's courts and banks use to compute lunar-calendar deadlines, labels the relevant lunar year Ding-mao (丁卯) and marks January 29, 1987 as the first day of its first lunar month, the actual start of the new year.",
+          "That new year doesn't close out on December 31, either. The Observatory's table for 1988 shows the twelfth and final lunar month of Ding-mao running out on February 16, 1988; the next day, February 17, opens the following lunar year, Wu-chen (戊辰), Earth Dragon. That puts the full Fire Rabbit window at January 29, 1987 through February 16, 1988, an unusually long span of 384 days because the Observatory's 1987 table repeats a sixth lunar month, running July 26 through August 23, 1987. A lunisolar calendar has to insert an extra month like that every two or three years: twelve ordinary lunar months add up to roughly 354 days, eleven days short of the solar year, and without a periodic thirteenth month the new year would drift earlier through the seasons rather than keep landing in the same January-to-February window. Which month gets doubled isn't arbitrary, either. The calendar tracks twelve major solar terms across a normal year, one for each month; in a year that needs a leap month, one lunar month ends up containing none of them, because lunar months run slightly shorter than the roughly 30.4-day gap between solar terms, and that term-less month is the one that repeats under the leap label, a rule astronomers call the \"no zhongqi\" rule. Ordinary Fire Rabbit years, without a leap month, run closer to that 354-day figure. The 28 days at the start of calendar-year 1987 fall outside the Fire Rabbit window entirely; anyone born January 1 through January 28, 1987 belongs to the outgoing year instead, Bing-yin (丙寅), Fire Tiger, confirmed by the Observatory's 1986 table, which marks February 9, 1986 as that year's new year boundary."
         ],
         "image": {
           "src": "/images/1987-chinese-zodiac-rabbit-figure.jpg",
@@ -8549,7 +8549,7 @@ export const guides: Guide[] = [
         "heading": "Naya Rivera's real zodiac sign, and two people who really are Fire Rabbits",
         "body": [
           "A generic year-to-animal chart, the kind printed on gift-shop placemats and the front page of most zodiac reference sites, assigns anyone born anywhere in calendar-year 1987 to the Rabbit. That's wrong for the year's first 28 days.",
-          "Naya Rivera, the actress best known for playing Santana Lopez on Glee, was born January 12, 1987, seventeen days before that year's lunar new year. By the Hong Kong Observatory's own boundary, her birth falls in the preceding zodiac year, Bing-yin, Fire Tiger, not the Fire Rabbit her birth year alone would suggest. The same is true for anyone else born in that first 28-day stretch, a detail a simple lookup by birth year will miss every time. Readers checking their own birthday, especially a January one, against a page like the site's own [January birthstone](/january-birthstone/) list should apply the same 28-day caution to any zodiac-by-year chart they consult.",
+          "Naya Rivera, the actress best known for playing Santana Lopez on Glee, was born January 12, 1987, seventeen days before that year's lunar new year. By the Hong Kong Observatory's boundary, her birth falls in the preceding zodiac year, Bing-yin, Fire Tiger, not the Fire Rabbit her birth year alone would suggest. The same is true for anyone else born in that first 28-day stretch, a detail a simple lookup by birth year will miss every time. Readers checking their own birthday, especially a January one, against a page like the site's [January birthstone](/january-birthstone/) list should apply the same 28-day caution to any zodiac-by-year chart they consult.",
           "Not every 1987 birthday raises this question. Footballer Lionel Messi, born June 24, 1987, and former NFL quarterback Tim Tebow, born August 14, 1987, both fall comfortably inside the January 29 to February 16 window with no boundary to check, which makes them straightforward Fire Rabbits by the same Observatory table. The distinction only matters for birthdays that land in that narrow 28-day gap at the start of the calendar year, not for the roughly eleven months on either side of it."
         ]
       },
@@ -8564,38 +8564,38 @@ export const guides: Guide[] = [
         "heading": "The other Fire Rabbit year most people alive have never seen",
         "body": [
           "Because a specific stem-branch pairing like Ding-mao only recurs once every 60 years, the previous Fire Rabbit year was 1927, six decades before 1987, and the next one is 2047, six decades after. Every other Rabbit year in between carries a different element, cycling through the five Yin stems in the same order the stems themselves cycle: 1975 was Yi-mao, Wood Rabbit; 1999 was Ji-mao, Earth Rabbit; 2011 was Xin-mao, Metal Rabbit; 2023 was Gui-mao, Water Rabbit; the next one, 2035, returns to Yi-mao, Wood Rabbit, before the cycle reaches Ding-mao again in 2047.",
-          "None of these boundary dates sit still from one year to the next, either. The Chinese new year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1987 new year fell on January 29, but 1986's fell on February 9 and 1988's on February 17, three different dates within a three-week span, per the Hong Kong Observatory's own tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats. 1992's boundary moved by an even wider margin: this site's [1992 Chinese Zodiac page](/1992-chinese-zodiac/) found that year's new year landing on February 4, the cutoff between the outgoing Metal Goat and the Water Monkey year that follows."
+          "None of these boundary dates sit still from one year to the next, either. The Chinese new year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1987 new year fell on January 29, but 1986's fell on February 9 and 1988's on February 17, three different dates within a three-week span, per the Hong Kong Observatory's tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats. 1992's boundary moved by an even wider margin: this site's [1992 Chinese Zodiac page](/1992-chinese-zodiac/) found that year's new year landing on February 4, the cutoff between the outgoing Metal Goat and the Water Monkey year that follows."
         ]
       }
     ],
     "faq": [
       {
         "question": "What Chinese zodiac sign is 1987?",
-        "answer": "The Fire Rabbit, but only from January 29, 1987 onward. The Hong Kong Observatory's own Gregorian-lunar conversion table marks that date as the first day of the lunar year Ding-mao, which runs through February 16, 1988."
+        "answer": "Fire Rabbit — though that label doesn't kick in until January 29, 1987. Hong Kong's official calendar authority identifies that date as when Ding-mao, the lunar year in question, begins, and it doesn't close out until mid-February of the following year."
       },
       {
         "question": "Was Naya Rivera really born in the Year of the Rabbit?",
-        "answer": "No, by the Hong Kong Observatory's own calendar boundary. She was born January 12, 1987, seventeen days before that year's lunar new year on January 29, which places her in the preceding zodiac year, Bing-yin, Fire Tiger, instead."
+        "answer": "No. Her birthday, January 12, 1987, falls roughly two and a half weeks before that lunar year opened on the 29th, which places her birth under the year before it: Bing-yin, or Fire Tiger."
       },
       {
         "question": "What if I was born in January 1987?",
-        "answer": "Anyone born January 1 through January 28, 1987 was born before that year's lunar new year and belongs to the preceding zodiac year, Bing-yin, Fire Tiger, per the Hong Kong Observatory's 1986 conversion table, not the Fire Rabbit. Anyone born January 29 through January 31, 1987 is a Fire Rabbit."
+        "answer": "Births in the first 28 days of January 1987 arrived before the lunar new year and fall under the outgoing Fire Tiger year instead (Bing-yin), according to Hong Kong's 1986 conversion table, rather than Fire Rabbit. Only births from January 29 through January 31, 1987 count as Fire Rabbit."
       },
       {
         "question": "Why is 1987 called the \"Fire\" Rabbit instead of just \"the Rabbit\"?",
-        "answer": "Because the traditional calendar pairs each of the twelve zodiac animals with one of five elements. 1987's stem is Ding, Yin fire; other Rabbit years carry different elements, such as 1975's Wood Rabbit or 2023's Water Rabbit."
+        "answer": "Because Chinese calendar tradition pairs each of the twelve zodiac animals with one of five elements. This particular year's heavenly stem works out to Ding, or Yin fire; other Rabbit years carry different elements, such as 1975's Wood Rabbit or 2023's Water Rabbit."
       },
       {
         "question": "Are Rabbit years ever Yang instead of Yin?",
-        "answer": "No, never. The Rabbit's branch sits at an odd position in the twelve-branch cycle, which only ever pairs with the five Yin stems. Every Rabbit year on record, going back centuries, is Yin; the Rat, Tiger, Dragon, Horse, Monkey, and Dog are the six animals that are permanently Yang instead."
+        "answer": "No, never. Its zodiac branch sits at an odd position in the twelve-branch cycle, which only ever pairs with Yin-polarity stems. Every Rabbit year on record, going back centuries, is Yin; six other animals sitting on even branch positions (Monkey, Dragon, Rat, Dog, Horse, and Tiger) never fall on the Yin side."
       },
       {
         "question": "When is the next Fire Rabbit year?",
-        "answer": "2047. The specific pairing of fire with the Rabbit only recurs every 60 years, the length of the full sexagenary cycle. The previous Fire Rabbit year was 1927."
+        "answer": "2047. Fire only pairs with the Rabbit once every six decades, when the two independent cycles realign. Before 1987, that same pairing last occurred in 1927."
       },
       {
         "question": "Is Chinese New Year always in January?",
-        "answer": "No. It isn't pinned to one fixed day the way a Gregorian holiday is; the date moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1987 new year fell on January 29, but 1986's fell on February 9 and 1988's on February 17, per the Hong Kong Observatory's own tables for those years."
+        "answer": "No. Unlike a fixed Gregorian holiday such as December 25, it drifts across a roughly month-long band governed by the moon's cycle, falling anywhere between January 21 and February 20 depending on the year. 1987 landed on January 29, while the neighboring years shifted to February 9 (1986) and February 17 (1988)."
       }
     ],
     "sources": [
@@ -8640,23 +8640,23 @@ export const guides: Guide[] = [
     "slug": "11th-anniversary-gift",
     "category": "Anniversaries",
     "title": "11th Anniversary Gift: Steel in the US, Nothing in the UK",
-    "description": "The US traditional list gives the 11th anniversary steel, while the UK's own reference list, cited on the same page, leaves the 11th year blank entirely.",
+    "description": "The US traditional list gives the 11th anniversary steel, while the separate UK reference list, cited on the same page, leaves the 11th year blank entirely.",
     "published": "2026-08-24",
     "updated": "2026-08-24",
-    "coreSummary": "The US traditional anniversary list names steel for the 11th year, a gift assigned when a jewelers' trade group expanded the list through the 20th year in 1937. The UK's Pears Cyclopaedia list, cited on the same Wikipedia comparison table, has no entry at all for the 11th anniversary. A separate gemstone list, built later by a group of jewelry organizations and currently published by Jewelers of America, names turquoise for year 11 instead, a stone with its own care requirements that steel doesn't share.",
+    "coreSummary": "America's traditional anniversary list assigns steel to year eleven, added when a jewelers' trade group filled out the chart through the twentieth year back in 1937. Britain's older gift list, compiled independently, simply has nothing listed for that year. A newer gemstone chart, now kept up by an industry trade group, names turquoise for year eleven, a stone that needs far more careful handling than a steel gift ever would.",
     "sections": [
       {
         "heading": "One list has a gift here. The other has a blank cell.",
         "body": [
-          "Search \"11th anniversary gift\" and nearly every result states the same thing without qualification: steel. That's accurate for the US traditional materials list, [tracked in full on this calendar's own comparison of the two lists](/anniversary-gifts-by-year/), but it isn't the only list in circulation, and it isn't even universal within English-speaking countries. Wikipedia's sourced comparison table sets a US column against a UK column, the US drawn from a Chicago Public Library reference compilation and the UK from the 1978-79 edition of Pears Cyclopaedia, and at the 11th row the US cell reads \"Steel\" while the UK cell is simply empty.",
+          "Search \"11th anniversary gift\" and nearly every result states the same thing without qualification: steel. That's accurate for the US traditional materials list, [tracked in full on this calendar's comparison of the two lists](/anniversary-gifts-by-year/), but it isn't the only list in circulation, and it isn't even universal within English-speaking countries. Wikipedia's sourced comparison table sets a US column against a UK column, the US drawn from a Chicago Public Library reference compilation and the UK from the 1978-79 edition of Pears Cyclopaedia, and at the 11th row the US cell reads \"Steel\" while the UK cell is simply empty.",
           "That gap isn't a formatting accident carried over from an old scan. The UK list does assign something to most of the surrounding years, including the 10th (tin) and the 12th (silk and fine linen); it skips straight over the 11th and picks back up after it. A reader relying on a UK source for gift ideas at year 11 would find nothing there to work from at all, which is a stranger position to be in than simply preferring a different material."
         ]
       },
       {
         "heading": "Steel arrived in 1937, as part of a trade group's patch job",
         "body": [
-          "Before the 20th century, only a handful of anniversaries carried any generally recognized material at all: paper for the first, wood for the fifth, tin for the tenth, and a few others scattered by the early 1900s. The 11th year wasn't among them. In 1937, the American National Retail Jewelers Association, the group that later became Jewelers of America, published an expanded list covering every year from the first through the twentieth, filling in gaps including the 11th, according to the sourcing behind Wikipedia's own account of the custom's history.",
-          "That timing means steel's status as the \"traditional\" 11th-year material is really a 1937 trade-group addition dressed in older language, the same pattern [this calendar's page on the full anniversary-gift comparison](/anniversary-gifts-by-year/) already traces across the rest of the list. It's also strictly a US convention: the UK list, compiled independently and never merged with the American one, simply never picked up an 11th-year entry when its own edition was assembled."
+          "Before the 20th century, only a handful of anniversaries carried any generally recognized material at all: paper for the first, wood for the fifth, tin for the tenth, and a few others scattered by the early 1900s. The 11th year wasn't among them. In 1937, the American National Retail Jewelers Association, the group that later became Jewelers of America, published an expanded list covering every year from the first through the twentieth, filling in gaps including the 11th, according to the sourcing behind Wikipedia's account of the custom's history.",
+          "That timing means steel's status as the \"traditional\" 11th-year material is really a 1937 trade-group addition dressed in older language, the same pattern [this calendar's page on the full anniversary-gift comparison](/anniversary-gifts-by-year/) already traces across the rest of the list. It's also strictly a US convention: the UK list, compiled independently and never merged with the American one, simply never picked up an 11th-year entry when its edition was compiled."
         ]
       },
       {
@@ -8690,27 +8690,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is the traditional 11th anniversary gift?",
-        "answer": "Steel, on the US traditional materials list. That answer is specific to the US list, though: the UK's Pears Cyclopaedia list, cited on the same Wikipedia comparison table, has no entry at all for the 11th anniversary."
+        "answer": "Steel — that's the standard answer, but only on the US side. Britain's list, drawn from a different 1970s reference, skips year 11 without any substitute entry."
       },
       {
         "question": "Does the UK have an 11th anniversary gift?",
-        "answer": "Not on its traditional list. Wikipedia's sourced US/UK comparison table shows a blank cell for the UK at year 11, even though the list assigns something to most of the surrounding years, including the 10th and 12th."
+        "answer": "Not on its traditional list. The 1978-79 Pears Cyclopaedia leaves a blank UK cell at year 11 — a genuine gap rather than a scanning error, since it fills in the birthdays on either side, assigning tin to year 10 and silk to year 12."
       },
       {
         "question": "What is the 11th anniversary gemstone?",
-        "answer": "Turquoise, per Jewelers of America's current gemstone-by-year chart, checked directly for this page. That's a separate list from the traditional materials list, and it doesn't overlap with steel at year 11 either."
+        "answer": "Turquoise. A separate gemstone-by-year chart, kept by a different trade group and checked directly for this page, names a gem where the other charts name an everyday material, and that pick doesn't match either materials list for year 11."
       },
       {
         "question": "Is fashion jewelry really the modern 11th anniversary gift?",
-        "answer": "That claim circulates widely on gift-shopping sites, sometimes attributed vaguely to \"Chicago jewelers\" in the 1950s, but nothing behind it is checkable: no name, no publication, nothing to click through to. It doesn't carry the same documentation as the 1937 materials-list expansion or the current Jewelers of America gemstone chart."
+        "answer": "That claim circulates widely on online gift guides, sometimes credited loosely to a group of mid-century Chicago retailers, yet no page repeating it offers an attributable name, a citable publication, or any record that anyone could go verify — unlike the two documented lists above, each of which points back to one identifiable, checkable source."
       },
       {
         "question": "How durable is turquoise for everyday jewelry?",
-        "answer": "Turquoise rates 5 to 6 on the Mohs hardness scale with fair-to-good toughness, according to GIA, and it's sensitive to oils, cosmetics, other chemicals, and heat. GIA advises against ultrasonic or steam cleaning and recommends removing turquoise jewelry before applying lotion or perfume; jewelers commonly favor earrings and pendants over rings and bracelets for that reason."
+        "answer": "Middling. GIA places it toward the softer end of gem-grade stones, with only so-so toughness, and it warns that skin oils, lotion, and perfume can leave permanent stains or dull its color over time. Ultrasonic and steam cleaning are both off-limits, which is also why it turns up more often in pendant and earring settings than in rings or bracelets that take daily knocks."
       },
       {
         "question": "Why don't the traditional and gemstone lists agree on a gift for year 11?",
-        "answer": "Because they were built independently, by different organizations, for different purposes and at different times. [This calendar's full comparison of the two systems](/anniversary-gifts-by-year/) finds the same pattern across nearly every year from 1 through 24: they only start matching consistently at the 25th anniversary."
+        "answer": "Because the two lists were put together decades apart by separate groups with different goals — one a household-materials tradition dating to the 1930s, the other a jewelry-industry gemstone chart. [The year-by-year breakdown on this calendar](/anniversary-gifts-by-year/) finds the same split across nearly every year from 1 through 24: the two only start lining up consistently at the 25th anniversary."
       }
     ],
     "sources": [
@@ -10970,13 +10970,13 @@ export const guides: Guide[] = [
     "description": "1988 is the Year of the Earth Dragon in the Chinese zodiac, but the lunar year didn't start until February 17. Anyone born earlier in January is a Rabbit.",
     "published": "2026-08-30",
     "updated": "2026-08-30",
-    "coreSummary": "1988 is the Year of the Earth Dragon, running from February 17, 1988 through February 5, 1989, according to the Hong Kong Observatory's own Gregorian-lunar conversion tables. Anyone born between January 1 and February 16, 1988, before that boundary, was actually born under the preceding zodiac year, Fire Rabbit, DJ and producer Skrillex among them.",
+    "coreSummary": "1988 is the Year of the Earth Dragon, running from February 17, 1988 through February 5, 1989, according to the Hong Kong Observatory's Gregorian-lunar conversion tables. Anyone born between January 1 and February 16, 1988, before that boundary, was actually born under the preceding zodiac year, Fire Rabbit, DJ and producer Skrillex among them.",
     "sections": [
       {
         "heading": "The Earth Dragon year starts February 17, not January 1",
         "body": [
-          "A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1988 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1988, the government's own reference for converting between the two calendars, labels the relevant lunar year Wu-chen (戊辰) and marks February 17, 1988 as the first day of its first lunar month, the actual start of the new year. Everyone born January 1 through February 16, 1988, the 47 days before that boundary, was born under the outgoing year instead, Ding-mao (丁卯), Fire Rabbit, the same year covered on this calendar's own [1987 Chinese Zodiac](/1987-chinese-zodiac/) page.",
-          "The year doesn't end on December 31 either. The Observatory's table for 1989 shows the twelfth and final lunar month of Wu-chen running through February 5, 1989; the next day, February 6, opens the following lunar year, Ji-si (己巳), Earth Snake. That puts the full Earth Dragon window at February 17, 1988 through February 5, 1989, a span of 355 days close to an ordinary lunar year's length. Unlike the Rabbit year immediately before it, which the Observatory's own tables show inserting a leap sixth lunar month to keep the calendar aligned with the seasons (a mechanism this calendar's [1987 Chinese Zodiac](/1987-chinese-zodiac/) page covers in full), Wu-chen carries no leap month at all: the Observatory's 1988 table runs straight through twelve ordinary lunar months, first to twelfth, with no repeated month anywhere in the sequence."
+          "A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1988 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1988, the government's reference for converting between the two calendars, labels the relevant lunar year Wu-chen (戊辰) and marks February 17, 1988 as the first day of its first lunar month, the actual start of the new year. Everyone born January 1 through February 16, 1988, the 47 days before that boundary, was born under the outgoing year instead, Ding-mao (丁卯), Fire Rabbit, the same year covered on this calendar's [1987 Chinese Zodiac](/1987-chinese-zodiac/) page.",
+          "The year doesn't end on December 31 either. The Observatory's table for 1989 shows the twelfth and final lunar month of Wu-chen running through February 5, 1989; the next day, February 6, opens the following lunar year, Ji-si (己巳), Earth Snake. That puts the full Earth Dragon window at February 17, 1988 through February 5, 1989, a span of 355 days close to an ordinary lunar year's length. Unlike the Rabbit year immediately before it, which the Observatory's tables show inserting a leap sixth lunar month to keep the calendar aligned with the seasons (a mechanism this calendar's [1987 Chinese Zodiac](/1987-chinese-zodiac/) page covers in full), Wu-chen carries no leap month at all: the Observatory's 1988 table runs straight through twelve ordinary lunar months, first to twelfth, with no repeated month anywhere in the sequence."
         ],
         "image": {
           "src": "/images/1988-chinese-zodiac-dragon-figure.jpg",
@@ -10988,8 +10988,8 @@ export const guides: Guide[] = [
         "heading": "Two musicians born five weeks apart in January 1988 are technically Rabbits, not Dragons",
         "body": [
           "A generic year-to-animal chart, the kind that maps a birth year straight onto a zodiac animal without checking where that particular year's lunar new year fell, assigns anyone born anywhere in calendar-year 1988 to the Dragon. That's wrong for the year's first 47 days, and two working musicians happen to fall on opposite sides of the boundary within five weeks of each other.",
-          "Skrillex, the Grammy-winning DJ and producer born Sonny John Moore, was born January 15, 1988, per Wikipedia, more than a month before that year's lunar new year on February 17. By the Hong Kong Observatory's own boundary, his birth falls in the preceding zodiac year, Ding-mao, Fire Rabbit, not the Earth Dragon his birth year alone would suggest. FKA Twigs, the singer and producer born Tahliah Debrett Barnett, was born January 17, 1988, also per Wikipedia, twenty-nine days short of the same cutoff, which places her in the identical position: Fire Rabbit, not Dragon. Both were born inside the same 47-day window discussed above, the stretch of calendar-year 1988 that belongs to the year before.",
-          "Not every early-1988 birthday raises the question. Rihanna, born February 20, 1988, arrived three days after the cutoff, which makes her a straightforward Earth Dragon by the same Observatory table, no boundary to check. The distinction only matters for the roughly seven-week stretch at the start of the calendar year, not for the ten-plus months on either side of it; readers checking their own January birthday against a page like this one, or against the site's own [January birthstone](/january-birthstone/) list, should apply the same caution any year-based zodiac lookup skips."
+          "Skrillex, the Grammy-winning DJ and producer born Sonny John Moore, was born January 15, 1988, per Wikipedia, more than a month before that year's lunar new year on February 17. By the Hong Kong Observatory's boundary, his birth falls in the preceding zodiac year, Ding-mao, Fire Rabbit, not the Earth Dragon his birth year alone would suggest. FKA Twigs, the singer and producer born Tahliah Debrett Barnett, was born January 17, 1988, also per Wikipedia, twenty-nine days short of the same cutoff, which places her in the identical position: Fire Rabbit, not Dragon. Both were born inside the same 47-day window discussed above, the stretch of calendar-year 1988 that belongs to the year before.",
+          "Not every early-1988 birthday raises the question. Rihanna, born February 20, 1988, arrived three days after the cutoff, which makes her a straightforward Earth Dragon by the same Observatory table, no boundary to check. The distinction only matters for the roughly seven-week stretch at the start of the calendar year, not for the ten-plus months on either side of it; readers checking their own January birthday against a page like this one, or against the site's [January birthstone](/january-birthstone/) list, should apply the same caution any year-based zodiac lookup skips."
         ]
       },
       {
@@ -11003,38 +11003,38 @@ export const guides: Guide[] = [
         "heading": "The other Earth Dragon year most people alive have never seen",
         "body": [
           "Because a specific stem-branch pairing like Wu-chen only recurs once every 60 years, the previous Earth Dragon year was 1928, six decades before 1988, and the next one is 2048, six decades after. Every other Dragon year in between carries a different element, cycling through the five Yang stems in order: 1976 was Bing-chen, Fire Dragon; 2000 was Geng-chen, Metal Dragon; 2012 was Ren-chen, Water Dragon; 2024, the most recent one, was Jia-chen, Wood Dragon, widely covered in the press at the time as an auspicious Lunar New Year; the next one, 2036, returns to Bing-chen, Fire Dragon, before the cycle reaches Wu-chen again in 2048.",
-          "None of these boundary dates sit still from one year to the next, either. Chinese New Year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1988 new year fell on February 17, but 1987's fell on January 29 and 1989's on February 6, three noticeably different dates within a three-week span, per the Hong Kong Observatory's own tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats."
+          "None of these boundary dates sit still from one year to the next, either. Chinese New Year isn't pinned to a single day the way a Gregorian holiday like December 25 is; it moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1988 new year fell on February 17, but 1987's fell on January 29 and 1989's on February 6, three noticeably different dates within a three-week span, per the Hong Kong Observatory's tables for those years, which is exactly why a page like this one has to look up each year's boundary rather than assume it repeats."
         ]
       }
     ],
     "faq": [
       {
         "question": "What Chinese zodiac sign is 1988?",
-        "answer": "The Earth Dragon, but only from February 17, 1988 onward. The Hong Kong Observatory's own Gregorian-lunar conversion table marks that date as the first day of the lunar year Wu-chen, which runs through February 5, 1989."
+        "answer": "Earth Dragon — though that label doesn't kick in until February 17, 1988. Hong Kong's official calendar authority identifies that date as when Wu-chen, the lunar year in question, begins, and it doesn't close out until early February of the following year."
       },
       {
         "question": "Was Skrillex really born in the Year of the Dragon?",
-        "answer": "No, by the Hong Kong Observatory's own calendar boundary. He was born January 15, 1988, more than a month before that year's lunar new year on February 17, which places him in the preceding zodiac year, Ding-mao, Fire Rabbit, instead."
+        "answer": "No. His birthday, January 15, 1988, falls over a month ahead of when that lunar year opened on the 17th, which places his birth under the year before it: Ding-mao, or Fire Rabbit."
       },
       {
         "question": "What if I was born in January 1988?",
-        "answer": "Anyone born January 1 through February 16, 1988 was born before that year's lunar new year and belongs to the preceding zodiac year, Ding-mao, Fire Rabbit, per the Hong Kong Observatory's 1988 conversion table, not the Earth Dragon. Anyone born February 17 through 29, 1988 is an Earth Dragon."
+        "answer": "The first 47 days of 1988, up to but not including February 17, arrived before the lunar new year and belong to the prior Fire Rabbit year instead (Ding-mao), according to Hong Kong's 1988 conversion table, rather than Earth Dragon. Only births from February 17 onward count as Earth Dragon."
       },
       {
         "question": "Why is 1988 called the \"Earth\" Dragon instead of just \"the Dragon\"?",
-        "answer": "Because the traditional calendar pairs each of the twelve zodiac animals with one of five elements. 1988's stem is Wu, Yang earth; other Dragon years carry different elements, such as 1976's Fire Dragon or 2024's Wood Dragon."
+        "answer": "Because Chinese calendar tradition pairs each of the twelve zodiac animals with one of five elements. This particular year's heavenly stem works out to Wu, or Yang earth; other Dragon years carry different elements, such as 1976's Fire Dragon or 2024's Wood Dragon."
       },
       {
         "question": "Are Dragon years ever Yin instead of Yang?",
-        "answer": "No, never. The Dragon's branch sits at an even position in the twelve-branch cycle, which only ever pairs with the five Yang stems. Every Dragon year on record is Yang; the Ox, Rabbit, Snake, Goat, Rooster, and Pig are the six animals that are permanently Yin instead."
+        "answer": "No, never. Its zodiac branch occupies an even slot in the twelve-branch cycle, which only ever pairs with Yang-polarity stems. Every Dragon year on record is Yang; six other animals sitting on odd branch positions (Snake, Ox, Pig, Rooster, Rabbit, and Goat) never fall on the Yang side."
       },
       {
         "question": "When is the next Earth Dragon year?",
-        "answer": "2048. The specific pairing of earth with the Dragon only recurs every 60 years, the length of the full sexagenary cycle. The previous Earth Dragon year was 1928."
+        "answer": "2048. Earth only pairs with the Dragon once every six decades, when the two independent cycles realign. Before 1988, that same pairing last occurred in 1928."
       },
       {
         "question": "Is Chinese New Year always in February?",
-        "answer": "No. It isn't pinned to one fixed day the way a Gregorian holiday is; the date moves within roughly a month-long window depending on the lunar calendar, landing anywhere from January 21 to February 20. The 1988 new year fell on February 17, but 1987's fell on January 29 and 1989's on February 6, per the Hong Kong Observatory's own tables for those years."
+        "answer": "No. Unlike a fixed Gregorian holiday such as December 25, it drifts across a roughly month-long band governed by the moon's cycle, falling anywhere between January 21 and February 20 depending on the year. 1988 landed on February 17, while the neighboring years shifted to January 29 (1987) and February 6 (1989)."
       }
     ],
     "sources": [

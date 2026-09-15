@@ -2374,3 +2374,43 @@ curl -s "https://dayalmanac.com/corn-moon/?cb=$RANDOM" | grep -o "Will there be 
   "escalation": "无——未发现需要推翻核心结论的问题，无需更新作战数据台待办"
 }
 ```
+
+## 2026-09-15 PAA-FAQ批强第二轮（来源见 独立站/research-db/paa_gap.py 与 独立站/research-db/paa_bulk_20260915/dayalmanac.json）
+
+依据：`paa_gap.py`重新解析历史DataForSEO SERP抓取，比对出本次38篇候选文章的目标关键词在Google上真实存在、但现有FAQ仍未接住的PAA问法。清单已自动排除09-13第一轮完全覆盖的页面，仅列各文章剩余未答问题。范围已排除CalcBadger/DialWick/LingoGrove三站压制期规则与beta/gamma的walled_deprioritize名单（不适用本站）。任务性质同第一轮：纯FAQ增量追加，不改动正文/标题/description/sources/coreSummary/其他FAQ条目/schema字段，不修改`updated`/`published`字段。
+
+**处理结果：38篇候选逐一核实，11篇新增FAQ（合计14条新问答），27篇判定跳过（原因见下）。**
+
+**新增FAQ的11篇（按impressions_28d降序，括号内为本次新增问题数）：**
+national-dog-day(1)、national-cat-day(1)、red-ribbon-week(1)、national-adoption-day(1)、mexican-independence-day(1)、national-quesadilla-day(2)、april-birthstone(1)、lung-cancer-awareness-month(2)、bullying-prevention-month(1)、ovarian-cancer-awareness-month(2)、galentines-day(1)。
+
+每条新增FAQ均满足：①问法取自该文章`gap_questions`列表的真实Google PAA原文（或极接近的等价措辞）；②答案经WebSearch核实（本轮WebSearch额度未耗尽，全程未用WebFetch；Chick-fil-A官方菜单页额外用curl直接核实quesadilla未上架、ACS卵巢癌5年生存率页面额外用curl抓取确认SEER口径数字，未采用搜索摘要里出现但curl核验后发现来源不明确的"10年生存率84/59/23/8%"学术论文数字）；③格式严格照抄该文章`faq`数组已有条目的JSON风格`"question"`/`"answer"`键与相近的长度/语气；④过一遍Skill(avoid-ai-writing)清单人工自查（未跑自动化脚本，理由同第一轮：避免误判已有内容），确认无破折号堆叠、无"it's worth noting"类模型腔、无三连排比、无空洞归因。
+
+**跳过的27篇及原因：**
+
+1. **占星人格/配对类（10篇，判定逻辑与09-13第一轮完全一致，延续本站既定编辑立场——只讨论可查证历日边界，不做人格/配对断言）**：virgo-dates（本轮曝光最高3851，5条gap全部是"red flags"/"soulmate"/"compatible"类）、1988/1987/1992/1991-chinese-zodiac（4篇，"lucky in 2026"/"enemy sign"/"compatible"/"personality"类）、gemini-birthstone（"birth color"/"lucky gemstone"/"soulmate"）、june-22-zodiac（3条gap中2条属此类，第3条"Is July 22 Cancer or Leo"需要独立精确星历数据核实另一日期边界，非本文范围，一并放弃）、may-22-zodiac（"crave"/"person like"/"get along with"）。
+2. **已被现有FAQ实质覆盖（8篇，逐条核对现有`faq`数组确认重复）**：mexican-independence-day的另外2条gap问题（"是否15/16独立日"、"墨西哥真正独立日"，与现有"Why celebrations happen night of 15"/"When did Mexico actually become independent"逐字/近逐字重合，仅"Is September 15th a holiday"是真缺口，已采用）；national-days-in-october全部3条（"special days in October"类，与现有"How many national days"/"awareness months observed"重复）；november-birthstone（"What is November topaz"已被现有"Is blue topaz natural"等条目讲透）；june-birthstone（"real birthstone for June"与现有"June's three official birthstones"重复）；11th-anniversary-gift（"symbolizes 11 years"与现有"traditional 11th anniversary gift"/"11th anniversary gemstone"重复，另一条"给丈夫买什么"过于私人化不适合单一事实FAQ）；june-birth-flower（"two birth flowers for June"与现有FAQ首条逐字重合，另一条"为什么两种"09-13第一轮已核实证据不足）；national-mango-day（"which state known for mangos"与现有"Which US state grows most mangoes=Florida"逐字重合，其余2条属主观民俗类见下）；national-nachos-day的"is nachos Mexican"与现有起源考证（Piedras Negras, Mexico）实质重复。
+3. **连锁店促销/菜单类，时效性强或本轮判定证据不足以支撑（4篇）**：national-taco-day（"Taco Bell $1 tacos Oct 7"与现有"Does Taco Bell have $1 tacos every Tuesday"实质重复，且问题本身日期有误——本文已确立2026年National Taco Day是10月6日非7日）；national-pepperoni-pizza-day、national-burrito-day、national-pasta-day的连锁店促销类gap问题（"Domino's/Chipotle/Olive Garden是否有活动"）——本轮WebSearch额度充足，但此类时效性促销事实即便当下能查到，几周后就可能过期，不符合本站"evergreen可查证事实"标准，延续第一轮判断放弃。
+4. **主观/民俗健康类无单一可查证答案（4篇）**：national-apple-day（"苹果对哪个器官好"/"何时不能吃苹果"，民俗养生断言无科学定论）；national-mango-day剩余2条（"girl code"俚语义、"芒果对哪个器官好"）；national-nachos-day剩余1条（"是否算cheat meal"主观判断）；corn-moon（"spiritual meaning"主观、"rarest moon"无权威排名口径）。
+5. **无权威单一排名/清单，避免编造（4篇）**：march-birthstone的"5 rarest birthstone"、september-birthstone的"6 rarest birthstone"（均无单一权威稀有度排名来源，与GIA/AGS/IGS已确立的产地/硬度类事实不同）；march-birthstone的"What color represents March"经核实后发现来源均为零售商营销性质内容（非GIA/AGS等本文已用的权威源），与本文既定引用标准不符，放弃；anniversary-gifts-by-year全部3条（"每年对应什么纪念日"/"每年送什么礼物"，本质要求还原1-24年完整清单，篇幅超出单条FAQ；"100周年婚姻叫什么"09-13第一轮已核实无官方命名，本轮未变）；national-wildlife-day（"2026年National Animal Days有哪些"，开放式清单无边界清晰答案，09-13已放弃）。
+6. **世界仁慈日2026主题（1篇，world-kindness-day）**：09-13第一轮曾用WebSearch核实但未找到官方发布主题，本轮用新额度再次核实（搜索"World Kindness Day/Kindness Month 2026 official theme announced"），仍未找到World Kindness Movement官方发布的2026年主题，结论不变，放弃避免编造。
+7. **banned-books-week（1篇）**：09-13第一轮已核实ALA"最常被挑战图书"榜单按年度/十年发布、无"史上头号禁书"官方排名口径，本轮同一问题再次出现在gap清单，结论不变，放弃。
+8. **需要个人化建议或无单一答案的边缘情况（3篇内单条）**：11th-anniversary-gift"给丈夫买什么"、galentines-day剩余1条"Galentine's Day的规则是什么"（过于开放，"是否只限单身女性"已用真实来源核实并采用，"rules"这条无清晰边界放弃）、ovarian-cancer-awareness-month的"Who is a survivor of stage 4 ovarian cancer"（要求具名个案，非可查证的通用事实，放弃）。
+
+**核实过程中的具体修正**：搜索初步摘要给出的"卵巢癌10年生存率84%/59%/23%/8%（按分期）"实际来源是一篇独立学术论文而非ACS官方口径；直接curl抓取`cancer.org`卵巢癌生存率官方页面确认该页**只公布5年生存率**（SEER 2015-2021数据：局限期92%/区域扩散71%/远处转移32%/全分期合计51%，均为浸润性上皮癌口径），因此FAQ答案改为如实说明"ACS未公布10年数字，只公布5年数字"并给出准确的5年数字，未采用摘要里那组未经验证来源的10年数字。
+
+**执行方式**：单次commit（11篇/14条，因单批规模适中未拆分）。用自建插入脚本（`faq_inserter.py`，基于字符串状态机的括号计数定位目标slug的faq数组，在末尾`}`后插入新对象，逐条`json.dumps`保证转义正确），插入后立即`json.loads`校验整个guides.ts数组仍是合法JSON（82个guide条目，插入前后条目数不变）。`git diff --stat`确认改动为纯新增（56行全部insertions，无deletions）。`git pull --rebase origin main`（无冲突，当时已是最新）→`npm run build`（139页构建成功，0报错）→`git commit 57977a3` → `git push origin main`成功。
+
+**Skill(avoid-ai-writing)/Skill(humanizer)自查**：新增14条FAQ答案逐条人工自查（未跑自动化脚本，避免误判已有内容）：无破折号堆叠、无"it's worth noting"/"significantly"类模型腔、无三连排比结构、无空洞归因（"experts believe"类）、答案句式长度与所在文章已有FAQ条目保持一致。
+
+**线上生效抽查**（绕缓存）：
+```
+curl -s "https://dayalmanac.com/national-dog-day/?cb=$RANDOM" | grep -o "Do dogs like sleeping with humans"
+curl -s "https://dayalmanac.com/national-quesadilla-day/?cb=$RANDOM" | grep -o "Does Chipotle still offer quesadillas"
+curl -s "https://dayalmanac.com/ovarian-cancer-awareness-month/?cb=$RANDOM" | grep -o "survival rate for ovarian cancer for 10 years"
+curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galentines for single girls only"
+```
+（结果见本次会话汇报；Cloudflare Pages部署有延迟，抽查未命中不代表失败，如实记录而非死等）
+
+**遗留**：27篇跳过页面中，"占星人格/配对类"10篇与"连锁店促销/菜单类"4篇、"主观民俗健康类"4篇本质上是站点编辑立场/内容标准决定的系统性跳过，不会因为换一轮WebSearch额度而改变结论，未来第三轮如果`paa_gap.py`再次把这些页面的同类问题列入候选，可考虑直接在`paa_gap.py`层面按问题关键词模式（soulmate/compatible/lucky/personality/red flags等）预过滤，减少重复核实的人工成本。
+

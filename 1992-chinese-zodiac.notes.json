@@ -1,0 +1,17 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim: 1991-chinese-zodiac covers the year Xin-wei, Metal Goat. Target title reads '1991 Chinese Zodiac: Metal Goat, But Only After February 15' and target body labels 'the relevant lunar year Xin-wei (辛未)' -- matches exactly."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim: birthstones-by-month follows the rule of checking each organization's current source directly rather than copying a secondhand aggregator chart. Target body opens with 'Most pages titled birthstones by month are working from a chart somebody else compiled... This one was checked directly, cross-referenced with Jewelers of America's live buying guide' and repeats this direct-checking approach against GIA and AGS throughout -- confirms the claimed methodology."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Claim: Scorpio has nothing comparable to the Chinese zodiac's year-based element/stem system -- a Scorpio is a Scorpio regardless of birth year. Target scorpio-dates article covers only date-range boundaries (tropical vs. sidereal vs. constellation) and a small year-to-year equinox-drift wobble of a day at most; nothing in the target describes any secondary year-based classification layer analogous to the Chinese zodiac's stem-element rotation, consistent with the claim that no such system exists for the Western sign."
+  }
+]

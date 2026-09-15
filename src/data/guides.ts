@@ -8479,7 +8479,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What are the 12 birthstones by month?",
-        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, checked directly against Jewelers of America's live list: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon."
+        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, cross-checked line by line against the birthstone trade group's own published guide: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon."
       }
     ],
     "sources": [

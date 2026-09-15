@@ -2521,3 +2521,32 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "geo_score": "未重新打分（无结构性GEO薄弱问题，仅FAQ层面新增+措辞修复）",
   "escalation": "无——未发现需要推翻核心结论的问题，无需更新作战数据台待办"
 }```
+
+```json
+{
+  "tool_slug": "机械检查回溯_20260916",
+  "audited": "2026-09-16",
+  "source": "owen-opc-kit/docs/机械检查回溯发现_20260916.md",
+  "findings_fixed": [
+    {
+      "issue": "check_approx_precise_consistency.py候选：national-grandparents-day 'the gap is always exactly one week'(7天) vs 'the Sunday six days after that Monday'(6天)，此前被上一轮排查判定为CONFIRMED真实数学矛盾",
+      "fix": "用真实日历逐年（2024-2031）实算复核，两句话说的不是同一件事：'six days after that Monday'是Labor Day到Grandparents Day的规则定义偏移量（恒为6天），'the gap is always exactly one week'是正确规则算出的日期与常见错误简化说法（直接取9月第一个周日）算出的日期之间的差距（逐年实算除2025/2031两个特例年份重合外均为7天）。两句原文都对，是FALSE POSITIVE，未修改文章，已回头修正check_approx_precise_consistency.py docstring里的误判记录",
+      "commit": "无（未改guides.ts此项）"
+    },
+    {
+      "issue": "SINGLETON分类：'Consumer Trends'只有1篇文章(holiday-spending-statistics)，related-guides侧栏必定空",
+      "script": "check_singleton_category.py --guides src/data/guides.ts",
+      "fix": "category改为'Observances'（该文章内容是多个节日的消费统计，主题上属于本站Observances大类），复验SINGLETON清零，仅剩1个THIN分类(Anniversaries 2篇，非本次确认修复范围)",
+      "commit": "83fd3bc"
+    },
+    {
+      "issue": "元数据字段(description/coreSummary/sources[].label)真实em/en dash 708处，多为'Publisher — Title'格式的叙事性分隔符",
+      "script": "check_metadata_em_dash.py --guides src/data/guides.ts --all",
+      "fix": "6处description/coreSummary手工改写为逗号/冒号/括号；702处sources[].label批量脚本替换首个' — '为': '。修复脚本本身时发现盲区：脚本原版只扫复数sources[]数组，完全漏扫单数dateRule.source.label字段（87篇里82篇命中，此前从未被发现），已修复脚本补上这层扫描并加self-test用例，DayAlmanac真实候选数从708修正为784，82处一并批量修复。剩余2处判定为逐字引用例外未改动：①national-hispanic-heritage-month的Forbes标题内部'(Yet)—Unlike'是该标题原文本身的em dash；②june-birthstone的'Department of Culture and Tourism – Abu Dhabi'的en dash是该政府部门官方名称的一部分（DCT Abu Dhabi），均不是本站自己写的叙事性破折号",
+      "commit": "83fd3bc"
+    }
+  ],
+  "verify": "npm run build 138页成功；复验check_singleton_category.py exit 0（仅THIN提示）；check_metadata_em_dash.py --all 从784处降到2处（均为已核实的逐字引用/官方名称例外）；push后curl绕缓存/holiday-spending-statistics/与/national-grandparents-day/均返回200",
+  "escalation": null
+}
+```

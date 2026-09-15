@@ -14,7 +14,9 @@ export const CLARITY_ID = 'y150714gwp';
 
 // 品牌实体的外部档案（Organization schema 的 sameAs）。2026-09-10 建：矩阵站品牌信号为零，先把实体块放上，
 // 目录收录页/Product Hunt/Pinterest 等真实档案上线后往这里填 URL（只填本站自己的档案，不填别的站）。
-export const BRAND_SAME_AS: string[] = [];
+// 2026-09-15：Pinterest 账号 qk2375 已 claim dayalmanac.com（域名验证通过），且建有
+// "Holidays and Observances by DayAlmanac" 图板，见 独立站/待Owen处理事项.md 2026-09-12 记录。
+export const BRAND_SAME_AS: string[] = ['https://www.pinterest.com/qk2375/'];
 
 // Organization schema 的实体字段（2026-09-13）：description 复用 SITE_DESCRIPTION（站点已有的一句话定位，不新编）；
 // email 与 /about/ 页上公开的联系邮箱一致；knowsAbout 取自本站分区名，不堆关键词。

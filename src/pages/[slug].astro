@@ -66,10 +66,64 @@ const embedUrl = `${SITE_ORIGIN}/embed/${guide.slug}/`;
 const embedSnippet = countdownEligible
 	? `<iframe src="${embedUrl}" width="280" height="230" style="border:1px solid #ddd;border-radius:8px" title="Days until ${guide.title}" loading="lazy"></iframe>`
 	: '';
+import fs from 'node:fs';
+import path from 'node:path';
 import { imgDims } from '../data/imageDims';
+import { RESPONSIVE_HERO } from '../data/responsiveHero';
+// 2026-09-15 CWV 跟进：本站 hero 图是 contain 模式（`h-auto w-auto max-h-[62vh] max-w-full`，
+// 保留原始宽高比不裁剪），跟 umberlore 类似但没有那套复杂的 --pw/--ph CLS 保护计算——本站没有
+// 类似历史包袱，直接接入响应式变体 + WebP/AVIF + preload 是安全的。sizes 用跟 umberlore 同款
+// min() 公式：实际渲染宽度取"可用视口宽度"和"62vh 换算成的宽度"两者较小值。
+const heroDims = guide.image ? imgDims(guide.image) : undefined;
+const heroResponsive = guide.image ? RESPONSIVE_HERO[guide.image] : undefined;
+const heroSizes = heroDims
+	? `min(calc(100vw - 32px), 880px, calc(62vh * ${heroDims.w} / ${heroDims.h}))`
+	: undefined;
+const heroWebpDesktop = (() => {
+	if (!guide.image || !guide.image.match(/\.jpe?g$/i)) return null;
+	const rel = guide.image.replace(/\.jpe?g$/i, '.webp');
+	const abs = path.join(process.cwd(), 'public', rel.replace(/^\//, ''));
+	return fs.existsSync(abs) ? rel : null;
+})();
+const heroWebpMobile = (() => {
+	if (!heroResponsive) return null;
+	const rel = heroResponsive.mobile.replace(/\.jpe?g$/i, '.webp');
+	const abs = path.join(process.cwd(), 'public', rel.replace(/^\//, ''));
+	return fs.existsSync(abs) ? rel : null;
+})();
+const heroAvifDesktop = (() => {
+	if (!guide.image || !guide.image.match(/\.jpe?g$/i)) return null;
+	const rel = guide.image.replace(/\.jpe?g$/i, '.avif');
+	const abs = path.join(process.cwd(), 'public', rel.replace(/^\//, ''));
+	return fs.existsSync(abs) ? rel : null;
+})();
+const heroAvifMobile = (() => {
+	if (!heroResponsive) return null;
+	const rel = heroResponsive.mobile.replace(/\.jpe?g$/i, '.avif');
+	const abs = path.join(process.cwd(), 'public', rel.replace(/^\//, ''));
+	return fs.existsSync(abs) ? rel : null;
+})();
 ---
 
 <Layout title={guide.title} description={guide.description} ogImage={guide.image ?? '/favicon.svg'} ogType="article">
+	{guide.image && (
+		<link
+			rel="preload"
+			as="image"
+			type={heroAvifDesktop ? 'image/avif' : heroWebpDesktop ? 'image/webp' : undefined}
+			href={heroAvifDesktop ?? heroWebpDesktop ?? guide.image}
+			imagesrcset={
+				heroAvifMobile
+					? `${heroAvifMobile} ${heroResponsive!.w}w, ${heroAvifDesktop} ${heroDims?.w}w`
+					: heroWebpMobile
+						? `${heroWebpMobile} ${heroResponsive!.w}w, ${heroWebpDesktop} ${heroDims?.w}w`
+						: undefined
+			}
+			imagesizes={heroAvifMobile || heroWebpMobile ? heroSizes : undefined}
+			fetchpriority="high"
+			slot="head"
+		/>
+	)}
 	{guide.faq && guide.faq.length > 0 && <FAQPage items={guide.faq} slot="head" />}
 	<Article
 		slot="head"
@@ -122,14 +176,33 @@ import { imgDims } from '../data/imageDims';
 
 		{guide.image && (
 			<figure class="m-0 mt-10">
-				<img
-					src={guide.image}
-					alt={guide.imageAlt ?? guide.title}
-					class="mx-auto h-auto max-h-[62vh] w-auto max-w-full border border-[var(--rule)]"
-					loading="eager"
-						width={imgDims(guide.image)?.w}
-						height={imgDims(guide.image)?.h}
-					/>
+				<picture>
+					{heroAvifDesktop && (
+						<source
+							srcset={heroAvifMobile ? `${heroAvifMobile} ${heroResponsive!.w}w, ${heroAvifDesktop} ${heroDims?.w}w` : heroAvifDesktop}
+							sizes={heroAvifMobile ? heroSizes : undefined}
+							type="image/avif"
+						/>
+					)}
+					{heroWebpDesktop && (
+						<source
+							srcset={heroWebpMobile ? `${heroWebpMobile} ${heroResponsive!.w}w, ${heroWebpDesktop} ${heroDims?.w}w` : heroWebpDesktop}
+							sizes={heroWebpMobile ? heroSizes : undefined}
+							type="image/webp"
+						/>
+					)}
+					<img
+						src={guide.image}
+						alt={guide.imageAlt ?? guide.title}
+						class="mx-auto h-auto max-h-[62vh] w-auto max-w-full border border-[var(--rule)]"
+						loading="eager"
+						fetchpriority="high"
+							width={imgDims(guide.image)?.w}
+							height={imgDims(guide.image)?.h}
+							srcset={heroResponsive ? `${heroResponsive.mobile} ${heroResponsive.w}w, ${guide.image} ${heroDims?.w}w` : undefined}
+							sizes={heroResponsive ? heroSizes : undefined}
+						/>
+				</picture>
 				{guide.imageCredit && (
 					<figcaption class="mx-auto mt-3 max-w-[560px] text-center text-xs leading-relaxed text-[var(--ink)]/45" set:html={md(guide.imageCredit)} />
 				)}

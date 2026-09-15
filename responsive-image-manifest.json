@@ -1,0 +1,596 @@
+{
+ "/images/national-boyfriend-day-hug.jpg": {
+  "fingerprint": "1789196497788666381:182031:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-boyfriend-day-hug-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-boyfriend-day-hug.jpg"
+ },
+ "/images/national-daughters-day.jpg": {
+  "fingerprint": "1789196497851936197:116200:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-daughters-day-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-daughters-day.jpg"
+ },
+ "/images/national-sons-day.jpg": {
+  "fingerprint": "1789196498057269008:239907:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-sons-day-sm.jpg",
+   "w": 750,
+   "h": 474
+  },
+  "desktop_rel": "/images/national-sons-day.jpg"
+ },
+ "/images/national-coffee-day.jpg": {
+  "fingerprint": "1789196497836863324:161658:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-coffee-day-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-coffee-day.jpg"
+ },
+ "/images/national-grandparents-day.jpg": {
+  "fingerprint": "1789196497936933815:254540:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-grandparents-day-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-grandparents-day.jpg"
+ },
+ "/images/national-bosses-day.jpg": {
+  "fingerprint": "1789196497771919162:120544:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-bosses-day-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-bosses-day.jpg"
+ },
+ "/images/national-cat-day.jpg": {
+  "fingerprint": "1789196497820797926:277030:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-cat-day-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/national-cat-day.jpg"
+ },
+ "/images/national-dog-day.jpg": {
+  "fingerprint": "1785788565000000000:303047:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-dog-day-sm.jpg",
+   "w": 750,
+   "h": 502
+  },
+  "desktop_rel": "/images/national-dog-day.jpg"
+ },
+ "/images/december-birthstone-turquoise.jpg": {
+  "fingerprint": "1789196497173827305:78674:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/december-birthstone-turquoise.jpg"
+ },
+ "/images/virgo-dates-uranias-mirror.jpg": {
+  "fingerprint": "1789196498538448698:202650:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/virgo-dates-uranias-mirror-sm.jpg",
+   "w": 750,
+   "h": 527
+  },
+  "desktop_rel": "/images/virgo-dates-uranias-mirror.jpg"
+ },
+ "/images/june-22-zodiac-cancer-uranias-mirror.jpg": {
+  "fingerprint": "1789196497431297325:176772:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/june-22-zodiac-cancer-uranias-mirror-sm.jpg",
+   "w": 750,
+   "h": 1073
+  },
+  "desktop_rel": "/images/june-22-zodiac-cancer-uranias-mirror.jpg"
+ },
+ "/images/may-22-zodiac-gemini-uranias-mirror.jpg": {
+  "fingerprint": "1789278464001144341:174696:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/may-22-zodiac-gemini-uranias-mirror-sm.jpg",
+   "w": 750,
+   "h": 524
+  },
+  "desktop_rel": "/images/may-22-zodiac-gemini-uranias-mirror.jpg"
+ },
+ "/images/march-birthstone-aquamarine.jpg": {
+  "fingerprint": "1789196497652294249:215614:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/march-birthstone-aquamarine-sm.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  "desktop_rel": "/images/march-birthstone-aquamarine.jpg"
+ },
+ "/images/september-birthstone-sapphire.jpg": {
+  "fingerprint": "1789196498520693746:129692:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/september-birthstone-sapphire-sm.jpg",
+   "w": 750,
+   "h": 600
+  },
+  "desktop_rel": "/images/september-birthstone-sapphire.jpg"
+ },
+ "/images/scorpio-dates-uranias-mirror.jpg": {
+  "fingerprint": "1789196498451945356:192139:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/scorpio-dates-uranias-mirror-sm.jpg",
+   "w": 750,
+   "h": 1075
+  },
+  "desktop_rel": "/images/scorpio-dates-uranias-mirror.jpg"
+ },
+ "/images/january-birthstone-garnet.jpg": {
+  "fingerprint": "1789196497376256664:251218:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/january-birthstone-garnet-sm.jpg",
+   "w": 750,
+   "h": 543
+  },
+  "desktop_rel": "/images/january-birthstone-garnet.jpg"
+ },
+ "/images/red-ribbon-week-camarena.jpg": {
+  "fingerprint": "1789196498436133912:78545:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/red-ribbon-week-camarena-sm.jpg",
+   "w": 750,
+   "h": 1125
+  },
+  "desktop_rel": "/images/red-ribbon-week-camarena.jpg"
+ },
+ "/images/domestic-violence-awareness-month.jpg": {
+  "fingerprint": "1789196497204002591:131352:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/domestic-violence-awareness-month-sm.jpg",
+   "w": 750,
+   "h": 1160
+  },
+  "desktop_rel": "/images/domestic-violence-awareness-month.jpg"
+ },
+ "/images/national-taco-day.jpg": {
+  "fingerprint": "1789196498081706390:437536:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-taco-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-taco-day.jpg"
+ },
+ "/images/hispanic-heritage-month.jpg": {
+  "fingerprint": "1789196497319670654:245796:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/hispanic-heritage-month-sm.jpg",
+   "w": 750,
+   "h": 474
+  },
+  "desktop_rel": "/images/hispanic-heritage-month.jpg"
+ },
+ "/images/no-shave-november.jpg": {
+  "fingerprint": "1789196498153871140:48171:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/no-shave-november-sm.jpg",
+   "w": 750,
+   "h": 394
+  },
+  "desktop_rel": "/images/no-shave-november.jpg"
+ },
+ "/images/breast-cancer-awareness-month.jpg": {
+  "fingerprint": "1789196497091716638:131937:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/breast-cancer-awareness-month-sm.jpg",
+   "w": 750,
+   "h": 476
+  },
+  "desktop_rel": "/images/breast-cancer-awareness-month.jpg"
+ },
+ "/images/diabetes-awareness-month-banting-best.jpg": {
+  "fingerprint": "1789196497194744871:132624:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/diabetes-awareness-month-banting-best-sm.jpg",
+   "w": 750,
+   "h": 1086
+  },
+  "desktop_rel": "/images/diabetes-awareness-month-banting-best.jpg"
+ },
+ "/images/may-birth-flower-lily.jpg": {
+  "fingerprint": "1787324998694752295:377761:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/may-birth-flower-lily-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/may-birth-flower-lily.jpg"
+ },
+ "/images/june-birth-flower-rose.jpg": {
+  "fingerprint": "1789196497491397777:124700:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/june-birth-flower-rose-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/june-birth-flower-rose.jpg"
+ },
+ "/images/march-birth-flower-daffodil.jpg": {
+  "fingerprint": "1789196497612577622:102205:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/march-birth-flower-daffodil-sm.jpg",
+   "w": 750,
+   "h": 636
+  },
+  "desktop_rel": "/images/march-birth-flower-daffodil.jpg"
+ },
+ "/images/august-birth-flower-poppy.jpg": {
+  "fingerprint": "1789196497063680567:253185:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/august-birth-flower-poppy-sm.jpg",
+   "w": 750,
+   "h": 634
+  },
+  "desktop_rel": "/images/august-birth-flower-poppy.jpg"
+ },
+ "/images/september-birth-flower-aster.jpg": {
+  "fingerprint": "1786513853591513457:419991:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/september-birth-flower-aster-sm.jpg",
+   "w": 750,
+   "h": 844
+  },
+  "desktop_rel": "/images/september-birth-flower-aster.jpg"
+ },
+ "/images/july-birth-flower-larkspur.jpg": {
+  "fingerprint": "1789196497399854644:172997:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/july-birth-flower-larkspur-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/july-birth-flower-larkspur.jpg"
+ },
+ "/images/talk-like-a-pirate-day.jpg": {
+  "fingerprint": "1789196498524035398:20476:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/talk-like-a-pirate-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/talk-like-a-pirate-day.jpg"
+ },
+ "/images/epilepsy-awareness-month-capitol.jpg": {
+  "fingerprint": "1789196497222275327:245652:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/epilepsy-awareness-month-capitol-sm.jpg",
+   "w": 750,
+   "h": 422
+  },
+  "desktop_rel": "/images/epilepsy-awareness-month-capitol.jpg"
+ },
+ "/images/adhd-awareness-month-cantwell.jpg": {
+  "fingerprint": "1786614578677491407:47874:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/adhd-awareness-month-cantwell.jpg"
+ },
+ "/images/national-first-responders-day-collier-memorial.jpg": {
+  "fingerprint": "1789196497916902442:402044:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-first-responders-day-collier-memorial-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-first-responders-day-collier-memorial.jpg"
+ },
+ "/images/november-birth-flower-chrysanthemum.jpg": {
+  "fingerprint": "1789196498179183216:339648:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/november-birth-flower-chrysanthemum-sm.jpg",
+   "w": 750,
+   "h": 557
+  },
+  "desktop_rel": "/images/november-birth-flower-chrysanthemum.jpg"
+ },
+ "/images/october-birth-flower-marigold.jpg": {
+  "fingerprint": "1789196498379495819:311888:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/october-birth-flower-marigold-sm.jpg",
+   "w": 750,
+   "h": 715
+  },
+  "desktop_rel": "/images/october-birth-flower-marigold.jpg"
+ },
+ "/images/april-birth-flower-daisy.jpg": {
+  "fingerprint": "1789196496922620096:203581:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/april-birth-flower-daisy-sm.jpg",
+   "w": 750,
+   "h": 501
+  },
+  "desktop_rel": "/images/april-birth-flower-daisy.jpg"
+ },
+ "/images/december-birth-flower-holly.jpg": {
+  "fingerprint": "1789196497139290217:111226:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/december-birth-flower-holly-sm.jpg",
+   "w": 750,
+   "h": 750
+  },
+  "desktop_rel": "/images/december-birth-flower-holly.jpg"
+ },
+ "/images/february-birth-flower-violet.jpg": {
+  "fingerprint": "1789196497291849120:138817:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/february-birth-flower-violet-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/february-birth-flower-violet.jpg"
+ },
+ "/images/january-birth-flower-carnation.jpg": {
+  "fingerprint": "1789196497340290600:218429:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/january-birth-flower-carnation-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/january-birth-flower-carnation.jpg"
+ },
+ "/images/movember-mo-bros.jpg": {
+  "fingerprint": "1787133523674504731:91892:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/movember-mo-bros-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/movember-mo-bros.jpg"
+ },
+ "/images/prostate-cancer-awareness-month-white-house.jpg": {
+  "fingerprint": "1789196498424662229:225913:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/prostate-cancer-awareness-month-white-house-sm.jpg",
+   "w": 750,
+   "h": 425
+  },
+  "desktop_rel": "/images/prostate-cancer-awareness-month-white-house.jpg"
+ },
+ "/images/world-smile-day-harvey-ball-pin.jpg": {
+  "fingerprint": "1789196498549332183:116815:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/world-smile-day-harvey-ball-pin-sm.jpg",
+   "w": 750,
+   "h": 985
+  },
+  "desktop_rel": "/images/world-smile-day-harvey-ball-pin.jpg"
+ },
+ "/images/lung-cancer-awareness-month.jpg": {
+  "fingerprint": "1789196497602513041:255052:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/lung-cancer-awareness-month-sm.jpg",
+   "w": 750,
+   "h": 750
+  },
+  "desktop_rel": "/images/lung-cancer-awareness-month.jpg"
+ },
+ "/images/world-teachers-day-kabul-academy-1968.jpg": {
+  "fingerprint": "1789196498570512828:246313:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/world-teachers-day-kabul-academy-1968-sm.jpg",
+   "w": 750,
+   "h": 575
+  },
+  "desktop_rel": "/images/world-teachers-day-kabul-academy-1968.jpg"
+ },
+ "/images/mexican-independence-day.jpg": {
+  "fingerprint": "1789196497740708851:41536:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/mexican-independence-day.jpg"
+ },
+ "/images/1994-chinese-zodiac-dog-figure.jpg": {
+  "fingerprint": "1789196496885025017:26784:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/1994-chinese-zodiac-dog-figure.jpg"
+ },
+ "/images/national-guacamole-day.jpg": {
+  "fingerprint": "1787497118865894386:320157:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-guacamole-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-guacamole-day.jpg"
+ },
+ "/images/gemini-birthstone-alexandrite.jpg": {
+  "fingerprint": "1787563048436377857:96646:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/gemini-birthstone-alexandrite-sm.jpg",
+   "w": 750,
+   "h": 353
+  },
+  "desktop_rel": "/images/gemini-birthstone-alexandrite.jpg"
+ },
+ "/images/june-birthstone-pearls.jpg": {
+  "fingerprint": "1788342717632985400:277096:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/june-birthstone-pearls-sm.jpg",
+   "w": 750,
+   "h": 754
+  },
+  "desktop_rel": "/images/june-birthstone-pearls.jpg"
+ },
+ "/images/1987-chinese-zodiac-rabbit-figure.jpg": {
+  "fingerprint": "1789196496838353632:24998:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/1987-chinese-zodiac-rabbit-figure.jpg"
+ },
+ "/images/11th-anniversary-gift-turquoise.jpg": {
+  "fingerprint": "1789196496835355891:274370:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/11th-anniversary-gift-turquoise-sm.jpg",
+   "w": 750,
+   "h": 531
+  },
+  "desktop_rel": "/images/11th-anniversary-gift-turquoise.jpg"
+ },
+ "/images/national-quesadilla-day.jpg": {
+  "fingerprint": "1789196498037290759:235011:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-quesadilla-day-sm.jpg",
+   "w": 750,
+   "h": 421
+  },
+  "desktop_rel": "/images/national-quesadilla-day.jpg"
+ },
+ "/images/banned-books-week-protest.jpg": {
+  "fingerprint": "1789196497078235198:204149:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/banned-books-week-protest-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/banned-books-week-protest.jpg"
+ },
+ "/images/bullying-prevention-month.jpg": {
+  "fingerprint": "1789196497112471749:275973:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/bullying-prevention-month-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/bullying-prevention-month.jpg"
+ },
+ "/images/national-pepperoni-pizza-day.jpg": {
+  "fingerprint": "1789196498019338685:314116:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-pepperoni-pizza-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-pepperoni-pizza-day.jpg"
+ },
+ "/images/national-wife-appreciation-day.jpg": {
+  "fingerprint": "1789196498129893583:144173:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-wife-appreciation-day-sm.jpg",
+   "w": 750,
+   "h": 633
+  },
+  "desktop_rel": "/images/national-wife-appreciation-day.jpg"
+ },
+ "/images/national-nachos-day.jpg": {
+  "fingerprint": "1789196497994868428:335504:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-nachos-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-nachos-day.jpg"
+ },
+ "/images/national-wildlife-day.jpg": {
+  "fingerprint": "1787839026857183488:289727:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-wildlife-day-sm.jpg",
+   "w": 750,
+   "h": 490
+  },
+  "desktop_rel": "/images/national-wildlife-day.jpg"
+ },
+ "/images/national-days-in-october.jpg": {
+  "fingerprint": "1789196497865119560:163287:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-days-in-october-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-days-in-october.jpg"
+ },
+ "/images/national-burrito-day.jpg": {
+  "fingerprint": "1789196497800770345:130985:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-burrito-day-sm.jpg",
+   "w": 750,
+   "h": 404
+  },
+  "desktop_rel": "/images/national-burrito-day.jpg"
+ },
+ "/images/october-birthstone-opal.jpg": {
+  "fingerprint": "1789196498402284271:351087:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/october-birthstone-opal-sm.jpg",
+   "w": 750,
+   "h": 636
+  },
+  "desktop_rel": "/images/october-birthstone-opal.jpg"
+ },
+ "/images/corn-moon.jpg": {
+  "fingerprint": "1789196497123622896:109922:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/corn-moon-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/corn-moon.jpg"
+ },
+ "/images/1988-chinese-zodiac-dragon-figure.jpg": {
+  "fingerprint": "1789196496843774125:51226:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/1988-chinese-zodiac-dragon-figure-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/1988-chinese-zodiac-dragon-figure.jpg"
+ },
+ "/images/national-mango-day.jpg": {
+  "fingerprint": "1789196497970915371:166067:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/national-mango-day-sm.jpg",
+   "w": 750,
+   "h": 562
+  },
+  "desktop_rel": "/images/national-mango-day.jpg"
+ },
+ "/images/national-apple-day.jpg": {
+  "fingerprint": "1789196497757703358:95622:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/national-apple-day.jpg"
+ },
+ "/images/libra-birthstone-opal-coober-pedy.jpg": {
+  "fingerprint": "1789196497559580594:93496:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/libra-birthstone-opal-coober-pedy-sm.jpg",
+   "w": 750,
+   "h": 333
+  },
+  "desktop_rel": "/images/libra-birthstone-opal-coober-pedy.jpg"
+ },
+ "/images/1991-chinese-zodiac-goat-figure.jpg": {
+  "fingerprint": "1789196496879044492:168064:contain:None:750:avif1",
+  "result": {
+   "mobile": "/images/responsive/1991-chinese-zodiac-goat-figure-sm.jpg",
+   "w": 750,
+   "h": 500
+  },
+  "desktop_rel": "/images/1991-chinese-zodiac-goat-figure.jpg"
+ },
+ "/images/1992-chinese-zodiac-monkey-figure.jpg": {
+  "fingerprint": "1789196496881941486:23659:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/1992-chinese-zodiac-monkey-figure.jpg"
+ },
+ "/images/november-birthstone-topaz-gems.jpg": {
+  "fingerprint": "1789196498261450671:33808:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/november-birthstone-topaz-gems.jpg"
+ },
+ "/images/april-birthstone-rough-diamond-kimberley.jpg": {
+  "fingerprint": "1789196496994587057:37253:contain:None:750:avif1",
+  "result": null,
+  "desktop_rel": "/images/april-birthstone-rough-diamond-kimberley.jpg"
+ }
+}

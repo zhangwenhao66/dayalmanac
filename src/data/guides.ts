@@ -2954,7 +2954,7 @@ export const guides: Guide[] = [
     "title": "National Taco Day 2026: October 6, Not October 4 Anymore",
     "description": "National Taco Day was October 4 for years. In September 2024, Taco Bell and the registrar moved it to the first Tuesday of October, making 2026's date October 6.",
     "published": "2026-08-09",
-    "updated": "2026-08-29",
+    "updated": "2026-09-15",
     "coreSummary": "National Taco Day no longer falls on a fixed date. From 2009 through 2023 it was October 4 every year; in September 2024, National Day Calendar and Taco Bell jointly moved it to the first Tuesday of October so it always lands on Taco Tuesday. That makes it October 6, 2026, not October 4, which many older listings still show.",
     "dateRule": {
       "kind": "nth-weekday",
@@ -2989,7 +2989,7 @@ export const guides: Guide[] = [
           "weekday": "Tuesday"
         }
       ],
-      "caveat": "From 2009 through 2023, National Taco Day was fixed on October 4, and most of the internet still describes it that way. National Today's own page, as indexed for 2026, still lists \"October 4, 2026,\" which is a Sunday; that is out of date. In September 2024, Taco Bell, which had spent the prior year freeing the phrase \"Taco Tuesday\" from trademark restrictions nationwide, worked with National Day Calendar, the self-described registrar of the observance since 2013, to move the date permanently to the first Tuesday of October. National Day Calendar founder Marlo Anderson confirmed the change under his own name. The new rule first applied in 2024, moving that year's observance from Friday, October 4 to Tuesday, October 1. It is not a one-time promotional stunt. In 2025, the actual deals run by both Taco Bell and Del Taco, the chain whose 2009 press release popularized October 4 in the first place, landed on Tuesday, October 7, not October 4. For 2026, the first Tuesday of October is October 6. Sites that have not updated their listings will still show October 4."
+      "caveat": "From 2009 through 2023, National Taco Day was fixed on October 4, and most of the internet still describes it that way. National Today's page, as indexed for 2026, still lists \"October 4, 2026,\" which is a Sunday; that is out of date. In September 2024, Taco Bell, which had spent the prior year freeing the phrase \"Taco Tuesday\" from trademark restrictions nationwide, worked with National Day Calendar, the self-described registrar of the observance since 2013, to move the date permanently to the first Tuesday of October. National Day Calendar founder Marlo Anderson confirmed the change under his own name. The new rule first applied in 2024, moving that year's observance from Friday, October 4 to Tuesday, October 1. It is not a one-time promotional stunt. In 2025, the actual deals run by both Taco Bell and Del Taco, the chain whose 2009 press release popularized October 4 in the first place, landed on Tuesday, October 7, not October 4. For 2026, the first Tuesday of October is October 6. Sites that have not updated their listings will still show October 4."
     },
     "founding": {
       "status": "documented",
@@ -3012,7 +3012,7 @@ export const guides: Guide[] = [
         "body": [
           "For fifteen years, National Taco Day meant October 4. That changed on September 17, 2024, when Taco Bell and National Day Calendar jointly announced they were moving the observance to the first Tuesday of October, permanently, so it would always coincide with the chain's long-running \"Taco Tuesday\" promotion.",
           "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;For years, we've celebrated National Taco Day on October 4th, but it's always felt like there was a bigger opportunity to align it with something even more special&mdash;Taco Tuesday. &hellip; Thanks to Taco Bell's efforts, we're excited to officially move National Taco Day to the first Tuesday in October, creating the Taco Tuesday of all Taco Tuesdays.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">Marlo Anderson, founder, National Day Calendar, September 17, 2024</p></div>",
-          "The change was not cosmetic. It took effect immediately: 2024's observance moved from Friday, October 4 to Tuesday, October 1, with National Day Calendar's own site updating its listing to match. The following year, both Taco Bell and Del Taco ran their National Taco Day promotions on Tuesday, October 7, 2025, not October 4. For 2026, the first Tuesday of October is October 6.",
+          "The change was not cosmetic. It took effect immediately: 2024's observance moved from Friday, October 4 to Tuesday, October 1, with National Day Calendar's listing updated to match. The following year, both Taco Bell and Del Taco ran their National Taco Day promotions on Tuesday, October 7, 2025, not October 4. For 2026, the first Tuesday of October is October 6.",
           "The gap between the new rule and old habit is easy to check. National Today's page for the day, live and indexed for 2026 at the time this was written, still lists \"October 4, 2026.\" October 4, 2026 is a Sunday. The two biggest players in the observance's own history, the chain that popularized it and the entity that registers it, have both moved on. A large share of the secondary calendar sites that copy from each other have not."
         ]
       },
@@ -3049,27 +3049,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What day is National Taco Day in 2026?",
-        "answer": "October 6, 2026, a Tuesday. That follows the rule National Day Calendar and Taco Bell set in September 2024: the first Tuesday of October, every year. Some calendar sites have not updated and still list October 4, 2026, which falls on a Sunday."
+        "answer": "Tuesday, October 6, 2026. Taco Bell pushed for the pairing, and the registrar signed off back in 2024, locking it to a Taco Tuesday for good. Older calendar listings that never got the memo are still stuck on the old date."
       },
       {
         "question": "Why did National Taco Day move from October 4?",
-        "answer": "Taco Bell asked National Day Calendar to move it after Taco Bell legally freed the phrase \"Taco Tuesday\" from trademark restrictions in all 50 states in October 2023. With the phrase no longer owned by anyone, National Day Calendar founder Marlo Anderson agreed in September 2024 to permanently shift National Taco Day to the first Tuesday of October, so the two would always coincide."
+        "answer": "The move became possible once Taco Bell finished clearing away every state-level trademark on \"Taco Tuesday\" in October 2023, ending years where other chains held rights to the phrase in parts of the country. With that obstacle gone, Marlo Anderson, who oversees the group that registers the observance, agreed a year later to make the shift stick for good, hooking the date to whichever Tuesday opens October each year."
       },
       {
         "question": "Who actually started National Taco Day?",
-        "answer": "No single named person is credited with choosing October 4 specifically. Del Taco's 2009 press release is the first clearly documented company to publicly promote that date, but it followed an earlier, unattributed shift to October 4 in \"books and websites\" around 2004, after a rejected 2000 trademark attempt by Chuy's Tex-Mex for a different date, June 12."
+        "answer": "Nobody on record picked October 4 specifically. The earliest company to publicly champion that date was Del Taco, in a 2009 promotional release, but uncredited print and web sources had already been citing October 4 going back to around 2004, following a rejected year-2000 trademark bid by Chuy's Tex-Mex that had aimed for June 12 instead."
       },
       {
         "question": "Is National Taco Day a federal holiday?",
-        "answer": "No. It has no legal or governmental status. Government offices, banks, and postal service operate on their normal schedule on National Taco Day, regardless of which date is used."
+        "answer": "No. Nothing about the observance carries the force of law. Banks, the postal service, and other government offices all keep their normal hours no matter which Tuesday the date happens to fall on."
       },
       {
         "question": "Is this the same National Taco Day that Congress recognized in 1968?",
-        "answer": "No. Congressman Henry B. Gonzalez designated May 3, 1968 as National Taco Day, tied to a San Antonio civic group called the National Taco Council. That observance faded from public record after 1980 and has no documented connection to the October 4 date that emerged independently in the 2000s."
+        "answer": "Different observance entirely. The 1968 designation came from a San Antonio congressman honoring a local civic group on his own birthday, May 3, and the tradition died out by the early 1980s. Nobody who brought back October 4 decades later drew any link to that earlier week."
       },
       {
         "question": "Does Taco Bell have $1 tacos every Tuesday?",
-        "answer": "Not as a fixed weekly deal. Taco Bell's Rewards app runs \"Tuesday Drops,\" a different discounted item most Tuesdays, a $1 Burrito Supreme one week, a $1 Meximelt or Quesarito another, available first-come, first-served to a capped number of members rather than a standing $1-taco guarantee."
+        "answer": "Not as a standing weekly guarantee. The chain's Rewards app runs \"Tuesday Drops,\" a rotating discounted item, a $1 Burrito Supreme one week, a $1 Meximelt or Quesarito another, released to a capped number of members on a first-come, first-served basis rather than the same $1 taco every week."
+      },
+      {
+        "question": "Does Taco Bell run a special $1 taco deal specifically on National Taco Day?",
+        "answer": "It has in recent years, and the deal is bigger than a typical Tuesday Drop. For the October 7, 2025 observance, Rewards members could redeem a $1 Cantina Chicken Soft Taco through four separate capped drops in the app at 11 a.m., 1 p.m., 3 p.m., and 5 p.m. Pacific time, 25,000 redemptions per drop, plus a final 7 p.m. drop offering a year's worth of Taco Tuesday gift cards to 100 members. That was a one-day promotion built around the holiday itself, not the same rotating item as an ordinary Tuesday Drop, and the specific menu item and prices aren't guaranteed to repeat the same way in 2026."
       }
     ],
     "sources": [

@@ -1336,6 +1336,10 @@ export const guides: Guide[] = [
       {
         "question": "Is National Black Cat Day on August 17 or October 27?",
         "answer": "Neither date is wrong, they're two different holidays. August 17 is Black Cat Appreciation Day, a US observance founded in 2011 by Wayne H. Morris. October 27 is National Black Cat Day, a separate UK observance launched the same year by the charity Cats Protection. Both are distinct from National Cat Day itself, October 29."
+      },
+      {
+        "question": "How rare is a 100% black cat?",
+        "answer": "No official count exists for cats with zero white hairs. Black cats overall make up an estimated 18% of the general cat population, but genetics work against a fully solid coat: the white spotting gene is dominant, so even a cat carrying black coloring can end up with a stray white patch on its paws, chest, or whiskers. A cat with none of that spotting is less common than one with at least a fleck of white, though no study has put an exact number on how much rarer."
       }
     ],
     "sources": [
@@ -1506,6 +1510,10 @@ export const guides: Guide[] = [
       {
         "question": "Do dogs cry at the end of life?",
         "answer": "Not the way humans do. PetMD's veterinary guidance on end-of-life dogs describes physical decline, like muscle loss and labored breathing, rather than an emotional goodbye; any whining or vocalizing in a dog's final days is generally tied to pain, anxiety, or confusion rather than an intentional expression of grief."
+      },
+      {
+        "question": "Do dogs like sleeping with humans?",
+        "answer": "Mostly yes, based on the research. A Mayo Clinic Proceedings study tracked 40 healthy adults and their dogs for seven nights each and found that owners with a dog in the bedroom, but off the bed, kept 83% sleep efficiency, about the same as sleeping alone. Dogs actually on the bed cut into that number more. The American Kennel Club ties the preference for co-sleeping to dogs' pack instincts as descendants of wolves, animals that bed down together for warmth and security."
       }
     ],
     "sources": [
@@ -2711,6 +2719,10 @@ export const guides: Guide[] = [
       {
         "question": "What is the Red Ribbon Week theme for 2026?",
         "answer": "\"Make a Difference. Be a Hero. Stay Drug Free.™,\" selected through the National Family Partnership's annual student theme contest. The winning slogan was submitted by Ava Tackett, a student at Griswold Middle School in Griswold, Connecticut."
+      },
+      {
+        "question": "What is the theme for World Drug Day in 2026?",
+        "answer": "That's a different observance than Red Ribbon Week. World Drug Day, formally the International Day Against Drug Abuse and Illicit Trafficking, falls June 26 and is run by the UN Office on Drugs and Crime, not the DEA or National Family Partnership groups behind Red Ribbon Week. UNODC's 2026 theme is \"The World Drug Problem: Persisting Issues, New Challenges, Innovative Responses.\""
       }
     ],
     "sources": [
@@ -7373,6 +7385,14 @@ export const guides: Guide[] = [
       {
         "question": "What color ribbon is worn for lung cancer?",
         "answer": "White. The Colorado couple Heidi and Pierre Nafman-Onda made the first plywood white ribbon for their own porch in fall 2020, and the effort grew into The White Ribbon Project, a standing nonprofit, within about six months."
+      },
+      {
+        "question": "Can you live long with lung cancer?",
+        "answer": "Increasingly, yes, though the outlook still depends heavily on the stage at diagnosis. The American Cancer Society's 2026 statistics report puts overall five-year relative survival at 28%, up from 12% in the late 1970s. Caught early, that figure rises to 64%; found only after the disease has already spread widely, it falls to around 10%."
+      },
+      {
+        "question": "Why do 90% of smokers not get lung cancer?",
+        "answer": "An estimated 10% to 20% of lifelong smokers actually develop lung cancer, according to the American Cancer Society and CDC. Researchers haven't fully explained why the rest don't, but ongoing studies point to differences in how individual smokers' lung cells repair DNA damage from tobacco smoke, on top of separate risk factors like radon exposure, air pollution, and family history that stack with smoking rather than substitute for it."
       }
     ],
     "sources": [
@@ -7787,6 +7807,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Mexican Independence Day a public holiday in the United States?",
         "answer": "No. It falls within National Hispanic Heritage Month, the U.S. observance running September 15 through October 15, but U.S. federal offices and most workplaces stay open on September 16. It's a legal holiday in Mexico, not in the United States."
+      },
+      {
+        "question": "Is September 15th a holiday in Mexico?",
+        "answer": "Not officially. Article 74 of Mexico's Federal Labor Law lists September 16 as the mandatory paid rest day, not the 15th. Employers aren't legally required to give workers the 15th off, even though that's the night the president's Grito ceremony and most of the public celebrations actually happen."
       }
     ],
     "sources": [
@@ -8847,6 +8871,14 @@ export const guides: Guide[] = [
       {
         "question": "What color ribbon is for ovarian cancer?",
         "answer": "Teal, used by the National Ovarian Cancer Coalition, OCRA, and international partner organizations. It's most often attributed to the Ovarian Cancer National Alliance, a precursor to today's OCRA, introducing it around 1994 or 1995, though that specific attribution rests on secondary sources rather than an official history page."
+      },
+      {
+        "question": "What is the survival rate for ovarian cancer for 10 years?",
+        "answer": "The American Cancer Society doesn't publish a 10-year figure; its statistics, drawn from the National Cancer Institute's SEER database, only go out to five years. For the most common form, invasive epithelial ovarian cancer, the current five-year relative survival rate is 92% when caught while still localized, 71% once it has spread regionally, 32% after it reaches distant organs, and 51% across all stages combined."
+      },
+      {
+        "question": "When does ovarian cancer come back?",
+        "answer": "Often within the first year and a half. Research reviewed by Healthline puts the share of patients who relapse within 18 months of finishing treatment at around 80%, though the risk varies sharply by original stage, from roughly 25% for early-stage disease to more than 80% for advanced cases. Recurrence can still happen years later in cancers that responded well to chemotherapy, just less often."
       }
     ],
     "sources": [
@@ -9036,6 +9068,14 @@ export const guides: Guide[] = [
       {
         "question": "Which country is the quesadilla originally from?",
         "answer": "Mexico. The dish dates to the country's colonial era, long before V&V Supremo built National Quesadilla Day around it in 2019 to promote its own cheese brand. The observance is a recent American marketing invention; the food it celebrates isn't."
+      },
+      {
+        "question": "Does Chick-fil-A have a quesadilla?",
+        "answer": "No. As of 2026, quesadilla doesn't appear anywhere on Chick-fil-A's official menu, including its Kid's Meal lineup, unlike the chicken-and-cheese items the chain does sell nationwide."
+      },
+      {
+        "question": "Does Chipotle still offer quesadillas?",
+        "answer": "Yes, but only through the app or Chipotle.com. Chipotle made its fajita quesadilla a permanent digital-only item in March 2023, after a version inspired by a viral TikTok trend went semi-official the year before. It isn't something a customer can order by walking up to the counter; Chipotle has said keeping it digital-only helps protect prep times for regular walk-in orders."
       }
     ],
     "sources": [
@@ -9197,6 +9237,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Galentine's Day for single women only?",
         "answer": "No. The founding premise, per Leslie Knope's original line from the 2010 episode, is that women set aside their husbands and boyfriends for the morning to celebrate each other, not that participants can't have partners. It's built around female friendship, not relationship status."
+      },
+      {
+        "question": "Is Galentines for single girls only?",
+        "answer": "No. In Leslie Knope's original Parks and Recreation pitch, she describes it as a chance for her women friends to gather regardless of who is or isn't dating someone. Coverage from outlets including Time and Vice has pushed back specifically on the idea that it's a consolation holiday for single women, arguing it was always meant as a celebration of friendship open to anyone."
       }
     ],
     "sources": [
@@ -9510,6 +9554,10 @@ export const guides: Guide[] = [
       {
         "question": "What is an adoption anniversary called?",
         "answer": "\"Gotcha Day\" is the most common term, per Wikipedia, marking the anniversary of the day a child joined their family, sometimes a different date than the legal finalization. It's also called Family Day or Homecoming Day, and the term \"Gotcha Day\" itself is considered offensive by some adoptees, so families don't use it universally."
+      },
+      {
+        "question": "What is the color for adoption?",
+        "answer": "White, most often. Ribbon-color guides from groups like Crestline and Awareness Gallery list white for adoption awareness, tied to themes of peace and new beginnings. Like most awareness-ribbon colors, though, there's no central registering body, so the color was never formally trademarked the way some medical-awareness ribbons were."
       }
     ],
     "sources": [
@@ -9687,6 +9735,10 @@ export const guides: Guide[] = [
       {
         "question": "Is \"Anti-Bullying Day\" the same as National Bullying Prevention Month?",
         "answer": "No, and \"Anti-Bullying Day\" itself refers to more than one thing. The UK's Anti-Bullying Week, organized by the Anti-Bullying Alliance since 2004, runs the third week of November, separate from PACER's US-based National Bullying Prevention Month covered on this page, from STOMP Out Bullying's October World Day of Bullying Prevention, and from Canada's Pink Shirt Day, held the last Wednesday of February."
+      },
+      {
+        "question": "What is the theme for Anti-Bullying Week in 2026?",
+        "answer": "\"Break the Silence.\" The Anti-Bullying Alliance, which runs the UK's Anti-Bullying Week (November 16-20 in 2026), built the theme around more than 200 children and young people describing the silence that often surrounds being bullied. It's a separate British campaign from National Bullying Prevention Month, which PACER runs in the U.S."
       }
     ],
     "sources": [
@@ -11841,6 +11893,10 @@ export const guides: Guide[] = [
       {
         "question": "What stone is April's zodiac sign, Taurus?",
         "answer": "Sapphire, per gemologist George Frederick Kunz's 1913 zodiac table, reproduced on Wikipedia and already checked elsewhere on this site against September's and January's zodiac-stone claims. That's a separate, older tradition from the monthly birthstone list, which assigns April's actual calendar month diamond alone."
+      },
+      {
+        "question": "Does April have another birthstone besides diamond?",
+        "answer": "Not on the current U.S. trade list, where diamond has been April's only stone since 1912. Older and alternate lists disagree: sapphire tops some of the earliest historical birthstone charts for April, and jewelers today commonly market white topaz, a softer, less expensive stone, as a diamond look-alike for buyers who want the color without the price."
       }
     ],
     "sources": [

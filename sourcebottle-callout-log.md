@@ -55,3 +55,14 @@
 - **Deadline**：2026-09-22 17:00（鼠标真实点击日历控件选中）。
 - **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `6d4e8b9791885d604680578e7820efe9`。
 - **上线复核**：⏳ 待下次任务运行时补查。
+
+### 2026-09-15（周二，正常排期，SourceBottle任务恢复"最久未发布优先"遍历，本站排入本轮六站之一）
+
+- **问题标题**：Nonprofit and cause-marketing pros: a 'percentage of proceeds' or awareness-month promotion that gave a lot less than customers assumed?
+- **角度**：绑定`breast-cancer-awareness-month`一文讲的真实起源——Breast Cancer Awareness Month 1985年由药企（后来的AstraZeneca前身）发起，美国癌症协会官方材料甚至不点名这个企业合作方，且没有永久性法律每年自动续期这个观察日，全靠历届总统逐年重新发布公告。征集非营利/公益营销从业者举出真实案例——某个"部分收益捐赠"促销或awareness-month合作，实际捐出的金额远低于消费者预期，或赞助方本身存在令人不适的利益冲突（俗称pinkwashing一类）。与此前问过的National Day起源不可考角度（08-04）、生辰石清单分歧角度（08-12）、联邦立法资质角度（08-18）、机构官方创立故事对不上档案角度（08-25）均不重叠——这次聚焦cause-marketing促销本身的透明度和利益冲突，是全新的消费者欺骗性角度而非单纯起源考据。
+- **绑定文章**：DayAlmanac `breast-cancer-awareness-month`（Breast Cancer Awareness Month: All of October, and Who Started It）。
+- **分类标签**：Topics = General + PR, Media & Marketing；Countries = Australia + UK & Republic of Ireland + Canada + United States。
+- **表单设置**：Job title = Content Creator；Organisation = DayAlmanac；Contact = Email；Unpaid；Email address 和 Contact email 均填 `contact@dayalmanac.com`。
+- **Deadline**：2026-09-29 17:00（鼠标真实点击日历控件选中29日，未直接写文本框，符合SKILL.md第0条硬规则）。
+- **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `8cd4850b9b3a63f1d4588a8c618a8dfc`。
+- **上线复核**：⏳ 待下次任务运行时补查。本次运行未做历史pending条目复核（时间所限），下次运行时应补做，包括08-25条目`6d4e8b9791885d604680578e7820efe9`。

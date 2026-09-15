@@ -181,7 +181,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "October 3 every year. The date does not shift for weekends or weekdays.",
       "source": {
-        "label": "National Day Calendar — National Boyfriend Day, October 3",
+        "label": "National Day Calendar: National Boyfriend Day, October 3",
         "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       },
       "occurrences": [
@@ -216,7 +216,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles rather than anything contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
       "source": {
-        "label": "National Day Calendar — National Boyfriend Day (history section)",
+        "label": "National Day Calendar: National Boyfriend Day (history section)",
         "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       }
     },
@@ -315,31 +315,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Day Calendar — National Boyfriend Day, October 3",
+        "label": "National Day Calendar: National Boyfriend Day, October 3",
         "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
       },
       {
-        "label": "National Today — National Boyfriend Day",
+        "label": "National Today: National Boyfriend Day",
         "url": "https://nationaltoday.com/national-boyfriend-day/"
       },
       {
-        "label": "Dictionary.com Pop Culture Dictionary — National Boyfriend Day",
+        "label": "Dictionary.com Pop Culture Dictionary: National Boyfriend Day",
         "url": "https://www.dictionary.com/culture/pop-culture/national-boyfriend-day"
       },
       {
-        "label": "Holiday Insights — National Boyfriends Day, October 3",
+        "label": "Holiday Insights: National Boyfriends Day, October 3",
         "url": "https://www.holidayinsights.com/moreholidays/october/national-boyfriends-day.htm"
       },
       {
-        "label": "Wikipedia — National Boyfriend Day",
+        "label": "Wikipedia: National Boyfriend Day",
         "url": "https://en.wikipedia.org/wiki/National_Boyfriend_Day"
       },
       {
-        "label": "Bustle (October 3, 2017) — people celebrating imaginary significant others",
+        "label": "Bustle (October 3, 2017): people celebrating imaginary significant others",
         "url": "https://www.bustle.com/p/its-national-boyfriend-day-people-on-twitter-are-celebrating-by-honoring-their-imaginary-significant-others-2776400"
       },
       {
-        "label": "Sprout Social — National Boyfriend Day social media holiday listing",
+        "label": "Sprout Social: National Boyfriend Day social media holiday listing",
         "url": "https://sproutsocial.com/social-media-holidays/national-boyfriend-day/"
       }
     ],
@@ -359,7 +359,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "September 25 every year",
       "source": {
-        "label": "National Day Calendar — National Daughter's Day, September 25",
+        "label": "National Day Calendar: National Daughter's Day, September 25",
         "url": "https://nationaldaycalendar.com/celebrations/national-daughters-day-september-25"
       },
       "occurrences": [
@@ -394,7 +394,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "No one has produced a founder, a registration, or a proclamation for the September 25 observance. National Day Calendar, the largest US registrar of these days, says on its own entry that it \"continues researching the origins of this family holiday.\" Snopes, which searched newspaper archives in 2021, concluded that the exact origins of a late-September National Daughters Day are unclear. The claim repeated across most listicle sites, that the Indian greeting card company Archies Limited created the day in 2007, is a real claim with a real interview behind it, but it describes the Indian observance on the fourth Sunday in September rather than the American September 25 date, and in that 2007 interview the company's managing director took only partial credit for the idea. The oldest American records point somewhere else again: a 1932 newspaper mention of a Daughters of Union Veterans event, and a 1950 congressional bill for a date in April.",
       "source": {
-        "label": "Snopes — fact check on the origins of National Daughters Day (2021)",
+        "label": "Snopes: fact check on the origins of National Daughters Day (2021)",
         "url": "https://www.snopes.com/fact-check/national-daughters-day-privacy/"
       }
     },
@@ -488,35 +488,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Day Calendar — National Daughter's Day, September 25",
+        "label": "National Day Calendar: National Daughter's Day, September 25",
         "url": "https://nationaldaycalendar.com/celebrations/national-daughters-day-september-25"
       },
       {
-        "label": "National Day Calendar — International Daughters Day, fourth Sunday in September",
+        "label": "National Day Calendar: International Daughters Day, fourth Sunday in September",
         "url": "https://nationaldaycalendar.com/celebrations/international-daughters-day-fourth-sunday-in-september"
       },
       {
-        "label": "Snopes — Is \"National Daughters Day\" Just a Sinister Plot To Extract Private Data? (Dan MacGuill, October 1, 2021)",
+        "label": "Snopes: Is \"National Daughters Day\" Just a Sinister Plot To Extract Private Data? (Dan MacGuill, October 1, 2021)",
         "url": "https://www.snopes.com/fact-check/national-daughters-day-privacy/"
       },
       {
-        "label": "Congressional Record, March 31, 1950, p. 4444 — H.R. 7938 introduced by Rep. Steed (by request)",
+        "label": "Congressional Record, March 31, 1950, p. 4444: H.R. 7938 introduced by Rep. Steed (by request)",
         "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt4/pdf/GPO-CRECB-1950-pt4-3-1.pdf"
       },
       {
-        "label": "Business Today — Daughters Day coverage dated September 22, 2024 (India, fourth Sunday)",
+        "label": "Business Today: Daughters Day coverage dated September 22, 2024 (India, fourth Sunday)",
         "url": "https://www.businesstoday.in/india/story/happy-daughters-day-2024-60-heartfelt-wishes-messages-and-whatsapp-texts-for-parents-to-share-with-their-daughters-446931-2024-09-22"
       },
       {
-        "label": "National Day Calendar — National Son's and Daughter's Day, August 11",
+        "label": "National Day Calendar: National Son's and Daughter's Day, August 11",
         "url": "https://nationaldaycalendar.com/celebrations/national-sons-and-daughters-day-august-11"
       },
       {
-        "label": "United Nations — International Day of the Girl Child, October 11 (resolution 66/170, adopted December 19, 2011)",
+        "label": "United Nations: International Day of the Girl Child, October 11 (resolution 66/170, adopted December 19, 2011)",
         "url": "https://www.un.org/en/observances/girl-child-day"
       },
       {
-        "label": "National Today — National Daughters Day (September 25; describes origins as obscure)",
+        "label": "National Today: National Daughters Day (September 25; describes origins as obscure)",
         "url": "https://nationaltoday.com/national-daughters-day/"
       }
     ],
@@ -720,7 +720,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "September 29 in the United States, the same calendar date every year. No statute, proclamation or founding body establishes it as a recurring date; September 29 is simply the date the observance is kept on, year after year.",
       "source": {
-        "label": "National Coffee Association — National Coffee Day on Capitol Hill",
+        "label": "National Coffee Association: National Coffee Day on Capitol Hill",
         "url": "https://www.ncausa.org/Newsroom/National-Coffee-Day-gives-Grounds-for-Celebration-on-Capitol-Hill"
       },
       "occurrences": [
@@ -904,7 +904,7 @@ export const guides: Guide[] = [
       "kind": "offset",
       "text": "The first Sunday in September after Labor Day. Labor Day is the first Monday in September (5 U.S.C. § 6103(a)), so National Grandparents Day is the Sunday six days after that Monday, always falling between September 7 and September 13.",
       "source": {
-        "label": "36 U.S.C. § 125 — National Grandparents Day (Office of the Law Revision Counsel)",
+        "label": "36 U.S.C. § 125: National Grandparents Day (Office of the Law Revision Counsel)",
         "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section125&num=0&edition=prelim"
       },
       "occurrences": [
@@ -939,7 +939,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The campaign behind the observance was led by Marian McQuade (1917–2008) of Oak Hill, West Virginia, elected vice-chairman of the West Virginia Committee on Aging in 1971, who lobbied state and federal officials through the 1970s for a day honoring grandparents. West Virginia recognized a Grandparents Day of its own before the federal designation: Governor Arch Moore proclaimed the state's first observance in 1973, the same year Senator Jennings Randolph introduced a Senate resolution for a national one. Two further particulars circulate with it — that the state observance was held on May 27, and that West Virginia was the first state in the country to hold such a day. Both appear only in the West Virginia University finding aid, whose biographical note is adapted from Wikipedia, and e-WV says only that the 1973 observance was West Virginia's own first. Those two are not treated as established here. Federal recognition arrived in two stages: President Jimmy Carter issued Proclamation 4580 on August 3, 1978 designating September 10, 1978 alone, and Congress then made the designation annual through H.J. Res. 244, enacted as Pub. L. 96-62 on September 6, 1979. McQuade's campaign papers are held as a 25-linear-foot collection at West Virginia University.",
       "source": {
-        "label": "e-WV: The West Virginia Encyclopedia — Grandparents Day",
+        "label": "e-WV: The West Virginia Encyclopedia: Grandparents Day",
         "url": "https://www.wvencyclopedia.org/entries/2081"
       }
     },
@@ -1016,7 +1016,7 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "36 U.S.C. § 125 — National Grandparents Day, Office of the Law Revision Counsel",
+        "label": "36 U.S.C. § 125: National Grandparents Day, Office of the Law Revision Counsel",
         "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section125&num=0&edition=prelim"
       },
       {
@@ -1028,15 +1028,15 @@ export const guides: Guide[] = [
         "url": "https://uscode.house.gov/statutes/pl/96/62.pdf"
       },
       {
-        "label": "Proclamation 4580 — National Grandparents Day, 1978 (August 3, 1978)",
+        "label": "Proclamation 4580: National Grandparents Day, 1978 (August 3, 1978)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-4580-national-grandparents-day-1978"
       },
       {
-        "label": "Proclamation 4679 — National Grandparents Day (September 6, 1979)",
+        "label": "Proclamation 4679: National Grandparents Day (September 6, 1979)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-4679-national-grandparents-day"
       },
       {
-        "label": "5 U.S.C. § 6103 — Holidays (Labor Day, the first Monday in September)",
+        "label": "5 U.S.C. § 6103: Holidays (Labor Day, the first Monday in September)",
         "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim"
       },
       {
@@ -1048,19 +1048,19 @@ export const guides: Guide[] = [
         "url": "https://archives.lib.wvu.edu/repositories/2/resources/1523"
       },
       {
-        "label": "e-WV: The West Virginia Encyclopedia — Grandparents Day (Peggy Ross)",
+        "label": "e-WV: The West Virginia Encyclopedia: Grandparents Day (Peggy Ross)",
         "url": "https://www.wvencyclopedia.org/entries/2081"
       },
       {
-        "label": "e-WV: The West Virginia Encyclopedia — Holidays and Celebrations (Ken Sullivan)",
+        "label": "e-WV: The West Virginia Encyclopedia: Holidays and Celebrations (Ken Sullivan)",
         "url": "https://www.wvencyclopedia.org/entries/419"
       },
       {
-        "label": "Legge 31 luglio 2005, n. 159 — Istituzione della Festa nazionale dei nonni (Parlamento italiano)",
+        "label": "Legge 31 luglio 2005, n. 159: Istituzione della Festa nazionale dei nonni (Parlamento italiano)",
         "url": "https://www.parlamento.it/parlam/leggi/05159l.htm"
       },
       {
-        "label": "House of Commons of Canada, Debates (Hansard) No. 98, September 27, 1994 — Bill C-274 first reading",
+        "label": "House of Commons of Canada, Debates (Hansard) No. 98, September 27, 1994: Bill C-274 first reading",
         "url": "https://www.ourcommons.ca/DocumentViewer/en/35-1/house/sitting-98/hansard"
       },
       {
@@ -1081,7 +1081,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "October 16 every year in the United States, the date Patricia Bays Haroski chose in 1958 because it was her father's birthday. The calendar date itself does not move.",
       "source": {
-        "label": "Hallmark Corporate — National Boss Day",
+        "label": "Hallmark Corporate: National Boss Day",
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
       },
       "occurrences": [
@@ -1116,7 +1116,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday (he was also her boss at the time), and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and the calendar site Digital Hygge, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and no scan turns up a reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation. Every account, including this one, is repeating a secondhand telling rather than pointing at the primary document.",
       "source": {
-        "label": "Hallmark Corporate — National Boss Day",
+        "label": "Hallmark Corporate: National Boss Day",
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
       }
     },
@@ -1196,23 +1196,23 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hallmark Corporate — National Boss Day",
+        "label": "Hallmark Corporate: National Boss Day",
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
       },
       {
-        "label": "Wikipedia — Boss's Day",
+        "label": "Wikipedia: Boss's Day",
         "url": "https://en.wikipedia.org/wiki/Boss%27s_Day"
       },
       {
-        "label": "U.S. News & World Report — 5 Reasons Boss's Day Is Total BS (Alison Green)",
+        "label": "U.S. News & World Report: 5 Reasons Boss's Day Is Total BS (Alison Green)",
         "url": "https://money.usnews.com/money/blogs/outside-voices-careers/2015/10/12/4-reasons-bosss-day-is-total-bs"
       },
       {
-        "label": "SHRM — The Challenges of Showing Appreciation on Boss's Day",
+        "label": "SHRM: The Challenges of Showing Appreciation on Boss's Day",
         "url": "https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/the-challenges-of-showing-appreciation-on-boss-day.aspx"
       },
       {
-        "label": "Digital Hygge — Boss's Day",
+        "label": "Digital Hygge: Boss's Day",
         "url": "https://digitalhygge.com/boss-day/"
       }
     ],
@@ -1232,7 +1232,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "October 29 every year in the United States. No source describes a weekend-shift convention for this date.",
       "source": {
-        "label": "National Day Calendar — National Cat Day, October 29",
+        "label": "National Day Calendar: National Cat Day, October 29",
         "url": "https://nationaldaycalendar.com/celebrations/national-cat-day-october-29"
       },
       "occurrences": [
@@ -1267,7 +1267,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Colleen Paige, a pet and family lifestyle expert, founded National Cat Day in 2005. In her own stated mission, the goal was \"to help galvanize the public to recognize the number of cats that need to be rescued each year and also to encourage cat lovers to celebrate the cat(s) in their lives for the unconditional love and companionship they bestow upon us.\" Paige is a prolific founder of pet-themed US observances: she also created National Dog Day in 2004, plus National Puppy Day, National Mutt Day, National Wildlife Day, and National Beach Day, among others. Her account of founding Cat Day is repeated consistently, with the same name and year, by National Today, National Day Calendar, and Wikipedia; unlike this calendar's entry for National Boss's Day, Wikipedia's National Cat Day article carries no citation-needed tag on the founding claim. No source explains why she picked October 29 specifically, in contrast to National Dog Day, where she has stated the August 26 date marks the day her family adopted a shelter dog when she was a child. As with most observances on this calendar founded by a single private individual rather than a government body, there is no registration filing or trademark record available online to inspect independently; every account, including this one, is repeating Paige's own telling.",
       "source": {
-        "label": "National Today — National Cat Day",
+        "label": "National Today: National Cat Day",
         "url": "https://nationaltoday.com/national-cat-day/"
       }
     },
@@ -1344,39 +1344,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Today — National Cat Day",
+        "label": "National Today: National Cat Day",
         "url": "https://nationaltoday.com/national-cat-day/"
       },
       {
-        "label": "National Day Calendar — National Cat Day, October 29",
+        "label": "National Day Calendar: National Cat Day, October 29",
         "url": "https://nationaldaycalendar.com/celebrations/national-cat-day-october-29"
       },
       {
-        "label": "Wikipedia — National Cat Day",
+        "label": "Wikipedia: National Cat Day",
         "url": "https://en.wikipedia.org/wiki/National_Cat_Day"
       },
       {
-        "label": "Wikipedia — International Cat Day",
+        "label": "Wikipedia: International Cat Day",
         "url": "https://en.wikipedia.org/wiki/International_Cat_Day"
       },
       {
-        "label": "Catster — National Black Cat Appreciation Day",
+        "label": "Catster: National Black Cat Appreciation Day",
         "url": "https://www.catster.com/lifestyle/national-black-cat-appreciation-day/"
       },
       {
-        "label": "Cats Protection — The history of National Black Cat Day",
+        "label": "Cats Protection: The history of National Black Cat Day",
         "url": "https://www.cats.org.uk/cats-blog/history-of-national-black-cat-day"
       },
       {
-        "label": "Villarreal, Gebauer & Ha — Do Black Cats Look Less Adoptable? (Animals, March 2026, PubMed)",
+        "label": "Villarreal, Gebauer & Ha: Do Black Cats Look Less Adoptable? (Animals, March 2026, PubMed)",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41897846/"
       },
       {
-        "label": "ASPCA — U.S. Animal Shelter Statistics",
+        "label": "ASPCA: U.S. Animal Shelter Statistics",
         "url": "https://www.aspca.org/helping-shelters-people-pets/us-animal-shelter-statistics"
       },
       {
-        "label": "AlphaPaw — National Dog Day, Founder Colleen Paige",
+        "label": "AlphaPaw: National Dog Day, Founder Colleen Paige",
         "url": "https://learn.alphapaw.com/blog/august-26-is-national-dog-day-celebrate-with-founder-colleen-paige/"
       }
     ],
@@ -1396,7 +1396,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "August 26 every year in the United States. The date does not shift for weekends or weekdays.",
       "source": {
-        "label": "National Dog Day (official site) — About",
+        "label": "National Dog Day (official site): About",
         "url": "https://www.nationaldogday.com/about1"
       },
       "occurrences": [
@@ -1431,7 +1431,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Colleen Paige, a pet and family lifestyle expert, founded National Dog Day in 2004. Her own site states the date is personal: August 26 is the day her family adopted her first dog, a Sheltie, from a local shelter when she was ten years old. That is the version repeated by nearly every third-party source checked, including AlphaPaw and UPI. But the same organization's website also reproduces a second, different account: New York State Senate Resolution J2656, sponsored by Senator Terry Gipson and adopted June 20, 2013, states that National Dog Day \"was created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero.\" The resolution commemorates August 26, 2013 as that year's National Dog Day; it credits Paige as founder and repeats the 2004 date, but gives no reason at all for why August 26 specifically was chosen, and never mentions the childhood-adoption story. Neither document acknowledges the other's version. Paige also filed a federal trademark application for \"NATIONAL DOG DAY\" (U.S. Serial No. 78631456) on May 17, 2005, covering charitable fundraising services for dog adoption; records show the application drew a final refusal from the examining attorney in November 2006 and was formally abandoned in June 2007 for failure to respond. The ™ symbol displayed on the organization's website today reflects a common-law claim to the name, not a granted federal registration.",
       "source": {
-        "label": "National Dog Day (official site) — About",
+        "label": "National Dog Day (official site): About",
         "url": "https://www.nationaldogday.com/about1"
       }
     },
@@ -1518,35 +1518,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Dog Day (official site) — About",
+        "label": "National Dog Day (official site): About",
         "url": "https://www.nationaldogday.com/about1"
       },
       {
-        "label": "National Dog Day (official site) — Legislation",
+        "label": "National Dog Day (official site): Legislation",
         "url": "https://www.nationaldogday.com/legislation"
       },
       {
-        "label": "New York State Senate — Resolution J2656 (2013), National Dog Day",
+        "label": "New York State Senate: Resolution J2656 (2013), National Dog Day",
         "url": "https://www.nysenate.gov/legislation/resolutions/2013/2013-j2656"
       },
       {
-        "label": "Justia Trademarks — NATIONAL DOG DAY, Serial No. 78631456",
+        "label": "Justia Trademarks: NATIONAL DOG DAY, Serial No. 78631456",
         "url": "https://trademarks.justia.com/786/31/national-dog-day-78631456.html"
       },
       {
-        "label": "Wikipedia — International Dog Day",
+        "label": "Wikipedia: International Dog Day",
         "url": "https://en.wikipedia.org/wiki/International_Dog_Day"
       },
       {
-        "label": "ASPCA — U.S. Animal Shelter Statistics",
+        "label": "ASPCA: U.S. Animal Shelter Statistics",
         "url": "https://www.aspca.org/helping-shelters-people-pets/us-animal-shelter-statistics"
       },
       {
-        "label": "City of West Hollywood — World Dog Day 2025",
+        "label": "City of West Hollywood: World Dog Day 2025",
         "url": "https://www.weho.org/Home/Components/News/News/11660/1400"
       },
       {
-        "label": "AlphaPaw — National Dog Day, Founder Colleen Paige",
+        "label": "AlphaPaw: National Dog Day, Founder Colleen Paige",
         "url": "https://learn.alphapaw.com/blog/august-26-is-national-dog-day-celebrate-with-founder-colleen-paige/"
       }
     ],
@@ -1652,39 +1652,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "label": "Jewelers of America: Birthstone Jewelry Guide",
         "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       },
       {
-        "label": "GIA — December Birthstones",
+        "label": "GIA: December Birthstones",
         "url": "https://www.gia.edu/birthstones/december-birthstones"
       },
       {
-        "label": "GIA — Tanzanite History and Lore",
+        "label": "GIA: Tanzanite History and Lore",
         "url": "https://www.gia.edu/tanzanite-history-lore"
       },
       {
-        "label": "GIA — Zircon",
+        "label": "GIA: Zircon",
         "url": "https://www.gia.edu/zircon"
       },
       {
-        "label": "American Gem Society — History of Turquoise",
+        "label": "American Gem Society: History of Turquoise",
         "url": "https://www.americangemsociety.org/birthstones/december-birthstones/history-of-turquoise/"
       },
       {
-        "label": "International Colored Gemstone Association — Blue Zircon (Cambolite)",
+        "label": "International Colored Gemstone Association: Blue Zircon (Cambolite)",
         "url": "https://www.gemstone.org/blue-zircon-cambolite"
       },
       {
-        "label": "Live Science — Confirmed: Oldest Fragment of Early Earth Is 4.4 Billion Years Old",
+        "label": "Live Science: Confirmed: Oldest Fragment of Early Earth Is 4.4 Billion Years Old",
         "url": "https://www.livescience.com/43584-earth-oldest-rock-jack-hills-zircon.html"
       },
       {
-        "label": "IAJA — Four Gemstones Introduced by Tiffany & Co.",
+        "label": "IAJA: Four Gemstones Introduced by Tiffany & Co.",
         "url": "https://iaja.com/2024/10/16/four-gemstones-introduced-by-tiffany-co/"
       }
     ],
@@ -1696,7 +1696,7 @@ export const guides: Guide[] = [
     "slug": "virgo-dates",
     "category": "Zodiac Dates",
     "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
-    "description": "Virgo runs August 23–September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
+    "description": "Virgo runs August 23 to September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
     "updated": "2026-09-13",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year. Vedic sidereal astrology, built on a different reference point, puts Virgo roughly a month later, around September 17 to October 16. The actual astronomical constellation the sign borrows its name from holds the Sun longer still, from about September 16 to October 30. All three ranges are correctly stated by their own rules; there is no single authority whose ruling overrides the other two.",
@@ -1787,47 +1787,47 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Britannica — Zodiac",
+        "label": "Britannica: Zodiac",
         "url": "https://www.britannica.com/topic/zodiac"
       },
       {
-        "label": "Britannica — Virgo",
+        "label": "Britannica: Virgo",
         "url": "https://www.britannica.com/place/Virgo"
       },
       {
-        "label": "Wikipedia — Virgo (astrology)",
+        "label": "Wikipedia: Virgo (astrology)",
         "url": "https://en.wikipedia.org/wiki/Virgo_(astrology)"
       },
       {
-        "label": "EarthSky — Sun enters Virgo on September 16",
+        "label": "EarthSky: Sun enters Virgo on September 16",
         "url": "https://earthsky.org/astronomy-essentials/sun-passes-out-of-leo-and-into-virgo/"
       },
       {
-        "label": "Sky & Telescope — A Sign of the Times",
+        "label": "Sky & Telescope: A Sign of the Times",
         "url": "https://skyandtelescope.org/astronomy-news/observing-news/a-sign-of-the-times/"
       },
       {
-        "label": "Space.com — What's your zodiac sign? (It may not be what you think it is)",
+        "label": "Space.com: What's your zodiac sign? (It may not be what you think it is)",
         "url": "https://www.space.com/zodiac-sign-astrology-astronomy"
       },
       {
-        "label": "TIME — Where Do Zodiac Signs Come From?",
+        "label": "TIME: Where Do Zodiac Signs Come From?",
         "url": "https://time.com/5315377/are-zodiac-signs-real-astrology-history/"
       },
       {
-        "label": "AstroStyle — Virgo Dates",
+        "label": "AstroStyle: Virgo Dates",
         "url": "https://astrostyle.com/astrology/virgo-dates/"
       },
       {
-        "label": "Farmers' Almanac — Virgo Zodiac Sign",
+        "label": "Farmers' Almanac: Virgo Zodiac Sign",
         "url": "https://www.farmersalmanac.com/virgo-zodiac-sign"
       },
       {
-        "label": "Jewelers of America — Birthstones",
+        "label": "Jewelers of America: Birthstones",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
       },
       {
-        "label": "American Gem Society — Birthstones",
+        "label": "American Gem Society: Birthstones",
         "url": "https://www.americangemsociety.org/birthstones/"
       }
     ],
@@ -1923,39 +1923,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — Cancer (astrology)",
+        "label": "Wikipedia: Cancer (astrology)",
         "url": "https://en.wikipedia.org/wiki/Cancer_(astrology)"
       },
       {
-        "label": "Wikipedia — Tropic of Cancer",
+        "label": "Wikipedia: Tropic of Cancer",
         "url": "https://en.wikipedia.org/wiki/Tropic_of_Cancer"
       },
       {
-        "label": "Wikipedia — June solstice",
+        "label": "Wikipedia: June solstice",
         "url": "https://en.wikipedia.org/wiki/June_solstice"
       },
       {
-        "label": "U.S. Naval Observatory — Earth's Seasons",
+        "label": "U.S. Naval Observatory: Earth's Seasons",
         "url": "https://aa.usno.navy.mil/data/Earth_Seasons"
       },
       {
-        "label": "AstroStyle — Cancer Dates",
+        "label": "AstroStyle: Cancer Dates",
         "url": "https://astrostyle.com/astrology/cancer-dates/"
       },
       {
-        "label": "Farmers' Almanac — Cancer Zodiac Sign",
+        "label": "Farmers' Almanac: Cancer Zodiac Sign",
         "url": "https://www.farmersalmanac.com/zodiac-zone-meet-cancer"
       },
       {
-        "label": "EarthSky — Cancer: Here's your constellation",
+        "label": "EarthSky: Cancer: Here's your constellation",
         "url": "https://earthsky.org/constellations/cancer-heres-your-constellation/"
       },
       {
-        "label": "YourTango — Gemini-Cancer Cusp",
+        "label": "YourTango: Gemini-Cancer Cusp",
         "url": "https://www.yourtango.com/zodiac/gemini-cancer-cusp"
       },
       {
-        "label": "Ganesha Speaks — Karka Sankranti",
+        "label": "Ganesha Speaks: Karka Sankranti",
         "url": "https://www.ganeshaspeaks.com/festival-calendars/information/karka-sankranti/"
       }
     ],
@@ -2054,35 +2054,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — Gemini (astrology)",
+        "label": "Wikipedia: Gemini (astrology)",
         "url": "https://en.wikipedia.org/wiki/Gemini_(astrology)"
       },
       {
-        "label": "AstroStyle — Gemini Dates",
+        "label": "AstroStyle: Gemini Dates",
         "url": "https://astrostyle.com/astrology/gemini-dates/"
       },
       {
-        "label": "Farmers' Almanac — Gemini Zodiac Sign",
+        "label": "Farmers' Almanac: Gemini Zodiac Sign",
         "url": "https://www.farmersalmanac.com/zodiac-zone-meet-gemini"
       },
       {
-        "label": "MoonTracks — 2026-2028 Sun's Zodiac Sign Ingress Dates",
+        "label": "MoonTracks: 2026-2028 Sun's Zodiac Sign Ingress Dates",
         "url": "https://www.moontracks.com/sun_solar_ingress.html"
       },
       {
-        "label": "YourTango — Taurus-Gemini Cusp",
+        "label": "YourTango: Taurus-Gemini Cusp",
         "url": "https://www.yourtango.com/zodiac/taurus-gemini-cusp"
       },
       {
-        "label": "LoveToKnow — Taurus-Gemini Cusp",
+        "label": "LoveToKnow: Taurus-Gemini Cusp",
         "url": "https://www.lovetoknow.com/life/astrology/gemini-cusp"
       },
       {
-        "label": "EarthSky — Gemini: Here's your constellation",
+        "label": "EarthSky: Gemini: Here's your constellation",
         "url": "https://earthsky.org/constellations/gemini-heres-your-constellation/"
       },
       {
-        "label": "Ganesha Speaks — Mithuna Sankranti",
+        "label": "Ganesha Speaks: Mithuna Sankranti",
         "url": "https://www.ganeshaspeaks.com/festival-calendars/information/mithuna-sankranti-festival/"
       }
     ],
@@ -2192,31 +2192,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstones",
+        "label": "Jewelers of America: Birthstones",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
       },
       {
-        "label": "GIA — March Birthstones",
+        "label": "GIA: March Birthstones",
         "url": "https://www.gia.edu/birthstones/march-birthstones"
       },
       {
-        "label": "American Gem Society — March Birthstones",
+        "label": "American Gem Society: March Birthstones",
         "url": "https://www.americangemsociety.org/birthstones/march-birthstones/"
       },
       {
-        "label": "International Gem Society — Birthstone Chart: Modern and Traditional",
+        "label": "International Gem Society: Birthstone Chart: Modern and Traditional",
         "url": "https://www.gemsociety.org/article/birthstone-chart/"
       },
       {
-        "label": "Wikipedia — Birthstone",
+        "label": "Wikipedia: Birthstone",
         "url": "https://en.wikipedia.org/wiki/Birthstone"
       },
       {
-        "label": "Wikipedia — Aquamarine (gem)",
+        "label": "Wikipedia: Aquamarine (gem)",
         "url": "https://en.wikipedia.org/wiki/Aquamarine_(gem)"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       }
     ],
@@ -2316,27 +2316,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "label": "Jewelers of America: Birthstone Jewelry Guide",
         "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
       },
       {
-        "label": "GIA — September Birthstones",
+        "label": "GIA: September Birthstones",
         "url": "https://www.gia.edu/birthstones/september-birthstones"
       },
       {
-        "label": "American Gem Society — September Birthstone",
+        "label": "American Gem Society: September Birthstone",
         "url": "https://www.americangemsociety.org/birthstones/september-birthstone/"
       },
       {
-        "label": "International Gem Society — History of Birthstones",
+        "label": "International Gem Society: History of Birthstones",
         "url": "https://www.gemsociety.org/article/history-of-birthstones/"
       },
       {
-        "label": "Wikipedia — Birthstone",
+        "label": "Wikipedia: Birthstone",
         "url": "https://en.wikipedia.org/wiki/Birthstone"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       }
     ],
@@ -2348,7 +2348,7 @@ export const guides: Guide[] = [
     "slug": "scorpio-dates",
     "category": "Zodiac Dates",
     "title": "Scorpio Dates: October 23–November 21, or 24 to 22?",
-    "description": "Scorpio runs October 23–November 21 in tropical astrology, though Britannica dates it a day later. Sidereal astrology draws yet another line.",
+    "description": "Scorpio runs October 23 to November 21 in tropical astrology, though Britannica dates it a day later. Sidereal astrology draws yet another line.",
     "published": "2026-08-06",
     "updated": "2026-08-06",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Scorpio from October 23 to November 21, the range given by AstroStyle, Farmers' Almanac, and Wikipedia's own general description. Britannica is an outlier at the start, dating it to October 24, and Almanac.com is an outlier at the end, running the sign through November 22. Vedic sidereal astrology, anchored to a different reference point, runs Scorpio roughly a month later, from about November 16 to December 15. The actual astronomical constellation the sign is named for holds the Sun for barely a week, the shortest stretch of any zodiac constellation, before the Sun crosses into Ophiuchus, a thirteenth constellation the tropical system has never counted as a sign. None of the four dates is wrong; each is answering a different question.",
@@ -2431,39 +2431,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Britannica — Scorpius",
+        "label": "Britannica: Scorpius",
         "url": "https://www.britannica.com/place/Scorpius"
       },
       {
-        "label": "Wikipedia — Scorpio (astrology)",
+        "label": "Wikipedia: Scorpio (astrology)",
         "url": "https://en.wikipedia.org/wiki/Scorpio_(astrology)"
       },
       {
-        "label": "Wikipedia — Vṛścika",
+        "label": "Wikipedia: Vṛścika",
         "url": "https://en.wikipedia.org/wiki/V%E1%B9%9B%C5%9Bcika"
       },
       {
-        "label": "AstroStyle — Scorpio Dates",
+        "label": "AstroStyle: Scorpio Dates",
         "url": "https://astrostyle.com/astrology/scorpio-dates/"
       },
       {
-        "label": "Farmers' Almanac — Scorpio Zodiac Sign",
+        "label": "Farmers' Almanac: Scorpio Zodiac Sign",
         "url": "https://www.farmersalmanac.com/zodiac-zone-meet-scorpio"
       },
       {
-        "label": "Almanac.com — Scorpio Zodiac Sign",
+        "label": "Almanac.com: Scorpio Zodiac Sign",
         "url": "https://www.almanac.com/content/scorpio-zodiac-sign"
       },
       {
-        "label": "EarthSky — Sun enters Ophiuchus on November 30",
+        "label": "EarthSky: Sun enters Ophiuchus on November 30",
         "url": "https://earthsky.org/astronomy-essentials/sun-in-ophiuchus-november-30-to-december-18/"
       },
       {
-        "label": "Sky & Telescope — A Sign of the Times",
+        "label": "Sky & Telescope: A Sign of the Times",
         "url": "https://skyandtelescope.org/astronomy-news/observing-news/a-sign-of-the-times/"
       },
       {
-        "label": "TIME — Where Do Zodiac Signs Come From?",
+        "label": "TIME: Where Do Zodiac Signs Come From?",
         "url": "https://time.com/5315377/are-zodiac-signs-real-astrology-history/"
       }
     ],
@@ -2567,39 +2567,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GIA — January Birthstone",
+        "label": "GIA: January Birthstone",
         "url": "https://www.gia.edu/birthstones/january-birthstones"
       },
       {
-        "label": "GIA — Garnet Description",
+        "label": "GIA: Garnet Description",
         "url": "https://www.gia.edu/garnet-description"
       },
       {
-        "label": "GIA — Garnet History and Lore",
+        "label": "GIA: Garnet History and Lore",
         "url": "https://www.gia.edu/garnet-history-lore"
       },
       {
-        "label": "GIA Gems & Gemology — Garnets from Madagascar with a Color Change of Blue-Green to Purple",
+        "label": "GIA Gems & Gemology: Garnets from Madagascar with a Color Change of Blue-Green to Purple",
         "url": "https://www.gia.edu/gems-gemology/winter-1999-color-change-garnets-madagascar-schmetzer"
       },
       {
-        "label": "International Colored Gemstone Association — Tsavorite",
+        "label": "International Colored Gemstone Association: Tsavorite",
         "url": "https://www.gemstone.org/tsavorite"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       },
       {
-        "label": "Wikipedia — Birthstone",
+        "label": "Wikipedia: Birthstone",
         "url": "https://en.wikipedia.org/wiki/Birthstone"
       },
       {
-        "label": "International Gem Society — Birthstone Chart",
+        "label": "International Gem Society: Birthstone Chart",
         "url": "https://www.gemsociety.org/article/birthstone-chart/"
       },
       {
-        "label": "Etymonline — Garnet",
+        "label": "Etymonline: Garnet",
         "url": "https://www.etymonline.com/word/garnet"
       }
     ],
@@ -2619,7 +2619,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "Red Ribbon Week runs from October 23 through October 31 every year, a fixed nine-day span on the calendar not tied to a particular weekday or a \"last week of the month\" rule. The National Family Partnership (NFP), the nonprofit that has organized the National Red Ribbon Campaign annually since 1988, sets these exact dates, and the DEA's own program pages state the same October 23–31 range. The table below lists October 23, the starting date, for each year; the observance runs through October 31 in every case.",
       "source": {
-        "label": "DEA — Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
+        "label": "DEA: Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
         "url": "https://www.getsmartaboutdrugs.gov/rrw"
       },
       "occurrences": [
@@ -2654,7 +2654,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Red Ribbon Week traces to the 1985 murder of DEA Special Agent Enrique \"Kiki\" Camarena. On February 7, 1985, at 2:00 p.m., Camarena left the American Consulate in Guadalajara, Mexico to meet his wife for lunch; he had spent four and a half years undercover tracking Mexican drug traffickers and was due to be reassigned in three weeks. Five men forced him into a beige Volkswagen outside the consulate. His body was found on March 5 on a ranch outside Zamora, Mexico, roughly 60 miles from Guadalajara; an autopsy found he had been tortured and beaten. He was returned to the United States for burial three days later.\n\nCongressman Duncan Hunter, a member of the House Select Committee on Narcotics Abuse and Control, and Henry Lozano, Camarena's high school friend and the director of the drug-prevention group Teen Challenge, met after his death to organize \"Camarena Clubs\" in the El Cajon, California area. The first club started April 20, 1985, at Calexico Union High School, Camarena's own alma mater and class of 1968. The following week, club members and Congressman Hunter's wife, Lynne, presented First Lady Nancy Reagan with a \"Camarena Club Proclamation.\" That summer, the Virginia Federation of Parents and the Illinois Drug Education Alliance called on Americans nationally to wear red ribbons in his memory.\n\nThe national campaign became an annual event in 1988, when the National Family Partnership (NFP), a nonprofit founded in 1980 as the National Federation of Parents for Drug-Free Youth, coordinated the first National Red Ribbon Week, described by the DEA as an \"8-day celebration\" proclaimed by Congress with President and Mrs. Reagan serving as honorary chairpersons. NFP, headquartered in Miami and long led by Peggy B. Sapp, has run the campaign every year since, including its annual student theme contest.\n\nA caution on sources: Wikipedia's account of this history places the presentation to Nancy Reagan in 1986 and the Virginia/Illinois ribbon-wearing campaign \"the following year,\" in \"late March and April.\" The DEA's own current history page places both events within 1985 instead: the proclamation the week after the April 20, 1985 club launch, and the ribbon-wearing campaign that same summer. The two accounts describe the same sequence of events roughly a year apart. This page follows the DEA's own institutional history over the secondary account, but the discrepancy is unresolved rather than silently corrected.",
       "source": {
-        "label": "DEA — Red Ribbon Week History (Get Smart About Drugs)",
+        "label": "DEA: Red Ribbon Week History (Get Smart About Drugs)",
         "url": "https://www.getsmartaboutdrugs.gov/get-involved/red-ribbon-week-history"
       }
     },
@@ -2727,35 +2727,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "DEA — Red Ribbon Week History (Get Smart About Drugs)",
+        "label": "DEA: Red Ribbon Week History (Get Smart About Drugs)",
         "url": "https://www.getsmartaboutdrugs.gov/get-involved/red-ribbon-week-history"
       },
       {
-        "label": "DEA — Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
+        "label": "DEA: Red Ribbon Week Is Oct. 23-31 (Get Smart About Drugs)",
         "url": "https://www.getsmartaboutdrugs.gov/rrw"
       },
       {
-        "label": "DEA — Red Ribbon (program landing page)",
+        "label": "DEA: Red Ribbon (program landing page)",
         "url": "https://www.dea.gov/redribbon"
       },
       {
-        "label": "National Family Partnership — About Us / Red Ribbon Campaign",
+        "label": "National Family Partnership: About Us / Red Ribbon Campaign",
         "url": "https://www.redribbon.org/about"
       },
       {
-        "label": "DEA Press Release — Connecticut Student Wins National Red Ribbon Theme Contest (April 9, 2026)",
+        "label": "DEA Press Release: Connecticut Student Wins National Red Ribbon Theme Contest (April 9, 2026)",
         "url": "https://www.dea.gov/press-releases/2026/04/09/connecticut-student-wins-national-red-ribbon-theme-contest"
       },
       {
-        "label": "National Family Partnership Blog — 2026 Red Ribbon Week Theme Announcement",
+        "label": "National Family Partnership Blog: 2026 Red Ribbon Week Theme Announcement",
         "url": "https://www.redribbon.org/blog/national-family-partnership-announces-2026-red-ribbon-week-theme-make-a-difference.-be-a-hero.-stay-drug-free"
       },
       {
-        "label": "Wikipedia — Red Ribbon Week",
+        "label": "Wikipedia: Red Ribbon Week",
         "url": "https://en.wikipedia.org/wiki/Red_Ribbon_Week"
       },
       {
-        "label": "Broward County Public Schools — Red Ribbon Week",
+        "label": "Broward County Public Schools: Red Ribbon Week",
         "url": "https://www.browardschools.com/bcps-departments/school-culture-student-support/new-violence-prevention/substance-abuse-prevention/red-ribbon-week"
       }
     ],
@@ -2775,7 +2775,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "Domestic Violence Awareness Month is observed across all of October, every year, from October 1 through October 31, rather than on a single date or a floating week within the month. Congress first designated the observance by name for a specific year, October 1989, in Senate Joint Resolution 133, and every President has proclaimed or recognized the full month of October the same way since.",
       "source": {
-        "label": "George Bush — Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
       },
       "occurrences": [
@@ -2810,7 +2810,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The organization behind this observance predates it by three years. In January 1978, the United States Commission on Civil Rights held a hearing, \"Consultation on Battered Women: Issues of Public Policy,\" and the National Coalition Against Domestic Violence (NCADV) formed out of that meeting, becoming the country's first national organization focused specifically on shelters and support services for battered women and their children.\n\nNCADV's first observance came in October 1981: a single \"Day of Unity\" meant to connect advocates who had been working on the issue in isolation across the country. It took six more years to become a month-long campaign. In October 1987, NCADV held the first full Domestic Violence Awareness Month, and that same year the organization also ran its own toll-free hotline for a period, a separate and short-lived effort from the federally created hotline that would arrive nearly a decade later.\n\nFederal recognition came in 1989, and it arrived as a one-year designation rather than a standing law. Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989, designated \"October 1989\" by name and authorized and requested the President to issue a proclamation marking it. President George Bush did so five days later, on October 11, 1989, in Proclamation 6043, the first presidential proclamation of this observance on record. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September.\n\nSomewhere after that, the pattern changed: by 2021, President Biden's proclamation cited no accompanying joint resolution at all, proclaiming the month solely under his general constitutional authority. Congress has not passed a fresh joint resolution renewing the designation by name since 1991, but individual members have kept a version of the custom alive through other channels, most persistently Representative Al Green, who has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" most years since at least 2005. Two of the earlier ones actually reached the House floor and passed: H.Con.Res. 209 by a 404-0 roll call vote in September 2005, and H.Res. 817 by voice vote in October 2009. Neither went on to pass the Senate and become law, and Green's more recent versions, including one introduced for 2025, have stalled in committee without a floor vote at all.\n\nOne wrinkle in the federal record: Bush's own 1991 proclamation claims the month had been observed \"every autumn since 1985,\" two years earlier than the date any other record, including his own first proclamation, supports. The line reads as an uncorrected slip rather than evidence the observance is actually older than its documented history.",
       "source": {
-        "label": "The National Domestic Violence Hotline — Domestic Violence Awareness Month",
+        "label": "The National Domestic Violence Hotline: Domestic Violence Awareness Month",
         "url": "https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/"
       }
     },
@@ -2896,11 +2896,11 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "George Bush — Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
       },
       {
-        "label": "George Bush — Proclamation 6340, National Domestic Violence Awareness Month, 1991 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6340, National Domestic Violence Awareness Month, 1991 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6340-national-domestic-violence-awareness-month-1991"
       },
       {
@@ -2908,39 +2908,39 @@ export const guides: Guide[] = [
         "url": "https://www.congress.gov/101/statute/STATUTE-103/STATUTE-103-Pg685.pdf"
       },
       {
-        "label": "The White House — A Proclamation on National Domestic Violence Awareness and Prevention Month, 2021",
+        "label": "The White House: A Proclamation on National Domestic Violence Awareness and Prevention Month, 2021",
         "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2021/"
       },
       {
-        "label": "The White House — Presidential Message on National Domestic Violence Awareness Month, 2025",
+        "label": "The White House: Presidential Message on National Domestic Violence Awareness Month, 2025",
         "url": "https://www.whitehouse.gov/briefings-statements/2025/10/presidential-message-on-national-youth-substance-abuse-prevention-month/"
       },
       {
-        "label": "Congress.gov — H.Res.846, Original National Domestic Violence Awareness Month Resolution of 2025",
+        "label": "Congress.gov: H.Res.846, Original National Domestic Violence Awareness Month Resolution of 2025",
         "url": "https://www.congress.gov/bill/119th-congress/house-resolution/846/text/ih"
       },
       {
-        "label": "GovTrack — H.Con.Res.209 (109th Congress, 2005), passed House 404-0",
+        "label": "GovTrack: H.Con.Res.209 (109th Congress, 2005), passed House 404-0",
         "url": "https://www.govtrack.us/congress/bills/109/hconres209"
       },
       {
-        "label": "GovTrack — H.Res.817 (111th Congress, 2009), agreed to by the House",
+        "label": "GovTrack: H.Res.817 (111th Congress, 2009), agreed to by the House",
         "url": "https://www.govtrack.us/congress/bills/111/hres817"
       },
       {
-        "label": "The National Domestic Violence Hotline — Domestic Violence Awareness Month",
+        "label": "The National Domestic Violence Hotline: Domestic Violence Awareness Month",
         "url": "https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/"
       },
       {
-        "label": "The National Domestic Violence Hotline — Our History",
+        "label": "The National Domestic Violence Hotline: Our History",
         "url": "https://www.thehotline.org/about/history-of-the-hotline/"
       },
       {
-        "label": "Connections for Abused Women and their Children (CAWC) — Things To Know About the History of the Domestic Violence Movement",
+        "label": "Connections for Abused Women and their Children (CAWC): Things To Know About the History of the Domestic Violence Movement",
         "url": "https://www.cawc.org/news/things-to-know-about-the-history-of-the-domestic-violence-movement/"
       },
       {
-        "label": "NCADV — merger notice (redirects to The National Domestic Violence Hotline)",
+        "label": "NCADV: merger notice (redirects to The National Domestic Violence Hotline)",
         "url": "https://www.ncadv.org/"
       }
     ],
@@ -2960,7 +2960,7 @@ export const guides: Guide[] = [
       "kind": "nth-weekday",
       "text": "The first Tuesday of October, every year. National Day Calendar and Taco Bell set this rule in September 2024, replacing the fixed October 4 date used from 2009 through 2023.",
       "source": {
-        "label": "Taco Bell Newsroom / PR Newswire — National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
+        "label": "Taco Bell Newsroom / PR Newswire: National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
         "url": "https://www.prnewswire.com/news-releases/national-day-calendar-officially-moves-national-taco-day-to-tuesday-thanks-to-taco-bell-302249629.html"
       },
       "occurrences": [
@@ -2995,7 +2995,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "There were two unrelated \"National Taco Day\" observances under the same name, a generation apart. The first was a real congressional recognition: San Antonio publicist Roberto L. Gomez built a National Taco Council in the 1960s, and Congressman Henry B. Gonzalez recognized National Taco Week from the floor of the House on April 30, 1968, naming May 3, his own birthday, as National Taco Day, entered into the Congressional Record. That observance has no connection to today's date. It faded after Gomez's National Taco Council stopped appearing in newspaper archives around 1980, and Gomez himself died in 1983. The modern October 4 observance traces to a separate, far less documented chain. Austin chain Chuy's Tex-Mex tried to trademark \"National Taco Day\" for June 12 in 2000; the U.S. Patent and Trademark Office rejected the application for reasons it did not record. Newspapers nonetheless referred to \"Chuy's National Taco Day\" on June 12 through 2004, when unnamed \"books and websites\" began citing October 4 instead. Gustavo Arellano, the food journalist and author who investigated the history for L.A. Taco, could find no record of who made that switch or why. What is documented is what happened next: Del Taco issued a press release in 2009 declaring \"Time to Celebrate National Taco Day,\" San Antonio chain Taco Cabana followed suit on October 4 in 2010, and National Day Calendar, which says it has curated and registered national days since 2013, formally adopted October 4 that year. In September 2024, National Day Calendar founder Marlo Anderson and Taco Bell's chief marketing officer jointly announced, on the record and under their own names, that the date would move to the first Tuesday of October going forward.",
       "source": {
-        "label": "L.A. Taco — The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
+        "label": "L.A. Taco: The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
         "url": "https://lataco.com/the-true-story-of-how-national-taco-day-was-invented-then-appropriated"
       }
     },
@@ -3078,23 +3078,23 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "L.A. Taco — The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
+        "label": "L.A. Taco: The True Story of How National Taco Day Was Invented, Then Appropriated (Gustavo Arellano)",
         "url": "https://lataco.com/the-true-story-of-how-national-taco-day-was-invented-then-appropriated"
       },
       {
-        "label": "Taco Bell Newsroom / PR Newswire — National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
+        "label": "Taco Bell Newsroom / PR Newswire: National Day Calendar Officially Moves National Taco Day to Tuesday Thanks to Taco Bell (Sept. 17, 2024)",
         "url": "https://www.prnewswire.com/news-releases/national-day-calendar-officially-moves-national-taco-day-to-tuesday-thanks-to-taco-bell-302249629.html"
       },
       {
-        "label": "National Day Calendar — National Taco Day (current listing, first Tuesday in October)",
+        "label": "National Day Calendar: National Taco Day (current listing, first Tuesday in October)",
         "url": "https://nationaldaycalendar.com/celebrations/national-taco-day-first-tuesday-in-october"
       },
       {
-        "label": "National Today — National Taco Day, October 4, 2026 (listing not yet updated to the 2024 rule change)",
+        "label": "National Today: National Taco Day, October 4, 2026 (listing not yet updated to the 2024 rule change)",
         "url": "https://nationaltoday.com/national-taco-day/"
       },
       {
-        "label": "TODAY.com — National Taco Day 2025: Score Free Tacos and Deals at Taco Bell, Moe's, Del Taco and More",
+        "label": "TODAY.com: National Taco Day 2025: Score Free Tacos and Deals at Taco Bell, Moe's, Del Taco and More",
         "url": "https://www.today.com/food/restaurants/national-taco-day-deals-2025-rcna233705"
       }
     ],
@@ -3114,7 +3114,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "National Hispanic Heritage Month runs from September 15 through October 15 every year, under a standing federal law that requests an annual presidential proclamation. Unlike most awareness months on this calendar, it does not track a single calendar month: it begins in the middle of September and ends in the middle of October, crossing two months every year.",
       "source": {
-        "label": "36 U.S.C. § 126 — National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
+        "label": "36 U.S.C. § 126: National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
         "url": "https://www.law.cornell.edu/uscode/text/36/126"
       },
       "occurrences": [
@@ -3149,7 +3149,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The observance began as a week, not a month. On June 11, 1968, California Congressman George E. Brown introduced House Joint Resolution 1299, asking the President to proclaim annually the week including September 15 and 16 as \"National Hispanic Heritage Week.\" Nineteen cosponsors signed on, including two of the small number of Hispanic members then in Congress, Edward R. Roybal of California and Henry B. Gonzalez of Texas, along with 16 other representatives from five southwestern states and one from New York. One freshman Republican cosponsor from Texas, George H.W. Bush, would later matter to this story in a different way.\n\nThe bill moved quickly: it passed the House with a single amendment trimming its supporting language, cleared the Senate Judiciary Committee without changes, and President Lyndon Johnson signed it on September 17, 1968, as Public Law 90-498. Johnson issued the first Hispanic Heritage Week proclamation that same day.\n\nNineteen years later, in 1987, Representative Esteban Torres of California introduced H.R. 3182 to stretch the single week into a full month, arguing that a week left too little time to properly organize events. Torres's bill died in a House committee. What actually became law was a separate Senate companion, S. 2200, introduced by Senator Paul Simon of Illinois; it passed both chambers, and Reagan signed it as Public Law 100-402 on August 17, 1988, replacing \"week\" with \"month\" in the 1968 statute and fixing the range at September 15 through October 15.\n\nThe first President to actually proclaim a full Hispanic Heritage Month, rather than the old week, was George H.W. Bush, on September 14, 1989. Twenty-one years earlier, as a young Texas congressman, Bush had been one of the 19 names on Brown's original bill.",
       "source": {
-        "label": "National Archives, Pieces of History — Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
+        "label": "National Archives, Pieces of History: Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
         "url": "https://prologue.blogs.archives.gov/2017/09/25/origins-of-national-hispanic-heritage-month/"
       }
     },
@@ -3227,39 +3227,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "36 U.S.C. § 126 — National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
+        "label": "36 U.S.C. § 126: National Hispanic Heritage Month (Legal Information Institute, Cornell Law School)",
         "url": "https://www.law.cornell.edu/uscode/text/36/126"
       },
       {
-        "label": "National Archives, Pieces of History — Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
+        "label": "National Archives, Pieces of History: Origins of National Hispanic Heritage Month (Kate Mollan, Center for Legislative Archives)",
         "url": "https://prologue.blogs.archives.gov/2017/09/25/origins-of-national-hispanic-heritage-month/"
       },
       {
-        "label": "H.J.Res.1299, 90th Congress (1968) — full text and status (GovTrack)",
+        "label": "H.J.Res.1299, 90th Congress (1968): full text and status (GovTrack)",
         "url": "https://www.govtrack.us/congress/bills/90/hjres1299"
       },
       {
-        "label": "Ronald Reagan — Proclamation 5859, National Hispanic Heritage Week, 1988 (The American Presidency Project)",
+        "label": "Ronald Reagan: Proclamation 5859, National Hispanic Heritage Week, 1988 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-5859-national-hispanic-heritage-week-1988"
       },
       {
-        "label": "George Bush — Proclamation 6021, National Hispanic Heritage Month, 1989 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6021, National Hispanic Heritage Month, 1989 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6021-national-hispanic-heritage-month-1989"
       },
       {
-        "label": "H.R.3182, 100th Congress (1987-1988) — bill to amend Public Law 90-498 (Congress.gov)",
+        "label": "H.R.3182, 100th Congress (1987-1988): bill to amend Public Law 90-498 (Congress.gov)",
         "url": "https://www.congress.gov/bill/100th-congress/house-bill/3182"
       },
       {
-        "label": "The Creation and Evolution of the National Hispanic Heritage Celebration — U.S. House of Representatives: History, Art & Archives",
+        "label": "The Creation and Evolution of the National Hispanic Heritage Celebration: U.S. House of Representatives: History, Art & Archives",
         "url": "https://history.house.gov/HistoricalHighlight/Detail/15032398402"
       },
       {
-        "label": "Federal Register — National Hispanic Heritage Month, 2025 (signing date record)",
+        "label": "Federal Register: National Hispanic Heritage Month, 2025 (signing date record)",
         "url": "https://www.federalregister.gov/documents/2025/09/25/2025-18708/national-hispanic-heritage-month-2025"
       },
       {
-        "label": "Forbes — Trump Hasn't Proclaimed Hispanic Heritage Month (Yet)—Unlike In First Term (Conor Murray, Sept. 15, 2025)",
+        "label": "Forbes: Trump Hasn't Proclaimed Hispanic Heritage Month (Yet)—Unlike In First Term (Conor Murray, Sept. 15, 2025)",
         "url": "https://www.forbes.com/sites/conormurray/2025/09/15/trump-hasnt-proclaimed-hispanic-heritage-month-yet-unlike-in-first-term/"
       }
     ],
@@ -3280,7 +3280,7 @@ export const guides: Guide[] = [
       "text": "No-Shave November is observed across all of November, every year, from November 1 through November 30; it is not tied to a single date or a floating week within the month. The nonprofit that runs the campaign sets and repeats this range each year on its own; no law fixes it.",
       "status": "conventional",
       "source": {
-        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "label": "No Shave November: Our History (no-shave.org, operated by Fight Colorectal Cancer)",
         "url": "https://no-shave.org/"
       },
       "occurrences": [
@@ -3315,7 +3315,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "No-Shave November traces to a single family's loss. Matthew Hill, of the Chicago area, died of colon cancer in November 2007. In 2009, his eldest daughter, Rebecca Hill, working with a friend, started a Facebook page called No-Shave November on behalf of the family, asking people to skip shaving and grooming for the month and donate what they would have spent on razors and haircuts to cancer research instead. The idea was to let hair grow as a visible stand-in for what chemotherapy patients lose. The first year raised about $2,000.\n\nThe campaign grew fast from there. It is widely reported to have partnered with the American Cancer Society in 2013, broadening its reach beyond the family's original circle of friends and supporters. Nonprofit registries list the Matthew Hill Foundation, Inc. (EIN 47-3673254) as the organization formed in 2015 to run the campaign as a registered 501(c)(3). In 2024, the campaign changed hands again: it moved to Fight Colorectal Cancer (Fight CRC), a Springfield, Missouri-based nonprofit focused on colorectal cancer, which now operates No-Shave November directly. Fight CRC lists the current partner charities as Man Up To Cancer and the Prevent Cancer Foundation alongside Fight CRC itself, stating plainly, \"We proudly carry forward the Hill family's inspiring legacy.\"\n\nWhat is documented and what is not documented are worth separating here. That the campaign began in 2009 as a Hill family project and that it moved to Fight CRC in 2024 both appear on the organization's website, in general terms. The specific details of who led the 2009 launch, Rebecca Hill and a friend, and the roughly $2,000 raised in the first year, come from contemporaneous news coverage, not the organization's current site text; the 2013 American Cancer Society partnership and the 2015 foundation date rest on the same kind of secondary sourcing, nonprofit trackers and news coverage rather than a single primary announcement. That is a lower bar than a founder naming their own year on the record, but a considerably higher one than the vague \"has been celebrated since\" language most calendar sites use for this observance.",
       "source": {
-        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "label": "No Shave November: Our History (no-shave.org, operated by Fight Colorectal Cancer)",
         "url": "https://no-shave.org/"
       }
     },
@@ -3398,27 +3398,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "label": "No Shave November: Our History (no-shave.org, operated by Fight Colorectal Cancer)",
         "url": "https://no-shave.org/"
       },
       {
-        "label": "Fight Colorectal Cancer — No Shave November Rules",
+        "label": "Fight Colorectal Cancer: No Shave November Rules",
         "url": "https://fightcolorectalcancer.org/no-shave-november-rules/"
       },
       {
-        "label": "TODAY — 'No-Shave November' family pays tribute to dad with cancer fundraiser (Eun Kyung Kim, Nov. 2, 2015)",
+        "label": "TODAY: 'No-Shave November' family pays tribute to dad with cancer fundraiser (Eun Kyung Kim, Nov. 2, 2015)",
         "url": "https://www.today.com/health/no-shave-november-family-pays-tribute-dad-cancer-fundraiser-t53456"
       },
       {
-        "label": "Daffy — Matthew Hill Foundation Inc (EIN 47-3673254) nonprofit profile",
+        "label": "Daffy: Matthew Hill Foundation Inc (EIN 47-3673254) nonprofit profile",
         "url": "https://www.daffy.org/charities/473673254-matthew-hill-foundation-inc-emeryville-ca"
       },
       {
-        "label": "Louisiana Legislature — House Concurrent Resolution No. 20, 2014 Regular Session",
+        "label": "Louisiana Legislature: House Concurrent Resolution No. 20, 2014 Regular Session",
         "url": "https://legis.la.gov/Legis/ViewDocument.aspx?d=881792"
       },
       {
-        "label": "The Manual — No-Shave November vs. Movember: There's a difference between these 2 causes",
+        "label": "The Manual: No-Shave November vs. Movember: There's a difference between these 2 causes",
         "url": "https://www.themanual.com/grooming/no-shave-november-vs-movember/"
       }
     ],
@@ -3437,7 +3437,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "Breast Cancer Awareness Month is observed across all of October, every year, from October 1 through October 31, rather than on a single date or a floating week within the month. Congress first designated the observance by name for a specific year, October 1990, in Senate Joint Resolution 301, and President George Bush issued the first federal proclamation, Number 6202, that October.",
       "source": {
-        "label": "George Bush — Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6202-national-breast-cancer-awareness-month-1990"
       },
       "occurrences": [
@@ -3472,7 +3472,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "National Breast Cancer Awareness Month (NBCAM) began as a campaign with a pharmaceutical company involved from the start, not as a project of a government agency alone. The American Cancer Society's own materials, including its 2025 fortieth-anniversary press release, state that the ACS \"co-led the effort to start Breast Cancer Awareness Month\" as a week-long campaign in 1985, but that ACS material does not itself name a corporate partner. The corporate partner most secondary accounts name, including Wikipedia's article on the observance, is the pharmaceutical division of Imperial Chemical Industries (ICI), a British conglomerate whose drug arm was spun off as a separate company, Zeneca, in 1993, and which merged with the Swedish company Astra AB in 1999 to form AstraZeneca.\n\nA third account complicates both of the above. A peer-reviewed 2003 study by Phaedra C. Pezzullo in the Quarterly Journal of Speech opens by stating plainly, \"Since 1984, October has been recognized in the U.S. as National Breast Cancer Awareness Month,\" and credits the founding to \"Zeneca, a subsidiary of Imperial Chemical Industries Limited\" alone, citing the observance's own website as her source, with no mention of the American Cancer Society as a founding partner at all. Between the three tellings, only the drugmaker's involvement is undisputed; the year (1985 versus 1984), whether a health charity co-founded the campaign or the drug company acted alone, and which specific company is named all vary depending on which account is followed. This page follows the ACS's more recent and more widely repeated 1985 date while presenting the other two accounts' details as well.\n\nNBCAM's archived FAQ page, posted by the observance's organizers in 2011, credits former First Lady Betty Ford and her daughter Susan Ford Bales with an early televised appeal that \"call[ed] attention to the importance of screening\" and helped galvanize wider public interest soon after the campaign began; Ford's mastectomy, eleven years earlier in 1974, is what first made her a public figure on the subject, but the appeal credited with helping launch the observance itself was a separate, later event.\n\nFederal recognition came five years after the campaign's founding date, not alongside it. Congress designated \"October 1990\" as National Breast Cancer Awareness Month by Senate Joint Resolution 301, and President George Bush issued the first federal proclamation, Number 6202, that same October. Congress repeated the exercise for specific years at least three more times: Public Law 102-120 for October 1991, House Joint Resolution 11 for October 1993, and Public Law 103-367 for October 1994. No comparable year-specific designation has been found on the record after 1994. By October 1996, President Clinton's proclamation cited no resolution at all, opening simply \"each year we set aside the month of October,\" and every proclamation since has followed that same pattern: an annual custom carried out under general executive authority, not a fresh act of Congress.\n\nA separate strand of the record documents why some public-health researchers and advocacy groups have called the observance's origins into question. Zeneca Inc., the U.S. arm of the ICI drug business, began an in-house breast-cancer screening program for its own employees in 1989. In 1996, the company totaled the direct healthcare and lost-productivity costs of that program and found it had cost $400,000 to run, against an estimated $1.5 million the company would have spent had employees' cancers instead been caught at later, more expensive stages, for a calculated savings of $1.1 million. Pezzullo's peer-reviewed analysis, reading that figure directly off AstraZeneca's NBCAM website, concludes that \"(Astra)Zeneca's initial justification for NBCAM was one of basic accounting, not a critique of how women's healthcare has been assessed or implemented nor a desire to prevent women from developing breast cancer.\"",
       "source": {
-        "label": "American Cancer Society — Turning Awareness Into Action: American Cancer Society Recognizes 40 Years of Breast Cancer Awareness Month (press release)",
+        "label": "American Cancer Society: Turning Awareness Into Action: American Cancer Society Recognizes 40 Years of Breast Cancer Awareness Month (press release)",
         "url": "https://pressroom.cancer.org/40-years-of-breast-cancer-awareness-month"
       }
     },
@@ -3556,43 +3556,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "George Bush — Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
+        "label": "George Bush: Proclamation 6202, National Breast Cancer Awareness Month, 1990 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6202-national-breast-cancer-awareness-month-1990"
       },
       {
-        "label": "William J. Clinton — Proclamation, National Breast Cancer Awareness Month, 1996 (Clinton White House Archives)",
+        "label": "William J. Clinton: Proclamation, National Breast Cancer Awareness Month, 1996 (Clinton White House Archives)",
         "url": "https://clintonwhitehouse6.archives.gov/1996/10/1996-10-03-proclamation-of-breast-cancer-awareness-month.html"
       },
       {
-        "label": "American Cancer Society — Turning Awareness Into Action: 40 Years of Breast Cancer Awareness Month",
+        "label": "American Cancer Society: Turning Awareness Into Action: 40 Years of Breast Cancer Awareness Month",
         "url": "https://www.cancer.org/cancer/latest-news/our-impact/turning-awareness-into-action-40-years-of-breast-cancer-awareness-month.html"
       },
       {
-        "label": "Phaedra C. Pezzullo — \"Resisting 'National Breast Cancer Awareness Month': The Rhetoric of Counterpublics and their Cultural Performances,\" Quarterly Journal of Speech, Vol. 89, No. 4 (November 2003), pp. 345-365",
+        "label": "Phaedra C. Pezzullo: \"Resisting 'National Breast Cancer Awareness Month': The Rhetoric of Counterpublics and their Cultural Performances,\" Quarterly Journal of Speech, Vol. 89, No. 4 (November 2003), pp. 345-365",
         "url": "https://doi.org/10.1080/0033563032000160981"
       },
       {
-        "label": "National Breast Cancer Awareness Month — official FAQ (archived 2011, AstraZeneca HealthCare Foundation)",
+        "label": "National Breast Cancer Awareness Month: official FAQ (archived 2011, AstraZeneca HealthCare Foundation)",
         "url": "https://web.archive.org/web/20110716123431/http://www.nbcam.org/about_faq.cfm"
       },
       {
-        "label": "Wikipedia — Breast Cancer Awareness Month",
+        "label": "Wikipedia: Breast Cancer Awareness Month",
         "url": "https://en.wikipedia.org/wiki/Breast_Cancer_Awareness_Month"
       },
       {
-        "label": "The New York Times — A Growing Disenchantment With October 'Pinkification' (Gina Kolata, Oct. 30, 2015)",
+        "label": "The New York Times: A Growing Disenchantment With October 'Pinkification' (Gina Kolata, Oct. 30, 2015)",
         "url": "https://www.nytimes.com/2015/10/31/health/breast-cancer-awareness-pink.html"
       },
       {
-        "label": "GovTrack — S.Res. 295 (111th Congress), National Metastatic Breast Cancer Awareness Day",
+        "label": "GovTrack: S.Res. 295 (111th Congress), National Metastatic Breast Cancer Awareness Day",
         "url": "https://www.govtrack.us/congress/bills/111/sres295/text"
       },
       {
-        "label": "Congress.gov — Public Law 102-120, 105 Stat. 609",
+        "label": "Congress.gov: Public Law 102-120, 105 Stat. 609",
         "url": "https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg609.pdf"
       },
       {
-        "label": "Congress.gov — Public Law 103-367, 108 Stat. 3473",
+        "label": "Congress.gov: Public Law 103-367, 108 Stat. 3473",
         "url": "https://www.congress.gov/103/statute/STATUTE-108/STATUTE-108-Pg3473.pdf"
       }
     ],
@@ -3613,7 +3613,7 @@ export const guides: Guide[] = [
       "text": "All of November, every year, in the United States, not a single date or a floating week within the month.",
       "status": "documented",
       "source": {
-        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
+        "label": "Ronald Reagan: Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
         "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
       },
       "occurrences": [
@@ -3648,7 +3648,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The American Diabetes Association (ADA) says, and multiple secondary sources repeat, that it first declared a “National Diabetes Awareness Month” in November 1975. This calendar could not locate that claim on any current ADA page or in an ADA-published primary document; it appears only in secondary aggregator articles (Diabetes Self-Management, Dictionary.com) that do not cite a specific ADA proclamation, press release, or archival source. The claim may be accurate to the ADA's internal history, but it is not independently checkable the way the federal record below is.\n\nThe first confirmed federal action came six years later, and it was smaller than a month. On September 28, 1981, President Ronald Reagan issued Proclamation 4861, National Diabetes Week, setting aside October 4 through 10, 1981, a single week, not a month and not in November. The first proclamation to name a full month came a year after that: on November 2, 1982, Reagan issued Proclamation 4994, National Diabetes Month, 1982, “in accordance with Senate Joint Resolution 257,” proclaiming “the month of November, 1982, as National Diabetes Month” (quoted directly from the proclamation, read in full at the Reagan Presidential Library). Despite that clear primary-source distinction, Diabetes Self-Management currently describes Reagan as having proclaimed “November 1981” a National Diabetes Month, and Dictionary.com states, without naming Reagan or any other authority, that November was “officially declared” the month in 1981; the 1981 proclamation on record was for a week in October, and the first Month proclamation was for 1982, not 1981.\n\nCongress did not stop at 1982. Senate Joint Resolution 145, in the 99th Congress, designated November 1985 as National Diabetes Month by name, one of at least several single-year joint resolutions Congress passed through the 1980s, each requiring the President's signature to take effect. That pattern eventually gave way to something looser: by the 117th Congress (2021 to 2022), the vehicle was Senate Resolution 479, a Senate-only resolution “supporting the goals and ideals of American Diabetes Month” that carries a companion House Resolution 810 but neither requires the President's signature nor creates a binding designation the way the 1982 and 1985 joint resolutions did. No joint resolution has ever made November a standing, permanent observance in US law; each year's federal recognition, from 1982 to the present, rests on that year's proclamation or message.\n\nThe White House has issued something for National Diabetes Month every November since 1982, through Presidents of both parties, though the format is not fixed. Reagan, both Bushes, Obama, and Biden (most recently Proclamation 10849, National Diabetes Month, 2024) all used the full “Proclamation” format. Trump's White House has instead favored shorter formats in both of his terms: a “Statement” in 2017, “Presidential Messages” in 2019 and 2020, and a “Presidential Message on National Diabetes Month” again in November 2025, none of which require the procedural steps a formal Proclamation does. The underlying November date has not moved regardless of which format a given administration reaches for.",
       "source": {
-        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
+        "label": "Ronald Reagan: Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library)",
         "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
       }
     },
@@ -3718,27 +3718,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Ronald Reagan — Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library, full text)",
+        "label": "Ronald Reagan: Proclamation 4994, National Diabetes Month, 1982 (Ronald Reagan Presidential Library, full text)",
         "url": "https://www.reaganlibrary.gov/research/speeches/110282a"
       },
       {
-        "label": "Proclamation 4861 — National Diabetes Week (The American Presidency Project)",
+        "label": "Proclamation 4861: National Diabetes Week (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-4861-national-diabetes-week"
       },
       {
-        "label": "S.J.Res.145 — 99th Congress, designating November 1985 as National Diabetes Month (Congress.gov)",
+        "label": "S.J.Res.145: 99th Congress, designating November 1985 as National Diabetes Month (Congress.gov)",
         "url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/145"
       },
       {
-        "label": "S.Res.479 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
+        "label": "S.Res.479: 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
         "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/479"
       },
       {
-        "label": "H.Res.810 — 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
+        "label": "H.Res.810: 117th Congress, supporting the goals and ideals of American Diabetes Month (Congress.gov)",
         "url": "https://www.congress.gov/bill/117th-congress/house-resolution/810/text"
       },
       {
-        "label": "Proclamation 10849 — National Diabetes Month, 2024 (The American Presidency Project)",
+        "label": "Proclamation 10849: National Diabetes Month, 2024 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-10849-national-diabetes-month-2024"
       },
       {
@@ -3844,35 +3844,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstones Buying Guide",
+        "label": "Jewelers of America: Birthstones Buying Guide",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
       },
       {
-        "label": "GIA — March Birthstones",
+        "label": "GIA: March Birthstones",
         "url": "https://www.gia.edu/birthstones/march-birthstones"
       },
       {
-        "label": "GIA — August Birthstones",
+        "label": "GIA: August Birthstones",
         "url": "https://www.gia.edu/birthstones/august-birthstones"
       },
       {
-        "label": "American Gem Society — March Birthstones",
+        "label": "American Gem Society: March Birthstones",
         "url": "https://www.americangemsociety.org/birthstones/march-birthstones/"
       },
       {
-        "label": "American Gem Society — August Birthstones",
+        "label": "American Gem Society: August Birthstones",
         "url": "https://www.americangemsociety.org/birthstones/august-birthstones/"
       },
       {
-        "label": "American Gem Society — June Birthstones",
+        "label": "American Gem Society: June Birthstones",
         "url": "https://www.americangemsociety.org/birthstones/june-birthstones/"
       },
       {
-        "label": "Wikipedia — Birthstone (historic, US 1912, UK 2013, and US 2019 comparison table)",
+        "label": "Wikipedia: Birthstone (historic, US 1912, UK 2013, and US 2019 comparison table)",
         "url": "https://en.wikipedia.org/wiki/Birthstone"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       }
     ],
@@ -3892,7 +3892,7 @@ export const guides: Guide[] = [
       "text": "November 19 every year, worldwide. The date is fixed and does not shift for weekends.",
       "status": "conventional",
       "source": {
-        "label": "International Men's Day (official site) — History & Background",
+        "label": "International Men's Day (official site): History & Background",
         "url": "https://internationalmensday.com/about/history-background/"
       },
       "occurrences": [
@@ -3927,7 +3927,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Dr. Jerome Teelucksingh, a history lecturer at the University of the West Indies in Trinidad and Tobago, revived International Men's Day in 1999, choosing November 19 for two stated reasons: it was his father's birthday, and it was the date, in 1989, that Trinidad and Tobago's men's football team played its World Cup qualifying match at home against the United States, a game the organization's own history page describes as having \"united the country with their endeavours to qualify for the World Cup.\" That description is carefully worded and does not claim the team won or qualified. Independent sources, including Wikipedia's separate article on the match and US Soccer's own retrospective, confirm what actually happened that night: in front of a sold-out crowd of roughly 35,000 at Hasely Crawford Stadium in Port of Spain, the United States won 1-0 on a second-half goal from Paul Caligiuri, a result remembered in US soccer history as \"the Shot Heard 'Round the World\" because it sent the US, not Trinidad and Tobago, to the 1990 World Cup after a 40-year American absence from the tournament. Trinidad and Tobago's campaign ended in that loss. Teelucksingh's account does not misstate this, but calendar sites and social posts that summarize the story as commemorating a qualifying campaign, without noting how it ended, can leave the impression of a win where the record shows a defeat. Teelucksingh was not the first person to attempt an international men's day: Thomas Oaster organized small February 7 events in 1992, and the idea of a men's counterpart to International Women's Day had been raised in print as early as a 1969 New York Times report on informal calls for a February 23 observance. Teelucksingh's 1999 event is the one that took root and grew into the November 19 observance now marked, per the organization's own 2026 count, in more than eighty countries.",
       "source": {
-        "label": "International Men's Day (official site) — History & Background",
+        "label": "International Men's Day (official site): History & Background",
         "url": "https://internationalmensday.com/about/history-background/"
       }
     },
@@ -4003,43 +4003,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "International Men's Day (official site) — History & Background",
+        "label": "International Men's Day (official site): History & Background",
         "url": "https://internationalmensday.com/about/history-background/"
       },
       {
-        "label": "International Men's Day — Media Release: Theme for 2026, \"The Future Is Everyone\"",
+        "label": "International Men's Day: Media Release: Theme for 2026, \"The Future Is Everyone\"",
         "url": "https://internationalmensday.com/wp-content/uploads/2026/03/Media-Release-IMD-2026-Theme-Announcement.pdf"
       },
       {
-        "label": "Wikipedia — International Men's Day",
+        "label": "Wikipedia: International Men's Day",
         "url": "https://en.wikipedia.org/wiki/International_Men%27s_Day"
       },
       {
-        "label": "Wikipedia — Shot heard round the world (soccer)",
+        "label": "Wikipedia: Shot heard round the world (soccer)",
         "url": "https://en.wikipedia.org/wiki/Shot_heard_round_the_world_(soccer)"
       },
       {
-        "label": "US Soccer — Paul Caligiuri: The Shot Heard Around The World",
+        "label": "US Soccer: Paul Caligiuri: The Shot Heard Around The World",
         "url": "https://www.ussoccer.com/stories/2023/11/paul-caligiuri-shot-heard-around-the-world"
       },
       {
-        "label": "United Nations — International Women's Day: Background",
+        "label": "United Nations: International Women's Day: Background",
         "url": "https://www.un.org/en/observances/womens-day/background"
       },
       {
-        "label": "contabun.ro — Full text of Legea nr. 22/2016 (Monitorul Oficial no. 169, March 7, 2016)",
+        "label": "contabun.ro: Full text of Legea nr. 22/2016 (Monitorul Oficial no. 169, March 7, 2016)",
         "url": "https://www.contabun.ro/2016/03/09/legea-nr-222016-8-martie-ziua-femeii-si-19-noiembrie-ziua-barbatului/"
       },
       {
-        "label": "Romania Insider — Parliament makes Men's Day official in Romania",
+        "label": "Romania Insider: Parliament makes Men's Day official in Romania",
         "url": "https://www.romania-insider.com/romania-sets-date-for-mens-day"
       },
       {
-        "label": "Mediafax — E oficial! Românii vor avea Ziua Bărbatului în 19 noiembrie (vote count)",
+        "label": "Mediafax: E oficial! Românii vor avea Ziua Bărbatului în 19 noiembrie (vote count)",
         "url": "https://www.mediafax.ro/politic/e-oficial-romanii-vor-avea-ziua-barbatului-in-19-noiembrie-sarbatorirea-celor-doua-zile-este-un-prilej-de-a-imbunatatii-relatiile-dintre-sexe-15028018"
       },
       {
-        "label": "AGERPRES — Camera Deputaților: 19 noiembrie devine legal Ziua bărbatului, iar 8 martie - Ziua femeii",
+        "label": "AGERPRES: Camera Deputaților: 19 noiembrie devine legal Ziua bărbatului, iar 8 martie - Ziua femeii",
         "url": "https://www.agerpres.ro/politica/2016/02/03/camera-deputatilor-19-noiembrie-devine-legal-ziua-barbatului-iar-8-martie-ziua-femeii-13-05-41"
       }
     ],
@@ -4147,47 +4147,47 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — May Birth Flowers: Lily of the Valley and Hawthorn",
+        "label": "The Old Farmer's Almanac: May Birth Flowers: Lily of the Valley and Hawthorn",
         "url": "https://www.almanac.com/content/may-birth-flowers"
       },
       {
-        "label": "Farmers' Almanac — The May Birth Flower: Lily of the Valley Lore",
+        "label": "Farmers' Almanac: The May Birth Flower: Lily of the Valley Lore",
         "url": "https://www.farmersalmanac.com/may-flower-lore"
       },
       {
-        "label": "Wikipedia — Lily of the valley",
+        "label": "Wikipedia: Lily of the valley",
         "url": "https://en.wikipedia.org/wiki/Lily_of_the_valley"
       },
       {
-        "label": "French Wikipedia — 1er mai (Traditions et superstitions)",
+        "label": "French Wikipedia: 1er mai (Traditions et superstitions)",
         "url": "https://fr.wikipedia.org/wiki/1er_mai"
       },
       {
-        "label": "The Good Life France — May Day in France: a floral affair",
+        "label": "The Good Life France: May Day in France: a floral affair",
         "url": "https://thegoodlifefrance.com/may-day-france-floral-affair/"
       },
       {
-        "label": "France Info — Social: le 1er mai, fête du muguet et de la lutte des travailleurs",
+        "label": "France Info: Social: le 1er mai, fête du muguet et de la lutte des travailleurs",
         "url": "https://la1ere.franceinfo.fr/reunion/social-le-1er-mai-fete-du-muguet-et-de-la-lutte-des-travailleurs-1484516.html"
       },
       {
-        "label": "Cairn.info — Pétain et le 1er mai, 1941",
+        "label": "Cairn.info: Pétain et le 1er mai, 1941",
         "url": "https://shs.cairn.info/tremplin-sciences-po-histoire--9782100883950-page-131?lang=fr&tab=texte-integral"
       },
       {
-        "label": "Wikipedia — Crataegus",
+        "label": "Wikipedia: Crataegus",
         "url": "https://en.wikipedia.org/wiki/Crataegus"
       },
       {
-        "label": "Etymonline — Hawthorn",
+        "label": "Etymonline: Hawthorn",
         "url": "https://www.etymonline.com/word/hawthorn"
       },
       {
-        "label": "Phrases.org.uk — Ne'er cast a clout till May be out",
+        "label": "Phrases.org.uk: Ne'er cast a clout till May be out",
         "url": "https://www.phrases.org.uk/bulletin_board/54/messages/478.html"
       },
       {
-        "label": "Sussex Wildlife Trust — The flowering tree that smells like a decomposing corpse",
+        "label": "Sussex Wildlife Trust: The flowering tree that smells like a decomposing corpse",
         "url": "https://sussexwildlifetrust.org.uk/news/the-flowering-tree-that-smells-like-a-decomposing-corpse"
       }
     ],
@@ -4284,43 +4284,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — June Birth Flowers: Rose and Honeysuckle",
+        "label": "The Old Farmer's Almanac: June Birth Flowers: Rose and Honeysuckle",
         "url": "https://www.almanac.com/june-birth-flowers"
       },
       {
-        "label": "Wikipedia — Rose",
+        "label": "Wikipedia: Rose",
         "url": "https://en.wikipedia.org/wiki/Rose"
       },
       {
-        "label": "Wikipedia — Rosa 'La France'",
+        "label": "Wikipedia: Rosa 'La France'",
         "url": "https://en.wikipedia.org/wiki/Rosa_%27La_France%27"
       },
       {
-        "label": "Wikipedia — Jean-Baptiste André Guillot",
+        "label": "Wikipedia: Jean-Baptiste André Guillot",
         "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Andr%C3%A9_Guillot"
       },
       {
-        "label": "Etymonline — Rose",
+        "label": "Etymonline: Rose",
         "url": "https://www.etymonline.com/word/rose"
       },
       {
-        "label": "Wiktionary — ῥόδον (rhódon)",
+        "label": "Wiktionary: ῥόδον (rhódon)",
         "url": "https://en.wiktionary.org/wiki/%E1%BF%A5%CF%8C%CE%B4%CE%BF%CE%BD"
       },
       {
-        "label": "Etymonline — Honeysuckle",
+        "label": "Etymonline: Honeysuckle",
         "url": "https://www.etymonline.com/word/honeysuckle"
       },
       {
-        "label": "Wikipedia — Lonicera",
+        "label": "Wikipedia: Lonicera",
         "url": "https://en.wikipedia.org/wiki/Lonicera"
       },
       {
-        "label": "Wikipedia — Adam Lonicer",
+        "label": "Wikipedia: Adam Lonicer",
         "url": "https://en.wikipedia.org/wiki/Adam_Lonicer"
       },
       {
-        "label": "Wikipedia — Lonicera japonica",
+        "label": "Wikipedia: Lonicera japonica",
         "url": "https://en.wikipedia.org/wiki/Lonicera_japonica"
       }
     ],
@@ -4423,47 +4423,47 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — March Birth Flower: The Daffodil",
+        "label": "The Old Farmer's Almanac: March Birth Flower: The Daffodil",
         "url": "https://www.almanac.com/content/march-birth-flower"
       },
       {
-        "label": "Farmers' Almanac — Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives)",
+        "label": "Farmers' Almanac: Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives)",
         "url": "https://www.farmersalmanac.com/march-flower-lore"
       },
       {
-        "label": "NYBG Plant Talk — What's in a Plant Name? Narcissus, Daffodils, and Jonquils",
+        "label": "NYBG Plant Talk: What's in a Plant Name? Narcissus, Daffodils, and Jonquils",
         "url": "https://www.nybg.org/blogs/plant-talk/2017/04/around-the-garden/whats-in-a-plant-name-narcissus-daffodils-and-jonquils/"
       },
       {
-        "label": "Wikipedia — List of Narcissus species",
+        "label": "Wikipedia: List of Narcissus species",
         "url": "https://en.wikipedia.org/wiki/List_of_Narcissus_species"
       },
       {
-        "label": "Wikipedia — List of Narcissus horticultural divisions",
+        "label": "Wikipedia: List of Narcissus horticultural divisions",
         "url": "https://en.wikipedia.org/wiki/List_of_Narcissus_horticultural_divisions"
       },
       {
-        "label": "Etymonline — Daffodil",
+        "label": "Etymonline: Daffodil",
         "url": "https://www.etymonline.com/word/daffodil"
       },
       {
-        "label": "Oxford English Dictionary — daffodil, n.",
+        "label": "Oxford English Dictionary: daffodil, n.",
         "url": "https://www.oed.com/dictionary/daffodil_n"
       },
       {
-        "label": "Etymonline — Asphodel",
+        "label": "Etymonline: Asphodel",
         "url": "https://www.etymonline.com/word/asphodel"
       },
       {
-        "label": "Etymonline — Narcissus",
+        "label": "Etymonline: Narcissus",
         "url": "https://www.etymonline.com/word/narcissus"
       },
       {
-        "label": "UK Health Security Agency — Gastro-intestinal poisoning due to consumption of daffodils mistaken for vegetables, Bristol",
+        "label": "UK Health Security Agency: Gastro-intestinal poisoning due to consumption of daffodils mistaken for vegetables, Bristol",
         "url": "https://researchportal.ukhsa.gov.uk/en/publications/gastro-intestinal-poisoning-due-to-consumption-of-daffodils-mista-2/"
       },
       {
-        "label": "The Grocer — Daffodils are a danger warns Public Health England",
+        "label": "The Grocer: Daffodils are a danger warns Public Health England",
         "url": "https://www.thegrocer.co.uk/news/daffodils-are-a-danger-warns-public-health-england/513254.article"
       }
     ],
@@ -4552,43 +4552,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — August Birth Flowers: Gladiolus and Poppy",
+        "label": "The Old Farmer's Almanac: August Birth Flowers: Gladiolus and Poppy",
         "url": "https://www.almanac.com/content/august-birth-flowers"
       },
       {
-        "label": "Etymonline — Gladiolus",
+        "label": "Etymonline: Gladiolus",
         "url": "https://www.etymonline.com/word/gladiolus"
       },
       {
-        "label": "Wikipedia — Gladiolus",
+        "label": "Wikipedia: Gladiolus",
         "url": "https://en.wikipedia.org/wiki/Gladiolus"
       },
       {
-        "label": "Missouri Botanical Garden — Gladiolus × gandavensis",
+        "label": "Missouri Botanical Garden: Gladiolus × gandavensis",
         "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254915&isprofile=0"
       },
       {
-        "label": "1911 Encyclopædia Britannica — Gladiolus (via Wikisource)",
+        "label": "1911 Encyclopædia Britannica: Gladiolus (via Wikisource)",
         "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gladiolus"
       },
       {
-        "label": "Wikipedia — Papaver rhoeas",
+        "label": "Wikipedia: Papaver rhoeas",
         "url": "https://en.wikipedia.org/wiki/Papaver_rhoeas"
       },
       {
-        "label": "Wikipedia — Papaver orientale",
+        "label": "Wikipedia: Papaver orientale",
         "url": "https://en.wikipedia.org/wiki/Papaver_orientale"
       },
       {
-        "label": "Wikipedia — In Flanders Fields",
+        "label": "Wikipedia: In Flanders Fields",
         "url": "https://en.wikipedia.org/wiki/In_Flanders_Fields"
       },
       {
-        "label": "Wikipedia — Remembrance poppy",
+        "label": "Wikipedia: Remembrance poppy",
         "url": "https://en.wikipedia.org/wiki/Remembrance_poppy"
       },
       {
-        "label": "Cornell University Library — Written in Petals: History",
+        "label": "Cornell University Library: Written in Petals: History",
         "url": "https://exhibits.library.cornell.edu/written-in-petals/about/history"
       }
     ],
@@ -4680,43 +4680,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — September Birth Flowers: Aster and Morning Glory",
+        "label": "The Old Farmer's Almanac: September Birth Flowers: Aster and Morning Glory",
         "url": "https://www.almanac.com/september-birth-flowers"
       },
       {
-        "label": "Etymonline — Aster",
+        "label": "Etymonline: Aster",
         "url": "https://www.etymonline.com/word/aster"
       },
       {
-        "label": "Theoi.com — Astraea",
+        "label": "Theoi.com: Astraea",
         "url": "https://www.theoi.com/Titan/Astraia.html"
       },
       {
-        "label": "Wikipedia — Astraea",
+        "label": "Wikipedia: Astraea",
         "url": "https://en.wikipedia.org/wiki/Astraea"
       },
       {
-        "label": "Guy Nesom — Name Changes in Aster",
+        "label": "Guy Nesom: Name Changes in Aster",
         "url": "https://www.guynesom.com/NameChangesInAsterWEB.htm"
       },
       {
-        "label": "Kew Plants of the World Online — Symphyotrichum novae-angliae",
+        "label": "Kew Plants of the World Online: Symphyotrichum novae-angliae",
         "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:981863-1"
       },
       {
-        "label": "North Carolina State University Extension — Ipomoea",
+        "label": "North Carolina State University Extension: Ipomoea",
         "url": "https://plants.ces.ncsu.edu/plants/ipomoea/"
       },
       {
-        "label": "North Carolina State University Extension — Ipomoea purpurea",
+        "label": "North Carolina State University Extension: Ipomoea purpurea",
         "url": "https://plants.ces.ncsu.edu/plants/ipomoea-purpurea/"
       },
       {
-        "label": "Britannica — Ololiuqui",
+        "label": "Britannica: Ololiuqui",
         "url": "https://www.britannica.com/plant/ololiuqui"
       },
       {
-        "label": "Kew Plants of the World Online — Ipomoea corymbosa",
+        "label": "Kew Plants of the World Online: Ipomoea corymbosa",
         "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458008-2/general-information"
       }
     ],
@@ -4809,43 +4809,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — July Birth Flowers: Larkspur and Water Lily",
+        "label": "The Old Farmer's Almanac: July Birth Flowers: Larkspur and Water Lily",
         "url": "https://www.almanac.com/content/july-birth-flowers"
       },
       {
-        "label": "Dictionary.com — Delphinium (Etymology)",
+        "label": "Dictionary.com: Delphinium (Etymology)",
         "url": "https://www.dictionary.com/browse/delphinium"
       },
       {
-        "label": "Wiktionary — Larkspur",
+        "label": "Wiktionary: Larkspur",
         "url": "https://en.wiktionary.org/wiki/larkspur"
       },
       {
-        "label": "Missouri Botanical Garden — Delphinium elatum",
+        "label": "Missouri Botanical Garden: Delphinium elatum",
         "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=299459"
       },
       {
-        "label": "Galileo Educational Network — Kainai Plants and Culture: Larkspur",
+        "label": "Galileo Educational Network: Kainai Plants and Culture: Larkspur",
         "url": "https://galileo.org/kainai/larkspur/"
       },
       {
-        "label": "Wikipedia — Delphinium bicolor",
+        "label": "Wikipedia: Delphinium bicolor",
         "url": "https://en.wikipedia.org/wiki/Delphinium_bicolor"
       },
       {
-        "label": "Wikipedia — Nefertem",
+        "label": "Wikipedia: Nefertem",
         "url": "https://en.wikipedia.org/wiki/Nefertem"
       },
       {
-        "label": "Wikipedia — Blue lotus (disambiguation)",
+        "label": "Wikipedia: Blue lotus (disambiguation)",
         "url": "https://en.wikipedia.org/wiki/Blue_lotus"
       },
       {
-        "label": "Wikipedia — Nelumbo nucifera",
+        "label": "Wikipedia: Nelumbo nucifera",
         "url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera"
       },
       {
-        "label": "Wikipedia — Nymphaeaceae",
+        "label": "Wikipedia: Nymphaeaceae",
         "url": "https://en.wikipedia.org/wiki/Nymphaeaceae"
       }
     ],
@@ -4865,7 +4865,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "September 19 every year, worldwide. No source describes a weekend-shift convention or a regional variant date.",
       "source": {
-        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "label": "Wikipedia: International Talk Like a Pirate Day",
         "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
       },
       "occurrences": [
@@ -4899,7 +4899,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "John Baur (\"Ol' Chumbucket\") and Mark Summers (\"Cap'n Slappy\"), two friends from Albany, Oregon, invented Talk Like a Pirate Day on June 6, 1995, during a game of racquetball. By their own account, one of them strained a muscle reaching for a low shot and yelled out \"Oh, jeez, my hamstring!,\" and for reasons neither has ever fully explained, they kept trading encouragement in pirate slang for the rest of the game. By the end of the match they had agreed the world needed a day devoted to talking like a pirate. They deliberately did not set the observance on June 6 itself, out of respect for that date's significance as the anniversary of the D-Day landings, and instead picked September 19 because it was Summers's ex-wife's birthday: a date he would have no trouble remembering, and one not already claimed by a bigger observance. For seven years the pair marked the day quietly with a small circle of friends. In 2002 they wrote to Miami Herald humor columnist Dave Barry asking him to serve as the holiday's spokesman; Barry agreed and devoted his September 8, 2002 column to the idea, which is what carried it from a private joke between two men to an internationally recognized novelty holiday. Baur and Summers still run the holiday's official website and have repeated the same account, with the same names, date, and reasoning, in press coverage spanning from the early 2000s through recent years.",
       "source": {
-        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "label": "Wikipedia: International Talk Like a Pirate Day",
         "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
       }
     },
@@ -4972,31 +4972,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — International Talk Like a Pirate Day",
+        "label": "Wikipedia: International Talk Like a Pirate Day",
         "url": "https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day"
       },
       {
-        "label": "International Talk Like a Pirate Day (official site) — How It All Started",
+        "label": "International Talk Like a Pirate Day (official site): How It All Started",
         "url": "https://talklikeapiratecom.wpcomstaging.com/sample-page/"
       },
       {
-        "label": "National Today — Talk Like a Pirate Day",
+        "label": "National Today: Talk Like a Pirate Day",
         "url": "https://nationaltoday.com/talk-like-a-pirate-day/"
       },
       {
-        "label": "Britannica — Ahoy! It's Talk Like a Pirate Day",
+        "label": "Britannica: Ahoy! It's Talk Like a Pirate Day",
         "url": "https://www.britannica.com/story/ahoy-its-talk-like-a-pirate-day"
       },
       {
-        "label": "History.com — The Origins of the Pirate Accent",
+        "label": "History.com: The Origins of the Pirate Accent",
         "url": "https://www.history.com/articles/pirate-talk-accent-origins-robert-newton"
       },
       {
-        "label": "Smithsonian Magazine — This Film Version of 'Treasure Island' Gave Us Our Image of Pirates",
+        "label": "Smithsonian Magazine: This Film Version of 'Treasure Island' Gave Us Our Image of Pirates",
         "url": "https://www.smithsonianmag.com/smart-news/film-version-treasure-island-gave-us-our-image-pirates-180967149/"
       },
       {
-        "label": "We the People (Obama White House archive) — Recognize International Talk Like a Pirate Day",
+        "label": "We the People (Obama White House archive): Recognize International Talk Like a Pirate Day",
         "url": "https://petitions.obamawhitehouse.archives.gov/petition/recognize-international-talk-pirate-day-september-19/"
       }
     ],
@@ -5008,7 +5008,7 @@ export const guides: Guide[] = [
     "slug": "epilepsy-awareness-month",
     "category": "Observances",
     "title": "National Epilepsy Awareness Month: The Resolution That Never Passed",
-    "description": "November is National Epilepsy Awareness Month. Congress tried three times to make it official, in 2002, 2003, and 2011 — none of the resolutions ever passed.",
+    "description": "November is National Epilepsy Awareness Month. Congress tried three times to make it official, in 2002, 2003, and 2011, but none of the resolutions ever passed.",
     "published": "2026-08-13",
     "updated": "2026-08-13",
     "coreSummary": "National Epilepsy Awareness Month runs every November in the United States, an observance the Epilepsy Foundation says it began organizing in 1969. The widely repeated claim that Congress formally recognized the month in 2003 does not hold up against the primary congressional record: a Senate resolution in 2002, a House resolution in 2003, and a second House resolution in 2011 were each introduced and referred to committee, and none of the three ever came to a vote in either chamber.",
@@ -5017,7 +5017,7 @@ export const guides: Guide[] = [
       "text": "All of November, every year, in the United States — not a single date within the month.",
       "status": "documented",
       "source": {
-        "label": "Epilepsy Foundation of Northeastern New York — The History of National Epilepsy Awareness Month (NEAM)",
+        "label": "Epilepsy Foundation of Northeastern New York: The History of National Epilepsy Awareness Month (NEAM)",
         "url": "https://efneny.org/2024/10/25/the-history-of-national-epilepsy-awareness-month-neam/"
       },
       "occurrences": [
@@ -5052,7 +5052,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The Epilepsy Foundation, a national nonprofit founded in 1968, says it began organizing a November awareness campaign in 1969; this calendar found that claim repeated by an actual Foundation regional affiliate, the Epilepsy Foundation of Northeastern New York, but could not check it against a dated primary Foundation document, so it is treated as an organizational self-report rather than an independently verifiable fact, the same caveat this calendar applies to the American Diabetes Association's parallel 1975 claim for [American Diabetes Month](/diabetes-awareness-month/).\n\nWhat is independently checkable, in the primary congressional record, is that Congress has tried three separate times to put a federal designation behind that campaign, and none of the three attempts succeeded. On September 5, 2002, Senator Blanche Lincoln of Arkansas, joined by four original co-sponsors, introduced Senate Resolution 322 in the 107th Congress, which would have had the Senate designate November 2002 as \"National Epilepsy Awareness Month\" and asked the President to issue a proclamation. The resolution was referred to the Senate Judiciary Committee and never received a vote; it died there when that Congress ended.\n\nThe House tried next. On May 22, 2003, in the 108th Congress, a resolution \"supporting the goals and ideals of 'National Epilepsy Awareness Month' and urging funding for epilepsy research and service programs\" was introduced as House Concurrent Resolution 194, gathering 86 co-sponsors. It, too, was referred to committee and never came to a floor vote. A third attempt followed eight years later: House Resolution 298, introduced June 3, 2011, in the 112th Congress with 107 co-sponsors, expressed the sense of the House that federal agencies should coordinate existing epilepsy-awareness programs. It also died in committee without a vote.\n\nNo other resolution on the primary congressional record has attempted a fourth try since 2011. No sitting president has issued a proclamation naming November \"National Epilepsy Awareness Month\" at the federal level; the closest federal-adjacent action found in researching this page is the Epilepsy Foundation and allied advocacy groups asking a president to do exactly that, a request that, as of this page's research, had gone unanswered. Some state governors, Michigan's among them, have issued their own state-level proclamations in individual years. The month persists on the calendar the way it started: as the Epilepsy Foundation's own campaign, amplified by hospitals, regional Foundation affiliates, and advocacy groups, not by any standing federal statute.",
       "source": {
-        "label": "S.Res.322 — 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "label": "S.Res.322: 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
         "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/322"
       }
     },
@@ -5125,27 +5125,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "S.Res.322 — 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "label": "S.Res.322: 107th Congress, designating November 2002 as \"National Epilepsy Awareness Month\" (Congress.gov)",
         "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/322"
       },
       {
-        "label": "H.Con.Res.194 — 108th Congress, supporting the goals and ideals of \"National Epilepsy Awareness Month\" (Congress.gov)",
+        "label": "H.Con.Res.194: 108th Congress, supporting the goals and ideals of \"National Epilepsy Awareness Month\" (Congress.gov)",
         "url": "https://www.congress.gov/bill/108th-congress/house-concurrent-resolution/194"
       },
       {
-        "label": "H.Res.298 — 112th Congress, on coordinating existing epilepsy-awareness programs (Congress.gov)",
+        "label": "H.Res.298: 112th Congress, on coordinating existing epilepsy-awareness programs (Congress.gov)",
         "url": "https://www.congress.gov/bill/112th-congress/house-resolution/298"
       },
       {
-        "label": "Epilepsy Foundation of Northeastern New York — The History of National Epilepsy Awareness Month (NEAM), source of the \"recognized by Congress\" claim identified above",
+        "label": "Epilepsy Foundation of Northeastern New York: The History of National Epilepsy Awareness Month (NEAM), source of the \"recognized by Congress\" claim identified above",
         "url": "https://efneny.org/2024/10/25/the-history-of-national-epilepsy-awareness-month-neam/"
       },
       {
-        "label": "Epilepsy Foundation — National Epilepsy Awareness Month (NEAM)",
+        "label": "Epilepsy Foundation: National Epilepsy Awareness Month (NEAM)",
         "url": "https://www.epilepsy.com/volunteer/spreading-awareness/national-epilepsy-awareness-month"
       },
       {
-        "label": "National and State Estimates of the Numbers of Adults and Children with Active Epilepsy — United States, 2015 (CDC, MMWR)",
+        "label": "National and State Estimates of the Numbers of Adults and Children with Active Epilepsy: United States, 2015 (CDC, MMWR)",
         "url": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6631a1.htm"
       },
       {
@@ -5174,7 +5174,7 @@ export const guides: Guide[] = [
       "text": "All of October, every year, in the United States — not a single date within the month, and not any of the five single September dates the Senate actually designated between 2004 and 2008.",
       "status": "conventional",
       "source": {
-        "label": "ADDA — Where Did ADHD Awareness Month Get Its Start? (add.org)",
+        "label": "ADDA: Where Did ADHD Awareness Month Get Its Start? (add.org)",
         "url": "https://add.org/adhd-awareness-history/"
       },
       "occurrences": [
@@ -5209,7 +5209,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The part of this history that is fully checkable against primary legislative documents turns out to be larger than a single resolution. On June 7, 2004, Senator Maria Cantwell of Washington, joined by Senator Richard Durbin of Illinois, introduced Senate Resolution 370 in the 108th Congress. It was referred to the Senate Judiciary Committee the same day, reported out without amendment by Committee Chairman Orrin Hatch on June 18, 2004, and agreed to by the full Senate, by unanimous consent, on July 6, 2004. Its text designates a single date, September 7, 2004, as \"National Attention Deficit Disorder Awareness Day,\" recognizes AD/HD as a major public health concern, and, uniquely among the five resolutions described below, requests that the President issue a proclamation calling on federal, state, and local administrators to observe the day. The Attention Deficit Disorder Association (ADDA) served as the resolution's sponsoring organization, and according to ADDA's own contemporaneous press release, worked directly with Cantwell's office on its drafting. David Giwerc, ADDA's president at the time, called the designation \"a monumental first step,\" adding, \"It is our hope that September 7, 2004 will be the beginning of a nationwide awareness leading to greater understanding and acceptance of AD/HD.\"\n\nWhat this calendar did not expect, and found only by searching Congress's own bill database beyond the 2004 resolution, is that the Senate repeated this exact act four more times. Cantwell and Durbin returned the following year with Senate Resolution 201, designating September 14, 2005, agreed to July 27, 2005. They returned again with Senate Resolution 544, designating September 20, 2006, agreed to July 28, 2006. In 2007, Cantwell submitted Senate Resolution 295 alone, without a co-sponsor, designating September 19, 2007, agreed to the same day it was submitted. In 2008, Cantwell was joined by Senator Gordon Smith of Oregon for Senate Resolution 649, designating September 18, 2008, agreed to September 8, 2008. All five were simple resolutions, all five passed without a recorded vote, and all five named a single calendar date for that year only, never a recurring day and never a month. One consistent change across the five: starting with the 2005 resolution, the text dropped the clause asking the President for a proclamation that the 2004 original had included, replacing it with language that only \"calls on Federal, State and local administrators and the people of the United States to observe the day.\" This calendar could not find a stated reason for that change, or a record of whether a proclamation was ever issued in response to the 2004 request.\n\nThen the pattern stops. This calendar searched Congress's bill database for any resolution matching this same title after 2008, and for any using the shorter \"ADHD Awareness\" phrasing in place of \"Attention Deficit Disorder,\" and found nothing: no sixth Senate resolution, no House companion, and no presidential proclamation naming an annual day or a month at the federal level in any year since 2008. What filled that gap afterward is not a sixth resolution but an advocacy coalition. The same organizations behind the Senate pushes, ADDA together with CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder) and the ADHD Coaches Organization (ACO), kept the campaign going on their own, past the single September date, into a longer observance that today runs every October under the shared site ADHDAwarenessMonth.org. ADDA's own history page states that \"ADHD Awareness has grown from one day each year in 2004 to a full month, the month of October,\" without giving a specific year for that particular shift, and this calendar could not independently verify one, so no exact date for the week-to-month transition is claimed here.\n\nThe distinction that matters for a reader planning around this observance is not whether Congress ever acted, it did, five years running, but whether that action ever became permanent. It did not. Compare that to [American Diabetes Month](/diabetes-awareness-month/), where a single 1982 presidential proclamation was later renewed by name and has effectively continued since. ADHD Awareness had the opposite trajectory: five consecutive years of real Senate approval, then an abrupt stop, with the annual repetition, the move to October, and the month-long scope all left to the coalition's own doing from 2008 onward.",
       "source": {
-        "label": "S.Res.370 — 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
+        "label": "S.Res.370: 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-108sres370ats/html/BILLS-108sres370ats.htm"
       }
     },
@@ -5282,31 +5282,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "S.Res.370 — 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
+        "label": "S.Res.370: 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-108sres370ats/html/BILLS-108sres370ats.htm"
       },
       {
-        "label": "S.Res.201 — 109th Congress, designating September 14, 2005 (GovInfo.gov, official bill text)",
+        "label": "S.Res.201: 109th Congress, designating September 14, 2005 (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-109sres201ats/html/BILLS-109sres201ats.htm"
       },
       {
-        "label": "S.Res.544 — 109th Congress, designating September 20, 2006 (GovInfo.gov, official bill text)",
+        "label": "S.Res.544: 109th Congress, designating September 20, 2006 (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-109sres544ats/html/BILLS-109sres544ats.htm"
       },
       {
-        "label": "S.Res.295 — 110th Congress, designating September 19, 2007 (GovInfo.gov, official bill text)",
+        "label": "S.Res.295: 110th Congress, designating September 19, 2007 (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-110sres295ats/html/BILLS-110sres295ats.htm"
       },
       {
-        "label": "S.Res.649 — 110th Congress, designating September 18, 2008, the last resolution of its kind found on record (GovInfo.gov, official bill text)",
+        "label": "S.Res.649: 110th Congress, designating September 18, 2008, the last resolution of its kind found on record (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-110sres649ats/html/BILLS-110sres649ats.htm"
       },
       {
-        "label": "ADDA — Where Did ADHD Awareness Month Get Its Start? (add.org)",
+        "label": "ADDA: Where Did ADHD Awareness Month Get Its Start? (add.org)",
         "url": "https://add.org/adhd-awareness-history/"
       },
       {
-        "label": "Senate Resolution Declares September 7th AD/HD Awareness Day — ADDA press release, source of the David Giwerc quote above (ADD Coach Academy)",
+        "label": "Senate Resolution Declares September 7th AD/HD Awareness Day: ADDA press release, source of the David Giwerc quote above (ADD Coach Academy)",
         "url": "https://addca.com/adhd-coach-training/ADHD-Blog-Details/senate_resolution_declares_september_7th_ad_hd_awareness_day/"
       },
       {
@@ -5314,7 +5314,7 @@ export const guides: Guide[] = [
         "url": "https://www.cdc.gov/adhd/data/index.html"
       },
       {
-        "label": "A Brief History of ADHD (& ADHD Awareness Week) — ImpactADHD.com, source of the \"3rd Wednesday\" description discussed above",
+        "label": "A Brief History of ADHD (& ADHD Awareness Week): ImpactADHD.com, source of the \"3rd Wednesday\" description discussed above",
         "url": "https://impactadhd.com/a-brief-history-of-adhd-awareness-week/"
       }
     ],
@@ -5326,7 +5326,7 @@ export const guides: Guide[] = [
     "slug": "national-first-responders-day",
     "category": "Observances",
     "title": "National First Responders Day: Eleven Bills, No Statute",
-    "description": "October 28 is National First Responders Day. Congress introduced eleven bills across a decade — the Senate passed two, the House never passed one at all.",
+    "description": "October 28 is National First Responders Day. Congress introduced eleven bills across a decade: the Senate passed two, the House never passed one at all.",
     "published": "2026-08-16",
     "updated": "2026-08-16",
     "coreSummary": "National First Responders Day falls on October 28 every year in the United States, honoring police officers, firefighters, EMTs, paramedics, and 911 dispatchers. Congress introduced eleven separate bills and resolutions to establish it between 2014 and 2023, and the Senate passed two of them, in 2017 and 2019, but the House never passed a single one, so no federal statute names the day; the White House has filled that gap on its own, with presidential proclamations in 2022, 2023, and 2024.",
@@ -5335,7 +5335,7 @@ export const guides: Guide[] = [
       "text": "The same calendar date every year, October 28, in the United States.",
       "status": "conventional",
       "source": {
-        "label": "National First Responders Day, 2024 — Presidential Proclamation 10845 (Federal Register)",
+        "label": "National First Responders Day, 2024: Presidential Proclamation 10845 (Federal Register)",
         "url": "https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024"
       },
       "occurrences": [
@@ -5370,7 +5370,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The observance traces to a named person with a specific, on-the-record starting point: Andrew Collier, whose brother, Massachusetts Institute of Technology police officer Sean Collier, was shot and killed on April 18, 2013, by the two men responsible for the Boston Marathon bombing. In an October 15, 2013, Police1 article by Barbara A. Schwartz, published that same year, Andrew is described launching a petition and a public campaign for a national day honoring first responders, reasoning that police officers, firefighters, and paramedics who \"put their lives on the line\" at home deserved the kind of recognition Memorial Day gives service members overseas. Schwartz's article, itself explicitly asking readers to sign the petition, is the earliest dated, named account this calendar could find of the campaign that led to National First Responders Day.\n\nThe first legislative attempt followed within months: Representative Michael Capuano of Massachusetts, Sean Collier's home state, introduced H.R.4109 on February 27, 2014, a bill that would have gone further than a symbolic resolution by requiring the President to designate a legal public holiday called National First Responders Day. It was referred to committee and never received a vote. Over the following decade, ten more bills and resolutions followed in five more Congresses, described in full below, and only two of them, both in the Senate, ever passed a floor vote. None passed the House. No federal statute has ever created National First Responders Day; the date exists today because of Andrew Collier's advocacy, continued backing from the nonprofit All Clear Foundation, a pattern of resolutions that consistently named October 28 without ever finishing the job, and, starting in 2022, a run of presidential proclamations issued without any statute behind them.",
       "source": {
-        "label": "Brother of slain MIT officer seeks a National First Responders Day — Police1, October 15, 2013, by Barbara A. Schwartz",
+        "label": "Brother of slain MIT officer seeks a National First Responders Day: Police1, October 15, 2013, by Barbara A. Schwartz",
         "url": "https://www.police1.com/police-heroes/articles/brother-of-slain-mit-officer-seeks-a-national-first-responders-day-rzq9SHfn8FFxlk6I/"
       }
     },
@@ -5454,51 +5454,51 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Brother of slain MIT officer seeks a National First Responders Day — Police1, October 15, 2013",
+        "label": "Brother of slain MIT officer seeks a National First Responders Day: Police1, October 15, 2013",
         "url": "https://www.police1.com/police-heroes/articles/brother-of-slain-mit-officer-seeks-a-national-first-responders-day-rzq9SHfn8FFxlk6I/"
       },
       {
-        "label": "In Memory of Sean A. Collier — MIT Police, official account of the April 18, 2013, shooting",
+        "label": "In Memory of Sean A. Collier: MIT Police, official account of the April 18, 2013, shooting",
         "url": "https://police.mit.edu/memory-sean-collier"
       },
       {
-        "label": "H.R.4109 — 113th Congress, 2014, to require the President to designate a legal public holiday (GovTrack.us)",
+        "label": "H.R.4109: 113th Congress, 2014, to require the President to designate a legal public holiday (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/113/hr4109"
       },
       {
-        "label": "S.Con.Res.15 — 115th Congress, 2017, passed the Senate August 3, 2017, never passed the House (GovTrack.us)",
+        "label": "S.Con.Res.15: 115th Congress, 2017, passed the Senate August 3, 2017, never passed the House (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/115/sconres15"
       },
       {
-        "label": "S.Con.Res.15 — 116th Congress, 2019, passed the Senate June 5, 2019, never passed the House (GovTrack.us)",
+        "label": "S.Con.Res.15: 116th Congress, 2019, passed the Senate June 5, 2019, never passed the House (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/116/sconres15"
       },
       {
-        "label": "H.Con.Res.37 — 116th Congress, 2019, died without a House floor vote (GovTrack.us)",
+        "label": "H.Con.Res.37: 116th Congress, 2019, died without a House floor vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/116/hconres37"
       },
       {
-        "label": "Congressional Resolution Advances to Designate Oct. 28 as National First Responders Day — All Clear Foundation, PRNewswire, December 12, 2019, source of the \"bring HR37 to a House floor vote\" quote above",
+        "label": "Congressional Resolution Advances to Designate Oct. 28 as National First Responders Day: All Clear Foundation, PRNewswire, December 12, 2019, source of the \"bring HR37 to a House floor vote\" quote above",
         "url": "https://www.prnewswire.com/news-releases/congressional-resolution-advances-to-designate-oct-28-as-national-first-responders-day-300973596.html"
       },
       {
-        "label": "H.Res.818 — 118th Congress, 2023, the most recent attempt found, died without a vote (GovTrack.us)",
+        "label": "H.Res.818: 118th Congress, 2023, the most recent attempt found, died without a vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/118/hres818"
       },
       {
-        "label": "H.Res.1185 — 118th Congress, 2024, proposing \"National First Responder Month\" in May, died without a vote (GovTrack.us)",
+        "label": "H.Res.1185: 118th Congress, 2024, proposing \"National First Responder Month\" in May, died without a vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/118/hres1185"
       },
       {
-        "label": "National First Responders Day, 2024 — Presidential Proclamation 10845 (Federal Register)",
+        "label": "National First Responders Day, 2024: Presidential Proclamation 10845 (Federal Register)",
         "url": "https://www.federalregister.gov/documents/2024/11/01/2024-25590/national-first-responders-day-2024"
       },
       {
-        "label": "Proclamation 10482 — National First Responders Day, 2022 (The American Presidency Project)",
+        "label": "Proclamation 10482: National First Responders Day, 2022 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-10482-national-first-responders-day-2022"
       },
       {
-        "label": "Origin story: The history of National First Responders Day — FireRescue1, source of the overstated \"bill that passed in the U.S. House\" claim discussed above",
+        "label": "Origin story: The history of National First Responders Day: FireRescue1, source of the overstated \"bill that passed in the U.S. House\" claim discussed above",
         "url": "https://www.firerescue1.com/national-first-responders-day/articles/origin-story-national-first-responders-day-hWdwQqSAsvEx7KbP/"
       }
     ],
@@ -5519,7 +5519,7 @@ export const guides: Guide[] = [
       "text": "All of September, every year, in the United States, not a single date within the month.",
       "status": "conventional",
       "source": {
-        "label": "American Association of Suicidology — About & History",
+        "label": "American Association of Suicidology: About & History",
         "url": "https://suicidology.org/about/"
       },
       "occurrences": [
@@ -5554,7 +5554,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The American Association of Suicidology (AAS), a nonprofit founded in 1968 by clinical psychologist Edwin S. Shneidman, says on its own site that it convened after Shneidman's work at the National Institute of Mental Health exposed the lack of any coordinated national suicide-prevention structure. Secondary histories, though not AAS's currently live pages, credit the organization with launching a National Suicide Prevention Week every May starting in 1974, moving that week to September in 2003 to align with the newly created World Suicide Prevention Day, and expanding it to cover the full month in 2008. No single person is credited with founding the month itself; it grew out of an advocacy campaign, not a proclamation or a law.",
       "source": {
-        "label": "American Association of Suicidology — About & History",
+        "label": "American Association of Suicidology: About & History",
         "url": "https://suicidology.org/about/"
       }
     },
@@ -5639,59 +5639,59 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "American Association of Suicidology — About & History (1968 founding, Edwin S. Shneidman)",
+        "label": "American Association of Suicidology: About & History (1968 founding, Edwin S. Shneidman)",
         "url": "https://suicidology.org/about/"
       },
       {
-        "label": "World Health Organization — World Suicide Prevention Day campaign page",
+        "label": "World Health Organization: World Suicide Prevention Day campaign page",
         "url": "https://www.who.int/campaigns/world-suicide-prevention-day"
       },
       {
-        "label": "Wikipedia — National Suicide Prevention Week (secondary source for the 1974/1975 discrepancy)",
+        "label": "Wikipedia: National Suicide Prevention Week (secondary source for the 1974/1975 discrepancy)",
         "url": "https://en.wikipedia.org/wiki/National_Suicide_Prevention_Week"
       },
       {
-        "label": "S.Res.84 — 105th Congress, 1997, Sen. Harry Reid, \"recognizing suicide as a national problem\" (GovTrack.us)",
+        "label": "S.Res.84: 105th Congress, 1997, Sen. Harry Reid, \"recognizing suicide as a national problem\" (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/105/sres84"
       },
       {
-        "label": "H.Res.850 — 114th Congress, 2016, died without a floor vote (GovTrack.us)",
+        "label": "H.Res.850: 114th Congress, 2016, died without a floor vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/114/hres850"
       },
       {
-        "label": "S.Res.636 — 115th Congress, 2018, agreed to by unanimous consent (GovTrack.us)",
+        "label": "S.Res.636: 115th Congress, 2018, agreed to by unanimous consent (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/115/sres636"
       },
       {
-        "label": "H.Res.1067 — 115th Congress, 2018, died without a floor vote (GovTrack.us)",
+        "label": "H.Res.1067: 115th Congress, 2018, died without a floor vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/115/hres1067"
       },
       {
-        "label": "S.Res.738 — 116th Congress, 2020, agreed to by unanimous consent (GovTrack.us)",
+        "label": "S.Res.738: 116th Congress, 2020, agreed to by unanimous consent (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/116/sres738"
       },
       {
-        "label": "H.Res.1436 — 118th Congress, 2024, died without a floor vote (GovTrack.us)",
+        "label": "H.Res.1436: 118th Congress, 2024, died without a floor vote (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/118/hres1436"
       },
       {
-        "label": "H.Res.697 and S.Res.385 — 119th Congress, 2025, both stalled at \"introduced\" (GovTrack.us)",
+        "label": "H.Res.697 and S.Res.385: 119th Congress, 2025, both stalled at \"introduced\" (GovTrack.us)",
         "url": "https://www.govtrack.us/congress/bills/119/hres697"
       },
       {
-        "label": "S.2661 — National Suicide Hotline Designation Act of 2020, Public Law 116-172 (Congress.gov)",
+        "label": "S.2661: National Suicide Hotline Designation Act of 2020, Public Law 116-172 (Congress.gov)",
         "url": "https://www.congress.gov/bill/116th-congress/senate-bill/2661"
       },
       {
-        "label": "Federal Communications Commission — U.S. Transition to 988 Suicide & Crisis Lifeline",
+        "label": "Federal Communications Commission: U.S. Transition to 988 Suicide & Crisis Lifeline",
         "url": "https://www.fcc.gov/document/us-transition-988-suicide-crisis-lifeline-begins-july-16"
       },
       {
-        "label": "CDC/NCHS — Suicide Rates Largely Unchanged in 2023, but Still High (September 2025)",
+        "label": "CDC/NCHS: Suicide Rates Largely Unchanged in 2023, but Still High (September 2025)",
         "url": "https://blogs.cdc.gov/nchs/2025/09/24/7848/"
       },
       {
-        "label": "The White House (Biden archive) — A Proclamation on World Suicide Prevention Day, 2024",
+        "label": "The White House (Biden archive): A Proclamation on World Suicide Prevention Day, 2024",
         "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/09/world-suicide-prevention-day-2024/"
       }
     ],
@@ -5792,43 +5792,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — November Birth Flower: The Chrysanthemum",
+        "label": "The Old Farmer's Almanac: November Birth Flower: The Chrysanthemum",
         "url": "https://www.almanac.com/november-birth-flower"
       },
       {
-        "label": "Farmers' Almanac — Birth Flower Chart: All 12 Birth Flowers by Month",
+        "label": "Farmers' Almanac: Birth Flower Chart: All 12 Birth Flowers by Month",
         "url": "https://www.farmersalmanac.com/birth-month-flowers-how-to-plant-a-family-garden"
       },
       {
-        "label": "Online Etymology Dictionary — Chrysanthemum",
+        "label": "Online Etymology Dictionary: Chrysanthemum",
         "url": "https://www.etymonline.com/word/chrysanthemum"
       },
       {
-        "label": "Wikipedia — Imperial Seal of Japan",
+        "label": "Wikipedia: Imperial Seal of Japan",
         "url": "https://en.wikipedia.org/wiki/Imperial_Seal_of_Japan"
       },
       {
-        "label": "Wikipedia — Order of the Chrysanthemum",
+        "label": "Wikipedia: Order of the Chrysanthemum",
         "url": "https://en.wikipedia.org/wiki/Order_of_the_Chrysanthemum"
       },
       {
-        "label": "Blooming Expert — Chrysanthemum Meaning: Funeral Flower in Europe and the Emperor's Seal in Japan",
+        "label": "Blooming Expert: Chrysanthemum Meaning: Funeral Flower in Europe and the Emperor's Seal in Japan",
         "url": "https://www.bloomingexpert.com/flower-meaning/chrysanthemum/"
       },
       {
-        "label": "Merriam-Webster — Paeonia",
+        "label": "Merriam-Webster: Paeonia",
         "url": "https://www.merriam-webster.com/dictionary/Paeonia"
       },
       {
-        "label": "Wikipedia — Peony",
+        "label": "Wikipedia: Peony",
         "url": "https://en.wikipedia.org/wiki/Peony"
       },
       {
-        "label": "Britannica — Saxifragales",
+        "label": "Britannica: Saxifragales",
         "url": "https://www.britannica.com/plant/Saxifragales"
       },
       {
-        "label": "iWeiYi — Peonies and Prosperity: Why Peonies Hold Special Meaning in China",
+        "label": "iWeiYi: Peonies and Prosperity: Why Peonies Hold Special Meaning in China",
         "url": "https://www.iweiyi.com/en/peonies-and-prosperity-why-peonies-hold-special-meaning-in-china.htm"
       }
     ],
@@ -5931,39 +5931,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — October Birth Flowers: Marigold and Cosmos",
+        "label": "The Old Farmer's Almanac: October Birth Flowers: Marigold and Cosmos",
         "url": "https://www.almanac.com/october-birth-flowers"
       },
       {
-        "label": "Online Etymology Dictionary — Marigold",
+        "label": "Online Etymology Dictionary: Marigold",
         "url": "https://www.etymonline.com/word/marigold"
       },
       {
-        "label": "University of Dayton, Marian Library — Marigolds: Mary's Gold",
+        "label": "University of Dayton, Marian Library: Marigolds: Mary's Gold",
         "url": "https://udayton.edu/imri/mary/m/marigolds-marys-gold.php"
       },
       {
-        "label": "Mexicolore — Cempoalxóchitl",
+        "label": "Mexicolore: Cempoalxóchitl",
         "url": "https://www.mexicolore.co.uk/aztecs/flora-and-fauna/cempoalxochitl"
       },
       {
-        "label": "Wikipedia — Tagetes erecta (African marigold)",
+        "label": "Wikipedia: Tagetes erecta (African marigold)",
         "url": "https://en.wikipedia.org/wiki/Tagetes_erecta"
       },
       {
-        "label": "Wikipedia — Tagetes patula (French marigold)",
+        "label": "Wikipedia: Tagetes patula (French marigold)",
         "url": "https://en.wikipedia.org/wiki/Tagetes_patula"
       },
       {
-        "label": "World Flora Online — Cosmos Cav.",
+        "label": "World Flora Online: Cosmos Cav.",
         "url": "https://www.worldfloraonline.org/taxon/wfo-4000009452"
       },
       {
-        "label": "Illinois Wildflowers — Common Cosmos (Cosmos bipinnatus)",
+        "label": "Illinois Wildflowers: Common Cosmos (Cosmos bipinnatus)",
         "url": "https://www.illinoiswildflowers.info/weeds/plants/cosmos.html"
       },
       {
-        "label": "Blooming Expert — Cosmos Flower Meaning",
+        "label": "Blooming Expert: Cosmos Flower Meaning",
         "url": "https://www.bloomingexpert.com/flower-meaning/cosmos/"
       }
     ],
@@ -5984,7 +5984,7 @@ export const guides: Guide[] = [
       "text": "November 13 every year, worldwide. The date is fixed and does not shift for weekends.",
       "status": "conventional",
       "source": {
-        "label": "World Kindness Day — Wikipedia",
+        "label": "World Kindness Day: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/World_Kindness_Day"
       },
       "occurrences": [
@@ -6000,7 +6000,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "World Kindness Day has no single named founder; it was launched by the World Kindness Movement, a coalition of national kindness organizations that took shape at a conference in Tokyo in 1997, convened around Japan's Small Kindness Movement and joined by associations from countries including Australia, Thailand, the United Kingdom and the United States. The World Kindness Movement's US affiliate names its own founder among that founding group: Will Glennon, who also founded the Random Acts of Kindness organization. The coalition held the first World Kindness Day on November 13, 1998. A separate organization founded the very same year, the Singapore Kindness Movement, is often folded into this same origin story; it is in fact Singapore's own civic body, registered as a nonprofit society on January 31, 1997, as successor to the Singapore Courtesy Council, which had overseen the National Courtesy Campaign since its 1979 launch, at the urging of then-Prime Minister Goh Chok Tong. The Singapore Kindness Movement went on to serve as the World Kindness Movement's secretariat from 2003 to 2012, coordinating the international coalition for nearly a decade, yet Wikipedia's own account dates Singapore's first observance of World Kindness Day itself to 2009, not to the movement's 1997 or 1998 founding years. In the United Kingdom, the observance is fronted as Kindness Day UK, co-founded by David Jamilly and Louise Burfitt-Dons. How many national organizations currently belong to the World Kindness Movement is not settled: secondary accounts checked for this page put the figure anywhere from 24 to 33 countries, a range wide enough that this page does not repeat any single count as definitive.",
       "source": {
-        "label": "About Us — The World Kindness USA (Tokyo 1997 founding, Will Glennon)",
+        "label": "About Us: The World Kindness USA (Tokyo 1997 founding, Will Glennon)",
         "url": "https://theworldkindnessusa.org/about-us"
       }
     },
@@ -6068,23 +6068,23 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "World Kindness Day — Wikipedia",
+        "label": "World Kindness Day: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/World_Kindness_Day"
       },
       {
-        "label": "Singapore Kindness Movement — Wikipedia",
+        "label": "Singapore Kindness Movement: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Singapore_Kindness_Movement"
       },
       {
-        "label": "About Us — The World Kindness USA (founding member, objectives, UN advocacy)",
+        "label": "About Us: The World Kindness USA (founding member, objectives, UN advocacy)",
         "url": "https://theworldkindnessusa.org/about-us"
       },
       {
-        "label": "World Kindness Day 2025: How do you show kindness? — BBC Newsround",
+        "label": "World Kindness Day 2025: How do you show kindness?: BBC Newsround",
         "url": "https://www.bbc.co.uk/newsround/articles/c20eyp0e39yo"
       },
       {
-        "label": "World Kindness Movement — Kind Canada / International Kindness Day",
+        "label": "World Kindness Movement: Kind Canada / International Kindness Day",
         "url": "https://www.internationalkindnessday.org/world-kindness-movement"
       },
       {
@@ -6092,7 +6092,7 @@ export const guides: Guide[] = [
         "url": "https://gulfnews.com/news/uae/general/gulf-news-readers-celebrate-world-kindness-day-1.526824"
       },
       {
-        "label": "World Kindness Day - 13 November Annually — Carevan Wangaratta (Slovenia 2017 detail)",
+        "label": "World Kindness Day - 13 November Annually: Carevan Wangaratta (Slovenia 2017 detail)",
         "url": "https://www.carevanwangaratta.org.au/blog/world-kindness-day-13-november-annually"
       }
     ],
@@ -6190,31 +6190,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — Wedding anniversary (sourced US/UK traditional lists and government recognition)",
+        "label": "Wikipedia: Wedding anniversary (sourced US/UK traditional lists and government recognition)",
         "url": "https://en.wikipedia.org/wiki/Wedding_anniversary"
       },
       {
-        "label": "Jewelers of America — Anniversary jewelry buying guide (current gemstone chart)",
+        "label": "Jewelers of America: Anniversary jewelry buying guide (current gemstone chart)",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/anniversary"
       },
       {
-        "label": "Jewelers of America — About (1906 founding)",
+        "label": "Jewelers of America: About (1906 founding)",
         "url": "https://www.jewelers.org/about"
       },
       {
-        "label": "The Royal Household — Anniversary messages (Buckingham Palace)",
+        "label": "The Royal Household: Anniversary messages (Buckingham Palace)",
         "url": "https://www.royal.uk/anniversary-messages"
       },
       {
-        "label": "Governor-General of the Commonwealth of Australia — Receiving an anniversary message",
+        "label": "Governor-General of the Commonwealth of Australia: Receiving an anniversary message",
         "url": "https://www.gg.gov.au/about-governor-general/receiving-anniversary-message-governor-general"
       },
       {
-        "label": "Governor General of Canada — Request Birthday and Anniversary Greetings",
+        "label": "Governor General of Canada: Request Birthday and Anniversary Greetings",
         "url": "https://www.gg.ca/en/contact-us/birthday-anniversary-greetings"
       },
       {
-        "label": "The White House — Greetings request form (anniversary categories)",
+        "label": "The White House: Greetings request form (anniversary categories)",
         "url": "https://www.whitehouse.gov/greetings/"
       }
     ],
@@ -6316,47 +6316,47 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — April Birth Flowers: Daisy and Sweet Pea Meanings & Symbolism",
+        "label": "The Old Farmer's Almanac: April Birth Flowers: Daisy and Sweet Pea Meanings & Symbolism",
         "url": "https://www.almanac.com/content/april-birth-flowers"
       },
       {
-        "label": "Oxford English Dictionary — daisy, n.",
+        "label": "Oxford English Dictionary: daisy, n.",
         "url": "https://www.oed.com/dictionary/daisy_n"
       },
       {
-        "label": "Wikipedia — Daisy",
+        "label": "Wikipedia: Daisy",
         "url": "https://en.wikipedia.org/wiki/Daisy"
       },
       {
-        "label": "Wikipedia — He loves me... he loves me not",
+        "label": "Wikipedia: He loves me... he loves me not",
         "url": "https://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not"
       },
       {
-        "label": "Royal Botanic Gardens, Kew — Effeuillons la marguerite (let's pluck the daisy)",
+        "label": "Royal Botanic Gardens, Kew: Effeuillons la marguerite (let's pluck the daisy)",
         "url": "https://www.kew.org/read-and-watch/lets-pluck-the-daisy"
       },
       {
-        "label": "Wikipedia — Sweet pea",
+        "label": "Wikipedia: Sweet pea",
         "url": "https://en.wikipedia.org/wiki/Sweet_pea"
       },
       {
-        "label": "Sarah Raven — The Sweet Pea Story",
+        "label": "Sarah Raven: The Sweet Pea Story",
         "url": "https://www.sarahraven.com/articles/the-sweet-pea-story"
       },
       {
-        "label": "Wikipedia — Henry Eckford (horticulturist)",
+        "label": "Wikipedia: Henry Eckford (horticulturist)",
         "url": "https://en.wikipedia.org/wiki/Henry_Eckford_(horticulturist)"
       },
       {
-        "label": "Petal Republic — The Sweet Pea Story: Meaning, Symbolism, and Cultural Impact",
+        "label": "Petal Republic: The Sweet Pea Story: Meaning, Symbolism, and Cultural Impact",
         "url": "https://www.petalrepublic.com/sweet-pea-flower-meaning/"
       },
       {
-        "label": "ScienceDirect Topics — Lathyrism",
+        "label": "ScienceDirect Topics: Lathyrism",
         "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/lathyrism"
       },
       {
-        "label": "Wikipedia — Lathyrism",
+        "label": "Wikipedia: Lathyrism",
         "url": "https://en.wikipedia.org/wiki/Lathyrism"
       }
     ],
@@ -6455,35 +6455,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — December Birth Flowers: Holly and Narcissus",
+        "label": "The Old Farmer's Almanac: December Birth Flowers: Holly and Narcissus",
         "url": "https://www.almanac.com/content/december-birth-flowers"
       },
       {
-        "label": "Wikipedia — Ilex aquifolium",
+        "label": "Wikipedia: Ilex aquifolium",
         "url": "https://en.wikipedia.org/wiki/Ilex_aquifolium"
       },
       {
-        "label": "ASPCA — Toxic and Non-Toxic Plants: English Holly",
+        "label": "ASPCA: Toxic and Non-Toxic Plants: English Holly",
         "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/english-holly"
       },
       {
-        "label": "Wikipedia — Holly King and Oak King",
+        "label": "Wikipedia: Holly King and Oak King",
         "url": "https://en.wikipedia.org/wiki/Holly_King_and_Oak_King"
       },
       {
-        "label": "Wikipedia — Echo and Narcissus",
+        "label": "Wikipedia: Echo and Narcissus",
         "url": "https://en.wikipedia.org/wiki/Echo_and_Narcissus"
       },
       {
-        "label": "Wikipedia — Narcissus (plant)",
+        "label": "Wikipedia: Narcissus (plant)",
         "url": "https://en.wikipedia.org/wiki/Narcissus_(plant)"
       },
       {
-        "label": "Wikipedia — Narcissus tazetta",
+        "label": "Wikipedia: Narcissus tazetta",
         "url": "https://en.wikipedia.org/wiki/Narcissus_tazetta"
       },
       {
-        "label": "Cornell Botanic Gardens — Lucky Plants for the Lunar New Year",
+        "label": "Cornell Botanic Gardens: Lucky Plants for the Lunar New Year",
         "url": "https://cornellbotanicgardens.org/lucky-plants-for-the-lunar-new-year"
       }
     ],
@@ -6582,43 +6582,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — February Birth Flowers: Primrose and Violet",
+        "label": "The Old Farmer's Almanac: February Birth Flowers: Primrose and Violet",
         "url": "https://www.almanac.com/content/february-birth-flowers"
       },
       {
-        "label": "Wikipedia — Viola odorata",
+        "label": "Wikipedia: Viola odorata",
         "url": "https://en.wikipedia.org/wiki/Viola_odorata"
       },
       {
-        "label": "Wikipedia — Viola (plant)",
+        "label": "Wikipedia: Viola (plant)",
         "url": "https://en.wikipedia.org/wiki/Viola_(plant)"
       },
       {
-        "label": "Wikipedia — Streptocarpus sect. Saintpaulia",
+        "label": "Wikipedia: Streptocarpus sect. Saintpaulia",
         "url": "https://en.wikipedia.org/wiki/Streptocarpus_sect._Saintpaulia"
       },
       {
-        "label": "Shannon Selin — Symbols of Napoleon: The Violet",
+        "label": "Shannon Selin: Symbols of Napoleon: The Violet",
         "url": "https://shannonselin.com/2020/01/symbols-napoleon-violet/"
       },
       {
-        "label": "Wikipedia — Hundred Days",
+        "label": "Wikipedia: Hundred Days",
         "url": "https://en.wikipedia.org/wiki/Hundred_Days"
       },
       {
-        "label": "Wikipedia — Primula vulgaris",
+        "label": "Wikipedia: Primula vulgaris",
         "url": "https://en.wikipedia.org/wiki/Primula_vulgaris"
       },
       {
-        "label": "Wikipedia — Oenothera biennis",
+        "label": "Wikipedia: Oenothera biennis",
         "url": "https://en.wikipedia.org/wiki/Oenothera_biennis"
       },
       {
-        "label": "Wikipedia — Primrose Day",
+        "label": "Wikipedia: Primrose Day",
         "url": "https://en.wikipedia.org/wiki/Primrose_Day"
       },
       {
-        "label": "Wikipedia — Benjamin Disraeli",
+        "label": "Wikipedia: Benjamin Disraeli",
         "url": "https://en.wikipedia.org/wiki/Benjamin_Disraeli"
       }
     ],
@@ -6718,27 +6718,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — January Birth Flowers: Carnation and Snowdrop",
+        "label": "The Old Farmer's Almanac: January Birth Flowers: Carnation and Snowdrop",
         "url": "https://www.almanac.com/content/january-birth-flowers"
       },
       {
-        "label": "Wikipedia — Dianthus caryophyllus",
+        "label": "Wikipedia: Dianthus caryophyllus",
         "url": "https://en.wikipedia.org/wiki/Dianthus_caryophyllus"
       },
       {
-        "label": "Wikipedia — Mother's Day (United States)",
+        "label": "Wikipedia: Mother's Day (United States)",
         "url": "https://en.wikipedia.org/wiki/Mother%27s_Day_(United_States)"
       },
       {
-        "label": "US House of Representatives, Office of the Historian — The First National Celebration of Mother's Day",
+        "label": "US House of Representatives, Office of the Historian: The First National Celebration of Mother's Day",
         "url": "https://history.house.gov/HistoricalHighlight/Detail/35444"
       },
       {
-        "label": "Wikipedia — Galanthus",
+        "label": "Wikipedia: Galanthus",
         "url": "https://en.wikipedia.org/wiki/Galanthus"
       },
       {
-        "label": "Plant-Lore — Snowdrop",
+        "label": "Plant-Lore: Snowdrop",
         "url": "https://www.plant-lore.com/snowdrop/"
       }
     ],
@@ -6759,7 +6759,7 @@ export const guides: Guide[] = [
       "text": "Movember is observed across all of November, every year, worldwide, from November 1 through November 30, rather than on a single date or a floating week within the month.",
       "status": "conventional",
       "source": {
-        "label": "Movember — Our History (us.movember.com)",
+        "label": "Movember: Our History (us.movember.com)",
         "url": "https://us.movember.com/about/history"
       },
       "occurrences": [
@@ -6794,7 +6794,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The word \"Movember\" predates the men's-health movement that made it famous. In November 1999, Seven Network's Adelaide newsroom aired a segment on a group of young men in Adelaide, South Australia, who had coined the term themselves and organized roughly 80 participants to grow moustaches for the month. Their cause had nothing to do with men's health: the self-styled \"Movember Committee\" sold T-shirts under the slogan \"Growing whiskers for whiskers\" to raise money for the RSPCA, the animal-welfare charity. That 1999 Adelaide campaign became a local phenomenon in its own right, but it has no organizational connection to the global movement that carries the same name today, and the current Movember Foundation's own history pages make no mention of it.\n\nThe movement most people mean by Movember began in Melbourne. According to the foundation's own retelling of its early years, Travis Garone and Luke Slattery were having a beer at the Gypsy Bar in Fitzroy in 2003 when their conversation turned to the moustache's disappearance from recent fashion. Inspired by a friend's mother who was fundraising for breast cancer, they built a men's-health campaign around growing one instead, settled on prostate cancer as the cause, designed the rules the campaign still uses, and recruited 30 friends by email under the subject line \"Are you man enough to be my man?\" Each participant paid ten dollars to take part.\n\nWhether 2003 or 2004 is the founding year depends on which source is asked, and the two years are not simply describing two different steps of the same story. Wikipedia's article states in its main text that the Melbourne group's 30-moustache recruitment event itself happened in 2004, the same event the foundation's own retelling dates to 2003, not a separate formalization step; Wikipedia never mentions a company or website being registered at all. Wikipedia's own article also contradicts itself on the point: its category tags file the page under \"2003 establishments in Australia,\" an inconsistency inside one source, not just between sources. The foundation's current site sides with 2004 too, marking its age as \"twenty-two years\" as of an August 2026 update, but for a different reason: that count matches 2004 as the year Adam Garone and Justin \"JC\" Coghlan registered a company and a website and ran the first campaign under a formal structure, in which 450 Mo Bros raised AUD 54,000 and the first international participants, in Spain and the United Kingdom, signed on. The foundation's own list of that original 30 includes both Adam Garone and JC by name alongside Travis Garone and Luke Slattery, so the four co-founders were all involved as participants from the informal 2003 start; what changed in 2004 was that Adam and JC took on the work of running it as an organization. Wikipedia's 2004 date and the foundation's 2004 date, in other words, agree on the year without agreeing on what happened in it.\n\nThe campaign's causes also grew well after its founding. The original 2003 and 2004 campaigns raised money for prostate cancer alone. In 2006, the same year the Movember Foundation became a registered Australian charity, the foundation partnered with beyondblue, Australia's national depression initiative, adding mental health as a second cause and reaching New Zealand for the first time. Testicular cancer joined later still, rounding out the three causes, prostate cancer, testicular cancer, and mental health and suicide prevention, that the foundation names today, though no source consulted for this page pins an exact year for testicular cancer's addition specifically. Movember reached North America through informal 2007 campaigns in the United States and Canada, led by Adam Garone from Los Angeles, and Movember USA obtained official U.S. charity status in 2009. By the foundation's own most recently updated figures, Movember has funded more than AUD 1.8 billion in men's-health work since it began.\n\nOne sourcing note on the paragraphs above: the year-by-year narrative, the Gypsy Bar conversation, the ten-dollar buy-in, the 450 Mo Bros and AUD 54,000 figure, and the 2006 to 2009 expansion, is drawn from a Movember-branded retrospective republished by M2 Magazine, not from the foundation's own currently live history page, which states only the campaign's age and its cumulative total raised. Nothing in the two accounts conflicts where they overlap, but a reader checking the live page directly will not find the detailed narrative there.",
       "source": {
-        "label": "Movember — Our History (us.movember.com)",
+        "label": "Movember: Our History (us.movember.com)",
         "url": "https://us.movember.com/about/history"
       }
     },
@@ -6878,23 +6878,23 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Movember — Our History (us.movember.com)",
+        "label": "Movember: Our History (us.movember.com)",
         "url": "https://us.movember.com/about/history"
       },
       {
-        "label": "M2 Magazine — \"A Hairy Tale: The History of Movember's Early Years\" (republished Movember foundation account)",
+        "label": "M2 Magazine: \"A Hairy Tale: The History of Movember's Early Years\" (republished Movember foundation account)",
         "url": "https://m2now.com/a-hairy-tale-the-history-of-movembers-early-years/"
       },
       {
-        "label": "Wikipedia — Movember",
+        "label": "Wikipedia: Movember",
         "url": "https://en.wikipedia.org/wiki/Movember"
       },
       {
-        "label": "Seven Nightly News — \"Movember Mo-Phenomenon,\" Channel 7 Adelaide, 30 November 1999 (archived)",
+        "label": "Seven Nightly News: \"Movember Mo-Phenomenon,\" Channel 7 Adelaide, 30 November 1999 (archived)",
         "url": "https://web.archive.org/web/20210826100209/https://www.youtube.com/watch?v=NPH0qQFqs0M"
       },
       {
-        "label": "No Shave November — Our History (no-shave.org, operated by Fight Colorectal Cancer)",
+        "label": "No Shave November: Our History (no-shave.org, operated by Fight Colorectal Cancer)",
         "url": "https://no-shave.org/"
       }
     ],
@@ -6914,7 +6914,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "Prostate Cancer Awareness Month is observed across all of September, every year, from September 1 through September 30, rather than on a single date or a floating week within the month. The Senate asked the President to proclaim September 2001 under this name; that year's proclamation instead named November. September has been the proclaimed month every year since President George W. Bush's Proclamation 7700 on September 1, 2003.",
       "source": {
-        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "label": "George W. Bush: Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
         "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
       },
       "occurrences": [
@@ -6949,7 +6949,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "The observance began a decade before it had a name resembling today's. In 1989, a newly formed Prostate Cancer Education Council, made up of urologists, oncologists, behavioral researchers, and patient advocates, commissioned a health survey that March to gauge public knowledge of prostate cancer, held a press conference in New York City that summer, and designated the third week of September, September 17 to 24, 1989, as Prostate Cancer Awareness Week. Its stated purpose was blunt: to find out whether men could be recruited to get screened at all for what organizers called \"the ignored male disease.\" The week grew into what several sources describe as the country's largest single cancer-screening program, tracked in peer-reviewed follow-up studies published in CA: A Cancer Journal for Clinicians through at least 1997.\n\nA full month arrived a decade after the first week. In 1999, the American Foundation for Urological Disease (AFUD), renamed the Urology Care Foundation in 2011, designated all of September as National Prostate Health Month, an observance about prostate health generally rather than cancer specifically. The cancer-specific name came from Congress two years later: on August 3, 2001, the Senate agreed to Resolution 138 by unanimous consent, sponsored by Senator Conrad Burns of Montana and cosponsored by 58 other senators, which asked the President to proclaim September 2001 as \"National Prostate Cancer Awareness Month.\" The resolution requested that one specific month; it did not, on its own, make the name or the September date permanent.\n\nWhat the President actually proclaimed that year did not match the Senate's request. On November 1, 2001, George W. Bush proclaimed National Prostate Cancer Awareness Month, but for November 2001, the first presidential use of the cancer-specific name on record, attached to a different month than Congress had asked for. September and the name came together for good two years later: on September 1, 2003, Bush's Proclamation 7700 named September 2003 National Prostate Cancer Awareness Month, citing an estimated 220,000 new diagnoses and nearly 29,000 deaths that year. September has been the proclaimed month every year since. No standing law compels a proclamation every year; each one rests on the President's own authority. Obama proclaimed the month in at least 2011 and 2015, Biden issued a formal proclamation in 2022, and both Trump administrations have marked it, first as a 2017 statement and again as a September 2, 2025 presidential message citing more than 300,000 annual diagnoses and more than 35,000 deaths. Congress has periodically added its own non-binding resolutions naming specific years since, including versions for 2021 (S.Res.378) and 2022 (S.Res.776), and the House introduced a matching resolution for 2025 (H.Res.675). None of these amounts to a permanent law that renews the observance automatically; each year's recognition is its own separate act.",
       "source": {
-        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "label": "George W. Bush: Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
         "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
       }
     },
@@ -7038,59 +7038,59 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — National Prostate Health Month",
+        "label": "Wikipedia: National Prostate Health Month",
         "url": "https://en.wikipedia.org/wiki/National_Prostate_Health_Month"
       },
       {
-        "label": "George W. Bush — Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
+        "label": "George W. Bush: Proclamation 7700, National Prostate Cancer Awareness Month, 2003 (Federal Register)",
         "url": "https://www.federalregister.gov/documents/2003/09/05/03-22811/national-prostate-cancer-awareness-month-2003"
       },
       {
-        "label": "George W. Bush White House Archives — National Prostate Cancer Awareness Month, 2003 (press release text)",
+        "label": "George W. Bush White House Archives: National Prostate Cancer Awareness Month, 2003 (press release text)",
         "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2003/09/20030901-1.html"
       },
       {
-        "label": "George W. Bush White House Archives — National Prostate Cancer Awareness Month, November 2001 proclamation",
+        "label": "George W. Bush White House Archives: National Prostate Cancer Awareness Month, November 2001 proclamation",
         "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/11/20011105-1.html"
       },
       {
-        "label": "Congress.gov — S.Res.138, 107th Congress, requesting September 2001 as National Prostate Cancer Awareness Month",
+        "label": "Congress.gov: S.Res.138, 107th Congress, requesting September 2001 as National Prostate Cancer Awareness Month",
         "url": "https://www.congress.gov/bill/107th-congress/senate-resolution/138"
       },
       {
-        "label": "GovTrack.us — S.Res.138, 107th Congress (agreed to August 3, 2001, 58 cosponsors)",
+        "label": "GovTrack.us: S.Res.138, 107th Congress (agreed to August 3, 2001, 58 cosponsors)",
         "url": "https://www.govtrack.us/congress/bills/107/sres138"
       },
       {
-        "label": "The American Presidency Project — Message on National Prostate Cancer Awareness Month, September 2, 2025",
+        "label": "The American Presidency Project: Message on National Prostate Cancer Awareness Month, September 2, 2025",
         "url": "https://www.presidency.ucsb.edu/documents/message-national-prostate-cancer-awareness-month-1"
       },
       {
-        "label": "Biden White House Archives — A Proclamation on National Prostate Cancer Awareness Month, 2022",
+        "label": "Biden White House Archives: A Proclamation on National Prostate Cancer Awareness Month, 2022",
         "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/31/a-proclamation-on-national-prostate-cancer-awareness-month-2022/"
       },
       {
-        "label": "Federal Register — National Prostate Cancer Awareness Month, 2022",
+        "label": "Federal Register: National Prostate Cancer Awareness Month, 2022",
         "url": "https://www.federalregister.gov/documents/2022/09/06/2022-19300/national-prostate-cancer-awareness-month-2022"
       },
       {
-        "label": "Congress.gov — S.Res.378, 117th Congress, designating September 2021 as National Prostate Cancer Awareness Month",
+        "label": "Congress.gov: S.Res.378, 117th Congress, designating September 2021 as National Prostate Cancer Awareness Month",
         "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/378"
       },
       {
-        "label": "Congress.gov — S.Res.776, 117th Congress, designating September 2022 as National Prostate Cancer Awareness Month",
+        "label": "Congress.gov: S.Res.776, 117th Congress, designating September 2022 as National Prostate Cancer Awareness Month",
         "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/776"
       },
       {
-        "label": "Congress.gov — H.Res.675, 119th Congress, supporting the designation of September 2025 as National Prostate Cancer Awareness Month",
+        "label": "Congress.gov: H.Res.675, 119th Congress, supporting the designation of September 2025 as National Prostate Cancer Awareness Month",
         "url": "https://www.congress.gov/bill/119th-congress/house-resolution/675/text"
       },
       {
-        "label": "American Cancer Society — Key Statistics for Prostate Cancer",
+        "label": "American Cancer Society: Key Statistics for Prostate Cancer",
         "url": "https://www.cancer.org/cancer/types/prostate-cancer/about/key-statistics.html"
       },
       {
-        "label": "Crawford, E.D. — \"Prostate Cancer Awareness Week: September 22 to 28, 1997,\" CA: A Cancer Journal for Clinicians (Wiley)",
+        "label": "Crawford, E.D.: \"Prostate Cancer Awareness Week: September 22 to 28, 1997,\" CA: A Cancer Journal for Clinicians (Wiley)",
         "url": "https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/canjclin.47.5.288"
       }
     ],
@@ -7110,7 +7110,7 @@ export const guides: Guide[] = [
       "kind": "nth-weekday",
       "text": "The first Friday of October every year. It is not a fixed calendar date, so it moves within a seven-day range depending on where October's first Friday falls.",
       "source": {
-        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "label": "Harvey Ball World Smile Foundation: About World Smile Day",
         "url": "https://www.worldsmile.org/about/about-world-smile-day"
       },
       "occurrences": [
@@ -7145,7 +7145,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Harvey Ball, a commercial artist from Worcester, Massachusetts, drew the original smiley face in 1963 for State Mutual Life Assurance Company (now Hanover Insurance), which had just merged with Guarantee Mutual Company of Ohio and needed something to lift employee morale. The drawing, a yellow circle with two eyes and a mouth, took about ten minutes and earned Ball a flat $45; he never trademarked the design. State Mutual ordered 100 pins at first, then tens of thousands more as demand grew, and by 1971 more than 50 million smiley-face buttons had been sold, with Ball receiving no royalty from any of it.\n\nThirty-six years later, in 1999, Ball created something he did trademark: World Smile Day itself. By his own account and the foundation's, he had grown concerned that the smiley's original message of simple goodwill had been diluted by decades of unlicensed commercial and cultural use, and he set aside the first Friday of every October as a day devoted to smiles and small acts of kindness, under the trademarked name World Smile Day® and the catchphrase \"Do an act of kindness. Help one person smile.\" The first observance was held that October in Ball's hometown of Worcester.\n\nBall died on April 12, 2001. The organization that carries the day forward today, the Harvey Ball World Smile Foundation, states on its own \"About\" page that it was established in 2001 specifically \"to honor the name and memory of Harvey Ball\" — language that only makes sense as a posthumous tribute, not something its own namesake built. Federal nonprofit filings, indexed by ProPublica's Nonprofit Explorer under EIN 04-6946615, record 2002 as the organization's IRS ruling year, consistent with a foundation whose incorporation process began in 2001 and received formal tax-exempt recognition the following year.\n\nWikipedia's article on Harvey Ball gives a different account, as of this page's research in August 2026. Its lead states plainly that \"Ball later founded the Harvey Ball World Smile Foundation in 1999, a non-profit charitable trust that supports children's causes.\" Checked against the foundation's own primary-source account, that sentence does not hold up: it would date the foundation's founding to two years before its own namesake died, while the foundation itself describes its founding as an act of honoring him, which is not something an organization typically does for someone still alive. The more consistent reading of the record is that Wikipedia's editors conflated two different 1999 and 2001 events: the day, which Ball really did create himself in 1999, and the foundation, which he did not, since it did not exist yet when he died. Wikipedia is user-edited and this specific sentence could change after this page's research date; a reader checking it later should weigh the foundation's own \"About\" page above any single Wikipedia sentence that conflicts with it.",
       "source": {
-        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "label": "Harvey Ball World Smile Foundation: About World Smile Day",
         "url": "https://www.worldsmile.org/about/about-world-smile-day"
       }
     },
@@ -7236,27 +7236,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Harvey Ball World Smile Foundation — About World Smile Day",
+        "label": "Harvey Ball World Smile Foundation: About World Smile Day",
         "url": "https://www.worldsmile.org/about/about-world-smile-day"
       },
       {
-        "label": "Harvey Ball World Smile Foundation — About Harvey Ball",
+        "label": "Harvey Ball World Smile Foundation: About Harvey Ball",
         "url": "https://www.worldsmile.org/about/about-harvey-ball"
       },
       {
-        "label": "Harvey Ball World Smile Foundation — Smiley Quick Facts",
+        "label": "Harvey Ball World Smile Foundation: Smiley Quick Facts",
         "url": "https://www.worldsmile.org/about"
       },
       {
-        "label": "Wikipedia — Harvey Ball",
+        "label": "Wikipedia: Harvey Ball",
         "url": "https://en.wikipedia.org/wiki/Harvey_Ball"
       },
       {
-        "label": "ProPublica Nonprofit Explorer — Harvey Ball World Smile Foundation, EIN 04-6946615",
+        "label": "ProPublica Nonprofit Explorer: Harvey Ball World Smile Foundation, EIN 04-6946615",
         "url": "https://projects.propublica.org/nonprofits/organizations/46946615"
       },
       {
-        "label": "National Day Calendar — National Smile Day, May 31",
+        "label": "National Day Calendar: National Smile Day, May 31",
         "url": "https://nationaldaycalendar.com/celebrations/national-smile-day-may-31"
       }
     ],
@@ -7276,7 +7276,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "All of November, every year, in the United States, from November 1 through November 30, rather than a single date or a floating week within the month.",
       "source": {
-        "label": "GO2 for Lung Cancer — Lung Cancer Awareness",
+        "label": "GO2 for Lung Cancer: Lung Cancer Awareness",
         "url": "https://go2.org/lung-cancer-awareness"
       },
       "occurrences": [
@@ -7311,7 +7311,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Lung Cancer Awareness Month traces to a single U.S. patient-advocacy organization, not to a government body, and the organization's own current materials date its two founding moments precisely. The Alliance for Lung Cancer Advocacy, Support and Education (ALCASE) held the first Lung Cancer Awareness Day on November 14, 1998, deliberately timed to coincide with the American Cancer Society's annual Great American Smokeout so the two campaigns could reinforce each other. Two years later, in November 2000, ALCASE expanded the single day into a full national Lung Cancer Awareness Month. Both dates come directly from GO2 for Lung Cancer's own history pages, and the same account is repeated verbatim on LCAM.org, the awareness-month coalition site GO2 has stewarded since 2021: two pages maintained by the same current organization, a narrower form of corroboration than two fully independent sources. One real conflict does exist. Wikipedia's article on Lung Cancer Alliance states, in a sentence with no citation attached, that the organization \"was founded in 1995\" and that it \"began its first awareness program\" only in 2010, both years at odds with GO2's account. Neither Wikipedia sentence is sourced, and GO2's own history page dates the ALCASE-to-Lung-Cancer-Alliance rename to 2004, which makes an uncited claim that \"Lung Cancer Alliance\" was itself \"founded in 1995\" hard to square on its face. This page follows GO2's specific, twice-repeated, sourced account over Wikipedia's uncited one, and says so plainly rather than quietly picking a number.\n\nALCASE itself did not appear from nowhere. GO2's institutional history traces the lineage to 1979, when a man named Mort Liebling was diagnosed with lung cancer and found no organized support available to him or his family; in the years that followed, patient advocate Peggy McCarthy founded ALCASE in response, running a newsletter, a free helpline, and a phone-buddy program for patients before the organization moved into awareness campaigning and, by 1999, national policy advocacy. GO2's history page does not give a specific founding year for ALCASE itself, only Liebling's 1979 diagnosis as the catalyst and McCarthy's founding as following it, a gap the organization's own materials leave open rather than paper over.\n\nThe organization's name changed twice on the way to today. ALCASE became Lung Cancer Alliance in 2004. In 2019, Lung Cancer Alliance merged with a separate patient organization, the Bonnie J. Addario Lung Cancer Foundation (founded in 2006 by Bonnie Addario after her own stage IIIB lung cancer diagnosis in 2003) to form GO2 Foundation for Lung Cancer, later shortened to GO2 for Lung Cancer, the name under which the awareness month is now promoted.\n\nFederal recognition came much later than the founding, and through a weaker mechanism than [Breast Cancer Awareness Month](/breast-cancer-awareness-month/)'s congressional history on this site: that older observance got two outright public laws and two joint resolutions, which carry the force of law, while this one has so far only ever received simple resolutions, which do not. The first congressional action found on the record is a Senate resolution, S.Res.780 of the 116th Congress, sponsored by Senators Tina Smith and Marco Rubio and passed by unanimous consent on December 1, 2020, twenty-two years after ALCASE's first Awareness Day and twenty years after the first full Awareness Month. That resolution called on the American public to observe National Lung Cancer Awareness Month and to support early detection and treatment, but a Senate resolution is not a law: it does not require a House vote, does not need a president's signature, and does not create a standing designation that renews itself in future years. Congress has repeated the exercise, naming the specific year each time, in subsequent sessions, including S.Res.462 for November 2021 and S.Res.512 for November 2023, with a House companion resolution, H.Res.960, introduced for November 2025.\n\nA presidential proclamation followed even later. The earliest one found on the record is President Biden's proclamation of November 2022, signed October 31, 2022, which the White House's own archived text frames as a call for the public and for institutions to increase awareness of lung cancer prevention, detection, and treatment; no proclamation using this exact name has surfaced from any earlier administration. Biden issued comparable proclamations in 2023 and 2024, and the Trump administration marked the month again in November 2025, according to contemporaneous news coverage, continuing the same year-by-year pattern rather than any of the three branches ever converting the observance into a standing statute.",
       "source": {
-        "label": "GO2 for Lung Cancer — Lung Cancer Awareness (history section)",
+        "label": "GO2 for Lung Cancer: Lung Cancer Awareness (history section)",
         "url": "https://go2.org/lung-cancer-awareness"
       }
     },
@@ -7401,55 +7401,55 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GO2 for Lung Cancer — Lung Cancer Awareness (history section)",
+        "label": "GO2 for Lung Cancer: Lung Cancer Awareness (history section)",
         "url": "https://go2.org/lung-cancer-awareness"
       },
       {
-        "label": "Lung Cancer Awareness Month Coalition — History of LCAM",
+        "label": "Lung Cancer Awareness Month Coalition: History of LCAM",
         "url": "https://lcam.org/about/history-of-lcam/"
       },
       {
-        "label": "GO2 for Lung Cancer — Our History",
+        "label": "GO2 for Lung Cancer: Our History",
         "url": "https://go2.org/about-us/our-history"
       },
       {
-        "label": "Congress.gov — S.Res.780, 116th Congress (2019-2020)",
+        "label": "Congress.gov: S.Res.780, 116th Congress (2019-2020)",
         "url": "https://www.congress.gov/bill/116th-congress/senate-resolution/780"
       },
       {
-        "label": "Oncology Nursing Society (ONS Voice) — U.S. Senate Designates November as National Lung Cancer Awareness Month",
+        "label": "Oncology Nursing Society (ONS Voice): U.S. Senate Designates November as National Lung Cancer Awareness Month",
         "url": "https://voice.ons.org/advocacy/us-senate-designates-november-as-national-lung-cancer-awareness-month"
       },
       {
-        "label": "Congress.gov — S.Res.462, 117th Congress (2021-2022)",
+        "label": "Congress.gov: S.Res.462, 117th Congress (2021-2022)",
         "url": "https://www.congress.gov/bill/117th-congress/senate-resolution/462"
       },
       {
-        "label": "Congress.gov — S.Res.512, 118th Congress (2023-2024)",
+        "label": "Congress.gov: S.Res.512, 118th Congress (2023-2024)",
         "url": "https://www.congress.gov/bill/118th-congress/senate-resolution/512"
       },
       {
-        "label": "Congress.gov — H.Res.960, 119th Congress (2025-2026)",
+        "label": "Congress.gov: H.Res.960, 119th Congress (2025-2026)",
         "url": "https://www.congress.gov/bill/119th-congress/house-resolution/960"
       },
       {
-        "label": "The White House (Biden Administration archive) — A Proclamation on National Lung Cancer Awareness Month, 2022",
+        "label": "The White House (Biden Administration archive): A Proclamation on National Lung Cancer Awareness Month, 2022",
         "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2022/"
       },
       {
-        "label": "The White Ribbon Project — Origin Story",
+        "label": "The White Ribbon Project: Origin Story",
         "url": "https://www.thewhiteribbonproject.org/origin-story"
       },
       {
-        "label": "The Patient Story — Heidi's Stage 3A Non-Small Cell Lung Cancer Story",
+        "label": "The Patient Story: Heidi's Stage 3A Non-Small Cell Lung Cancer Story",
         "url": "https://thepatientstory.com/patient-stories/lung-cancer/non-small-cell/heidi-n/"
       },
       {
-        "label": "Global Initiative for Chronic Obstructive Lung Disease (GOLD) — World Lung Cancer Day, August 1",
+        "label": "Global Initiative for Chronic Obstructive Lung Disease (GOLD): World Lung Cancer Day, August 1",
         "url": "https://goldcopd.org/world-lung-cancer-day-august-1-2026/"
       },
       {
-        "label": "Wikipedia — Lung Cancer Alliance (uncited founding-year claim, presented for the conflicting account)",
+        "label": "Wikipedia: Lung Cancer Alliance (uncited founding-year claim, presented for the conflicting account)",
         "url": "https://en.wikipedia.org/wiki/Lung_Cancer_Alliance"
       }
     ],
@@ -7469,7 +7469,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "October 5 every year, worldwide, marking the anniversary of the 1966 ILO/UNESCO Recommendation concerning the Status of Teachers.",
       "source": {
-        "label": "UNESCO — World Teachers' Day",
+        "label": "UNESCO: World Teachers' Day",
         "url": "https://www.unesco.org/en/days/teachers"
       },
       "occurrences": [
@@ -7486,7 +7486,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "UNESCO's General Conference proclaimed October 5 World Teachers' Day in 1994, twenty-eight years after UNESCO and the International Labour Organization (ILO) had jointly convened a special intergovernmental conference in Paris that adopted the \"Recommendation concerning the Status of Teachers\" on October 5, 1966. That recommendation, still cited by name on UNESCO's own World Teachers' Day page today, set out international standards covering teacher recruitment, initial training and continuing education, employment conditions, and professional rights; a companion recommendation extending the same framework to higher-education teaching staff followed in 1997. The day is co-convened each year by UNESCO together with the ILO, UNICEF, and Education International, the global federation of teachers' unions, and more than 100 countries are reported to take part, according to Wikipedia's article on the day, though that figure carries no citation there and this page treats it as a reported estimate rather than a verified count.\n\nUNESCO's proclamation is the youngest of the four teacher-honoring traditions covered here, not the oldest, despite being the one most schools and media outlets around the world now call \"World Teachers' Day.\" India's own Teachers' Day goes back to 1962: when Dr. Sarvepalli Radhakrishnan, a philosopher and academic, became President of India that year, his former students and friends wanted to mark his birthday, September 5, with a personal celebration. He asked them to observe the date as Teachers' Day instead, to honor the profession broadly, not himself. China formalized its own Teachers' Day even earlier in the calendar year than most secondary sources note: on January 21, 1985, the Standing Committee of the 6th National People's Congress approved the State Council's proposal designating September 10, timed to the start of the academic year, as the country's Teachers' Day; the first observance followed that September in Beijing. China's government had briefly experimented with a June 6 Teachers' Day under the pre-1949 Republic of China government, and then folded teacher recognition into the general May 1 Labour Day after the People's Republic was founded, before settling on the dedicated September date in 1985.\n\nThe United States traces its own teacher day furthest back of the four, to a private letter-writing campaign, not any single proclamation. Mattie Whyte Woodridge, a teacher in Helena, Arkansas, began writing to governors, politicians, and education leaders across the country in 1944 to press for a national day honoring teachers. One of her letters reached First Lady Eleanor Roosevelt, who took up the cause with Congress. Roosevelt's own nationally syndicated \"My Day\" column, dated January 14, 1953, states plainly that \"the 81st Congress of the United States passed a joint resolution designating the first Tuesday of March of each year as National Teachers Day\" — the 81st Congress served from January 1949 to January 1951, so the resolution itself predates Roosevelt's column by two to four years. The same column notes that \"last year\" (1952) the National Teachers Day Committee had called on the President to actually proclaim the day, which several secondary sources checked for this page appear to compress into a single 1953 date for the whole episode; Roosevelt's contemporary account is the more precise record. A specific annual proclamation did not follow immediately. It took until March 7, 1980 for Congress to declare National Teacher Day for that single year, after the National Education Association and its Kansas and Indiana affiliates lobbied to formalize the observance; the date stayed on the first Tuesday in March through the early 1980s. In 1984 the National PTA created a dedicated Teacher Appreciation Week for the first full week of May, and in 1985 the NEA's Representative Assembly voted to move its own National Teacher Day into that week, landing on the Tuesday, where the US observance has stayed ever since.",
       "source": {
-        "label": "UNESCO — World Teachers' Day",
+        "label": "UNESCO: World Teachers' Day",
         "url": "https://www.unesco.org/en/days/teachers"
       }
     },
@@ -7571,31 +7571,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "UNESCO — World Teachers' Day",
+        "label": "UNESCO: World Teachers' Day",
         "url": "https://www.unesco.org/en/days/teachers"
       },
       {
-        "label": "Wikipedia — World Teachers' Day",
+        "label": "Wikipedia: World Teachers' Day",
         "url": "https://en.wikipedia.org/wiki/World_Teachers%27_Day"
       },
       {
-        "label": "Eleanor Roosevelt — \"My Day\" column, January 14, 1953 (The Eleanor Roosevelt Papers Project, GWU)",
+        "label": "Eleanor Roosevelt: \"My Day\" column, January 14, 1953 (The Eleanor Roosevelt Papers Project, GWU)",
         "url": "https://www2.gwu.edu/~erpapers/myday/displaydoc.cfm?_y=1953&_f=md002431"
       },
       {
-        "label": "American Consortium for Equity in Education — Honoring Mattie May Whyte Woodridge",
+        "label": "American Consortium for Equity in Education: Honoring Mattie May Whyte Woodridge",
         "url": "https://ace-ed.org/honoring-mattie-may-whyte-woodridge-the-real-founder-of-teacher-appreciation-week/"
       },
       {
-        "label": "Ministry of Education of the People's Republic of China — Teacher's Day FAQ",
+        "label": "Ministry of Education of the People's Republic of China: Teacher's Day FAQ",
         "url": "http://en.moe.gov.cn/Specials/Specials_TeachersDay/teachersday_about/201808/t20180831_346820.html"
       },
       {
-        "label": "University of Mysore — Teachers' Day: Dr. S. Radhakrishnan",
+        "label": "University of Mysore: Teachers' Day: Dr. S. Radhakrishnan",
         "url": "https://www.uni-mysore.in/teachers-day"
       },
       {
-        "label": "NSW Government (Department of Education) — World Teachers' Day",
+        "label": "NSW Government (Department of Education): World Teachers' Day",
         "url": "https://nsw.gov.au/education-and-training/nesa/awards-and-events/world-teachers-day"
       }
     ],
@@ -7677,31 +7677,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "The Old Farmer's Almanac — Birth Month Flowers and Their Meanings",
+        "label": "The Old Farmer's Almanac: Birth Month Flowers and Their Meanings",
         "url": "https://www.almanac.com/content/birth-month-flowers-and-their-meanings"
       },
       {
-        "label": "The Old Farmer's Almanac — November Birth Flowers",
+        "label": "The Old Farmer's Almanac: November Birth Flowers",
         "url": "https://www.almanac.com/content/november-birth-flowers"
       },
       {
-        "label": "The Old Farmer's Almanac — December Birth Flowers",
+        "label": "The Old Farmer's Almanac: December Birth Flowers",
         "url": "https://www.almanac.com/content/december-birth-flowers"
       },
       {
-        "label": "Farmers' Almanac — Birth Flower Chart: All 12 Birth Flowers by Month",
+        "label": "Farmers' Almanac: Birth Flower Chart: All 12 Birth Flowers by Month",
         "url": "https://www.farmersalmanac.com/birth-month-flowers-how-to-plant-a-family-garden"
       },
       {
-        "label": "Farmers' Almanac — March Flower Lore",
+        "label": "Farmers' Almanac: March Flower Lore",
         "url": "https://www.farmersalmanac.com/march-flower-lore"
       },
       {
-        "label": "Wikipedia — Language of Flowers (floriography)",
+        "label": "Wikipedia: Language of Flowers (floriography)",
         "url": "https://en.wikipedia.org/wiki/Language_of_flowers"
       },
       {
-        "label": "Wikipedia — September (Symbols section)",
+        "label": "Wikipedia: September (Symbols section)",
         "url": "https://en.wikipedia.org/wiki/September"
       }
     ],
@@ -7720,7 +7720,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "Mexican Independence Day falls on September 16 every year. Article 74 of Mexico's Federal Labor Law (Ley Federal del Trabajo) names the date directly among the country's mandatory paid rest days, alongside dates like May 1 and the third Monday of November. It's a fixed calendar date rather than a weekday-based rule, so unlike several U.S. observances on this calendar, it never shifts.",
       "source": {
-        "label": "Ley Federal del Trabajo, Artículo 74 — Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
+        "label": "Ley Federal del Trabajo, Artículo 74: Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
         "url": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorios-163134"
       },
       "occurrences": [
@@ -7737,7 +7737,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Miguel Hidalgo y Costilla, the Roman Catholic parish priest of Dolores (now Dolores Hidalgo, Guanajuato), rang his church bell in the early hours of September 16, 1810, and delivered an impromptu speech now known as the Grito de Dolores, calling his parishioners to revolt against Spanish colonial rule. He acted that morning because a plot he had helped organize with a group of pro-independence conspirators had just been uncovered by Spanish authorities, forcing him to move before he and his allies could be arrested. No verbatim transcript of the speech survives; the versions historians quote today are later reconstructions. Hidalgo's uprising was crushed within a year. He was captured and executed by firing squad on July 30, 1811, and the war he started ran for another decade under other commanders before Mexico secured its independence.",
       "source": {
-        "label": "Grito de Dolores — Britannica",
+        "label": "Grito de Dolores: Britannica",
         "url": "https://www.britannica.com/event/Grito-de-Dolores"
       }
     },
@@ -7819,35 +7819,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Ley Federal del Trabajo, Artículo 74 — Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
+        "label": "Ley Federal del Trabajo, Artículo 74: Procuraduría Federal de la Defensa del Trabajo (gob.mx)",
         "url": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorios-163134"
       },
       {
-        "label": "Grito de Dolores — Britannica",
+        "label": "Grito de Dolores: Britannica",
         "url": "https://www.britannica.com/event/Grito-de-Dolores"
       },
       {
-        "label": "Today in History — September 16 (Library of Congress)",
+        "label": "Today in History: September 16 (Library of Congress)",
         "url": "https://www.loc.gov/item/today-in-history/september-16/"
       },
       {
-        "label": "Independence Day (Mexico) — Wikipedia",
+        "label": "Independence Day (Mexico): Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Independence_Day_(Mexico)"
       },
       {
-        "label": "Treaty of Córdoba — Wikipedia",
+        "label": "Treaty of Córdoba: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Treaty_of_C%C3%B3rdoba"
       },
       {
-        "label": "Army of the Three Guarantees — Wikipedia",
+        "label": "Army of the Three Guarantees: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Army_of_the_Three_Guarantees"
       },
       {
-        "label": "Santa María-Calatrava Treaty — Wikipedia",
+        "label": "Santa María-Calatrava Treaty: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa%E2%80%93Calatrava_Treaty"
       },
       {
-        "label": "File: El cura D. Miguel Hidalgo proclama la Independencia Nacional en Dolores (1910 postcard, Adrián Unzueta) — Wikimedia Commons",
+        "label": "File: El cura D. Miguel Hidalgo proclama la Independencia Nacional en Dolores (1910 postcard, Adrián Unzueta): Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:El_cura_D._Miguel_Hidalgo_proclama_la_Independencia_Nacional_en_Dolores,_a_la_madrugada_del_16_de_septiembre_de_1810,_no_obstante_que_no_ten%C3%ADa_terminados_a%C3%BAn_los_preparativos_para_la_revoluci%C3%B3n.jpg"
       }
     ],
@@ -7931,47 +7931,47 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1994 (Jia-xu, year of the Dog)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1994 (Jia-xu, year of the Dog)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1994e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1995 (Yi-hai, year of the Pig)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1995 (Yi-hai, year of the Pig)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1995e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1993e.pdf"
       },
       {
-        "label": "The Metropolitan Museum of Art — Zodiac figure: dog",
+        "label": "The Metropolitan Museum of Art: Zodiac figure: dog",
         "url": "https://www.metmuseum.org/art/collection/search/44683"
       },
       {
-        "label": "Wikipedia — Harry Styles",
+        "label": "Wikipedia: Harry Styles",
         "url": "https://en.wikipedia.org/wiki/Harry_Styles"
       },
       {
-        "label": "Wikipedia — Justin Bieber",
+        "label": "Wikipedia: Justin Bieber",
         "url": "https://en.wikipedia.org/wiki/Justin_Bieber"
       },
       {
-        "label": "Wikipedia — Dakota Fanning",
+        "label": "Wikipedia: Dakota Fanning",
         "url": "https://en.wikipedia.org/wiki/Dakota_Fanning"
       },
       {
-        "label": "Famous Birthdays — 1994 Chinese Zodiac | Wood Dog",
+        "label": "Famous Birthdays: 1994 Chinese Zodiac | Wood Dog",
         "url": "https://www.famousbirthdays.com/zodiac/1994.html"
       },
       {
-        "label": "Wikipedia — Tết",
+        "label": "Wikipedia: Tết",
         "url": "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
       },
       {
-        "label": "Wikipedia — Heavenly Stems",
+        "label": "Wikipedia: Heavenly Stems",
         "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
       },
       {
-        "label": "Wikipedia — Earthly Branches",
+        "label": "Wikipedia: Earthly Branches",
         "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       }
     ],
@@ -7991,7 +7991,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "October 10 every year, worldwide. The date does not shift for weekends or weekdays.",
       "source": {
-        "label": "Wikipedia — World Mental Health Day",
+        "label": "Wikipedia: World Mental Health Day",
         "url": "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
       },
       "occurrences": [
@@ -8025,7 +8025,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "World Mental Health Day was first observed on October 10, 1992, started as an annual activity of the World Federation for Mental Health (WFMH) by the organization's then Deputy Secretary General, Richard Hunter. WFMH itself is older, founded in 1948 in the same postwar wave as the United Nations and the World Health Organization; Wikipedia's article on the federation names G. Brock Chisholm, the WHO's first Director-General and a psychiatrist, as one of the leaders who formed it. In the new day's first two years it carried no specific theme, only the general goals of promoting mental health advocacy and public education. Its central activity, a two-hour telecast broadcast globally by satellite from studios in Tallahassee, Florida, ran for three years by secondary accounts, spanning that untitled stretch and the year the first theme arrived; WFMH board members appeared in the studio, with live telephone participation from Australia, Chile, England, and Zambia, plus an unscheduled call-in from a group of WFMH members in Swaziland and the first of many feedback reports arriving from Peru that year. WFMH adopted its first official theme in 1994, at the suggestion of then Secretary General Eugene Brody: \"Improving the Quality of Mental Health Services throughout the World.\"",
       "source": {
-        "label": "LinkedIn — \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
+        "label": "LinkedIn: \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
         "url": "https://www.linkedin.com/pulse/world-mental-health-day-history-julie-millard"
       }
     },
@@ -8113,31 +8113,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — World Mental Health Day",
+        "label": "Wikipedia: World Mental Health Day",
         "url": "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
       },
       {
-        "label": "Wikipedia — World Federation for Mental Health",
+        "label": "Wikipedia: World Federation for Mental Health",
         "url": "https://en.wikipedia.org/wiki/World_Federation_for_Mental_Health"
       },
       {
-        "label": "LinkedIn — \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
+        "label": "LinkedIn: \"World Mental Health Day - a history,\" Julie Millard AM, republishing a WFMH history collated by Michael Burge OAM",
         "url": "https://www.linkedin.com/pulse/world-mental-health-day-history-julie-millard"
       },
       {
-        "label": "Wikipedia — Mental Illness Awareness Week",
+        "label": "Wikipedia: Mental Illness Awareness Week",
         "url": "https://en.wikipedia.org/wiki/Mental_Illness_Awareness_Week"
       },
       {
-        "label": "World Health Organization — World Suicide Prevention Day campaign page",
+        "label": "World Health Organization: World Suicide Prevention Day campaign page",
         "url": "https://www.who.int/campaigns/world-suicide-prevention-day"
       },
       {
-        "label": "Mental Health Foundation (UK) — World Mental Health Day, 2026 theme",
+        "label": "Mental Health Foundation (UK): World Mental Health Day, 2026 theme",
         "url": "https://www.mentalhealth.org.uk/our-work/campaigns/world-mental-health-day"
       },
       {
-        "label": "United for Global Mental Health — World Mental Health Day 2026",
+        "label": "United for Global Mental Health: World Mental Health Day 2026",
         "url": "https://unitedgmh.org/world-mental-health-day/"
       }
     ],
@@ -8157,7 +8157,7 @@ export const guides: Guide[] = [
       "text": "National Guacamole Day is observed every September 16, the same fixed date each year. It carries no legal or governmental status; the date is simply the one that calendar sites and restaurant chains have consistently used since the observance began circulating.",
       "status": "conventional",
       "source": {
-        "label": "National Guacamole Day, September 16 — National Day Calendar",
+        "label": "National Guacamole Day, September 16: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-guacamole-day-september-16"
       },
       "occurrences": [
@@ -8243,31 +8243,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Guacamole — Wikipedia",
+        "label": "Guacamole: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Guacamole"
       },
       {
-        "label": "Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico — NPR",
+        "label": "Shortly before the Super Bowl, the U.S. suspends avocado imports from Mexico: NPR",
         "url": "https://www.npr.org/2022/02/13/1080497606/super-bowl-us-mexico-avocado-imports"
       },
       {
-        "label": "National Guacamole Day, September 16 — National Day Calendar",
+        "label": "National Guacamole Day, September 16: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-guacamole-day-september-16"
       },
       {
-        "label": "New Day Proclamation: National Avocado Day, July 31 — National Day Calendar",
+        "label": "New Day Proclamation: National Avocado Day, July 31: National Day Calendar",
         "url": "https://nationaldaycalendar.com/new-day-proclamation-national-avocado-day-july-31/"
       },
       {
-        "label": "National Avocado Day, July 31 — National Day Calendar",
+        "label": "National Avocado Day, July 31: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-avocado-day-july-31"
       },
       {
-        "label": "National Spicy Guacamole Day, November 14 — National Day Calendar",
+        "label": "National Spicy Guacamole Day, November 14: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-spicy-guacamole-day-november-14"
       },
       {
-        "label": "A New Voyage Round the World, William Dampier (1697) — Project Gutenberg Australia",
+        "label": "A New Voyage Round the World, William Dampier (1697): Project Gutenberg Australia",
         "url": "https://gutenberg.net.au/ebooks05/0500461h.html"
       }
     ],
@@ -8355,19 +8355,19 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GIA — June Birthstones: Pearl, Alexandrite, and Moonstone",
+        "label": "GIA: June Birthstones: Pearl, Alexandrite, and Moonstone",
         "url": "https://www.gia.edu/birthstones/june-birthstones"
       },
       {
-        "label": "GIA — Alexandrite History and Lore",
+        "label": "GIA: Alexandrite History and Lore",
         "url": "https://www.gia.edu/alexandrite-history-lore"
       },
       {
-        "label": "Wikipedia — Birthstone (Zodiacal, Tropical Zodiac Table)",
+        "label": "Wikipedia: Birthstone (Zodiacal, Tropical Zodiac Table)",
         "url": "https://en.wikipedia.org/wiki/Birthstone#Zodiacal"
       },
       {
-        "label": "Wikipedia — Chrysoberyl (Alexandrite Discovery and Color-Change Mechanism)",
+        "label": "Wikipedia: Chrysoberyl (Alexandrite Discovery and Color-Change Mechanism)",
         "url": "https://en.wikipedia.org/wiki/Chrysoberyl"
       },
       {
@@ -8375,15 +8375,15 @@ export const guides: Guide[] = [
         "url": "https://www.nature.com/articles/s41598-020-62707-3"
       },
       {
-        "label": "Britannica — Agate",
+        "label": "Britannica: Agate",
         "url": "https://www.britannica.com/science/agate"
       },
       {
-        "label": "NPR — Elizabeth Taylor's Jewels Bring Millions (La Peregrina, December 2011)",
+        "label": "NPR: Elizabeth Taylor's Jewels Bring Millions (La Peregrina, December 2011)",
         "url": "https://www.npr.org/sections/thetwo-way/2011/12/14/143724868/elizabeth-taylor-s-jewels-bring-millions"
       },
       {
-        "label": "France 24 — Elizabeth Taylor Pearl Sold for Record $11.84 Million",
+        "label": "France 24: Elizabeth Taylor Pearl Sold for Record $11.84 Million",
         "url": "https://www.france24.com/en/20111214-elizabeth-taylor-pearl-auctioned-record-11-million-peregrina-jewels"
       }
     ],
@@ -8488,35 +8488,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GIA — June Birthstones: Pearl, Alexandrite, and Moonstone",
+        "label": "GIA: June Birthstones: Pearl, Alexandrite, and Moonstone",
         "url": "https://www.gia.edu/birthstones/june-birthstones"
       },
       {
-        "label": "GIA — Pearl",
+        "label": "GIA: Pearl",
         "url": "https://www.gia.edu/pearl"
       },
       {
-        "label": "GIA — Is Rainbow Moonstone Really Moonstone?",
+        "label": "GIA: Is Rainbow Moonstone Really Moonstone?",
         "url": "https://www.gia.edu/gia-faq-rainbow-moonstone-really-moonstone"
       },
       {
-        "label": "GIA — Alexandrite History and Lore",
+        "label": "GIA: Alexandrite History and Lore",
         "url": "https://www.gia.edu/alexandrite-history-lore"
       },
       {
-        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "label": "Jewelers of America: Birthstone Jewelry Guide",
         "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       },
       {
-        "label": "Department of Culture and Tourism – Abu Dhabi — The Abu Dhabi Pearl, World's Oldest Known Natural Pearl",
+        "label": "Department of Culture and Tourism – Abu Dhabi: The Abu Dhabi Pearl, World's Oldest Known Natural Pearl",
         "url": "https://dct.gov.ae/en/media.centre/news/abu.dhabi.pearl.the.worlds.oldest.known.natural.pearl.discovered.on.marawah.island..aspx"
       },
       {
-        "label": "Alexandrite.net — Brazilian Alexandrite Locality: Hematita, Minas Gerais",
+        "label": "Alexandrite.net: Brazilian Alexandrite Locality: Hematita, Minas Gerais",
         "url": "https://www.alexandrite.net/localities/alexandrite-locality-brazil-minas-gerais-hematita.html"
       }
     ],
@@ -8600,35 +8600,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1987 (Ding-mao, year of the Rabbit)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1987 (Ding-mao, year of the Rabbit)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1987e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1988e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1986 (Bing-yin, year of the Tiger)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1986 (Bing-yin, year of the Tiger)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1986e.pdf"
       },
       {
-        "label": "The Metropolitan Museum of Art — Zodiac figure: rabbit",
+        "label": "The Metropolitan Museum of Art: Zodiac figure: rabbit",
         "url": "https://www.metmuseum.org/art/collection/search/44677"
       },
       {
-        "label": "Wikipedia — Naya Rivera",
+        "label": "Wikipedia: Naya Rivera",
         "url": "https://en.wikipedia.org/wiki/Naya_Rivera"
       },
       {
-        "label": "Wikipedia — Earthly Branches",
+        "label": "Wikipedia: Earthly Branches",
         "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       },
       {
-        "label": "Wikipedia — Heavenly Stems",
+        "label": "Wikipedia: Heavenly Stems",
         "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
       },
       {
-        "label": "Wikipedia — Chinese Calendar (leap month / \"no zhongqi\" rule)",
+        "label": "Wikipedia: Chinese Calendar (leap month / \"no zhongqi\" rule)",
         "url": "https://en.wikipedia.org/wiki/Chinese_calendar"
       }
     ],
@@ -8715,19 +8715,19 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — Wedding anniversary (sourced US/UK traditional gift comparison table)",
+        "label": "Wikipedia: Wedding anniversary (sourced US/UK traditional gift comparison table)",
         "url": "https://en.wikipedia.org/wiki/Wedding_anniversary"
       },
       {
-        "label": "Jewelers of America — Anniversary jewelry buying guide (current gemstone chart)",
+        "label": "Jewelers of America: Anniversary jewelry buying guide (current gemstone chart)",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/anniversary"
       },
       {
-        "label": "GIA — Turquoise Gem Overview",
+        "label": "GIA: Turquoise Gem Overview",
         "url": "https://www.gia.edu/turquoise/gem-overview"
       },
       {
-        "label": "GIA — Turquoise Care and Cleaning Guide",
+        "label": "GIA: Turquoise Care and Cleaning Guide",
         "url": "https://www.gia.edu/turquoise-care-cleaning"
       }
     ],
@@ -8747,7 +8747,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "All of September, every year in the United States, from September 1 through September 30, rather than a single date or a floating week within the month.",
       "source": {
-        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
+        "label": "Federal Register: National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
         "url": "https://www.govinfo.gov/content/pkg/FR-2002-09-05/pdf/02-22748.pdf"
       },
       "occurrences": [
@@ -8782,7 +8782,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Ovarian Cancer Awareness Month traces to a patient-advocacy nonprofit that had already been working on the disease for seven years before any president acted. The National Ovarian Cancer Coalition (NOCC) began as a grassroots effort in Boca Raton, Florida, in 1991, and was incorporated in 1995 as the country's first national nonprofit devoted to ovarian-cancer awareness and education. President Bill Clinton issued Proclamation 7120 on September 12, 1998, declaring September 13 through 19, 1998, National Ovarian Cancer Awareness Week, a real government document recorded in the U.S. Statutes at Large at 112 Stat. 3795. NOCC's own awareness-month page describes that week as an important first step in bringing national attention to the disease, not as a government action the organization had no part in. That week, not a month, is the earliest government-issued designation found on the record.\n\nNOCC took the single week and expanded it. NOCC's own current materials state that in 2000, working with the wider ovarian-cancer community, the organization broadened Clinton's single week into a full National Ovarian Cancer Awareness Month, run every September since.\n\nWhat happened next is genuinely unsettled, and this page says so rather than picking a smooth version. NOCC's own awareness-month page, along with several secondary medical-news accounts, states that President George W. Bush formally proclaimed the full month in September 2001, one year after NOCC's expansion. That specific 2001 document was not locatable on any presidential-archive site checked for this page. What is directly confirmed, from a Federal Register filing carrying its own document number, is a full-month proclamation for September 2002, Proclamation 7587, which estimated more than 23,000 new U.S. diagnoses and almost 14,000 deaths that year and stated that ovarian cancer caught at its earliest stage has a 95 percent five-year survival rate. Whether the full month was first proclaimed in 2001 or whether 2002 is in fact the earliest one, the position taken here is that only the 2002 document has been directly verified, and the 2001 date rests on the nonprofit's own account rather than a government archive.\n\nA president has proclaimed the month most years since, though not without gaps in the record and at least one change in format. Confirmed proclamations exist for 2002, 2013, 2014, 2016, 2021, 2023, and 2024, each a distinct numbered document; the run is very likely closer to unbroken than these confirmed years suggest, since the White House's own archives are not fully indexed by search engines for every year. In September 2025, the White House marked the observance with a \"Presidential Message\" rather than a numbered proclamation, a format the Trump administration used instead of the proclamation format every prior year on this list had used.\n\nCongress, as a body, has never been shown to have passed a law establishing the observance. Individual members have introduced resolutions in the House naming the specific year — H.Res.746 for September 2023, H.Res.1508 for September 2024, and H.Res.775 for September 2025 — but H.Res.1508 is recorded by GovTrack.us as never having received a vote, the common fate of this kind of resolution once referred to committee. No Senate companion resolution for any of these years was confirmed to have passed during research for this page. That leaves the observance's federal footing resting entirely on the executive branch's annual, discretionary choice to keep proclaiming it, not on any law Congress has enacted, a weaker footing than [Breast Cancer Awareness Month](/breast-cancer-awareness-month/)'s early 1990s run of public laws and joint resolutions.",
       "source": {
-        "label": "National Ovarian Cancer Coalition — National Ovarian Cancer Awareness Month",
+        "label": "National Ovarian Cancer Coalition: National Ovarian Cancer Awareness Month",
         "url": "https://ovarian.org/get-involved/national-ovarian-cancer-awareness-month/"
       }
     },
@@ -8887,83 +8887,83 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "govinfo.gov — Statutes at Large, 112 Stat. 3795, Proclamation 7120 (1998 Awareness Week)",
+        "label": "govinfo.gov: Statutes at Large, 112 Stat. 3795, Proclamation 7120 (1998 Awareness Week)",
         "url": "https://www.govinfo.gov/app/details/STATUTE-112/STATUTE-112-Pg3795"
       },
       {
-        "label": "National Ovarian Cancer Coalition — History of NOCC",
+        "label": "National Ovarian Cancer Coalition: History of NOCC",
         "url": "https://ovarian.org/about-nocc/history/"
       },
       {
-        "label": "National Ovarian Cancer Coalition — National Ovarian Cancer Awareness Month",
+        "label": "National Ovarian Cancer Coalition: National Ovarian Cancer Awareness Month",
         "url": "https://ovarian.org/get-involved/national-ovarian-cancer-awareness-month/"
       },
       {
-        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
+        "label": "Federal Register: National Ovarian Cancer Awareness Month, 2002 (Proclamation 7587)",
         "url": "https://www.govinfo.gov/content/pkg/FR-2002-09-05/pdf/02-22748.pdf"
       },
       {
-        "label": "The American Presidency Project — Proclamation 9008, National Ovarian Cancer Awareness Month, 2013",
+        "label": "The American Presidency Project: Proclamation 9008, National Ovarian Cancer Awareness Month, 2013",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-9008-national-ovarian-cancer-awareness-month-2013"
       },
       {
-        "label": "The American Presidency Project — Proclamation 9157, National Ovarian Cancer Awareness Month, 2014",
+        "label": "The American Presidency Project: Proclamation 9157, National Ovarian Cancer Awareness Month, 2014",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-9157-national-ovarian-cancer-awareness-month-2014"
       },
       {
-        "label": "The American Presidency Project — Proclamation 9484, National Ovarian Cancer Awareness Month, 2016",
+        "label": "The American Presidency Project: Proclamation 9484, National Ovarian Cancer Awareness Month, 2016",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-9484-national-ovarian-cancer-awareness-month-2016"
       },
       {
-        "label": "govinfo.gov — Proclamation 10243, National Ovarian Cancer Awareness Month, 2021",
+        "label": "govinfo.gov: Proclamation 10243, National Ovarian Cancer Awareness Month, 2021",
         "url": "https://www.govinfo.gov/app/details/DCPD-202100695"
       },
       {
-        "label": "The American Presidency Project — Proclamation 10611, National Ovarian Cancer Awareness Month, 2023",
+        "label": "The American Presidency Project: Proclamation 10611, National Ovarian Cancer Awareness Month, 2023",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-10611-national-ovarian-cancer-awareness-month-2023"
       },
       {
-        "label": "Federal Register — National Ovarian Cancer Awareness Month, 2024",
+        "label": "Federal Register: National Ovarian Cancer Awareness Month, 2024",
         "url": "https://www.federalregister.gov/documents/2024/09/05/2024-20122/national-ovarian-cancer-awareness-month-2024"
       },
       {
-        "label": "The White House — Presidential Message on National Ovarian Cancer Awareness Month, 2025",
+        "label": "The White House: Presidential Message on National Ovarian Cancer Awareness Month, 2025",
         "url": "https://www.whitehouse.gov/briefings-statements/2025/09/presidential-message-on-national-ovarian-cancer-awareness-month/"
       },
       {
-        "label": "Congress.gov — H.Res.746, 118th Congress (2023-2024)",
+        "label": "Congress.gov: H.Res.746, 118th Congress (2023-2024)",
         "url": "https://www.congress.gov/bill/118th-congress/house-resolution/746"
       },
       {
-        "label": "GovTrack.us — H.Res.1508, 118th Congress (2023-2024)",
+        "label": "GovTrack.us: H.Res.1508, 118th Congress (2023-2024)",
         "url": "https://www.govtrack.us/congress/bills/118/hres1508"
       },
       {
-        "label": "Congress.gov — H.Res.775, 119th Congress (2025-2026)",
+        "label": "Congress.gov: H.Res.775, 119th Congress (2025-2026)",
         "url": "https://www.congress.gov/bill/119th-congress/house-resolution/775"
       },
       {
-        "label": "Goff et al. — \"Ovarian carcinoma diagnosis\" (Cancer, 2000), PubMed",
+        "label": "Goff et al.: \"Ovarian carcinoma diagnosis\" (Cancer, 2000), PubMed",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11066047/"
       },
       {
-        "label": "American Cancer Society — Key Statistics for Ovarian Cancer",
+        "label": "American Cancer Society: Key Statistics for Ovarian Cancer",
         "url": "https://www.cancer.org/cancer/types/ovarian-cancer/key-statistics.html"
       },
       {
-        "label": "American Cancer Society — Survival Rates for Ovarian Cancer",
+        "label": "American Cancer Society: Survival Rates for Ovarian Cancer",
         "url": "https://www.cancer.org/cancer/types/ovarian-cancer/detection-diagnosis-staging/survival-rates.html"
       },
       {
-        "label": "The Conversation — Ovarian cancer is not a silent killer",
+        "label": "The Conversation: Ovarian cancer is not a silent killer",
         "url": "https://theconversation.com/ovarian-cancer-is-not-a-silent-killer-recognizing-its-symptoms-could-help-reduce-misdiagnosis-and-late-detection-181415"
       },
       {
-        "label": "World Ovarian Cancer Coalition — World Ovarian Cancer Day",
+        "label": "World Ovarian Cancer Coalition: World Ovarian Cancer Day",
         "url": "https://worldovariancancercoalition.org/world-ovarian-cancer-day/"
       },
       {
-        "label": "Target Ovarian Cancer (UK) — Ovarian Cancer Awareness Month",
+        "label": "Target Ovarian Cancer (UK): Ovarian Cancer Awareness Month",
         "url": "https://targetovariancancer.org.uk/get-involved/ovarian-cancer-awareness-month"
       }
     ],
@@ -8983,7 +8983,7 @@ export const guides: Guide[] = [
       "text": "September 25 every year, the same fixed calendar date since the observance began. V&V Supremo, the company that created the day, states on its own site that it proclaimed every September 25 to be National Quesadilla Day going forward.",
       "status": "documented",
       "source": {
-        "label": "V&V Supremo Foods — Celebrate National Quesadilla Day (company blog)",
+        "label": "V&V Supremo Foods: Celebrate National Quesadilla Day (company blog)",
         "url": "https://www.vvsupremo.com/celebrate-national-quesadilla-day-a-flavorful-fiesta-with-shredded-chihuahua-brand-quesadilla-cheese/"
       },
       "occurrences": [
@@ -8999,7 +8999,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "V&V Supremo Foods, Inc., a Chicago-based maker of Mexican-style cheeses founded in 1964 by Gilberto Villaseñor Sr. and Ignacio Villaseñor, created National Quesadilla Day to promote its Chihuahua brand Quesadilla Cheese. The first-ever observance ran on Wednesday, September 25, 2019: ABC7 Chicago covered it live that day, with Gilberto Villaseñor II, the company's Chief Visionary Officer and a second-generation owner, appearing on the local morning show to help \"kick off National Hispanic Heritage Month and the first-ever National Quesadilla Day.\" The company sent a food truck to three Chicago locations that day to give away free quesadillas made with its cheese, and trade press (Dairy Foods, September 13, 2019) and a wire release (Business Wire, September 18, 2019) covered the launch in the days beforehand. V&V Supremo's own current website nonetheless dates its own creation to 2020, a year later than its own 2019 press coverage and live local-news appearance show. Whether that is a simple typo carried over from an old draft or a genuine mixup with a bigger second-year push, the company has not said, and no corrected version of the page has been found.",
       "source": {
-        "label": "ABC7 Chicago — V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
+        "label": "ABC7 Chicago: V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
         "url": "https://abc7chicago.com/national-hispanic-heritage-month-2019-what-is-quesadilla-day/5549664/"
       }
     },
@@ -9084,31 +9084,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "ABC7 Chicago — V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
+        "label": "ABC7 Chicago: V&V Supremo celebrates National Hispanic Heritage Month, National Quesadilla Day (Sept. 25, 2019)",
         "url": "https://abc7chicago.com/national-hispanic-heritage-month-2019-what-is-quesadilla-day/5549664/"
       },
       {
-        "label": "V&V Supremo Foods — Celebrate National Quesadilla Day (company blog, states 2020 founding)",
+        "label": "V&V Supremo Foods: Celebrate National Quesadilla Day (company blog, states 2020 founding)",
         "url": "https://www.vvsupremo.com/celebrate-national-quesadilla-day-a-flavorful-fiesta-with-shredded-chihuahua-brand-quesadilla-cheese/"
       },
       {
-        "label": "Checkiday — National Quesadilla Day",
+        "label": "Checkiday: National Quesadilla Day",
         "url": "https://www.checkiday.com/480cafdfc23688044bddd8fe8668c620/national-quesadilla-day"
       },
       {
-        "label": "Dairy Foods — V&V Supremo declares Sept. 25 'National Quesadilla Day' (Sept. 13, 2019)",
+        "label": "Dairy Foods: V&V Supremo declares Sept. 25 'National Quesadilla Day' (Sept. 13, 2019)",
         "url": "https://www.dairyfoods.com/articles/93844-vv-supremo-declares-sept-25-national-quesadilla-day"
       },
       {
-        "label": "Business Wire — V&V Supremo Launches National Quesadilla Day on September 25th (Sept. 18, 2019)",
+        "label": "Business Wire: V&V Supremo Launches National Quesadilla Day on September 25th (Sept. 18, 2019)",
         "url": "https://www.businesswire.com/news/home/20190918005164/en/VV-Supremo%C2%AE-Launches-National-Quesadilla-Day-September"
       },
       {
-        "label": "PR Newswire — V&V Supremo Foods, Inc. Celebrates 60 Years... (Aug. 30, 2024)",
+        "label": "PR Newswire: V&V Supremo Foods, Inc. Celebrates 60 Years... (Aug. 30, 2024)",
         "url": "https://www.prnewswire.com/news-releases/vv-supremo-foods-inc-celebrates-60-years-bringing-great-memories-through-great-food-as-one-of-the-oldest-family-owned-businesses-of-its-kind-in-the-us-302234968.html"
       },
       {
-        "label": "National Today — National Quesadilla Day (deals section, updated June 2026)",
+        "label": "National Today: National Quesadilla Day (deals section, updated June 2026)",
         "url": "https://nationaltoday.com/national-quesadilla-day/"
       }
     ],
@@ -9129,7 +9129,7 @@ export const guides: Guide[] = [
       "text": "February 13 every year, the day before Valentine's Day. The date does not shift for weekends.",
       "status": "conventional",
       "source": {
-        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "label": "Wikipedia: Galentine's Day (2010 Parks and Recreation episode)",
         "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
       },
       "occurrences": [
@@ -9164,7 +9164,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Galentine's Day traces to one specific, dated broadcast: \"Galentine's Day,\" the 16th episode of the second season of Parks and Recreation (the 22nd episode of the series overall), which aired on NBC on February 11, 2010. It was written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope (Amy Poehler) throws what the show frames as her annual Galentine's Day breakfast party for her female friends, held the day before Valentine's Day, describing it to the camera as \"Lilith Fair minus the angst and plus frittatas\" and, in the line most often quoted since, \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\" \"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" per Wikipedia's own account of both the episode and the observance it inspired. Nielsen Media Research recorded 4.98 million household viewers for the original broadcast, an improvement on the previous week's episode and a series-high rating among viewers 18 to 49 at the time. The episode received generally positive reviews on release. What happened after is unusual for an observance on this calendar: rather than a vague, undocumented drift into public use, the day can be traced to this one script, this one writer, and this one air date, with no earlier claimant and no competing origin story found anywhere in researching this page.",
       "source": {
-        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "label": "Wikipedia: Galentine's Day (2010 Parks and Recreation episode)",
         "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
       }
     },
@@ -9249,27 +9249,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — Galentine's Day (2010 Parks and Recreation episode)",
+        "label": "Wikipedia: Galentine's Day (2010 Parks and Recreation episode)",
         "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
       },
       {
-        "label": "Wikipedia — Galentine's Day (observance)",
+        "label": "Wikipedia: Galentine's Day (observance)",
         "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(observance)"
       },
       {
-        "label": "HISTORY — What Is Galentine's Day?",
+        "label": "HISTORY: What Is Galentine's Day?",
         "url": "https://www.history.com/articles/what-is-galentines-day"
       },
       {
-        "label": "Boston Globe — Prominent Massachusetts women gather for 'Galentine's Day' celebration (Feb. 14, 2023)",
+        "label": "Boston Globe: Prominent Massachusetts women gather for 'Galentine's Day' celebration (Feb. 14, 2023)",
         "url": "https://www.bostonglobe.com/2023/02/14/metro/prominent-massachusetts-women-gather-galentines-day-celebration/"
       },
       {
-        "label": "Senate President Karen E. Spilka — Karen Spilka Hosts First Annual Galentine's Day Celebration",
+        "label": "Senate President Karen E. Spilka: Karen Spilka Hosts First Annual Galentine's Day Celebration",
         "url": "https://karenspilka.com/updates/2023/3/6/karen-spilka-hosts-first-annual-galentines-day-celebration"
       },
       {
-        "label": "Boston Globe — For Karen Spilka, this Galentine's Day is serious business (Feb. 13, 2026)",
+        "label": "Boston Globe: For Karen Spilka, this Galentine's Day is serious business (Feb. 13, 2026)",
         "url": "https://www.bostonglobe.com/2026/02/13/business/karen-spilka-michelle-wu/"
       }
     ],
@@ -9289,7 +9289,7 @@ export const guides: Guide[] = [
       "text": "The American Library Association and the Banned Books Week Coalition announce each year's dates themselves, typically the spring before, with no published formula tying the week to a fixed weekday count. The table lists the starting Sunday of each year's observance; the week runs through the following Saturday in every case. In 2026 it runs October 4 through 10.",
       "status": "conventional",
       "source": {
-        "label": "American Library Association — Banned Books Week (October 4-10, 2026)",
+        "label": "American Library Association: Banned Books Week (October 4-10, 2026)",
         "url": "https://www.ala.org/bbooks/banned"
       },
       "occurrences": [
@@ -9320,7 +9320,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Banned Books Week grew out of a documented 1981-1982 flashpoint, not a single founder's idea in isolation. In January 1981, the Reverend Jerry Falwell's Moral Majority sent a mass mailing urging supporters to examine school libraries and textbooks for \"immoral, anti-family and anti-American content\" and report what they found; the American Library Association, which had long tracked censorship complaints, reported the numbers climbing afterward. Judith Krug, director of ALA's Office for Intellectual Freedom since 1967, worked with two other organizations to respond. The New York Times' contemporaneous September 1982 coverage names the resulting group plainly: \"a national coalition,\" made up of the American Booksellers Association, the American Library Association, and the National Association of College Stores, designated that week as the first Banned Books Week. Krug told the Times at the time that the country's censors were \"searching for something unreal—the good old days,\" and pointed directly at Falwell's letters as the kind of pressure the campaign was answering. The same year, in June 1982, the Supreme Court decided Island Trees Union Free School District v. Pico, ruling that school officials cannot remove books from a library simply because they dislike the ideas in them, a case that did not create Banned Books Week but decided in the same twelve months as the same underlying fight.",
       "source": {
-        "label": "Longreads — Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting the New York Times, Sept. 1982)",
+        "label": "Longreads: Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting the New York Times, Sept. 1982)",
         "url": "https://longreads.com/2015/10/02/jerry-falwell-judith-krug-and-the-origins-of-banned-books-week/"
       }
     },
@@ -9401,39 +9401,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "American Library Association — Banned Books Week (October 4-10, 2026 dates and theme)",
+        "label": "American Library Association: Banned Books Week (October 4-10, 2026 dates and theme)",
         "url": "https://www.ala.org/bbooks/banned"
       },
       {
-        "label": "American Library Association — 2025 Most Challenged Books List and censorship data (April 2026)",
+        "label": "American Library Association: 2025 Most Challenged Books List and censorship data (April 2026)",
         "url": "https://www.ala.org/news/2026/04/american-library-association-releases-2025-most-challenged-books-list-national-library"
       },
       {
-        "label": "Longreads — Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting New York Times, Sept. 1982)",
+        "label": "Longreads: Jerry Falwell, Judith Krug, and the Origins of 'Banned Books Week' (quoting New York Times, Sept. 1982)",
         "url": "https://longreads.com/2015/10/02/jerry-falwell-judith-krug-and-the-origins-of-banned-books-week/"
       },
       {
-        "label": "National Council of Teachers of English — A Look Back at the History of Banned Books Week",
+        "label": "National Council of Teachers of English: A Look Back at the History of Banned Books Week",
         "url": "https://ncte.org/blog/2020/09/41588/"
       },
       {
-        "label": "Wikipedia — Banned Books Week",
+        "label": "Wikipedia: Banned Books Week",
         "url": "https://en.wikipedia.org/wiki/Banned_Books_Week"
       },
       {
-        "label": "GovTrack — H.Res. 1392 (117th Congress, 2022, died without a vote)",
+        "label": "GovTrack: H.Res. 1392 (117th Congress, 2022, died without a vote)",
         "url": "https://www.govtrack.us/congress/bills/117/hres1392"
       },
       {
-        "label": "GovTrack — S.Res. 838 (117th Congress, introduced Nov. 17, 2022, died without a vote)",
+        "label": "GovTrack: S.Res. 838 (117th Congress, introduced Nov. 17, 2022, died without a vote)",
         "url": "https://www.govtrack.us/congress/bills/117/sres838"
       },
       {
-        "label": "GovTrack — S.Res. 443 (119th Congress, introduced Oct. 8, 2025)",
+        "label": "GovTrack: S.Res. 443 (119th Congress, introduced Oct. 8, 2025)",
         "url": "https://www.govtrack.us/congress/bills/119/sres443"
       },
       {
-        "label": "Amnesty International USA — Banned Books Week",
+        "label": "Amnesty International USA: Banned Books Week",
         "url": "https://www.amnestyusa.org/campaigns/banned-books/"
       }
     ],
@@ -9445,16 +9445,16 @@ export const guides: Guide[] = [
     "slug": "national-adoption-day",
     "category": "Observances",
     "title": "National Adoption Day: Two Sites Have 2026's Date Wrong",
-    "description": "Two major calendar sites list November 22, 2026 for this observance. The organizers say November 21 — and the waiting-children count is years out of date.",
+    "description": "Two major calendar sites list November 22, 2026 for this observance. The organizers say November 21, and the waiting-children count is years out of date.",
     "published": "2026-08-26",
     "updated": "2026-08-26",
-    "coreSummary": "National Adoption Day, coordinated since 2000 by a coalition led by the Dave Thomas Foundation for Adoption and the Alliance for Children's Rights, falls on the Saturday before Thanksgiving — November 21 in 2026, which the organizers' own website confirms, not November 22 as nationaldaycalendar.com and nationaltoday.com currently list it (a Sunday). The 'children waiting to be adopted' figure attached to the day is just as unsettled: the organizers' own site says over 100,000, other calendar sites still cite 123,000 to 125,000, and the federal count that both figures have fallen behind, from AFCARS preliminary FY2024 data released in September 2025, is 70,421.",
+    "coreSummary": "National Adoption Day, coordinated since 2000 by a coalition led by the Dave Thomas Foundation for Adoption and the Alliance for Children's Rights, falls on the Saturday before Thanksgiving (November 21 in 2026, which the organizers' own website confirms), not November 22 as nationaldaycalendar.com and nationaltoday.com currently list it (a Sunday). The 'children waiting to be adopted' figure attached to the day is just as unsettled: the organizers' own site says over 100,000, other calendar sites still cite 123,000 to 125,000, and the federal count that both figures have fallen behind, from AFCARS preliminary FY2024 data released in September 2025, is 70,421.",
     "dateRule": {
       "kind": "offset",
       "text": "The Saturday before Thanksgiving, an organizer convention rather than a statute. It has held without exception across the years this page independently checked: 2023 (November 18), and 2024 and 2025 (November 23 and November 22), the latter two confirmed directly against state court press releases. The organizers' own homepage lists 2026's date as Saturday, November 21.",
       "status": "documented",
       "source": {
-        "label": "National Adoption Day — official homepage (lists \"Saturday, November 21, 2026\")",
+        "label": "National Adoption Day: official homepage (lists \"Saturday, November 21, 2026\")",
         "url": "https://www.nationaladoptionday.org/"
       },
       "occurrences": [
@@ -9485,7 +9485,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "National Adoption Day traces to a Los Angeles courtroom fix, not a marketing calendar. In 1997, Michael Nash, then presiding judge of Los Angeles County's Juvenile Court, began opening his court on Saturdays and enlisting pro bono attorneys and court staff to work through a backlog of foster-care adoption cases, an effort the coalition still calls the \"Adoption Saturday\" model; that Los Angeles program alone has finalized more than 46,000 adoptions since 1997. On November 18, 2000, five organizations, the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights, the Children's Action Network, and the Freddie Mac Foundation, took the model national for the first time: nine cities opened their courts that Saturday and finalized 1,100 adoptions. The coalition's own materials are not perfectly consistent about the launch year, though: the organization's current about page dates the first event to November 18, 2000, while its own homepage separately states the day was \"launched\" in 1999. This page follows the dated, more specific claim (November 18, 2000) over the undated one.",
       "source": {
-        "label": "National Adoption Day — About (\"On November 18, 2000, a coalition of national partners...\")",
+        "label": "National Adoption Day: About (\"On November 18, 2000, a coalition of national partners...\")",
         "url": "https://www.nationaladoptionday.org/about/"
       }
     },
@@ -9566,51 +9566,51 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Adoption Day — official homepage (2026 date, current \"more than 100,000\" figure)",
+        "label": "National Adoption Day: official homepage (2026 date, current \"more than 100,000\" figure)",
         "url": "https://www.nationaladoptionday.org/"
       },
       {
-        "label": "National Adoption Day — About (founding coalition, November 18, 2000, nine cities)",
+        "label": "National Adoption Day: About (founding coalition, November 18, 2000, nine cities)",
         "url": "https://www.nationaladoptionday.org/about/"
       },
       {
-        "label": "Alliance for Children's Rights & Los Angeles Superior Court — 26th National Adoption Day Fact Sheet (Nov. 22, 2025; AFCARS FY2024 figures, growth history)",
+        "label": "Alliance for Children's Rights & Los Angeles Superior Court: 26th National Adoption Day Fact Sheet (Nov. 22, 2025; AFCARS FY2024 figures, growth history)",
         "url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCCommunications-76-NAD2025FactSheet.pdf"
       },
       {
-        "label": "National Council For Adoption — Foster Care and Adoption Statistics, AFCARS 2025 Update (70,418 waiting figure)",
+        "label": "National Council For Adoption: Foster Care and Adoption Statistics, AFCARS 2025 Update (70,418 waiting figure)",
         "url": "https://adoptioncouncil.org/article/foster-care-and-adoption-statistics/"
       },
       {
-        "label": "Wikipedia — National Adoption Day (growth history corroboration)",
+        "label": "Wikipedia: National Adoption Day (growth history corroboration)",
         "url": "https://en.wikipedia.org/wiki/National_Adoption_Day"
       },
       {
-        "label": "National Day Calendar — National Adoption Day, \"Saturday Before Thanksgiving\" (currently lists Nov. 22, 2026)",
+        "label": "National Day Calendar: National Adoption Day, \"Saturday Before Thanksgiving\" (currently lists Nov. 22, 2026)",
         "url": "https://www.nationaldaycalendar.com/national-day/national-adoption-day-saturday-before-thanksgiving"
       },
       {
-        "label": "National Today — National Adoption Day (currently lists Nov. 22, 2026)",
+        "label": "National Today: National Adoption Day (currently lists Nov. 22, 2026)",
         "url": "https://nationaltoday.com/national-adoption-day/"
       },
       {
-        "label": "The White House — National Adoption Month, 2025 (presidential proclamation)",
+        "label": "The White House: National Adoption Month, 2025 (presidential proclamation)",
         "url": "https://www.whitehouse.gov/presidential-actions/2025/11/national-adoption-month-2025/"
       },
       {
-        "label": "North Carolina Judicial Branch — Mecklenburg County Celebrates National Adoption Day, November 23, 2024",
+        "label": "North Carolina Judicial Branch: Mecklenburg County Celebrates National Adoption Day, November 23, 2024",
         "url": "https://www.nccourts.gov/news/tag/press-release/mecklenburg-county-celebrates-national-adoption-day-november-23-2024"
       },
       {
-        "label": "Maryland Courts — Media Advisory: National Adoption Day celebrations, Nov. 23, 2024",
+        "label": "Maryland Courts: Media Advisory: National Adoption Day celebrations, Nov. 23, 2024",
         "url": "https://www.courts.state.md.us/media/news/2024/pr20241120b"
       },
       {
-        "label": "Maryland Courts — Media Advisory: National Adoption Day celebrations, Nov. 22, 2025",
+        "label": "Maryland Courts: Media Advisory: National Adoption Day celebrations, Nov. 22, 2025",
         "url": "https://www.courts.state.md.us/media/news/2025/pr20251114"
       },
       {
-        "label": "Colorado Judicial Branch — Colorado Courts Celebrate National Adoption Day, Nov. 23, 2024",
+        "label": "Colorado Judicial Branch: Colorado Courts Celebrate National Adoption Day, Nov. 23, 2024",
         "url": "https://www.coloradojudicial.gov/media/press-release/colorado-courts-celebrate-national-adoption-day"
       }
     ],
@@ -9629,7 +9629,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "All of October, every year, from October 1 through October 31, rather than a single date or a floating week within the month.",
       "source": {
-        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "label": "PACER's National Bullying Prevention Center: Promote National Bullying Prevention Month",
         "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
       },
       "occurrences": [
@@ -9664,7 +9664,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "PACER's National Bullying Prevention Center states plainly on its own site that it \"founded NBPM in 2006 as a week-long event; it became a month-long one in 2010,\" expanding through partnerships with the National PTA, the American Federation of Teachers, and the National Education Association. That 2006 founding year is independently corroborated: a White House blog post published October 29, 2014, under the byline of Taryn Williams, then Associate Director of the Office of Public Engagement, opens by noting \"this October marks the 8th anniversary of National Bullying Prevention Awareness Month. Begun in 2006...\" The White House blog post makes no reference to PACER's own materials, yet lands on the identical year. The month's signature event, Unity Day, came later and separately: PACER's own Unity Day page states it \"started by PACER's National Bullying Prevention Center in October 2011.\" No search of the archived White House record, across the Obama, Trump, and Biden administrations, turns up a formal presidential proclamation specifically for National Bullying Prevention Month, in contrast to observances such as Domestic Violence Awareness Month, which Congress designated by name in 1989. The closest the federal government has come is agency-level action: the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" guidance letter on bullying and disability law on October 21, 2014, timed to the month, and HHS's StopBullying.gov has published October recognition content since at least 2015.",
       "source": {
-        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "label": "PACER's National Bullying Prevention Center: Promote National Bullying Prevention Month",
         "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
       }
     },
@@ -9747,35 +9747,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "PACER's National Bullying Prevention Center — Promote National Bullying Prevention Month",
+        "label": "PACER's National Bullying Prevention Center: Promote National Bullying Prevention Month",
         "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
       },
       {
-        "label": "PACER's National Bullying Prevention Center — Unity Day",
+        "label": "PACER's National Bullying Prevention Center: Unity Day",
         "url": "https://www.pacer.org/bullying/nbpm/unity-day/"
       },
       {
-        "label": "The White House (Obama Administration archive) — National Bullying Prevention Awareness Month, Oct. 29, 2014 (Taryn Williams)",
+        "label": "The White House (Obama Administration archive): National Bullying Prevention Awareness Month, Oct. 29, 2014 (Taryn Williams)",
         "url": "https://obamawhitehouse.archives.gov/blog/2014/10/29/national-bullying-prevention-awareness-month"
       },
       {
-        "label": "StopBullying.gov (HHS) — October is National Bullying Prevention Awareness Month",
+        "label": "StopBullying.gov (HHS): October is National Bullying Prevention Awareness Month",
         "url": "https://www.stopbullying.gov/blog/2020/10/21/october-national-bullying-prevention-awareness-month"
       },
       {
-        "label": "STOMP Out Bullying — World Day of Bullying Prevention®",
+        "label": "STOMP Out Bullying: World Day of Bullying Prevention®",
         "url": "https://www.stompoutbullying.org/world-day-bullying-prevention"
       },
       {
-        "label": "STOMP Out Bullying — Our History (founding by Ross Ellis, 2005)",
+        "label": "STOMP Out Bullying: Our History (founding by Ross Ellis, 2005)",
         "url": "https://www.stompoutbullying.org/our-history"
       },
       {
-        "label": "UNESCO — International Day against Violence and Bullying at School, including Cyberbullying",
+        "label": "UNESCO: International Day against Violence and Bullying at School, including Cyberbullying",
         "url": "https://www.unesco.org/en/days/against-school-violence-and-bullying"
       },
       {
-        "label": "PACER Kids Against Bullying — Unity Day is Wednesday, Oct. 22, 2025",
+        "label": "PACER Kids Against Bullying: Unity Day is Wednesday, Oct. 22, 2025",
         "url": "https://pacerkidsagainstbullying.org/pacer-news/unity-day-wednesday-oct-22/"
       }
     ],
@@ -9795,7 +9795,7 @@ export const guides: Guide[] = [
       "kind": "fixed",
       "text": "September 20 in the United States, the same calendar date every year. No statute or proclamation establishes it; National Day Calendar and pizza-industry coverage have listed it consistently on September 20 across at least 2023, 2024, 2025, and 2026.",
       "source": {
-        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "label": "National Day Calendar: Pepperoni Pizza Day, September 20",
         "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
       },
       "occurrences": [
@@ -9831,7 +9831,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "National Day Calendar, the organization most closely associated with registering and promoting the observance, states on its official page for the day that it is still researching the observance's source, without offering even an approximate decade or region to narrow the search, an unusually direct admission from a group that otherwise dates and credits the founding of most entries in its registry. No pizza chain has stepped forward to claim the date either, despite being the parties with the most to gain from the association: Jet's Pizza sponsors the observance and runs deals around it, and Domino's and Pizza Hut do the same independently, but none of the three claims to have picked September 20 or to know who did. The gap resembles [National Coffee Day](/national-coffee-day/), another undocumented food observance earlier the same month: a promotional apparatus has grown up around a date nobody can trace to a founder.",
       "source": {
-        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "label": "National Day Calendar: Pepperoni Pizza Day, September 20",
         "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
       }
     },
@@ -9898,31 +9898,31 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Day Calendar — Pepperoni Pizza Day, September 20",
+        "label": "National Day Calendar: Pepperoni Pizza Day, September 20",
         "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
       },
       {
-        "label": "Wikipedia — Pepperoni",
+        "label": "Wikipedia: Pepperoni",
         "url": "https://en.wikipedia.org/wiki/Pepperoni"
       },
       {
-        "label": "YouGov — Americans' Favorite Pizza Topping Is Pepperoni, Their Least Favorite Is Anchovies (May 16, 2023)",
+        "label": "YouGov: Americans' Favorite Pizza Topping Is Pepperoni, Their Least Favorite Is Anchovies (May 16, 2023)",
         "url": "https://today.yougov.com/topics/consumer/articles-reports/2023/05/16/americans-favorite-pizza-topping-pepperoni-poll"
       },
       {
-        "label": "PMQ Pizza — Who Invented Pepperoni Pizza? The Answer Is Complicated",
+        "label": "PMQ Pizza: Who Invented Pepperoni Pizza? The Answer Is Complicated",
         "url": "https://www.pmq.com/who-invented-pepperoni-pizza-the-answer-is-complicated/"
       },
       {
-        "label": "QSR Magazine — Jet's Pizza to Offer Discounted Items on National Pepperoni Pizza Day",
+        "label": "QSR Magazine: Jet's Pizza to Offer Discounted Items on National Pepperoni Pizza Day",
         "url": "https://www.qsrmagazine.com/growth/marketing-promotions/jets-pizza-to-offer-discounted-items-on-national-pepperoni-pizza-day/"
       },
       {
-        "label": "National Day Calendar — National Cheese Pizza Day, September 5",
+        "label": "National Day Calendar: National Cheese Pizza Day, September 5",
         "url": "https://www.nationaldaycalendar.com/national-day/national-cheese-pizza-day-september-5"
       },
       {
-        "label": "National Day Calendar — National Pizza Day, February 9",
+        "label": "National Day Calendar: National Pizza Day, February 9",
         "url": "https://www.nationaldaycalendar.com/national-day/national-pizza-day-february-9"
       }
     ],
@@ -9943,7 +9943,7 @@ export const guides: Guide[] = [
       "text": "The third Sunday in September, every year. Because the rule is tied to a weekday rather than a calendar date, the day of the month moves from year to year.",
       "status": "conventional",
       "source": {
-        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "label": "National Day Calendar: Wife Appreciation Day, third Sunday in September",
         "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
       },
       "occurrences": [
@@ -9978,7 +9978,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "No individual, company, or organization has been documented as the source of National Wife Appreciation Day. National Day Calendar, which typically credits a submitter when a day was formally registered with the site, was not able to identify who proposed or registered this one. A number of calendar and lifestyle sites state that a version of the day first appeared in Chase's Calendar of Events around 2006, but that claim traces back to secondhand summaries rather than to Chase's own catalog, and none of those sites names a submitter or cites a page number. The explanation offered most often, without documentation, is that greeting-card and gift retailers popularized the day as a September counterpart to Mother's Day, aimed at wives without children. No dated original announcement, registration record, or proclamation has surfaced to confirm any part of that account.",
       "source": {
-        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "label": "National Day Calendar: Wife Appreciation Day, third Sunday in September",
         "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
       }
     },
@@ -10058,39 +10058,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Day Calendar — Wife Appreciation Day, third Sunday in September",
+        "label": "National Day Calendar: Wife Appreciation Day, third Sunday in September",
         "url": "https://nationaldaycalendar.com/celebrations/wife-appreciation-day-third-sunday-in-september"
       },
       {
-        "label": "Calendarr — Wife Appreciation Day (National Wife Day)",
+        "label": "Calendarr: Wife Appreciation Day (National Wife Day)",
         "url": "https://www.calendarr.com/united-states/wife-appreciation-day/"
       },
       {
-        "label": "Holiday Calendar — Wife Appreciation Day",
+        "label": "Holiday Calendar: Wife Appreciation Day",
         "url": "https://www.holidaycalendar.io/holiday/wife-appreciation-day"
       },
       {
-        "label": "NonStop Celebrations — Wife Appreciation Day, third Sunday in September",
+        "label": "NonStop Celebrations: Wife Appreciation Day, third Sunday in September",
         "url": "https://www.nonstopcelebrations.com/days/in-september/celebrate-wife-appreciation-day-the-third-sunday-in-september/"
       },
       {
-        "label": "National Today — Wife Appreciation Day",
+        "label": "National Today: Wife Appreciation Day",
         "url": "https://nationaltoday.com/wife-appreciation-day/"
       },
       {
-        "label": "Awareness Days — National Husband Appreciation Day",
+        "label": "Awareness Days: National Husband Appreciation Day",
         "url": "https://www.awarenessdays.com/awareness-days-calendar/national-husband-appreciation-day/"
       },
       {
-        "label": "National Day Calendar — National Spouses Day, January 26",
+        "label": "National Day Calendar: National Spouses Day, January 26",
         "url": "https://nationaldaycalendar.com/celebrations/national-spouses-day-january-26"
       },
       {
-        "label": "Holiday Calendar — Husband Day",
+        "label": "Holiday Calendar: Husband Day",
         "url": "https://www.holidaycalendar.io/holiday/husband-day"
       },
       {
-        "label": "Library of Congress — Today in History, Mother's Day (May 8, 1914 congressional resolution and Wilson's 1914 proclamation)",
+        "label": "Library of Congress: Today in History, Mother's Day (May 8, 1914 congressional resolution and Wilson's 1914 proclamation)",
         "url": "https://www.loc.gov/item/today-in-history/may-09/"
       }
     ],
@@ -10111,7 +10111,7 @@ export const guides: Guide[] = [
       "text": "November 6 every year, the same fixed calendar date. No law or proclamation sets this date; it is simply the date calendar-aggregator sites and restaurant chains have consistently used for the observance.",
       "status": "conventional",
       "source": {
-        "label": "National Day Calendar — National Nachos Day, November 6",
+        "label": "National Day Calendar: National Nachos Day, November 6",
         "url": "https://www.nationaldaycalendar.com/national-day/national-nachos-day-november-6"
       },
       "occurrences": [
@@ -10128,7 +10128,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "No founder, company, or registration has ever been traced to National Nachos Day. Holiday Calendar's own history timeline states plainly, \"The origin of National Nachos Day is unclear, but it has been celebrated on November 6th since the mid-1990s,\" without naming who started it or citing a proclamation, press release, or registration of any kind. National Day Calendar, Calendarr, and National Today all publish the day without crediting a founder, which is unusual only in how consistent the silence is; contrast National Quesadilla Day, a similar food-brand observance on this calendar with a named company, a named executive, and contemporaneous 2019 news coverage of its launch. Nothing comparable exists for National Nachos Day. What every source agrees on instead is the origin of the dish the day celebrates, which is unusually well documented for 1940s border-town cooking.",
       "source": {
-        "label": "Holiday Calendar — National Nachos Day (history timeline)",
+        "label": "Holiday Calendar: National Nachos Day (history timeline)",
         "url": "https://www.holidaycalendar.io/holiday/national-nachos-day"
       }
     },
@@ -10201,27 +10201,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Today — National Nacho Day",
+        "label": "National Today: National Nacho Day",
         "url": "https://nationaltoday.com/national-nacho-day/"
       },
       {
-        "label": "The Fact Site — National Nachos Day",
+        "label": "The Fact Site: National Nachos Day",
         "url": "https://www.thefactsite.com/national-nachos-day/"
       },
       {
-        "label": "Calendarr — National Nachos Day (notes International Nacho Day, October 21)",
+        "label": "Calendarr: National Nachos Day (notes International Nacho Day, October 21)",
         "url": "https://www.calendarr.com/united-states/national-nachos-day/"
       },
       {
-        "label": "Holiday Calendar — National Nachos Day (history timeline, mid-1990s claim)",
+        "label": "Holiday Calendar: National Nachos Day (history timeline, mid-1990s claim)",
         "url": "https://www.holidaycalendar.io/holiday/national-nachos-day"
       },
       {
-        "label": "National Day Calendar — National Nachos Day, November 6",
+        "label": "National Day Calendar: National Nachos Day, November 6",
         "url": "https://www.nationaldaycalendar.com/national-day/national-nachos-day-november-6"
       },
       {
-        "label": "BakeryAndSnacks (William Reed) — Super Bowl snacking facts and figures, citing Circana/SNAC International data",
+        "label": "BakeryAndSnacks (William Reed): Super Bowl snacking facts and figures, citing Circana/SNAC International data",
         "url": "https://www.bakeryandsnacks.com/Article/2025/02/07/super-bowl-snacking-facts-figures-and-fan-favourites/"
       }
     ],
@@ -10242,7 +10242,7 @@ export const guides: Guide[] = [
       "text": "September 4 every year in the United States. No federal law or proclamation sets this date; it is the date used consistently by National Day Calendar, National Today, and Calendarr.",
       "status": "conventional",
       "source": {
-        "label": "National Today — National Wildlife Day",
+        "label": "National Today: National Wildlife Day",
         "url": "https://nationaltoday.com/national-wildlife-day/"
       },
       "occurrences": [
@@ -10259,7 +10259,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "Colleen Paige, a pet and family lifestyle expert who is also credited elsewhere on this calendar as the founder of National Cat Day and National Dog Day, is named as the founder of National Wildlife Day by National Today, National Day Calendar, and Calendarr alike. What those sources do not agree on is the year, or the sequence of events. National Today's own published timeline for the observance places its founding in 2006 and states that Paige \"created National Wildlife Day in honor of the late wildlife conservationist Steve Irwin,\" phrasing that reads as a direct response to his September 4, 2006 death. Calendarr's account instead states National Wildlife Day \"was founded in 2005\" to raise general awareness of threats facing wildlife, and only afterward, when Irwin died in September 2006, was the day \"dedicated\" to his memory. Those are two different sequences of events, not only two different years. One version has the day created because of Irwin's death. The other has the day already existing, then rededicated to his memory once he died. Neither source cites a registration, a press release, or an original announcement from Paige predating either claim, the same evidentiary gap already documented on this calendar's National Cat Day and National Dog Day pages, both founded by the same person without an independently verifiable paper trail.",
       "source": {
-        "label": "National Today — National Wildlife Day (timeline)",
+        "label": "National Today: National Wildlife Day (timeline)",
         "url": "https://nationaltoday.com/national-wildlife-day/"
       }
     },
@@ -10330,35 +10330,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Today — National Wildlife Day (timeline, 2006 founding)",
+        "label": "National Today: National Wildlife Day (timeline, 2006 founding)",
         "url": "https://nationaltoday.com/national-wildlife-day/"
       },
       {
-        "label": "Calendarr — National Wildlife Day (2005 founding, dedicated to Steve Irwin)",
+        "label": "Calendarr: National Wildlife Day (2005 founding, dedicated to Steve Irwin)",
         "url": "https://www.calendarr.com/united-states/national-wildlife-day/"
       },
       {
-        "label": "CNN — Stingray kills 'Crocodile Hunter' (Steve Irwin, September 4, 2006)",
+        "label": "CNN: Stingray kills 'Crocodile Hunter' (Steve Irwin, September 4, 2006)",
         "url": "https://www.cnn.com/2006/WORLD/asiapcf/09/04/australia.irwin/"
       },
       {
-        "label": "United Nations — World Wildlife Day background",
+        "label": "United Nations: World Wildlife Day background",
         "url": "https://www.un.org/en/observances/world-wildlife-day/background"
       },
       {
-        "label": "National Day Calendar — Wildlife Conservation Day, December 4",
+        "label": "National Day Calendar: Wildlife Conservation Day, December 4",
         "url": "https://www.nationaldaycalendar.com/december/wildlife-conservation-day-december-4"
       },
       {
-        "label": "IPBES — 2019 Global Assessment Report on Biodiversity and Ecosystem Services",
+        "label": "IPBES: 2019 Global Assessment Report on Biodiversity and Ecosystem Services",
         "url": "https://files.ipbes.net/ipbes-web-prod-public-files/webform/impact_tracking_database/46408/2019%20IPBES%20Biodiversity%20and%20Ecosystem%20Services%20report%20Final.pdf"
       },
       {
-        "label": "Our World in Data — Number of species threatened with extinction (IUCN Red List)",
+        "label": "Our World in Data: Number of species threatened with extinction (IUCN Red List)",
         "url": "https://ourworldindata.org/grapher/number-species-threatened"
       },
       {
-        "label": "Nature — Number of species on Earth tagged at 8.7 million (Mora et al., PLoS Biology, 2011)",
+        "label": "Nature: Number of species on Earth tagged at 8.7 million (Mora et al., PLoS Biology, 2011)",
         "url": "https://www.nature.com/articles/news.2011.498"
       }
     ],
@@ -10457,91 +10457,91 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Wikipedia — World Animal Day",
+        "label": "Wikipedia: World Animal Day",
         "url": "https://en.wikipedia.org/wiki/World_Animal_Day"
       },
       {
-        "label": "World Animal Day — 100 Years of World Animal Day: The Forgotten Legacy of Heinrich Zimmermann",
+        "label": "World Animal Day: 100 Years of World Animal Day: The Forgotten Legacy of Heinrich Zimmermann",
         "url": "https://www.worldanimalday.org/100-years-of-world-animal-day-the-forgotten-legacy-of-heinrich-zimmermann/"
       },
       {
-        "label": "Wikipedia — World Vegetarian Day",
+        "label": "Wikipedia: World Vegetarian Day",
         "url": "https://en.wikipedia.org/wiki/World_Vegetarian_Day"
       },
       {
-        "label": "FAO — 80th anniversary and founding history",
+        "label": "FAO: 80th anniversary and founding history",
         "url": "https://www.fao.org/europe/about-us/fao-in-europe-and-central-asia/fao-80th-anniversary/en"
       },
       {
-        "label": "SDG Resource Centre — World Food Day (FAO 1979 resolution, first observed 1981)",
+        "label": "SDG Resource Centre: World Food Day (FAO 1979 resolution, first observed 1981)",
         "url": "https://sdgresources.relx.com/events/world-food-day"
       },
       {
-        "label": "Wikipedia — Uniform Monday Holiday Act",
+        "label": "Wikipedia: Uniform Monday Holiday Act",
         "url": "https://en.wikipedia.org/wiki/Uniform_Monday_Holiday_Act"
       },
       {
-        "label": "Federal Times — Is Columbus Day a federal holiday? (1934 resolution, 1968 statute)",
+        "label": "Federal Times: Is Columbus Day a federal holiday? (1934 resolution, 1968 statute)",
         "url": "https://www.federaltimes.com/management/2022/10/04/is-columbus-day-a-federal-holiday/"
       },
       {
-        "label": "Farmers' Almanac — When Is Indigenous Peoples' Day 2026",
+        "label": "Farmers' Almanac: When Is Indigenous Peoples' Day 2026",
         "url": "https://www.farmersalmanac.com/when-is-indigenous-peoples-day"
       },
       {
-        "label": "AgAmerica — National Farmer's Day History (competing founding claims)",
+        "label": "AgAmerica: National Farmer's Day History (competing founding claims)",
         "url": "https://agamerica.com/blog/history-of-national-farmers-day/"
       },
       {
-        "label": "The Old Farmer's Almanac — National Farmer's Day (October 12)",
+        "label": "The Old Farmer's Almanac: National Farmer's Day (October 12)",
         "url": "https://www.almanac.com/national-farmers-day"
       },
       {
-        "label": "Wikipedia — Sweetest Day",
+        "label": "Wikipedia: Sweetest Day",
         "url": "https://en.wikipedia.org/wiki/Sweetest_Day"
       },
       {
-        "label": "News 5 Cleveland — How a Cleveland candy maker created Sweetest Day",
+        "label": "News 5 Cleveland: How a Cleveland candy maker created Sweetest Day",
         "url": "https://www.news5cleveland.com/entertainment/how-a-cleveland-candy-maker-created-the-holiday-known-as-sweetest-day"
       },
       {
-        "label": "CISA — Cybersecurity Awareness Month",
+        "label": "CISA: Cybersecurity Awareness Month",
         "url": "https://www.cisa.gov/cybersecurity-awareness-month"
       },
       {
-        "label": "Wikipedia — National Cyber Security Awareness Month",
+        "label": "Wikipedia: National Cyber Security Awareness Month",
         "url": "https://en.wikipedia.org/wiki/National_Cyber_Security_Awareness_Month"
       },
       {
-        "label": "U.S. Department of Labor — National Disability Employment Awareness Month (NDEAM)",
+        "label": "U.S. Department of Labor: National Disability Employment Awareness Month (NDEAM)",
         "url": "https://www.dol.gov/agencies/odep/initiatives/ndeam"
       },
       {
-        "label": "Library of Congress — National Disability Employment Awareness Month: Legislative History Overview",
+        "label": "Library of Congress: National Disability Employment Awareness Month: Legislative History Overview",
         "url": "https://guides.loc.gov/national-disability-employment-awareness-month/legislative-history-overview"
       },
       {
-        "label": "National Down Syndrome Society — History",
+        "label": "National Down Syndrome Society: History",
         "url": "https://ndss.org/history"
       },
       {
-        "label": "National Down Syndrome Society — Down Syndrome Awareness Month",
+        "label": "National Down Syndrome Society: Down Syndrome Awareness Month",
         "url": "https://ndss.org/down-syndrome-awareness-month"
       },
       {
-        "label": "KCUR — A Missouri teacher founded LGBT History Month 30 years ago",
+        "label": "KCUR: A Missouri teacher founded LGBT History Month 30 years ago",
         "url": "https://www.kcur.org/history/2024-10-09/lgbt-history-month-october-rodney-wilson"
       },
       {
-        "label": "Health Literacy Consulting — How Health Literacy Month Got Started",
+        "label": "Health Literacy Consulting: How Health Literacy Month Got Started",
         "url": "https://healthliteracy.com/2023/10/01/how-health-literacy-month-got-started/"
       },
       {
-        "label": "Wikipedia — Filipino American History Month",
+        "label": "Wikipedia: Filipino American History Month",
         "url": "https://en.wikipedia.org/wiki/Filipino_American_History_Month"
       },
       {
-        "label": "Filipino American National Historical Society — About FANHS",
+        "label": "Filipino American National Historical Society: About FANHS",
         "url": "https://www.fanhs-national.org/about-fanhs"
       }
     ],
@@ -10562,7 +10562,7 @@ export const guides: Guide[] = [
       "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar rather than staying fixed from year to year. It carries no legal or governmental status. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
       "status": "conventional",
       "source": {
-        "label": "National Burrito Day, First Thursday of April — National Day Calendar",
+        "label": "National Burrito Day, First Thursday of April: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-burrito-day-first-thursday-of-april"
       },
       "occurrences": [
@@ -10647,27 +10647,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Burrito Day, First Thursday of April — National Day Calendar",
+        "label": "National Burrito Day, First Thursday of April: National Day Calendar",
         "url": "https://nationaldaycalendar.com/celebrations/national-burrito-day-first-thursday-of-april"
       },
       {
-        "label": "Burrito — Wikipedia",
+        "label": "Burrito: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Burrito"
       },
       {
-        "label": "El Cholo Spanish Cafe — Wikipedia",
+        "label": "El Cholo Spanish Cafe: Wikipedia",
         "url": "https://en.wikipedia.org/wiki/El_Cholo_Spanish_Cafe"
       },
       {
-        "label": "SF's El Faro, the birthplace of the Mission burrito, must be saved — San Francisco Chronicle",
+        "label": "SF's El Faro, the birthplace of the Mission burrito, must be saved: San Francisco Chronicle",
         "url": "https://www.sfchronicle.com/food/restaurants/article/el-faro-mission-burrito-creator-22206173.php"
       },
       {
-        "label": "How San Francisco's Famous Mission-Style Burritos Were Born — Chowhound",
+        "label": "How San Francisco's Famous Mission-Style Burritos Were Born: Chowhound",
         "url": "https://www.chowhound.com/1905363/where-did-mission-burrito-originate/"
       },
       {
-        "label": "CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION — Chipotle Newsroom",
+        "label": "CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION: Chipotle Newsroom",
         "url": "https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY"
       }
     ],
@@ -10782,39 +10782,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstones",
+        "label": "Jewelers of America: Birthstones",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
       },
       {
-        "label": "GIA — October Birthstones: Opal & Tourmaline",
+        "label": "GIA: October Birthstones: Opal & Tourmaline",
         "url": "https://www.gia.edu/birthstones/october-birthstones"
       },
       {
-        "label": "American Gem Society — October's Dual Birthstones: Opal & Tourmaline",
+        "label": "American Gem Society: October's Dual Birthstones: Opal & Tourmaline",
         "url": "https://www.americangemsociety.org/octobers-dual-birthstones-opal-tourmaline/"
       },
       {
-        "label": "American Gem Society — The Folklore of Opal",
+        "label": "American Gem Society: The Folklore of Opal",
         "url": "https://www.americangemsociety.org/the-folklore-of-opal/"
       },
       {
-        "label": "Lightning Ridge Historical Society — The Discovery of Opal",
+        "label": "Lightning Ridge Historical Society: The Discovery of Opal",
         "url": "https://lrhs.org.au/the-discovery-of-opal"
       },
       {
-        "label": "National Opal Collection — The Australian Opal Fields",
+        "label": "National Opal Collection: The Australian Opal Fields",
         "url": "https://www.nationalopal.com/opals/australian-opal-fields.html"
       },
       {
-        "label": "Opal Academy — White Cliffs Opal Fields",
+        "label": "Opal Academy: White Cliffs Opal Fields",
         "url": "https://www.opal.academy/home/2019/6/27/white-cliff-opal-fields-stcsd"
       },
       {
-        "label": "Digital Maine — \"Maine Tourmaline\"",
+        "label": "Digital Maine: \"Maine Tourmaline\"",
         "url": "https://digitalmaine.com/arc_200th_moments/11/"
       },
       {
-        "label": "Sun Journal — From Mount Mica to the 'Big Find,' Western Maine's history told by tourmaline",
+        "label": "Sun Journal: From Mount Mica to the 'Big Find,' Western Maine's history told by tourmaline",
         "url": "https://www.sunjournal.com/2026/01/25/from-mount-mica-to-the-big-find-history-of-tourmaline-tells-story-of-western-maine/"
       }
     ],
@@ -10835,7 +10835,7 @@ export const guides: Guide[] = [
       "text": "September's full moon, every year. The exact date moves with the lunar cycle rather than sitting on a fixed calendar day.",
       "status": "documented",
       "source": {
-        "label": "The Old Farmer's Almanac — Full Moon Names",
+        "label": "The Old Farmer's Almanac: Full Moon Names",
         "url": "https://www.almanac.com/full-moon-names"
       },
       "occurrences": [
@@ -10866,7 +10866,7 @@ export const guides: Guide[] = [
       "status": "unverified",
       "text": "No individual is credited with coining \"Corn Moon,\" and the earliest written record doesn't get much more specific than a nationality-free \"the Indians.\" Captain Jonathan Carver, born in the Province of Massachusetts Bay in 1710, traveled through the Great Lakes and northern Mississippi Valley in the 1760s and spent time with Dakota, Ojibwe, and Ho-Chunk communities, then published a list of twelve lunar month names in his 1778 travel book, written after he had relocated to England. September appears on it as \"Corn Moon.\" Carver doesn't say which of the people he traveled with told him this, or name a specific nation for most entries on the list; attributing customs broadly to \"the Indians\" rather than to a named source was his habit throughout the book. The Old Farmer's Almanac carried Carver's \"Corn Moon\" into the 12-name list it has published since 1964, which is the version still printed on American calendars today. Separately, the Western Abenaki and Dakota have their own documented names for the same lunar month, Corn Maker Moon and Corn Harvest Moon, neither a translation of Carver's English label.",
       "source": {
-        "label": "History.com — How Are Full Moons Named?",
+        "label": "History.com: How Are Full Moons Named?",
         "url": "https://www.history.com/articles/full-moons-naming-native-american"
       }
     },
@@ -10935,27 +10935,27 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "U.S. Naval Observatory, Astronomical Applications Department — Moon Phase and Season Data API",
+        "label": "U.S. Naval Observatory, Astronomical Applications Department: Moon Phase and Season Data API",
         "url": "https://aa.usno.navy.mil/data/api"
       },
       {
-        "label": "The Old Farmer's Almanac — Full Moon Names",
+        "label": "The Old Farmer's Almanac: Full Moon Names",
         "url": "https://www.almanac.com/full-moon-names"
       },
       {
-        "label": "The Old Farmer's Almanac — When Is the Next Full Moon? Full Moon Dates for 2026",
+        "label": "The Old Farmer's Almanac: When Is the Next Full Moon? Full Moon Dates for 2026",
         "url": "https://www.almanac.com/astronomy/moon/full"
       },
       {
-        "label": "History.com — How Are Full Moons Named?",
+        "label": "History.com: How Are Full Moons Named?",
         "url": "https://www.history.com/articles/full-moons-naming-native-american"
       },
       {
-        "label": "EarthSky — The Super Harvest Moon (Harvest Moon explainer)",
+        "label": "EarthSky: The Super Harvest Moon (Harvest Moon explainer)",
         "url": "https://earthsky.org/astronomy-essentials/harvest-moon-2/"
       },
       {
-        "label": "MoonPhase.Today — Harvest Moon Calendar 2026 to 2030",
+        "label": "MoonPhase.Today: Harvest Moon Calendar 2026 to 2030",
         "url": "https://moonphase.today/harvest-moon-calendar/"
       }
     ],
@@ -11039,35 +11039,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1988e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1989 (Ji-si, year of the Snake)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1989 (Ji-si, year of the Snake)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1989e.pdf"
       },
       {
-        "label": "Wikipedia — Skrillex",
+        "label": "Wikipedia: Skrillex",
         "url": "https://en.wikipedia.org/wiki/Skrillex"
       },
       {
-        "label": "Wikipedia — FKA Twigs",
+        "label": "Wikipedia: FKA Twigs",
         "url": "https://en.wikipedia.org/wiki/FKA_Twigs"
       },
       {
-        "label": "Wikipedia — Rihanna",
+        "label": "Wikipedia: Rihanna",
         "url": "https://en.wikipedia.org/wiki/Rihanna"
       },
       {
-        "label": "Wikipedia — Earthly Branches",
+        "label": "Wikipedia: Earthly Branches",
         "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       },
       {
-        "label": "Wikipedia — Heavenly Stems",
+        "label": "Wikipedia: Heavenly Stems",
         "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
       },
       {
-        "label": "Wikipedia — Sexagenary cycle",
+        "label": "Wikipedia: Sexagenary cycle",
         "url": "https://en.wikipedia.org/wiki/Sexagenary_cycle"
       }
     ],
@@ -11088,7 +11088,7 @@ export const guides: Guide[] = [
       "text": "July 22 every year, observed under the same name in both the United States and India. No source describes a weekend-shift convention or a differing regional date.",
       "status": "conventional",
       "source": {
-        "label": "National Mango Board (mango.org) — Celebrating National Mango Day",
+        "label": "National Mango Board (mango.org): Celebrating National Mango Day",
         "url": "https://www.mango.org/blog/celebrating-national-mango-day/"
       },
       "occurrences": [
@@ -11174,43 +11174,43 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "National Mango Board (mango.org) — Celebrating National Mango Day",
+        "label": "National Mango Board (mango.org): Celebrating National Mango Day",
         "url": "https://www.mango.org/blog/celebrating-national-mango-day/"
       },
       {
-        "label": "National Mango Board — Nutrition Info for 3/4 Cup Mango Pieces (USDA National Nutrient Database, Release 28)",
+        "label": "National Mango Board: Nutrition Info for 3/4 Cup Mango Pieces (USDA National Nutrient Database, Release 28)",
         "url": "https://www.mango.org/wp-content/uploads/2019/11/0.75-Cup-Mango_New-Nutrition-Facts-Label_New-DVs.pdf"
       },
       {
-        "label": "National Mango Board — NMB History Timeline (77% referendum support figure)",
+        "label": "National Mango Board: NMB History Timeline (77% referendum support figure)",
         "url": "https://www.mango.org/about-the-nmb/nmb-history-timeline/"
       },
       {
-        "label": "AndNowUKnow — National Mango Board Celebrates National Mango Month; Manuel Michel Comments (June 2, 2021)",
+        "label": "AndNowUKnow: National Mango Board Celebrates National Mango Month; Manuel Michel Comments (June 2, 2021)",
         "url": "https://www.andnowuknow.com/quick-dish/national-mango-board-celebrates-national-mango-month-Manuel-Michel/lilian-diep/73722"
       },
       {
-        "label": "USDA Agricultural Marketing Service — Mango Promotion, Research and Information Order, Federal Register History",
+        "label": "USDA Agricultural Marketing Service: Mango Promotion, Research and Information Order, Federal Register History",
         "url": "https://www.ams.usda.gov/rules-regulations/research-promotion/mango/federal-register-history"
       },
       {
-        "label": "eCFR — 7 CFR Part 1206, Mango Promotion, Research, and Information",
+        "label": "eCFR: 7 CFR Part 1206, Mango Promotion, Research, and Information",
         "url": "https://www.ecfr.gov/current/title-7/subtitle-B/chapter-XI/part-1206"
       },
       {
-        "label": "National Today — Mango Day (history timeline)",
+        "label": "National Today: Mango Day (history timeline)",
         "url": "https://nationaltoday.com/mango-day/"
       },
       {
-        "label": "Wikipedia — International Mango Festival",
+        "label": "Wikipedia: International Mango Festival",
         "url": "https://en.wikipedia.org/wiki/International_Mango_Festival"
       },
       {
-        "label": "Wikipedia — National Horticulture Board",
+        "label": "Wikipedia: National Horticulture Board",
         "url": "https://en.wikipedia.org/wiki/National_Horticulture_Board"
       },
       {
-        "label": "News on AIR (All India Radio) — Government Says Production of Mango in Country Has Increased by 12.7 Percent Over Last 10 Years (Aug. 1, 2023)",
+        "label": "News on AIR (All India Radio): Government Says Production of Mango in Country Has Increased by 12.7 Percent Over Last 10 Years (Aug. 1, 2023)",
         "url": "https://newsonair.gov.in/government-says-production-of-mango-in-country-has-increased-by-12-7-percent-over-last-10-years/"
       }
     ],
@@ -11231,7 +11231,7 @@ export const guides: Guide[] = [
       "text": "October 21 every year, the anniversary of the first Apple Day event in 1990. The date does not shift for weekends or weekdays.",
       "status": "documented",
       "source": {
-        "label": "Common Ground — Apple Day",
+        "label": "Common Ground: Apple Day",
         "url": "https://www.commonground.org.uk/apple-day/"
       },
       "occurrences": [
@@ -11248,7 +11248,7 @@ export const guides: Guide[] = [
       "status": "documented",
       "text": "National Apple Day was launched on October 21, 1990, by Common Ground, a small UK charity that Sue Clifford and Angela King had founded roughly a decade earlier, in 1982 or 1983 depending on the source, to promote what the pair called \"local distinctiveness.\" The first event took place in the Piazza at Covent Garden in London, in the old Apple Market, which had gone without fruit stalls for roughly sixteen years by Common Ground's count (a later retelling by the wildlife charity People's Trust for Endangered Species, PTES, puts the gap at seventeen). Forty stalls took part: growers and nurseries selling apple varieties and trees, alongside cider makers, juice makers, and writers with their own apple books. Common Ground never intended to repeat that single event; the plan was to spread the idea so that towns, villages, and gardens across Britain would organize their own versions. The count of separate Apple Day events grew from more than 60 in 1991 to 300 by 1997 and past 600 by 1999.",
       "source": {
-        "label": "Common Ground — Apple Day",
+        "label": "Common Ground: Apple Day",
         "url": "https://www.commonground.org.uk/apple-day/"
       }
     },
@@ -11314,39 +11314,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Common Ground — Apple Day",
+        "label": "Common Ground: Apple Day",
         "url": "https://www.commonground.org.uk/apple-day/"
       },
       {
-        "label": "Wikipedia — Apple Day",
+        "label": "Wikipedia: Apple Day",
         "url": "https://en.wikipedia.org/wiki/Apple_Day"
       },
       {
-        "label": "Wikipedia — Common Ground (United Kingdom)",
+        "label": "Wikipedia: Common Ground (United Kingdom)",
         "url": "https://en.wikipedia.org/wiki/Common_Ground_(United_Kingdom)"
       },
       {
-        "label": "People's Trust for Endangered Species — Apple Day (Orchard Network)",
+        "label": "People's Trust for Endangered Species: Apple Day (Orchard Network)",
         "url": "https://ptes.org/campaigns/traditional-orchard-project/orchard-network/apple-day/"
       },
       {
-        "label": "Wikipedia — Apple (cultivar count)",
+        "label": "Wikipedia: Apple (cultivar count)",
         "url": "https://en.wikipedia.org/wiki/Apple"
       },
       {
-        "label": "Washington State University Tree Fruit — Apple Varieties (independent 7,500-cultivar corroboration)",
+        "label": "Washington State University Tree Fruit: Apple Varieties (independent 7,500-cultivar corroboration)",
         "url": "https://treefruit.wsu.edu/web-article/apple-varieties/"
       },
       {
-        "label": "National Today — National Apple Day",
+        "label": "National Today: National Apple Day",
         "url": "https://nationaltoday.com/national-apple-day/"
       },
       {
-        "label": "Checkiday — National Apple Month",
+        "label": "Checkiday: National Apple Month",
         "url": "https://www.checkiday.com/47db92818ce0b63a7e7825c2b2cd4116/national-apple-month"
       },
       {
-        "label": "U.S. Apple Association — National Apple Month (archived via Wayback Machine)",
+        "label": "U.S. Apple Association: National Apple Month (archived via Wayback Machine)",
         "url": "https://web.archive.org/web/20191206153501/http://usapple.org/all-about-apples/national-apple-month/"
       }
     ],
@@ -11431,35 +11431,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Jewelers of America — Birthstones",
+        "label": "Jewelers of America: Birthstones",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
       },
       {
-        "label": "GIA — September Birthstones",
+        "label": "GIA: September Birthstones",
         "url": "https://www.gia.edu/birthstones/september-birthstones"
       },
       {
-        "label": "GIA — Opal (Composition, Formation, and Play-of-Color)",
+        "label": "GIA: Opal (Composition, Formation, and Play-of-Color)",
         "url": "https://www.gia.edu/opal"
       },
       {
-        "label": "American Gem Society — The Folklore of Opal",
+        "label": "American Gem Society: The Folklore of Opal",
         "url": "https://www.americangemsociety.org/the-folklore-of-opal/"
       },
       {
-        "label": "Wikipedia — Birthstone (Zodiacal, Tropical Zodiac Table)",
+        "label": "Wikipedia: Birthstone (Zodiacal, Tropical Zodiac Table)",
         "url": "https://en.wikipedia.org/wiki/Birthstone#Zodiacal"
       },
       {
-        "label": "Wikipedia — Chrysolite (disambiguation)",
+        "label": "Wikipedia: Chrysolite (disambiguation)",
         "url": "https://en.wikipedia.org/wiki/Chrysolite"
       },
       {
-        "label": "1911 Encyclopædia Britannica — Chrysolite (via Wikisource)",
+        "label": "1911 Encyclopædia Britannica: Chrysolite (via Wikisource)",
         "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chrysolite"
       },
       {
-        "label": "Britannica — Chrysolite",
+        "label": "Britannica: Chrysolite",
         "url": "https://www.britannica.com/science/chrysolite"
       }
     ],
@@ -11543,35 +11543,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1991 (Xin-wei, year of the Goat)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1991 (Xin-wei, year of the Goat)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1991e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1992e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1990 (Geng-wu, year of the Horse)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1990 (Geng-wu, year of the Horse)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1990e.pdf"
       },
       {
-        "label": "Wikipedia — Emma Roberts",
+        "label": "Wikipedia: Emma Roberts",
         "url": "https://en.wikipedia.org/wiki/Emma_Roberts"
       },
       {
-        "label": "Wikipedia — Jeremy Allen White",
+        "label": "Wikipedia: Jeremy Allen White",
         "url": "https://en.wikipedia.org/wiki/Jeremy_Allen_White"
       },
       {
-        "label": "Wikipedia — Earthly Branches",
+        "label": "Wikipedia: Earthly Branches",
         "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       },
       {
-        "label": "Wikipedia — Heavenly Stems",
+        "label": "Wikipedia: Heavenly Stems",
         "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
       },
       {
-        "label": "Wikipedia — Sexagenary cycle",
+        "label": "Wikipedia: Sexagenary cycle",
         "url": "https://en.wikipedia.org/wiki/Sexagenary_cycle"
       }
     ],
@@ -11654,35 +11654,35 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1992e.pdf"
       },
       {
-        "label": "Hong Kong Observatory — Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
+        "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1993 (Gui-you, year of the Rooster)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1993e.pdf"
       },
       {
-        "label": "Wikipedia — Alden Richards",
+        "label": "Wikipedia: Alden Richards",
         "url": "https://en.wikipedia.org/wiki/Alden_Richards"
       },
       {
-        "label": "Wikipedia — Laurie Davidson (actor)",
+        "label": "Wikipedia: Laurie Davidson (actor)",
         "url": "https://en.wikipedia.org/wiki/Laurie_Davidson_(actor)"
       },
       {
-        "label": "Wikipedia — Taylor Lautner",
+        "label": "Wikipedia: Taylor Lautner",
         "url": "https://en.wikipedia.org/wiki/Taylor_Lautner"
       },
       {
-        "label": "Wikipedia — Heavenly Stems",
+        "label": "Wikipedia: Heavenly Stems",
         "url": "https://en.wikipedia.org/wiki/Heavenly_Stems"
       },
       {
-        "label": "Wikipedia — Earthly Branches",
+        "label": "Wikipedia: Earthly Branches",
         "url": "https://en.wikipedia.org/wiki/Earthly_Branches"
       },
       {
-        "label": "The Metropolitan Museum of Art — Zodiac figure: monkey",
+        "label": "The Metropolitan Museum of Art: Zodiac figure: monkey",
         "url": "https://www.metmuseum.org/art/collection/search/44681"
       }
     ],
@@ -11774,39 +11774,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GIA — November Birthstones",
+        "label": "GIA: November Birthstones",
         "url": "https://www.gia.edu/birthstones/november-birthstones"
       },
       {
-        "label": "GIA — Peridot History and Lore",
+        "label": "GIA: Peridot History and Lore",
         "url": "https://www.gia.edu/peridot-history-lore"
       },
       {
-        "label": "GIA — Topaz Quality Factors",
+        "label": "GIA: Topaz Quality Factors",
         "url": "https://www.gia.edu/topaz-quality-factor"
       },
       {
-        "label": "GIA — Topaz Care and Cleaning Guide",
+        "label": "GIA: Topaz Care and Cleaning Guide",
         "url": "https://www.gia.edu/topaz-care-cleaning"
       },
       {
-        "label": "GIA — Citrine Quality Factors",
+        "label": "GIA: Citrine Quality Factors",
         "url": "https://www.gia.edu/citrine-quality-factors"
       },
       {
-        "label": "GIA — Is Citrine Treated?",
+        "label": "GIA: Is Citrine Treated?",
         "url": "https://www.gia.edu/gia-faq-treated-citrine"
       },
       {
-        "label": "GIA — Historical Reading List: Imperial Topaz from Minas Gerais, Brazil",
+        "label": "GIA: Historical Reading List: Imperial Topaz from Minas Gerais, Brazil",
         "url": "https://www.gia.edu/reading-list-imperial-topaz"
       },
       {
-        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "label": "Jewelers of America: Birthstone Jewelry Guide",
         "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       }
     ],
@@ -11905,39 +11905,39 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "GIA — April Birthstones",
+        "label": "GIA: April Birthstones",
         "url": "https://www.gia.edu/birthstones/april-birthstones"
       },
       {
-        "label": "GIA 4Cs — More than the Mohs Scale: Understanding Gem Durability",
+        "label": "GIA 4Cs: More than the Mohs Scale: Understanding Gem Durability",
         "url": "https://4cs.gia.edu/en-us/blog/more-than-mohs-scale-gem-durability/"
       },
       {
-        "label": "GIA — Diamond Care and Cleaning Guide",
+        "label": "GIA: Diamond Care and Cleaning Guide",
         "url": "https://www.gia.edu/diamond-care-cleaning"
       },
       {
-        "label": "GIA — GIA Launches Updated Laboratory-Grown Diamond Services October 1",
+        "label": "GIA: GIA Launches Updated Laboratory-Grown Diamond Services October 1",
         "url": "https://www.gia.edu/gia-news-press/updated-laboratory-grown-diamond-services-to-launch-october-1"
       },
       {
-        "label": "De Beers Group — De Beers Group Announces Intention to Close Lightbox Business",
+        "label": "De Beers Group: De Beers Group Announces Intention to Close Lightbox Business",
         "url": "https://www.debeersgroup.com/news-insights/latest-group-news/2025/de-beers-group-announces-intention-to-close-lightbox-business"
       },
       {
-        "label": "National Jeweler — Rocks On: The Evolution of the Birthstone List",
+        "label": "National Jeweler: Rocks On: The Evolution of the Birthstone List",
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       },
       {
-        "label": "International Gem Society — Birthstone Chart: Modern and Traditional",
+        "label": "International Gem Society: Birthstone Chart: Modern and Traditional",
         "url": "https://www.gemsociety.org/article/birthstone-chart/"
       },
       {
-        "label": "Lucara Diamond Corp — Lucara Recovers Epic 2,492 Carat Diamond From the Karowe Mine",
+        "label": "Lucara Diamond Corp: Lucara Recovers Epic 2,492 Carat Diamond From the Karowe Mine",
         "url": "https://lucaradiamond.com/newsroom/news-releases/lucara-recovers-epic-2-492-carat-diamond-from-the-122900/"
       },
       {
-        "label": "Jewelers of America — Birthstone Jewelry Guide",
+        "label": "Jewelers of America: Birthstone Jewelry Guide",
         "url": "https://www.jewelers.org/gift-guides/birthstone-jewelry-guide"
       }
     ],
@@ -12090,7 +12090,7 @@ export const guides: Guide[] = [
   },
   {
     "slug": "holiday-spending-statistics",
-    "category": "Consumer Trends",
+    "category": "Observances",
     "title": "Holiday Spending Statistics 2026, All Sourced",
     "description": "More than 50 holiday spending statistics for 2026, each traced to NRF's, PwC's, or LendingTree's published survey, sorted by holiday, by category, and by year.",
     "published": "2026-09-13",
@@ -12210,91 +12210,91 @@ export const guides: Guide[] = [
     ],
     "sources": [
       {
-        "label": "NRF — Winter Holiday Data and Trends",
+        "label": "NRF: Winter Holiday Data and Trends",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays"
       },
       {
-        "label": "NRF — Consumers to Spend Second-Highest Amount on Record, According to NRF Holiday Survey (Oct. 16, 2025)",
+        "label": "NRF: Consumers to Spend Second-Highest Amount on Record, According to NRF Holiday Survey (Oct. 16, 2025)",
         "url": "https://nrf.com/media-center/press-releases/consumers-to-spend-second-highest-amount-on-record-according-to-nrf-holiday-survey"
       },
       {
-        "label": "NRF — NRF Expects Holiday Sales to Surpass $1 Trillion for the First Time in 2025",
+        "label": "NRF: NRF Expects Holiday Sales to Surpass $1 Trillion for the First Time in 2025",
         "url": "https://nrf.com/media-center/press-releases/nrf-expects-holiday-sales-to-surpass-1-trillion-for-the-first-time-in-2025"
       },
       {
-        "label": "NRF — Valentine's Day Spending Expected to Reach New Records (2026)",
+        "label": "NRF: Valentine's Day Spending Expected to Reach New Records (2026)",
         "url": "https://nrf.com/media-center/press-releases/valentine-s-day-spending-expected-to-reach-new-records"
       },
       {
-        "label": "NRF — NRF Survey: Valentine's Day Spending Reaches Record $27.5 Billion (2025)",
+        "label": "NRF: NRF Survey: Valentine's Day Spending Reaches Record $27.5 Billion (2025)",
         "url": "https://nrf.com/media-center/press-releases/nrf-survey-valentine-s-day-spending-reaches-record-27-5-billion"
       },
       {
-        "label": "NRF — Valentine's Day Data and Trends (historical highlights)",
+        "label": "NRF: Valentine's Day Data and Trends (historical highlights)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/valentines-day"
       },
       {
-        "label": "NRF — Easter Spending Expected to Reach a Record $24.9 Billion (2026)",
+        "label": "NRF: Easter Spending Expected to Reach a Record $24.9 Billion (2026)",
         "url": "https://nrf.com/media-center/press-releases/easter-spending-expected-to-reach-a-record-24-9-billion"
       },
       {
-        "label": "NRF — Easter Data and Trends (historical highlights)",
+        "label": "NRF: Easter Data and Trends (historical highlights)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/easter"
       },
       {
-        "label": "NRF — Mother's Day Spending Expected to Hit Record $38 Billion (2026)",
+        "label": "NRF: Mother's Day Spending Expected to Hit Record $38 Billion (2026)",
         "url": "https://nrf.com/media-center/press-releases/mother-s-day-spending-expected-to-hit-record-38-billion"
       },
       {
-        "label": "NRF — Mother's Day Data and Trends (historical highlights)",
+        "label": "NRF: Mother's Day Data and Trends (historical highlights)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/mothers-day"
       },
       {
-        "label": "NRF — Father's Day Spending to Hit Record $27.9 Billion (2026)",
+        "label": "NRF: Father's Day Spending to Hit Record $27.9 Billion (2026)",
         "url": "https://nrf.com/media-center/press-releases/father-s-day-spending-to-hit-record-27-9-billion"
       },
       {
-        "label": "NRF — Father's Day Data and Trends (historical highlights)",
+        "label": "NRF: Father's Day Data and Trends (historical highlights)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/fathers-day"
       },
       {
-        "label": "NRF — NRF Consumer Survey Finds Halloween Spending to Reach Record $13.1 Billion (2025)",
+        "label": "NRF: NRF Consumer Survey Finds Halloween Spending to Reach Record $13.1 Billion (2025)",
         "url": "https://nrf.com/media-center/press-releases/nrf-consumer-survey-finds-halloween-spending-to-reach-record-13-1-billion"
       },
       {
-        "label": "NRF — Halloween Data and Trends (historical highlights)",
+        "label": "NRF: Halloween Data and Trends (historical highlights)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/halloween"
       },
       {
-        "label": "NRF — Super Bowl Data and Trends (2026)",
+        "label": "NRF: Super Bowl Data and Trends (2026)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/super-bowl"
       },
       {
-        "label": "NRF — St. Patrick's Day Data and Trends (2026)",
+        "label": "NRF: St. Patrick's Day Data and Trends (2026)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day"
       },
       {
-        "label": "NRF — Independence Day Data and Trends (2026)",
+        "label": "NRF: Independence Day Data and Trends (2026)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/independence-day"
       },
       {
-        "label": "NRF — Graduation Data and Trends (2026)",
+        "label": "NRF: Graduation Data and Trends (2026)",
         "url": "https://nrf.com/research-insights/holiday-data-and-trends/graduation"
       },
       {
-        "label": "NRF — Majority of Back-to-School Shoppers Get a Head Start on the Season (2026)",
+        "label": "NRF: Majority of Back-to-School Shoppers Get a Head Start on the Season (2026)",
         "url": "https://nrf.com/media-center/press-releases/majority-of-back-to-school-shoppers-get-a-head-start-on-the-season"
       },
       {
-        "label": "PwC — Holiday Outlook 2026: A Season of Presents and Presence (published Sept. 8, 2026)",
+        "label": "PwC: Holiday Outlook 2026: A Season of Presents and Presence (published Sept. 8, 2026)",
         "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/holiday-outlook-trends.html"
       },
       {
-        "label": "LendingTree — Holiday Debt Study (published Dec. 22, 2025)",
+        "label": "LendingTree: Holiday Debt Study (published Dec. 22, 2025)",
         "url": "https://www.lendingtree.com/credit-cards/study/holiday-debt-tariffs/"
       },
       {
-        "label": "LendingTree — Thanksgiving Hosting Cost Study (published Nov. 11, 2025)",
+        "label": "LendingTree: Thanksgiving Hosting Cost Study (published Nov. 11, 2025)",
         "url": "https://www.lendingtree.com/credit-cards/study/thanksgiving-higher-costs/"
       }
     ]

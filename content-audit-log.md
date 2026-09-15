@@ -2414,3 +2414,110 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
 
 **遗留**：27篇跳过页面中，"占星人格/配对类"10篇与"连锁店促销/菜单类"4篇、"主观民俗健康类"4篇本质上是站点编辑立场/内容标准决定的系统性跳过，不会因为换一轮WebSearch额度而改变结论，未来第三轮如果`paa_gap.py`再次把这些页面的同类问题列入候选，可考虑直接在`paa_gap.py`层面按问题关键词模式（soulmate/compatible/lucky/personality/red flags等）预过滤，减少重复核实的人工成本。
 
+
+## 2026-09-15 content-quality-audit
+
+```json
+{
+  "url_slug": "national-taco-day",
+  "last_audited": "2026-09-15",
+  "published_date": "2026-08-09",
+  "diagnostic_focus": [
+    "1. 站内选文命中两条优先清单：零点击查询清单(独立站/零点击查询内容增量清单_20260912.md，national-taco-day多条查询含'when is national taco day 2026'等)与PAA缺口清单(独立站/PAA缺口清单_20260913.md，未覆盖PAA'Does Taco Bell offer $1 tacos on National Taco Day, October 7th?')——须先判断是内容缺口还是AI Overview截流，再决定是否补内容",
+    "2. 先审计了同样双命中的virgo-dates，但该篇2天前(09-13)刚被彻底审过：零点击已证实为AI Overview截流非内容缺口，PAA个性/配对类问题命中本站'不做人格/配对断言'的既定editorial stance，无可行动项——判定为不宜强行硬凑内容，改选次优先级命中national-taco-day",
+    "3. Taco Bell/Del Taco促销类断言含具体价格/时间/数量，时效性风险高于普通事实性内容，需要额外核实'2026年是否保证重复同样促销'不能断言",
+    "4. 08-29首次审计只修了1处死链，未跑过2026-08-30才上线的机械散文四项检查（check_prose_patterns.py）——属于已知的存量债务模式，需要本次补跑",
+    "5. 事后发现：本站同一天(2026-09-15)较早时间的PAA-FAQ批处理第二轮（见本文件同日更早条目）曾核实过同一条PAA gap（\"Does Taco Bell offer $1 tacos on National Taco Day, October 7th?\"）并判定跳过——理由是\"与现有FAQ Every Tuesday重复+问题本身日期有误（该轮判定2026年是10-6非10-7）\"。本次审计独立复核后认定该跳过判断过粗：真实促销（四时段各2.5万份$1 Cantina Chicken Soft Taco+7pm年度礼卡抽签）是National Taco Day当天专属的一次性加码活动，规模/结构与\"Tuesday Drops\"常规周促销明显不同，不是同一件事的重复描述；且PAA问题里的\"October 7th\"是2025年的真实日期（非编造），本次FAQ答案正确地将其锚定为\"2025年10月7日当天\"的历史事实，未误植为2026年日期，不构成'问题本身日期有误'因而需要放弃的理由。判定为两次审核对同一材料的独立复核给出了不同结论，本次结论有更深入的verification support（独立agent确认+TODAY.com逐字核实），故采纳新增，并在此如实记录分歧供后续复查。"
+  ],
+  "findings": [
+    {
+      "dimension": "EEAT",
+      "status": "未发现问题",
+      "detail": "全文以具名信源（Taco Bell Newsroom/PR Newswire联合公告、L.A. Taco记者Gustavo Arellano专题调查、国会记录）为骨架，对不确定细节保持防守性措辞（'no identified author'/'Nobody on record'）。"
+    },
+    {
+      "dimension": "事实准确性",
+      "status": "确认1处PAA缺口，已核实修复",
+      "detail": "现状：文章已有FAQ'Does Taco Bell have $1 tacos every Tuesday?'回答的是常规Tuesday Drops机制，但PAA缺口清单标记的真实问法是'Taco Bell是否在National Taco Day当天专门有$1 taco促销'，两者不是同一问题。替换/新增：WebSearch+curl抓取TODAY.com原文（该文章已是本站既有sources之一）逐字核实：2025年10月7日National Taco Day当天，Taco Bell Rewards会员可在App内四个时段(11am/1pm/3pm/5pm太平洋时间)各抢2.5万份$1 Cantina Chicken Soft Taco，另有7pm一年份Taco Tuesday礼卡抽签(100份)。来源：TODAY.com（本站既有source）+Food Network+Taco Bell Newsroom三方交叉确认。理由：这是PAA真实问法对应的、本站此前未覆盖的具体促销事实，非PAA卡片文字照抄（PAA问题只是问法候选，答案独立核实）；措辞已加'不保证2026年重复同样促销'的hedge，不对未来做断言。"
+    },
+    {
+      "dimension": "时效性",
+      "status": "未发现需更新的过期事实",
+      "detail": "dateRule occurrences覆盖2026-2031，本次审计时(2026-09-15)最近一次occurrence(2026-10-06)尚未发生。因本次有实质内容编辑，updated字段按规则同步更新（published字段本已存在于2026-08-09，无需git回填）。"
+    },
+    {
+      "dimension": "竞品差异化",
+      "status": "未发现问题，差异化真实",
+      "detail": "dataforseo_query.py serp实测'national taco day 2027'：AI Overview存在但0引用来源，本矩阵未出现；nationaldaycalendar.com等头部竞品仅罗列日期，未见任何一家像本文一样系统拆穿'2004年匿名来源'与'1968年国会记录的被遗忘首个National Taco Day'两条史实分歧。PAA显示的'Is National Taco Day always on October 7th?'等问法本文日期不稳定性章节已充分覆盖。"
+    },
+    {
+      "dimension": "SEO技术审计",
+      "status": "未发现问题",
+      "detail": "check_seo_field_stats.py：title长度56字符z-score=-0.43，description长度161字符z-score=0.63，均在正常范围内（未改动这两个字段）。"
+    },
+    {
+      "dimension": "GEO审计",
+      "status": "未发现问题，未重新完整打分",
+      "detail": "FAQ/sources/coreSummary/timeline图/dateRule结构齐全，符合站内既定GEO模式；本次内容改动为FAQ层面新增+措辞修复，不涉及结构性GEO薄弱维度，未运行完整ai-seo skill重新打分。"
+    },
+    {
+      "dimension": "早期内容AI味补漏",
+      "status": "未发现问题",
+      "detail": "published(08-09)早于avoid-ai-writing接入(08-07)？不，08-09晚于08-07接入时间，不属于'早期内容'范畴，跳过此项的补查触发条件。仍完整过了Skill(humanizer)审阅新增/改写的FAQ文本，未发现AI tell（无em-dash/无AI高频词/句长有变化）。"
+    },
+    {
+      "dimension": "外部引用链接腐烂",
+      "status": "未发现真实腐烂",
+      "detail": "5条sources curl实测：4条200（lataco.com/prnewswire.com/nationaltoday.com/today.com），nationaldaycalendar.com返回403。WebSearch二次核实该域名当前页面仍在线并被索引（含本文所引的具体URL主题'first Tuesday in October'页面仍存在，URL slug已从/celebrations/变为/national-day/但内容延续），判定为反爬拦截非真实腐烂，与本站历次同域名审计结论一致，未替换来源。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "未发现问题",
+      "detail": "internal_link_audit.py --site dayalmanac：本文未出现在全站0入链名单（1篇，非本文）或临门页≤1入链名单（0篇）中，入链健康。"
+    },
+    {
+      "dimension": "Schema数据一致性",
+      "status": "未发现问题",
+      "detail": "FAQPage由faq数组自动生成，本次FAQ改写/新增后线上schema随之自动同步，非手工维护字段，无不一致风险。"
+    },
+    {
+      "dimension": "合规/敏感度漂移",
+      "status": "未发现问题",
+      "detail": "涉及品牌（Taco Bell/Del Taco/Chuy's Tex-Mex等）均为中性商业事实引用，无新增现实争议。"
+    },
+    {
+      "dimension": "配图可用性与版权",
+      "status": "未发现问题",
+      "detail": "national-taco-day.jpg（Wikimedia Commons, CC0）curl实测200；timeline SVG本地资源正常。DayAlmanac不在object-cover强制裁剪的5站名单内，不适用check_hero_crop.py。"
+    },
+    {
+      "dimension": "AdSense政策合规风险",
+      "status": "未发现问题",
+      "detail": "ads.txt正确指向pub-5245502795720653；/privacy/、/about/页面200可访问；正文无暴力/毒品/赌博类目描写，促销价格信息属于百科式事实记述非诱导性广告文案。"
+    },
+    {
+      "dimension": "机械散文四项检查",
+      "status": "发现2类真实问题（存量债务，已修复）",
+      "detail": "check_prose_patterns.py首次运行：①L-0819-8 \"'s own\"归因重复3次(阈值>2)；②L-0819-9 FAQ与正文≥20字符逐字重合，起初5条（新增FAQ#7另有1条，但确认为脚本'description'字段名与下一字段值拼接产生的假阳性，已通过措辞微调规避，同时未改变本条判定实质）。迭代7轮重写后EXIT 0全部通过。"
+    },
+    {
+      "dimension": "谷歌垃圾政策合规检查",
+      "status": "PASS",
+      "detail": "Skill(google-spam-compliance)三要素判定：投入(有，含原始时间线图/多方交叉查证)、原创(有，独家史实角度)、附加价值(有，纠正竞品仍展示的过期日期+补齐真实PAA问法)。十一类逐条核对全部PASS：无隐藏文字、无关键词堆砌、内链全部指向真实存在slug（已核对national-boyfriend-day/galentines-day/national-dog-day/national-first-responders-day/national-coffee-day均存在）、非规模化模板产页、非抓取洗稿。"
+    }
+  ],
+  "independent_review": [
+    "PAA新增FAQ的事实准确性：spawn独立Agent（general-purpose）用WebSearch核实Taco Bell 2025年10月7日促销细节（四时段各2.5万份$1 Cantina Chicken Soft Taco+7pm百份年度礼卡抽签），结果：CONFIRMED，细节与Food Network/TODAY.com/Taco Bell Newsroom三方交叉一致，措辞hedge得当，未发现问题。未出现卡死，正常在约30秒内完成，无需触发看门狗降级自查流程。",
+    "机械散文四项检查为脚本确定性输出（退出码+具体命中片段），比照09-13 virgo-dates审计先例，不属于需要独立agent复核的主观判断类finding，本次同样未spawn独立agent复核，按脚本报告直接迭代修复至EXIT 0。"
+  ],
+  "actions_taken": [
+    "新增FAQ'Does Taco Bell run a special $1 taco deal specifically on National Taco Day?'，回答基于WebSearch核实并经独立agent复核确认的2025年10月7日Taco Bell促销细节（四时段$1 Cantina Chicken Soft Taco各2.5万份+7pm百份年度礼卡抽签），明确hedge不保证2026年重复同样促销",
+    "修复机械散文四项检查发现的存量问题：'s own归因3处改为1处；改写5条此前从未被脚本检查过的FAQ答案，消除与正文≥20字符逐字重合（保留全部原有事实/数字/来源，未删减信息）；新增FAQ本身也迭代改写以消除与正文的重合",
+    "updated字段从2026-08-29同步为2026-09-15（published字段本已存在于2026-08-09，无需git历史回填）",
+    "seo_drift.py baseline（编辑前基线）→ npm run build（139页0报错）→ git commit b1a418e + push（仅暂存src/data/guides.ts，未提交并发任务遗留的.worktrees/、index-priority.json、Layout.astro.backup等无关文件）→ 轮询线上URL确认新FAQ已生效（DayAlmanac无Cloudflare deploy hook登记，依赖git自动部署，参考cf_deploy_hooks.md'流量站矩阵没有hook'一节）→ seo_drift.py compare核对无意外CRITICAL回归 → node tools/submit-indexnow.mjs /national-taco-day/ 提交索引",
+    "内容发布日志.md已追加本次审计记录（标注为content-quality-audit更新，非新发布）"
+  ],
+  "seo_score": "未重新打分（title/description均未改动，技术SEO无问题）",
+  "geo_score": "未重新打分（无结构性GEO薄弱问题，仅FAQ层面新增+措辞修复）",
+  "escalation": "无——未发现需要推翻核心结论的问题，无需更新作战数据台待办"
+}```

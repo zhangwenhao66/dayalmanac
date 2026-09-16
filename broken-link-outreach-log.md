@@ -412,3 +412,33 @@ TheHomeSchoolMom（thehomeschoolmom.com，运营方Kelley Media, Ltd.）网站�
 处理DayAlmanac前已从DialWick处理过程中发现`独立站/待Owen处理事项.md`"SES迁移期间14个域名邮件发送暂停执行"条目仍然有效（截至09-10/09-11未见Owen完成切换的记录），本轮TheHomeSchoolMom的验证环节不涉及新发送（法务邮箱本就不安排跟进），第二部分也未找到新候选需要发送，因此本站本轮不构成SES冻结下的新违规。
 
 **累计口径不变**：仍是8封pitch，已验证`not_replaced` 3条(icalendars.net、checkiday.com、TheHomeSchoolMom)，转化率0/8。
+
+---
+
+## 2026-09-16（第十一次运行）— 「外链产能集中规则」本轮命中DayAlmanac（11-30位曝光580，矩阵内容型站排名第一）
+
+### 第一部分：核实旧pitch
+
+TheHomeSchoolMom（08-26）已于09-11验证。按"最早未验证"顺序，本轮取**nathab.com + nationalband.com**（均08-28发出，今天19天，此前从未验证过）。
+
+**nathab.com（info@nathab.com，Message ID `1a04892f03440fa7`）**：
+- curl `https://www.nathab.com/blog/happy-national-wildlife-day/`：HTTP 200，死链`nationalwildlifeday.com/about.htm`原样仍在，全文无"dayalmanac"字样。判定**`not_replaced`**。
+
+**nationalband.com（tags@nationalband.com，Message ID `1a0489301d9ba7eb`）**：
+- curl `https://www.nationalband.com/national-wildlife-day/`：HTTP 200，纯文本`nationalwildlifeday.com`原样出现3次，全文无"dayalmanac"字样。判定**`not_replaced`**。
+
+两条均：`gmail_send.py list --query "from:nathab.com"` / `"from:nationalband.com"`返回空，从未回复。发出已19天，参照WageLark同期ACC案例"19天已严重超期不再跟进"的既定先例，**均不安排跟进**。
+
+adoptmidtn.com（08-31，16天）、writeshop.com/beardsleyzoo.org（09-02，14天）本轮未轮到，下轮按最早未验证顺序优先处理adoptmidtn.com。
+
+### 第二部分：新机会挖掘
+
+本轮时间预算优先用于第一部分双条核实，未进行新候选搜索，如实记录未做。
+
+### 累计口径
+
+DayAlmanac断链置换战术累计已发送8封pitch；已验证`not_replaced` 5条（icalendars.net、checkiday.com、TheHomeSchoolMom、本轮nathab.com、本轮nationalband.com）、`verified_live_backlink_confirmed` 0条，转化率0/8。
+
+### 遗留待办
+
+下轮核实顺序：adoptmidtn.com（08-31，16天）→ writeshop.com/beardsleyzoo.org（09-02，14天）。

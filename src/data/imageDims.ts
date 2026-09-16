@@ -871,6 +871,18 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 353,
   "w": 538
  },
+ "/images/october-14-zodiac-libra-uranias-mirror.avif": {
+  "h": 978,
+  "w": 1400
+ },
+ "/images/october-14-zodiac-libra-uranias-mirror.jpg": {
+  "h": 978,
+  "w": 1400
+ },
+ "/images/october-14-zodiac-libra-uranias-mirror.webp": {
+  "h": 978,
+  "w": 1400
+ },
  "/images/october-birth-flower-cosmos.jpg": {
   "h": 1200,
   "w": 1600
@@ -1533,6 +1545,18 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  },
  "/images/responsive/november-birth-flower-chrysanthemum-sm.webp": {
   "h": 557,
+  "w": 750
+ },
+ "/images/responsive/october-14-zodiac-libra-uranias-mirror-sm.avif": {
+  "h": 524,
+  "w": 750
+ },
+ "/images/responsive/october-14-zodiac-libra-uranias-mirror-sm.jpg": {
+  "h": 524,
+  "w": 750
+ },
+ "/images/responsive/october-14-zodiac-libra-uranias-mirror-sm.webp": {
+  "h": 524,
   "w": 750
  },
  "/images/responsive/october-birth-flower-marigold-sm.avif": {

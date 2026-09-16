@@ -592,5 +592,14 @@
   "fingerprint": "1789196496994587057:37253:contain:None:750:avif2",
   "result": null,
   "desktop_rel": "/images/april-birthstone-rough-diamond-kimberley.jpg"
+ },
+ "/images/october-14-zodiac-libra-uranias-mirror.jpg": {
+  "fingerprint": "1789537713745244335:340011:contain:None:750:avif2",
+  "result": {
+   "mobile": "/images/responsive/october-14-zodiac-libra-uranias-mirror-sm.jpg",
+   "w": 750,
+   "h": 524
+  },
+  "desktop_rel": "/images/october-14-zodiac-libra-uranias-mirror.jpg"
  }
 }

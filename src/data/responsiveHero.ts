@@ -254,6 +254,11 @@ export const RESPONSIVE_HERO: Record<string, { mobile: string; w: number; h: num
   "mobile": "/images/responsive/november-birth-flower-chrysanthemum-sm.jpg",
   "w": 750
  },
+ "/images/october-14-zodiac-libra-uranias-mirror.jpg": {
+  "h": 524,
+  "mobile": "/images/responsive/october-14-zodiac-libra-uranias-mirror-sm.jpg",
+  "w": 750
+ },
  "/images/october-birth-flower-marigold.jpg": {
   "h": 715,
   "mobile": "/images/responsive/october-birth-flower-marigold-sm.jpg",

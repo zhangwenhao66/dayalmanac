@@ -1841,7 +1841,7 @@ export const guides: Guide[] = [
     "title": "June 22 Zodiac: Cancer, Despite the Cusp Claims",
     "description": "June 22 falls under Cancer by every mainstream tropical chart. Wikipedia's astrology entry still manages to give two different start dates for the sign, a day apart.",
     "published": "2026-09-11",
-    "updated": "2026-09-11",
+    "updated": "2026-09-16",
     "coreSummary": "June 22 is Cancer under the Western tropical zodiac, the system behind most horoscope columns, which AstroStyle and Farmers' Almanac both place at June 21 to July 22. The boundary itself is set by the June solstice, not a fixed calendar date, and U.S. Naval Observatory data shows that solstice hasn't landed on June 22 since 1975 and won't again through 2100, so the day carries none of the real year-to-year ambiguity that June 20 or 21 births do.",
     "sections": [
       {
@@ -1880,7 +1880,7 @@ export const guides: Guide[] = [
         "heading": "A different calendar entirely: Vedic sidereal astrology",
         "body": [
           "Vedic astrology, practiced widely across South Asia, uses a sidereal zodiac tied to the fixed stars rather than the solstice, and it places the Sun's entry into Karka (Cancer) about a month after the Western tropical start. The 2026 transit, called Karka Sankranti, falls on July 16, per the Hindu festival calendar site Ganesha Speaks, and marks the start of Dakshinayana, the period Hindu tradition associates with the Sun's southward journey.",
-          "The gap between the two systems is less a disagreement than two reference points drifting apart over centuries. Tropical astrology resets to the solstice every year; sidereal astrology tracks the actual backdrop of stars; the difference between them, called the ayanamsha, widens by roughly a degree every 72 years. A person born June 22 is a tropical Cancer on every Western horoscope chart and, on the Vedic calendar, still a sidereal Gemini, since that transition doesn't arrive until the sidereal Sun reaches Karka in mid-July."
+          "The gap between the two systems is less a disagreement than two reference points drifting apart over centuries. Tropical astrology resets to the solstice every year; sidereal astrology tracks the actual backdrop of stars; the difference between them, called the ayanamsha, widens by roughly a degree every 72 years. A person born June 22 is a tropical Cancer on every Western horoscope chart and, on the Vedic calendar, still a sidereal Gemini, since that transition doesn't arrive until the sidereal Sun reaches Karka in mid-July. A much wider version of that same tropical-versus-sidereal gap turns up in mid-autumn: [this site's October 14 zodiac page](/october-14-zodiac/) finds a date that's solidly tropical Libra while the Vedic sidereal calendar and the actual constellation the Sun sits in front of both still read Virgo."
         ]
       },
       {
@@ -2089,6 +2089,115 @@ export const guides: Guide[] = [
     "image": "/images/may-22-zodiac-gemini-uranias-mirror.jpg",
     "imageAlt": "Hand-colored 1825 star chart of the Gemini constellation from Urania's Mirror, showing the twins Castor and Pollux",
     "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Gemini.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
+  },
+  {
+    "slug": "october-14-zodiac",
+    "category": "Zodiac Dates",
+    "title": "October 14 Zodiac: Libra by Date, Virgo by Sky",
+    "description": "October 14 is Libra on every mainstream tropical chart. The actual constellation and Vedic sidereal astrology both still place the Sun in Virgo on this date.",
+    "published": "2026-09-16",
+    "updated": "2026-09-16",
+    "coreSummary": "October 14 falls solidly inside Libra under every mainstream tropical account, from AstroStyle and Farmers' Almanac's September 23-to-October 22 window to Wikipedia's own September 24-to-October 23 version, so it isn't a contested cusp date the way this site's May 22 or June 22 zodiac pages are. Two other systems disagree entirely: EarthSky's constellation-based boundaries keep the Sun in Virgo until October 30, and the Vedic sidereal calendar's Tula Sankranti doesn't move the Sun into Libra until October 17, 2026, three days after this date.",
+    "sections": [
+      {
+        "heading": "What zodiac sign is October 14, and how deep into it",
+        "body": [
+          "AstroStyle titles its Libra reference page \"Libra Dates: September 23 to October 22,\" and Farmers' Almanac states the same window directly in its own Libra coverage: \"If your birthday lands between September 23 and October 22, the Sun was passing through the house of Libra when you were born.\" On that count, October 14 is the sign's 22nd day, well past its opening and eight days from its close.",
+          "Wikipedia's astrology entry gives a very slightly later window, stating the Sun \"transits this sign on average between September 24 and October 23.\" That's a day later on both ends than AstroStyle and Farmers' Almanac, the same kind of single-day rounding gap this site's May 22 and June 22 zodiac pages document for their own sign boundaries. But shifting the range by a day doesn't touch October 14 either way: it lands on the 21st day of Wikipedia's version, still comfortably inside the sign's middle stretch.",
+          "That's what sets this date apart from the two other zodiac-day pages on this site. May 22 and June 22 were picked because they sit close enough to a boundary that different publishers land on different signs. October 14 isn't a boundary date in the tropical system at all; every mainstream account checked here agrees without qualification that it's Libra."
+        ]
+      },
+      {
+        "heading": "The real sky says something else",
+        "body": [
+          "Tropical astrology's dates and the actual positions of the stars named after them are different questions, and for October 14 they give different answers. Per EarthSky's mapping of the zodiac constellations, drawn from the International Astronomical Union's 1930 boundaries, \"the sun passes in front of the constellation Libra from about October 30 until November 22 every year.\" That's more than two weeks after the date this page covers.",
+          "Where the Sun actually sits on October 14 is Virgo. EarthSky's companion page on that constellation gives the range directly: the Sun passes in front of Virgo from about September 16 through October 30, the longest stretch of any zodiac constellation, because the IAU's irregular star-pattern boundaries were never drawn to divide the sky evenly. October 14 sits roughly two-thirds of the way through that 44-day span.",
+          "So the tropical calendar says Libra and the physical sky says Virgo, and unlike the one-day gaps this site's other zodiac pages track, the distance here is about sixteen days."
+        ]
+      },
+      {
+        "heading": "A different calendar entirely: Vedic sidereal astrology",
+        "body": [
+          "Vedic, or Jyotish, astrology tracks the Sun against the fixed stars rather than the equinox-anchored tropical system, using a reference point called the Lahiri ayanamsha. Its sidereal calendar names each solar sign-change a Sankranti, and for 2026 the transition into Libra, called Tula Sankranti, is dated October 17, per the festival calendar published by Nakshatrica. The sign it replaces, Kanya (Virgo), runs from Kanya Sankranti on September 17 up to that date.",
+          "October 14 falls three days inside that Kanya window, not yet in Tula. A birth on this date is a sidereal Virgo, the same sign the actual constellation points to, and a tropical Libra at the same time, since neither the Vedic calendar nor the physical sky has caught up with the tropical zodiac's math yet. The gap between the tropical and sidereal versions traces to axial precession, the same roughly 25,800-year wobble that separates the tropical dates from the real constellations, currently running the two calendars about 24 degrees, or most of a sign, apart."
+        ]
+      },
+      {
+        "heading": "Is October 14 actually close to Scorpio instead?",
+        "body": [
+          "A search for this date's zodiac sign commonly surfaces a related question: whether October 14 could be Scorpio rather than Libra. It isn't, by a comfortable margin. Libra's latest tropical close date among the sources checked here is October 23 (Wikipedia); the earliest is October 22 (AstroStyle, Farmers' Almanac). Either way, October 14 sits eight or nine full days before Scorpio opens, far outside any version of that cusp.",
+          "If there's a genuine boundary question buried in an October 14 birthday, the sections above show it runs the other direction. The Vedic sidereal calendar and the actual constellation both still have the Sun in Virgo territory that day, not Libra, let alone Scorpio."
+        ]
+      },
+      {
+        "heading": "What doesn't move: symbol, planet, and a much older argument with Scorpio",
+        "body": [
+          "Whichever calendar sets the boundary dates, Libra's core classifications hold steady across the sources above: Wikipedia's astrology entry lists it as a cardinal air sign, the other two air signs being Gemini and Aquarius, ruled by Venus alongside Taurus. Libra is also, per that same entry, \"the only zodiac sign that is represented by an object; the other eleven signs are represented by either an animal or a mythological character.\"",
+          "That object is a set of scales, and the choice has a documented history. Wikipedia's account traces the symbol to the Scales of Justice held by Themis, the Greek personification of ancient sacred law and the figure later depictions of Lady Justice drew from. Farmers' Almanac frames the same association more plainly, noting Libra's \"story stretches from Babylonian star charts to Roman law courts.\"",
+          "The scales weren't always their own constellation. Per Wikipedia, ancient Greek astronomers folded this stretch of sky into neighboring Scorpio, calling it chelae, Latin for \"the claws,\" and treating the stars now assigned to Libra as Scorpio's outstretched pincers. It was Roman astronomers who split the claws off into an independent sign and tied it to the goddess Iustitia, the association that gives Libra its Scales-of-Justice imagery today.",
+          "There's no equivalent documented answer for a Libra birthstone. This site's [Libra birthstone page](/libra-birthstone/) found that the sapphire and opal retailers market under Libra's name are simply September and October's calendar-month stones relabeled, while the one dedicated 1913 zodiac-stone table assigning Libra its own gem names chrysolite instead, a name so archaic even Wikipedia's own reproduction of that table can't resolve it to one mineral. A reader who wants the Virgo side of this same three-calendar gap laid out in full can find it on [this site's Virgo dates page](/virgo-dates/), and a comparable single-day version of the tropical dispute, rather than the multi-week one covered here, runs through [this site's May 22 zodiac page](/may-22-zodiac/)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What zodiac sign is October 14?",
+        "answer": "Libra. The two big horoscope publishers checked here put the sign's run at September 23 through October 22, and Wikipedia's slightly later version shifts both ends by a day. October 14 sits deep in the middle of either calendar, nowhere near a boundary."
+      },
+      {
+        "question": "Is October 14th a Libra or Scorpio?",
+        "answer": "Libra, clearly. Scorpio doesn't begin until October 22 at the earliest of the accounts checked here, so this date sits more than a week before that boundary even starts to matter."
+      },
+      {
+        "question": "Does the actual constellation Libra match October 14?",
+        "answer": "No. The star pattern astronomers map out for Libra doesn't get the Sun until roughly two weeks later, around October 30, per EarthSky's tracking of those boundaries. On this date the Sun is still passing through Virgo territory."
+      },
+      {
+        "question": "What is the Vedic or sidereal zodiac sign for October 14?",
+        "answer": "Kanya, the sidereal name for Virgo. Nakshatrica's 2026 festival calendar dates the Sun's Vedic-calendar crossing into the following sign to October 17, just short of a week later, so a chart cast on this day still sits in the earlier sign."
+      },
+      {
+        "question": "What is Libra's ruling planet and element?",
+        "answer": "Venus rules the sign, the same planet assigned to Taurus. Its element is Air in the Cardinal mode, making it one of three Air signs in the zodiac, the other two being the twins and the water-bearer."
+      },
+      {
+        "question": "Why is Libra's symbol scales instead of an animal or a person?",
+        "answer": "It stands alone in the zodiac as the one sign built around an object instead of a creature or a mythological figure. The scales themselves come from a Greek lawgiving deity whose own emblem became the template for the modern image of Lady Justice."
+      },
+      {
+        "question": "What is the October 14 zodiac's birthstone?",
+        "answer": "There's no single trade-recognized answer. What gets sold as \"Libra's birthstone\" is really borrowed from the two calendar months the sign straddles; this site's dedicated birthstone page for the sign traces the older, documented zodiac-stone table, which names a different gem entirely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "AstroStyle: Libra Dates",
+        "url": "https://astrostyle.com/astrology/libra-dates/"
+      },
+      {
+        "label": "Farmers' Almanac: Libra Zodiac Sign",
+        "url": "https://www.farmersalmanac.com/libra-zodiac-sign"
+      },
+      {
+        "label": "Wikipedia: Libra (astrology)",
+        "url": "https://en.wikipedia.org/wiki/Libra_(astrology)"
+      },
+      {
+        "label": "EarthSky: Meet Libra the Scales, a zodiacal constellation",
+        "url": "https://earthsky.org/constellations/libra-heres-your-constellation/"
+      },
+      {
+        "label": "EarthSky: Sun enters Virgo on September 16",
+        "url": "https://earthsky.org/astronomy-essentials/sun-passes-out-of-leo-and-into-virgo/"
+      },
+      {
+        "label": "Nakshatrica: Sankranti 2026, Sun Transit Dates & Punya Kaal",
+        "url": "https://nakshatrica.com/panchang/sankranti/2026"
+      }
+    ],
+    "image": "/images/october-14-zodiac-libra-uranias-mirror.jpg",
+    "imageAlt": "Hand-colored 1825 star chart of the Libra constellation from Urania's Mirror, showing the scales",
+    "imageCredit": "Sidney Hall, plate from [Urania's Mirror](https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Libra.jpg) (1825), Library of Congress via Wikimedia Commons, public domain"
   },
   {
     "slug": "march-birthstone",

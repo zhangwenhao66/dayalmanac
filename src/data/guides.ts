@@ -2188,6 +2188,10 @@ export const guides: Guide[] = [
       {
         "question": "Is March the only month with two birthstones?",
         "answer": "No. On Jewelers of America's current chart, June and December each carry three stones and August, October, and November each carry two. March is one of several months with more than one recognized stone, not the exception."
+      },
+      {
+        "question": "What color represents March?",
+        "answer": "There's no single official answer, since March itself carries two birthstones with different hues: aquamarine's pale, watery blue-green and bloodstone's darker green speckled with rust-colored flecks. Some retailers shorten this to aquamarine's shade alone, but neither the trade group behind the birthstone chart nor any other authority has settled on one color for the month."
       }
     ],
     "sources": [
@@ -4280,6 +4284,10 @@ export const guides: Guide[] = [
       {
         "question": "Does June have more than one official birthstone too?",
         "answer": "Yes. Jewelers of America's current chart lists three: pearl, moonstone, and alexandrite, one of only two months, along with December, that carry three stones rather than one or two."
+      },
+      {
+        "question": "Why does June have two birth flowers?",
+        "answer": "Birthstones got settled by a single US trade meeting in 1912, but nothing equivalent ever happened for birth flowers. Nineteenth-century flower-language guides didn't all agree with each other, and rather than pick a winner, the almanac and florist lists built later simply kept both candidates for most months. June's rose-and-honeysuckle pairing is a product of that unresolved history, not a deliberate two-flower design."
       }
     ],
     "sources": [
@@ -9397,12 +9405,20 @@ export const guides: Guide[] = [
       {
         "question": "Does Banned Books Week only cover the United States?",
         "answer": "The American Library Association's campaign is U.S.-focused, but Amnesty International runs a parallel international observance the same week, documenting individual writers it says have been jailed, harassed, or killed over their writing in countries including China, Cuba, Egypt, Iran, Myanmar, and Russia. The two campaigns share the week and the freedom-to-read theme but are organized separately, each with its own list."
+      },
+      {
+        "question": "What is the #1 most banned book of all time?",
+        "answer": "There isn't one agreed answer. ALA's Office for Intellectual Freedom has only tracked challenge data since 1990 and publishes decade-by-decade top-100 lists rather than a single cumulative ranking. Guinness World Records instead keeps a narrower category, \"most banned classic novel,\" awarded to F. Scott Fitzgerald's The Great Gatsby based on ALA's own list of classics. The Bible gets cited informally, elsewhere, as history's most-banned book, but that claim rests on centuries of scattered censorship across many countries rather than any single tracked count."
       }
     ],
     "sources": [
       {
         "label": "American Library Association: Banned Books Week (October 4-10, 2026 dates and theme)",
         "url": "https://www.ala.org/bbooks/banned"
+      },
+      {
+        "label": "Guinness World Records: Most banned classic novel",
+        "url": "https://www.guinnessworldrecords.com/world-records/91745-most-banned-classic-novel"
       },
       {
         "label": "American Library Association: 2025 Most Challenged Books List and censorship data (April 2026)",
@@ -10643,6 +10659,10 @@ export const guides: Guide[] = [
       {
         "question": "Who really invented the Mission-style burrito?",
         "answer": "It's disputed. El Faro's owner, Febronio Ontiveros, says he built the first one for firefighters in 1961. Taquería La Cumbre dates its own version to 1969. Both San Francisco restaurants are still open, both still tell their own version, and no independent record has settled which came first."
+      },
+      {
+        "question": "Is Chipotle doing anything for National Burrito Day 2026?",
+        "answer": "Yes. Chipotle's newsroom announced a \"Burrito Vault: Double Protein Edition\" tied to the 2026 date, with a prize pool topping $2 million. Several competing fast-casual chains ran their own discounts that same week, but none of them has claimed credit for starting the tradition."
       }
     ],
     "sources": [
@@ -12049,12 +12069,28 @@ export const guides: Guide[] = [
       {
         "question": "Does National Pasta Day ever land on the same date as another holiday?",
         "answer": "In 2026, yes: Sweetest Day lands on that same October 17, because that observance floats to whichever Saturday is the third one in October each year rather than landing on one set date annually. That's a one-off overlap: the two fall a day apart again in 2027 and stay apart at least through 2032."
+      },
+      {
+        "question": "Does Olive Garden do anything for October 17 specifically?",
+        "answer": "Nothing tied to that exact date by name, but the timing usually overlaps. Olive Garden's Never-Ending Pasta Bowl returned nationwide on August 31, 2026, priced at $14.99 with unlimited pasta, sauce, and toppings, and ran through November 22, a window wide enough to cover mid-October even though the chain has never referenced this particular observance in its own marketing."
+      },
+      {
+        "question": "Is there a separate holiday for Italian food generally?",
+        "answer": "Yes. Calendar-aggregator Checkiday lists a National Italian Food Day for February 13, the day before Valentine's Day, an entirely different month from the pasta-themed trio covered on this page. Like the October 17 date above, it has no documented founder behind it either."
       }
     ],
     "sources": [
       {
         "label": "National Pasta Association: \"Did You Know\" consumer fact sheet (per-capita consumption, production, price, survey data)",
         "url": "https://ilovepasta.org/wp-content/uploads/2021/03/National-Pasta-Association-Key-Message-Points-Final.pdf"
+      },
+      {
+        "label": "Daily Voice: Olive Garden's Never-Ending Pasta Bowl Returns In 2026",
+        "url": "https://dailyvoice.com/article/olive-gardens-never-ending-pasta-bowl-returns-in-2026/"
+      },
+      {
+        "label": "Checkiday: National Italian Food Day",
+        "url": "https://www.checkiday.com/dd294b468f5bfd66a8b97a15ce0d6529/national-italian-food-day"
       },
       {
         "label": "National Pasta Association: History (1848 first U.S. factory, 1904 trade-group founding)",

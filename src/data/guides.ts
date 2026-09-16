@@ -530,7 +530,7 @@ export const guides: Guide[] = [
     "title": "National Sons Day: March 4, and Why September 28 Keeps Showing Up",
     "description": "National Sons Day is listed on March 4 by the registries that track it. September 28 circulates widely online but has no traceable origin. Here is the evidence.",
     "published": "2026-08-02",
-    "updated": "2026-08-06",
+    "updated": "2026-09-16",
     "image": "/images/national-sons-day.jpg",
     "imageAlt": "A father and son together outdoors",
     "imageCredit": "Photo by [Clem Onojeghuo](https://unsplash.com/@clemono2) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_father_and_son_on_a_ride_(Unsplash).jpg), CC0",
@@ -583,7 +583,7 @@ export const guides: Guide[] = [
         "heading": "The two dates, and who keeps each",
         "body": [
           "Search for National Sons Day and you will get two answers. March 4 is the date held by the sources that document where observances come from. National Day Calendar lists it on March 4 and names its founder. Checkiday lists it on March 4. Days of the Year lists it on March 4. All three trace the day to the same person and the same year.",
-          "September 28 is held by a different kind of source. Aggregator calendars such as WinCalendar place it at the end of September. Calendarr lists both dates and describes the situation as unsettled. Most of the volume, though, is not calendar sites at all: it is social posts, seasonal roundups, and quote lists that appear every year in late September, plus press coverage that follows the posts rather than leading them. WinCalendar's own entry says only that the day is typically celebrated around the end of September. It gives no founder and no year.",
+          "September 28 is held by a different kind of source. Aggregator calendars such as WinCalendar place it at the end of September. Calendarr lists both dates and describes the situation as unsettled. Most of the volume, though, is not calendar sites at all: it is social posts, seasonal roundups, and quote lists that appear every year in late September, plus press coverage that follows the posts more than it leads them. WinCalendar's own entry says only that the day is typically celebrated around the end of September. It gives no founder and no year.",
           "Neither date is a federal holiday. Coverage that has looked into it, including a USA Today piece syndicated widely, describes National Sons Day as a quasi-holiday: real in the sense that people observe it, unofficial in the sense that no government body established it. [National Wife Appreciation Day](/national-wife-appreciation-day/) carries the same quasi-holiday label for a different reason: its date is agreed on, the third Sunday in September, but it moves every year and nobody has ever put a name to who set it."
         ]
       },
@@ -598,7 +598,7 @@ export const guides: Guide[] = [
       {
         "heading": "Where September 28 comes from, as far as anyone can show",
         "body": [
-          "The most thorough attempt to trace the September date was published in September 2022 by Seth Westphal, who runs Checkiday, and it worked from newspaper archives rather than from other calendar sites. His conclusion was that the date has no source.",
+          "The most thorough attempt to trace the September date was published in September 2022 by Seth Westphal, who runs Checkiday, and it worked from newspaper archives, not from other calendar sites. His conclusion was that the date has no source.",
           "What he did find explains the name, not the date. In 1996, students at Columbia Middle School in Berkeley Heights, New Jersey formed an organization called National Sons Day. It was an organization, not a holiday. Its purpose was to create a counterpart to Take Our Daughters to Work Day, and it ran Take Our Sons to Work Day on the first Thursday in May from 1996 through at least 2001, the last year the group's website was updated. Calendar sites date the launch to 1998 instead; the 1996 start is from the one researcher who worked through newspaper archives rather than from other calendar sites, so it is the version followed here. In 2003 the daughters and sons programs merged into the combined workplace day that still runs today.",
           "So an entity named National Sons Day genuinely existed in the 1990s, which is enough for a phrase to enter circulation and later be mistaken for a holiday with a date. But its events were in May. A separate sons' day floated in 1996 was penciled in for October 20 and then abandoned when its organizers could not agree on a name and theme. Neither is September 28. The registries that track [National Pepperoni Pizza Day](/national-pepperoni-pizza-day/) have run into the identical dead end for a completely different holiday: a fixed date with real annual use, and an origin that nobody, including the registry that lists it, has yet been able to pin down."
         ]
@@ -615,7 +615,7 @@ export const guides: Guide[] = [
         "heading": "How the day is actually observed",
         "body": [
           "Nothing about National Sons Day is transactional: no gift convention formed around it, and greeting-card publishers have left it alone. In practice it is a social media day. Parents post photographs with the hashtag, write a few lines about a son, and that is the extent of it for most people.",
-          "National Day Calendar's suggestions for the day lean practical rather than sentimental: teach a son a specific skill he will need, such as changing a tire or handling a bank account; find or become a mentor for boys without a male role model in their lives; pass along something your own father taught you; take a photograph with all the sons together. Organizations that mentor boys tend to see the day as a low-cost hook for recruitment posts rather than a fundraising moment.",
+          "National Day Calendar's suggestions for the day lean practical rather than sentimental: teach a son a specific skill he will need, such as changing a tire or handling a bank account; find or become a mentor for boys without a male role model in their lives; pass along something your own father taught you; take a photograph with all the sons together. Organizations that mentor boys tend to see the day as a low-cost hook for recruitment posts, not a fundraising moment.",
           "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is the April workplace program once called Take Our Daughters and Sons to Work Day: Junior Achievement took it over in 2024 and now runs it each spring as Take a Child to Work Day and Beyond, a scheduled program with participating employers rather than a hashtag. [National Nachos Day](/national-nachos-day/) is observed in much the same hashtag-and-photo way, even though the dish behind it has an unusually solid paper trail: a documented 1943 invention that the observance itself, on November 6, has never been tied to a founder or a registration."
         ]
       },
@@ -631,31 +631,35 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Sons Day?",
-        "answer": "National Sons Day is on March 4 each year, according to National Day Calendar, Checkiday, and Days of the Year, all of which trace the observance to founder Jill Nico in 2018. A second date, September 28, is widely published and is when most social media activity happens, but it has no documented origin."
+        "answer": "The observance falls on March 4 each year, confirmed independently by Checkiday, Days of the Year, and the site that first listed it, all of which trace it to founder Jill Nico in 2018. September 28 also circulates widely, especially on social media, but nothing that verifies where holidays come from can point to who started it or when."
       },
       {
         "question": "Why do some websites say National Sons Day is September 28?",
-        "answer": "Nobody has been able to show where September 28 came from. Research published by Seth Westphal of Checkiday in 2022 found no founder, registration, or first observance for the date, and concluded it spread by repetition. The likely seed of the confusion is that an organization called National Sons Day did exist in the 1990s, but it was an organization rather than a holiday, and its Take Our Sons to Work Day events were held on the first Thursday in May."
+        "answer": "Nobody has pinned down a source for it. Research published by Seth Westphal of Checkiday in 2022 turned up nothing behind it, no founder, no filing, no first year it was marked, and concluded it spread by repetition. The likely seed of the confusion: a 1990s student group used the same name for a workplace program that sent kids to their parents' jobs each May, not for a calendar holiday."
       },
       {
         "question": "Who created National Sons Day?",
-        "answer": "Jill Nico created National Sons Day in 2018 and submitted it for the March 4 date. National Day Calendar credits her by name; Checkiday credits her independently. No founder has ever been identified for the September 28 version."
+        "answer": "The March 4 date traces to Jill Nico, who submitted the observance in 2018. That March 4 credit comes directly from the site that lists her history with the day, and Checkiday backs it up independently. Nobody has ever identified a founder for the September 28 version."
       },
       {
         "question": "Is National Sons Day an official or federal holiday?",
-        "answer": "No. Neither March 4 nor September 28 is a federal holiday, and nothing closes for it. National Sons Day is an unofficial observance, sometimes described in press coverage as a quasi-holiday, meaning people genuinely observe it but no government body established it."
+        "answer": "No. Neither date has federal status, and nothing closes for it. Press coverage sometimes calls this a quasi-holiday: people genuinely mark the day, but no official agency, state or federal, ever put it on the books."
       },
       {
         "question": "Is National Sons Day the same as Take Our Sons to Work Day?",
-        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization called National Sons Day in 1996 and ran Take Our Sons to Work Day on the first Thursday in May from 1996. Some calendar sites date that launch to 1998 instead. That program merged with the daughters' program in 2003 into the combined Take Our Daughters and Sons to Work Day, and Junior Achievement took the program over in 2024, running it each April as Take a Child to Work Day and Beyond. The modern National Sons Day on March 4 is a separate observance created in 2018."
+        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization by the same name in 1996, holding its own workplace-visit event once a year, early May, always a Thursday. A few aggregators put the founding two years later, in 1998. That 2003 merger with the daughters' program became a joint workplace-visit day, since renamed again after a national youth-education nonprofit stepped in to run it starting 2024. The modern March 4 date is unrelated: Jill Nico came up with it independently in 2018."
       },
       {
         "question": "Is there a National Daughters Day as well?",
-        "answer": "Yes. National Day Calendar lists National Daughter's Day on September 25. Its existence is part of the stated reason National Sons Day was created, since the founder set out to give sons an equivalent day."
+        "answer": "Yes, the same site that documents this observance dates it September 25. Nico has said giving sons an equivalent celebration was part of why she created this day in the first place."
       },
       {
         "question": "Is March 4, 2026 National Sons Day?",
-        "answer": "Yes. March 4 is the fixed date for National Sons Day every year, chosen because \"march forth\" reads as a motivational instruction. A second, unofficial version of the day is also widely observed on September 28, but neither date carries government recognition."
+        "answer": "Yes. This one doesn't move: March 4, no matter what day of the week it lands on. Why the founder picked that exact date isn't fully settled: one registry attributes to Jill Nico the idea that spring felt like the right season and that the date has an energetic ring when said out loud, while other sites gloss that same idea as the pun \"march forth,\" a phrasing that has never been traced back to Nico directly. A second, unofficial version of the day is also widely observed on September 28, but neither date carries government recognition."
+      },
+      {
+        "question": "When is National Sons Day in 2027?",
+        "answer": "March 4, 2027, which falls on a Thursday. It's a fixed calendar date rather than a weekday-based rule, so it keeps landing on March 4 in every year on this calendar's schedule, all the way out to 2031."
       }
     ],
     "sources": [

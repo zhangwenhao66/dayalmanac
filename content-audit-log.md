@@ -2550,3 +2550,74 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "escalation": null
 }
 ```
+
+## PAA-FAQ批强(daily-task, 2026-09-16)
+
+按 `research-db/paa_bulk_current/dayalmanac.json`（33 篇，按 impressions_28d 降序）逐篇核实，全部 33 篇均已过一遍判断（未处理的 0 篇）。commit `00b5438`。
+
+```json
+{
+  "tool_slug": "PAA-FAQ批强_20260916",
+  "source": "research-db/paa_bulk_current/dayalmanac.json（33篇全部过一遍）",
+  "added": [
+    {
+      "slug": "march-birthstone",
+      "question": "What color represents March?",
+      "why": "文章正文已确立aquamarine浅蓝绿/bloodstone深绿带红斑两种颜色，无需外部核实，直接改写成FAQ"
+    },
+    {
+      "slug": "national-burrito-day",
+      "question": "Is Chipotle doing anything for National Burrito Day 2026?",
+      "why": "正文已引用Chipotle Newsroom官方稿(Burrito Vault: Double Protein Edition, $2M+奖池)，该来源已在sources数组中，只是从未被单独提炼成FAQ"
+    },
+    {
+      "slug": "banned-books-week",
+      "question": "What is the #1 most banned book of all time?",
+      "why": "WebSearch核实：ALA Office for Intellectual Freedom只从1990年起追踪数据、只发十年榜单不发'史上第一'；Guinness World Records另设'most banned classic novel'类目授予《了不起的盖茨比》；'圣经是史上最禁书'是坊间常见但非官方统计的说法。三方来源交叉核实后写成'没有单一答案'式FAQ，符合本文一贯的'拆穿单一说法'风格。已加Guinness来源到sources"
+    },
+    {
+      "slug": "june-birth-flower",
+      "question": "Why does June have two birth flowers?",
+      "why": "正文已引用august-birth-flower页面的结论（1912年宝石贸易会议 vs 花卉从未有对应统一会议），改写成独立措辞的FAQ，未加新来源（复用页面已有内部引用）"
+    },
+    {
+      "slug": "national-pasta-day",
+      "question": "Does Olive Garden do anything for National Pasta Day?",
+      "why": "WebSearch核实Daily Voice等多家报道：Olive Garden Never-Ending Pasta Bowl 2026年8/31-11/22以$14.99价格供应，覆盖10/17但官方从未把该促销与'National Pasta Day'挂钩，如实写出这层区别"
+    },
+    {
+      "slug": "national-pasta-day",
+      "question": "Is there a national Italian food day?",
+      "why": "WebSearch核实Checkiday等来源：National Italian Food Day是2/13，与本文10/17的Pasta Day/Month/World Pasta Day三个观察日完全不同月份，加Checkiday来源到sources"
+    }
+  ],
+  "skipped_high_impression": [
+    {"slug": "virgo-dates", "impressions": 3692, "reason": "5条gap_questions全是占星性格/配对/soulmate类，无权威单一来源（类比本文自己对宝石归属'无治理机构'的质疑逻辑），且与本文'日期系统之争'主题不符，全部跳过"},
+    {"slug": "national-taco-day", "impressions": 935, "reason": "唯一gap question('Does Taco Bell offer $1 tacos on National Taco Day, October 7th?')已被现有FAQ完整回答，跳过"},
+    {"slug": "september-birthstone", "impressions": 563, "reason": "'6 rarest birthstone'经WebSearch核实无权威排名（BriteCo/Brilliant Earth/Angara互相矛盾），跳过"},
+    {"slug": "1988-chinese-zodiac", "impressions": 222, "reason": "3条gap questions均为生肖运势/配对/宜忌，同virgo-dates理由跳过"},
+    {"slug": "1987-chinese-zodiac", "impressions": 187, "reason": "同上，3条全跳过"},
+    {"slug": "red-ribbon-week", "impressions": 71, "reason": "唯一gap question已被现有FAQ+dateRule.caveat完整回答，跳过"},
+    {"slug": "1992-chinese-zodiac", "impressions": 70, "reason": "4条gap questions均为生肖运势/配对，跳过"},
+    {"slug": "1991-chinese-zodiac", "impressions": 66, "reason": "3条同上跳过"},
+    {"slug": "world-kindness-day", "impressions": 65, "reason": "'Kindness Month 2026 theme'经WebSearch核实：World Kindness Day是单日非月，且无任何权威来源给出2026主题，跳过"},
+    {"slug": "anniversary-gifts-by-year", "impressions": 50, "reason": "前两条与现有FAQ重复；'100周年婚礼叫什么'经WebSearch核实多方矛盾(Water/Platinum Jubilee/10K Diamond各说各话)，无权威来源，3条全跳过"},
+    {"slug": "mexican-independence-day", "impressions": 48, "reason": "2条gap questions均已被现有FAQ完整回答，跳过"},
+    {"slug": "national-days-in-october", "impressions": 40, "reason": "3条gap questions均已被现有FAQ完整回答，跳过"},
+    {"slug": "national-pepperoni-pizza-day", "impressions": 34, "reason": "'Domino's National Pizza Day'实指另一个2月9日观察日、误配到本文；'$4.99两份披萨'促销无法定位具体连锁与时效，2条跳过"},
+    {"slug": "corn-moon", "impressions": 19, "reason": "'spiritual meaning'无权威来源；'rarest moon'指代不明，2条跳过"},
+    {"slug": "banned-books-week", "impressions": 12, "reason": "见added"},
+    {"slug": "national-nachos-day", "impressions": 10, "reason": "'cheat meal'主观饮食观点无来源；'是否墨西哥菜'与现有FAQ('Who invented nachos?')实质重复，2条跳过"},
+    {"slug": "national-apple-day", "impressions": 10, "reason": "本文是英国Common Ground慈善机构发起的果园保育纪念日，gap questions问的是苹果营养/器官健康，主题明显不符，2条跳过"}
+  ],
+  "skipped_other_reviewed": "national-mango-day/national-quesadilla-day/gemini-birthstone/national-wildlife-day/june-22-zodiac/may-22-zodiac/bullying-prevention-month/november-birthstone/june-birthstone/ovarian-cancer-awareness-month/11th-anniversary-gift/galentines-day 共12篇也已逐篇读完全文判断，gap questions分别属于：与现有FAQ重复(national-quesadilla-day/november-birthstone/june-birthstone/11th-anniversary-gift/galentines-day)、占星性格配对无权威来源(gemini-birthstone/june-22-zodiac/may-22-zodiac)、主题不符或缺乏可靠单一来源(national-mango-day俚语与器官健康/national-wildlife-day泛化列表/bullying-prevention-month泛化建议/ovarian-cancer-awareness-month要求指名具体患者证言涉及个人隐私且无法核实)，全部0新增",
+  "prose_gate_check": {
+    "method": "对5个改动过的slug逐个跑 python3 独立站/scripts/check_prose_patterns.py --guides src/data/guides.ts --slug <slug>，新增/改写FAQ后反复重跑直至新增条目本身零重合",
+    "national-pasta-day": "PASS，三类模式全部通过，exit 0",
+    "march-birthstone / national-burrito-day / banned-books-week / june-birth-flower": "本次新增的FAQ条目已逐条验证与正文/其他FAQ零≥20字符重合（多次改写用词直至该条从报警列表消失），但这4篇仍各自残留2-3类【本次改动之前就已存在】的报警（L-0819-8 's own'归因重复、L-0820-2 rather than/instead of密度、以及其余旧FAQ与正文的重合）——已用 `git show HEAD:src/data/guides.ts`（本次commit前的版本）对同一份check重跑核实，4篇的报警条目数和具体命中行与commit前完全一致，证实是与本次任务无关的存量债务，不是本次新增FAQ引入的。按'只新增FAQ、不改动其他任何内容（含其他FAQ/正文）'的严格约束，未touch这些旧内容去清零报警，如实记录为已知存量债务，留给后续的存量回溯批次（matrix-prose-gate-backfill同类）处理"
+  },
+  "commit": "00b5438",
+  "build": "npm run build 138页成功，无报错",
+  "deploy_check": "push后curl绕缓存(?cb=$RANDOM)对5个slug全部返回200；但抓取正文核实新增FAQ文本时暂未命中(Cloudflare部署延迟属预期，按站级变更规则不算失败)"
+}
+```

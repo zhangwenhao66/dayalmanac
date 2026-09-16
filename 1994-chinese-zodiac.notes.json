@@ -1,0 +1,17 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "桥接句称1991-chinese-zodiac页面讲的是Metal Goat配对、cutoff落在2月15日。目标文章coreSummary原文：'1991 is the Year of the Metal Goat, running from February 15, 1991 through February 3, 1992' —— 动物Metal Goat与cutoff日期2月15日均与桥接句断言一致。"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "桥接句称本站对birthstones-by-month同样套用'直接核对权威现行来源'的标准。目标文章第一节body原文：'This one was checked directly, cross-referenced with Jewelers of America's live buying guide the week this page was published' —— 证实该文确实是直接核对JA/GIA/AGS现行页面而非转抄旧清单，与桥接句所称的标准一致。"
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "桥接句称Virgo日期范围'barely shifts'（几乎不变）。目标文章virgo-dates的coreSummary原文：'places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year' —— 边界每年最多漂移约一天，对比中国新年可漂移近一个月，'barely shifts'的表述成立。"
+  }
+]

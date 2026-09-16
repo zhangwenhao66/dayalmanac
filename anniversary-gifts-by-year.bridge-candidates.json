@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "It does mean the list was never handed down by a government body, a religious authority, or a single named founder, the same gap [this calendar's page on National Boyfriend Day](/national-boyfriend-day/) found behind a different kind of unofficial calendar entry.",
+    "target_slug": "national-boyfriend-day",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[This calendar's chart of official birthstones by month](/birthstones-by-month/) found the same kind of multi-organization tangle on the birthstone side of the same jewelry trade, where a chart revised more than once by different bodies still isn't treated as any single organization's sole property.",
+    "target_slug": "birthstones-by-month",
+    "target_found": true
+  }
+]

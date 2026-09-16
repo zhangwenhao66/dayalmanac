@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "桥接句称National Boyfriend Day页面发现该观察日'从未由政府机构、宗教权威或单一具名创始人确立'这一同类缺口。目标文章founding.text原文：'Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation.' 与coreSummary'No founder, registering organization, or government proclamation has ever been documented for it.' 完全对应，断言属实。"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "桥接句称birthstones-by-month页面发现同一珠宝行业内'多组织混杂、被不同机构多次修订却不归任何单一组织所有'的现象。目标文章原文（Why the charts don't converge一节）：'There's no single body with the authority to force Jewelers of America, GIA, the American Gem Trade Association, the American Gem Society, and Britain's National Association of Goldsmiths onto one chart. Each maintains and revises its own list on its own schedule' 以及上一节'The chart has been revised three times since...Trade histories disagree on whether Jewelers of America's predecessor carried that revision out or whether a separate body...did it instead' —— 修订多次、多组织参与、无单一权属，与桥接句断言完全吻合。"
+  }
+]

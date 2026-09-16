@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "This calendar's [1991 Chinese Zodiac page](/1991-chinese-zodiac/) runs the same boundary check for a different pairing, Metal Goat, where the cutoff instead lands on February 15.",
+    "target_slug": "1991-chinese-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "The observatory's published tables are pinned to a defined time zone and a defined astronomical method, the same standard this site applies to the [birthstones by month](/birthstones-by-month/) list elsewhere on the calendar.",
+    "target_slug": "birthstones-by-month",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "FAQ#6",
+    "sentence": "No — unlike a Western sign such as [Virgo](/virgo-dates/), whose date range barely shifts, the Chinese new year ranges between January 21 and February 20 depending on the lunar cycle. 1994's fell on February 10; 1993's landed January 23, both fixed by Hong Kong's official conversion charts for those years.",
+    "target_slug": "virgo-dates",
+    "target_found": true
+  }
+]

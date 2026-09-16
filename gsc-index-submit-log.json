@@ -458,5 +458,16 @@
   "submitted_urls": [],
   "already_indexed_no_action": [],
   "quota_used": "0 of shared account-wide daily quota"
+ },
+ {
+  "date": "2026-09-16",
+  "action": "submitted",
+  "reason": "今日新发布october-14-zodiac，URL Inspection确认URL unknown to Google，提交成功。老页未收录巡检本站唯一候选即为此页。",
+  "submitted_urls": [
+   "https://dayalmanac.com/october-14-zodiac/"
+  ],
+  "already_indexed_no_action": [],
+  "quota_exceeded_attempted": [],
+  "quota_used": "1 of shared account-wide daily quota"
  }
 ]

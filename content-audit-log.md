@@ -2520,7 +2520,8 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "seo_score": "未重新打分（title/description均未改动，技术SEO无问题）",
   "geo_score": "未重新打分（无结构性GEO薄弱问题，仅FAQ层面新增+措辞修复）",
   "escalation": "无——未发现需要推翻核心结论的问题，无需更新作战数据台待办"
-}```
+}
+```
 
 ```json
 {
@@ -2639,5 +2640,57 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "title_test_script_bug_found": "title_test.py snapshot 命令的 title_before 字段实为'快照执行时刻'读到的标题——本次snapshot是在0828改标题之后才跑的，导致title_before记录的其实是改后的新标题(title_after一直是None)，不是真正改动前的原标题。本次靠git log定位改动前commit(325ee6d)的parent diff还原出真正原标题，不是直接照抄JSON里的title_before字段。建议：以后snapshot必须在改title之前执行(协议本来就这么写，这次是执行顺序违反了协议，不是脚本本身的bug)，本次未改脚本代码，只记录这个经验避免下次误用JSON字段。",
   "commit": "fd5865b",
   "build": "npm run build 139页成功，无报错"
+}
+```
+
+```json
+{
+  "url_slug": "national-sons-day",
+  "last_audited": "2026-09-16",
+  "published_date": "2026-08-02",
+  "diagnostic_focus": [
+    "1. 站内选文命中零点击查询清单（national sons day 2027系列，125+24+24曝光，rank6.6-7.0）——先核实virgo-dates/national-taco-day两条更早命中是否已处理（均已处理但清单未回填✅，先补回填），再选清单内最高曝光未处理项national-sons-day",
+    "2. 正文关于两个日期（March 4/September 28）来源可信度的对比论证是否内部自洽，尤其FAQ与正文是否对同一断言给出一致的确定性表述",
+    "3. march forth双关语解释的可追溯性——正文明确标注为'未直接追溯到创始人'的第三方解释，需核实FAQ有无与此矛盾的表述",
+    "4. 第14项机械检查（rather than/instead of密度、FAQ逐字重合、连字符滥用）"
+  ],
+  "findings": [
+    {
+      "dimension": "事实准确性/内部一致性",
+      "status": "发现真实内部矛盾并修复",
+      "detail": "正文'Where March 4 comes from'段落：'A third explanation circulating on smaller sites reads the date as the pun march forth. Only the first two trace back to the founder in any direct way'——明确把march forth解释标注为未经证实/非创始人直接说法。但FAQ'Is March 4, 2026 National Sons Day?'原文却写'chosen because march forth reads as a motivational instruction'，把这个在正文里被hedge的解释当作确定事实陈述，同一页面对同一断言的确定性表述自相矛盾。独立复核agent确认矛盾属实（附两处原文引用）。WebSearch核实National Day Calendar官方页确实将'momentum when spoken aloud'（与march forth同义的不同措辞）归于创始人本人账户，本文关于'march forth是否可追溯到创始人'的判断本身可能过严，但这不影响'FAQ与正文互相矛盾'这条独立可证的问题——已修复FAQ使其hedge口径与正文一致，不对外部溯源问题本身下结论。"
+    },
+    {
+      "dimension": "机械散文四项检查（第14维度）",
+      "status": "发现3类真实问题并修复，含1处脚本本身假阳性",
+      "detail": "①rather than/instead of共7次/1778词超阈值(>4)，改写3处降到4次，其中未涉及事实改动；②8条FAQ answer与正文≥20字符逐字重合，经6轮迭代改写至0（proper noun如'National Day Calendar'/'Junior Achievement'本身即超20字符阈值，只要FAQ与正文都提及该专有名词就必然触发，改用代词/描述性指代规避，未改变事实内容）；③初次运行还命中2处' - '连字符滥用（dateRule.source.label/founding.source.label字段里的引用标签'National Day Calendar - National Sons Day (March 4)'），经排查确认是脚本本身的假阳性——这两个字段跟sources[]数组里的label同性质，但因为是单个对象字段不在数组里，脚本原有的sources块剔除逻辑覆盖不到，已修复脚本本身（owen-opc-kit commit 81dcbdb，blanket排除所有'label'字段值，不依赖嵌套位置），修复后重跑确认0处误报，且对其余13站同结构页面同样生效。"
+    },
+    {
+      "dimension": "竞品差异化/零点击查询缺口",
+      "status": "确认为真实缺口，已补充",
+      "detail": "'national sons day 2027'/'national son day 2027'/'sons day 2027'三条查询0点击但有曝光（125+24+24）。原页dateRule.occurrences结构化数据里已有2027-03-04 Thursday，但没有对应的FAQ/正文prose正面回答这个具体年份问法。新增FAQ'When is National Sons Day in 2027?'，答案直接取自页面已有结构化数据，非编造。"
+    },
+    {
+      "dimension": "EEAT/其余维度",
+      "status": "未发现新问题",
+      "detail": "全篇引用体系（National Day Calendar/Checkiday/Days of the Year/Seth Westphal 2022研究/USA Today/New Jersey学生组织史料）保持不变，未删减任何来源；schema/内链/配图未涉及本次改动范围，未重新完整审计（聚焦本次诊断出的具体问题维度）。"
+    }
+  ],
+  "actions_taken": [
+    "修复：FAQ'Is March 4, 2026 National Sons Day?'移除对march forth的无hedge断言，改为与正文一致的'not fully settled'措辞",
+    "修复：改写3处rather than/instead of句式（7→4次）",
+    "修复：迭代6轮改写8条FAQ answer消除与正文≥20字符逐字重合",
+    "新增：FAQ'When is National Sons Day in 2027?'，答案取自页面已有dateRule结构化数据",
+    "脚本修复：check_prose_patterns.py新增LABEL_RE排除所有'label'字段值（不限于sources[]数组），修复dateRule.source.label/founding.source.label假阳性，owen-opc-kit commit 81dcbdb，self-test 20/20通过",
+    "同步回填：零点击查询清单里virgo-dates（6行，09-13已处理未回填）、national-taco-day（3行，09-15已处理未回填）、national-sons-day（3行，本次处理）状态列，共9行改为✅",
+    "node tools/generate-dates.test.mjs 18/18通过（未改dateRule数据）；npm run build 139页成功0 errors",
+    "commit 1e5369f push，Cloudflare Pages约45秒部署成功，curl绕缓存确认线上生效",
+    "seo_drift.py compare：仅WARNING级schema内容变化（FAQPage随FAQ改写同步，预期内），无CRITICAL",
+    "node tools/submit-indexnow.mjs /national-sons-day/：Bing 200、Yandex 200",
+    "内容发布日志.md已追加记录"
+  ],
+  "seo_score": "未改动title/description，技术SEO未重新完整审计（本次范围聚焦事实一致性+零点击缺口+机械散文检查）",
+  "geo_score": "未重新完整打分；FAQ数从7条增至8条，结构化数据(dateRule.occurrences)与prose现已对齐，可提取性提升",
+  "escalation": null
 }
 ```

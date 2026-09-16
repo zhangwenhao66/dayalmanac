@@ -2621,3 +2621,23 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "deploy_check": "push后curl绕缓存(?cb=$RANDOM)对5个slug全部返回200；但抓取正文核实新增FAQ文本时暂未命中(Cloudflare部署延迟属预期，按站级变更规则不算失败)"
 }
 ```
+
+## 2026-09-16 site-search-opportunity-refresh — title_test rollback (dayalmanac-0828-date-first)
+```json
+{
+  "task": "site-search-opportunity-refresh",
+  "date": "2026-09-16",
+  "action": "title_test.py evaluate --label dayalmanac-0828-date-first --days 14 → 全部4页ROLLBACK",
+  "pages": [
+    {"slug": "virgo-dates", "impr_change": "142→38/天(-73%)", "pos_change": "9.3→29.6", "verdict": "ROLLBACK 基线top查询virgo range date丢失"},
+    {"slug": "national-daughters-day", "impr_change": "70→33/天(-53%)", "pos_change": "8.8→29.3", "verdict": "ROLLBACK 基线top查询when is national daughters day 2026/2027丢失"},
+    {"slug": "national-taco-day", "impr_change": "30→18/天(-40%)", "pos_change": "10.1→19.2", "verdict": "ROLLBACK 基线top查询taco day 2026丢失"},
+    {"slug": "national-bosses-day", "impr_change": "29→12/天(-59%)", "pos_change": "14.1→41.6", "verdict": "ROLLBACK 基线top查询national boss's day 2026/2027丢失"}
+  ],
+  "note": "对照组(5页)同期曝光中位-56%/排名中位+38.7，判定已扣除该站整体噪声，4页跌幅仍显著更差，非全站共性",
+  "action_taken": "4篇title逐字恢复为0828改动前原文（见commit 325ee6d的parent状态）",
+  "title_test_script_bug_found": "title_test.py snapshot 命令的 title_before 字段实为'快照执行时刻'读到的标题——本次snapshot是在0828改标题之后才跑的，导致title_before记录的其实是改后的新标题(title_after一直是None)，不是真正改动前的原标题。本次靠git log定位改动前commit(325ee6d)的parent diff还原出真正原标题，不是直接照抄JSON里的title_before字段。建议：以后snapshot必须在改title之前执行(协议本来就这么写，这次是执行顺序违反了协议，不是脚本本身的bug)，本次未改脚本代码，只记录这个经验避免下次误用JSON字段。",
+  "commit": "fd5865b",
+  "build": "npm run build 139页成功，无报错"
+}
+```

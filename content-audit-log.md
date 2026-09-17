@@ -2739,7 +2739,7 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "sourcing_notes": "占星/生肖类问题(compatibility/personality)统一采用'多家占星出版物的非官方共识'措辞，不断言为事实，与本站Virgo/Scorpio等既有页面的怀疑式框架保持一致；跳过所有仅能找到低质量占星/水晶博客来源的问题(如gemini-birthstone的stones-to-avoid/lucky-color)；'ovarian-cancer-awareness-month'新增的survivor案例(Manisha Koirala)经MSK官方患者故事页+其本人回忆录+多家媒体交叉核实后采用，措辞克制未使用煽情表述；'national-nachos-day'的cheat meal问题以营养数据库的卡路里/钠含量作为客观依据，未做主观饮食建议",
   "mechanical_check": "对全部18个新增FAQ的slug逐一跑python3 scripts/check_prose_patterns.py --guides dayalmanac/src/data/guides.ts --slug <slug>，迭代改写FAQ措辞直至新增内容本身不再触发L-0819-9(FAQ与正文≥20字符重合)。10个slug(march-birthstone/september-birthstone/1987/1988/1991/1992-chinese-zodiac的部分/corn-moon/bullying-prevention-month/ovarian-cancer-awareness-month/galentines-day/national-nachos-day)存在与本次新增无关的预先存在(pre-existing)检查报警(如'rather than/instead of'密度超阈、其余旧FAQ的重合)，逐一用/tmp/guides_orig.ts(改动前的git HEAD快照)比对确认这些报警在本次编辑前就已存在、并非本次新增FAQ导致；遵循任务'只新增FAQ不改动其他内容'的红线，未修改任何正文或旧FAQ来强行清零这些历史债务，仅确保新增内容自身零触发。这属于此前seo文档R-seo-04条款描述的'发布前检查新增后才发现要不要回溯存量'的同类情形，但本任务范围明确限定为'只加FAQ'，回溯清零应作为独立的prose-gate backfill工作处理，未在本次任务内展开。",
   "humanizer_check": "全部30条新增FAQ文本在写入guides.ts前，先集中写入两个批次的草稿文件并依次真实调用Skill(humanizer)与Skill(avoid-ai-writing)工具(非仅在推理中模拟)，按两个技能的输出指引人工复核并改写(去除rule-of-three过度使用、统一直白引号、避免重复句式等)，随后逐字核对数字/专名/引语/链接未被改写破坏，最终定稿文本再写入guides.ts。national-mango-day的2条FAQ因先行草拟插入，之后补做了同样的Skill复核并据此二次微调措辞，已确认与其余批次同等标准。",
-  "commit": "待commit（见下方commit hash占位，随后更新）",
+  "commit": "81b9e8f",
   "build": "npm run build 139页成功，无报错"
 }
 ```

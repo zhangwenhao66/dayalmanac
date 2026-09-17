@@ -2694,3 +2694,52 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "escalation": null
 }
 ```
+
+```json
+{
+  "batch_type": "PAA-FAQ批强(daily-task, 2026-09-17)",
+  "data_source": "独立站/research-db/paa_bulk_current/dayalmanac.json（31条候选，按impressions_28d降序）",
+  "processed_order": "全部31个slug均已逐条判断（按曝光降序），18个slug新增FAQ，13个slug判定为跳过",
+  "slugs_with_new_faq": [
+    { "slug": "virgo-dates", "impressions_28d": 3499, "new_faq_count": 2, "topics": ["Virgo兼容性/最难匹配星座", "Virgo性格与红旗特质"] },
+    { "slug": "march-birthstone", "impressions_28d": 553, "new_faq_count": 1, "topics": ["aquamarine/bloodstone是否属最稀有宝石"] },
+    { "slug": "september-birthstone", "impressions_28d": 495, "new_faq_count": 1, "topics": ["蓝宝石是否属最稀有宝石"] },
+    { "slug": "1988-chinese-zodiac", "impressions_28d": 222, "new_faq_count": 1, "topics": ["龙的相合/相冲生肖"] },
+    { "slug": "1987-chinese-zodiac", "impressions_28d": 187, "new_faq_count": 2, "topics": ["兔的相合/相冲生肖", "兔为何被称为最幸运生肖"] },
+    { "slug": "1992-chinese-zodiac", "impressions_28d": 70, "new_faq_count": 2, "topics": ["猴的性格", "猴的相合/相冲生肖"] },
+    { "slug": "1991-chinese-zodiac", "impressions_28d": 69, "new_faq_count": 2, "topics": ["羊的性格", "羊的相合/相冲生肖"] },
+    { "slug": "anniversary-gifts-by-year", "impressions_28d": 50, "new_faq_count": 1, "topics": ["100周年婚庆的名称"] },
+    { "slug": "corn-moon", "impressions_28d": 21, "new_faq_count": 2, "topics": ["Corn Moon的'精神含义'", "最罕见的满月类型"] },
+    { "slug": "national-nachos-day", "impressions_28d": 11, "new_faq_count": 2, "topics": ["nachos是否为墨西哥食物", "nachos是否算作弊餐(cheat meal)"] },
+    { "slug": "national-apple-day", "impressions_28d": 10, "new_faq_count": 2, "topics": ["苹果对哪个器官最有益", "吃苹果是否有不宜时段(辟谣)"] },
+    { "slug": "may-22-zodiac", "impressions_28d": 9, "new_faq_count": 2, "topics": ["Gemini性格与渴望", "Gemini最合拍的星座"] },
+    { "slug": "national-mango-day", "impressions_28d": 9, "new_faq_count": 2, "topics": ["'girl code'里mango的俚语含义", "芒果对哪个器官有益"] },
+    { "slug": "june-22-zodiac", "impressions_28d": 3, "new_faq_count": 3, "topics": ["7/22属Cancer还是Leo", "6/22出生者性格", "Cancer最合拍的星座"] },
+    { "slug": "bullying-prevention-month", "impressions_28d": 3, "new_faq_count": 1, "topics": ["如何预防欺凌(引StopBullying.gov)"] },
+    { "slug": "ovarian-cancer-awareness-month", "impressions_28d": 1, "new_faq_count": 1, "topics": ["已知的四期卵巢癌幸存者案例(Manisha Koirala)"] },
+    { "slug": "october-14-zodiac", "impressions_28d": null, "new_faq_count": 2, "topics": ["Libra性格", "Libra最合拍/婚配星座"] },
+    { "slug": "galentines-day", "impressions_28d": null, "new_faq_count": 1, "topics": ["Galentine's Day有没有'规则'"] }
+  ],
+  "total_new_faq": 30,
+  "skipped": [
+    { "slug": "national-taco-day", "reason": "gap question(\"Does Taco Bell offer $1 tacos on National Taco Day, October 7th?\")已被现有FAQ'Does Taco Bell run a special $1 taco deal specifically on National Taco Day?'实质覆盖，且原问题引用的是2025年日期(Oct 7)而非2026年真实日期(Oct 6)，属过时问法" },
+    { "slug": "red-ribbon-week", "reason": "gap question(\"Is Red Ribbon Week the same week every year?\")已被现有FAQ'What are the exact dates of Red Ribbon Week?'实质覆盖(固定10/23-10/31)" },
+    { "slug": "world-kindness-day", "reason": "gap question(\"What is the theme for kindness Month in 2026?\")指向哪个观察日存在歧义(World Kindness Day本身 vs 2月的Random Acts of Kindness Week/Month，两者是不同机构)，WebSearch对两者2026主题均未找到可确认的一手来源，为免编造而跳过" },
+    { "slug": "mexican-independence-day", "reason": "两条gap question均已被现有FAQ('Did Hidalgo ring the bell on September 15 or September 16?'/'When did Mexico actually become independent, if the Grito was in 1810?')实质覆盖" },
+    { "slug": "national-days-in-october", "reason": "三条gap question均是本页核心内容本身(整页就是在回答'10月有哪些全国日/月')，已在正文'Ten observances that claim the whole month'等章节充分覆盖，不构成新缺口" },
+    { "slug": "national-pepperoni-pizza-day", "reason": "gap question问的是National Pizza Day(通常2月9日)而非本页National Pepperoni Pizza Day(9月20日)，观察对象不匹配；且涉及品牌促销价格($4.99)逐年变化无法长期核实，双重原因跳过" },
+    { "slug": "national-quesadilla-day", "reason": "gap question(\"Is quesadilla Mexican or American?\")已被现有FAQ'Which country is the quesadilla originally from?'实质覆盖" },
+    { "slug": "gemini-birthstone", "reason": "4条gap question：'lucky gemstone'已被现有FAQ覆盖；'birth color'与'stones to avoid'仅能找到低权威的水晶疗愈/命理营销博客来源(与本页引用GIA/Jewelers of America/Kunz 1913表的严谨基调不符)，且与本页'birthstone'主题脱节，判定无可靠来源+跑题，跳过；'#1 soulmate'与本页birthstone主题脱节，建议由/may-22-zodiac/页承载（已在该页新增兼容性FAQ），避免同一话题在两个页面近重复" },
+    { "slug": "national-wildlife-day", "reason": "gap question(\"What are the national animal days in 2026?\")范围过泛，需要穷举全年动物类观察日才能准确作答，超出单条FAQ可核实范围，存在编造风险，跳过" },
+    { "slug": "november-birthstone", "reason": "gap question(\"What is November topaz?\")已被现有FAQ'Is blue topaz a natural color?'及core summary实质覆盖" },
+    { "slug": "national-pasta-day", "reason": "gap question(\"Does Olive Garden do anything for National Pasta Day?\")已被现有FAQ'Does Olive Garden do anything for October 17 specifically?'逐字覆盖" },
+    { "slug": "june-birthstone", "reason": "gap question(\"What is the real birthstone for June?\")即本页核心论点(June有三个官方生辰石，没有单一'真正'的那个)，已被现有FAQ'What are June's three official birthstones?'覆盖" },
+    { "slug": "11th-anniversary-gift", "reason": "gap question之一('What symbolizes 11 years of marriage')已被现有FAQ覆盖；另一条('What to get my husband for our 11th anniversary')是个性化购物推荐请求，非可核实的事实性问题，不适合本页事实核查体裁，跳过" }
+  ],
+  "sourcing_notes": "占星/生肖类问题(compatibility/personality)统一采用'多家占星出版物的非官方共识'措辞，不断言为事实，与本站Virgo/Scorpio等既有页面的怀疑式框架保持一致；跳过所有仅能找到低质量占星/水晶博客来源的问题(如gemini-birthstone的stones-to-avoid/lucky-color)；'ovarian-cancer-awareness-month'新增的survivor案例(Manisha Koirala)经MSK官方患者故事页+其本人回忆录+多家媒体交叉核实后采用，措辞克制未使用煽情表述；'national-nachos-day'的cheat meal问题以营养数据库的卡路里/钠含量作为客观依据，未做主观饮食建议",
+  "mechanical_check": "对全部18个新增FAQ的slug逐一跑python3 scripts/check_prose_patterns.py --guides dayalmanac/src/data/guides.ts --slug <slug>，迭代改写FAQ措辞直至新增内容本身不再触发L-0819-9(FAQ与正文≥20字符重合)。10个slug(march-birthstone/september-birthstone/1987/1988/1991/1992-chinese-zodiac的部分/corn-moon/bullying-prevention-month/ovarian-cancer-awareness-month/galentines-day/national-nachos-day)存在与本次新增无关的预先存在(pre-existing)检查报警(如'rather than/instead of'密度超阈、其余旧FAQ的重合)，逐一用/tmp/guides_orig.ts(改动前的git HEAD快照)比对确认这些报警在本次编辑前就已存在、并非本次新增FAQ导致；遵循任务'只新增FAQ不改动其他内容'的红线，未修改任何正文或旧FAQ来强行清零这些历史债务，仅确保新增内容自身零触发。这属于此前seo文档R-seo-04条款描述的'发布前检查新增后才发现要不要回溯存量'的同类情形，但本任务范围明确限定为'只加FAQ'，回溯清零应作为独立的prose-gate backfill工作处理，未在本次任务内展开。",
+  "humanizer_check": "全部30条新增FAQ文本在写入guides.ts前，先集中写入两个批次的草稿文件并依次真实调用Skill(humanizer)与Skill(avoid-ai-writing)工具(非仅在推理中模拟)，按两个技能的输出指引人工复核并改写(去除rule-of-three过度使用、统一直白引号、避免重复句式等)，随后逐字核对数字/专名/引语/链接未被改写破坏，最终定稿文本再写入guides.ts。national-mango-day的2条FAQ因先行草拟插入，之后补做了同样的Skill复核并据此二次微调措辞，已确认与其余批次同等标准。",
+  "commit": "待commit（见下方commit hash占位，随后更新）",
+  "build": "npm run build 139页成功，无报错"
+}
+```

@@ -1787,6 +1787,14 @@ export const guides: Guide[] = [
       {
         "question": "What is the Virgo birthstone?",
         "answer": "There's no single official answer. This site's [birthstones-by-month page](/birthstones-by-month/) documents the current monthly list: peridot for August, sapphire for September. The sign straddles both, with only 9 of its days falling in August against 22 in September. The trade group behind that monthly list has never published a separate zodiac-sign chart, so retailers filling the gap most often name sapphire as 'the' Virgo stone, with peridot, carnelian, and moss agate offered as alternates depending on the site."
+      },
+      {
+        "question": "Who is Virgo most compatible with, and who's the toughest match?",
+        "answer": "Modern horoscope sites most often name Taurus and Capricorn, the other two earth signs, as Virgo's strongest matches, with Cancer, Scorpio, and Pisces also frequently listed as compatible pairings. Sagittarius and Gemini are the two most often flagged as difficult fits, since both signs' taste for spontaneity tends to clash with Virgo's preference for routine. It's the informal consensus of these sites, not a ruling from any governing body."
+      },
+      {
+        "question": "What is a Virgo's personality like, red flags included?",
+        "answer": "Horoscope writers commonly describe Virgo, tied to Mercury and the sign's Mutable Earth classification, as detail-oriented and hardworking. The same writers list a recurring set of harder edges too: a tendency to over-analyze and criticize, trouble compromising once a plan is set, and a need for personal space a partner can mistake for distance. These traits get repeated often, the same way Virgo's compatibility pairings do, without any single source behind them."
       }
     ],
     "sources": [
@@ -1923,6 +1931,18 @@ export const guides: Guide[] = [
       {
         "question": "What is the June 22 zodiac's birthstone?",
         "answer": "No astrology group has ever published one. What circulates instead is the calendar-month list from the jewelry trade, which this calendar covers separately under its own June entry."
+      },
+      {
+        "question": "Is July 22 a Cancer or a Leo?",
+        "answer": "Cancer, on the same publishers already cited on this page, though it's the closing rather than the opening day. Both put the last day at July 22, with Leo opening the next day. The Wikipedia passage quoted above hedges the other direction, giving Cancer a range that runs through July 23 instead, a day later. As with the sign's opening date, the exact hour of the year's crossing shifts, so a birth on either date sits close enough to the edge that only that year's ephemeris settles it."
+      },
+      {
+        "question": "What are the personality traits of someone born on June 22?",
+        "answer": "Astrology writers describe Cancer as emotional and protective, tied to the Moon's rulership and the sign's Water classification. The same writers commonly note a moodier side too, describing the temperament as shifting the way the Moon's phases do, with a strong pull toward home and family over independence."
+      },
+      {
+        "question": "Who is Cancer compatible with?",
+        "answer": "Astrology publishers most often name Taurus, Scorpio, and Pisces as Cancer's strongest matches, along with Virgo. The reasoning given usually centers on shared emotional depth or a partner's steadiness, since the sign is commonly described as needing security rather than a partner who prizes independence above all."
       }
     ],
     "sources": [
@@ -2054,6 +2074,14 @@ export const guides: Guide[] = [
       {
         "question": "What is the May 22 zodiac's birthstone?",
         "answer": "No trade group has ever assigned one to the sign itself. What gets sold under that name is really borrowed from the following month's gem list, a substitution this site's dedicated birthstone page for the sign unpacks in full, including the very different stone an older reference table names instead."
+      },
+      {
+        "question": "What is a Gemini's personality like, and what do Geminis crave?",
+        "answer": "Astrology writers commonly describe Gemini, ruled by Mercury and grouped with the Air element, as curious and quick-witted, comfortable moving between extroverted and introverted moods depending on the room. What a Gemini is said to crave most is variety itself: writers describe the sign as pulled toward conversation and new experiences over routine or material comfort."
+      },
+      {
+        "question": "Who does a Gemini get along with best?",
+        "answer": "Astrology sites most often name Libra and Aquarius, the other two air signs, as Gemini's strongest matches, with Sagittarius frequently cited as a third. The reasoning given is usually the same across sources: all three are said to share Gemini's taste for intellectual connection and new experiences rather than a fixed routine."
       }
     ],
     "sources": [
@@ -2171,6 +2199,14 @@ export const guides: Guide[] = [
       {
         "question": "What is the October 14 zodiac's birthstone?",
         "answer": "There's no single trade-recognized answer. What gets sold as \"Libra's birthstone\" is really borrowed from the two calendar months the sign straddles; this site's dedicated birthstone page for the sign traces the older, documented zodiac-stone table, which names a different gem entirely."
+      },
+      {
+        "question": "What is a Libra's personality like?",
+        "answer": "Astrology writers commonly describe Libra as diplomatic and fair-minded, tied to the sign's Venus rulership and its scales symbol. The same writers list a recurring weaker side too: indecisiveness and a habit of avoiding conflict by prioritizing harmony over addressing a problem directly."
+      },
+      {
+        "question": "Who is Libra compatible with, and who does Libra tend to marry?",
+        "answer": "Astrology publishers most often name the sign's two fellow Air signs, Aquarius and Gemini, as its strongest matches, with Leo also frequently listed. The reasoning centers on values Libra is said to prize in any partnership: intellectual connection, fairness, and social warmth, rather than one sign being destined to marry another."
       }
     ],
     "sources": [
@@ -2305,6 +2341,10 @@ export const guides: Guide[] = [
       {
         "question": "What color represents March?",
         "answer": "There's no single official answer, since March itself carries two birthstones with different hues: aquamarine's pale, watery blue-green and bloodstone's darker green speckled with rust-colored flecks. Some retailers shorten this to aquamarine's shade alone, but neither the trade group behind the birthstone chart nor any other authority has settled on one color for the month."
+      },
+      {
+        "question": "Is aquamarine or bloodstone one of the rarest birthstones?",
+        "answer": "No widely accepted rarity ranking exists, but neither of the two stones assigned to March usually shows up on the shortlists that do circulate. Gemstone retailers and buying guides most often name alexandrite, June's birthstone, as the rarest overall, with tanzanite and ruby close behind. Both of March's stones are mined across multiple continents in large volume, which keeps them widely available by comparison."
       }
     ],
     "sources": [
@@ -2429,6 +2469,10 @@ export const guides: Guide[] = [
       {
         "question": "What are the two birthstones for September?",
         "answer": "On the US list, September has just one, sapphire. The \"two birthstones\" version comes from Britain's separate jewelry-trade list, revised in 2013, which pairs sapphire with lapis lazuli. Jewelers of America's US chart has never included lapis lazuli for September; that stone belongs to December in the American tradition."
+      },
+      {
+        "question": "Is sapphire one of the rarest birthstones?",
+        "answer": "Not as a whole. Buying guides that rank birthstone rarity usually put alexandrite (June's birthstone) first, with tanzanite and ruby named ahead of sapphire too, since blue sapphire is comparatively easy to source. The padparadscha variety is the exception, and the FAQ above already covers why that particular stone commands a premium."
       }
     ],
     "sources": [
@@ -6307,6 +6351,10 @@ export const guides: Guide[] = [
       {
         "question": "Are the milestone colors, like silver and gold, from the traditional list or the gemstone list?",
         "answer": "Both, which is why they don't conflict. Silver at 25 years and gold at 50 were locked into the older materials chart back in the 19th century, well before any gemstone chart existed. Decades later, when the gem-based version came together, it left those two milestones as the same metals instead of swapping in a stone, which is why the two lists still agree at 25 and 50 even though they disagree almost everywhere else."
+      },
+      {
+        "question": "What is 100 years of marriage called?",
+        "answer": "There's no consensus answer the way there is for the 25th (silver) or 50th (gold). Neither the older household-object chart nor the jewelry trade's own gem-based chart, the two systems compared above through year 60 and beyond, defines a 100th-year gift or name. Some retailers market it as a \"water anniversary\" or suggest platinum, but those labels don't trace to the sourced US/UK comparison used for the other milestone years, and no chart currently published by any jeweler association reaches that far."
       }
     ],
     "sources": [
@@ -8717,6 +8765,14 @@ export const guides: Guide[] = [
       {
         "question": "Is Chinese New Year always in January?",
         "answer": "No. Unlike a fixed Gregorian holiday such as December 25, it drifts across a roughly month-long band governed by the moon's cycle, falling anywhere between January 21 and February 20 depending on the year. 1987 landed on January 29, while the neighboring years shifted to February 9 (1986) and February 17 (1988)."
+      },
+      {
+        "question": "Who is the Rabbit compatible with, and what's its clashing sign?",
+        "answer": "Chinese zodiac guides typically list the Goat, Pig, and Dog as the Rabbit's strongest matches, part of the tradition's Three Harmonies and Six Harmony groupings. Its direct clash partner is the Rooster, the animal on the opposite point of the twelve-branch cycle; guides commonly describe that pairing as one of the harder ones to sustain."
+      },
+      {
+        "question": "Why is the Rabbit called the luckiest Chinese zodiac sign?",
+        "answer": "The reputation traces back to the animal's role in the Great Race legend that ranks the twelve zodiac signs, where the Rabbit is remembered for a nimble, fortunate crossing rather than brute strength, plus a long-standing tie in Chinese folklore to longevity, peace, and the moon. Zodiac guides commonly extend the same reading to people born in Rabbit years, calling them even-tempered and diplomatic. As with the compatibility pairings above, this is a reading carried through zodiac tradition rather than a ranking any authority maintains."
       }
     ],
     "sources": [
@@ -9004,6 +9060,10 @@ export const guides: Guide[] = [
       {
         "question": "When does ovarian cancer come back?",
         "answer": "Often within the first year and a half. Research reviewed by Healthline puts the share of patients who relapse within 18 months of finishing treatment at around 80%, though the risk varies sharply by original stage, from roughly 25% for early-stage disease to more than 80% for advanced cases. Recurrence can still happen years later in cancers that responded well to chemotherapy, just less often."
+      },
+      {
+        "question": "Who is a known survivor of stage 4 ovarian cancer?",
+        "answer": "Indian film actress Manisha Koirala is one of the most widely documented cases. She was diagnosed in 2012, was treated at Memorial Sloan Kettering Cancer Center in New York, and has spoken publicly about her recovery since, including in her 2018 memoir Healed: How Cancer Gave Me a New Life. Her case is often cited alongside the figures above as an example that a late-stage diagnosis isn't automatically fatal."
       }
     ],
     "sources": [
@@ -9366,6 +9426,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Galentines for single girls only?",
         "answer": "No. In Leslie Knope's original Parks and Recreation pitch, she describes it as a chance for her women friends to gather regardless of who is or isn't dating someone. Coverage from outlets including Time and Vice has pushed back specifically on the idea that it's a consolation holiday for single women, arguing it was always meant as a celebration of friendship open to anyone."
+      },
+      {
+        "question": "What are the rules for Galentine's Day?",
+        "answer": "None, officially. It was never registered as a real observance, so there's no rulebook the way there is for a genuine registered date. What gets described as its \"rules\" today comes from food and lifestyle coverage describing how people mark the occasion in practice: a gathering among women, festive food and drinks, and often a small gift exchange, loosely borrowed from the format the show's fictional party followed rather than dictated by anyone."
       }
     ],
     "sources": [
@@ -9872,6 +9936,10 @@ export const guides: Guide[] = [
       {
         "question": "What is the theme for Anti-Bullying Week in 2026?",
         "answer": "\"Break the Silence.\" The Anti-Bullying Alliance, which runs the UK's Anti-Bullying Week (November 16-20 in 2026), built the theme around more than 200 children and young people describing the silence that often surrounds being bullied. It's a separate British campaign from National Bullying Prevention Month, which PACER runs in the U.S."
+      },
+      {
+        "question": "How can bullying be prevented?",
+        "answer": "StopBullying.gov, the federal site already cited above, frames prevention as an ongoing effort, not a one-time fix: helping kids understand what counts as bullying and why it's unacceptable, keeping communication open so they know how to ask for help, and encouraging activities and friendships that build confidence. When bullying does happen, the same guidance calls for adults to step in right away, separate those involved, and make sure everyone is safe, since a quick, consistent response is what changes behavior over time."
       }
     ],
     "sources": [
@@ -10326,6 +10394,14 @@ export const guides: Guide[] = [
       {
         "question": "What does \"Nacho\" literally mean?",
         "answer": "It's simply the common Spanish nickname for the name Ignacio. The dish is named directly after its inventor, Ignacio \"Nacho\" Anaya, not after a Spanish word describing the food itself."
+      },
+      {
+        "question": "Is nachos a Mexican dish or an American invention?",
+        "answer": "Mexican in origin, though built from the start with American diners in mind. Anaya put the dish together at his restaurant just across the Texas border, but for a table of visiting American servicemen's wives rather than for local regulars, which is part of why it reads as a border creation rather than a purely Mexican or purely American one."
+      },
+      {
+        "question": "Are nachos a cheat meal?",
+        "answer": "Informally, yes, based on how nutrition trackers describe a standard restaurant plate. A loaded order commonly runs 800 to 1,200 calories, much of it from fried chips and melted cheese, with a sodium count that can clear 1,000 to 2,000 milligrams in one sitting, figures diet and fitness writers point to when filing the dish under indulgence rather than a regular menu option."
       }
     ],
     "sources": [
@@ -11064,6 +11140,14 @@ export const guides: Guide[] = [
       {
         "question": "Will there be a Buck Moon in 2026?",
         "answer": "Yes. Buck Moon is the customary name for July's full moon on the same Old Farmer's Almanac 12-name list this page cites for September's Corn Moon. Every year has one, since the name is tied to the calendar month rather than to a rarer astronomical event."
+      },
+      {
+        "question": "What is the Corn Moon's spiritual meaning?",
+        "answer": "Neither Carver's 1778 source nor the almanac list this page cites assigns the name any spiritual reading; both simply record it as September's harvest-linked title. The spiritual meaning attached to it today comes from a separate, more recent tradition. Modern pagan and lunar-lifestyle writers describe the Corn Moon as a symbol of gratitude and abundance, tied to reaping the rewards of a season's patience, drawing on the same corn-harvest timing behind the name rather than on any documented older ritual."
+      },
+      {
+        "question": "What is the rarest kind of full moon?",
+        "answer": "By frequency, a Blue Moon (a season's third full moon of four, or a calendar month's second) is the best-known \"rare\" moon, landing on average about once every 2.7 years, per NASA's figures. A Black Moon, the new-moon counterpart, is rarer still. The rarest event isn't a special full moon at all. It's the near-total absence of one, when a short February falls entirely between two full moons and gets none of its own, something that has happened only four times in the 21st century, all in February: 2018, 2037, 2067, and 2094."
       }
     ],
     "sources": [
@@ -11168,6 +11252,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Chinese New Year always in February?",
         "answer": "No. Unlike a fixed Gregorian holiday such as December 25, it drifts across a roughly month-long band governed by the moon's cycle, falling anywhere between January 21 and February 20 depending on the year. 1988 landed on February 17, while the neighboring years shifted to January 29 (1987) and February 6 (1989)."
+      },
+      {
+        "question": "Who is the Dragon compatible with, and what's its clashing sign?",
+        "answer": "Chinese zodiac guides most often pair the Dragon with the Rooster, Monkey, and Rat, following the tradition's Six Harmony and Three Harmonies groupings. Its direct clash partner is the Dog, the animal sitting opposite it on the twelve-branch cycle described above; some guides also list the Rabbit as a harder match. This is a cultural reading passed down through zodiac guides, not a documented ruling from any authority."
       }
     ],
     "sources": [
@@ -11303,6 +11391,14 @@ export const guides: Guide[] = [
       {
         "question": "Which US state grows the most mangoes?",
         "answer": "Florida, and it isn't close domestically. Commercial mango growing in the US is concentrated in South Florida, where the first commercial orchard was planted in 1833; Florida remained the country's largest mango producer as of 2021, per Wikipedia's entry on the state's mango industry."
+      },
+      {
+        "question": "What does \"mango\" mean in girl code?",
+        "answer": "It's shorthand for \"Man-Go,\" internet slang for telling a friend to leave a relationship. The usage traces to the Instagram account run by nurse and content creator Ebi (ebi_eats), where followers submit relationship questions anonymously and a mango emoji in the reply signals the same advice: drop him. It's a recent social-media coinage, unrelated to the fruit's own history or to this observance."
+      },
+      {
+        "question": "What organ is mango good for?",
+        "answer": "Health sites point to several rather than just one. WebMD ties the fruit's magnesium, potassium, and antioxidant content to heart health, while its vitamin A and zeaxanthin are credited for eye health and its fiber for digestion. A single serving supplies roughly half a day's vitamin C, according to the American Heart Association."
       }
     ],
     "sources": [
@@ -11443,6 +11539,14 @@ export const guides: Guide[] = [
       {
         "question": "How many varieties of apple actually exist?",
         "answer": "More than 7,500, by Wikipedia's count. That scale is part of why Common Ground created Apple Day in the first place: almost none of those varieties reach a supermarket shelf, and the founders wanted a yearly occasion to remind people the diversity still exists, in old orchards and small growers' collections if nowhere else."
+      },
+      {
+        "question": "What organ does an apple benefit most?",
+        "answer": "Nutrition sources tend to point to two systems instead of naming one organ. Cleveland Clinic and Healthline both link the fruit's soluble fiber, pectin, to heart health, since it binds to cholesterol and helps clear it from the digestive tract, while that same fiber feeds gut bacteria tied to better digestion."
+      },
+      {
+        "question": "Is there a bad time of day to eat an apple?",
+        "answer": "Not really, despite a persistent claim that fruit eaten on an empty stomach or right before bed causes digestive trouble. Medical News Today traces that idea to unsupported claims that spread through websites and forwarded emails rather than clinical research; fiber can slow how quickly food leaves the stomach, but it doesn't cause fruit to sit and ferment the way the claim describes. The one loose caveat some sources raise is eating a whole apple in the hour right before sleep, since the body is still processing its natural sugars as it winds down for the night."
       }
     ],
     "sources": [
@@ -11672,6 +11776,14 @@ export const guides: Guide[] = [
       {
         "question": "Is Chinese New Year always in February?",
         "answer": "No. The date can fall anywhere between January 21 and February 20, depending on how that year's moon-based calendar happens to line up. 1990's version started January 27, while 1992 waited until February 4, bracketing 1991's February 15 start on either side."
+      },
+      {
+        "question": "What is the Chinese Goat's personality like?",
+        "answer": "Zodiac guides typically describe people born in Goat years as gentle and imaginative, valuing harmony and emotional connection over confrontation. The same guides note a quieter, more hesitant streak alongside those traits, describing Goats as prone to worry once a situation turns uncertain."
+      },
+      {
+        "question": "Who is the Goat compatible with, and what's its clashing sign?",
+        "answer": "Chinese zodiac tradition usually pairs the Goat with the Rabbit and Pig as its strongest matches, and separately names the Horse as a \"secret friend,\" a companion pairing distinct from the Three Harmonies grouping. The Goat's direct clash partner is the Ox, its opposite on the twelve-branch cycle. The Ox's rigid, tradition-bound streak and the Goat's tendency to drift from one distraction to the next are what guides point to when explaining the friction."
       }
     ],
     "sources": [
@@ -11783,6 +11895,14 @@ export const guides: Guide[] = [
       {
         "question": "How is the Chinese zodiac different from a Western sign like Scorpio?",
         "answer": "A Western sun sign keeps roughly the same date range every year. The Chinese zodiac's year boundary moves by about a month from one year to the next, so which animal and element a birthday falls under has to be checked against that specific year's lunar calendar, not assumed from the birth year alone."
+      },
+      {
+        "question": "What is the Chinese Monkey's personality like?",
+        "answer": "Zodiac guides commonly describe people born in Monkey years as quick-witted and sociable, with a taste for mischief that traces to the animal's trickster reputation in Chinese folklore. The same guides note a harder edge alongside it: a restless, sometimes vain streak that can read as unreliable to a more literal-minded partner or friend."
+      },
+      {
+        "question": "Who is the Monkey compatible with, and what's its clashing sign?",
+        "answer": "The Rat and Dragon are the matches most zodiac guides list as the Monkey's strongest, grouped with the Monkey in the tradition's Three Harmonies as a trio said to reinforce one another; the Ox is also commonly named as a good match. The Monkey's direct clash partner is the Tiger, sitting opposite it on the twelve-branch cycle. Guides usually describe that clash as the Tiger's need for control running into the Monkey's resistance to being pinned down."
       }
     ],
     "sources": [

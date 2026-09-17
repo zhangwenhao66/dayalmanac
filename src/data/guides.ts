@@ -3420,7 +3420,7 @@ export const guides: Guide[] = [
         "url": "https://www.federalregister.gov/documents/2025/09/25/2025-18708/national-hispanic-heritage-month-2025"
       },
       {
-        "label": "Forbes: Trump Hasn't Proclaimed Hispanic Heritage Month (Yet)—Unlike In First Term (Conor Murray, Sept. 15, 2025)",
+        "label": "Forbes: Trump Hasn't Proclaimed Hispanic Heritage Month (Yet), Unlike In First Term (Conor Murray, Sept. 15, 2025)",
         "url": "https://www.forbes.com/sites/conormurray/2025/09/15/trump-hasnt-proclaimed-hispanic-heritage-month-yet-unlike-in-first-term/"
       }
     ],
@@ -8681,7 +8681,7 @@ export const guides: Guide[] = [
         "url": "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
       },
       {
-        "label": "Department of Culture and Tourism – Abu Dhabi: The Abu Dhabi Pearl, World's Oldest Known Natural Pearl",
+        "label": "Department of Culture and Tourism, Abu Dhabi: The Abu Dhabi Pearl, World's Oldest Known Natural Pearl",
         "url": "https://dct.gov.ae/en/media.centre/news/abu.dhabi.pearl.the.worlds.oldest.known.natural.pearl.discovered.on.marawah.island..aspx"
       },
       {

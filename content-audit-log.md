@@ -2743,3 +2743,24 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "build": "npm run build 139页成功，无报错"
 }
 ```
+
+## 2026-09-18 — 补充分区枢纽内链（矩阵级结构性缺口第1轮，交互会话执行）
+
+```json
+{
+  "trigger": "矩阵级分析（涨页特征对照_20260913.md）发现14站正文0%链接回自己的分区/hub页；本任务是低优先级卫生工作，不是增长杠杆，加内链不改变文章排名/CTR。DayAlmanac当前处于站级排名下滑观察期（非算法整站压制，与calcbadger/dialwick/lingogrove不同类），本次只做3篇低风险内链添加，不涉及新页面/标题/结构改动",
+  "actions": [
+    {
+      "type": "分区枢纽内链",
+      "pages": [
+        {"slug": "national-coffee-day", "category": "Observances", "hub": "/topics/observances/"},
+        {"slug": "september-birthstone", "category": "Birthstones", "hub": "/topics/birthstones/"},
+        {"slug": "1991-chinese-zodiac", "category": "Chinese Zodiac", "hub": "/topics/chinese-zodiac/"}
+      ],
+      "detail": "每篇在最后一个正文小节末尾自然位置加一句指向该文分类hub页的句子，措辞逐篇手写各不相同。句子过Skill(humanizer)+Skill(avoid-ai-writing)后插入，跑check_bridge_sentences.py确认新句均未产生新候选（各篇仍各自命中若干与本次改动无关的旧候选：national-pasta-day/national-mango-day/december-birthstone/1992-chinese-zodiac，属存量债务不在本次处理）；check_prose_patterns.py对national-coffee-day/september-birthstone均报FAQ与正文逐字重合告警（L-0819-9，均为本次编辑前就存在的旧内容重合，与新增句子无关），1991-chinese-zodiac退出码0。npm run build 0报错，commit d9ec54c。"
+    }
+  ],
+  "verification": "绕缓存curl三篇线上均已生效(Observances/Birthstones/Chinese Zodiac hub均命中)；IndexNow已提交3个URL(Bing 200/Yandex 200，commit a964bd9)",
+  "escalation": null
+}
+```

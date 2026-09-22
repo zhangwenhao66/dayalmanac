@@ -108,3 +108,19 @@ WebSearch `"dayalmanac.com" -site:dayalmanac.com` — 无结果引用本站。�
 ### 分发计数
 
 本站累计已邀请/投放目标数：2/10（本轮新增0个）。仍未饱和，下次运行应继续尝试寻找可核实邮箱的新目标。
+
+---
+
+## 2026-09-22 — distribution pass (capacity-concentration rule; holiday-spending-statistics priority)
+
+**Site selection**: recomputed 28-day 11-30-position impressions across the 7 non-suppressed traffic sites: umberlore(605) > wagelark(472) > **dayalmanac(427)** > mythcairn(406) > factcrumbs(88) > hollowvane(25) = warcrumbs(25). DayAlmanac ranked #3, taking this run's remaining top-3 slot. Per the 2026-09-18 addendum, this run's distribution effort for this site was pointed at `holiday-spending-statistics` specifically — the site is mid ranking-collapse (see `独立站/站点COO/dayalmanac/COO报告_20260918.md` 阶段 C1) and most other pages have fallen out of the 4-20 position band this run's priority list was built from, but this asset's own query stays at a stable position (~8.6), so it's the one page where outreach still has real leverage right now.
+
+**Order of work**: `holiday-spending-statistics` (published 2026-09-13) has never been distributed — first pass for this asset.
+
+**Step 2 (unlinked-mention recovery)**: WebSearch `"dayalmanac.com" holiday spending statistics` — no third-party page references dayalmanac.com or the asset. No recovery opportunity this round.
+
+**Step 3 (pitch)**: found wifitalents.com's "Holiday Spending: 2026 Verified Stats" page — a stats-aggregator page (same category as UmberLore's already-successful gitnux.org/zipdo.co pitches) scoped only to winter-holiday spending. DayAlmanac's page covers 12 occasions (winter holidays plus Valentine's, Easter, Mother's/Father's Day, Halloween, Super Bowl, back-to-school, St. Patrick's, Independence Day), so the gap ("doesn't get into the rest of the year") is genuine, not manufactured. Drafted a pitch; independent review agent fetched both pages directly, confirmed every cited number verbatim against DayAlmanac's live page, confirmed wifitalents.com's page has zero mentions of any occasion besides winter holidays (so the pitch's premise holds), confirmed `info@wifitalents.com` as the site's own published general contact, found no AI-writing tells, and confirmed no affiliation between the two domains. Verdict: CAN SEND. Sent via `gmail_send.py send --from dayalmanac`, Message ID `1a0c7a4243d32f2e`. Full detail in `outreach-drafts.md`.
+
+**Step 3.5**: not re-evaluated — the asset is a single-URL statistics page (unlike the countdown-widget's 30+ embed routes), so it's a plausible Reddit/HN candidate in principle, but this round's time budget went to Step 3; a future run should evaluate r/personalfinance-type placement per the 2026-09-13 build-log's own "next run" note.
+
+**Distribution count**: `holiday-spending-statistics` now at 1 sent target (just started). `Days Until` countdown widget remains at 2 sent (8/29 guacamole pitches) — not revisited this round; time budget went entirely to the newer, higher-priority asset per the 09-18 addendum.

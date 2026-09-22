@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claims a signed-vs-proclaimed year mismatch for National Hispanic Heritage Month, verified by the target article's caveat: \"Congress signed the law expanding the week-long observance to a full month on August 17, 1988... The first proclamation to actually invoke a full month came from President George H.W. Bush the following year, on September 14, 1989.\""
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claims No-Shave November is a separate, privately run campaign with no federal recognition, verified by the target article's FAQ#4: \"The White House has never proclaimed this campaign, and no federal law has put it on the books at the national level... no comparable federal or standing state recognition exists,\" and FAQ#2 crediting the Hill family's 2009 Facebook page as the private founding."
+  }
+]

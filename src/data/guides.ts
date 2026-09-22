@@ -1565,12 +1565,12 @@ export const guides: Guide[] = [
     "description": "December's three official birthstones are turquoise, blue zircon, and tanzanite, not blue topaz, despite how often retailers market it as one.",
     "published": "2026-08-04",
     "updated": "2026-08-04",
-    "coreSummary": "December's three official birthstones (turquoise, blue zircon, and tanzanite) were assembled by trade organizations across three separate revisions: turquoise carried over from ancient tradition when the modern US list was first adopted in 1912, zircon was added in 1952, and tanzanite was added in 2002. Blue topaz is heavily marketed by jewelry retailers as a fourth December birthstone, but Jewelers of America's own current list has never included it.",
+    "coreSummary": "December's three official birthstones (turquoise, blue zircon, and tanzanite) were assembled by trade organizations across three separate revisions: turquoise carried over from ancient tradition when the modern US list was first adopted in 1912, zircon was added in 1952, and tanzanite was added in 2002. Blue topaz is heavily marketed by jewelry retailers as a fourth December birthstone, but the current Jewelers of America list has never included it.",
     "sections": [
       {
         "heading": "December's three official birthstones",
         "body": [
-          "Jewelers of America, the trade association that has maintained the US birthstone list since 1912, currently names exactly three official birthstones for December: turquoise, tanzanite, and blue zircon. That is the complete list on the organization's own gift guide page; no fourth stone appears on it.",
+          "Jewelers of America, the trade association that has maintained the US birthstone list since 1912, currently names exactly three official birthstones for December: turquoise, tanzanite, and blue zircon. That is the complete list on the organization's current gift guide page; no fourth stone appears on it.",
           "Search for \"december birthstone\" anywhere online, though, and blue topaz shows up constantly, often presented as if it carries the same official standing as the other three. It doesn't. Blue topaz's cool, wintry tone happens to match the palette of December's real birthstones, and large retailers, including Blue Nile, Kay, JCPenney, and Gabriel & Co., have built entire product lines marketing it as \"the December birthstone.\" None of that marketing changes what is actually on Jewelers of America's list. A page repeating that blue topaz is official is repeating retail copy, not the trade group's own record."
         ]
       },
@@ -1601,7 +1601,7 @@ export const guides: Guide[] = [
         "body": [
           "Tanzanite is by far the youngest of December's three birthstones, in every sense. According to the Gemological Institute of America, a Maasai herder came across a cluster of transparent violet-to-blue crystals in the Merelani Hills, at the foot of Mount Kilimanjaro in northern Tanzania, in 1967, and alerted a prospector, Manuel d'Souza, who registered mining claims on the site. The stone turned out to be a blue-violet variety of the mineral zoisite; rough crystals pulled from the ground are typically a dull brown and only reveal their blue-violet color after heat treatment.",
           "Tiffany & Co. became the gem's principal distributor and gave it its name: vice president Henry B. Platt named it tanzanite, after the country where it was found, and the company launched a publicity campaign built around the new stone in 1968. A 122.7-carat tanzanite from that deposit is now held by the Smithsonian's National Museum of Natural History.",
-          "Nearly six decades later, the Merelani Hills remain the only known commercial source of tanzanite anywhere in the world; no other deposit has been found. The American Gem Trade Association added tanzanite to the official December birthstone list in 2002, fifty years after the previous revision, making it an additional option alongside turquoise and zircon rather than a replacement for either."
+          "Nearly six decades later, the Merelani Hills remain the only known commercial source of tanzanite anywhere in the world; no other deposit has been found. The American Gem Trade Association added tanzanite to the official December birthstone list in 2002, fifty years after the previous revision, making it an additional option alongside turquoise and zircon, not a replacement for either."
         ],
         "image": {
           "src": "/images/december-birthstone-tanzanite.jpg",
@@ -1627,15 +1627,15 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What are December's official birthstones?",
-        "answer": "Turquoise, blue zircon, and tanzanite, per Jewelers of America's current birthstone list. All three appear on the trade association's own gift guide with no fourth stone listed."
+        "answer": "The current official list has exactly three: turquoise, plus tanzanite and zircon, added in later revisions. All three show up on that group's gift guide, with no fourth stone listed."
       },
       {
         "question": "Is blue topaz a December birthstone?",
-        "answer": "Not officially. Retailers market it heavily as a December birthstone because its cool blue tone matches the month's other stones, but it has never been added to Jewelers of America's official list, which names only turquoise, zircon, and tanzanite."
+        "answer": "Not officially. Jewelry stores push blue topaz hard for December purchases because its cool blue tone matches the month's other stones, but the trade group that maintains the official list has never added it, and that roster recognizes only three: tanzanite, turquoise, and zircon."
       },
       {
         "question": "When was tanzanite added as a December birthstone?",
-        "answer": "In 2002, when the American Gem Trade Association added it to the official list as an additional December stone alongside turquoise and zircon, the list's first change to any month in fifty years."
+        "answer": "The trade group behind other 20th- and 21st-century revisions put tanzanite on the roster in 2002, as a companion to the two existing December stones, not a swap for either one. Fifty years had passed since any month's lineup last changed."
       },
       {
         "question": "Why does December have three birthstones instead of one?",
@@ -1643,15 +1643,15 @@ export const guides: Guide[] = [
       },
       {
         "question": "Where does tanzanite come from?",
-        "answer": "Exclusively the Merelani Hills at the foot of Mount Kilimanjaro in Tanzania, discovered in 1967. It remains the only known commercial source of tanzanite anywhere in the world."
+        "answer": "Exclusively Merelani, a hillside near Kilimanjaro's lower slopes in Tanzania, first turned up in 1967. No comparable deposit has ever surfaced elsewhere, so that one hillside still supplies the entire global market."
       },
       {
         "question": "Why is December's zircon usually a specific shade of blue?",
-        "answer": "Most of it starts out brown and is heat-treated to turn blue. Nearly all of that treated rough comes from Ratanakiri province in Cambodia, which the International Colored Gemstone Association describes as the world's only deposit of material capable of producing that rich blue color."
+        "answer": "Most of it starts out brown and is heat-treated to turn blue. Nearly all of that treated rough comes from Ratanakiri, a province in eastern Cambodia, which the ICA calls the planet's sole source of material capable of producing that particular shade of blue."
       },
       {
         "question": "What are the 12 birthstones by month?",
-        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, checked directly against Jewelers of America's live list: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon, the three stones covered on this page."
+        "answer": "This site's [birthstones-by-month page](/birthstones-by-month/) has the full current chart, cross-checked against the same official roster this page draws from: January garnet, February amethyst, March aquamarine, April diamond, May emerald, June pearl/moonstone/alexandrite, July ruby, August peridot/spinel, September sapphire, October opal/tourmaline, November citrine/topaz, and December turquoise/tanzanite/blue zircon, the three stones covered on this page."
       }
     ],
     "sources": [
@@ -6540,12 +6540,12 @@ export const guides: Guide[] = [
     "description": "December's birth flowers are holly and narcissus, but the \"ancient\" Holly King is a 1948 invention, and the paperwhite is also China's New Year flower.",
     "published": "2026-08-18",
     "updated": "2026-08-18",
-    "coreSummary": "December's birth flowers are holly, whose plants grow flowers that produce fruit and flowers that produce pollen on separate plants, so that only female holly bushes with a male nearby ever produce the familiar red berries, and narcissus, specifically the paperwhite (Narcissus tazetta). The \"Holly King,\" a figure many lifestyle sites present as ancient Celtic belief, actually traces to a 1948 book by the poet Robert Graves, built from his own comparisons to older myths rather than any surviving Celtic source. And the same paperwhite species forced into bloom on US windowsills each December is, in a different subspecies grown for Lunar New Year, China's \"Chinese Sacred Lily,\" a symbol of prosperity rather than the vanity myth behind its Western name.",
+    "coreSummary": "December's birth flowers are holly, whose plants grow flowers that produce fruit and flowers that produce pollen on separate plants, so that only female holly bushes with a male nearby ever produce the familiar red berries, and narcissus, specifically the paperwhite (Narcissus tazetta). The \"Holly King,\" a figure many lifestyle sites present as ancient Celtic belief, actually traces to a 1948 book by the poet Robert Graves, built from his own comparisons to older myths rather than any surviving Celtic source. And the same paperwhite species forced into bloom on US windowsills each December is, in a different subspecies grown for Lunar New Year, China's \"Chinese Sacred Lily,\" a symbol of prosperity with no link at all to the vanity myth behind its Western name.",
     "sections": [
       {
         "heading": "Holly and narcissus, the same two-flower pattern",
         "body": [
-          "The Old Farmer's Almanac, the same trade source behind the pairs this site has already covered for July through November, names holly and narcissus, specifically the paperwhite, as December's flowers. This site's [August birth flower](/august-birth-flower/) page traced why birth-flower lists keep landing on two names instead of one: birthstones got a single 1912 trade convention to settle the chart, and birth flowers never had an equivalent meeting, so competing 19th-century flower dictionaries went uncorrected and the modern lists that followed absorbed more than one nominee per month.",
+          "The Old Farmer's Almanac, the same trade source behind the pairs this site has already covered for July through November, names holly and narcissus, specifically the paperwhite, as December's flowers. This site's [August birth flower](/august-birth-flower/) page traced why birth-flower lists keep landing on two names, not a single settled favorite: birthstones got a single 1912 trade convention to settle the chart, and birth flowers never had an equivalent meeting, so competing 19th-century flower dictionaries went uncorrected and the modern lists that followed absorbed more than one nominee per month.",
           "December's pair carries an unusual amount of misinformation for two flowers this common. One has a real ancient Roman gift-giving custom attached to it, plus a much newer addition that regularly gets presented as if it were the same kind of ancient. The other is the same bulb behind two separate midwinter traditions, on opposite sides of the world, that landed on opposite meanings."
         ]
       },
@@ -6564,7 +6564,7 @@ export const guides: Guide[] = [
       {
         "heading": "A real Roman festival, and a king that isn't",
         "body": [
-          "Some of what gets attached to holly checks out. Ancient Romans gave holly during Saturnalia, the winter-solstice festival honoring Saturn, and those who received it hung it in their homes for protection against evil spirits, according to the Old Farmer's Almanac. Celtic peoples separately brought evergreen boughs, holly included, into their homes at the same time of year, treating the plant as a symbol of protection and of life persisting through the dark months. Christian tradition later reworked the same plant's imagery rather than replacing it: the spiny leaves came to stand for Christ's crown of thorns, the red berries for drops of his blood.",
+          "Some of what gets attached to holly checks out. Ancient Romans gave holly during Saturnalia, the winter-solstice festival honoring Saturn, and those who received it hung it in their homes for protection against evil spirits, according to the Old Farmer's Almanac. Celtic peoples separately brought evergreen boughs, holly included, into their homes at the same time of year, treating the plant as a symbol of protection and of life persisting through the dark months. Christian tradition later built on the same plant's imagery without discarding it: the spiny leaves came to stand for Christ's crown of thorns, the red berries for drops of his blood.",
           "The \"Holly King,\" a figure many lifestyle and florist articles present as part of that same ancient Celtic belief system, doesn't come from any ancient Celtic source. Per Wikipedia's account of the Holly King and Oak King, the pairing first appears in the poet Robert Graves's 1948 book The White Goddess, where Graves built the figure out of his own comparisons to older paired-hero myths, Lleu Llaw Gyffes and Gronw Pebr among them, and out of ideas James Frazer had laid out decades earlier in The Golden Bough. Wiccan writers Stewart and Janet Farrar folded the Holly King into modern seasonal ritual decades later, in their 1981 book Eight Sabbats for Witches, and it's that 20th-century synthesis, not a surviving ancient text, that most current \"Holly King\" content actually traces back to."
         ]
       },
@@ -6592,34 +6592,34 @@ export const guides: Guide[] = [
         "heading": "December's other reference points",
         "body": [
           "For the gemstone side of a December birthday, this site's [December birthstone](/december-birthstone/) page covers the month's three official stones, turquoise, zircon, and tanzanite, and why blue topaz, despite heavy retail marketing, isn't actually one of them.",
-          "And for why birth-flower lists, unlike birthstone lists, tend to run in pairs rather than a single flower, this site's [November birth flower](/november-birth-flower/) page traces that gap back to the same absent 1912-style trade convention this page opened with."
+          "And for why birth-flower lists, unlike birthstone lists, tend to run in pairs and skip a single settled choice, this site's [November birth flower](/november-birth-flower/) page traces that gap back to the same absent 1912-style trade convention this page opened with."
         ]
       }
     ],
     "faq": [
       {
         "question": "What is December's birth flower?",
-        "answer": "Holly and narcissus, specifically the paperwhite, per The Old Farmer's Almanac. Like most months on a modern birth-flower list, December carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
+        "answer": "Holly, plus narcissus in its paperwhite form, is the pairing the Almanac lists for December. Like most months on a modern birth-flower list, December carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
       },
       {
         "question": "Why do some holly bushes never grow berries?",
-        "answer": "Holly is usually dioecious: an individual plant produces either pollen flowers or fruit flowers, rarely both. Only female plants grow the red berries, and only when a male plant grows nearby to fertilize them, per Wikipedia's entry on Ilex aquifolium."
+        "answer": "Holly plants typically carry pollen flowers and fruit flowers on separate individuals, rarely both on one plant. It takes a female specimen to set the red berries, and even then a male has to be near enough to do the pollinating, per Wikipedia's plant profile."
       },
       {
         "question": "Is the \"Holly King\" an ancient Celtic tradition?",
-        "answer": "No. The Holly King and Oak King pairing first appears in poet Robert Graves's 1948 book The White Goddess, built from his own comparisons to older myths, not from a surviving ancient Celtic source. Wiccan writers Stewart and Janet Farrar adopted the figure into modern ritual decades later, in 1981."
+        "answer": "No. The pairing comes from a 1948 book written by Robert Graves, who built it out of parallels he drew to older mythological pairs, not from any real ancient Celtic text. A pair of Wiccan authors wove the figure into their own ritual writing a few decades afterward, in the early 1980s."
       },
       {
         "question": "Where does the name \"narcissus\" come from?",
-        "answer": "From Ovid's Metamorphoses, where the youth Narcissus falls in love with his own reflection and wastes away into the flower that bears his name. The word's exact origin is otherwise unknown, but it's often linked to the ancient Greek narkō, \"to make numb,\" the same root behind \"narcotic.\""
+        "answer": "The name comes from a myth the Roman poet Ovid recorded: a vain youth becomes so transfixed by his own image in a pool of water that he cannot pull away, and slowly withers into the flower that now bears his name. Nobody has settled the word's actual origin, though a Greek root meaning \"to make numb,\" narkō, is a common guess; \"narcotic\" descends from that same root."
       },
       {
         "question": "Are paperwhite narcissus bulbs poisonous?",
-        "answer": "Yes. Every part of the paperwhite is poisonous, with the bulb generally the most toxic part, per The Old Farmer's Almanac. Toxin distribution varies across the genus, though: a related species, Narcissus papyraceus, carries roughly five times more alkaloid in its stem than its bulb."
+        "answer": "Yes. The Almanac lists the whole paperwhite plant as toxic and singles out the bulb as generally carrying the heaviest concentration. Toxin distribution varies across the genus, though: one close relative packs a fivefold-greater share of the toxin into its stem than into its bulb, per Wikipedia."
       },
       {
         "question": "Is the December paperwhite connected to Chinese New Year?",
-        "answer": "Yes. The paperwhite's species, Narcissus tazetta, reached China as early as 690 CE, and a subspecies grown there, the \"Chinese Sacred Lily,\" is a favored Lunar New Year flower symbolizing prosperity, forced into bloom the same way as Western Christmas paperwhites but carrying an entirely separate meaning."
+        "answer": "Yes. This flower has been grown in China since around the seventh century CE too, and a Chinese-grown subspecies known as the Chinese Sacred Lily is thought to bring good fortune when it flowers around Lunar New Year, coaxed into bloom using the same forcing method growers in the West use on Christmas bulbs, but carrying an entirely separate meaning."
       }
     ],
     "sources": [
@@ -9820,7 +9820,7 @@ export const guides: Guide[] = [
     "coreSummary": "National Bullying Prevention Month covers all of October, every year, in the United States. PACER's National Bullying Prevention Center founded it in 2006 as a one-week event and expanded it to the full month in 2010. No president has ever issued a proclamation for it, unlike several other federally proclaimed October observances; federal involvement has instead come through Department of Education guidance and ongoing content from the HHS site StopBullying.gov. The month also overlaps, confusingly, with two other named bullying-prevention observances run by different organizations: STOMP Out Bullying's World Day of Bullying Prevention on the first Monday of October, and UNESCO's International Day against Violence and Bullying at School in early November.",
     "dateRule": {
       "kind": "fixed",
-      "text": "All of October, every year, from October 1 through October 31, rather than a single date or a floating week within the month.",
+      "text": "All of October, every year, from October 1 through October 31. It is not a single date or a floating week within the month.",
       "source": {
         "label": "PACER's National Bullying Prevention Center: Promote National Bullying Prevention Month",
         "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
@@ -9851,11 +9851,11 @@ export const guides: Guide[] = [
           "weekday": "Wednesday"
         }
       ],
-      "caveat": "There is no rival date range to sort out here: PACER, StopBullying.gov, and every school district and advocacy group consulted here agree the entire month of October is National Bullying Prevention Month, so the table lists October 1 as each year's start with the observance running through October 31. The name varies more than the dates. Federal agencies, including HHS's StopBullying.gov and the CDC, generally call it National Bullying Prevention Awareness Month; the District of Columbia's Office of the State Superintendent of Education shortens it to Bullying Prevention Awareness Month. All three names describe the same October observance, not different days. Inside the month, PACER's own signature event, Unity Day, adds a second layer of date confusion: PACER's FAQ describes it as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" which holds for 2023 (October 18), 2024 (October 16), and 2026 (October 21), but not for 2025, when PACER itself set Unity Day for October 22, the fourth Wednesday, not the third. Separately, two other organizations run their own named bullying-prevention observances inside overlapping but distinct dates: STOMP Out Bullying's trademarked World Day of Bullying Prevention falls on the first Monday of October (October 5 in 2026) and calls for wearing blue, while UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month entirely. None of the three organizations coordinates its date or color scheme with the others."
+      "caveat": "There is no rival date range to sort out here: PACER, StopBullying.gov, and every school district and advocacy group consulted here agree the entire month of October is National Bullying Prevention Month, so the table lists October 1 as each year's start with the observance running through October 31. The name varies more than the dates. Federal agencies, including HHS's StopBullying.gov and the CDC, generally call it National Bullying Prevention Awareness Month; the District of Columbia's Office of the State Superintendent of Education shortens it to Bullying Prevention Awareness Month. All three names describe the same October observance, not different days. Inside the month, PACER's signature event, Unity Day, adds a second layer of date confusion: PACER's FAQ describes it as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" which holds for 2023 (October 18), 2024 (October 16), and 2026 (October 21), but not for 2025, when PACER itself set Unity Day for October 22, the fourth Wednesday, not the third. Separately, two other organizations run their own named bullying-prevention observances inside overlapping but distinct dates: STOMP Out Bullying's trademarked World Day of Bullying Prevention falls on the first Monday of October (October 5 in 2026) and calls for wearing blue, while UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month entirely. None of the three organizations coordinates its date or color scheme with the others."
     },
     "founding": {
       "status": "documented",
-      "text": "PACER's National Bullying Prevention Center states plainly on its own site that it \"founded NBPM in 2006 as a week-long event; it became a month-long one in 2010,\" expanding through partnerships with the National PTA, the American Federation of Teachers, and the National Education Association. That 2006 founding year is independently corroborated: a White House blog post published October 29, 2014, under the byline of Taryn Williams, then Associate Director of the Office of Public Engagement, opens by noting \"this October marks the 8th anniversary of National Bullying Prevention Awareness Month. Begun in 2006...\" The White House blog post makes no reference to PACER's own materials, yet lands on the identical year. The month's signature event, Unity Day, came later and separately: PACER's own Unity Day page states it \"started by PACER's National Bullying Prevention Center in October 2011.\" No search of the archived White House record, across the Obama, Trump, and Biden administrations, turns up a formal presidential proclamation specifically for National Bullying Prevention Month, in contrast to observances such as Domestic Violence Awareness Month, which Congress designated by name in 1989. The closest the federal government has come is agency-level action: the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" guidance letter on bullying and disability law on October 21, 2014, timed to the month, and HHS's StopBullying.gov has published October recognition content since at least 2015.",
+      "text": "PACER's National Bullying Prevention Center states plainly on its own site that it \"founded NBPM in 2006 as a week-long event; it became a month-long one in 2010,\" expanding through partnerships with the National PTA, the American Federation of Teachers, and the National Education Association. That 2006 founding year is independently corroborated: a White House blog post published October 29, 2014, under the byline of Taryn Williams, then Associate Director of the Office of Public Engagement, opens by noting \"this October marks the 8th anniversary of National Bullying Prevention Awareness Month. Begun in 2006...\" The White House blog post makes no reference to PACER's materials, yet lands on the identical year. The month's signature event, Unity Day, came later and separately: PACER's own Unity Day page states it \"started by PACER's National Bullying Prevention Center in October 2011.\" No search of the archived White House record, across the Obama, Trump, and Biden administrations, turns up a formal presidential proclamation specifically for National Bullying Prevention Month, in contrast to observances such as Domestic Violence Awareness Month, which Congress designated by name in 1989. The closest the federal government has come is agency-level action: the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" guidance letter on bullying and disability law on October 21, 2014, timed to the month, and HHS's StopBullying.gov has published October recognition content since at least 2015.",
       "source": {
         "label": "PACER's National Bullying Prevention Center: Promote National Bullying Prevention Month",
         "url": "https://www.pacer.org/bullying/nbpm/spreadtheword/promote-nbpm/"
@@ -9866,7 +9866,7 @@ export const guides: Guide[] = [
         "heading": "What National Bullying Prevention Month is",
         "body": [
           "National Bullying Prevention Month is a monthlong observance held every October to raise awareness of bullying's effects on children and to promote school and community prevention efforts. It carries no legal holiday status: no federal law requires it, government offices and schools run on their ordinary calendar, and no day off is attached to any part of it.",
-          "The month is organized around a mix of school activities, local events, and a shared media push rather than a single ceremony. PACER's National Bullying Prevention Center, a program of the Minnesota nonprofit PACER Center, coordinates the national campaign and supplies most of the classroom and community materials that schools use, though the actual events run locally, through individual schools, districts, and advocacy groups rather than through PACER directly."
+          "The month is organized around a mix of school activities, local events, and a shared media push rather than a single ceremony. PACER's National Bullying Prevention Center, a program of the Minnesota nonprofit PACER Center, coordinates the national campaign and supplies most of the classroom and community materials that schools use, though the actual events run locally, organized by individual schools, districts, and advocacy groups, not by PACER directly."
         ]
       },
       {
@@ -9879,14 +9879,14 @@ export const guides: Guide[] = [
       {
         "heading": "Unity Day, and a \"third Wednesday\" rule that doesn't always hold",
         "body": [
-          "Unity Day is the month's signature event, five years younger than the month itself. PACER's own Unity Day page states it was \"started by PACER's National Bullying Prevention Center in October 2011,\" with a call to action that has stayed consistent since: wear and share the color orange, as a visible signal of support for students who have experienced bullying.",
-          "PACER's own FAQ describes the timing as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" and for most years that checks out: October 18 in 2023, October 16 in 2024, and October 21 in 2026 are each the third Wednesday of their respective Octobers. 2025 breaks the pattern. PACER's own affiliated Kids Against Bullying site set Unity Day for Wednesday, October 22, 2025, which is the fourth Wednesday of that October, not the third; October 15, the actual third Wednesday, was not used. PACER has not published an explanation for the departure, and nothing in the public record suggests it was anything other than a scheduling choice for that year. Readers checking a future year's date are better served by PACER's current listing than by working the \"third Wednesday\" rule out for themselves."
+          "Unity Day is the month's signature event, five years younger than the month itself. PACER's Unity Day page states it was \"started by PACER's National Bullying Prevention Center in October 2011,\" with a call to action that has stayed consistent since: wear and share the color orange, as a visible signal of support for students who have experienced bullying.",
+          "PACER's own FAQ describes the timing as \"typically held annually on the third Wednesday of National Bullying Prevention Month,\" and for most years that checks out: October 18 in 2023, October 16 in 2024, and October 21 in 2026 are each the third Wednesday of their respective Octobers. 2025 breaks the pattern. PACER's affiliated Kids Against Bullying site set Unity Day for Wednesday, October 22, 2025, which is the fourth Wednesday of that October, not the third; October 15, the actual third Wednesday, was not used. PACER has not published an explanation for the departure, and nothing in the public record suggests it was anything other than a scheduling choice for that year. Readers checking a future year's date are better served by PACER's current listing than by working the \"third Wednesday\" rule out for themselves."
         ]
       },
       {
         "heading": "Two other organizations, two other Octobers",
         "body": [
-          "Bullying prevention has more than one October observance, run by more than one organization, and the overlap is a real source of confusion rather than a minor footnote. STOMP Out Bullying, a nonprofit whose founder, Ross Ellis, identified the need in 2003 and created the organization in 2005 (a year before PACER's campaign began), runs its own trademarked World Day of Bullying Prevention® on the first Monday of every October, October 5 in 2026. Its call to action is the opposite color of PACER's: wear blue, not orange, under the hashtags #BeKind and #BlueUp. STOMP Out Bullying's own site bills the 2026 observance as the \"20th Annual World Day of Bullying Prevention,\" which puts the day's own first year at roughly 2007, about two years after the organization itself was founded, not immediately alongside it.",
+          "Bullying prevention has more than one October observance, run by more than one organization, and the overlap is a real source of confusion, not a minor footnote. STOMP Out Bullying, a nonprofit whose founder, Ross Ellis, identified the need in 2003 and created the organization in 2005 (a year before PACER's campaign began), runs its own trademarked World Day of Bullying Prevention® on the first Monday of every October, October 5 in 2026. Its call to action is the opposite color of PACER's: wear blue, not orange, under the hashtags #BeKind and #BlueUp. STOMP Out Bullying's site bills the 2026 observance as the \"20th Annual World Day of Bullying Prevention,\" which puts the day's first year at roughly 2007, about two years after the organization itself was founded, not immediately alongside it.",
           "A third, separate observance sits outside October altogether. UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, was established by unanimous vote of UNESCO's member states in 2019 and first observed in November 2020. It falls on the first Thursday of November, November 5 in 2026, making it the one observance in this cluster with an unambiguous, single-vote founding date, in contrast to the more informal, organizer-driven origins of the two October campaigns.",
           "None of the three organizations, PACER, STOMP Out Bullying, or UNESCO, coordinates its dates, colors, or messaging with either of the others. A school that wears orange for PACER's Unity Day in mid-October and is then asked about blue shirts for STOMP Out Bullying's day earlier that same month, or about a UNESCO-linked event in November, is encountering three real, independently run campaigns rather than one campaign inconsistently described."
         ]
@@ -9896,46 +9896,46 @@ export const guides: Guide[] = [
         "body": [
           "The federal government has engaged with National Bullying Prevention Month without ever formally proclaiming it. No search of the archived White House record across the Obama, Trump, and Biden administrations turns up a presidential proclamation with this observance's name, the kind of document that stands behind [Domestic Violence Awareness Month](/domestic-violence-awareness-month/), which Congress designated by name in Public Law 101-112 in 1989.",
           "What the federal government has done instead is act at the agency level. On October 21, 2014, the Department of Education's Office for Civil Rights issued a \"Dear Colleague\" letter reminding schools of their bullying-related obligations to students with disabilities under Section 504 and Title II of the Americans with Disabilities Act, timed to land inside the month. HHS's StopBullying.gov, an interagency federal website, has published October recognition posts at least since 2015 and continues to do so. That is real, sustained federal engagement, but it is engagement through guidance letters and agency web content rather than through the kind of proclamation or joint resolution that stands behind several other awareness months on this calendar, including [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) and, on a different subject entirely, [National Suicide Prevention Month](/suicide-prevention-month/), which likewise carries no proclamation of its own despite the federal government's active involvement in suicide prevention.",
-          "Within the same October calendar, [Red Ribbon Week](/red-ribbon-week/) offers a useful point of comparison: it is also a nonprofit-organized, fixed-date observance, run since 1988 by the National Family Partnership rather than by any federal agency, with the DEA supporting and promoting it without having founded it. National Bullying Prevention Month follows a similar shape, an advocacy organization's campaign that federal agencies have folded into their own annual messaging without ever taking formal ownership of the date."
+          "Within the same October calendar, [Red Ribbon Week](/red-ribbon-week/) offers a useful point of comparison: it is also a nonprofit-organized, fixed-date observance, run since 1988 by the National Family Partnership, not by any federal agency, with the DEA supporting and promoting it without having founded it. National Bullying Prevention Month follows a similar shape, an advocacy organization's campaign that federal agencies have folded into their own annual messaging without ever taking formal ownership of the date."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is National Bullying Prevention Month?",
-        "answer": "All of October, every year, in the United States. It is not a single date or a floating week; the observance runs from October 1 through October 31."
+        "answer": "The entire month, every year, across the United States: from the 1st through the 31st of October, with no single day or moving week involved."
       },
       {
         "question": "Who founded National Bullying Prevention Month?",
-        "answer": "PACER's National Bullying Prevention Center, a program of the Minnesota nonprofit PACER Center. It founded the campaign in 2006 as a one-week event and expanded it to the full month in 2010, with partnerships from the National PTA, the American Federation of Teachers, and the National Education Association."
+        "answer": "PACER's flagship program for addressing this issue, based in Minnesota under the PACER Center nonprofit. It started the campaign as a single week in 2006, then stretched it into the full month four years later, with three major teaching and parent organizations signing on as partners."
       },
       {
         "question": "Is National Bullying Prevention Month a federal holiday or a presidential proclamation?",
-        "answer": "No. No search of the archived White House record turns up a presidential proclamation specifically for this observance, and no federal law establishes it. Federal engagement has come through Department of Education guidance and HHS's StopBullying.gov content, not through a proclamation or congressional designation."
+        "answer": "No. A search across three straight presidential administrations finds no formal White House proclamation for this observance, and no federal law establishes it either. Washington has engaged through an Education Department guidance letter and ongoing StopBullying.gov content from HHS, not through a proclamation or congressional designation."
       },
       {
         "question": "What is Unity Day, and when is it in 2026?",
-        "answer": "Unity Day is National Bullying Prevention Month's signature event, started by PACER's National Bullying Prevention Center in October 2011. Participants wear and share the color orange. In 2026, PACER has set Unity Day for Wednesday, October 21."
+        "answer": "It's PACER's flagship event inside the month, launched in October 2011, five years after the broader observance began. Participants show support by wearing orange. PACER has scheduled the 2026 edition for October 21, a Wednesday."
       },
       {
         "question": "Is Unity Day always the third Wednesday of October?",
-        "answer": "Usually, but not always. PACER's own FAQ describes it that way, and 2023, 2024, and 2026 all match a third-Wednesday rule. In 2025, however, PACER set Unity Day for October 22, the fourth Wednesday of that October, not the third, without a published explanation for the exception."
+        "answer": "Usually, but not always. PACER states that rule on its own site, and 2023, 2024, and 2026 all match a third-Wednesday pattern. In 2025, however, PACER picked October 22 instead, one week later than the rule would predict, and PACER has never said why."
       },
       {
         "question": "Is National Bullying Prevention Month the same as World Day of Bullying Prevention?",
-        "answer": "No. They are separate observances run by different organizations. National Bullying Prevention Month, founded by PACER in 2006, covers all of October and centers on orange-themed Unity Day. World Day of Bullying Prevention® is a trademarked campaign of STOMP Out Bullying, a separate nonprofit founded in 2005, observed on the first Monday of October (October 5 in 2026) with a call to wear blue rather than orange."
+        "answer": "No, two separate groups run these. This page's PACER-founded campaign runs October 1 to 31 and centers on orange-themed Unity Day. A different nonprofit called STOMP Out Bullying runs the rival event, founded in 2005. It lands on the year's first October Monday (the 5th in 2026) and asks participants to wear blue rather than orange."
       },
       {
         "question": "Is National Bullying Prevention Month the same as UNESCO's bullying prevention day?",
-        "answer": "No. UNESCO's International Day against Violence and Bullying at School, including Cyberbullying, falls on the first Thursday of November (November 5 in 2026), a different month, and was established by a unanimous vote of UNESCO member states in 2019, first observed in 2020. It is a distinct, internationally coordinated observance, not part of PACER's October campaign."
+        "answer": "No. UNESCO's global observance, which covers school violence and cyberbullying together, lands on November 5th, 2026, a full month after PACER's campaign. The organization's full membership adopted it by unanimous vote back in 2019, with the first observance following in 2020. It is a distinct, internationally coordinated observance, not part of PACER's October campaign."
       },
       {
         "question": "Is \"Anti-Bullying Day\" the same as National Bullying Prevention Month?",
-        "answer": "No, and \"Anti-Bullying Day\" itself refers to more than one thing. The UK's Anti-Bullying Week, organized by the Anti-Bullying Alliance since 2004, runs the third week of November, separate from PACER's US-based National Bullying Prevention Month covered on this page, from STOMP Out Bullying's October World Day of Bullying Prevention, and from Canada's Pink Shirt Day, held the last Wednesday of February."
+        "answer": "No, and \"Anti-Bullying Day\" itself refers to more than one thing. The UK's Anti-Bullying Week, organized by the Anti-Bullying Alliance since 2004, runs the third week of November. That's separate from PACER's US campaign covered on this page, separate from the blue-themed October event that STOMP Out Bullying runs, and separate again from Canada's Pink Shirt Day, held the last Wednesday of February."
       },
       {
         "question": "What is the theme for Anti-Bullying Week in 2026?",
-        "answer": "\"Break the Silence.\" The Anti-Bullying Alliance, which runs the UK's Anti-Bullying Week (November 16-20 in 2026), built the theme around more than 200 children and young people describing the silence that often surrounds being bullied. It's a separate British campaign from National Bullying Prevention Month, which PACER runs in the U.S."
+        "answer": "\"Break the Silence.\" The Anti-Bullying Alliance, which runs the UK's Anti-Bullying Week (November 16-20 in 2026), built the theme around more than 200 children and young people describing the silence that often surrounds being bullied. It's a separate British campaign from the PACER-run US observance covered on this page."
       },
       {
         "question": "How can bullying be prevented?",
@@ -11041,7 +11041,7 @@ export const guides: Guide[] = [
     "coreSummary": "September's full moon is the Corn Moon every year; in 2026 it falls on Saturday, September 26, at 12:49 p.m. Eastern time, according to the U.S. Naval Observatory. It also carries the separate Harvest Moon title in 2026, but the two names split about once every three years, most recently due in 2028, when the Harvest Moon shifts to October and September's full moon keeps only the Corn Moon name.",
     "dateRule": {
       "kind": "table",
-      "text": "September's full moon, every year. The exact date moves with the lunar cycle rather than sitting on a fixed calendar day.",
+      "text": "September's full moon, every year. The exact date moves with the lunar cycle, not a fixed calendar day.",
       "status": "documented",
       "source": {
         "label": "The Old Farmer's Almanac: Full Moon Names",
@@ -11073,7 +11073,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "No individual is credited with coining \"Corn Moon,\" and the earliest written record doesn't get much more specific than a nationality-free \"the Indians.\" Captain Jonathan Carver, born in the Province of Massachusetts Bay in 1710, traveled through the Great Lakes and northern Mississippi Valley in the 1760s and spent time with Dakota, Ojibwe, and Ho-Chunk communities, then published a list of twelve lunar month names in his 1778 travel book, written after he had relocated to England. September appears on it as \"Corn Moon.\" Carver doesn't say which of the people he traveled with told him this, or name a specific nation for most entries on the list; attributing customs broadly to \"the Indians\" rather than to a named source was his habit throughout the book. The Old Farmer's Almanac carried Carver's \"Corn Moon\" into the 12-name list it has published since 1964, which is the version still printed on American calendars today. Separately, the Western Abenaki and Dakota have their own documented names for the same lunar month, Corn Maker Moon and Corn Harvest Moon, neither a translation of Carver's English label.",
+      "text": "No individual is credited with coining \"Corn Moon,\" and the earliest written record doesn't get much more specific than a nationality-free \"the Indians.\" Captain Jonathan Carver, born in the Province of Massachusetts Bay in 1710, traveled through the Great Lakes and northern Mississippi Valley in the 1760s and spent time with Dakota, Ojibwe, and Ho-Chunk communities, then published a list of twelve lunar month names in his 1778 travel book, written after he had relocated to England. September appears on it as \"Corn Moon.\" Carver doesn't say which of the people he traveled with told him this, or name a specific nation for most entries on the list; attributing customs broadly to \"the Indians\" without naming a specific source was his habit throughout the book. The Old Farmer's Almanac carried Carver's \"Corn Moon\" into the 12-name list it has published since 1964, which is the version still printed on American calendars today. Separately, the Western Abenaki and Dakota have their own documented names for the same lunar month, Corn Maker Moon and Corn Harvest Moon, neither a translation of Carver's English label.",
       "source": {
         "label": "History.com: How Are Full Moons Named?",
         "url": "https://www.history.com/articles/full-moons-naming-native-american"
@@ -11084,7 +11084,7 @@ export const guides: Guide[] = [
         "heading": "When the Corn Moon falls in 2026",
         "body": [
           "The full moon that lands in September carries the name Corn Moon every year, and in 2026 that night is Saturday, September 26. The U.S. Naval Observatory puts the moment of exact fullness at 12:49 p.m. Eastern time (16:49 UTC), a figure the Old Farmer's Almanac reports independently and matches to the minute. Like every full moon date, this one moves with the lunar cycle rather than sitting on a fixed spot on the calendar, so next year's date has to be checked rather than assumed.",
-          "That's easy to see one year out: in 2027 the Corn Moon falls on Wednesday, September 15, eleven days earlier in the month than in 2026. This kind of drift is normal for any full moon tied to a calendar month instead of a fixed date. A lunar cycle runs about 29.5 days, which adds up to roughly eleven fewer days than a 365-day year across twelve full moons, so the date creeps earlier from one year to the next. About once every two to three years that drift is enough to squeeze a second full moon into a single calendar month, an event usually called a Blue Moon. The Almanac's own 2026 calendar already has one, in May."
+          "That's easy to see one year out: in 2027 the Corn Moon falls on Wednesday, September 15, eleven days earlier in the month than in 2026. This kind of drift is normal for any full moon tied to a calendar month, not a fixed date. A lunar cycle runs about 29.5 days, which adds up to roughly eleven fewer days than a 365-day year across twelve full moons, so the date creeps earlier from one year to the next. About once every two to three years that drift is enough to squeeze a second full moon into a single calendar month, an event usually called a Blue Moon. The Almanac's 2026 calendar already has one, in May."
         ]
       },
       {
@@ -11112,34 +11112,34 @@ export const guides: Guide[] = [
         "heading": "Why the moon seems to rise at nearly the same time several nights running",
         "body": [
           "Full moons always rise close to sunset, and on an ordinary night the moon rises about fifty minutes later than it did the previous night, working its way around a full cycle over about a month. Around whichever full moon falls nearest the autumn equinox, that daily delay shrinks to only twenty to twenty-five minutes for several nights running, at mid-northern latitudes like most of the continental United States. EarthSky attributes this to the moon's path across the sky making an unusually shallow angle with the horizon in autumn, so each night's moonrise point shifts less and the moon climbs into view sooner after sunset than the usual fifty-minute gap would predict.",
-          "That shortened gap is why farmers historically valued this particular full moon: several nights of near-continuous light right after sunset, instead of the usual stretch of full darkness between dusk and moonrise, meant extra time to finish bringing in a harvest. The effect follows whichever full moon holds the Harvest Moon title in a given year, not September specifically, so in a split year like 2028 it shows up around the October 3 full moon rather than the September 3 Corn Moon. For a look at what else the month carries, [September's birthstone is sapphire](/september-birthstone/) and [its birth flowers are aster and morning glory](/september-birth-flower/); the calendar keeps moving into [October's own crowded lineup of observances](/national-days-in-october/) right behind it."
+          "That shortened gap is why farmers historically valued this particular full moon: several nights of near-continuous light right after sunset, in place of the usual stretch of full darkness between dusk and moonrise, meant extra time to finish bringing in a harvest. The effect follows whichever full moon holds the Harvest Moon title in a given year, not September specifically, so in a split year like 2028 it shows up around the October 3 full moon, not the September 3 Corn Moon. For a look at what else the month carries, [September's birthstone is sapphire](/september-birthstone/) and [its birth flowers are aster and morning glory](/september-birth-flower/); the calendar keeps moving into [October's crowded lineup of observances](/national-days-in-october/) right behind it."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is the Corn Moon in 2026?",
-        "answer": "Saturday, September 26, 2026, reaching exact fullness at 12:49 p.m. Eastern time (16:49 UTC). The U.S. Naval Observatory and the Old Farmer's Almanac both report this figure."
+        "answer": "September 26, 2026, a Saturday, hits its precise full moment at 16:49 UTC (12:49 p.m. Eastern), a figure two independent sources agree on down to the minute."
       },
       {
         "question": "Is the Corn Moon the same as the Harvest Moon?",
-        "answer": "Usually, but not automatically. Harvest Moon is a separate title that goes to whichever full moon, September's or October's, falls closest to the autumn equinox; most years that's September's Corn Moon, which is why the two names get treated as interchangeable. In 2026 they fall on the same night, September 26. The titles split in years like 2028, when October's full moon sits closer to the equinox and keeps the Harvest Moon name on its own."
+        "answer": "Most years, yes, though the pairing isn't automatic. Each year, Harvest Moon goes to whichever month's full moon lands nearer the fall equinox, September's or the one after it. September usually wins that comparison, which is why the two names get treated as interchangeable. Both fall on 2026's single night of September 26. Those titles split in years like 2028, when October ends up the nearer one and carries the Harvest Moon name by itself."
       },
       {
         "question": "Where does the name Corn Moon come from?",
-        "answer": "The earliest written record traces to Captain Jonathan Carver's 1778 travel book, which lists a set of month names he attributed generally to Native peoples he had traveled among in the Great Lakes region during the 1760s, without naming a specific source. The Old Farmer's Almanac carried Carver's Corn Moon into the 12-name list it has published since 1964. Separately, the Western Abenaki and Dakota have their own documented names for the same month, Corn Maker Moon and Corn Harvest Moon."
+        "answer": "It goes back to Jonathan Carver's travel book, published in 1778, which lists a set of month names gathered during his 1760s expedition across the Great Lakes region, without ever pinning down which specific nation gave him each one. The Almanac has run with Carver's Corn Moon since 1964, when its current 12-name list debuted. Two other nations landed on their own separate labels: Corn Maker Moon among Western Abenaki speakers, Corn Harvest Moon for the Dakota."
       },
       {
         "question": "What is September's full moon called in a year when it isn't the Harvest Moon?",
-        "answer": "Still the Corn Moon. That name is tied to the calendar month, not to the equinox, so it applies every September regardless of which moon wins the Harvest Moon title that year. In 2028, for example, the September 3 full moon is Corn Moon only; the Harvest Moon title goes to October's full moon instead."
+        "answer": "Still the Corn Moon. That name follows the calendar month rather than the equinox, so it applies every September no matter which moon ends up closer to the fall equinox. In 2028, for example, September 3's full moon keeps just its Corn Moon label; the following month's full moon picks up the Harvest Moon designation instead."
       },
       {
         "question": "Does the Corn Moon actually look bigger or more orange than other full moons?",
-        "answer": "No more than any other full moon does. EarthSky attributes the big, orange look to the moon illusion, a documented visual effect that happens whenever the moon sits low near the horizon, which is simply when people are most likely to be looking for it, shortly after sunset. It isn't a property of the Corn Moon or Harvest Moon specifically."
+        "answer": "No more than any other full moon does. EarthSky traces the big, orange appearance to the moon illusion, a documented visual effect that happens whenever the moon sits low near the horizon, which is simply when people are most likely to be looking for it, shortly after sunset. It isn't a property of the Corn Moon or Harvest Moon specifically."
       },
       {
         "question": "Will there be a Buck Moon in 2026?",
-        "answer": "Yes. Buck Moon is the customary name for July's full moon on the same Old Farmer's Almanac 12-name list this page cites for September's Corn Moon. Every year has one, since the name is tied to the calendar month rather than to a rarer astronomical event."
+        "answer": "Yes. Buck Moon is the customary name for July's full moon, drawn from the same 12-name list this page cites for September's Corn Moon. Every year has one, since the name is tied to the calendar month rather than to a rarer astronomical event."
       },
       {
         "question": "What is the Corn Moon's spiritual meaning?",

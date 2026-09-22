@@ -469,5 +469,14 @@
   "already_indexed_no_action": [],
   "quota_exceeded_attempted": [],
   "quota_used": "1 of shared account-wide daily quota"
+ },
+ {
+  "date": "2026-09-22",
+  "action": "no_candidate_skipped",
+  "reason": "今日跳过发布（Observances与Zodiac均无A档候选），无新页。老页未收录巡检（unindexed_pages.py）显示sitemap 83页、零曝光2页、未收录0——均已收录仅未获曝光。本站无可提交候选，跳过，不消耗配额。",
+  "submitted_urls": [],
+  "already_indexed_no_action": [],
+  "quota_exceeded_attempted": [],
+  "quota_used": "0（无候选可提交）"
  }
 ]

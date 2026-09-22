@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "目标文章coreSummary明确写道：'got its cancer-specific name from a Senate resolution in 2001 that asked for September, only for that year's presidential proclamation to name November instead.' — 2001年参议院要求9月，但当年总统公告命名的是11月，与桥接句'presidential proclamation named a different month entirely than the one Congress had asked for'的断言完全吻合。"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "目标文章founding部分确认：国会1989年通过Public Law 101-112指定October 1989为该纪念月，1991年再通过Public Law 102-114续期一次，此后再无同类法律续期，历任总统仅凭行政权限继续公告；且该纪念月由倡导组织National Coalition Against Domestic Violence（NCADV）发起，非药企——与桥接句'a single congressional designation in 1989, repeated once in 1991, then sustained by presidential custom alone, though its founding sat with a single advocacy nonprofit rather than a drug company'逐点吻合。"
+  }
+]

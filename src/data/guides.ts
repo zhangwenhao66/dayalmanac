@@ -353,7 +353,7 @@ export const guides: Guide[] = [
     "title": "National Daughters Day: Date, Origin, and Why Sources Disagree",
     "description": "National Daughters Day falls on September 25 in the US, but other calendars use the fourth Sunday in September. Here is which is which, and who says what.",
     "published": "2026-08-02",
-    "updated": "2026-08-04",
+    "updated": "2026-09-22",
     "coreSummary": "In the United States, National Daughters Day is observed on September 25 each year. A separate observance, International Daughters Day, falls on the fourth Sunday in September and is the date used in India. The two are separate observances and are frequently conflated. Neither is an official US holiday, and no verifiable founder has ever been identified for the September 25 date.",
     "dateRule": {
       "kind": "fixed",
@@ -413,8 +413,8 @@ export const guides: Guide[] = [
           "Three different dates circulate, and they are not simply competing answers to the same question. Two of them belong to observances that are genuinely distinct.",
           "September 25 is the American answer. National Day Calendar lists National Daughter's Day on September 25, and the large calendar aggregators that most search results surface, including National Today and Days of the Year, agree. Snopes found that US social media activity around the day settled on the last week of September, typically September 25 or 26, starting around 2015.",
           "The fourth Sunday in September is a different observance with a different name. National Day Calendar maintains a separate entry for International Daughters Day on that rule, and describes it as originating in India. This is the working date across India: in 2024, when September contained five Sundays and the fourth and last Sundays fell apart from each other, Indian coverage marked the day on Sunday, September 22, the fourth Sunday, not September 29. That settles a small ambiguity in the wording. Snopes, cited elsewhere on this page, is among the sources that call it the final Sunday; National Day Calendar's own published table for the international entry runs 22 September 2024, 28 September 2025 and 27 September 2026, which is the fourth Sunday in each case, not the last. The rule is the fourth.",
-          "October 1 appears once, in National Day Calendar's own note that the day is observed on that date in some places. The entry does not say where, and no other source consulted here supports it. Treat it as a loose end rather than a real fourth option.",
-          "The practical guidance: if you are in the US and want the date most people around you are using, September 25 is it. If you are marking the day with family in India, or you are working from an international calendar, the fourth Sunday in September is the one that will line up with everyone else. In many years the two land within days of each other, which is part of why they blur together. A different observance on this calendar moves around even more than that: [this site's National Wife Appreciation Day page](/national-wife-appreciation-day/) covers a date pinned to the third Sunday in September, shifting against the regular calendar every single year."
+          "October 1 appears once, in National Day Calendar's own note that the day is observed on that date in some places. The entry does not say where, and no other source consulted here supports it. Treat it as a loose end, not a real fourth option.",
+          "The practical guidance: if you are in the US and want the date most people around you are using, September 25 is it. If you are marking the day with family in India, or you are working from an international calendar, the fourth Sunday in September is the one that will line up with everyone else. In many years the two land within days of each other, which is part of why they blur together. This calendar has an even more mobile entry: [this site's National Wife Appreciation Day page](/national-wife-appreciation-day/) covers a date pinned to the third Sunday in September, shifting against the regular calendar every single year."
         ]
       },
       {
@@ -439,7 +439,7 @@ export const guides: Guide[] = [
         "body": [
           "International Daughters Day, the fourth Sunday in September, is the closest neighbor and the source of most of the date confusion. It is a separate listing with a separate history, not an alternative name for the September 25 day.",
           "National Son's and Daughter's Day falls on August 11 and covers children of both sexes. Its own origins are similarly murky. National Day Calendar traces an August 11 observance back to a 1988 Canadian newspaper mention and describes earlier, unrelated efforts, including a 1936 push by J. Henry Dusenberry in Missouri and a 1970s congressional request that proposed the last Sunday in January. Like National Daughters Day, it never became official.",
-          "The International Day of the Girl Child, October 11, is the one observance in this cluster with unambiguous provenance. The United Nations General Assembly adopted resolution 66/170 on December 19, 2011 to establish it. If you want a date in this territory that is documented rather than inferred, that is the one.",
+          "The International Day of the Girl Child, October 11, is the one observance in this cluster with unambiguous provenance. The United Nations General Assembly adopted resolution 66/170 on December 19, 2011 to establish it. If you want a date in this territory that is documented, not inferred, that is the one.",
           "Take Our Daughters to Work Day, which began in 1992 and later expanded to include sons, is sometimes cited as a precursor. Snopes notes it as a separate development that ran during the decades when National Daughters Day itself had vanished from American records. Food-themed observances run into an identical gap: [this site's National Nachos Day page](/national-nachos-day/) can document exactly when the dish itself was invented, 1943, while still finding no founder on record for the November 6 observance built around it."
         ]
       }
@@ -447,43 +447,43 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Daughters Day?",
-        "answer": "In the United States, National Daughters Day is observed on September 25 every year. The date does not move, so it falls on a different weekday each year. Some international calendars instead use the fourth Sunday in September for a related observance called International Daughters Day."
+        "answer": "US sources fix it at September 25, unchanged from one year to the next, so only the weekday shifts. A related occasion tracked on other calendars instead follows September's fourth Sunday, under a different name."
       },
       {
         "question": "When is National Daughters Day 2026?",
-        "answer": "Friday, September 25, 2026. The date is fixed at September 25 every year in the US and does not shift for weekends."
+        "answer": "Friday, September 25, 2026. It is a fixed US date, so it always lands on the 25th regardless of what weekday that turns out to be."
       },
       {
         "question": "When is National Daughters Day 2027?",
-        "answer": "Saturday, September 25, 2027. The date is fixed at September 25 every year in the US; only the day of the week changes."
+        "answer": "Saturday, September 25, 2027. Same fixed US date as always, just a different weekday than the year before."
       },
       {
         "question": "Is today National Daughters Day?",
-        "answer": "Only if today is September 25, since that's the fixed US date every year. In 2026, that falls on a Friday; in 2027, a Saturday. On any other day, it isn't National Daughters Day in the US, though International Daughters Day, a separate observance on the fourth Sunday in September, can fall nearby in the same month."
+        "answer": "Only on September 25, which is when the US date lands every year, a Friday in 2026 and a Saturday in 2027. Any other date in September is not it in the US, though a related occasion tracked under a different name and a different rule can fall close by in the same month."
       },
       {
         "question": "Is National Daughters Day the same as International Daughters Day?",
-        "answer": "No. They are listed as separate observances with separate dates. National Daughters Day is fixed on September 25 and is the version used in the US. International Daughters Day falls on the fourth Sunday in September and originated in India. They often land within a few days of each other, which is why they are frequently treated as one day."
+        "answer": "No, the registry that tracks both keeps them as two distinct entries. The US version sits on September 25; the India-linked version moves with the calendar, landing on whichever Sunday is the fourth one in September. Because the two dates often sit only days apart, people tend to conflate them."
       },
       {
         "question": "Who created National Daughters Day?",
-        "answer": "No one has been able to document it. National Day Calendar states on its own entry that it is still researching the origins, and Snopes concluded in 2021 that the origins of the late-September observance are unclear. The commonly repeated claim that the Indian greeting card company Archies Limited created it in 2007 refers to the Indian observance on the fourth Sunday in September, and in the 2007 interview behind that claim the company took only partial credit for the idea."
+        "answer": "Nobody has documented a founder. The registry itself admits its research into the origin is still ongoing, and Snopes reached the same conclusion in its 2021 review. The story that gets repeated everywhere, crediting Archies, an Indian greeting-card company, with starting the day in 2007, actually describes the fourth-Sunday India observance, and in that same 2007 interview, the company's own director claimed only part of the credit."
       },
       {
         "question": "Is National Daughters Day an official US holiday?",
-        "answer": "No. It has no presidential proclamation and no act of Congress behind it, and it is not a federal holiday. Nothing closes and no one gets the day off. The closest it ever came to official status was in March 1950, when Representative Tom Steed of Oklahoma introduced H.R. 7938 to designate the second Sunday in April as National Daughter's Day. The bill was referred to the House Judiciary Committee and never passed."
+        "answer": "No. Congress has never passed anything establishing it, and no president has proclaimed it, so it carries no federal status. Businesses stay open and nobody gets time off. It came closest to becoming official back in March 1950, when Tom Steed, an Oklahoma congressman, put forward H.R. 7938, proposing April's second Sunday as the date instead. The House Judiciary Committee received the bill and let it die there."
       },
       {
         "question": "Why do some websites say the fourth Sunday in September?",
-        "answer": "Because they are describing the Indian and international observance rather than the American one. In India, Daughters Day falls on the fourth Sunday in September, which produced September 22 in 2024, September 28 in 2025, and September 27 in 2026. A few sources, Snopes among them, loosely describe it as the last Sunday. 2024 settles it: September had five Sundays and the day was kept on the 22nd, the fourth, not the 29th."
+        "answer": "Those sites are describing the India-linked observance, not the American one. Under that fourth-Sunday rule, the date lands on the 22nd in 2024, the 28th in 2025, and the 27th in 2026. Snopes and a few other sources call it the last Sunday instead, but the 2024 calendar shows that is imprecise: that September had five Sundays, and the day fell on the fourth one, not the fifth and final one."
       },
       {
         "question": "How is National Daughters Day different from National Son's and Daughter's Day?",
-        "answer": "They are different dates covering different groups. National Son's and Daughter's Day is on August 11 and includes children of both sexes. National Daughters Day is on September 25 in the US and is specific to daughters. Neither has official status, and the origins of both are poorly documented."
+        "answer": "Different date, different scope. The August version, kept on the 11th, includes sons alongside daughters, while the September 25 one is specific to daughters. Neither carries any official recognition, and neither has a documented founder."
       },
       {
         "question": "Is there two Daughters Day?",
-        "answer": "There are actually three related observances, not two. National Daughters Day falls on September 25 in the US; International Daughters Day, which originated in India, falls on the fourth Sunday in September; and a separate, older observance, National Son's and Daughter's Day, covers both sexes on August 11. All three get blended together because they land within weeks of each other and use overlapping names."
+        "answer": "Actually three, not two. The US date sits on September 25. The India-originated version tracks to September's fourth Sunday. And an older, broader occasion covering both sons and daughters sits on the 11th of August. All three get merged in casual use because their names overlap and their dates sit within weeks of each other."
       }
     ],
     "sources": [

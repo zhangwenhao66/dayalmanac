@@ -2942,3 +2942,12 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "escalation": null
 }
 ```
+
+## 2026-09-23 — PAA-FAQ批强收尾(交互会话，处理09-23早间批次剩余积压)
+**候选来源**：`独立站/research-db/paa_bulk_current/dayalmanac.json`，本次剩余积压仅1条候选（`1988-chinese-zodiac`/「Is Dragon lucky in 2026?」）。
+
+**处理结果**：拒绝，未新增FAQ。与现有FAQ「Is 2026 a good year for Dragons?」实质重复，同一来源（South China Morning Post《Year of the Horse 2026》生肖运势系列，Dragon篇）。已用`paa_gap.py --reject-*`登记入`paa_rejections.json`（90天冷却期）。
+
+**机械检查/去AI味检查**：本次无内容改动，不适用。
+
+**部署**：无改动，未commit。

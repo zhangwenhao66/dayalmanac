@@ -12599,5 +12599,173 @@ export const guides: Guide[] = [
         "url": "https://www.lendingtree.com/credit-cards/study/thanksgiving-higher-costs/"
       }
     ]
+  },
+  {
+    "slug": "autism-awareness-month",
+    "category": "Observances",
+    "title": "Autism Awareness Month: No Verified Founder",
+    "description": "Autism Awareness Month runs all of April. Its 1970 and 1988 founding claims aren't in any presidential archive; only a separate UN day, April 2, is documented.",
+    "published": "2026-09-23",
+    "updated": "2026-09-23",
+    "coreSummary": "Autism Awareness Month, increasingly called Autism Acceptance Month, is observed across all of April in the United States. Neither the Reagan Presidential Library's archive nor the American Presidency Project's index of presidential proclamations contains a document establishing the whole month, despite a founding story involving a 1970 National Autistic Children's Week and an 1988 Reagan proclamation that is repeated, nearly word for word, across dozens of therapy-clinic websites. What those archives document instead is a separate, narrower observance: World Autism Awareness Day, a single date, April 2, set by United Nations General Assembly Resolution 62/139 in 2007 and first observed in 2008.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "All of April, every year, by consistent custom among US autism organizations. A separate, UN-designated single day inside the month, World Autism Awareness Day, falls on April 2 specifically.",
+      "status": "conventional",
+      "source": {
+        "label": "Autism Society: Autism Acceptance Month",
+        "url": "https://autismsociety.org/autism-acceptance-month/"
+      },
+      "occurrences": [
+        { "date": "2026-04-01", "weekday": "Wednesday" },
+        { "date": "2027-04-01", "weekday": "Thursday" },
+        { "date": "2028-04-01", "weekday": "Saturday" },
+        { "date": "2029-04-01", "weekday": "Sunday" },
+        { "date": "2030-04-01", "weekday": "Monday" },
+        { "date": "2031-04-01", "weekday": "Tuesday" }
+      ],
+      "caveat": "The table above marks April 1 as each year's start, but the observance runs the full month, April 1 through April 30, in every account checked for this page; no source disputes the range itself. What is unsettled is whether any government body ever designated the whole month as a recurring annual observance. This page could not find one: not on the Autism Society's site, not in the Reagan Presidential Library's archive of 1988 proclamations, and not in the American Presidency Project's proclamation index, whose earliest autism-related entries are titled 'World Autism Awareness Day,' not 'Autism Awareness Month.' That day, April 2, does have a solid paper trail: UN General Assembly Resolution 62/139, adopted December 18, 2007, designated it starting in 2008, and US presidents have issued their own proclamations for that single date in multiple administrations since. A reader who conflates the well-documented single day with the loosely-documented full month is making exactly the mistake this page exists to sort out."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "The founding story repeated across dozens of applied-behavior-analysis clinic and calendar websites goes like this: in 1970, the Autism Society (then named the National Society for Autistic Children) held the first 'National Autistic Children's Week,' which grew into a full month, and in April 1988, President Reagan issued the first proclamation declaring National Autism Awareness Month. This page could not verify that combination against any primary record. The Reagan Presidential Library's online archive lists numerous other 1988 health-observance proclamations by name and date: Mental Illness Awareness Week, National Alzheimer's Disease Month, National Adult Immunization Week, all from the same spring and fall. No comparable autism item turns up in that same archive. The American Presidency Project's index of presidential proclamations, a separate and independently maintained catalog, shows the same gap: its earliest autism-related proclamations are titled 'World Autism Awareness Day,' issued for the single UN-designated date, not a month, and the earliest of those on record dates to the Obama administration, roughly two decades after 1988. Current material published by the Autism Society describes April as its Awareness-then-Acceptance Month but does not cite a specific 1970 or 1988 founding document either.",
+      "source": {
+        "label": "Ronald Reagan Presidential Library: Public Papers of Ronald Reagan, April 1988",
+        "url": "https://www.reaganlibrary.gov/archives/speech/public-papers-ronald-reagan-april-1988"
+      }
+    },
+    "sections": [
+      {
+        "heading": "A month with a founding story that doesn't check out",
+        "body": [
+          "April is widely called Autism Awareness Month in the United States, and increasingly Autism Acceptance Month as well. Unlike its calendar neighbor, Breast Cancer Awareness Month, which has actual congressional joint resolutions and a first presidential proclamation, Number 6202 from 1990, on the public record, no comparable government document establishing an entire 'Autism Awareness Month' turned up in either of the two primary archives checked for this page.",
+          "That gap matters because a specific, detailed founding story circulates anyway: a 1970 'National Autistic Children's Week' that supposedly grew into a full month, formalized by a Reagan proclamation in April 1988. The story is precise enough to sound checked. It has not been."
+        ]
+      },
+      {
+        "heading": "Where the 1970 and 1988 claims actually come from",
+        "body": [
+          "Searching for that founding story turns up the same two sentences, worded almost identically, across a long list of applied-behavior-analysis therapy clinics and calendar sites: a 1970 National Autistic Children's Week launched by the Autism Society, evolving into a month, then Reagan's 1988 proclamation making it official. None of those pages cite a document. None link to the Reagan Library, the Federal Register, or the Autism Society's archives. The pattern, sentence for sentence, reads like a claim that has been copied forward from site to site without being checked against a source at each step.",
+          "The Reagan Presidential Library's archive of 1988 material does not make this hard to check. It lists dozens of that year's health and awareness proclamations individually, by name: Mental Illness Awareness Week, National Alzheimer's Disease Month, National Adult Immunization Week, National Senior Citizens Day, National Adult Day Care Center Week, all from 1988. An autism proclamation from the same year, if one existed, would sit alongside them in that same archive. It does not appear there.",
+          "The American Presidency Project at UC Santa Barbara, a separate and independently compiled index of presidential documents, tells the same story from a different angle. Searching its full catalog for autism-related proclamations returns a consistent run of documents, but every one of them is titled 'World Autism Awareness Day,' not 'Autism Awareness Month,' and the earliest on record in that catalog dates to 2011, under President Obama, more than two decades after the 1988 date the online founding story claims."
+        ],
+        "image": {
+          "src": "/images/autism-awareness-month-timeline.svg",
+          "alt": "Timeline showing the Autism Society's 1965 founding, the UN's 2007 resolution creating World Autism Awareness Day, ASAN's 2011-2013 Acceptance Month campaign against Light It Up Blue, Autism Speaks dropping the word cure from its mission in 2016, the Autism Society switching to Acceptance language in 2020-2021, and a dashed marker for the widely repeated but unverified 1988 Reagan proclamation claim"
+        }
+      },
+      {
+        "heading": "What the record actually documents: one day, not one month",
+        "body": [
+          "The document that does exist is narrower and more specific than the month-long story: United Nations General Assembly Resolution 62/139, adopted December 18, 2007, after being proposed by Qatar's UN representative, Sheikha Moza bint Nasser, designated April 2 as World Autism Awareness Day, beginning the following year, 2008. It is the UN's first and, to date, only autism-specific observance.",
+          "US presidents have kept that specific single-day tradition alive; none has revived a month-long proclamation to go with it. Individual World Autism Awareness Day proclamations turn up on record in three separate administrations, with specific years confirmed under Obama, Trump, and Biden, and each one cites the UN's April 2 date directly, not a congressionally designated month. In 2026, World Autism Awareness Day falls on Thursday, April 2, inside the wider month that carries the less-documented name."
+        ]
+      },
+      {
+        "heading": "Two names, two organizations that don't fully agree",
+        "body": [
+          "The Autism Society traces its own history to 1965, when Bernard Rimland, a psychologist and parent of an autistic child, joined with Ruth C. Sullivan and other parents to found what was then called the National Society for Autistic Children. That organization, now the Autism Society, is the one most secondary accounts credit with starting the April observance, even though this page could not verify a specific founding proclamation for it.",
+          "The push to rename 'Awareness' as 'Acceptance' did not begin with that organization, though. The Autistic Self Advocacy Network (ASAN), a nonprofit run by and for autistic adults, built its own Autism Acceptance Month campaign starting around 2011 and 2013, explicitly framed as a counterweight to Autism Speaks' better-funded, awareness-focused Light It Up Blue campaign, which the network and other self-advocates criticized for treating autism as a crisis to be solved rather than a form of neurological difference to be accommodated. Autism Speaks itself shifted its own position years later: in 2016, following sustained pressure from autistic self-advocates, the organization removed the word 'cure' from its mission statement entirely, according to reporting at the time from Disability Scoop, a news outlet focused on developmental disability.",
+          "The Autism Society made its own switch more recently still, and more formally: materials published by the organization state it first used 'Acceptance' in place of 'Awareness' in 2020 and actively encouraged media outlets to follow suit starting in 2021. Autism Speaks, by contrast, continues to run its April campaign under the name World Autism Month and keeps the Light It Up Blue name active, even as its own materials now describe the campaign using both 'awareness' and 'acceptance' language side by side. The result is that April is called two different things by two organizations that do not fully agree with each other about which name fits, not a settled rename that stuck everywhere at once."
+        ]
+      },
+      {
+        "heading": "The puzzle piece and the infinity symbol carry the same disagreement",
+        "body": [
+          "The same awareness-versus-acceptance split shows up in the symbol used for the observance, not just its name. The puzzle-piece ribbon traces to 1963, designed by Gerald Gasson, a parent serving on the board of the UK's National Autistic Society, whose original logo depicted a crying child inside a puzzle piece; board members at the time explained the choice as reflecting autism's status as a 'puzzling condition.' No autistic person had input into that design, because organized autism self-advocacy did not yet exist.",
+          "Many autistic adults have since rejected the puzzle piece specifically because it implies a person is an incomplete picture, missing a piece that needs to be found. The alternative preferred by much of the autistic community is a rainbow or gold infinity symbol, used to represent the concept of neurodiversity, the idea that a range of neurological differences, autism among them, is a form of human variation rather than a deficit. This page's header image uses that infinity symbol, not the older puzzle piece, for the same reason the rest of this page separates documented facts from repeated claims: it is the version of the symbol autistic people themselves have organized around, not the one designed for them without their input six decades ago."
+        ]
+      },
+      {
+        "heading": "What this pattern says about April's crowded calendar of causes",
+        "body": [
+          "This site has covered a cluster of health and civil-society observances that reach their current shape through the same kind of layered, contested process rather than one clean founding. [World Mental Health Day](/world-mental-health-day/) sits inside a six-week stretch alongside two other mental-health dates founded by three entirely separate organizations in three separate years, easy to conflate but never the same observance. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) does have the government paper trail this page could not find for autism, and still carries an unresolved dispute over whether a health charity or a drug company founded it first, and in which year. [World Teachers' Day](/world-teachers-day/) shows the same shape again from a different angle: four countries running four separate teacher-honoring traditions under overlapping names, decades apart, none of them derived from the others.",
+          "Autism Awareness Month fits that same pattern with one additional wrinkle this page has not found repeated elsewhere on this site: a specific, widely circulated founding date that two separate presidential archives, checked directly, simply do not contain."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Autism Awareness Month in 2026?",
+        "answer": "It spans the whole of April 2026, the 1st through the 30th, with no single anchor weekday to track."
+      },
+      {
+        "question": "Is Autism Awareness Month the same thing as World Autism Awareness Day?",
+        "answer": "No. The single-day observance was created by the United Nations, which adopted the resolution behind it in December 2007, and lands on the same fixed date every year. The whole-month version is a US custom whose own founding record this page was unable to confirm."
+      },
+      {
+        "question": "When is World Autism Awareness Day in 2026?",
+        "answer": "Thursday, April 2, 2026, the fixed date the United Nations set in Resolution 62/139. It lands during the spring's broader monthlong observance but keeps its own separate paper trail."
+      },
+      {
+        "question": "Did Ronald Reagan really declare Autism Awareness Month in 1988?",
+        "answer": "Not as far as this page could confirm. The Reagan Library's own archive catalogs many of that spring's other health observances one by one, yet skips over an autism entry entirely; a second, unrelated repository of White House records comes up empty on the topic before the Obama years, too."
+      },
+      {
+        "question": "Who founded Autism Awareness Month?",
+        "answer": "Nobody this page could confirm. Plenty of writeups point to the group Bernard Rimland and Ruth C. Sullivan started with other parents in 1965, but no document naming that group as the whole month's founder turned up anywhere in the primary record."
+      },
+      {
+        "question": "Why do some organizations call it Autism Acceptance Month instead?",
+        "answer": "Autistic-led advocates got there first: ASAN, an advocacy group led by autistic adults, ran its own acceptance-branded April push as early as 2011, well before Autism Speaks softened any of its own branding. The older, parent-founded Autism Society only picked up the word roughly a decade after that, and only began asking the press to switch over the year after."
+      },
+      {
+        "question": "Does Autism Speaks call April Awareness Month or Acceptance Month?",
+        "answer": "Mostly awareness. The nonprofit still brands its spring push under its longstanding blue-themed banner, folding in a bit of the newer wording without fully swapping the name over. It did stop describing its goal as a \"cure\" back in 2016, after years of pushback from ASAN and other advocates who are autistic themselves."
+      },
+      {
+        "question": "What color is associated with Autism Awareness Month?",
+        "answer": "Blue, tied to a long-running lighting campaign run by Autism Speaks. Groups aligned with the acceptance framing tend to favor an infinity emblem in rainbow or gold shades instead of any single campaign color."
+      },
+      {
+        "question": "Is Autism Awareness Month a federal holiday?",
+        "answer": "No. It carries no paid leave or office closures. It is marked through proclamations, nonprofit campaigns, and local events, not a legal holiday."
+      }
+    ],
+    "sources": [
+      {
+        "label": "United Nations: World Autism Awareness Day, background",
+        "url": "https://www.un.org/en/observances/autism-day/background"
+      },
+      {
+        "label": "Wikipedia: World Autism Awareness Day",
+        "url": "https://en.wikipedia.org/wiki/World_Autism_Awareness_Day"
+      },
+      {
+        "label": "Ronald Reagan Presidential Library: Public Papers of Ronald Reagan, April 1988",
+        "url": "https://www.reaganlibrary.gov/archives/speech/public-papers-ronald-reagan-april-1988"
+      },
+      {
+        "label": "The American Presidency Project (UC Santa Barbara): Proclamation 10725, World Autism Awareness Day, 2024",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-10725-world-autism-awareness-day-2024"
+      },
+      {
+        "label": "Autism Society: Autism Acceptance Month",
+        "url": "https://autismsociety.org/autism-acceptance-month/"
+      },
+      {
+        "label": "Wikipedia: Autism Society of America",
+        "url": "https://en.wikipedia.org/wiki/Autism_Society_of_America"
+      },
+      {
+        "label": "Wikipedia: Autistic Self Advocacy Network",
+        "url": "https://en.wikipedia.org/wiki/Autistic_Self_Advocacy_Network"
+      },
+      {
+        "label": "Disability Scoop: Autism Speaks No Longer Seeking Cure (Oct. 14, 2016)",
+        "url": "https://www.disabilityscoop.com/2016/10/14/autism-speaks-no-longer-cure/22884/"
+      },
+      {
+        "label": "Autism Speaks: World Autism Month",
+        "url": "https://www.autismspeaks.org/world-autism-month"
+      },
+      {
+        "label": "Wikipedia: National Autistic Society (puzzle-piece symbol origin)",
+        "url": "https://en.wikipedia.org/wiki/National_Autistic_Society"
+      }
+    ],
+    "image": "/images/autism-awareness-month.svg",
+    "imageAlt": "The rainbow infinity symbol used by autistic-led acceptance campaigns, a public-domain geometric shape not eligible for copyright",
+    "imageCredit": "Public domain (simple geometric shape, ineligible for copyright), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autism_spectrum_infinity_awareness_symbol.svg)"
   }
 ];

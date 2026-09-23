@@ -1,0 +1,70 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of Autism Awareness Month and its renaming to Autism Acceptance Month, 1965 to 2021</title>
+  <desc id="desc">1965: Bernard Rimland, Ruth C. Sullivan, and other parents found the Autism Society, then named the National Society for Autistic Children. 2007: the United Nations General Assembly adopts Resolution 62/139, designating April 2 as World Autism Awareness Day starting in 2008, a single-day observance separate from the whole-month tradition. 2011 to 2013: the Autistic Self Advocacy Network builds its own Autism Acceptance Month campaign as a counter to Autism Speaks' awareness-focused Light It Up Blue campaign. 2016: Autism Speaks removes the word "cure" from its mission statement after years of pressure from autistic self-advocates. 2020 to 2021: the Autism Society first uses "Acceptance" in place of "Awareness" and asks media to follow suit the next year. No primary record from the Reagan Presidential Library or the American Presidency Project's proclamation index documents the 1988 founding proclamation widely repeated online.</desc>
+  <rect width="1200" height="420" fill="#faf7f0" />
+
+  <text x="600" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#1f1d1a">One month, two names, and three organizations that don't agree</text>
+
+  <line x1="70" y1="220" x2="1130" y2="220" stroke="#e2dbcc" stroke-width="2" />
+
+  <!-- 1965 -->
+  <circle cx="120" cy="220" r="8" fill="#8a6d3b" />
+  <text x="120" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">1965</text>
+  <text x="120" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.78">
+    <tspan x="120" dy="0">Rimland, Sullivan,</tspan>
+    <tspan x="120" dy="15">and parents found</tspan>
+    <tspan x="120" dy="15">the Autism Society</tspan>
+  </text>
+
+  <!-- 2007/2008 -->
+  <circle cx="330" cy="220" r="8" fill="#a8352b" />
+  <text x="330" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#1f1d1a">
+    <tspan x="330" dy="0">2007</tspan>
+    <tspan x="330" dy="19">(observed 2008)</tspan>
+  </text>
+  <text x="330" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.78">
+    <tspan x="330" dy="0">UN Resolution 62/139</tspan>
+    <tspan x="330" dy="15">sets April 2 as World</tspan>
+    <tspan x="330" dy="15">Autism Awareness Day</tspan>
+  </text>
+
+  <!-- 2011-2013 -->
+  <circle cx="545" cy="220" r="8" fill="#5b6d45" />
+  <text x="545" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2011-13</text>
+  <text x="545" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.78">
+    <tspan x="545" dy="0">ASAN builds its own</tspan>
+    <tspan x="545" dy="15">Acceptance Month,</tspan>
+    <tspan x="545" dy="15">against Light It Up Blue</tspan>
+  </text>
+
+  <!-- 2016 -->
+  <circle cx="760" cy="220" r="8" fill="#5b6d45" />
+  <text x="760" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2016</text>
+  <text x="760" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.78">
+    <tspan x="760" dy="0">Autism Speaks drops</tspan>
+    <tspan x="760" dy="15">"cure" from its mission</tspan>
+    <tspan x="760" dy="15">statement</tspan>
+  </text>
+
+  <!-- 2020-2021 -->
+  <circle cx="975" cy="220" r="8" fill="#8a6d3b" />
+  <text x="975" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2020-21</text>
+  <text x="975" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.78">
+    <tspan x="975" dy="0">Autism Society switches</tspan>
+    <tspan x="975" dy="15">to "Acceptance" and asks</tspan>
+    <tspan x="975" dy="15">media to follow</tspan>
+  </text>
+
+  <!-- unverified 1988 marker -->
+  <circle cx="1120" cy="220" r="8" fill="none" stroke="#a8352b" stroke-width="2" stroke-dasharray="3,2" />
+  <text x="1120" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="600" fill="#a8352b">1988?</text>
+  <text x="1085" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#a8352b" opacity="0.85">
+    <tspan x="1085" dy="0">Widely repeated Reagan</tspan>
+    <tspan x="1085" dy="15">proclamation claim, not</tspan>
+    <tspan x="1085" dy="15">found in either archive</tspan>
+  </text>
+
+  <rect x="90" y="325" width="1020" height="75" rx="10" fill="#ffffff" stroke="#d6d0c4" stroke-width="1.5" />
+  <text x="600" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" font-weight="700" fill="#1f1d1a">Gold marks the Autism Society, red marks government action, green marks autistic-led advocacy</text>
+  <text x="600" y="374" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">The dashed 1988 marker is the one date this page could not verify in either presidential archive it checked.</text>
+</svg>

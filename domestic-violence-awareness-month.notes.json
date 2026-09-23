@@ -1,0 +1,17 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim: Red Ribbon Week is a grassroots campaign a nonprofit (not a federal agency) has organized every year since 1988. Target article's founding text confirms the National Family Partnership 'coordinated the first National Red Ribbon Week' in 1988 and 'has run the campaign every year since,' and its own section explicitly states 'The DEA did not organize the first National Red Ribbon Week and has never been its annual sponsor; that has been the National Family Partnership's role continuously since 1988.'"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim: National Sons Day has no federal recognition at all. Target article's body states 'Neither date is a federal holiday... unofficial in the sense that no government body established it,' and FAQ#4 states 'Neither date has federal status... no official agency, state or federal, ever put it on the books.'"
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Claim: World Mental Health Day falls on October 10 and has a founder dated to 1992. Target article's coreSummary states 'World Mental Health Day falls on October 10 every year, a worldwide observance the World Federation for Mental Health (WFMH) first held in 1992 at the initiative of its then Deputy Secretary General, Richard Hunter,' and dateRule.text confirms the fixed October 10 date."
+  }
+]

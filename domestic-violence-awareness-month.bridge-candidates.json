@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "[Red Ribbon Week](/red-ribbon-week/), observed the same month, followed almost the same arc, a grassroots campaign that a nonprofit, not a federal agency, has organized every year since 1988.",
+    "target_slug": "red-ribbon-week",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[National Sons Day](/national-sons-day/), by contrast, has no federal recognition at all, a useful reminder of how little authority actually backs most \\\"national days.\\\" [World Mental Health Day](/world-mental-health-day/), October 10, shares the month and has a founder dated to 1992.",
+    "target_slug": "national-sons-day",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "[National Sons Day](/national-sons-day/), by contrast, has no federal recognition at all, a useful reminder of how little authority actually backs most \\\"national days.\\\" [World Mental Health Day](/world-mental-health-day/), October 10, shares the month and has a founder dated to 1992.",
+    "target_slug": "world-mental-health-day",
+    "target_found": true
+  }
+]

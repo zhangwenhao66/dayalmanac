@@ -2951,3 +2951,30 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
 **机械检查/去AI味检查**：本次无内容改动，不适用。
 
 **部署**：无改动，未commit。
+
+## 2026-09-23 site-search-opportunity-refresh — title_test rollback (dayalmanac-0903-inseason-hook)
+```json
+{
+  "task": "site-search-opportunity-refresh",
+  "date": "2026-09-23",
+  "action": "title_test.py evaluate --label dayalmanac-0903-inseason-hook --days 14 → 4页ROLLBACK，1页WAIT",
+  "pages": [
+    {"slug": "september-birthstone", "impr_change": "23→3/天", "pos_change": "13.5→68.2", "ctr_ratio_change": "0.13→0.0", "verdict": "ROLLBACK 排名跌+29.9(已扣对照组噪声)"},
+    {"slug": "national-grandparents-day", "impr_change": "23→20/天", "pos_change": "22.6→52.5", "verdict": "ROLLBACK 排名跌+5.1(已扣对照)；基线top查询丢失:when is grandparents day 2026"},
+    {"slug": "national-coffee-day", "impr_change": "19→4/天", "pos_change": "26.1→67.3", "verdict": "ROLLBACK 排名跌+16.4(已扣对照)"},
+    {"slug": "national-boyfriend-day", "impr_change": "46→13/天", "pos_change": "26.0→70.1", "verdict": "ROLLBACK 排名跌+19.3(已扣对照)；基线top查询丢失:national boyfriend day 2027/boyfriends day/boyfriend day 2027"},
+    {"slug": "scorpio-dates", "impr_change": "40→46/天", "pos_change": "25.7→24.5", "verdict": "WAIT（未到判定阈值，继续观察）"}
+  ],
+  "note": "对照组7页同期曝光中位-75%/排名中位+24.8，判定已扣除该站整体噪声，4页跌幅仍显著更差；连续第2批同一改法(inseason-hook + 此前0828 date-first)出现同方向失败，'加季节钩子/年份数字改标题'这个改法在DayAlmanac站上暂不建议再用",
+  "action_taken": "4篇title逐字恢复为0903改动前原文（title_before字段，本次snapshot在change_date 2026-09-03之前的baseline窗口2026-08-04~2026-08-31内完成，非0828那次的时序bug，可直接信任title_before字段）",
+  "titles_reverted": {
+    "national-boyfriend-day": "National Boyfriend Day 2026: Saturday, Oct 3. Is It Real? → National Boyfriend Day: October 3, and Its Unverified Origin",
+    "national-coffee-day": "National Coffee Day 2026 & 2027: Sept 29, Not October 1 → National Coffee Day: September 29 in the United States",
+    "national-grandparents-day": "National Grandparents Day 2026: Sept 13, Not the 1st Sunday → National Grandparents Day: The Date Rule in US Federal Law",
+    "september-birthstone": "September Birthstones: Sapphire, or Two Stones? → September Birthstone: Sapphire, Unchanged Since 1912"
+  },
+  "matrix_title_guard": "title_guard.py stats此前已判定矩阵口径16页0KEEP，已触发熔断(data/title_test_paused.flag，2026-09-22写入)。本次运行遵守R13：只执行已到期批次的evaluate+rollback，未新起任何标题测试批次。",
+  "build": "npm run build 141页成功，无报错",
+  "next": "IndexNow重新提交4个slug；部署后绕缓存curl核实"
+}
+```

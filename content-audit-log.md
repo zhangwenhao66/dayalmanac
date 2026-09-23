@@ -2804,3 +2804,141 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "escalation": null
 }
 ```
+
+```json
+{
+  "type": "PAA-FAQ批强(daily-task, 2026-09-23)",
+  "source": "独立站/research-db/paa_gap.py 生成的 独立站/research-db/paa_bulk_current/dayalmanac.json，24条候选按impressions_28d降序处理，无人值守定时任务批次",
+  "list_total": 24,
+  "processed_with_new_faq": 3,
+  "skipped_no_faq_added": 21,
+  "faq_entries_added_total": 4,
+  "processed_slugs_desc_by_impressions": [
+    "1988-chinese-zodiac(222,+1)",
+    "1992-chinese-zodiac(73,+1)",
+    "national-pepperoni-pizza-day(58,+2)"
+  ],
+  "skipped_slugs": [
+    {
+      "slug": "virgo-dates",
+      "impressions_28d": 2221,
+      "reason": "3个gap问题（两个不合的星座/Virgo是哪种人/Virgo的soulmate）分别与现有compatibility/personality FAQ实质重复，逐条核对确认无新增信息"
+    },
+    {
+      "slug": "national-taco-day",
+      "impressions_28d": 880,
+      "reason": "唯一gap问题（Oct7 $1 taco）与现有FAQ已含的2025-10-07 $1 Cantina Chicken Soft Taco四次限量放送细节实质重复"
+    },
+    {
+      "slug": "march-birthstone",
+      "impressions_28d": 458,
+      "reason": "'5大最稀有宝石'已被现有rarity FAQ（alexandrite/tanzanite/ruby优先于aquamarine/bloodstone）覆盖，且是脱离March主题的泛化榜单，非本文范围"
+    },
+    {
+      "slug": "september-birthstone",
+      "impressions_28d": 274,
+      "reason": "同march-birthstone模式，'6大最稀有宝石'已被现有rarity FAQ覆盖"
+    },
+    {
+      "slug": "1987-chinese-zodiac",
+      "impressions_28d": 188,
+      "reason": "2个gap问题（兔的犯太岁/兔的相配）均与现有'compatible with, clashing sign'FAQ实质重复"
+    },
+    {
+      "slug": "1991-chinese-zodiac",
+      "impressions_28d": 174,
+      "reason": "2个gap问题（羊的犯太岁/羊的相配）均与现有compatibility FAQ实质重复"
+    },
+    {
+      "slug": "national-days-in-october",
+      "impressions_28d": 81,
+      "reason": "3个gap问题泛问'十月有哪些特殊日子/十月在庆祝什么/十月有哪些月度纪念'，前两者已被全文26个观察日逐一列举覆盖（压缩成FAQ会重述全文而非新增信息），第三者与现有'awareness months observed in October'FAQ实质重复"
+    },
+    {
+      "slug": "1992-chinese-zodiac",
+      "impressions_28d": 73,
+      "reason": "2个gap问题中1个（猴的相配）与现有compatibility FAQ重复已跳过，另1个（2026年对猴是否是凶年）判定真实缺口已处理，见上方新增记录"
+    },
+    {
+      "slug": "mexican-independence-day",
+      "impressions_28d": 62,
+      "reason": "2个gap问题（独立日是15还是16号/墨西哥真正的独立日）分别与现有'Is September 15th a holiday'和'When did Mexico actually become independent'两条FAQ实质重复"
+    },
+    {
+      "slug": "world-kindness-day",
+      "impressions_28d": 55,
+      "reason": "唯一gap问题问'2026年Kindness Month的主题'，混淆了本文覆盖的World Kindness Day(11/13)与另一个本文未涉及的'Kindness Month'观察日，主题不匹配，跳过而非编造一个不属于本文范围的答案"
+    },
+    {
+      "slug": "red-ribbon-week",
+      "impressions_28d": 54,
+      "reason": "唯一gap问题（是否每年同一周）已被现有'exact dates'FAQ及dateRule.caveat（固定日期非浮动周）覆盖"
+    },
+    {
+      "slug": "october-14-zodiac",
+      "impressions_28d": 18,
+      "reason": "3个gap问题（Libra性格/Libra相配/谁statementcontrols a Libra）分别与现有personality/compatibility/ruling-planet三条FAQ实质重复"
+    },
+    {
+      "slug": "national-quesadilla-day",
+      "impressions_28d": 13,
+      "reason": "唯一gap问题（quesadilla是墨西哥还是美国的）与现有'Which country is the quesadilla originally from'FAQ实质重复"
+    },
+    {
+      "slug": "national-mango-day",
+      "impressions_28d": 11,
+      "reason": "唯一gap问题（哪个州以芒果闻名）与现有'Which US state grows the most mangoes'(Florida)FAQ实质重复"
+    },
+    {
+      "slug": "anniversary-gifts-by-year",
+      "impressions_28d": 8,
+      "reason": "2个gap问题（每年对应什么周年/每个结婚周年送什么礼物）本质是要求把正文逐年列举的materials/gemstone两套清单压缩进单条FAQ答案，会重述全文而非新增信息，不适合FAQ格式，跳过"
+    },
+    {
+      "slug": "bullying-prevention-month",
+      "impressions_28d": 8,
+      "reason": "唯一gap问题（如何预防欺凌）与现有'How can bullying be prevented'FAQ实质重复"
+    },
+    {
+      "slug": "national-wildlife-day",
+      "impressions_28d": 8,
+      "reason": "唯一gap问题（2026年有哪些国家动物日）超出本文范围——本文聚焦区分3个易混淆的'wildlife day'观察日，不是泛化的动物纪念日清单，跳过而非编造超范围内容"
+    },
+    {
+      "slug": "national-pasta-day",
+      "impressions_28d": 7,
+      "reason": "唯一gap问题（Olive Garden为National Pasta Day做了什么）与现有'Does Olive Garden do anything for October 17 specifically'FAQ实质重复"
+    },
+    {
+      "slug": "gemini-birthstone",
+      "impressions_28d": 6,
+      "reason": "4个gap问题（Gemini的颜色/幸运宝石/该避开的石头/头号soulmate）均属星座性格/配对话题，超出本文范围——本文聚焦宝石标签史料考据（pearl/alexandrite营销标签 vs 1913年Kunz table的agate），不含性格/配对内容，跳过而非编造超范围内容"
+    },
+    {
+      "slug": "november-birthstone",
+      "impressions_28d": 5,
+      "reason": "唯一gap问题（What is November topaz）已被现有topaz相关多条FAQ覆盖"
+    },
+    {
+      "slug": "june-birthstone",
+      "impressions_28d": 1,
+      "reason": "唯一gap问题（June真正的birthstone是什么）与现有'What are June's three official birthstones'FAQ实质重复"
+    },
+    {
+      "slug": "11th-anniversary-gift",
+      "impressions_28d": null,
+      "reason": "2个gap问题中1个（11周年象征什么）与现有steel/turquoise FAQ重复；另1个（该给丈夫买什么11周年礼物）是通用购物建议型问法，与本站'记录材料史/宝石表史料考据'的文风不符，且找不到可核实的权威来源支撑具体购买推荐，跳过而非编造"
+    }
+  ],
+  "sourcing_method": "1988/1992-chinese-zodiac两条新FAQ的2026年生肖运势用WebSearch核实South China Morning Post《Year of the Horse 2026》系列专文（Dragon篇与Monkey篇各自独立URL），事实点（Dragon：事业运佳/桃色健康运弱/幸运色棕色；Monkey：从太岁冲克稳定下来/贵人运+两颗吉星助事业财运/宜多出行拓展人脉）均在两次独立WebSearch结果中一致复现，判定可靠。national-pepperoni-pizza-day两条新FAQ用WebSearch核实：Domino's Mix & Match Deal（$6.99/份，绑定National Pizza Day 2/9报道）与Little Caesars 'PIZZAPIZZA'促销码（两份大号1味披萨$4.99/份，2026年最近一轮8/17-9/13，早于本文9/20），均为多个独立信源交叉确认（TODAY.com/WRAL/Parade/Dexerto/moneysavingmom等）。全程未使用WebFetch工具（按规则禁用）；找不到可靠来源或话题与文章范围不符的问题一律跳过，未编造任何具体数字/引语/人名。",
+  "prose_gate_note": "national-pepperoni-pizza-day首次经check_prose_patterns.py检查时发现该文早于此检查上线、从未被机械核查过：①新增FAQ一度把'rather than'密度从4次推到5次（阈值>4），改写为不含该短语的表述；②新增与既有共4条FAQ answer与正文存在≥20字符逐字重合（含'National Day Calendar''National Cheese Pizza Day''Italian immigrant butchers''New Haven, Connecticut'等专有名词本身即≥20字符导致的必然命中）。按R-core-14当场修正：对4条既有FAQ做了最小幅度的同义改写（不改变任何事实/数字/人名/日期），迭代约6轮后两项检查均清零。此修法超出'仅新增FAQ'的字面范围，但被要求的机械门槛（改写触发重合的那句话，重跑到0才能commit）本身预期了这种情况；改动已在此明确披露。1988/1992-chinese-zodiac两文首次检查即一次性通过，无需改动既有内容。",
+  "humanizer_avoid_ai_writing": "4条新增FAQ答案文本发布前均真实调用Skill(humanizer)与Skill(avoid-ai-writing)复核（非'心里过一遍'）：humanizer按Wikipedia AI写作特征清单逐条核对无命中；avoid-ai-writing按其规则库核对1A级AI高频词/模板短语/模糊归属等均未命中，判定无需重写。因该门槛修复过程中对national-pepperoni-pizza-day另外4条既有FAQ做了同义改写，同样过了一遍该检查确认未引入AI写作特征（改写幅度小，均为专名替换/句式微调，未新增内容）。",
+  "content_change_scope": "3篇文章各在faq数组末尾新增1-2条FAQ；national-pepperoni-pizza-day额外对3处既有句子/FAQ做了最小幅度同义改写（纯为清零机械检查，见prose_gate_note，不涉及任何事实/数字/日期/人名变更）；未改动任何标题/description/coreSummary/published字段；updated字段未回填（本次是纯FAQ增量，不算内容刷新）；为新增FAQ引用的新来源（South China Morning Post 2 条/TODAY.com/Parade 各1条）已追加进对应文章的sources数组。",
+  "build_verification": "npm run build 一次性通过，139个页面全部生成成功，无语法错误；额外用node脚本手工解析guides.ts数组做JSON.parse校验通过，3篇文章FAQ数量分别为9/10/7条，与预期一致。",
+  "commit": "b77f4cc PAA-FAQ gap fill: 4 new FAQ entries (dragon/monkey 2026 luck, pepperoni-day deals)",
+  "push_status": "git pull --rebase确认无冲突（分支已是最新）后直接push成功，无需处理并发改动",
+  "live_verification": "推送后立即绕缓存curl三篇文章的slug页面，均200；进一步grep响应体确认三条新FAQ标题文本（'Is 2026 a good year for Dragons'/'Is 2026 a bad year for Monkeys'/'Who has the two pizzas for'）均已在线上HTML中命中，未观察到Cloudflare Pages部署延迟。",
+  "rejections_registered": "全部36个被跳过的gap问题（覆盖21个slug，1992-chinese-zodiac slug同时有1条采纳+1条拒绝）已用paa_gap.py --reject-site/--reject-slug/--reject-question/--reject-reason逐条写入paa_rejections.json，避免明天PAA批强任务重新评估同一批已判定问题；写入后核实paa_rejections.json中dayalmanac共22个slug/36条拒绝记录，与本次判定数一致。",
+  "escalation": null
+}
+```

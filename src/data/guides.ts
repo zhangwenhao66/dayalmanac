@@ -12395,7 +12395,7 @@ export const guides: Guide[] = [
     "title": "Holiday Spending Statistics 2026, All Sourced",
     "description": "More than 50 holiday spending statistics for 2026, each traced to NRF's, PwC's, or LendingTree's published survey, sorted by holiday, by category, and by year.",
     "published": "2026-09-13",
-    "updated": "2026-09-13",
+    "updated": "2026-09-23",
     "coreSummary": "NRF's surveys recorded new dollar-spending records in 2026 for nearly every holiday this page tracks, from $29.1 billion on Valentine's Day to $103.5 billion on college back-to-school shopping, even as PwC's newest survey (published September 2026) found average per-person gift budgets dipping 2% and millennials cutting travel spending 37% year over year.",
     "sections": [
       {
@@ -12407,7 +12407,7 @@ export const guides: Guide[] = [
           "NRF's 2026 survey put Easter spending at a record $24.9 billion, with per-person spending at a record $195.59.",
           "NRF's 2026 survey put Mother's Day spending at a record $38 billion, led by $7.5 billion on jewelry.",
           "NRF's 2026 survey put Father's Day spending at a record $27.9 billion, with 77% of consumers planning to celebrate.",
-          "NRF's most recent Halloween survey, from fall 2025, recorded $13.1 billion in spending, a record, up from $11.6 billion in 2024.",
+          "NRF's 2026 Halloween survey put spending at a record $13.5 billion, up from $13.1 billion in 2025, with 74% of consumers planning to celebrate.",
           "NRF's 2026 survey put Super Bowl spending at a record $20.2 billion, with 213.1 million US adults planning to watch.",
           "NRF's 2026 survey put K-12 back-to-school spending at a record $43.3 billion and college spending at a record $103.5 billion, the first time college spending has topped $100 billion.",
           "PwC's newest Holiday Outlook, published September 8, 2026, projects average household holiday gift spending of $708 in 2026, a 2% dip from 2025.",
@@ -12434,7 +12434,7 @@ export const guides: Guide[] = [
           "NRF's holiday-trends pages list St. Patrick's Day per-person spending at a record $47.45 in 2026, with 60% of consumers planning to celebrate, and Independence Day per-person food spending at a record $94.41, with 87% planning to celebrate the Fourth of July.",
           "NRF's 2026 Super Bowl survey put total spending on food, drinks, apparel, decorations, and other purchases at a record $20.2 billion, or $94.77 per person. A record 213.1 million US adults said they planned to watch, including 121.1 million planning to host or attend a party and another 18.2 million planning to watch at a bar or restaurant.",
           "NRF's 2026 graduation survey put total spending at a record $7.2 billion, with 39% of respondents planning to buy a gift for a high school or college graduate, and cash remains the top gift.",
-          "Halloween is the one major holiday here where 2026's own NRF number isn't out yet: NRF typically publishes its Halloween forecast in mid-to-late September, and this page will update once that survey lands. The most recent complete figure, from NRF's fall 2025 survey, put total Halloween spending at a record $13.1 billion, up from $11.6 billion in 2024 and above the previous record of $12.2 billion set in 2023. Seventy-three percent of consumers said they planned to celebrate, and average per-person spending reached a record $114.45.",
+          "NRF's 2026 Halloween survey, fielded September 1-9 among 7,889 consumers, put total spending at a record $13.5 billion, up from $13.1 billion in 2025 and $11.6 billion in 2024. Seventy-four percent of consumers said they planned to celebrate, and average per-person spending reached a record $115.14, up from $114.45 in 2025.",
           "NRF's 2026 back-to-school survey put K-12 spending at a record $43.3 billion, up from $39.4 billion in 2025, and college spending at a record $103.5 billion, the first time college spending has topped $100 billion, up from $88.8 billion in 2025. The average K-12 family plans to spend $863.86 and the average college family $1,437.79, both records."
         ]
       },
@@ -12442,7 +12442,7 @@ export const guides: Guide[] = [
         "heading": "What do people actually buy with that money, by category?",
         "body": [
           "Within NRF's 2026 Mother's Day total, jewelry leads all gift categories at $7.5 billion, followed by special outings at $6.4 billion and electronics at $4.4 billion, the first time electronics spending has topped $4 billion in the survey's history. Flowers are projected to bring in $3.2 billion. For a look at how the jewelry trade itself standardizes gift-giving on a different calendar, this site's chart of [birthstones by month](/birthstones-by-month/) checks Jewelers of America, GIA, and the American Gem Society's current lists stone by stone.",
-          "Within NRF's fall 2025 Halloween total, costumes lead at $4.3 billion, including $1.4 billion for kids and $2 billion for adults, with decorations at $4.2 billion and candy at $3.9 billion.",
+          "Within NRF's 2026 Halloween total, costumes lead at $4.4 billion, including $1.5 billion for kids' costumes, with decorations at $4.3 billion and candy at $4.1 billion.",
           "Within NRF's 2026 K-12 back-to-school total, families plan to spend $293.11 per student on electronics ($14.7 billion total), $250.29 on clothing and accessories ($12.5 billion total), $174.01 on shoes ($8.7 billion total), and $146.45 on school supplies ($7.3 billion total).",
           "Within NRF's 2026 college total, families plan to spend $341.95 per student on electronics ($24.63 billion total), $194.00 on dorm or apartment furnishings ($14.0 billion total), $182.39 on clothing and accessories ($13.1 billion total), $153.91 on food ($11.1 billion total), and $133.34 on personal care items ($9.6 billion total). This calendar's own page on [anniversary gifts by year](/anniversary-gifts-by-year/) runs into the same lack of a single governing authority from a different angle: it found two separate lists, one of traditional materials and one of modern gemstones, that disagree on what to give for most anniversary years, the same fragmented picture that shows up whenever a survey asks what people actually buy for an occasion nobody legislated."
         ]

@@ -2978,3 +2978,49 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "next": "IndexNow重新提交4个slug；部署后绕缓存curl核实"
 }
 ```
+
+```json
+{
+  "url_slug": "holiday-spending-statistics",
+  "last_audited": "2026-09-23",
+  "published_date": "2026-09-13",
+  "findings": [
+    {
+      "dimension": "时效性（本篇专属核查重点）",
+      "status": "发现真实问题并修复",
+      "detail": "文章2026-09-13发布时正文明确写NRF 2026年Halloween调查尚未发布。WebSearch+curl核实NRF官方Halloween Data and Trends页面（已在sources列表内的同一URL）已于2026-09-22更新为2026年数字。更新3处：总额$13.1B→$13.5B(新记录)、per-person $114.45→$115.14、'73%计划庆祝'→'74%计划庆祝'、costumes $4.3B→$4.4B(kids $1.4B→$1.5B，adults细分未找到2026年可靠数字，未编造保留缺失)、decorations $4.2B→$4.3B、candy $3.9B→$4.1B。"
+    },
+    {
+      "dimension": "事实准确性（抽查）",
+      "status": "未发现问题",
+      "detail": "WebSearch抽查Mother's Day数字（$38B总额/$7.5B珠宝/$284.25人均）与文章一致，未发现编造。外部引用NRF/PwC/LendingTree共22条sources链接抽查均可访问。"
+    },
+    {
+      "dimension": "内链健康度",
+      "status": "尝试修复未成功，如实记录",
+      "detail": "internal_link_audit.py标出该页正文入链仅1条（临门页，排名8.4/163曝光）。national-bosses-day有自然关联点（Hallmark贺卡销售数据）但check_prose_patterns.py pre-existing fail（9次rather-than+7条FAQ重合，与本次改动无关），已被matrix-prose-gate-backfill任务追踪（dayalmanac基线78/82篇），撤回该编辑避免触碰债务队列。另检查5个候选，2个clean但缺乏主题关联，其余同样在债务队列。本轮未补链接，留待backfill完成后处理。"
+    },
+    {
+      "dimension": "SEO技术",
+      "status": "记录不处理",
+      "detail": "check_seo_field_stats.py：title 45字符z=-2.09（偏短，全站均值58.5），非截断风险，按'改title仅限事实错误'规则不处理。description z=0.35正常。"
+    },
+    {
+      "dimension": "机械散文检查（第14项）",
+      "status": "通过",
+      "detail": "check_prose_patterns.py四项编辑前后均全过，编辑内容未引入新的报警模式。"
+    }
+  ],
+  "actions_taken": [
+    "更新Halloween 2026真实数据3处（commit b8f2742）",
+    "updated改为2026-09-23",
+    "national-bosses-day的内链尝试已撤回（pre-existing prose-gate债务，非本次范围）"
+  ],
+  "seo_score": "未发现结构性问题",
+  "geo_score": "时效性缺口已修复，数据现为最新",
+  "build": "npm run build 141页成功，无报错",
+  "deploy": "commit b8f2742已push，绕缓存curl 4次轮询确认200且新内容命中，IndexNow提交成功(Bing/Yandex均200)",
+  "seo_drift": "compare仅WARNING(schema内容变化，预期)，无CRITICAL",
+  "escalation": null
+}
+```

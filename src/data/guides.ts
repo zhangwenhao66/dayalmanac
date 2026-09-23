@@ -10067,7 +10067,7 @@ export const guides: Guide[] = [
       {
         "heading": "Three pizza-related days, three different dates",
         "body": [
-          "Two other pizza days sit on the calendar alongside this one, and a reader searching for \"national pizza day\" can land on any of the three by mistake. National Cheese Pizza Day, observed roughly two weeks earlier on September 5, covers plain cheese pizza specifically rather than any one topping. National Pizza Day, the broadest of the three and not tied to a topping at all, falls on February 9, well apart from the September pair rather than anywhere near them. National Day Calendar registers all three, and consistent with the pattern documented above for pepperoni, none of them has ever had a founder or founding organization step forward to claim it."
+          "Two other pizza days sit on the calendar alongside this one, and a reader searching for \"national pizza day\" can land on any of the three by mistake. National Cheese Pizza Day, observed roughly two weeks earlier on September 5, covers plain cheese pizza specifically rather than any one topping. National Pizza Day, the broadest of the three and not tied to a topping at all, falls on February 9, well apart from the September pair and nowhere near them. National Day Calendar registers all three, and consistent with the pattern documented above for pepperoni, none of them has ever had a founder or founding organization step forward to claim it."
         ]
       }
     ],
@@ -10078,22 +10078,38 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who started National Pepperoni Pizza Day?",
-        "answer": "Nobody has publicly claimed it. National Day Calendar, the organization most closely associated with registering the observance, states plainly on its own page that it is still researching the source of the holiday, and no pizza chain has claimed to have picked the date."
+        "answer": "Nobody has publicly claimed it. The only public statement on record comes from the group that tracks these food days, and its own page admits the holiday's source remains an open question, with not one chain stepping forward either to say it picked the date."
       },
       {
         "question": "Is pepperoni Italian?",
-        "answer": "No. Despite its Italian-derived name, pepperoni was developed by Italian immigrant butchers in the United States, not in Italy, where the cured meat known as pepperoni does not traditionally exist."
+        "answer": "No. Despite its Italian-derived name, pepperoni's roots trace to people from Italy who worked as meat cutters after they settled in the U.S., not in Italy itself, where the cured meat known as pepperoni does not traditionally exist."
       },
       {
         "question": "When did pepperoni first appear on pizza?",
-        "answer": "The earliest documented evidence is a photographed 1950 menu at The Spot, a pizzeria in New Haven, Connecticut, identified by pizza historian Colin Caplan. A separate, less-verified claim credits Massey's Pizza in Columbus, Ohio, around the same era, though the chain's own published company history does not repeat that claim."
+        "answer": "The oldest paper trail found: a 1950 menu, since photographed, from The Spot, per research by pizza historian Colin Caplan. A second, weaker claim points to Massey's Pizza in Columbus, Ohio, from around the same era, though Massey's own posted company history never repeats it."
       },
       {
         "question": "Is National Pepperoni Pizza Day the same as National Pizza Day?",
-        "answer": "No. National Pizza Day is a separate, broader observance on February 9. National Cheese Pizza Day is a third, on September 5. All three are registered with National Day Calendar and none has a documented founder."
+        "answer": "Not the same thing. One is National Pizza Day itself, a separate and broader observance on February 9; a third day covers cheese pizza alone, on September 5. All three sit in the same day-registry, none with a founder anyone has pinned down."
+      },
+      {
+        "question": "Does Domino's do anything for National Pizza Day?",
+        "answer": "Domino's leans on its standing Mix & Match Deal for that separate February 9 observance: two or more menu items, including medium pizzas, for $6.99 each. Consumer-deal roundups point to that same promotion every year around National Pizza Day; it isn't a deal Domino's built specifically for the occasion. No dedicated Domino's promotion tied to the September 20 date covered on this page turned up in researching it."
+      },
+      {
+        "question": "Who has the two pizzas for $4.99 each?",
+        "answer": "Little Caesars, through its recurring \"PIZZAPIZZA\" promo code offer: two large one-topping pizzas for $4.99 each when both are ordered together online or through the chain's app. The most recent run of that deal in 2026 was scheduled August 17 through September 13, ending before the September 20 date this page covers, and it excludes specialty crusts and isn't available through third-party delivery apps."
       }
     ],
     "sources": [
+      {
+        "label": "TODAY.com: National Pizza Day Deals 2026 From Domino's, Pizza Hut and More",
+        "url": "https://www.today.com/food/restaurants/national-pizza-day-deals-2026-rcna257240"
+      },
+      {
+        "label": "Parade: Little Caesars Brings Back Iconic $4.99 Offer for a Limited Time Only",
+        "url": "https://parade.com/news/little-caesars-brings-back-iconic-4-99-offer-for-a-limited-time-only"
+      },
       {
         "label": "National Day Calendar: Pepperoni Pizza Day, September 20",
         "url": "https://www.nationaldaycalendar.com/national-day/pepperoni-pizza-day-september-20"
@@ -11256,9 +11272,17 @@ export const guides: Guide[] = [
       {
         "question": "Who is the Dragon compatible with, and what's its clashing sign?",
         "answer": "Chinese zodiac guides most often pair the Dragon with the Rooster, Monkey, and Rat, following the tradition's Six Harmony and Three Harmonies groupings. Its direct clash partner is the Dog, the animal sitting opposite it on the twelve-branch cycle described above; some guides also list the Rabbit as a harder match. This is a cultural reading passed down through zodiac guides, not a documented ruling from any authority."
+      },
+      {
+        "question": "Is 2026 a good year for Dragons?",
+        "answer": "The South China Morning Post's Year of the Horse 2026 forecast reads it as a mostly favorable one: Dragons' hard work pays off under auspicious stars, with employees gaining influence quickly and business owners seeing years of effort pay off, brown named as the sign's lucky color for the year. The same forecast is less optimistic about romance and health. As with the compatibility pairings above, this is an annual cultural reading published by zodiac-focused outlets, not a ranking from any governing body."
       }
     ],
     "sources": [
+      {
+        "label": "South China Morning Post: Year of the Horse 2026 predictions for Dragons",
+        "url": "https://www.scmp.com/lifestyle/chinese-culture/article/3340417/year-horse-2026-predictions-dragons-their-lucky-colour-careers-and-love"
+      },
       {
         "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen, year of the Dragon)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1988e.pdf"
@@ -11903,9 +11927,17 @@ export const guides: Guide[] = [
       {
         "question": "Who is the Monkey compatible with, and what's its clashing sign?",
         "answer": "The Rat and Dragon are the matches most zodiac guides list as the Monkey's strongest, grouped with the Monkey in the tradition's Three Harmonies as a trio said to reinforce one another; the Ox is also commonly named as a good match. The Monkey's direct clash partner is the Tiger, sitting opposite it on the twelve-branch cycle. Guides usually describe that clash as the Tiger's need for control running into the Monkey's resistance to being pinned down."
+      },
+      {
+        "question": "Is 2026 a bad year for Monkeys?",
+        "answer": "Not by the South China Morning Post's Year of the Horse 2026 forecast, which calls it a stabilizing year for Monkeys after 2025's Snake year put them in conflict with the tai sui deity. The same forecast credits help from benefactors and two auspicious stars for boosting career and wealth, while still calling that pairing polarizing, and recommends Monkeys use the year to travel and expand their network abroad. Like the compatibility pairings above, this is a yearly cultural reading, not a ranking from any governing authority."
       }
     ],
     "sources": [
+      {
+        "label": "South China Morning Post: Year of the Horse 2026 predictions for Monkeys",
+        "url": "https://www.scmp.com/lifestyle/chinese-culture/article/3339306/year-horse-2026-predictions-monkeys-their-love-and-health-lucky-colour"
+      },
       {
         "label": "Hong Kong Observatory: Gregorian-Lunar Calendar Conversion Table of 1992 (Ren-shen, year of the Monkey)",
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/1992e.pdf"

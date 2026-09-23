@@ -11,7 +11,7 @@
     "submitted_date": "2026-08-03",
     "verified_status": "stale_not_indexed",
     "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
-    "last_submitted_date": "2026-09-03",
+    "last_submitted_date": "2026-09-23",
     "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection"
   },
@@ -29,7 +29,7 @@
     "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and added explicit published field to anchor Article schema datePublished. Same batch defect as national-boyfriend-day (both from commit 2557193). Content itself (origin claims, H.Res. 784 figures, NCA/FAO/ICO/UN statistics) independently re-verified against primary sources, no inaccuracies found. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
     "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection",
-    "last_submitted_date": "2026-09-18"
+    "last_submitted_date": "2026-09-23"
   },
   "https://dayalmanac.com/national-dog-day/": {
     "submitted_date": "2026-08-03",
@@ -73,7 +73,7 @@
   },
   "https://dayalmanac.com/september-birthstone/": {
     "submitted_date": "2026-08-05",
-    "last_submitted_date": "2026-09-18",
+    "last_submitted_date": "2026-09-23",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
@@ -120,7 +120,7 @@
   },
   "https://dayalmanac.com/national-grandparents-day/": {
     "submitted_date": "2026-08-09",
-    "last_submitted_date": "2026-09-03",
+    "last_submitted_date": "2026-09-23",
     "verified_status": "stale_not_indexed"
   },
   "https://dayalmanac.com/national-taco-day/": {
@@ -519,7 +519,12 @@
   },
   "https://dayalmanac.com/dayalmanac": {
     "submitted_date": "2026-09-16",
-    "last_submitted_date": "2026-09-16",
+    "last_submitted_date": "2026-09-23",
+    "verified_status": "pending"
+  },
+  "https://dayalmanac.com/autism-awareness-month/": {
+    "submitted_date": "2026-09-23",
+    "last_submitted_date": "2026-09-23",
     "verified_status": "pending"
   }
 }

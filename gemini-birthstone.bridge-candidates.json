@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "[This site's November birthstone page](/november-birthstone/) tracks a similar gap on a different month, where citrine joined topaz forty years after that 1912 original, in the same 1952 batch that brought in alexandrite.",
+    "target_slug": "november-birthstone",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat.",
+    "target_slug": "january-birthstone",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "[January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat.",
+    "target_slug": "september-birthstone",
+    "target_found": true
+  }
+]

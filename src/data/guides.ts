@@ -2934,7 +2934,7 @@ export const guides: Guide[] = [
     "coreSummary": "Domestic Violence Awareness Month covers the entire month of October, every year, in the United States. It began as a single \"Day of Unity\" declared by the National Coalition Against Domestic Violence in October 1981, grew into a full month by 1987, and received federal recognition when Congress designated the single year of October 1989 in Public Law 101-112, then renewed that designation once more for October 1991 in Public Law 102-114. No comparable law has renewed the designation since 1991; every President has simply continued proclaiming the month on their own authority.",
     "dateRule": {
       "kind": "fixed",
-      "text": "Domestic Violence Awareness Month is observed across all of October, every year, from October 1 through October 31, rather than on a single date or a floating week within the month. Congress first designated the observance by name for a specific year, October 1989, in Senate Joint Resolution 133, and every President has proclaimed or recognized the full month of October the same way since.",
+      "text": "Domestic Violence Awareness Month is observed across all of October, every year, from the 1st through the 31st. Congress first designated the observance by name for a specific year, October 1989, in Senate Joint Resolution 133, and every President has proclaimed or recognized the full month of October the same way since.",
       "source": {
         "label": "George Bush: Proclamation 6043, National Domestic Violence Awareness Month, 1989 (The American Presidency Project)",
         "url": "https://www.presidency.ucsb.edu/documents/proclamation-6043-national-domestic-violence-awareness-month-1989"
@@ -2969,7 +2969,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "documented",
-      "text": "The organization behind this observance predates it by three years. In January 1978, the United States Commission on Civil Rights held a hearing, \"Consultation on Battered Women: Issues of Public Policy,\" and the National Coalition Against Domestic Violence (NCADV) formed out of that meeting, becoming the country's first national organization focused specifically on shelters and support services for battered women and their children.\n\nNCADV's first observance came in October 1981: a single \"Day of Unity\" meant to connect advocates who had been working on the issue in isolation across the country. It took six more years to become a month-long campaign. In October 1987, NCADV held the first full Domestic Violence Awareness Month, and that same year the organization also ran its own toll-free hotline for a period, a separate and short-lived effort from the federally created hotline that would arrive nearly a decade later.\n\nFederal recognition came in 1989, and it arrived as a one-year designation rather than a standing law. Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989, designated \"October 1989\" by name and authorized and requested the President to issue a proclamation marking it. President George Bush did so five days later, on October 11, 1989, in Proclamation 6043, the first presidential proclamation of this observance on record. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September.\n\nSomewhere after that, the pattern changed: by 2021, President Biden's proclamation cited no accompanying joint resolution at all, proclaiming the month solely under his general constitutional authority. Congress has not passed a fresh joint resolution renewing the designation by name since 1991, but individual members have kept a version of the custom alive through other channels, most persistently Representative Al Green, who has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" most years since at least 2005. Two of the earlier ones actually reached the House floor and passed: H.Con.Res. 209 by a 404-0 roll call vote in September 2005, and H.Res. 817 by voice vote in October 2009. Neither went on to pass the Senate and become law, and Green's more recent versions, including one introduced for 2025, have stalled in committee without a floor vote at all.\n\nOne wrinkle in the federal record: Bush's own 1991 proclamation claims the month had been observed \"every autumn since 1985,\" two years earlier than the date any other record, including his own first proclamation, supports. The line reads as an uncorrected slip rather than evidence the observance is actually older than its documented history.",
+      "text": "The organization behind this observance predates it by three years. In January 1978, the United States Commission on Civil Rights held a hearing, \"Consultation on Battered Women: Issues of Public Policy,\" and the National Coalition Against Domestic Violence (NCADV) formed out of that meeting, becoming the country's first national organization focused specifically on shelters and support services for battered women and their children.\n\nNCADV's first observance came in October 1981: a single \"Day of Unity\" meant to connect advocates who had been working on the issue in isolation across the country. It took six more years to become a month-long campaign. In October 1987, NCADV held the first full Domestic Violence Awareness Month, and that same year the organization also ran its own toll-free hotline for a period, a separate and short-lived effort from the federally created hotline that would arrive nearly a decade later.\n\nFederal recognition came in 1989, and it arrived as a one-year designation, not a standing law that renewed itself. Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989, designated \"October 1989\" by name and authorized and requested the President to issue a proclamation marking it. President George Bush did so five days later, on October 11, 1989, in Proclamation 6043, the first presidential proclamation of this observance on record. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September.\n\nSomewhere after that, the pattern changed: by 2021, President Biden's proclamation cited no accompanying joint resolution at all, proclaiming the month solely under his general constitutional authority. Congress has not passed a fresh joint resolution renewing the designation by name since 1991, but individual members have kept a version of the custom alive through other channels, most persistently Representative Al Green, who has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" most years since at least 2005. Two of the earlier ones actually reached the House floor and passed: H.Con.Res. 209 by a 404-0 roll call vote in September 2005, and H.Res. 817 by voice vote in October 2009. Neither went on to pass the Senate and become law, and Green's more recent versions, including one introduced for 2025, have stalled in committee without a floor vote at all.\n\nOne wrinkle in the federal record: Bush's 1991 proclamation claims the month had been observed \"every autumn since 1985,\" two years earlier than the date any other record, including his own first proclamation, supports. The line reads like an uncorrected slip, not proof the observance is actually older than its documented history.",
       "source": {
         "label": "The National Domestic Violence Hotline: Domestic Violence Awareness Month",
         "url": "https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/"
@@ -2993,7 +2993,7 @@ export const guides: Guide[] = [
       {
         "heading": "1989: Congress designates it, for one specific year",
         "body": [
-          "Domestic Violence Awareness Month got its federal recognition through Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989. As President Bush's own proclamation quotes it, Congress \"designated October 1989 as 'National Domestic Violence Awareness Month' and...authorized and requested the President to issue a proclamation.\" Five days later, on October 11, 1989, Bush did exactly that in Proclamation 6043, the first presidential proclamation of this observance on record.",
+          "Domestic Violence Awareness Month got its federal recognition through Senate Joint Resolution 133, enacted as Public Law 101-112 on October 6, 1989. As Bush's proclamation itself quotes it, Congress \"designated October 1989 as 'National Domestic Violence Awareness Month' and...authorized and requested the President to issue a proclamation.\" Five days later, on October 11, 1989, Bush did exactly that in Proclamation 6043, the first presidential proclamation of this observance on record.",
           "What is easy to miss is that this was, on paper, a one-year designation, not a standing law that automatically renews every October. Congress went back and did it again at least once: Senate Joint Resolution 73 designated October 1991 the same way, and Bush issued a second proclamation, Number 6340, that September. Whether Congress kept passing a fresh resolution every single year after that is not something any one source lays out cleanly, but by the time later administrations proclaimed the month, the practice had visibly changed."
         ]
       },
@@ -3001,7 +3001,7 @@ export const guides: Guide[] = [
         "heading": "A federal fixture that nobody has to keep renewing",
         "body": [
           "By 2021, President Biden's proclamation cited no accompanying joint resolution at all: he proclaimed \"National Domestic Violence Awareness and Prevention Month\" under \"the authority vested in me by the Constitution and the laws of the United States,\" full stop. Somewhere between the early 1990s and the 2020s, the month had become something Presidents simply do every October on their own authority, not something Congress hands them fresh each year. Individual members of Congress have kept a version of the earlier custom alive on their own, most persistently Representative Al Green, who has introduced his own \"Original National Domestic Violence Awareness Month Resolution\" most years since at least 2005. Two of the earlier ones did reach the House floor and pass, a 404-0 roll call for H.Con.Res. 209 in 2005 and a voice vote for H.Res. 817 in 2009, but neither cleared the Senate to become law, and a resolution that stalls there or never gets a floor vote at all, as most of Green's later versions have, carries no legal force of its own. A different kind of one-year anomaly shows up on [this site's Prostate Cancer Awareness Month page](/prostate-cancer-awareness-month/): in 2001, the presidential proclamation named November instead of the September the Senate had actually requested.",
-          "The White House's own record on this observance is not entirely consistent, either. Bush's 1991 proclamation states that \"every autumn since 1985, we have set aside National Domestic Violence Awareness Month,\" but no proclamation, joint resolution, or advocacy timeline places the first observance before 1987 as a month or 1989 as a federal proclamation. It is a small, uncorrected slip in an otherwise precisely dated official record, the kind of detail most calendar sites smooth over rather than flag.",
+          "The White House's record on this observance is not entirely consistent, either. Bush's 1991 proclamation states that \"every autumn since 1985, we have set aside National Domestic Violence Awareness Month,\" but no proclamation, joint resolution, or advocacy timeline places the first observance before 1987 as a month or 1989 as a federal proclamation. It is a small, uncorrected slip in an otherwise precisely dated official record, the kind of detail most calendar sites smooth over rather than flag.",
           "The observance's own name and format have also shifted by administration. Bush's original proclamations called it \"National Domestic Violence Awareness Month\"; Biden's called it \"National Domestic Violence Awareness and Prevention Month\" and issued it as a formal Proclamation; the White House's 2025 statement returned to the shorter name but issued it as a \"Presidential Message\" instead of a Proclamation. None of that changes the dates. It does mean a reader comparing two years' official statements side by side will notice the title and the format read differently depending on which October it is."
         ]
       },
@@ -3019,7 +3019,7 @@ export const guides: Guide[] = [
       {
         "heading": "How the month is actually observed",
         "body": [
-          "Domestic Violence Awareness Month carries no legal holiday status: no federal offices close, no paid leave attaches to it, and nothing about it is mandatory for any workplace or school. What happens instead is decentralized and annual: state coalitions, shelters, and advocacy groups run their own local events throughout October, loosely tied together by a shared theme chosen each year, such as 2025's \"With Survivors, Always\" from the Hotline and its partner the Domestic Violence Awareness Project. Purple is the color most commonly associated with the campaign, worn at vigils and shared on social media. Within the month, the first Monday is set aside as the Day of Unity, a direct descendant of NCADV's original 1981 observance and the closest thing the month has to its own founding anniversary.",
+          "Domestic Violence Awareness Month carries no legal holiday status: no federal offices shut down, no employee earns extra time off because of it, and nothing about it is mandatory for any workplace or school. What happens instead is decentralized and annual: state coalitions, shelters, and advocacy groups run their own local events throughout October, loosely tied together by a shared theme chosen each year, such as 2025's \"With Survivors, Always\" from the Hotline and its partner the Domestic Violence Awareness Project. Purple is the color most commonly associated with the campaign, worn at vigils and shared on social media. Within the month, the first Monday is set aside as the Day of Unity, a direct descendant of NCADV's original 1981 observance and the closest thing the month has to its own founding anniversary.",
           "One thing this month is not: Teen Dating Violence Awareness Month, a separate campaign run each February through loveisrespect.org and aimed specifically at abuse in teenage dating relationships. It shares an audience and a cause with the October observance but runs on its own calendar, not as a subset of this one.",
           "Domestic Violence Awareness Month sits alongside a small group of observances on this calendar with a similar shape: founded by an advocacy organization, later picked up by the federal government, and now sustained mostly by custom rather than fresh legislation. [Red Ribbon Week](/red-ribbon-week/), observed the same month, followed almost the same arc, a grassroots campaign that a nonprofit, not a federal agency, has organized every year since 1988. [National Grandparents Day](/national-grandparents-day/) needed both a presidential proclamation and a separate act of Congress, a year apart, before its date was fixed. [National Sons Day](/national-sons-day/), by contrast, has no federal recognition at all, a useful reminder of how little authority actually backs most \"national days.\" [World Mental Health Day](/world-mental-health-day/), October 10, shares the month and has a founder dated to 1992."
         ]
@@ -3028,31 +3028,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What are the exact dates of Domestic Violence Awareness Month?",
-        "answer": "The entire month of October, every year, from October 1 through October 31. It is not tied to a single date or a floating week within the month."
+        "answer": "October, start to finish, every single year. No separate weekday or partial-week version exists to calculate."
       },
       {
         "question": "Who founded Domestic Violence Awareness Month?",
-        "answer": "The National Coalition Against Domestic Violence (NCADV), formed in January 1978, held the first \"Day of Unity\" in October 1981 and expanded it into a full month-long observance in October 1987. Congress gave it federal recognition two years later, in 1989."
+        "answer": "NCADV, established three years earlier in early 1978, held the first \"Day of Unity\" in October 1981 and expanded it into a full month-long observance in October 1987. Congress recognized it at the federal level two years after that, in 1989."
       },
       {
         "question": "Did Congress pass a permanent law that automatically renews this observance every year?",
-        "answer": "Not in one step. Congress designated \"October 1989\" specifically as National Domestic Violence Awareness Month through Public Law 101-112, and passed at least one more year-specific joint resolution for October 1991. Since then, Presidents have proclaimed the month on their own executive authority rather than through a fresh law each year. Representative Al Green has introduced his own version of the resolution most years since at least 2005, and two of the earlier ones, H.Con.Res. 209 in 2005 and H.Res. 817 in 2009, actually passed the House. Neither went on to pass the Senate and become law, so none of Green's resolutions carries the same legal weight as the 1989 and 1991 joint resolutions Congress actually enacted."
+        "answer": "Not in one step. Congress singled out the year 1989 for this observance through Public Law 101-112. It later passed at least one more year-specific joint resolution, this one for October 1991. Since then, each President has just issued their own proclamation for it every year, with no fresh law behind it. Congressman Al Green has kept introducing his own version of the resolution in nearly every session going back to 2005, and a pair of his earlier bills even cleared the House floor, a 2005 resolution (H.Con.Res. 209) and a 2009 one (H.Res. 817). Neither one made it through the Senate, so none of Green's resolutions carries the same legal force as the two joint resolutions Congress actually enacted, in 1989 and 1991."
       },
       {
         "question": "Is Domestic Violence Awareness Month a federal holiday?",
-        "answer": "No. No federal offices close and no paid leave attaches to it. It is an awareness observance, marked through proclamations, local events, and advocacy campaigns, not a legal holiday."
+        "answer": "No. Nothing shuts down for it and no employer is required to grant leave. It's an awareness campaign, kept alive through yearly proclamations and grassroots events rather than a day off the calendar."
       },
       {
         "question": "Is the National Domestic Violence Hotline the same organization that started this observance?",
-        "answer": "Not originally. NCADV started the observance and ran its own short-lived hotline in 1987. The National Domestic Violence Hotline (1-800-799-7233) is a separate organization, authorized under the 1994 Violence Against Women Act and launched in 1996. The two merged in 2022, with NCADV becoming part of the Hotline's parent organization."
+        "answer": "Not originally. NCADV started the observance and ran a short-lived hotline of its own in 1987. The crisis line people call today (1-800-799-7233) began as an entirely unrelated nonprofit, one Congress authorized in 1994 that opened for calls in 1996. A merger years later folded NCADV into the same umbrella group that runs the phone line."
       },
       {
         "question": "Why do some sources describe the observance as running \"since 1985\"?",
-        "answer": "That phrasing traces to a line in President George Bush's own 1991 proclamation, which states the month had been set aside \"every autumn since 1985.\" No other record, including Bush's own first proclamation of the observance in 1989, supports a date earlier than 1987 for the full-month observance or 1989 for a federal proclamation. The 1991 statement appears to be an unresolved error in the White House's own account."
+        "answer": "That claim traces to a single line in the proclamation Bush issued in 1991, which puts the origin at 1985, earlier than any other document on file supports. Nothing else backs that up, not even Bush's first proclamation from two years prior, and every dated record on this calendar ties the month-long version to 1987 and the first time a President put it in writing to 1989. Nobody at the White House appears to have ever gone back and corrected it."
       },
       {
         "question": "Is this the same as Teen Dating Violence Awareness Month?",
-        "answer": "No. Teen Dating Violence Awareness Month is a separate campaign observed every February, focused specifically on abuse within teen dating relationships and run through loveisrespect.org, not this observance."
+        "answer": "No, that's a distinct campaign, observed every February and aimed at abuse between teenagers who are dating, hosted at loveisrespect.org rather than tied to what this page covers."
       }
     ],
     "sources": [
@@ -5211,7 +5211,7 @@ export const guides: Guide[] = [
           "weekday": "Saturday"
         }
       ],
-      "caveat": "Do not confuse this month-long US observance with Purple Day, a single day, March 26, founded separately in Canada in 2008 and now marked in more than 100 countries. Purple Day falls inside National Epilepsy Awareness Month only when the two are compared loosely; its own date and origin have nothing to do with November or with any of the congressional resolutions described below. Readers should also treat the commonly repeated claim that \"Congress declared November National Epilepsy Awareness Month in 2003\" with caution: no resolution on the primary congressional record ever passed either chamber. Every November recognition to date has come from the Epilepsy Foundation's own campaign, from individual state governors issuing their own proclamations in some years, or from advocacy groups asking a sitting president for federal recognition that, as of this page's research, had not been issued."
+      "caveat": "Do not confuse this month-long US observance with Purple Day, a single day, March 26, founded separately in Canada in 2008 and now marked in more than 100 countries. Purple Day falls inside National Epilepsy Awareness Month only when the two are compared loosely; its own date and origin have nothing to do with November or with any of the congressional resolutions described below. Readers should also treat the commonly repeated claim that \"Congress declared November National Epilepsy Awareness Month in 2003\" with caution: no resolution on the primary congressional record ever passed either chamber. Every November recognition to date has come from the Epilepsy Foundation's campaign itself, from individual state governors issuing their own proclamations in some years, or from advocacy groups asking a sitting president for federal recognition that, as of this page's research, had not been issued."
     },
     "founding": {
       "status": "documented",
@@ -5232,7 +5232,7 @@ export const guides: Guide[] = [
       {
         "heading": "Who started it, and the claim that doesn't hold up",
         "body": [
-          "The Epilepsy Foundation, itself founded in 1968, says it began organizing a November campaign the following year, 1969. This calendar found that specific claim on a Foundation regional affiliate's own site, the Epilepsy Foundation of Northeastern New York, rather than on a dated document from the national organization, so it is recorded here as an organizational self-report, plausible and consistently repeated, but not independently checkable the way the congressional record below is.",
+          "The Epilepsy Foundation, itself founded in 1968, says it began organizing a November campaign the following year, 1969. This calendar found that specific claim on the site of a Foundation regional affiliate, the Epilepsy Foundation of Northeastern New York, rather than on a dated document from the national organization, so it is recorded here as an organizational self-report, plausible and consistently repeated, but not independently checkable the way the congressional record below is.",
           "That same regional-affiliate page, and dozens of other health-media and nonprofit sites, go on to say that \"in 2003, the campaign was officially recognized by Congress.\" Checked against the primary congressional record, that claim does not hold up. No resolution making that designation ever passed either chamber of Congress, in 2003 or in any other year on record. What actually happened in and around that period is a pattern of introduced-but-failed resolutions, detailed below, which is a meaningfully different thing from an \"official\" congressional recognition, and a distinction this calendar has found blurred on sites that otherwise cover epilepsy carefully."
         ]
       },
@@ -5269,23 +5269,23 @@ export const guides: Guide[] = [
       },
       {
         "question": "Did Congress officially declare November National Epilepsy Awareness Month in 2003?",
-        "answer": "No, despite how often that claim is repeated, including by Epilepsy Foundation regional affiliates. A House resolution supporting the month's goals was introduced in 2003 (H.Con.Res.194, 108th Congress) but was referred to committee and never received a vote. No resolution about National Epilepsy Awareness Month has ever passed either chamber of Congress."
+        "answer": "No, despite how often that claim is repeated, including by regional affiliates of the sponsoring nonprofit. H.Con.Res.194, introduced by the House in 2003 to support the month's goals, sat in committee and was never brought up for a vote. Nothing with this designation has cleared a floor vote in the House or the Senate, in that year or any other."
       },
       {
         "question": "Who founded National Epilepsy Awareness Month?",
-        "answer": "The Epilepsy Foundation says it began organizing a November campaign in 1969, a claim this calendar found on a Foundation regional affiliate's site but could not check against a dated national-organization document. Three later attempts to formalize the month through Congress, in 2002, 2003, and 2011, were all introduced and all died in committee without a vote."
+        "answer": "By the Foundation's own account, it has held this campaign every November since 1969, a claim traced here to a state-level chapter's website rather than to anything published by Foundation headquarters. Congress took three separate runs at making it official, first in 2002, then in 2003, then again in 2011, and each one stalled in committee, never reaching a floor vote."
       },
       {
         "question": "Is National Epilepsy Awareness Month the same as Purple Day?",
-        "answer": "No. Purple Day is a single day, March 26, founded in 2008 by Cassidy Megan, a nine-year-old in Nova Scotia, with a documented founding story and a traceable 2009 international launch. National Epilepsy Awareness Month is the broader, month-long US campaign covering all of November, with a less independently verifiable founding claim and no successful congressional designation."
+        "answer": "No. Purple Day is tied to just one date each year, March 26, started in 2008 by a nine-year-old Nova Scotian named Cassidy Megan, with a documented founding story and a traceable 2009 international launch. This awareness month, by contrast, spans all of November, rests on a founding story nobody has been able to confirm from a primary source, and Congress has never actually voted the designation into being."
       },
       {
         "question": "Why is purple the color for epilepsy awareness?",
-        "answer": "Purple is used by both November's National Epilepsy Awareness Month, under the Epilepsy Foundation's \"Share Your Purple Power\" campaign, and by the separate March 26 Purple Day. Purple Day's founder, Cassidy Megan, has said the color reflects lavender's long association with epilepsy awareness and the many different shades that, to her, mirror the many different types of seizures."
+        "answer": "Purple is used both by this month-long November campaign, whose sponsoring nonprofit brands its own purple push each year, and by the separate March 26 Purple Day. Purple Day's founder, Cassidy Megan, has said the color reflects lavender's long-standing tie to this cause and the many different shades that, to her, mirror the many different types of seizures."
       },
       {
         "question": "Has a US president ever issued a federal proclamation for National Epilepsy Awareness Month?",
-        "answer": "Not as of this page's research. Advocacy groups, including the Epilepsy Foundation, have asked presidents to issue one; some individual state governors have issued their own state-level proclamations in specific years, but no standing federal proclamation or statute names November for epilepsy the way one does for, for example, American Diabetes Month."
+        "answer": "No president has done so, at least going by the record this page could find. Advocacy groups have pressed for one, the sponsoring nonprofit among them; a handful of governors, at the state level, have put out proclamations of their own in specific years, but no standing federal proclamation or statute names November for epilepsy, unlike some other health observances on this calendar that do carry one."
       }
     ],
     "sources": [
@@ -6672,7 +6672,7 @@ export const guides: Guide[] = [
       {
         "heading": "Violet and primrose, the same gap as every other month",
         "body": [
-          "The Old Farmer's Almanac, the same source behind the pairs this site has already covered for July through December and April, lists violet and primrose as February's flowers. This site's [August birth flower](/august-birth-flower/) page traced why these lists keep landing on two flowers instead of one: the jewelry trade settled birthstones with a single 1912 convention, and birth flowers never had an equivalent body step in. Competing 19th-century flower dictionaries disagreed with each other, and the modern lists that followed kept both nominees rather than picking a winner.",
+          "The Old Farmer's Almanac, the same source behind the pairs this site has already covered for July through December and April, lists violet and primrose as February's flowers. This site's [August birth flower](/august-birth-flower/) page traced why these lists keep landing on two flowers instead of one: the jewelry trade settled birthstones with a single 1912 convention, and birth flowers never had an equivalent body step in. Competing 19th-century flower dictionaries disagreed with each other, and the modern lists that followed kept both nominees, never settling on a single winner.",
           "That explains the pair. It says nothing about either flower on its own, and both share their common name with an unrelated houseplant sold in every grocery-store flower aisle."
         ]
       },
@@ -6726,27 +6726,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is February's birth flower?",
-        "answer": "Violet and primrose, per The Old Farmer's Almanac. Like most months on a modern birth-flower list, February carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
+        "answer": "The Almanac pairs the violet with the primrose. Like most months on today's flower calendars, February carries two flowers because no single trade body ever settled on one official list the way the jewelry trade did for birthstones."
       },
       {
         "question": "Is the African violet the same plant as February's birth flower?",
-        "answer": "No. The birth-flower violet is Viola odorata, family Violaceae. The African violet, now classified as Streptocarpus sect. Saintpaulia, belongs to the unrelated family Gesneriaceae and is native to Tanzania, not Europe or Asia. The two only share a common name and a superficial resemblance in flower shape and color."
+        "answer": "No. The birth-flower violet is Viola odorata, part of the Violaceae plant family. The houseplant sold as African violet sits in a completely separate genus these days, Streptocarpus, part of the Gesneriaceae grouping, and it hails from Tanzania rather than Europe or Asia. The two plants only share a common name and a passing resemblance in flower shape and color."
       },
       {
         "question": "Is evening primrose the same plant as February's birth flower?",
-        "answer": "No. The birth-flower primrose is Primula vulgaris, family Primulaceae, native to Eurasia. Evening primrose, genus Oenothera, belongs to the unrelated family Onagraceae and is native to the Americas. Early colonists named it for a passing resemblance to the primroses they knew from home."
+        "answer": "No. The birth flower goes by Primula vulgaris and sits in the Primulaceae family, native to Eurasia. Evening primrose sits in a wholly different genus, Oenothera, classified under Onagraceae rather than Primulaceae, and it grows wild across the Americas instead. Early settlers gave it the borrowed name simply because it reminded them, loosely, of a familiar flower back home."
       },
       {
         "question": "What does violet mean as a birth flower?",
-        "answer": "Loyalty, faithfulness, and modesty, a meaning tied to the flower's habit of tucking its blooms beneath its own leaves. Violets also carry a documented political history as a secret symbol of Napoleon Bonaparte's supporters in 1814 and 1815."
+        "answer": "In floriography, it stands for loyalty, staying true, and modesty, tied to how the plant keeps its flowers tucked down near the ground rather than showing them off. The flower also has a real place in French history: Bonapartists wore it as a covert badge of allegiance in 1814 and 1815."
       },
       {
         "question": "What does primrose mean as a birth flower?",
-        "answer": "Young love, per The Old Farmer's Almanac, fitting for one of the first flowers to bloom in late winter and early spring. The primrose was also reportedly Benjamin Disraeli's favorite flower, which is why the UK still marks April 19 as Primrose Day."
+        "answer": "Young love, according to the Almanac, fitting for a flower that's among the earliest to open once the cold starts breaking. The primrose is also tied to British statesman Benjamin Disraeli: he was said to have favored it above all others, which is why the UK still marks April 19 as Primrose Day."
       },
       {
         "question": "What is Primrose Day?",
-        "answer": "A UK observance on April 19 marking the 1881 death of Prime Minister Benjamin Disraeli, whose reported favorite flower was the primrose. Annual commemorations through the 1920s placed primroses at his tomb at Hughenden and at a statue of him in Parliament Square."
+        "answer": "A UK observance on April 19 marking the 1881 death of Prime Minister Benjamin Disraeli: he was said to have loved the primrose above every other bloom. Mourners kept up the tradition for decades afterward, laying primroses both at his Hughenden burial site and at a statue erected for him in the square outside Parliament, a practice that continued into the 1920s."
       }
     ],
     "sources": [
@@ -8456,7 +8456,7 @@ export const guides: Guide[] = [
       {
         "heading": "June's three birthstones, relabeled for Gemini",
         "body": [
-          "Jewelers of America's current chart lists three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own breakdown of that chart](/birthstones-by-month/), June ties only with December for the most stones on Jewelers of America's list; most other months carry just one or two. Pearl is the original entry, dating to the first standardized US list adopted at the 1912 Kansas City meeting. Alexandrite was added in 1952, when the Jewelry Industry Council of America revised that original list. [This site's November birthstone page](/november-birthstone/) tracks a similar gap on a different month, where citrine joined topaz forty years after that 1912 original instead of landing in the same 1952 batch.",
+          "Jewelers of America's current chart lists three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own breakdown of that chart](/birthstones-by-month/), June ties only with December for the most stones on Jewelers of America's list; most other months carry just one or two. Pearl is the original entry, dating to the first standardized US list adopted at the 1912 Kansas City meeting. Alexandrite was added in 1952, in a revision of that original list that Wikipedia credits to the Jewelry Industry Council of America (sources disagree on whether it was that group or a Jewelers of America predecessor). [This site's November birthstone page](/november-birthstone/) tracks a similar gap on a different month, where citrine joined topaz forty years after that 1912 original, in the same 1952 batch that brought in alexandrite.",
           "Gemini's date range runs May 21 to June 20, so most of the sign sits inside June rather than May. Jewelry retailers and astrology-adjacent sites take that overlap and simply relabel June's month stones \"Gemini's birthstones,\" and pearl and alexandrite show up on page after page under that heading. That's a marketing shortcut built on the calendar, not a separate zodiac-specific stone tradition. The stone that actual zodiac-stone research assigns to Gemini, covered further down this page, is a different mineral altogether. (June babies also have [a birth flower of their own](/june-birth-flower/), tracked separately from birthstones.)"
         ]
       },
@@ -8499,27 +8499,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is Gemini's birthstone?",
-        "answer": "Pearl and alexandrite are the two stones most commonly marketed as \"Gemini's birthstones,\" borrowed from June's Jewelers of America chart, which also includes moonstone as a third June stone. The documented historical zodiac-stone table, however, assigns Gemini a different stone: agate."
+        "answer": "Most shops push pearl plus alexandrite under a Gemini label, borrowed from the official June list used by US jewelers, which also includes moonstone as a third June stone. The older, documented zodiac listing points somewhere else, though: it gives the sign agate."
       },
       {
         "question": "Why do jewelry sites call pearl and alexandrite \"Gemini's birthstones\"?",
-        "answer": "Because Gemini's date range, May 21 to June 20, falls mostly inside June, retailers relabel June's month-birthstone list rather than drawing from a dedicated zodiac-stone tradition."
+        "answer": "The sign begins on May 21 and ends June 20, which puts the bulk of it in June, and retailers just rebrand the June birthstone list; nothing in the zodiac-stone record backs it up."
       },
       {
         "question": "What does the actual zodiac birthstone table say Gemini's stone is?",
-        "answer": "Agate. Gemologist George Frederick Kunz's 1913 research assigned each tropical-zodiac sign a single stone, and Wikipedia's Birthstone article reproduces that table; for Gemini it names agate, not any of June's month stones."
+        "answer": "Agate. A 1913 study by George Kunz, a leading gem authority of the era, gave every sign of the tropical zodiac one stone apiece, a list Wikipedia's entry on birthstones lays out in full; the Gemini row reads agate, and none of the stones from June's list appear in it."
       },
       {
         "question": "Why does alexandrite change color between daylight and incandescent light?",
-        "answer": "Chromium ions replace some of the aluminum in the crystal's structure, which absorbs a narrow band of yellow light. That absorption is what makes the stone read green to bluish-green in daylight and red to purplish-red under incandescent bulbs, a mechanism detailed in a 2020 Scientific Reports study."
+        "answer": "Trace chromium sits in the crystal where aluminum would normally be, and it soaks up a thin slice of yellow light. Which colors survive depends on the light source: the stone looks bluish-green outdoors and turns reddish-purple beneath a household bulb, a mechanism detailed by a 2020 study from the journal Scientific Reports."
       },
       {
         "question": "Is pearl a mineral like the other June birthstones?",
-        "answer": "No. GIA classifies pearl as an organic gem, the only birthstone formed inside a living creature. A mollusk secretes nacre around an irritant lodged in its shell, and the pearl builds up in layers from there."
+        "answer": "No. GIA files pearl under organic gems, since it's the one birthstone grown inside a living animal. When an irritant gets lodged in a mollusk's shell, the animal coats it in nacre, and layer by layer a pearl forms."
       },
       {
         "question": "Who discovered alexandrite?",
-        "answer": "The standard account credits Finnish mineralogist Nils Gustaf Nordenskiöld, working from a sample found near Russia's Tokovaya River in the Ural Mountains in the 1830s. Wikipedia's sourced account notes that more recent research, citing gem historian Richard Wise's 2016 book, credits mine supervisor Yakov Kokovin with the actual find instead."
+        "answer": "Conventional tellings give the credit to a Finnish scientist named Nordenskiöld, who studied a sample dug out of a Ural emerald mine during the 1830s. Newer research, drawing on a 2016 book by Richard Wise, a historian of gems, and summarized on Wikipedia, credits Yakov Kokovin, who oversaw the mine, with the actual find instead."
       }
     ],
     "sources": [
@@ -9339,11 +9339,11 @@ export const guides: Guide[] = [
           "weekday": "Thursday"
         }
       ],
-      "caveat": "No statute, proclamation, or registrar set the February 13 date; it comes directly from the show itself. In the episode's plot, Leslie Knope \"throws her annual 'Galentine's Day' party for her female friends, celebrated the day before Valentine's Day,\" per Wikipedia's episode summary. That annual, day-before-Valentine's framing is fictional dialogue that real-world celebrations then adopted wholesale, which is why this page treats the rule as conventional rather than documented by any real authority. Wikipedia's separate article on the real-world observance notes that Galentine's Day \"is typically marked as February 13, but can be observed any day,\" since many real parties are thrown on whichever weekend is most convenient rather than on the calendar date itself. There is no competing claim to a different \"true\" date. The flexibility is practical, not a dispute."
+      "caveat": "No statute, proclamation, or registrar set the February 13 date; it comes directly from the show itself. In the episode's plot, Leslie Knope \"throws her annual 'Galentine's Day' party for her female friends, celebrated the day before Valentine's Day,\" per Wikipedia's episode summary. That annual, day-before-Valentine's framing is fictional dialogue that real-world celebrations then adopted wholesale, which is why this page marks the rule conventional and not backed by any real authority. Wikipedia's separate article on the real-world observance notes that Galentine's Day \"is typically marked as February 13, but can be observed any day,\" since many real parties get scheduled for whatever weekend works best, not necessarily the calendar date itself. There is no competing claim to a different \"true\" date. The flexibility is practical, not a dispute."
     },
     "founding": {
       "status": "documented",
-      "text": "Galentine's Day traces to one specific, dated broadcast: \"Galentine's Day,\" the 16th episode of the second season of Parks and Recreation (the 22nd episode of the series overall), which aired on NBC on February 11, 2010. It was written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope (Amy Poehler) throws what the show frames as her annual Galentine's Day breakfast party for her female friends, held the day before Valentine's Day, describing it to the camera as \"Lilith Fair minus the angst and plus frittatas\" and, in the line most often quoted since, \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\" \"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" per Wikipedia's own account of both the episode and the observance it inspired. Nielsen Media Research recorded 4.98 million household viewers for the original broadcast, an improvement on the previous week's episode and a series-high rating among viewers 18 to 49 at the time. The episode received generally positive reviews on release. What happened after is unusual for an observance on this calendar: rather than a vague, undocumented drift into public use, the day can be traced to this one script, this one writer, and this one air date, with no earlier claimant and no competing origin story found anywhere in researching this page.",
+      "text": "Galentine's Day traces to one specific, dated broadcast: \"Galentine's Day,\" the 16th episode of the second season of Parks and Recreation (the 22nd episode of the series overall), which aired on NBC on February 11, 2010. It was written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope (Amy Poehler) throws what the show frames as her annual Galentine's Day breakfast party for her female friends, held the day before Valentine's Day, describing it to the camera as \"Lilith Fair minus the angst and plus frittatas\" and closing with the toast to female friendship that has been quoted in nearly every retelling of the holiday's origin since. \"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" per Wikipedia's account of both the episode and the observance it inspired. Nielsen Media Research recorded 4.98 million household viewers for the original broadcast, an improvement on the previous week's episode and a series-high rating among viewers 18 to 49 at the time. The episode received generally positive reviews on release. What happened after is unusual for an observance on this calendar: most such days drift into public use through vague, undocumented word of mouth, but this one can be traced to this one script, this one writer, and this one air date, with no earlier claimant and no competing origin story found anywhere in researching this page.",
       "source": {
         "label": "Wikipedia: Galentine's Day (2010 Parks and Recreation episode)",
         "url": "https://en.wikipedia.org/wiki/Galentine's_Day_(2010_Parks_and_Recreation_episode)"
@@ -9360,7 +9360,7 @@ export const guides: Guide[] = [
       {
         "heading": "The TV episode that invented it",
         "body": [
-          "The entire holiday traces to a single, dated broadcast. \"Galentine's Day\" aired on NBC on February 11, 2010, as the 16th episode of Parks and Recreation's second season, written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope throws what the show frames as her annual Galentine's Day breakfast for her female friends, timed for the day before Valentine's Day. She describes it to the camera as \"Lilith Fair minus the angst and plus frittatas,\" then delivers the line that has been quoted in nearly every retelling of the holiday's origin since: \"Every February 13th, my ladyfriends and I leave our husbands and our boyfriends at home, and we just come and kick it, breakfast-style. Ladies celebrating ladies.\"",
+          "The entire holiday traces to a single, dated broadcast. \"Galentine's Day\" aired on NBC on February 11, 2010, as the 16th episode of Parks and Recreation's second season, written by series co-creator Michael Schur and directed by Ken Kwapis. In the episode, Leslie Knope throws what the show frames as her annual Galentine's Day breakfast for her female friends, timed for the day before Valentine's Day. She describes it to the camera as \"Lilith Fair minus the angst and plus frittatas,\" then closes with a toast to leaving the men at home for the morning and spending it with her women friends, a line that has been quoted in nearly every retelling of the holiday's origin since (the full wording appears in the FAQ below).",
           "The episode itself was well received and did well by the show's own standards at the time: Nielsen recorded 4.98 million household viewers, an improvement over the previous week, and it tied that week's episode for the series' highest rating among viewers 18 to 49. Entertainment Weekly's Sandra Gonzalez praised how much character development the episode packed into 22 minutes; other critics, including The A.V. Club's Steve Heisler and IGN's Matt Fowler, singled out the same scene for the same reason: it let Leslie be competent and generous rather than merely eccentric, which is exactly the tone Galentine's Day still runs on 16 years later."
         ],
         "image": {
@@ -9371,8 +9371,8 @@ export const guides: Guide[] = [
       {
         "heading": "How a sitcom joke became a real tradition",
         "body": [
-          "For its first several years, Galentine's Day stayed exactly what the show invented: a fictional party, referenced only in reruns and syndication. Real-world adoption built gradually through the 2010s, spread mainly by word of mouth and social media rather than by any organization pushing it, and retailers eventually followed the demand rather than creating it: Target, Walmart, Party City, Amazon and Etsy now all carry Galentine's-branded merchandise, per Wikipedia's account.",
-          "By 2020 the observance had reached the White House's former occupants. Michelle Obama posted a photo on Instagram and Twitter captioned with the hashtag #GalentinesDay, writing in part: \"I want to shout out my girlfriends who help me stay sane and grounded through all of life's ups and downs... Whether we're catching up over the phone, venting over a cup of coffee, or laughing it out during an 80s-themed workout, I know I can lean on these ladies — and that's made all the difference.\" The Parks and Recreation show's own social media account replied approvingly. This page found only \"2020\" attached to the post in its sourcing and did not find an independently confirmed exact date, so none is stated here beyond the year."
+          "For its first several years, Galentine's Day stayed exactly what the show invented: a fictional party, referenced only in reruns and syndication. Real-world adoption built gradually through the 2010s, spread mainly by word of mouth and social media with no organization behind the push, and retailers eventually followed the demand rather than creating it: Target, Walmart, Party City, Amazon and Etsy now all carry Galentine's-branded merchandise, per Wikipedia's account.",
+          "By 2020 the observance had reached the White House's former occupants. Michelle Obama posted a photo on Instagram and Twitter captioned with the hashtag #GalentinesDay, writing in part: \"I want to shout out my girlfriends who help me stay sane and grounded through all of life's ups and downs... Whether we're catching up over the phone, venting over a cup of coffee, or laughing it out during an 80s-themed workout, I know I can lean on these ladies — and that's made all the difference.\" The official Parks and Recreation social media account replied approvingly. This page found only \"2020\" attached to the post in its sourcing and did not find an independently confirmed exact date, so none is stated here beyond the year."
         ]
       },
       {
@@ -9385,27 +9385,27 @@ export const guides: Guide[] = [
       {
         "heading": "Is Galentine's Day official?",
         "body": [
-          "No. Researching this page found no federal or state proclamation, no congressional resolution, and no legal designation of any kind naming February 13 \"Galentine's Day.\" Sites like National Day Calendar list it on their February 13 page alongside other observances, but that listing reflects the site's own celebrations calendar rather than any government or standards body recognizing the date; this calendar draws the same distinction on pages like [Talk Like a Pirate Day](/talk-like-a-pirate-day/), a rare comparison case that also traces to a single, fully named origin: two friends who invented it during a 1995 racquetball game, not any legislature.",
-          "This calendar carries a growing family of pages built around celebrating specific people rather than events, among them [National Boyfriend Day](/national-boyfriend-day/), whose own origin nobody can trace, and [National Daughters Day](/national-daughters-day/). Galentine's Day is the rare entry in that group where the origin is not in dispute at all. The gap here sits between \"documented\" and \"official,\" not between \"documented\" and \"unverified.\""
+          "No. Researching this page found no federal or state proclamation, no congressional resolution, and no legal designation of any kind naming February 13 \"Galentine's Day.\" Sites like National Day Calendar list it on their February 13 page alongside other observances, but that listing reflects the site's own celebrations calendar, not any government or standards body recognizing the date; this calendar draws the same distinction on pages like [Talk Like a Pirate Day](/talk-like-a-pirate-day/), a rare comparison case that also traces to a single, fully named origin: two friends who invented it during a 1995 racquetball game, not any legislature.",
+          "This calendar carries a growing family of pages built around celebrating specific people, not events, among them [National Boyfriend Day](/national-boyfriend-day/), whose own origin nobody can trace, and [National Daughters Day](/national-daughters-day/). Galentine's Day is the rare entry in that group where the origin is not in dispute at all. The gap here sits between \"documented\" and \"official,\" not between \"documented\" and \"unverified.\""
         ]
       }
     ],
     "faq": [
       {
         "question": "When is Galentine's Day in 2026?",
-        "answer": "Friday, February 13, 2026, the day before Valentine's Day. The date is fixed at February 13 every year and does not shift for weekends."
+        "answer": "It lands on Friday, February 13, 2026, one day ahead of Valentine's. This is a fixed calendar date, so it never moves to accommodate a weekend."
       },
       {
         "question": "Who invented Galentine's Day?",
-        "answer": "Michael Schur, co-creator of Parks and Recreation, who wrote the episode \"Galentine's Day\" (season 2, episode 16), directed by Ken Kwapis and aired on NBC on February 11, 2010. The fictional annual party Leslie Knope hosts in that episode established both the name and the February 13 date."
+        "answer": "Michael Schur, a Parks & Rec co-creator, wrote the season 2 episode that shares this day's name (episode 16 of that season); Ken Kwapis sat in the director's chair. NBC put it on the air on a Thursday, February 11, back in 2010. The made-up yearly gathering Leslie Knope hosts in that episode is what gave the occasion both its name and its place on February 13."
       },
       {
         "question": "Why is it called Galentine's Day?",
-        "answer": "\"Galentine's\" is a portmanteau of \"gal,\" a variation of \"girl,\" and \"Valentine's,\" coined for the Parks and Recreation episode of the same name."
+        "answer": "It's a blend word: take \"gal,\" a casual stand-in for \"girl,\" and smash it together with \"Valentine's.\" Schur's writing team coined it for the sitcom episode that shares the name."
       },
       {
         "question": "Is Galentine's Day an official holiday?",
-        "answer": "No. No federal or state proclamation, congressional resolution, or legal designation naming February 13 \"Galentine's Day\" was found in researching this page. It remains an unofficial, culturally observed day."
+        "answer": "No. This page's research turned up nothing from any government body, no proclamation, no resolution, no statute, that puts this name on the calendar for February 13. It remains an unofficial, culturally observed day."
       },
       {
         "question": "What is the original Galentine's Day quote?",
@@ -9413,11 +9413,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Has anyone famous celebrated Galentine's Day?",
-        "answer": "Michelle Obama posted an Instagram and Twitter photo in 2020 captioned with the hashtag #GalentinesDay, thanking her friends. Since February 13, 2023, Massachusetts Senate President Karen Spilka has hosted an annual Galentine's Day event at City Winery in Boston, drawing roughly 150 prominent women each year, including Governor Maura Healey and Congresswoman Ayanna Pressley at the first event."
+        "answer": "In 2020, Michelle Obama marked the day with a social-media post thanking her friends, tagged #GalentinesDay. And in Massachusetts, a sitting Senate President has turned the date into an annual event, drawing roughly 150 prominent women each year; Maura Healey, the state's governor, was among the guests at its 2023 debut."
         },
       {
         "question": "Does Galentine's Day always fall exactly on February 13?",
-        "answer": "The canonical date from the show is February 13, and that is the date this calendar's table tracks. In practice, many real-world celebrations are held on whichever nearby day is most convenient, which Wikipedia's own account of the observance acknowledges directly. That flexibility is a practical accommodation, not a dispute over the \"real\" date."
+        "answer": "The canonical date from the show is February 13, and that is the date this calendar's table tracks. In practice, plenty of people hold their actual gathering on whichever nearby day works best for their group, a point Wikipedia's entry on the tradition makes plainly. That flexibility is a practical accommodation, not a dispute over the \"real\" date."
       },
       {
         "question": "Is Galentine's Day for single women only?",
@@ -9425,7 +9425,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is Galentines for single girls only?",
-        "answer": "No. In Leslie Knope's original Parks and Recreation pitch, she describes it as a chance for her women friends to gather regardless of who is or isn't dating someone. Coverage from outlets including Time and Vice has pushed back specifically on the idea that it's a consolation holiday for single women, arguing it was always meant as a celebration of friendship open to anyone."
+        "answer": "No. Back in the episode that started it, Leslie Knope describes it as a chance for her women friends to gather regardless of who is or isn't dating someone. Coverage from outlets including Time and Vice has pushed back specifically on the idea that it's a consolation holiday for single women, arguing it was always meant as a celebration of friendship open to anyone."
       },
       {
         "question": "What are the rules for Galentine's Day?",

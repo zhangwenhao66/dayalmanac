@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">What is open and closed on Columbus Day, Monday October 12, 2026</title>
+  <desc id="desc">Closed: post offices and regular mail delivery (USPS), federal offices, Federal Reserve Banks and FedACH processing, and the bond market (SIFMA recommendation). Open: the New York Stock Exchange, Chase branches (with online transactions treated as a holiday), and Priority Mail Express delivery (USPS).</desc>
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <text x="60" y="84" font-family="Georgia, serif" font-size="40" font-weight="700" fill="#2b2118">Monday, October 12, 2026</text>
+  <text x="60" y="124" font-family="Georgia, serif" font-size="24" fill="#5a4a3a">Columbus Day: who closes, who stays open</text>
+  <rect x="60" y="160" width="520" height="390" rx="8" fill="#ffffff" stroke="#b5482f" stroke-width="3"/>
+  <rect x="60" y="160" width="520" height="56" rx="8" fill="#b5482f"/>
+  <text x="84" y="198" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Closed</text>
+  <g font-family="Georgia, serif" font-size="24" fill="#2b2118">
+    <text x="84" y="266">Post offices, regular mail (USPS)</text>
+    <text x="84" y="322">Federal government offices</text>
+    <text x="84" y="378">Federal Reserve Banks, FedACH</text>
+    <text x="84" y="434">Bond market (SIFMA recommends)</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="18" fill="#5a4a3a">
+    <text x="84" y="290">Regular delivery resumes Tuesday</text>
+    <text x="84" y="346">5 U.S.C. 6103(a)</text>
+    <text x="84" y="402">Fed K.8 holiday table</text>
+    <text x="84" y="458">Stocks trade, bonds do not</text>
+  </g>
+  <rect x="620" y="160" width="520" height="390" rx="8" fill="#ffffff" stroke="#2f6b4a" stroke-width="3"/>
+  <rect x="620" y="160" width="520" height="56" rx="8" fill="#2f6b4a"/>
+  <text x="644" y="198" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Open, with limits</text>
+  <g font-family="Georgia, serif" font-size="24" fill="#2b2118">
+    <text x="644" y="266">New York Stock Exchange</text>
+    <text x="644" y="322">Chase branches</text>
+    <text x="644" y="378">Priority Mail Express delivery</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="18" fill="#5a4a3a">
+    <text x="644" y="290">Not on NYSE's 2026 holiday list</text>
+    <text x="644" y="346">Online transactions treated as a holiday</text>
+    <text x="644" y="402">The only USPS delivery that day</text>
+  </g>
+  <text x="60" y="594" font-family="Georgia, serif" font-size="18" fill="#5a4a3a">Sources: USPS, Federal Reserve, Chase, NYSE, SIFMA. Checked September 24, 2026.</text>
+</svg>

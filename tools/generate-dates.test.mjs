@@ -98,6 +98,15 @@ test('Birthday of Martin Luther King, Jr. is the third Monday in January', () =>
 	assert.deepEqual(expand(RULES.usMlkDay, 2026, 3).map((o) => o.date), expected);
 });
 
+test('Columbus Day is the second Monday in October', () => {
+	// Federal Reserve K.8 (Holidays Observed by the Federal Reserve System, 2026-2030):
+	// 2026-10-12, 2027-10-11, 2028-10-09, 2029-10-08, 2030-10-14. 2030 is the case that
+	// separates "second" from "closest to Oct 12": October 2030 starts on a Tuesday.
+	const expected = ['2026-10-12', '2027-10-11', '2028-10-09', '2029-10-08', '2030-10-14'];
+	assert.deepEqual(expand(RULES.usColumbusDay, 2026, 5).map((o) => o.date), expected);
+	assert.ok(expand(RULES.usColumbusDay, 2026, 5).every((o) => o.weekday === 'Monday'));
+});
+
 // ---------------------------------------------------------------------------
 // Offset rules
 // ---------------------------------------------------------------------------

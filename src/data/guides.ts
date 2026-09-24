@@ -10593,7 +10593,7 @@ export const guides: Guide[] = [
     "title": "National Days in October: Sorted by How Much Evidence Backs Them",
     "description": "Twenty-six of October's national days, sorted by how solid the founding story is, from a 1934 federal proclamation to a farmers' holiday four sources can't agree on.",
     "published": "2026-08-28",
-    "updated": "2026-09-09",
+    "updated": "2026-09-24",
     "coreSummary": "October carries at least twenty-six national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution of the United Nations Food and Agriculture Organization's own member conference. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
     "sections": [
       {
@@ -10622,7 +10622,7 @@ export const guides: Guide[] = [
         "heading": "October 12, 2026: one date, two holidays, one paper trail and one without",
         "body": [
           "October 12 falls on the second Monday of October in 2026, which is the fixed formula behind Columbus Day, and also the date most sites give for National Farmers Day. The two observances could not differ more in how well their founding stories hold up.",
-          "Columbus Day's federal history is documented in stages. In 1934, after decades of lobbying, Congress passed a joint resolution asking the president to proclaim October 12 as Columbus Day, and Franklin Roosevelt did so, but that proclamation was an annual presidential act, not a law giving federal workers a paid day off. The Uniform Monday Holiday Act, enacted in 1968 and effective from 1971, changed that: it made Columbus Day a true statutory federal holiday and fixed it permanently to the second Monday in October, which is how it lands on October 12 in 2026. Indigenous Peoples' Day shares the date rather than competing with a separate one. Its modern form traces to a 1977 United Nations International Conference on Discrimination Against Indigenous Populations in the Americas, held in Geneva, where delegates proposed October 12 as an international day of solidarity. Berkeley, California became the first U.S. city to officially observe it in 1992. It is not a federal statute in its own right, but more than a dozen states and over a hundred U.S. cities now recognize it, and recent presidents have issued proclamations for it alongside the Columbus Day proclamation on the same date.",
+          "Columbus Day's federal history is documented in stages. In 1934, after decades of lobbying, Congress passed a joint resolution asking the president to proclaim October 12 as Columbus Day, and Franklin Roosevelt did so, but that proclamation was an annual presidential act, not a law giving federal workers a paid day off. The Uniform Monday Holiday Act, enacted in 1968 and effective from 1971, changed that: it made Columbus Day a true statutory federal holiday and fixed it permanently to the second Monday in October, which is how it lands on October 12 in 2026. For what actually closes that Monday, see [what is open on Columbus Day](/columbus-day-whats-open/). Indigenous Peoples' Day shares the date rather than competing with a separate one. Its modern form traces to a 1977 United Nations International Conference on Discrimination Against Indigenous Populations in the Americas, held in Geneva, where delegates proposed October 12 as an international day of solidarity. Berkeley, California became the first U.S. city to officially observe it in 1992. It is not a federal statute in its own right, but more than a dozen states and over a hundred U.S. cities now recognize it, and recent presidents have issued proclamations for it alongside the Columbus Day proclamation on the same date.",
           "National Farmers Day, kept on that identical October 12, has nothing resembling that trail. Several sites cite a 1919 Woodrow Wilson proclamation as the origin, but that 1919 proclamation was for a differently named observance, National Farm Products Day, and no source this page could find shows it was ever renamed or continued into what's celebrated today. Other sites cite a 1940 joint resolution signed by Franklin Roosevelt establishing \"National Farmers Day\" specifically, but no text of that resolution turned up in this page's research, only later sites repeating the claim about each other. A third, frequently repeated line calls it a federal holiday since 1970, a claim contradicted by the plainest available evidence: banks, the U.S. Postal Service, and federal offices do not close for it, which is what a real federal holiday requires. Absent a document any of these claims actually point to, this page treats National Farmers Day's origin as unverified, not a settled history."
         ]
       },
@@ -12767,5 +12767,195 @@ export const guides: Guide[] = [
     "image": "/images/autism-awareness-month.svg",
     "imageAlt": "The rainbow infinity symbol used by autistic-led acceptance campaigns, a public-domain geometric shape not eligible for copyright",
     "imageCredit": "Public domain (simple geometric shape, ineligible for copyright), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autism_spectrum_infinity_awareness_symbol.svg)"
+  },
+  {
+    "slug": "columbus-day-whats-open",
+    "category": "Observances",
+    "title": "Is Mail Delivered on Columbus Day? What's Open",
+    "description": "Regular mail is not expected on Columbus Day 2026. Post offices and the Fed close, the NYSE trades, and Chase's commercial-banking notice says its branches stay open.",
+    "published": "2026-09-24",
+    "updated": "2026-09-24",
+    "coreSummary": "Regular mail is not expected to be delivered on Columbus Day, Monday, October 12, 2026. USPS lists the date as a 2026 holiday, and its notice for the 2025 holiday said only Priority Mail Express is delivered. Federal offices and the Federal Reserve Banks close, SIFMA recommends the bond market close, the New York Stock Exchange trades normally, and Chase's commercial-banking notice says its branches will be open.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The second Monday in October, every year, as written in the list of legal public holidays in 5 U.S.C. §6103(a).",
+      "source": {
+        "label": "5 U.S.C. §6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-12",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2027-10-11",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-10-09",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2029-10-08",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-14",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-10-13",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "The date is fixed by federal statute, but who closes on it is not. State and local governments, public schools, and private employers set their own calendars, and a number of states and cities mark Indigenous Peoples' Day on the same Monday instead of Columbus Day. The Federal Reserve's service notice titles the day \"Indigenous Peoples' Day/Columbus Day,\" while the federal statute and the Postal Service's 2026 holiday list still say Columbus Day."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Congress acted in 1934, asking the President to proclaim October 12 as Columbus Day. Public Law 90-363, signed June 28, 1968, moved the holiday to the second Monday in October and added it to the legal public holidays, effective January 1, 1971. Today 36 U.S.C. §107 asks the President to issue a proclamation each year.",
+      "source": {
+        "label": "36 U.S.C. §107: Columbus Day (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/36/107"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The short answer for October 12, 2026",
+        "body": [
+          "Columbus Day falls on Monday, October 12, 2026. Regular mail is not expected to be delivered and Post Offices should be closed, since the Postal Service lists October 12 among its 2026 holidays and handled the 2025 holiday that way. Delivery and retail service resume the next day, Tuesday, October 13.",
+          "Banks are where the answers conflict. The Federal Reserve Banks close, and Fed payment services such as FedACH pause. Individual bank branches decide for themselves. Chase's commercial-banking notice says its branches stay open. The New York Stock Exchange also trades a full session, while the bond market does not."
+        ],
+        "image": {
+          "src": "/images/columbus-day-whats-open.svg",
+          "alt": "Two-column board listing what is closed on Monday, October 12, 2026 (post offices and regular mail, federal offices, Federal Reserve Banks and FedACH, the bond market per SIFMA's recommendation) and what is open with limits (the New York Stock Exchange, Chase branches, Priority Mail Express delivery)."
+        }
+      },
+      {
+        "heading": "Mail, post offices and packages",
+        "body": [
+          "The Postal Service's events page shows Monday, October 12 in its list of 2026 holidays. The most recent USPS notice on this holiday, issued for Columbus Day 2025, spelled out what that means in practice: Post Office locations are closed, only Priority Mail Express items are delivered, and regular mail delivery and retail services resume the next day. The 2026 list confirms the date, and that notice is the best evidence of the pattern, so expect the same handling on October 12.",
+          "USPS's Priority Mail Express page describes Sunday and holiday delivery as available in many major markets for an additional fee. That is not a guarantee for every address, so the tracking page matters more than the calendar for anything time-sensitive.",
+          "The same 2025 notice pointed customers to self-service kiosks in some Post Office lobbies, which print postage for Priority Mail, Priority Mail Express and international shipping, sell stamps, and weigh packages. Those kiosks sit in select lobbies rather than every Post Office.",
+          "This page did not verify UPS, FedEx or retailer hours against their own pages, so it makes no claim about them. Check the carrier's holiday schedule before planning around a pickup."
+        ]
+      },
+      {
+        "heading": "Banks, and why Chase can be open while transactions wait",
+        "body": [
+          "The Federal Reserve's table of holidays observed by the Reserve Banks lists Columbus Day as October 12 for 2026, with October 11, 2027 and October 9, 2028 following. On the day, Federal Reserve Financial Services (excluding FedNow) closes. Its notice says FedACH processing ends at 3 a.m. Eastern on Saturday, October 10, and resumes at 5:30 p.m. Eastern on Monday, October 12.",
+          "That is why a bank can keep its lobby open and still tell customers that a payment will post on Tuesday. Chase's commercial-banking holiday notice says Chase branches will be open on Columbus Day, yet the day is treated as a holiday for online transactions. Under that notice, you cannot schedule a transaction to be delivered on the holiday, repeating transactions land on the preceding business day, and deposits made through its QuickDeposit service post the next business day.",
+          "One caution: that notice is written for commercial customers and carries a 2025 copyright line, though its table already lists 2026 and 2027. Retail banking terms can differ, so the branch locator or app is the final word. Also, some third-party bank-hours lists say every major bank closes on the day. Chase's notice contradicts that for Chase, so any list that speaks for a bank without citing the bank is worth double-checking."
+        ]
+      },
+      {
+        "heading": "Stocks trade, and SIFMA recommends bonds close",
+        "body": [
+          "The New York Stock Exchange publishes its holiday calendar for 2026, 2027 and 2028. Columbus Day does not appear on it, so the exchange runs a normal session on October 12, 2026. The list of 2026 closures runs from New Year's Day through Christmas and skips both Columbus Day and Veterans Day.",
+          "The bond market is different. SIFMA, the industry association that issues trading recommendations for U.S. government, municipal and corporate bonds and related instruments, lists Monday, October 12, 2026 among its recommended holiday closures.",
+          "For someone waiting on a wire or a mortgage-related transfer, the stock-market answer is the wrong one to check."
+        ]
+      },
+      {
+        "heading": "Government offices, schools and everything else",
+        "body": [
+          "Federal offices close because Columbus Day is one of the eleven legal public holidays in 5 U.S.C. §6103(a), which words it as \"the second Monday in October.\"",
+          "State and local calendars are where the answer stops being uniform. Some state offices, courts, DMVs and public schools close on the day; others stay open, and some states and cities use the name Indigenous Peoples' Day instead. This page did not compile a state-by-state list, because those calendars change by statute and by proclamation and a copied list would go stale. The holiday page of the state or city in question is the source to use.",
+          "Not every date that sounds official is a day off. [National Boss's Day](/national-bosses-day/) on October 16 and [National First Responders Day](/national-first-responders-day/) on October 28 are both observances with no federal holiday status, so federal offices are not closed for either."
+        ]
+      },
+      {
+        "heading": "Planning around the closure",
+        "body": [
+          "The practical effect is that Monday, October 12 does not count as a business day for the Federal Reserve or the Postal Service's regular mail, SIFMA recommends bonds treat it the same way, and it does count for stocks. Anything that promises delivery or posting in a set number of business days skips the holiday. A payment sent on Thursday, October 8 with a three-business-day window counts Friday the 9th, Tuesday the 13th and Wednesday the 14th, so it lands on the 14th and not the 13th.",
+          "Regular mail and parcel delivery are not expected on the holiday itself, and only Priority Mail Express was delivered on the 2025 holiday. For payments, the Chase notice treats the holiday as a non-processing day for online activity even when a branch is open. For anyone working from one bank's app, the bank's holiday page is the tie-breaker when this page and a bank disagree."
+        ]
+      },
+      {
+        "heading": "Why the holiday lands on this Monday",
+        "body": [
+          "Congress's 1934 action asked the President to proclaim October 12 as Columbus Day. The 1968 law, Public Law 90-363, moved the observance to the second Monday in October, and the change took effect on January 1, 1971. That is why the date moves between October 8 and October 14 instead of sitting on October 12 every year.",
+          "The President is asked each year to proclaim the day under 36 U.S.C. §107. The most recent proclamation this page found is President Trump's of October 13, 2025, on whitehouse.gov. The naming argument between Columbus Day and Indigenous Peoples' Day, and the wider October calendar, are covered on the page for [national days in October](/national-days-in-october/)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Will there be mail delivery on Monday, October 12, 2026?",
+        "answer": "Not regular mail. October 12 sits on USPS's 2026 holiday calendar, and the agency's 2025 notice limited delivery to the premium express service. Everything else waited until the following day."
+      },
+      {
+        "question": "Do banks close on Columbus Day?",
+        "answer": "The Reserve Banks shut, which pauses interbank payments until FedACH restarts that evening. Whether a branch lobby opens depends on the bank. Chase, for one, keeps branches open but handles online transfers as it would on a holiday, so postings can slip to Tuesday."
+      },
+      {
+        "question": "Is Chase Bank closed on Columbus Day?",
+        "answer": "Per the commercial holiday notice from Chase, branch doors remain open that day. The same notice classes online activity as holiday activity, so nothing can be scheduled to go out, repeating payments move to the previous business day, and QuickDeposit items post the following business day."
+      },
+      {
+        "question": "Is Columbus Day an official federal holiday?",
+        "answer": "Yes. Title 5 of the U.S. Code names it, dated the second Monday of October, as one of eleven days the statute names for federal employees. The status binds federal agencies and employees. States, school districts and companies each make their own call."
+      },
+      {
+        "question": "Is the stock market open on Columbus Day 2026?",
+        "answer": "Stocks, yes. The NYSE's 2026 calendar has no entry for the holiday. Bonds follow a different calendar, and the trade group SIFMA suggests shutting for October 12."
+      },
+      {
+        "question": "When is Columbus Day in 2027 and 2028?",
+        "answer": "Monday, October 11, 2027, then Monday, October 9, 2028, both matching the Reserve Banks' published schedule. It is always the second Monday of October."
+      }
+    ],
+    "sources": [
+      {
+        "label": "USPS Newsroom: Holidays and events (2026 holiday list)",
+        "url": "https://about.usps.com/newsroom/events/"
+      },
+      {
+        "label": "USPS North Carolina newsroom: U.S. Postal Service to Observe Columbus Day, Oct. 13 (2025 notice)",
+        "url": "https://about.usps.com/newsroom/local-releases/nc/2025/1007-usps-to-close-for-columbus-day-on-oct-13.htm"
+      },
+      {
+        "label": "USPS: Priority Mail Express (Sunday and holiday delivery)",
+        "url": "https://www.usps.com/ship/priority-mail-express.htm"
+      },
+      {
+        "label": "Federal Reserve Board: Holidays Observed, K.8 (2026-2030)",
+        "url": "https://www.federalreserve.gov/aboutthefed/k8.htm"
+      },
+      {
+        "label": "Federal Reserve Financial Services: Dates to Remember (Columbus Day service notice)",
+        "url": "https://www.frbservices.org/news/fed360/dates.html"
+      },
+      {
+        "label": "Chase: Holiday schedule (commercial banking, Chase Connect)",
+        "url": "https://www.chase.com/content/dam/chase-ux/documents/commercial-banking/chase-connect/cco_la_holidays.pdf"
+      },
+      {
+        "label": "NYSE: Holidays and trading hours calendar",
+        "url": "https://www.nyse.com/markets/hours-calendars"
+      },
+      {
+        "label": "SIFMA: Holiday Schedule",
+        "url": "https://www.sifma.org/resources/guides-playbooks/holiday-schedule"
+      },
+      {
+        "label": "5 U.S.C. §6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      },
+      {
+        "label": "36 U.S.C. §107: Columbus Day (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/36/107"
+      },
+      {
+        "label": "Federal Times: Is Columbus Day a federal holiday? (1934 resolution, 1968 statute)",
+        "url": "https://www.federaltimes.com/management/2022/10/04/is-columbus-day-a-federal-holiday/"
+      },
+      {
+        "label": "The White House: Columbus Day, 2025 (proclamation)",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/10/columbus-day-2025/"
+      }
+    ],
+    "image": "/images/columbus-day-whats-open.svg",
+    "imageAlt": "Two-column board of what is closed and what is open on Columbus Day, Monday October 12, 2026"
   }
 ];

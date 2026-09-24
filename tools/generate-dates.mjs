@@ -156,6 +156,8 @@ export const RULES = {
 	usThanksgiving: { kind: 'nth-weekday', month: 11, weekday: 'Thursday', nth: 4 },
 	// 5 U.S.C. §6103 — "the last Monday in May".
 	usMemorialDay: { kind: 'nth-weekday', month: 5, weekday: 'Monday', nth: -1 },
+	// 5 U.S.C. §6103 — "the second Monday in October".
+	usColumbusDay: { kind: 'nth-weekday', month: 10, weekday: 'Monday', nth: 2 },
 	// 5 U.S.C. §6103 — "the third Monday in January".
 	usMlkDay: { kind: 'nth-weekday', month: 1, weekday: 'Monday', nth: 3 },
 	// 36 U.S.C. §125 — "the first Sunday in September after Labor Day".

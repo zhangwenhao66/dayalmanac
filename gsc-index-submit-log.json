@@ -488,5 +488,15 @@
   "already_indexed_no_action": [],
   "quota_exceeded_attempted": [],
   "quota_used": "1 of shared account-wide daily quota"
+ },
+ {
+  "date": "2026-09-24",
+  "note": "游标轮到，今日新发布页经URL Inspection已收录；巡检0未收录，跳过不耗配额",
+  "submitted_urls": [],
+  "already_indexed_no_action": [
+   "https://dayalmanac.com/columbus-day-whats-open/"
+  ],
+  "quota_exceeded_attempted": [],
+  "quota_used": "0"
  }
 ]

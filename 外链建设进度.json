@@ -53,6 +53,15 @@
       "answer_url": "https://www.quora.com/What-are-the-differences-between-a-corn-moon-and-a-harvest-moon/answer/Owen-Zhang-161",
       "status": null,
       "notes": "本次为外链产能集中规则(2026-08-25新增)首次执行：用gsc_query.py现算8个非压制站近28天11-30位曝光，DayAlmanac(286)排第二，与WageLark(533)/UmberLore(259)一并获得本轮全部产能。目标页选取遵循冷启动规则：corn-moon页2026-08-29发布，从未建过外链。发布时该问题0答案(1条折叠答案不计)，与站内文章标题角度完全一致。以站内corn-moon文章骨架撰写(Corn Moon固定指九月满月不随月份变化；Harvest Moon是独立于月份的天文学称号，归属于离秋分最近的那次满月；两者通常重合但每约三年分离一次，下次为2028年，九月满月9月3日早于秋分18天而十月满月10月3日更接近秋分，Harvest Moon头衔转给十月；命名溯源到Jonathan Carver 1778年游记，原住民传统按整个朔望月命名而非单夜，玉米成熟/落叶等物候描述被后世简化套用到单夜满月)。已过humanizer+avoid-ai-writing双重检查(无破折号、无vague endorsement、无AI高频词)。用Quora Add Link功能(Cmd+K)插入真实超链接,锚文本here,指向corn-moon页面,全程只填URL字段。发布前用javascript_tool核实编辑器DOM中生成了真实<a href>(查询[href*=\"dayalmanac\"]命中)，发布后再次核实渲染页面DOM中确实是<a href=\"https://dayalmanac.com/corn-moon/\">真实超链接,锚文本为here。⚠️遵守流量站清单.md对本站的专属提醒：全程保持事实核查视角，无营销语气。 | question_title: What are the differences between a corn moon and a harvest moon?"
+    },
+    {
+      "date": "2026-09-26",
+      "site": "dayalmanac",
+      "target_page": "https://dayalmanac.com/holiday-spending-statistics/",
+      "question_url": "https://www.quora.com/How-much-do-Americans-spend-on-average-on-holiday-shopping",
+      "answer_url": "https://www.quora.com/How-much-do-Americans-spend-on-average-on-holiday-shopping/answer/Owen-Zhang-161",
+      "status": "published",
+      "notes": "Quora引荐回答(nofollow,非外链)。问题原有2个7年前答案。DOM核实真超链接(rel=noopener nofollow)。credential用默认Business Communications Researcher(无DayAlmanac专属credential)。已跑humanizer+avoid-ai-writing。"
     }
   ],
   "reddit": []

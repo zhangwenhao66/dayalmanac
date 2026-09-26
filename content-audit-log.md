@@ -3024,3 +3024,20 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "escalation": null
 }
 ```
+
+```json
+{
+  "type": "PAA-FAQ批强(daily-task, 2026-09-26)",
+  "site": "dayalmanac",
+  "slugs_processed": ["autism-awareness-month"],
+  "faq_added": {"autism-awareness-month": 1},
+  "skipped": [
+    "Is living with autism hard?：医疗/主观问题，与节日历史主题错配",
+    "What are some common signs of autism in adults?：临床症状 YMYL，主题错配"
+  ],
+  "sources": "NIMH autism spectrum disorder 页面（curl 核实定义原文）",
+  "humanizer_avoid_ai_writing": "已真实调用 Skill(humanizer) 与 Skill(avoid-ai-writing)",
+  "check_prose_patterns": "rc=0",
+  "note": "只新增 FAQ，未动其他字段"
+}
+```

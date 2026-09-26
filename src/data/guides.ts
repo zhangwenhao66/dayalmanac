@@ -12720,6 +12720,10 @@ export const guides: Guide[] = [
       {
         "question": "Is Autism Awareness Month a federal holiday?",
         "answer": "No. It carries no paid leave or office closures. It is marked through proclamations, nonprofit campaigns, and local events, not a legal holiday."
+      },
+      {
+        "question": "What is autism spectrum disorder?",
+        "answer": "The US National Institute of Mental Health describes it as a neurological and developmental disorder that affects how people interact with others, communicate, learn and behave. It is called developmental because symptoms generally appear in the first two years of life, though it can be diagnosed at any age."
       }
     ],
     "sources": [

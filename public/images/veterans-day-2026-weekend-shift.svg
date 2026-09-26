@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Where November 11 lands, 2026 to 2031, and which day off federal employees and the Federal Reserve Banks take</title>
+  <desc id="desc">2026 Wednesday: federal employees and Reserve Banks off November 11. 2027 Thursday: same. 2028 Saturday: federal employees off Friday November 10, Reserve Banks open that Friday. 2029 Sunday: both off Monday November 12. 2030 Monday: both off November 11. 2031 Tuesday: federal employees off November 11; the Reserve Banks' table has not been published that far.</desc>
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#2b2118">The date stays put. Only the day off moves.</text>
+  <text x="60" y="118" font-family="Georgia, serif" font-size="22" fill="#5a4a3a">Veterans Day is fixed on November 11; a weekend 11th shifts the day off to Friday or Monday.</text>
+  <rect x="60" y="150" width="1080" height="56" fill="#2b2118"/>
+  <g font-family="Georgia, serif" font-size="24" font-weight="700" fill="#ffffff">
+    <text x="84" y="187">Year</text>
+    <text x="230" y="187">Nov. 11 is a</text>
+    <text x="470" y="187">Federal employees off</text>
+    <text x="820" y="187">Reserve Banks</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="24" fill="#2b2118">
+    <rect x="60" y="206" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="244">2026</text><text x="230" y="244">Wednesday</text><text x="470" y="244">Wed., Nov. 11</text><text x="820" y="244">Closed Nov. 11</text>
+    <rect x="60" y="264" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="302">2027</text><text x="230" y="302">Thursday</text><text x="470" y="302">Thu., Nov. 11</text><text x="820" y="302">Closed Nov. 11</text>
+    <rect x="60" y="322" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="360">2028</text><text x="230" y="360">Saturday</text><text x="470" y="360" font-weight="700" fill="#b5482f">Fri., Nov. 10</text><text x="820" y="360" font-weight="700" fill="#b5482f">Open Fri., Nov. 10</text>
+    <rect x="60" y="380" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="418">2029</text><text x="230" y="418">Sunday</text><text x="470" y="418" font-weight="700" fill="#b5482f">Mon., Nov. 12</text><text x="820" y="418" font-weight="700" fill="#b5482f">Closed Mon., Nov. 12</text>
+    <rect x="60" y="438" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="476">2030</text><text x="230" y="476">Monday</text><text x="470" y="476">Mon., Nov. 11</text><text x="820" y="476">Closed Nov. 11</text>
+    <rect x="60" y="496" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="534">2031</text><text x="230" y="534">Tuesday</text><text x="470" y="534">Tue., Nov. 11</text><text x="820" y="534" fill="#5a4a3a">Not yet published</text>
+  </g>
+  <text x="60" y="590" font-family="Georgia, serif" font-size="18" fill="#5a4a3a">Sources: OPM federal holidays (through 2030); 5 U.S.C. 6103 (2031 row); Federal Reserve Financial Services.</text>
+</svg>

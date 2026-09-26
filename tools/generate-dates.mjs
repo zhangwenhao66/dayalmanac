@@ -158,6 +158,8 @@ export const RULES = {
 	usMemorialDay: { kind: 'nth-weekday', month: 5, weekday: 'Monday', nth: -1 },
 	// 5 U.S.C. §6103 — "the second Monday in October".
 	usColumbusDay: { kind: 'nth-weekday', month: 10, weekday: 'Monday', nth: 2 },
+	// 5 U.S.C. §6103(a) — "Veterans Day, November 11." A fixed date; it never moves to a Monday.
+	usVeteransDay: { kind: 'fixed', month: 11, day: 11 },
 	// 5 U.S.C. §6103 — "the third Monday in January".
 	usMlkDay: { kind: 'nth-weekday', month: 1, weekday: 'Monday', nth: 3 },
 	// 36 U.S.C. §125 — "the first Sunday in September after Labor Day".

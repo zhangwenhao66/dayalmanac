@@ -12957,5 +12957,164 @@ export const guides: Guide[] = [
     ],
     "image": "/images/columbus-day-whats-open.svg",
     "imageAlt": "Two-column board of what is closed and what is open on Columbus Day, Monday October 12, 2026"
+  },
+  {
+    "slug": "veterans-day-date",
+    "category": "Observances",
+    "title": "Veterans Day 2026: Date and What's Closed",
+    "description": "Veterans Day 2026 is Wednesday, November 11. The date never moves to a Monday, though the day off can. See what closes and how weekends shift it through 2031.",
+    "published": "2026-09-26",
+    "updated": "2026-09-26",
+    "coreSummary": "Veterans Day 2026 falls on Wednesday, November 11, and it will fall on November 11 every year, because federal law names the date itself and not a weekday. Congress did try moving it to a Monday from 1971, then reversed course in 1975 and restored November 11 starting in 1978. When the 11th lands on a weekend, only the day off moves: in 2028 federal employees take Friday, November 10, and in 2029 they take Monday, November 12. Federal offices and the Federal Reserve Banks close, the Postal Service closed its Post Offices for the 2025 holiday, and the New York Stock Exchange lists no closure.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "November 11, every year, as written in the list of legal public holidays in 5 U.S.C. §6103(a). When the date falls on a Saturday, most federal employees get the preceding Friday; on a Sunday, the following Monday.",
+      "source": {
+        "label": "5 U.S.C. §6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-11",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2027-11-11",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2028-11-11",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2029-11-11",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-11-11",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-11-11",
+          "weekday": "Tuesday"
+        }
+      ],
+      "caveat": "The date is fixed, but the day off is not. Under 5 U.S.C. §6103(b), a Saturday holiday moves to Friday for most federal employees, and OPM applies a Sunday-to-Monday rule set by Executive Order 11582 of 1971. Other calendars do not follow the same shift. The Federal Reserve's schedule says its Banks are open on the preceding Friday when a holiday lands on a Saturday, which will make Friday, November 10, 2028 a Reserve Bank business day even though federal employees are off. States, public schools and private employers set their own calendars, and Armistice Day or Remembrance Day on November 11 is a separate observance in other countries."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Congress made November 11 a legal holiday called Armistice Day in 1938. Public Law 83-380, approved June 1, 1954, struck the word Armistice and inserted Veterans, so the day honored veterans of all wars. President Eisenhower issued the first Veterans Day proclamation on October 8, 1954.",
+      "source": {
+        "label": "VA News: Veterans Day originated at the end of World War I",
+        "url": "https://news.va.gov/125098/veterans-day-originated-end-of-world-war-i/"
+      }
+    },
+    "sections": [
+      {
+        "heading": "Veterans Day 2026 at a glance",
+        "body": [
+          "Veterans Day 2026 is Wednesday, November 11. Federal offices are closed. The Federal Reserve's holiday table lists November 11 as a Reserve Bank holiday in 2026, and its FedACH notice shows processing stopping at 11:30 p.m. Eastern on Tuesday, November 10 and restarting at 5:30 p.m. Eastern on the holiday itself. The New York Stock Exchange publishes a holiday calendar for 2026, 2027 and 2028, and Veterans Day is not among its listed closures, so the exchange is not scheduled to close.",
+          "Mail depends on a notice that has not come out yet. The Postal Service's events page lists Wednesday, November 11 among its 2026 holidays, but the detailed service notice for 2026 was not out when this page was written. The 2025 notice, for Tuesday, November 11, said all Post Office locations would be closed, only Priority Mail Express would be delivered, and regular service would resume the next day."
+        ],
+        "image": {
+          "src": "/images/veterans-day-2026-weekend-shift.svg",
+          "alt": "Table of where November 11 falls from 2026 to 2031 and which day federal employees and the Federal Reserve Banks take off, showing the shift to Friday, November 10 in 2028 and Monday, November 12 in 2029."
+        }
+      },
+      {
+        "heading": "Why Veterans Day is not a Monday holiday",
+        "body": [
+          "Most of the federal holidays people think of as long weekends sit on a Monday. Veterans Day is the one that briefly joined them and then walked back out. Public Law 90-363, the Uniform Holiday Bill, was signed on June 28, 1968 and put Washington's Birthday, Memorial Day, Veterans Day and Columbus Day on Mondays. VA's history says the first Veterans Day under the new law was observed \"with much confusion\" on October 25, 1971, the fourth Monday of that month.",
+          "Many states never accepted the move and kept November 11. On September 20, 1975, President Ford signed Public Law 94-97, which put the annual observance back on November 11 starting in 1978. The National Archives dates the Monday interlude as 1971 through 1977. Columbus Day kept its Monday, which is why [Columbus Day 2026 lands on October 12](/columbus-day-whats-open/) while Veterans Day stays on the 11th."
+        ]
+      },
+      {
+        "heading": "From Armistice Day to Veterans Day",
+        "body": [
+          "November 11 marks the 1918 armistice that ended fighting in World War I. An act approved May 13, 1938 (52 Stat. 351) made the date a legal holiday to be known as Armistice Day, dedicated to world peace, and it was primarily a day for veterans of the first world war.",
+          "After World War II and the Korean War, veterans' organizations pushed to widen it. Public Law 83-380, approved June 1, 1954, changed the name to Veterans Day. Eisenhower's Proclamation 3071 followed on October 8, 1954 and called on the country to honor veterans of all its wars. Armistice Day is still a national holiday in many other countries, according to the National Archives."
+        ]
+      },
+      {
+        "heading": "When November 11 lands on a weekend",
+        "body": [
+          "The statute names the date, so the date does not move. What moves is the day off. Under 5 U.S.C. §6103(b), a holiday on a Saturday becomes a Friday holiday for most federal employees, and OPM applies the Monday rule for Sundays under Executive Order 11582. The table above shows the practical result. In 2028, November 11 is a Saturday and federal employees are off Friday, November 10. In 2029, it is a Sunday and they are off Monday, November 12.",
+          "The Federal Reserve does not mirror that on the Saturday side. Its schedule says that for holidays falling on a Saturday the Banks are open the preceding Friday, and for holidays on a Sunday they close the following Monday. So on Friday, November 10, 2028 a federal office can be shut while the Reserve Banks run a normal day, and on Monday, November 12, 2029 both are closed. The Reserve's published table runs through 2030, so its 2031 treatment is not yet known."
+        ]
+      },
+      {
+        "heading": "What else to check before November 11",
+        "body": [
+          "Individual banks and credit unions set their own branch hours, and no bank notice was checked for this page, so a branch's own holiday page is the tie-breaker. Retailer and carrier schedules were not checked either. Public schools, state offices and courts differ by state and district, so the local calendar is the source to use.",
+          "[National Adoption Day](/national-adoption-day/) also falls in November, but it is counted back from Thanksgiving instead of being fixed to a date, and it is not a federal holiday."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Veterans Day observed on a Monday?",
+        "answer": "The date is not. A Monday schedule ran from 1971 to 1977 and was undone by a 1975 law, with November 11 back in force from 1978. The day off can still land on a Monday, as it does in 2029, when the 11th is a Sunday and federal workers take November 12."
+      },
+      {
+        "question": "Are banks closed on Veterans Day?",
+        "answer": "The Reserve Banks shut, so interbank payments pause until FedACH restarts that evening. A branch's hours are the bank's own call, and its holiday notice is the answer that counts."
+      },
+      {
+        "question": "Is the post office open on Veterans Day 2026?",
+        "answer": "Expect it to be closed. In November 2025 USPS closed every Post Office, and made no regular mail deliveries. The 2026 calendar lists the date, but the 2025 notice went out on October 29 and no 2026 notice had been posted at the time of writing."
+      },
+      {
+        "question": "Is the stock market open on Veterans Day?",
+        "answer": "The NYSE closure list for 2026 to 2028 does not include Veterans Day, so no closure is scheduled. The exchange's own notices are the last word."
+      },
+      {
+        "question": "When is Veterans Day in 2027 and 2028?",
+        "answer": "Thursday in 2027, then a Saturday in 2028, both on the 11th. In 2028 that is a weekend day, so most federal workers are off the Friday before."
+      },
+      {
+        "question": "When did Armistice Day become Veterans Day?",
+        "answer": "A 1954 act renamed it, approved on the first of June, and the presidential proclamation under the new name came that October."
+      }
+    ],
+    "sources": [
+      {
+        "label": "5 U.S.C. §6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      },
+      {
+        "label": "OPM: Federal Holidays (2026 to 2030 tables, observed-date rules; the 2031 row follows from the statute)",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      {
+        "label": "VA News: Veterans Day originated at the end of World War I",
+        "url": "https://news.va.gov/125098/veterans-day-originated-end-of-world-war-i/"
+      },
+      {
+        "label": "National Archives, Pieces of History: From Armistice to Veterans Day",
+        "url": "https://prologue.blogs.archives.gov/2018/11/09/from-armistice-to-veterans-day/"
+      },
+      {
+        "label": "The American Presidency Project: Proclamation 3071, Veteran's Day, 1954",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-3071-veterans-day-1954"
+      },
+      {
+        "label": "Federal Reserve Financial Services: Holiday schedules",
+        "url": "https://www.frbservices.org/about/holiday-schedules"
+      },
+      {
+        "label": "NYSE: Holidays and trading hours calendar",
+        "url": "https://www.nyse.com/markets/hours-calendars"
+      },
+      {
+        "label": "USPS Newsroom: Holidays and events (2026 holiday list)",
+        "url": "https://about.usps.com/newsroom/events/"
+      },
+      {
+        "label": "USPS Newsroom: U.S. Postal Service To Observe Veterans Day Holiday, Nov. 11 (2025 notice)",
+        "url": "https://about.usps.com/newsroom/national-releases/2025/1029-usps-to-close-for-veterans-day-on-nov-11.htm"
+      }
+    ],
+    "image": "/images/veterans-day-2026-weekend-shift.svg",
+    "imageAlt": "Table of where November 11 lands from 2026 to 2031 and which day off federal employees and the Federal Reserve Banks take"
   }
 ];

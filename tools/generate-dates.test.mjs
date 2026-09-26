@@ -107,6 +107,14 @@ test('Columbus Day is the second Monday in October', () => {
 	assert.ok(expand(RULES.usColumbusDay, 2026, 5).every((o) => o.weekday === 'Monday'));
 });
 
+test('Veterans Day is fixed on November 11, whatever weekday that is', () => {
+	// 5 U.S.C. §6103(a) "Veterans Day, November 11". Weekdays transcribed from OPM's federal
+	// holiday tables (2026 Wed, 2027 Thu, 2028 Sat, 2029 Sun, 2030 Mon, 2031 Tue).
+	const got = expand(RULES.usVeteransDay, 2026, 6);
+	assert.deepEqual(got.map((o) => o.date), ['2026-11-11', '2027-11-11', '2028-11-11', '2029-11-11', '2030-11-11', '2031-11-11']);
+	assert.deepEqual(got.map((o) => o.weekday), ['Wednesday', 'Thursday', 'Saturday', 'Sunday', 'Monday', 'Tuesday']);
+});
+
 // ---------------------------------------------------------------------------
 // Offset rules
 // ---------------------------------------------------------------------------

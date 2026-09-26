@@ -4376,7 +4376,7 @@ export const guides: Guide[] = [
         "body": [
           "Wikipedia's entry on the rose counts genus Rosa at over three hundred wild species and tens of thousands of cultivars, most native to Asia, with smaller numbers in Europe, North America, and northwest Africa. Roses of some kind have carried symbolic weight for millennia. What most birth-flower photo galleries actually picture, though, the tall, high-centered rose sold one stem at a time in flower shops, traces to a single and comparatively recent cross.",
           "In 1867, in Lyon, France, nurseryman and rose breeder Jean-Baptiste André Guillot introduced a pink cultivar he named 'La France.' Per Wikipedia's entry on the cultivar, it's \"generally accepted to be the first hybrid tea rose,\" a class not formally recognized until the 1880s, and its introduction \"is therefore also considered the birth of the modern rose,\" the point where roses split away from older garden classes into the repeat-blooming, long-stemmed type that still dominates the cut-flower trade.",
-          "Even Guillot's own rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the plant's own record: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even settled agreement on whether it had one parent or two."
+          "Even Guillot's rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the record for the plant: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even settled agreement on whether it had one parent or two."
         ],
         "image": {
           "src": "/images/june-birth-flower-rose.jpg",
@@ -4420,27 +4420,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is June's birth flower?",
-        "answer": "Rose and honeysuckle, per The Old Farmer's Almanac and the florist trade lists that follow it. Like most months on a modern birth-flower list, June carries a primary and a secondary flower rather than one."
+        "answer": "The pair is rose plus honeysuckle, as shown on the Almanac's chart and on the florist lists built from it. As with most months on today's charts, June carries a primary and a secondary flower rather than one."
       },
       {
         "question": "Is the rose sold at florists an ancient flower?",
-        "answer": "The rose genus goes back much further and includes over 300 wild species, but the tall, single-stem rose sold as a cut flower today traces to a 19th-century hybrid, 'La France,' bred in 1867 by Jean-Baptiste André Guillot in Lyon, France, and generally credited as the first hybrid tea rose."
+        "answer": "The rose genus is far older and spans more than 300 wild species. The long-stemmed cut rose in a florist's bucket traces to a 19th-century hybrid, 'La France,' raised by the nurseryman Guillot in Lyon in 1867, and usually named the earliest hybrid tea."
       },
       {
         "question": "What does the rose mean as a birth flower?",
-        "answer": "Meaning varies by color in the Old Farmer's Almanac's framing: red for romance, pink for happiness and admiration, white for innocence and purity, orange for desire, and yellow for cheer, though some older folklore reads yellow as jealousy instead."
+        "answer": "Color sets the meaning. Red is romance. Pink means admiration and happiness, while white points to purity and innocence. Orange is desire, yellow is cheer, and older folklore sometimes flips yellow to jealousy."
       },
       {
         "question": "Is the honeysuckle pictured on birth-flower lists always the same species?",
-        "answer": "Not necessarily. Photos often show Lonicera japonica, Japanese honeysuckle, which is classified as a noxious weed in 46 US states and banned for sale in several. A native, non-invasive alternative is Lonicera sempervirens, trumpet or coral honeysuckle."
+        "answer": "Not necessarily. Photos often show the Japanese species (L. japonica), which 46 US states treat as a noxious weed and banned for sale in several. A native, non-invasive option is the coral honeysuckle (L. sempervirens), also sold as trumpet honeysuckle."
       },
       {
         "question": "Where does the word \"honeysuckle\" come from?",
-        "answer": "From Old English hunigsuge, literally \"honey-suck.\" The earliest recorded English sense of the word, around 1300, actually meant clover rather than the climbing vine; the vine sense isn't attested until roughly a century later. The name has no connection to the plant's scientific name, Lonicera, which instead honors 16th-century German botanist Adam Lonicer."
+        "answer": "Old English gave it hunigsuge, meaning honey-suck in a literal sense. In English it began as a word for clover, around 1300, and only took on the meaning of a climbing vine about a hundred years after that. The name has no connection to the genus label Lonicera, which instead honors Adam Lonicer, a German botanist of the 1500s."
       },
       {
         "question": "Does June have more than one official birthstone too?",
-        "answer": "Yes. Jewelers of America's current chart lists three: pearl, moonstone, and alexandrite, one of only two months, along with December, that carry three stones rather than one or two."
+        "answer": "Yes, it gets three on the current trade list: pearl, moonstone and alexandrite, making June one of two months, December being the other, that carry three stones rather than one or two."
       },
       {
         "question": "Why does June have two birth flowers?",
@@ -4505,14 +4505,14 @@ export const guides: Guide[] = [
       {
         "heading": "One flower, until a different almanac adds two more",
         "body": [
-          "The Old Farmer's Almanac names exactly one flower for March: the daffodil. That breaks from the pattern on this site's [June birth flower](/june-birth-flower/) page, where the Almanac's chart pairs a primary flower with a secondary one for most months, rose and honeysuckle, gladiolus and poppy. March's own page on the Almanac's site carries no \"and\" in its title, just \"The Daffodil.\"",
-          "A different publication complicates that. Farmers' Almanac is a separate company from The Old Farmer's Almanac, despite the near-identical name, a distinction Almanac.com's own editors have had to clarify publicly because of how often readers confuse the two. Farmers' Almanac's March page is titled \"Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives).\" Depending on which almanac a reader lands on, March's birth flower is one plant or three."
+          "The Old Farmer's Almanac names exactly one flower for March: the daffodil. That breaks from the pattern on this site's [June birth flower](/june-birth-flower/) page, where the Almanac's chart pairs a primary flower with a secondary one for most months, rose and honeysuckle, gladiolus and poppy. March's page on the Almanac's site carries no \"and\" in its title, just \"The Daffodil.\"",
+          "A different publication complicates that. Farmers' Almanac is a separate company from The Old Farmer's Almanac, despite the near-identical name, a distinction Almanac.com's editors have had to clarify publicly because of how often readers confuse the two. Farmers' Almanac's March page is titled \"Daffodil: The March Birth Flower (Plus Jonquil and Cherry-Blossom Alternatives).\" Depending on which almanac a reader lands on, March's birth flower is one plant or three."
         ]
       },
       {
         "heading": "Jonquil isn't another name for daffodil. It's a separate species.",
         "body": [
-          "\"Daffodil,\" \"narcissus,\" and \"jonquil\" get used interchangeably often enough that Farmers' Almanac lists jonquil as though it were simply another word for March's flower. The New York Botanical Garden's own explainer on the three names treats that as a mistake worth correcting: jonquil refers specifically to Narcissus jonquilla and its hybrids, one species within the genus, not a second name for daffodils generally. Gardening Know How's comparison piece calls the loose, interchangeable use of \"jonquil\" for any daffodil \"technically incorrect,\" even though it's become common.",
+          "\"Daffodil,\" \"narcissus,\" and \"jonquil\" get used interchangeably often enough that Farmers' Almanac lists jonquil as though it were simply another word for March's flower. The New York Botanical Garden's explainer on the three names treats that as a mistake worth correcting: jonquil refers specifically to Narcissus jonquilla and its hybrids, one species within the genus, not a second name for daffodils generally. Gardening Know How's comparison piece calls the loose, interchangeable use of \"jonquil\" for any daffodil \"technically incorrect,\" even though it's become common.",
           "The two aren't hard to tell apart once the traits are named. Daffodils carry one flower per stem on slim, sword-tipped leaves and a light scent. Jonquils, per the same NYBG and Gardening Know How comparisons, produce several flowers per stem, up to five, on slender, round-tipped leaves, from a shorter, hollow stem, with a fragrance strong enough that it's the trait most commonly used to identify one in a garden. Jonquils also run hardier in warm climates, thriving as far south as USDA zone 8, a range that doesn't suit most daffodil cultivars as well. [This site's July birth flower page](/july-birth-flower/) runs into a similar naming mix-up from a different angle: the plant most guides call Egypt's sacred lotus is actually a water lily, only distantly related to a true lotus."
         ],
         "image": {
@@ -4524,7 +4524,7 @@ export const guides: Guide[] = [
       {
         "heading": "How many species of daffodil exist? Nobody has counted the same number twice.",
         "body": [
-          "Wikipedia's list of Narcissus species lays out a count that has swung by more than tenfold depending on who did the counting and when. Carl Linnaeus, working from a narrow set of specimens in 1753, recognized six species. Botanist Fernandes accepted 22 in 1951 and had revised that up to 63 by 1968. Blanchard counted 65 in 1990; Erhardt counted 66 in 1993. The International Daffodil Register listed 87 species in 2006, the high point of the modern era. Then a 2008 genetic study by Zonneveld cut the number back down to just 36. The Royal Horticultural Society's own December 2017 register, the current standard reference, accepts 83 species names, while more than 300 additional names that once described separate species are now filed as synonyms.",
+          "Wikipedia's list of Narcissus species lays out a count that has swung by more than tenfold depending on who did the counting and when. Carl Linnaeus, working from a narrow set of specimens in 1753, recognized six species. Botanist Fernandes accepted 22 in 1951 and had revised that up to 63 by 1968. Blanchard counted 65 in 1990; Erhardt counted 66 in 1993. The International Daffodil Register listed 87 species in 2006, the high point of the modern era. Then a 2008 genetic study by Zonneveld cut the number back down to just 36. The Royal Horticultural Society's December 2017 register, the current standard reference, accepts 83 species names, while more than 300 additional names that once described separate species are now filed as synonyms.",
           "Wikipedia's summary attributes most of the swing to how narrowly or broadly a \"species\" gets defined, plus how natural hybrids get classified. A botanist working from a wide view of each species, lumping closely related populations together, ends up with a short list; one working from a narrow view, splitting them apart, ends up with a long one. Naturally occurring hybrids compound the problem: an \"ancient hybrid\" found spread across a wide area is often promoted to full species status, while a \"recent hybrid\" found growing only as scattered individuals among its parent plants usually isn't. There's no committee empowered to settle the question the way there is for cultivated varieties; the RHS runs the international registry for garden hybrids and cultivars, sorted into 13 horticultural divisions, but the wild species count underneath that system has never stopped moving."
         ],
         "image": {
@@ -4536,7 +4536,7 @@ export const guides: Guide[] = [
       {
         "heading": "The word \"daffodil\" hides a letter nobody can explain",
         "body": [
-          "Etymonline traces \"daffodil\" back to Middle English \"affodill,\" recorded around 1400, itself from Medieval Latin affodillus, from Latin asphodelus, from Greek asphodelos, a word Etymonline lists as of unknown origin in its own right. English picked up the \"d-\" spelling by the 1540s, and the added letter has never been fully explained. Etymonline's own leading theory points to the article fusing onto the word in Dutch, \"de affodil,\" the Netherlands having long been a source for bulbs. The Oxford English Dictionary's entry catalogs additional proposals nobody has settled on either: a French preposition doing the same job, \"d'asphodel\"; or a playful, childish sound-shift of the kind that turns \"Edward\" into \"Ted\" or \"aunt\" into \"tante.\" Two layers of the word's history are unresolved: the ultimate Greek root is unexplained, and so is the English letter stuck onto the front of it. A borrowed name causes a different kind of confusion over on [this site's October birth flower page](/october-birth-flower/), which traces how \"marigold\" in English was already taken, by an unrelated European flower, long before it got attached to the plant sold under that name in October now."
+          "Etymonline traces \"daffodil\" back to Middle English \"affodill,\" recorded around 1400, itself from Medieval Latin affodillus, from Latin asphodelus, from Greek asphodelos, a word Etymonline lists as of unknown origin in its own right. English picked up the \"d-\" spelling by the 1540s, and the added letter has never been fully explained. Etymonline's leading theory points to the article fusing onto the word in Dutch, \"de affodil,\" the Netherlands having long been a source for bulbs. The Oxford English Dictionary's entry catalogs additional proposals nobody has settled on either: a French preposition doing the same job, \"d'asphodel\"; or a playful, childish sound-shift of the kind that turns \"Edward\" into \"Ted\" or \"aunt\" into \"tante.\" Two layers of the word's history are unresolved: the ultimate Greek root is unexplained, and so is the English letter stuck onto the front of it. A borrowed name causes a different kind of confusion over on [this site's October birth flower page](/october-birth-flower/), which traces how \"marigold\" in English was already taken, by an unrelated European flower, long before it got attached to the plant sold under that name in October now."
         ]
       },
       {
@@ -4563,27 +4563,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is March's birth flower?",
-        "answer": "The daffodil, per The Old Farmer's Almanac, which names only that one flower for March, unlike most months on its chart. Farmers' Almanac, an entirely separate publication despite the similar name, adds jonquil and cherry blossom as alternatives on its own March page."
+        "answer": "The daffodil. It stands alone for March on the Almanac chart published under the Old Farmer's name, while most other months get two flowers. A separate publication with a confusingly similar title (Farmers' Almanac) lists jonquil plus cherry blossom as extras on its March page."
       },
       {
         "question": "Is jonquil just another name for daffodil?",
-        "answer": "No. Jonquil refers specifically to Narcissus jonquilla and its hybrids, one species within the daffodil genus, not a synonym for daffodils generally. Jonquils carry several fragrant flowers per stem on slender, round-tipped leaves; daffodils carry one flower per stem on sword-tipped leaves."
+        "answer": "No. Jonquil is a distinct species (N. jonquilla) plus hybrids of it, not a stand-in for every daffodil. It bears clusters of scented flowers on slender leaves with rounded tips. A daffodil bears a single bloom per stem, with pointed, sword-like leaves."
       },
       {
         "question": "How many species of daffodil are there?",
-        "answer": "Depends who's counting. Estimates have ranged from 6 species (Linnaeus, 1753) to 87 (the International Daffodil Register, 2006), with a 2008 genetic study cutting the number to 36 and the Royal Horticultural Society's December 2017 register currently accepting 83 species names alongside more than 300 synonyms."
+        "answer": "It depends on the counter. Linnaeus counted 6 in 1753. A 2006 register of daffodil names hit 87, then genetic work in 2008 cut it to 36, and the RHS's December 2017 list accepts 83 while treating over 300 other names as synonyms."
       },
       {
         "question": "Where does the word \"daffodil\" come from?",
-        "answer": "From Middle English \"affodill,\" ultimately from Greek asphodelos, a word of unknown origin. The initial \"d-\" that turned \"affodill\" into \"daffodil\" by the 1540s has never been fully explained; leading theories point to a fused Dutch or French article, or a playful sound-shift."
+        "answer": "It runs back through Middle English and Latin to the Greek asphodelos, whose origin is itself unknown. Nobody has explained where the leading d came from by the 1540s. Suggestions include a Dutch article, a preposition borrowed from French, or a playful sound shift."
       },
       {
         "question": "Are daffodils actually poisonous?",
-        "answer": "Yes. The bulbs contain lycorine, an alkaloid that causes vomiting and cramping. In February 2012, 11 people in Bristol, UK were sickened after eating daffodils sold next to vegetables at a supermarket, and Public Health England logged 63 similar inquiries over six years before warning retailers in 2015."
+        "answer": "Yes. The bulbs hold lycorine, which brings on vomiting and cramps. Eleven people in Bristol got sick in February 2012 once they ate daffodils that a store had displayed beside the produce. England's public-health agency later counted 63 mix-up inquiries over six years and wrote to retailers in 2015."
       },
       {
         "question": "Does March have more than one official birthstone too?",
-        "answer": "No, at least not on Jewelers of America's current chart, which lists only aquamarine for March. GIA and the American Gem Society both also present bloodstone as a second option, the same one-stone-versus-two disagreement that shows up on March's flower chart."
+        "answer": "On the current jewelry-trade chart (Jewelers of America), no: only aquamarine is listed. GIA and the AGS, though, pair aquamarine with bloodstone, so the split between one name and two appears for the flower and for the stone."
       }
     ],
     "sources": [

@@ -147,6 +147,14 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1352,
   "w": 1600
  },
+ "/images/autism-awareness-month-timeline.svg": {
+  "h": 420,
+  "w": 1200
+ },
+ "/images/autism-awareness-month.svg": {
+  "h": 612,
+  "w": 792
+ },
  "/images/banned-books-week-protest.avif": {
   "h": 960,
   "w": 1280
@@ -194,6 +202,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/bullying-prevention-month.webp": {
   "h": 1066,
   "w": 1600
+ },
+ "/images/columbus-day-whats-open.svg": {
+  "h": 630,
+  "w": 1200
  },
  "/images/corn-moon.avif": {
   "h": 960,
@@ -1747,6 +1759,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 600,
   "w": 800
  },
+ "/images/veterans-day-2026-weekend-shift.svg": {
+  "h": 630,
+  "w": 1200
+ },
  "/images/virgo-dates-uranias-mirror.avif": {
   "h": 843,
   "w": 1200
@@ -1758,6 +1774,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/virgo-dates-uranias-mirror.webp": {
   "h": 843,
   "w": 1200
+ },
+ "/images/when-does-lent-start-and-end-timeline.svg": {
+  "h": 300,
+  "w": 800
  },
  "/images/world-kindness-day-timeline.svg": {
   "h": 620,

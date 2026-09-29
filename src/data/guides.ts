@@ -1079,7 +1079,7 @@ export const guides: Guide[] = [
     "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
     "description": "National Boss's Day falls on October 16 every year, registered by Patricia Bays Haroski in 1958. The weekend-shift rule widely repeated for it has no traceable source.",
     "published": "2026-08-02",
-    "updated": "2026-08-12",
+    "updated": "2026-09-29",
     "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation is available to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
     "dateRule": {
       "kind": "fixed",
@@ -1114,11 +1114,11 @@ export const guides: Guide[] = [
           "weekday": "Thursday"
         }
       ],
-      "caveat": "Hallmark's corporate site, Wikipedia's infobox, and the calendar site Digital Hygge all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day: Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski's 1958 Chamber of Commerce registration nor Governor Kerner's 1962 proclamation is available online to confirm a weekend-shift clause was part of the original rule, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
+      "caveat": "Hallmark's corporate site, Wikipedia's infobox, and the calendar site Digital Hygge all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day: Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski's 1958 Chamber of Commerce registration nor Governor Kerner's 1962 proclamation is available online to confirm whether a weekend-shift clause belonged to the original rule or was added later as a convenience, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
     },
     "founding": {
       "status": "documented",
-      "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday (he was also her boss at the time), and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and the calendar site Digital Hygge, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and no scan turns up a reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation. Every account, including this one, is repeating a secondhand telling rather than pointing at the primary document.",
+      "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday (he was also her boss at the time), and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and the calendar site Digital Hygge, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and no scan turns up a reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation. Every account, including this one, repeats a secondhand telling; none of them point at the primary document.",
       "source": {
         "label": "Hallmark Corporate: National Boss Day",
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
@@ -1129,15 +1129,15 @@ export const guides: Guide[] = [
         "heading": "What National Boss's Day is",
         "body": [
           "National Boss's Day is an informal US observance held on October 16, aimed at employees thanking supervisors for fair and supportive management over the year. It is not a public holiday: no federal or state law requires it, government offices and banks operate on a normal schedule, and there is no day off attached to it. In 2026 it falls on a Friday.",
-          "The day works mainly through workplace gestures (cards, small gifts, a team lunch) rather than through any organized civic or religious observance. Hallmark's own history of the day, and its slow initial rollout of Boss's Day cards, is the clearest evidence of how commercial the day's growth has been rather than how official its founding was."
+          "The day works mainly through workplace gestures (cards, small gifts, a team lunch) rather than through any organized civic or religious observance. Hallmark's own history of the day, and its slow initial rollout of Boss's Day cards, is the clearest evidence of how commercial the day's growth has been, not how official its founding was."
         ]
       },
       {
         "heading": "Where the October 16 date comes from",
         "body": [
           "The origin traces to one named person: Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, who registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She chose October 16 because it was her father's birthday, and her father was, at the time, also her boss. Four years later, in 1962, Illinois Governor Otto Kerner lent the observance a measure of state recognition with a proclamation backing Haroski's registration.",
-          "That is a more specific origin than most entries on this calendar have: a named founder, a named employer and city, a stated reason for the date, and a named public official who later endorsed it. It is repeated with the same details by Hallmark's corporate site, Wikipedia, and Digital Hygge, which is a level of agreement this site does not usually see for \"national day\" observances. It is still a state governor's proclamation rather than federal law, a rung below [National Grandparents Day](/national-grandparents-day/), which Congress wrote directly into the U.S. Code.",
-          "It still is not a fully closed case. Wikipedia flags the founding sentence with a citation-needed tag, and no search here turned up a scan or transcript of the actual 1958 U.S. Chamber of Commerce registration or the 1962 Kerner proclamation. Every telling of the story, including this one, is repeating an account rather than quoting the primary document."
+          "That is a more specific origin than most entries on this calendar have: a named founder, a named employer and city, a stated reason for the date, and a named public official who later endorsed it. It is repeated with the same details by Hallmark's corporate site, Wikipedia, and Digital Hygge, which is a level of agreement this site does not usually see for \"national day\" observances. It is still a state governor's proclamation, not federal law, a rung below [National Grandparents Day](/national-grandparents-day/), which Congress wrote directly into the U.S. Code.",
+          "It still is not a fully closed case. Wikipedia flags the founding sentence with a citation-needed tag, and no search here turned up a scan or transcript of the actual 1958 U.S. Chamber of Commerce registration or the 1962 Kerner proclamation."
         ],
         "image": {
           "src": "/images/national-bosses-day-timeline.svg",
@@ -1157,45 +1157,45 @@ export const guides: Guide[] = [
         "body": [
           "Hallmark did not move quickly on National Boss's Day. Its own corporate history states that the company did not put a Boss's Day card on shelves until 1979, 21 years after Haroski's original registration. From there the line grew steadily: reporting from 2008 noted Hallmark had expanded its National Boss' Day card offering by 28 percent the year before, a sign the day had become commercially significant enough to warrant it.",
           "The commercial growth has drawn its own pushback. Writing in U.S. News & World Report, Alison Green argued that traditional office etiquette runs from boss to employee, not the other way around, and that expecting subordinates to buy gifts for people who hold power over their employment sits awkwardly next to that norm. SHRM has covered the same tension without settling it: Cord Himelstein, an HR-recognition executive quoted in its piece, argued that companies should take the pressure off front-line employees by recognizing the day officially themselves, while psychologist Paul White pushed back that appreciation \"needs to be personal rather than organizational\" and loses meaning as a top-down program.",
-          "Boss's Day is not the only observance on this calendar that spread through private registration rather than legislation. [National Sons Day](/national-sons-day/) has an even messier paper trail: a documented March 4 date from a named 2018 founder, and a second, undocumented September 28 date that circulates just as widely on social media: a reminder that \"National ___ Day\" branding is no guarantee that only one date, or one founder, is in circulation."
+          "Boss's Day is not the only observance on this calendar that spread through private registration, not legislation. [National Sons Day](/national-sons-day/) has an even messier paper trail: a documented March 4 date from a named 2018 founder, and a second, undocumented September 28 date that circulates just as widely on social media: a reminder that \"National ___ Day\" branding is no guarantee that only one date, or one founder, is in circulation."
         ]
       },
       {
         "heading": "Observed outside the United States, on the same date",
         "body": [
           "Boss's Day did not stay confined to the United States. Sources tracking the day describe it as also observed, generally on the same October 16 date, in Canada, India, Ireland, Australia, and the United Kingdom, without singling out which workplaces within those countries actually mark it.",
-          "This is a different pattern from some of the other entries on this calendar. [National Coffee Day](/national-coffee-day/), for instance, genuinely splits by country: the US date (September 29) and International Coffee Day (October 1) are two different observances with two different institutional histories, not one date drifting in translation. Boss's Day, by contrast, appears to be the same date exported alongside the same corporate culture, rather than a date that different countries independently settled on. It's one of nine single-day or single-week October observances collected, alongside a documentation ranking for each, on this site's [National Days in October](/national-days-in-october/) page."
+          "This is a different pattern from some of the other entries on this calendar. [National Coffee Day](/national-coffee-day/), for instance, genuinely splits by country: the US date (September 29) and International Coffee Day (October 1) are two different observances with two different institutional histories, not one date drifting in translation. Boss's Day, by contrast, appears to be the same date exported alongside the same corporate culture, not a date that different countries independently settled on. It's one of nine single-day or single-week October observances collected, alongside a documentation ranking for each, on this site's [National Days in October](/national-days-in-october/) page."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is National Boss's Day in 2026?",
-        "answer": "Friday, October 16, 2026. The date is fixed at October 16 every year and does not depend on the day of the week; in 2026 it happens to land on a Friday."
+        "answer": "Friday, October 16, 2026. The date is fixed on October 16 and doesn't shift with the weekday; 2026 happens to be a Friday."
       },
       {
         "question": "When is National Boss's Day in 2027?",
-        "answer": "Saturday, October 16, 2027. The date is fixed at October 16 every year and does not depend on the day of the week; in 2027 it happens to land on a Saturday. This page lists October 16 itself, since no primary source confirms the widely repeated weekend-shift convention; readers whose workplace follows that convention would mark the day on Friday, October 15 instead."
+        "answer": "Saturday, October 16, 2027. The date itself is fixed and doesn't move; 2027 is simply the year it falls on a weekend. The date table above keeps October 16 for every year, since no primary source confirms the weekend-shift custom that other sites repeat; offices following that custom would mark it a day earlier, on Friday the 15th."
       },
       {
         "question": "Does National Boss's Day move to a different day when October 16 falls on a weekend?",
-        "answer": "Hallmark's corporate site and Wikipedia's infobox both describe a convention where the workplace observance shifts to the nearest working day: Friday if October 16 is a Saturday, Monday if it is a Sunday. That convention is widely repeated, but no primary document from the 1958 registration or the 1962 proclamation is available to confirm it was part of the original rule rather than added later. This page lists October 16 itself for every year on that basis."
+        "answer": "Yes, according to Hallmark and Wikipedia, which both describe the same shift: the workday moves earlier or later depending on whether October 16 lands on a Saturday or a Sunday. This rule shows up on every calendar site that mentions the day, but it doesn't trace back to anything concrete: the founder's 1958 filing paperwork and the 1962 state-level endorsement, the two events usually cited as its origin, aren't available to check. This calendar keeps the fixed date on the table year-round and leaves it to individual offices running on that custom to shift the date on their own."
       },
       {
         "question": "Who started National Boss's Day?",
-        "answer": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958, choosing October 16 because it was her father's birthday and he was also her boss. Illinois Governor Otto Kerner backed the registration with a state proclamation in 1962. The story is consistent across multiple sources, though Wikipedia flags the underlying claim with a citation-needed tag and no primary document has surfaced online."
+        "answer": "The named founder is a State Farm secretary from the Illinois town of Deerfield called Patricia Haroski. She worked for her own father and registered it, in 1958, with the national business lobby, choosing his birthday, October 16, as the date. Otto Kerner, then Illinois's governor, followed with an Illinois proclamation in 1962, four years after the first filing. Hallmark, Wikipedia, and independent calendar sites all tell the story the same way, but none of them link to a primary record for either event, and Wikipedia marks the underlying claim as unsourced."
       },
       {
         "question": "Is National Boss's Day a federal holiday?",
-        "answer": "No. It has no federal or state legal status. Government offices, banks, and most businesses operate on their normal schedule on October 16, and no time off is attached to the day."
+        "answer": "No. Neither the federal government nor any state gives this day legal status: government offices, banks, and most businesses run their normal schedule on October 16, and no time off is attached to the day."
       },
       {
         "question": "Why do some people criticize Boss's Day?",
-        "answer": "The main objection is about the direction gifts flow. Writing in U.S. News & World Report, Alison Green argued that workplace gift-giving etiquette normally runs from a manager to an employee, not the reverse, and that a day built around employees buying gifts for the person who controls their job sits uncomfortably against that norm. SHRM has covered a related disagreement without resolving it: one HR executive it quoted argued companies should take the pressure off employees by recognizing the day officially themselves, while a psychologist quoted in the same piece argued that kind of recognition works better as a personal gesture than an organizational program."
+        "answer": "The main objection is about which direction gifts should flow. In a U.S. News piece, career columnist Alison Green made the case that workplace gift etiquette normally runs manager-to-employee, never the reverse, and that a day built around employees buying gifts for the person who controls their job sits uncomfortably against that norm. SHRM found a similar disagreement in its own reporting: one HR executive argued the company itself, not staff, should absorb that awkwardness by making the gesture official and top-down, while a psychologist countered that this kind of recognition works better as a personal gesture than an organizational program."
       },
       {
         "question": "Is Boss's Day observed outside the United States?",
-        "answer": "Yes, generally on the same October 16 date. It is also described as observed in Canada, India, Ireland, Australia, and the United Kingdom, though the sources tracking this do not break down which workplaces within those countries actually mark it."
+        "answer": "Yes, typically on the same calendar date abroad as well. Calendar sites that track this also list the day as observed in the United Kingdom as well as Canada, Australia, India, and Ireland, though none of them specify which workplaces in each country actually observe the day."
       }
     ],
     "sources": [
@@ -1699,7 +1699,7 @@ export const guides: Guide[] = [
   {
     "slug": "virgo-dates",
     "category": "Zodiac Dates",
-    "title": "Virgo Dates: August 23–September 22, in Three Systems",
+    "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23 to September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
     "updated": "2026-09-13",
@@ -13120,5 +13120,171 @@ export const guides: Guide[] = [
     ],
     "image": "/images/veterans-day-2026-weekend-shift.svg",
     "imageAlt": "Table of where November 11 lands from 2026 to 2031 and which day off federal employees and the Federal Reserve Banks take"
+  },
+  {
+    "slug": "when-does-lent-start-and-end",
+    "category": "Observances",
+    "title": "When Does Lent Start and End? Dates Through 2031",
+    "description": "Lent starts on Ash Wednesday, February 18 in 2026. Where it ends depends on the church: Holy Thursday under Catholic norms, Holy Saturday in many others.",
+    "published": "2026-09-29",
+    "updated": "2026-09-29",
+    "coreSummary": "Lent starts on Ash Wednesday, which is February 18 in 2026, and the answer to when Lent ends depends on the tradition. Catholic liturgical norms end it before the Evening Mass of the Lord's Supper on Holy Thursday (April 2, 2026), while Anglican, Lutheran, Methodist and Reformed practice commonly runs it through Holy Saturday (April 4), the day before Easter on April 5.",
+    "dateRule": {
+      "kind": "table",
+      "text": "Lent begins on Ash Wednesday, which falls 46 days before Easter Sunday. Easter follows the church's rule of the Sunday after the first full moon on or after the March equinox, so Ash Wednesday moves between early February and early March. The table lists Ash Wednesday for each year; the end date depends on the tradition and is set out in the sections below.",
+      "status": "documented",
+      "source": {
+        "label": "USCCB: Liturgical Calendar for the Dioceses of the United States, 2026 (Ash Wednesday February 18, Easter April 5)",
+        "url": "https://www.usccb.org/resources/2026cal.pdf"
+      },
+      "occurrences": [
+        {
+          "date": "2026-02-18",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2027-02-10",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2028-03-01",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2029-02-14",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2030-03-06",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2031-02-26",
+          "weekday": "Wednesday"
+        }
+      ],
+      "caveat": "The 2026 dates come straight from the USCCB's published liturgical calendar. The 2027 to 2031 Easter dates (March 28, 2027; April 16, 2028; April 1, 2029; April 21, 2030; April 13, 2031) were transcribed from timeanddate.com and a second calendar site, CalendarDate.com, which agree with each other and with the 46-day rule from Wikipedia's Ash Wednesday article. This page did not find a USCCB calendar for those later years to check them against. These are the dates for Western churches. Eastern Orthodox and Eastern Catholic churches start Great Lent on Clean Monday and often celebrate Easter on a different Sunday, so their dates differ in many years and are not listed here."
+    },
+    "founding": {
+      "status": "unverified",
+      "text": "Lent has no registered founder, proclamation or single date of origin. The season took its present shape over the early centuries of the church, and popular histories credit particular popes with particular steps, such as fixing the forty days or adding Ash Wednesday. Those attributions are repeated from one site to the next, and this page could not trace them to a primary document. What can be checked today is the current Roman Catholic rule, which is written down in the Universal Norms on the Liturgical Year and the General Roman Calendar, and the calendar the USCCB publishes from it.",
+      "source": {
+        "label": "Universal Norms on the Liturgical Year and the General Roman Calendar (Liturgy Office of England and Wales)",
+        "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+      }
+    },
+    "sections": [
+      {
+        "heading": "The short answer",
+        "body": [
+          "Lent starts on Ash Wednesday in every tradition that keeps it in the Western style, and in 2026 that is Wednesday, February 18. Where it ends is the part that trips people up. The Catholic Church's own rules end Lent before the Evening Mass of the Lord's Supper on Holy Thursday, which is April 2 in 2026. Many Anglican, Lutheran, Methodist and Reformed churches run it through Holy Saturday, April 4. Easter Sunday is April 5, and none of the sources checked for this page counts Lent as reaching that far.",
+          "Eastern churches answer differently again. Eastern Orthodox, Eastern Catholic and Oriental Orthodox churches keep Great Lent as a continuous forty days that starts on Clean Monday and ends on Lazarus Saturday, before Holy Week begins. That is a separate season with its own start, not a variation of the Western one."
+        ]
+      },
+      {
+        "heading": "Lent dates from 2026 to 2031",
+        "body": [
+          "Each line gives Ash Wednesday, Holy Thursday, Holy Saturday and Easter Sunday for Western churches.",
+          "2026: Ash Wednesday February 18, Holy Thursday April 2, Holy Saturday April 4, Easter April 5.",
+          "2027: Ash Wednesday February 10, Holy Thursday March 25, Holy Saturday March 27, Easter March 28.",
+          "2028: Ash Wednesday March 1, Holy Thursday April 13, Holy Saturday April 15, Easter April 16.",
+          "2029: Ash Wednesday February 14, Holy Thursday March 29, Holy Saturday March 31, Easter April 1.",
+          "2030: Ash Wednesday March 6, Holy Thursday April 18, Holy Saturday April 20, Easter April 21.",
+          "2031: Ash Wednesday February 26, Holy Thursday April 10, Holy Saturday April 12, Easter April 13.",
+          "The 2026 row matches the USCCB calendar, which lists Ash Wednesday on February 18, Easter on April 5 and the Evening Mass of the Lord's Supper on Thursday, April 2. In every year the gap between Ash Wednesday and Easter is 46 days, so only the calendar dates move, not the length of the season."
+        ],
+        "image": {
+          "src": "/images/when-does-lent-start-and-end-timeline.svg",
+          "alt": "Timeline of the 2026 Lent season: Ash Wednesday February 18, Holy Thursday April 2, Holy Saturday April 4 and Easter Sunday April 5, with the Catholic end of Lent marked at Holy Thursday and the Anglican, Lutheran, Methodist and Reformed end marked at Holy Saturday"
+        }
+      },
+      {
+        "heading": "Why the end of Lent has two answers",
+        "body": [
+          "The Universal Norms on the Liturgical Year, the document behind the Roman Catholic calendar, put it in section 28: the forty days of Lent run from Ash Wednesday up to, but not including, the Mass of the Lord's Supper. That Mass is held on the evening of Holy Thursday and opens the three-day Easter Triduum. On the Catholic calendar, Lent is therefore over by Thursday evening, and Good Friday and Holy Saturday belong to the Triduum.",
+          "Wikipedia's article on Ash Wednesday says Lent ends on Holy Saturday in the Moravian, Lutheran, Anglican, Methodist and Reformed churches, and its article on Lent says that depending on denomination and local custom Lent concludes either on the evening of Holy Thursday or at sundown on Holy Saturday. It adds that fasting observances are kept until the evening of Holy Saturday in either case. So the two answers are less far apart than they look. The disagreement is about what to call the last two days, and the fast is usually the same.",
+          "Some popular explainers put the end at Good Friday or even Easter. Neither the Catholic norms nor the Protestant practice described above supports that. Easter starts a separate season, and Lent has always been counted as the preparation before it."
+        ]
+      },
+      {
+        "heading": "Forty days, forty-six days",
+        "body": [
+          "The number in the name and the number on the calendar do not match. From Ash Wednesday to Holy Saturday inclusive is 46 days, and six of them are Sundays. Wikipedia's Ash Wednesday article says Lent is forty days long not including Sundays, and its Lent article explains that Sundays, being the Lord's Day, are not regarded as fasting days. That is how 46 days on the calendar become the forty of the name.",
+          "That count is a Holy Saturday count. On the Catholic calendar the season stops on Thursday evening, so a Catholic parish is not literally keeping forty days of Lent from start to finish. It keeps the traditional forty inside a slightly shorter official season, with the last days absorbed into the Triduum. Nothing in the norms makes that a contradiction, though searches for \"how long is Lent\" do return answers that disagree."
+        ]
+      },
+      {
+        "heading": "How the start date is worked out",
+        "body": [
+          "Ash Wednesday is always 46 days before Easter, and Easter is set by the church's rule: the Sunday after the first full moon on or after the March equinox, with the equinox fixed at March 21 for this purpose. Because that rule tracks the moon, Ash Wednesday can land anywhere from early February to early March. This page does not compute Easter itself. The dates above are transcribed from published calendars and checked against each other, the same approach the site takes for other moon-driven dates such as the [Corn Moon](/corn-moon/).",
+          "For another observance where the date is set by an organization each year and cannot be derived by a formula, see [Banned Books Week](/banned-books-week/). For a calendar question about closures rather than dates, [Columbus Day: What's Open](/columbus-day-whats-open/) covers which offices and banks close."
+        ]
+      },
+      {
+        "heading": "Eastern churches: Great Lent",
+        "body": [
+          "In Eastern Orthodox, Eastern Catholic, Eastern Lutheran and Oriental Orthodox practice, Great Lent starts on Clean Monday, which falls on a Monday rather than a Wednesday, and ends on Lazarus Saturday, the day before Palm Sunday. Wikipedia describes it as observed continuously, without interruption, for forty days. Holy Week is then a separate period of its own.",
+          "Because these churches commonly celebrate Easter on a different Sunday from the Western date, Great Lent and Western Lent often start on different days. Anyone planning around a specific congregation should use that congregation's own calendar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When does Lent start and end in 2026?",
+        "answer": "This year the season opens in mid-February, on the 18th. A Catholic parish stops counting on the evening of Thursday, April 2, when the Triduum opens. Methodist, Lutheran, Reformed and Anglican congregations often carry on to Saturday, April 4, and Easter falls on April 5."
+      },
+      {
+        "question": "What are the 40 days of Lent?",
+        "answer": "Count 46 calendar days, beginning with the first day of the season and stopping at Holy Saturday, then drop the six Sundays. What is left is the forty, since Sundays are not counted as fasting days."
+      },
+      {
+        "question": "What is the forbidden word in Lent?",
+        "answer": "In Catholic liturgy it is \"Alleluia.\" Church law on the Mass leaves it out from the first day of Lent until the Easter Vigil."
+      },
+      {
+        "question": "What day do you break the Lent fast?",
+        "answer": "According to Wikipedia, Western practice keeps the fast going until Saturday evening, even in churches that count the season as finished on Thursday. Parishes differ on the details, so a local church calendar decides."
+      },
+      {
+        "question": "When is Ash Wednesday in 2027?",
+        "answer": "It falls on February 10, 2027, a Wednesday. Easter that year is March 28, and the start is counted back from it. After that come March 1 in 2028 and February 14 in 2029."
+      },
+      {
+        "question": "Does Lent end on Easter?",
+        "answer": "No. Easter Sunday opens the Easter season. The Catholic rules close Lent on the Thursday before, and many Protestant traditions close it on the Saturday before, so neither carries it into Sunday."
+      },
+      {
+        "question": "When does Great Lent start for Orthodox Christians?",
+        "answer": "It opens on Clean Monday, the Monday that starts the Eastern season. The exact date follows the Eastern Easter, which frequently sits a week or more apart from Western Easter, so a local Orthodox calendar gives the start."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Universal Norms on the Liturgical Year and the General Roman Calendar (Liturgy Office of England and Wales)",
+        "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+      },
+      {
+        "label": "USCCB: Liturgical Calendar for the Dioceses of the United States, 2026",
+        "url": "https://www.usccb.org/resources/2026cal.pdf"
+      },
+      {
+        "label": "Wikipedia: Lent",
+        "url": "https://en.wikipedia.org/wiki/Lent"
+      },
+      {
+        "label": "Wikipedia: Ash Wednesday",
+        "url": "https://en.wikipedia.org/wiki/Ash_Wednesday"
+      },
+      {
+        "label": "timeanddate.com: Easter Sunday in the United States",
+        "url": "https://www.timeanddate.com/holidays/us/easter-sunday"
+      },
+      {
+        "label": "CalendarDate.com: Easter 2031",
+        "url": "https://www.calendardate.com/easter_2031.htm"
+      }
+    ],
+    "image": "/images/when-does-lent-start-and-end-timeline.svg",
+    "imageAlt": "Timeline of the 2026 Lent season from Ash Wednesday on February 18 to Easter Sunday on April 5, showing where Catholic and Protestant practice end Lent"
   }
 ];

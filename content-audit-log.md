@@ -3041,3 +3041,16 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "note": "只新增 FAQ，未动其他字段"
 }
 ```
+
+### 2026-09-29 national-bosses-day（trafficsite-content-quality-audit）
+```json
+{"url_slug": "national-bosses-day", "last_audited": "2026-09-29", "published_date": "2026-08-02",
+ "findings": [
+  "事实核实全过：Haroski/State Farm/1958/父亲生日、Kerner 1962、Hallmark 1979、28%(2007)、Alison Green 引语、SHRM Himelstein/White 逐字引语、Digital Hygge 国家名单(与 SHRM/Hallmark 名单各不相同，页面已正确归因 Digital Hygge)、周日期表 2026-2031 全对；配图 CC BY 2.0 有效；schema 4 块与可见内容一致",
+  "机械散文检查：rather-than 9 次/1539 词(超阈) + 7 条 FAQ 与正文逐字重合。独立 agent 复核：前者多数为承载论点的事实对比(仅换句式不删信息)，后者 FAQ#3/#4 确认为真实复制",
+  "avoid-ai-writing detect：0 破折号、无 Tier1/2 词，仅上述结构问题；google-spam-compliance：全 PASS(非模板、有原创怀疑式考据)",
+  "零点击清单 3 条待处理(national boss day 2026 等 74/34/15 曝光)：既有 FAQ 已直接答，SERP 有 AI Overview 且未引用本站，判定为 AI Overview 截流非内容缺口，不硬凑"],
+ "actions_taken": ["换句式减少 rather-than(不改事实)", "删重复收尾句", "改写 FAQ#2-#7 消除逐字重合", "updated→2026-09-29(published 已存在)", "build/push/线上生效/seo_drift(仅 FAQ schema 内容变化，预期)/IndexNow"],
+ "seo_score": "未变", "geo_score": "未变(结构未动)",
+ "扩散判定": "单站(FAQ 复述阈值对短专有名词/日期天然敏感，属脚本校准问题，未新增通用规则)"}
+```

@@ -66,3 +66,14 @@
 - **Deadline**：2026-09-29 17:00（鼠标真实点击日历控件选中29日，未直接写文本框，符合SKILL.md第0条硬规则）。
 - **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `8cd4850b9b3a63f1d4588a8c618a8dfc`。
 - **上线复核**：⏳ 待下次任务运行时补查。本次运行未做历史pending条目复核（时间所限），下次运行时应补做，包括08-25条目`6d4e8b9791885d604680578e7820efe9`。
+
+### 2026-09-29（周二，正常排期）
+
+- **问题标题**：Marketing and brand teams: has a promotional date or name changed because someone else held the trademark?
+- **角度**：绑定`national-taco-day`一文讲的真实商标史——National Taco Day从10月4日改到"十月首个周二"这个变动，只有在Taco Bell于2023年5月发起法律程序、2023年10月20日清空全美各州对"Taco Tuesday"这个短语的商标注册后才成为可能，2024年9月Taco Bell市场负责人与National Day Calendar创始人Marlo Anderson联合宣布了这次改期。征集营销/品牌团队举出真实案例——一次促销活动或日期规划因为别人持有相关名称/日期的商标权而不得不更改，具体发生了什么。与此前问过的National Day起源不可考角度（08-04）、生辰石清单分歧角度（08-12）、联邦立法资质角度（08-18）、机构官方创立故事对不上档案角度（08-25）、cause-marketing透明度角度（09-15）均不重叠——这次首次切入商标权本身阻碍营销活动这个具体机制。
+- **绑定文章**：DayAlmanac `national-taco-day`（National Taco Day），"Why the date moved (and what made it possible)"一节讲了Taco Tuesday商标清空的全过程。
+- **分类标签**：Topics = Business & Finance + PR, Media & Marketing（新组合，此前五条均未用过这个组合）；Countries = Australia + UK & Republic of Ireland + Canada + United States。
+- **表单设置**：Job title = Content Creator；Organisation = DayAlmanac；Contact = Email；Unpaid；Email address 和 Contact email 均填 `contact@dayalmanac.com`。
+- **Deadline**：2026-10-13 17:00（鼠标真实点击日历控件切换到10月并选中13日，未直接写文本框，符合SKILL.md第0条硬规则）。
+- **发布状态**：✅ 已提交，跳转到 thankyou.asp，提示 "Pending approval..."。提交回执 product id = `9a484ae208deb35cdb5e54445fba826d`。
+- **上线复核**：本次运行前已在四站侧顺带核对09-22三站流量站条目均已上线，但本站及其余09-15五站的历史pending条目本次仍未逐一复核（时间所限），下次运行时应补做，包括08-25条目`6d4e8b9791885d604680578e7820efe9`和09-15本条`8cd4850b9b3a63f1d4588a8c618a8dfc`。

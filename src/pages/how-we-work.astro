@@ -1,0 +1,54 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+	title="How DayAlmanac works"
+	description="Where DayAlmanac gets its facts, how pages are dated and corrected, and how it earns money."
+>
+	<div class="mx-auto max-w-[720px]">
+		<h1 class="font-display text-3xl font-bold text-[var(--ink)] md:text-4xl">How DayAlmanac works</h1>
+
+		<div class="prose-content mt-7 max-w-[640px] text-[0.9375rem] leading-[1.85] text-[var(--ink)]/70">
+			<p>
+				DayAlmanac answers three questions about a day: when it falls, what it is and who started it.
+			</p>
+
+			<h2>Sources</h2>
+			<p>
+				Each page lists the sources behind it, with links. Most come from Wikipedia, Congress.gov and GovInfo for federal observances, the American Presidency Project, GIA for birthstones and the Old Farmer's Almanac. Where a date follows a stateable rule, such as a fixed calendar date or the nth weekday of a month, a script generates it from that rule instead of anyone typing it in by hand.
+			</p>
+
+			<h2>Dates and corrections</h2>
+			<p>
+				Every page shows when it was last updated. If something is wrong, write to <a href="mailto:contact@dayalmanac.com">contact@dayalmanac.com</a> with the page address and what looks off. Confirmed errors get fixed.
+			</p>
+
+			<h2>Ads and money</h2>
+			<p>
+				Pages carry display ads. No page is sponsored, and advertisers do not see or approve pages before they run. The <a href="/privacy/">Privacy page</a> lists the advertising and analytics services the site uses. Some pages link to Amazon products. Those are affiliate links marked as sponsored, and the site may earn a commission if you buy through one.
+			</p>
+		</div>
+	</div>
+</Layout>
+
+<style>
+	.prose-content :global(h2) {
+		margin-top: 1.75rem;
+		margin-bottom: 0.75rem;
+		font-size: 1.1rem;
+		font-weight: 700;
+		font-family: "Fraunces", serif;
+		color: var(--ink);
+	}
+	.prose-content :global(h2:first-child) {
+		margin-top: 0;
+	}
+	.prose-content :global(p) {
+		margin-bottom: 1rem;
+	}
+	.prose-content :global(a) {
+		color: var(--flag-dark);
+		text-decoration: underline;
+	}
+</style>

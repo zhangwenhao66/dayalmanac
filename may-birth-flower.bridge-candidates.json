@@ -1,0 +1,37 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "So does Farmers' Almanac, the separate company this site's [March birth flower](/march-birth-flower/) page found splitting from the Old Farmer's Almanac's chart that same month, adding jonquil and cherry blossom where the Almanac listed daffodil alone.",
+    "target_slug": "march-birth-flower",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "February's listing keeps that same two-flower habit too, pairing violet with primrose on [this site's February birth flower page](/february-birth-flower/).",
+    "target_slug": "february-birth-flower",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "January's two-flower pairing, carnation and snowdrop, gets the same treatment on [this site's January birth flower page](/january-birth-flower/), including a color myth of its own.",
+    "target_slug": "january-birth-flower",
+    "target_found": true
+  },
+  {
+    "index": 4,
+    "source": "正文",
+    "sentence": "Hawthorn's taxonomic history runs a version of the same problem this site found earlier in [Narcissus, March's genus](/march-birth-flower/), though the actual figures involved are different.",
+    "target_slug": "march-birth-flower",
+    "target_found": true
+  },
+  {
+    "index": 5,
+    "source": "正文",
+    "sentence": "This site's [birthstones by month](/birthstones-by-month/) page checked Jewelers of America's current buying guide directly and found May listed with a single official stone, emerald, no second gem and no disagreement with the Gemological Institute of America or the American Gem Society, unlike March, where those three organizations don't fully agree, or June, which carries three stones instead of one.",
+    "target_slug": "birthstones-by-month",
+    "target_found": true
+  }
+]

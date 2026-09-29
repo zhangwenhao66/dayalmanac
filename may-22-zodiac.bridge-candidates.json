@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "A reader curious how a nearby tropical sign works through the same three-calendar comparison can find it laid out on this site's [Virgo dates page](/virgo-dates/), and June 22 runs into its own version of the same Wikipedia-versus-publisher date gap on [this site's June 22 zodiac page](/june-22-zodiac/).",
+    "target_slug": "virgo-dates",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "A reader curious how a nearby tropical sign works through the same three-calendar comparison can find it laid out on this site's [Virgo dates page](/virgo-dates/), and June 22 runs into its own version of the same Wikipedia-versus-publisher date gap on [this site's June 22 zodiac page](/june-22-zodiac/).",
+    "target_slug": "june-22-zodiac",
+    "target_found": true
+  }
+]

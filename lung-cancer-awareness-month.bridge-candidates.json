@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "That is the same by-year pattern this site has already documented for [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), though the two observances didn't get there the same way.",
+    "target_slug": "breast-cancer-awareness-month",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[No-Shave November](/no-shave-november/), which shares the same 30 days, has never had any federal recognition at all, at any level, a reminder that Lung Cancer Awareness Month's 2020 Senate resolution and 2022 presidential proclamation put it on firmer government footing than most of the observances crowding the same month, even without a standing statute behind it.",
+    "target_slug": "no-shave-november",
+    "target_found": true
+  }
+]

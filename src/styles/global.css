@@ -186,3 +186,16 @@ body {
 	color: var(--flag);
 	font-weight: 800;
 }
+
+/* ---------- Cookie choices ---------- */
+html.ads-off .adsterra-slots { display: none !important; }
+.foot-link { font: inherit; padding: 0; border: 0; background: none; cursor: pointer; }
+.consent-bar { position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 50; max-width: 720px; margin: 0 auto; padding: 14px 16px; background: var(--leaf); color: var(--ink); border: 1px solid var(--rule); border-top: 2px solid var(--ink); border-left: 4px solid var(--flag); box-shadow: 0 6px 24px rgb(31 29 26 / 0.22); font-size: 0.95rem; }
+.consent-bar[hidden] { display: none; }
+.consent-bar p { margin: 0 0 12px; }
+.consent-bar a { color: var(--flag-dark); }
+.consent-actions { display: flex; gap: 10px; justify-content: flex-end; }
+.consent-actions button { font: inherit; font-weight: 700; min-height: 44px; padding: 8px 22px; border: 2px solid var(--ink); cursor: pointer; }
+#consent-decline { background: var(--leaf); color: var(--ink); }
+#consent-accept { background: var(--ink); color: var(--paper); }
+.consent-actions button:focus-visible, .foot-link:focus-visible { outline: 3px solid var(--flag-dark); outline-offset: 2px; }

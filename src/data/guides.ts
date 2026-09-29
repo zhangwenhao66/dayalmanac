@@ -214,7 +214,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles rather than anything contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
+      "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles, none of them contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
       "source": {
         "label": "National Day Calendar: National Boyfriend Day (history section)",
         "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
@@ -226,7 +226,7 @@ export const guides: Guide[] = [
         "body": [
           "National Boyfriend Day is an unofficial observance on October 3 set aside for acknowledging a romantic partner. Nothing organizes it and nothing is scheduled; the customs, such as they are, formed by imitation. In practice it works as a prompt for a social media post and as a slot on brand marketing calendars. September holds a different kind of naming quirk too: [this site's Corn Moon page](/corn-moon/) found that month's full moon name splits from the more familiar Harvest Moon in about one year out of three, next in 2028.",
           "The word \"National\" in the name is honorific and carries no legal weight. Holiday Insights, which tracks this category of observance, reports finding no congressional record and no presidential proclamation behind it. That places National Boyfriend Day alongside the several thousand other \"national days\" circulating online: named by someone at some point, kept alive by repetition, recognized by no official body.",
-          "It is often described as the counterpart to National Girlfriend Day on August 1, but that pairing is contested. National Today and National Day Calendar both define the August date as a celebration of female friendship rather than of romantic partners, and Bustle states directly that there is no equivalent day for women in relationships. Only Holiday Insights treats the two as a romantic pair."
+          "It is often described as the counterpart to National Girlfriend Day on August 1, but that pairing is contested. National Today and National Day Calendar both define the August date as a celebration of female friendship, not of romantic partners, and Bustle states directly that there is no equivalent day for women in relationships. Only Holiday Insights treats the two as a romantic pair."
         ]
       },
       {
@@ -244,7 +244,7 @@ export const guides: Guide[] = [
           "This is the part most calendar sites smooth over, so it is worth being specific about what does and does not exist.",
           "National Day Calendar does not credit a founder. Its entry says the exact origin \"remains a bit of a mystery\" and that the site is \"still digging for the full story.\" That matters because when a day has been registered with them by a company, a trade group, or an individual, National Day Calendar normally names that party in the history section. Here there is nobody to name.",
           "Two origin claims circulate, and they do not agree. Dictionary.com’s pop culture entry says the day began on October 3, 2012, started by a group of Twitter users writing appreciation posts about their boyfriends, and embeds a tweet from that date as an illustration. It identifies no originator. National Today gives a different account: the earliest reference it found was to \"Boyfriend Day,\" probably dated October 4, 2014, and the page states plainly that no sole source is credited with initiating it. The word \"probably\" is National Today’s own.",
-          "The 2014 version is the one that spread. Wikipedia repeats it as something the day is thought to have originated from, and its citations are mostly lifestyle roundups published years later rather than contemporaneous coverage. Repetition across dozens of calendar pages has hardened a hedged guess into a stated fact. Sprout Social, writing about the same observance, says flatly that it is unclear why the internet chose October at all.",
+          "The 2014 version is the one that spread. Wikipedia repeats it as something the day is thought to have originated from, and its citations are mostly lifestyle roundups published years later, not contemporaneous coverage. Repetition across dozens of calendar pages has hardened a hedged guess into a stated fact. Sprout Social, writing about the same observance, says flatly that it is unclear why the internet chose October at all.",
           "One frequently repeated statistic deserves a flag. Many pages, Wikipedia included, state that the day gained traction in March 2016 with more than 46,000 tweets. The same figure appears on National Today with no underlying data and no statement of what was counted or how; Wikipedia sources it to a 2023 news article rather than to any original measurement. March is also seven months away from the date the day is observed, which makes the number hard to interpret even if it is accurate. It gets copied anyway.",
           "What would actually settle the question is a dated original post, a registration with a calendar registrar, or a proclamation. None of those has surfaced. An observance emerging from a hashtag without a founder is ordinary and not suspicious in itself. The difference here is that the sources presenting a confident origin date are presenting someone else’s guess. [National Pasta Day](/national-pasta-day/) makes a good comparison here: the October 17 date gets an undocumented 1995 founding story bolted onto it constantly, while the real World Pasta Day sits eight days later, October 25, with an actual institutional history behind it instead."
         ]
@@ -263,7 +263,7 @@ export const guides: Guide[] = [
         "heading": "How people mark it",
         "body": [
           "Almost entirely by posting. The standard form is a photo of a partner with a short caption and the hashtag #NationalBoyfriendDay. There is no gift convention, no card industry, and no expected spend attached to the day, which separates it from Valentine’s Day and its $29.1 billion in [tracked annual spending](/holiday-spending-statistics/).",
-          "A counter-tradition runs alongside the sincere posts and has proven durable. Covering the day on October 3, 2017, Bustle documented people responding by naming fictional characters, celebrities, pets and food as their boyfriends instead of real partners. That joke now accounts for a substantial share of what actually circulates on October 3, and it has been a recurring feature of the day for years rather than a one-off.",
+          "A counter-tradition runs alongside the sincere posts and has proven durable. Covering the day on October 3, 2017, Bustle documented people responding by naming fictional characters, celebrities, pets and food as their boyfriends in place of real partners. That joke now accounts for a substantial share of what actually circulates on October 3, and it has been a recurring feature of the day for years, not a one-off.",
           "Brands treat the date as a scheduled opportunity. Sprout Social lists National Boyfriend Day in its social media holiday calendar and suggests that businesses post customer photos, run discounts, and build hashtag campaigns around it. This is worth knowing if you are wondering why the day appears in your feed from accounts that have no obvious connection to it."
         ]
       },
@@ -278,39 +278,39 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Boyfriend Day?",
-        "answer": "National Boyfriend Day is October 3 every year. The date is fixed and does not move to a weekend or shift by weekday."
+        "answer": "Every October 3. The date is fixed, so it stays put and does not slide to a weekend."
       },
       {
         "question": "What day of the week is National Boyfriend Day in 2026 and 2027?",
-        "answer": "October 3 falls on a Saturday in 2026 and a Sunday in 2027. The date itself never changes — National Boyfriend Day is always October 3 — only the weekday it lands on shifts from year to year."
+        "answer": "The date never changes, only the weekday does: October 3 is a Saturday in 2026 and a Sunday in 2027."
       },
       {
         "question": "Who created National Boyfriend Day?",
-        "answer": "No one knows, and no source can document it. Nobody is named as its founder, no organization registered it, and no proclamation exists. National Day Calendar says the origin remains a mystery and that it is still researching. Dictionary.com attributes the day to unnamed Twitter users in October 2012, while National Today says the earliest reference it found was probably dated October 4, 2014. Those accounts are two years apart and neither identifies a person."
+        "answer": "Nobody can say, and neither a founder, registrar nor proclamation has turned up. The biggest day-registry site calls the origin a mystery it is still digging into. Two other accounts point to different starting points: Dictionary.com says unnamed Twitter users began it in October 2012, while National Today's earliest find is a probable October 4, 2014 mention. Neither names a person."
       },
       {
         "question": "Is National Boyfriend Day an official holiday?",
-        "answer": "No. It is not a federal or public holiday in the United States or elsewhere. Nothing closes, no one receives time off, and there is no congressional record or presidential proclamation establishing it. The word \"National\" in the name is honorific and was not conferred by any government body."
+        "answer": "No. Nothing closes, nobody gets the day off, and neither a statute nor any act of Congress or presidential decree backs it. \"National\" here is just part of the name, and no government body granted it."
       },
       {
         "question": "Is National Boyfriend’s Day the same as National Boyfriend Day?",
-        "answer": "Yes. National Boyfriend Day, National Boyfriend’s Day and National Boyfriends Day all refer to the same October 3 observance. Different calendar sites use different spellings, but no source places any variant on a different date."
+        "answer": "Yes, it is one observance. The singular, possessive and plural spellings all point to October 3, and none of the sources checked gives any of them another date."
       },
       {
         "question": "Why is National Boyfriend Day on October 3?",
-        "answer": "No documented reason exists. Dictionary.com suggests October 3 was adopted because it was already Mean Girls Day, an internet observance marked since around 2011 that comes from a line in the 2004 film. That is an after-the-fact interpretation rather than a recorded decision. Sprout Social says it is simply unclear why October was chosen."
+        "answer": "Nobody recorded a reason. Dictionary.com's guess is that October 3 was already claimed by Mean Girls Day, a joke from a 2004 movie that has circulated online since about 2011, so boyfriend posts piled onto it. That reading came afterward and is not a documented choice. Sprout Social calls the pick of October unexplained."
       },
       {
         "question": "Is there a National Girlfriend Day?",
-        "answer": "Yes, National Girlfriend Day is observed on August 1. It is often cited as the reason the boyfriend version exists, but the two registries that define it, National Today and National Day Calendar, both describe August 1 as a day for female friendship rather than for romantic partners. Its own origin is disputed rather than settled, with different sources crediting different people or groups depending on which account you read."
+        "answer": "Yes, on August 1. Some treat it as the origin of the boyfriend version, but the largest day registry and National Today both frame August 1 around friendship between women, not romance. Its own beginnings are disputed, and sources credit different people or groups."
       },
       {
         "question": "Is October 1 Girlfriend Day?",
-        "answer": "No. National Girlfriend Day falls on August 1, not October 1, and National Boyfriend Day itself falls on October 3. Nothing on either registry's calendar places a girlfriend- or boyfriend-themed observance on October 1 specifically."
+        "answer": "No. The girlfriend observance sits on August 1 and the boyfriend one on October 3. Neither registry lists a girlfriend or boyfriend day on October 1."
       },
       {
         "question": "Is today National Boyfriend and Girlfriend Day?",
-        "answer": "There is no single combined day by that name. National Boyfriend Day (October 3) and National Girlfriend Day (August 1) are two separate, unofficial observances more than two months apart, each with its own disputed origin story, not one joint holiday for couples."
+        "answer": "There is no single combined day. The boyfriend day (October 3) and the girlfriend day (August 1) are separate, informal days more than two months apart, each with a disputed origin story, so neither is a joint holiday for couples."
       }
     ],
     "sources": [
@@ -811,27 +811,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Coffee Day?",
-        "answer": "National Coffee Day is September 29 in the United States, every year. It is a fixed calendar date rather than a floating one, so it does not move to the nearest weekday and falls on a different day of the week each year."
+        "answer": "The US date is September 29, year in and year out. The date is fixed, so it slides across the weekdays and is never moved to suit one."
       },
       {
         "question": "Is National Coffee Day the same as International Coffee Day?",
-        "answer": "No. They are two different observances on two different dates. National Coffee Day in the United States is September 29 and has no documented founder. International Coffee Day is October 1; it was agreed by member states of the International Coffee Organization in March 2014, first held on October 1, 2015, and designated by the UN General Assembly on March 10, 2026 in resolution A/RES/80/249. Some countries observe their own coffee day on October 1 instead of September 29, and others use unrelated dates."
+        "answer": "No, they are separate. The US September 29 day lacks a documented founder. The international one is on October 1: the ICO's member states agreed to it in March 2014, the first was held in 2015, and the UN's General Assembly proclaimed it on March 10, 2026 under A/RES/80/249. Some other countries observe one on October 1 too, and others choose unrelated dates."
       },
       {
         "question": "Who started National Coffee Day?",
-        "answer": "Nobody has been able to show who started it. No US law or presidential proclamation created it, and no organization has ever announced founding it. The National Coffee Association promotes the day but does not claim to have created it. The earliest public mention anyone has traced is a 2005 reference by the National Coffee Association, reported by the trade publication Sprudge — a first sighting, not a founding."
+        "answer": "No one has shown it. No statute or proclamation set it up, and no group announced founding it. The NCA, the trade body that pushes the day, does not say it invented it. The earliest public trace, reported by Sprudge, is a 2005 mention by that same body, which counts as a first sighting and not a founding."
       },
       {
         "question": "Is National Coffee Day a federal holiday?",
-        "answer": "No. It is not a federal holiday and carries no legal status. Government offices, banks, schools, and businesses operate normally on September 29. The closest official action is H.Res. 784 in the 119th Congress, a non-binding resolution introduced on September 30, 2025 that expressed support for the designation and was referred to committee."
+        "answer": "No. It has no legal status, and offices, banks, schools and businesses run normally that day. The closest official gesture is a non-binding House resolution, H.Res. 784, filed on the last day of September 2025 and sent to committee."
       },
       {
         "question": "Why do coffee chains give away free coffee on September 29?",
-        "answer": "Because the day functions as a retail promotion in the United States. Coffee chains and convenience stores use the date to run one-day free or discounted drink offers, most of them requiring a loyalty account or a mobile app order. The offers change every year, are announced shortly beforehand, and generally apply only on September 29 at participating locations."
+        "answer": "Because retailers use it as a promotion. Chain outlets and corner stores put on one-day deals, mostly tied to a loyalty account or app order. The deals differ each year, are announced only a short while ahead, and usually apply on the day itself at participating stores."
       },
       {
         "question": "Does National Coffee Day ever fall on a different date?",
-        "answer": "Not in the United States. It is September 29 regardless of the day of the week. What varies is which country you are in: a number of countries mark their coffee day on October 1 alongside International Coffee Day, and some use entirely different dates."
+        "answer": "Not within the US, where it stays on September 29 whatever the weekday. The variation is by country: many mark it on October 1 alongside the international one, and a few pick other dates."
       }
     ],
     "sources": [
@@ -1280,7 +1280,7 @@ export const guides: Guide[] = [
         "heading": "What National Cat Day is",
         "body": [
           "National Cat Day is a US observance held on October 29, encouraging people to adopt shelter cats, support rescue organizations, and spend extra time with the cats they already have. It carries no legal status: no federal or state law recognizes it, government offices and banks run a normal schedule, and no day off is attached to it. In 2026 it falls on a Thursday.",
-          "Like most observances on this calendar, it spreads mainly through social media and pet-brand marketing rather than through any civic or religious institution. Retailers and shelters use the date as a hook for adoption events and product promotions, which is a large part of how it has stayed visible since 2005."
+          "Like most observances on this calendar, it spreads mainly through social media and pet-brand marketing, not through any civic or religious institution. Retailers and shelters use the date as a hook for adoption events and product promotions, which is a large part of how it has stayed visible since 2005."
         ]
       },
       {
@@ -1288,14 +1288,14 @@ export const guides: Guide[] = [
         "body": [
           "The origin traces to one named person: Colleen Paige, a pet and family lifestyle expert, who founded National Cat Day in 2005. Her stated goal was to draw public attention to the number of cats that need rescuing each year, and to give cat owners a reason to celebrate the animals already in their homes.",
           "Paige did not stop at cats. She is also credited as the founder of National Dog Day (2004), National Puppy Day, National Mutt Day, National Wildlife Day, and National Beach Day, among other pet- and animal-themed US observances. That is a different pattern from [National Boss's Day](/national-bosses-day/), where Patricia Bays Haroski registered one specific day in 1958 and the record stops there. Paige's founding claims are, by the same standard applied throughout this calendar, still just one person's account: there is no registration filing, trademark record, or proclamation available online to check independently, even though National Today, National Day Calendar, and Wikipedia all repeat the same name and year without contradiction. A different observance on this calendar clears that bar outright: [National Apple Day](/national-apple-day/) has a named founder, Britain's Common Ground charity, which registered the October 21 date in 1990, a paper trail most 'national day' origin stories lack.",
-          "One detail is notably absent: a stated reason for the October 29 date itself. For National Dog Day, Paige has said August 26 marks the day her family adopted a shelter dog when she was ten years old. No source carries an equivalent explanation for why Cat Day landed on October 29 rather than any other date."
+          "One detail is notably absent: a stated reason for the October 29 date itself. For National Dog Day, Paige has said August 26 marks the day her family adopted a shelter dog when she was ten years old. No source carries an equivalent explanation for why Cat Day landed on October 29 and not some other date."
         ]
       },
       {
         "heading": "Four cat days, four dates, four founders",
         "body": [
           "\"Cat day\" is not one observance; it is a name loosely shared by at least four of them, and calendar sites frequently mix up which date and origin story belongs to which.",
-          "National Cat Day itself is the one covered on this page: October 29, US-only, founded by Colleen Paige in 2005. International Cat Day falls on August 8 and has an entirely separate, older institutional history: the International Fund for Animal Welfare (IFAW) created it in 2002, and in 2020 stewardship passed to International Cat Care, a UK-based nonprofit that has worked on feline welfare since 1958. Black Cat Appreciation Day, observed August 17 in the US, was founded in 2011 by Wayne H. Morris in memory of his sister and her black cat, Sinbad, who both died that year; Morris built it around dispelling superstitions that made black cats harder to place for adoption. National Black Cat Day, October 27 in the UK, was launched the same year, 2011, by the British charity Cats Protection, for a closely related reason: at launch, the charity's own data showed black and black-and-white cats took seven days longer on average to find a home than cats of other colors, a gap Cats Protection reported had narrowed to two days by 2019.",
+          "National Cat Day itself is the one covered on this page: October 29, US-only, founded by Colleen Paige in 2005. International Cat Day falls on August 8 and has an entirely separate, older institutional history: the International Fund for Animal Welfare (IFAW) created it in 2002, and in 2020 stewardship passed to International Cat Care, a UK-based nonprofit that has worked on feline welfare since 1958. Black Cat Appreciation Day, observed August 17 in the US, was founded in 2011 by Wayne H. Morris in memory of his sister and her black cat, Sinbad, who both died that year; Morris built it around dispelling superstitions that made black cats harder to place for adoption. National Black Cat Day, October 27 in the UK, was launched the same year, 2011, by the British charity Cats Protection, for a closely related reason: at launch, the charity's data showed black and black-and-white cats took seven days longer on average to find a home than cats of other colors, a gap Cats Protection reported had narrowed to two days by 2019.",
           "Two of those four (the American Black Cat Appreciation Day and the British National Black Cat Day) share almost the same name, launched in the same year, for a similar adoption-equity reason, on dates about two months apart rather than close together. That is enough overlap that a reader searching for one can easily land on coverage of the other. The safest way to keep them straight is by founder and country: Paige for the US's general National Cat Day, IFAW/International Cat Care for the global August observance, Morris for the US black-cat day, and Cats Protection for the UK black-cat day.",
           "Both black-cat campaigns lead with superstition as the reason adoption lags, but a peer-reviewed study published in March 2026 in the journal Animals, by researchers Jill A. Villarreal, Reese Gebauer, and James C. Ha, tested that explanation directly and did not find much support for it. The researchers showed 1,004 US-based participants 40 real cat adoption photos, ten each of black, white, orange tabby, and brown tabby cats sourced from Petfinder, and asked them to judge each cat's emotion and how likely it was to be adopted within two weeks. Black cats were rated significantly less adoptable, and viewers more often read fear or anger into their expressions, but when the researchers specifically tested superstition and skin-color bias as explanations, neither showed a significant effect; the factor that did line up with lower adoptability ratings was simply how hard black cats' faces are to read in a typical shelter photo. That does not rule out superstition playing some role, but it is a reminder that the most repeated explanation is not automatically the same as a tested one."
         ]
@@ -1304,42 +1304,42 @@ export const guides: Guide[] = [
         "heading": "The shelter numbers behind the adoption push",
         "body": [
           "Coverage of National Cat Day commonly cites shelter statistics to make the case for adoption, and the numbers in circulation do not agree with each other. Some blog posts state 6.3 million animals surrendered annually with 920,000 euthanized; others, covering the same day, cite 7.6 million surrendered and 2.7 million cats euthanized. Neither figure is attributed to a specific report in the articles that use it.",
-          "The ASPCA's own current shelter statistics, current as of 2025, put the real numbers well below either of those recycled figures: 5.8 million dogs and cats entered US shelters and rescues that year, 3 million of them cats, and approximately 597,000 animals were euthanized in shelters, 277,000 of them cats. Those figures reflect a shelter system that has improved substantially since the older, larger numbers still being repeated on some observance pages were first published. Readers who want a current, sourced number for how many cats need adoption should use the ASPCA's own statistics page rather than a figure repeated from an uncredited older post, a caution that applies just as well to [National Coffee Day](/national-coffee-day/) and any other observance page that leans on a statistic to make its case. It's one of nine single-day or single-week October observances gathered, along with a paper-trail ranking for each, on this site's [National Days in October](/national-days-in-october/) page."
+          "The ASPCA's own current shelter statistics, current as of 2025, put the real numbers well below either of those recycled figures: 5.8 million dogs and cats entered US shelters and rescues that year, 3 million of them cats, and approximately 597,000 animals were euthanized in shelters, 277,000 of them cats. Those figures reflect a shelter system that has improved substantially since the older, larger numbers still being repeated on some observance pages were first published. Readers who want a current, sourced number for how many cats need adoption should use the ASPCA's statistics page rather than a figure repeated from an uncredited older post, a caution that applies just as well to [National Coffee Day](/national-coffee-day/) and any other observance page that leans on a statistic to make its case. It's one of nine single-day or single-week October observances gathered, along with a paper-trail ranking for each, on this site's [National Days in October](/national-days-in-october/) page."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is National Cat Day in 2026?",
-        "answer": "Thursday, October 29, 2026. The date is fixed at October 29 every year in the United States and does not shift for weekends."
+        "answer": "Thursday, October 29, 2026. The United States keeps it on October 29 each year, and weekends never move it."
       },
       {
         "question": "Who founded National Cat Day?",
-        "answer": "Colleen Paige, a pet and family lifestyle expert, founded it in 2005 to draw attention to shelter cats needing adoption. She has also founded several other pet-themed observances, including National Dog Day. No source documents why she chose October 29 specifically."
+        "answer": "A pets-and-lifestyle personality named Colleen Paige launched it in 2005 to publicize cats in shelters that need adopters. Her other creations include a dog day and further animal-themed observances. Nothing on record says why October 29 was chosen."
       },
       {
         "question": "Is National Cat Day the same as International Cat Day?",
-        "answer": "No. International Cat Day falls on August 8 and was founded in 2002 by the International Fund for Animal Welfare, with stewardship passing to International Cat Care in 2020. National Cat Day falls on October 29 and was founded separately, in 2005, by Colleen Paige in the United States."
+        "answer": "No. The August 8 observance grew out of a 2002 campaign by the animal-welfare group IFAW, and in 2020 a UK charity took over stewardship. The October 29 day started separately in 2005 with Colleen Paige in the US."
       },
       {
         "question": "Is National Cat Day the same as Black Cat Appreciation Day or National Black Cat Day?",
-        "answer": "No, and those two are also not each other. Black Cat Appreciation Day (US) falls on August 17 and was founded in 2011 by Wayne H. Morris in memory of his sister and her cat, Sinbad. National Black Cat Day (UK) falls on October 27 and was launched the same year, 2011, by the charity Cats Protection to improve adoption rates for black cats. National Cat Day, the subject of this page, is a separate US observance on October 29."
+        "answer": "No, and those two differ from each other as well. The US black-cat observance is August 17; Wayne H. Morris started it in 2011 after his sister died along with her cat Sinbad. The UK's is October 27, which Cats Protection, a UK charity, began in 2011 to help black cats find homes. The all-cat day is a separate US observance on October 29."
       },
       {
         "question": "Does superstition explain why black cats are adopted less?",
-        "answer": "Maybe not primarily. Both black-cat observances lead with superstition as the explanation, but a peer-reviewed study published in March 2026 (Villarreal, Gebauer & Ha, in the journal Animals) tested superstition and skin-color bias directly against real shelter adoption photos and found neither had a significant effect on adoptability ratings. The factor that did correlate was how hard black cats' faces are to read in typical shelter photography."
+        "answer": "Possibly not mainly. Both black-cat days blame superstition, but a March 2026 paper in a peer-reviewed journal, Animals (Villarreal, Gebauer and Ha), tested that idea against real shelter photos and found no significant effect from superstition or color bias. What did track with reduced odds of adoption was the difficulty of reading a black cat's expression in shelter photos."
       },
       {
         "question": "How many cats are in US shelters?",
-        "answer": "According to the ASPCA's current shelter statistics, 3 million cats entered US shelters and rescues in 2025 out of 5.8 million companion animals total, and approximately 277,000 cats were euthanized that year. Older, unsourced figures still circulating on some observance pages (such as 2.7 million cats euthanized) are well above the ASPCA's current numbers."
+        "answer": "The ASPCA's current data count 5.8 million shelter and rescue intakes of dogs and cats across the US in 2025, with cats making up 3 million of those and about 277,000 cats euthanized. Older unsourced numbers still circulating on certain observance pages, like a 2.7 million euthanasia total, run far above that."
       },
       {
         "question": "Is National Cat Day a federal holiday?",
-        "answer": "No. It has no legal status. Government offices, banks, and most businesses operate on their normal schedule on October 29, and no time off is attached to the day."
+        "answer": "No. No law recognizes it. Government offices, banks and most businesses keep their usual hours on October 29, and nobody gets time off."
       },
       {
         "question": "Is National Black Cat Day on August 17 or October 27?",
-        "answer": "Neither date is wrong, they're two different holidays. August 17 is Black Cat Appreciation Day, a US observance founded in 2011 by Wayne H. Morris. October 27 is National Black Cat Day, a separate UK observance launched the same year by the charity Cats Protection. Both are distinct from National Cat Day itself, October 29."
+        "answer": "Neither is wrong, since they are separate holidays. August 17 is the US black-cat observance, which Wayne H. Morris began in 2011. October 27 is the UK's black cat day, begun the same year by Cats Protection. Neither of those is the October 29 day."
       },
       {
         "question": "How rare is a 100% black cat?",
@@ -10777,10 +10777,10 @@ export const guides: Guide[] = [
     "description": "National Burrito Day moves with the calendar, always the first Thursday of April, but no person, company, or filing has ever been tied to starting it.",
     "published": "2026-08-28",
     "updated": "2026-08-28",
-    "coreSummary": "National Burrito Day falls on the first Thursday of April each year (April 2 in 2026), a moving date rather than a fixed one, and no founder, company, or registration has ever been traced to it. The burrito itself is far older than the day: a Scottish traveler described eating tortillas called burros in Michoacán as early as 1843, more than fifty years before the word's first appearance in a Mexican dictionary in 1895.",
+    "coreSummary": "National Burrito Day falls on the first Thursday of April each year (April 2 in 2026), a moving date, not a fixed one, and no founder, company, or registration has ever been traced to it. The burrito itself is far older than the day: a Scottish traveler described eating tortillas called burros in Michoacán as early as 1843, more than fifty years before the word's first appearance in a Mexican dictionary in 1895.",
     "dateRule": {
       "kind": "nth-weekday",
-      "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar rather than staying fixed from year to year. It carries no legal or governmental status. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
+      "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar and does not stay fixed from year to year. It carries no legal or governmental status. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
       "status": "conventional",
       "source": {
         "label": "National Burrito Day, First Thursday of April: National Day Calendar",
@@ -10803,7 +10803,7 @@ export const guides: Guide[] = [
       {
         "heading": "A moving date nobody claims to have set",
         "body": [
-          "National Burrito Day doesn't sit on a fixed square of the calendar the way [National Taco Day](/national-taco-day/) does. It's pegged to a weekday, the first Thursday of April, which means the date itself shifts every year: April 2 in 2026, April 1 in 2027, April 6 in 2028. That's an unusual choice for a food holiday, and it looks deliberate: landing on a weekday rather than a weekend gives restaurant chains a guaranteed Thursday to run a promotion, instead of gambling on which day of the week a fixed date falls.",
+          "National Burrito Day doesn't sit on a fixed square of the calendar the way [National Taco Day](/national-taco-day/) does. It's pegged to a weekday, the first Thursday of April, which means the date itself shifts every year: April 2 in 2026, April 1 in 2027, April 6 in 2028. That's an unusual choice for a food holiday, and it looks deliberate: a weekday date, unlike a weekend one, gives restaurant chains a guaranteed Thursday to run a promotion and spares them from gambling on which day of the week a fixed date falls.",
           "What's missing is any record of who made that choice. National Day Calendar lists the observance every year, but its archive holds no proclamation crediting a person or company with registering it, in contrast to sibling entries on the same site that do name a founder and a year. Chipotle's 2026 promotion alone put more than $2 million in prizes behind a \"Burrito Vault\" game for the day, and Qdoba and Moe's Southwest Grill run their own deals alongside it, a lot of annual marketing weight resting on a date nobody has stepped forward to claim."
         ]
       },
@@ -10817,53 +10817,53 @@ export const guides: Guide[] = [
       {
         "heading": "Two rival stories for \"little donkey,\" and one that's just folklore",
         "body": [
-          "\"Burrito\" is the diminutive of burro, Spanish for donkey, but sources don't agree on why the food got that name, and at least one of the popular explanations is folklore rather than documented history. The Sonoran historian Horacio Sobarzo Díaz, writing in his 1966 Vocabulario Sonorense, offered a specific and unflattering theory: he traced the name to food stalls in Sonora that were suspected of substituting cheap donkey meat for beef, and argued that customers began calling the dish \"burro\" as a sly dig at what might really be inside it.",
-          "A second, more benign theory holds that the name is a visual comparison rather than an accusation: a rolled, stuffed tortilla resembles the bedrolls and packs a donkey would carry, making \"little donkey\" a case of naming a food after what it looks like being hauled rather than what might be in it. A third story circulates constantly online and deserves to be labeled clearly as folklore rather than fact: that a street vendor named Juan Méndez, selling food from a donkey cart in Ciudad Juárez during the Mexican Revolution (1910 to 1921), inspired the name because customers started asking for \"the little donkey's food.\" It's a good story, but no contemporary record of Méndez has turned up to confirm it, and it should be read as the same kind of retrofitted origin tale that surrounds plenty of other foods, not as settled history."
+          "\"Burrito\" is the diminutive of burro, Spanish for donkey, but sources don't agree on why the food got that name, and at least one of the popular explanations is folklore, not documented history. The Sonoran historian Horacio Sobarzo Díaz, writing in his 1966 Vocabulario Sonorense, offered a specific and unflattering theory: he traced the name to food stalls in Sonora that were suspected of substituting cheap donkey meat for beef, and argued that customers began calling the dish \"burro\" as a sly dig at what might really be inside it.",
+          "A second, more benign theory holds that the name is a visual comparison rather than an accusation: a rolled, stuffed tortilla resembles the bedrolls and packs a donkey would carry, making \"little donkey\" a case of naming a food after what it looks like being hauled, not what might be in it. A third story circulates constantly online and deserves to be labeled clearly as folklore and not fact: that a street vendor named Juan Méndez, selling food from a donkey cart in Ciudad Juárez during the Mexican Revolution (1910 to 1921), inspired the name because customers started asking for \"the little donkey's food.\" It's a good story, but no contemporary record of Méndez has turned up to confirm it, and it should be read as the same kind of retrofitted origin tale that surrounds plenty of other foods, not as settled history."
         ]
       },
       {
         "heading": "How a regional word became an American restaurant category",
         "body": [
           "The burrito's move from a Mexican regionalism to a fixture of American menus has a clearer paper trail than its name does. Alejandro and Rosa Borquez opened the Sonora Cafe in Los Angeles in 1923; a customer's caricature drawing in 1925 led them to rename it El Cholo, and the restaurant is credited with putting the first restaurant-style burritos on a U.S. menu sometime in the 1930s. The word reached U.S. print not long after: historian Erna Fergusson's 1934 Mexican Cookbook, a collection of New Mexican regional recipes, is cited as its first appearance in American media.",
-          "From there the burrito moved from restaurant plate to freezer aisle. In 1956, Duane Roberts developed the first frozen burrito in Southern California, a step that did more than any single restaurant to put the dish within reach of people who'd never eaten Mexican food at all. A heavier, more elaborate lineage of burrito was taking shape around the same years, five hundred miles north in San Francisco, built around ingredients like guacamole, the topic of [National Guacamole Day](/national-guacamole-day/) elsewhere on this calendar."
+          "From there the burrito moved from restaurant plate to freezer aisle. In 1956, Duane Roberts developed the first frozen burrito in Southern California, a step that did more than any single restaurant to put the dish within reach of people who'd never eaten Mexican food at all. A heavier, more elaborate lineage of burrito was taking shape around the same years in San Francisco. For another Mexican-rooted food with a shaky calendar entry, [National Guacamole Day](/national-guacamole-day/) on this site has no founder on record either."
         ]
       },
       {
         "heading": "San Francisco and San Diego each built their own style, and neither one agrees on who started it",
         "body": [
           "The oversized, foil-wrapped \"Mission-style\" burrito, stuffed with rice, whole beans, and sour cream on top of the meat, traces back to the taquerías of San Francisco's Mission District in the 1960s and 1970s, and even that more recent history is contested. Febronio Ontiveros, owner of El Faro on Folsom Street, says he built the first \"super burrito\" for a group of hungry firefighters on September 26, 1961, laying out several small tortillas together because larger ones weren't commercially available yet. Taquería La Cumbre tells a separate story, dating its own version to 1969, eight years later, when it began assembling burritos on a steam-table line for its blue-collar customers. Both restaurants are still open, both still tell their own version, and no outside record settles which one actually came first.",
-          "Two hundred miles south, San Diego built a different burrito tradition with its own separate founder story. Roberto Robledo opened a tortillería in San Diego in the early 1960s and began selling small bean burritos at a stand called La Lomita by the late 1960s, opening the first Roberto's Taco Shop by 1970, a lineage credited with popularizing the simpler, no-frills San Diego style and the carne asada burrito, the kind of small, meat-forward burrito pictured on this page, a world apart from the Mission's assembly-line excess. Readers curious about the rest of this calendar's Mexican-food observances can find [National Quesadilla Day](/national-quesadilla-day/) in late September, a rare case among these food days with an actual company and year attached to it."
+          "Roughly 450 miles south, San Diego built a different burrito tradition with its own separate founder story. Roberto Robledo opened a tortillería in San Diego in the early 1960s and began selling small bean burritos at a stand called La Lomita by the late 1960s, opening the first Roberto's Taco Shop by 1970, a lineage credited with popularizing the simpler, no-frills San Diego style and the carne asada burrito, the kind of small, meat-forward burrito pictured on this page, a world apart from the Mission's assembly-line excess. Readers curious about the rest of this calendar's Mexican-food observances can find [National Quesadilla Day](/national-quesadilla-day/) in late September, a rare case among these food days with an actual company and year attached to it."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is National Burrito Day in 2026?",
-        "answer": "Thursday, April 2, 2026. The date is the first Thursday of April every year, so it moves: 2027's falls on April 1, and 2028's on April 6."
+        "answer": "Thursday, April 2, 2026. It sits on whichever Thursday comes first in April, so it shifts yearly: April 1 in 2027 and April 6 in 2028."
       },
       {
         "question": "Who founded National Burrito Day?",
-        "answer": "No one that any source checked for this page could identify. National Day Calendar lists the observance annually but has no proclamation crediting a founder, unlike some of its other food-day entries that do name a person or company."
+        "answer": "Nobody has been identified. The calendar registry that lists the day each year carries no proclamation that names any individual or business, though it does credit founders for some other food days."
       },
       {
         "question": "Does National Burrito Day have any official or government status?",
-        "answer": "No. It has no legal or legislative backing. It's a calendar-industry and restaurant-marketing convention, kept consistent across observance-tracking sites, not a government-designated day."
+        "answer": "No. No law backs it. It is a marketing and calendar-site convention, listed the same way across tracking sites, and no government body has designated it."
       },
       {
         "question": "Why is a burrito called a \"burrito\"?",
-        "answer": "\"Burrito\" means \"little donkey\" in Spanish. Sources disagree on why: Sonoran historian Horacio Sobarzo Díaz traced it to a slur about stalls substituting donkey meat for beef, while another theory holds it's a visual comparison to the bedrolls a donkey would carry. A popular story about a Ciudad Juárez street vendor named Juan Méndez is widely repeated online but has no contemporary record backing it, and should be treated as folklore."
+        "answer": "The name means \"little donkey\" in Spanish, and the reason is disputed. A 1966 Sonoran vocabulary attributes it to food stalls accused of passing off donkey meat as beef. Another reading says a rolled tortilla looks like a donkey's load. A story about a street seller called Juan Méndez in Ciudad Juárez is repeated widely but rests on nothing written at the time, so treat it as folklore."
       },
       {
         "question": "What's the earliest written record of a burrito?",
-        "answer": "Not the 1895 dictionary entry that's usually cited. Frances Erskine Inglis's 1843 travel memoir Life in Mexico describes eating a \"burro\" (a tortilla filled with cheese) on the road in Michoacán, 52 years before the word appears in the Diccionario de Mejicanismos."
+        "answer": "Not the 1895 dictionary, though that is the entry usually quoted. An 1843 travel book by a Scottish author describes tortillas with cheese offered as a \"burro\" in Michoacán, 52 years ahead of the dictionary."
       },
       {
         "question": "Did the burrito originate in the United States or Mexico?",
-        "answer": "The word and the basic dish are Mexican, originally just a regional name for what other parts of the country called a taco. The idea of the burrito as its own distinct American restaurant category, separate from the taco, largely developed in the United States, starting with Los Angeles's El Cholo Spanish Cafe in the 1930s."
+        "answer": "Mexico for the word and the basic dish, the US for the burrito as its own menu category. In Mexico it began as a regional label for what elsewhere was called a taco. The separate-food idea is mostly a US development, which took off after El Cholo in Los Angeles put burritos on a menu in the 1930s."
       },
       {
         "question": "Who really invented the Mission-style burrito?",
-        "answer": "It's disputed. El Faro's owner, Febronio Ontiveros, says he built the first one for firefighters in 1961. Taquería La Cumbre dates its own version to 1969. Both San Francisco restaurants are still open, both still tell their own version, and no independent record has settled which came first."
+        "answer": "Nobody can prove it. El Faro's owner, Ontiveros, says he made the first one for firefighters in 1961, while La Cumbre, another Mission taquería, puts a 1969 date on its version. Each shop is still operating and stands by its story, and no independent record decides between them."
       },
       {
         "question": "Is Chipotle doing anything for National Burrito Day 2026?",

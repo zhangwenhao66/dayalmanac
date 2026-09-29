@@ -13163,11 +13163,11 @@ export const guides: Guide[] = [
           "weekday": "Wednesday"
         }
       ],
-      "caveat": "The 2026 dates come straight from the USCCB's published liturgical calendar. The 2027 to 2031 Easter dates (March 28, 2027; April 16, 2028; April 1, 2029; April 21, 2030; April 13, 2031) were transcribed from timeanddate.com and a second calendar site, CalendarDate.com, which agree with each other and with the 46-day rule from Wikipedia's Ash Wednesday article. This page did not find a USCCB calendar for those later years to check them against. These are the dates for Western churches. Eastern Orthodox and Eastern Catholic churches start Great Lent on Clean Monday and often celebrate Easter on a different Sunday, so their dates differ in many years and are not listed here."
+      "caveat": "The 2026 dates come straight from the USCCB's published liturgical calendar. The 2027 to 2031 Easter dates (March 28, 2027; April 16, 2028; April 1, 2029; April 21, 2030; April 13, 2031) were taken from published calendar sites and cross-checked against Wikipedia's list of dates for Easter, and the 2031 date was also confirmed on CalendarDate.com. They agree with each other and with the 46-day rule from Wikipedia's Ash Wednesday article. This page did not find a USCCB calendar for those later years to check them against. These are the dates for Western churches. Eastern churches start Great Lent on Clean Monday, and Eastern Orthodox churches follow their own Easter date (April 12 in 2026), so their dates differ and are not listed here."
     },
     "founding": {
       "status": "unverified",
-      "text": "Lent has no registered founder, proclamation or single date of origin. The season took its present shape over the early centuries of the church, and popular histories credit particular popes with particular steps, such as fixing the forty days or adding Ash Wednesday. Those attributions are repeated from one site to the next, and this page could not trace them to a primary document. What can be checked today is the current Roman Catholic rule, which is written down in the Universal Norms on the Liturgical Year and the General Roman Calendar, and the calendar the USCCB publishes from it.",
+      "text": "Lent has no registered founder, proclamation or single date of origin. The season took its present shape over the early centuries of the church, and this page did not find a primary document that names who fixed the forty days or added Ash Wednesday. What can be checked today is the current Roman Catholic rule, which is written down in the Universal Norms on the Liturgical Year and the General Roman Calendar, and the calendar the USCCB publishes from it.",
       "source": {
         "label": "Universal Norms on the Liturgical Year and the General Roman Calendar (Liturgy Office of England and Wales)",
         "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
@@ -13177,7 +13177,7 @@ export const guides: Guide[] = [
       {
         "heading": "The short answer",
         "body": [
-          "Lent starts on Ash Wednesday in every tradition that keeps it in the Western style, and in 2026 that is Wednesday, February 18. Where it ends is the part that trips people up. The Catholic Church's own rules end Lent before the Evening Mass of the Lord's Supper on Holy Thursday, which is April 2 in 2026. Many Anglican, Lutheran, Methodist and Reformed churches run it through Holy Saturday, April 4. Easter Sunday is April 5, and none of the sources checked for this page counts Lent as reaching that far.",
+          "In Western churches that keep Lent, the season starts on Ash Wednesday, and in 2026 that is Wednesday, February 18. Where it ends is the part that trips people up. The Catholic Church's own rules end Lent before the Evening Mass of the Lord's Supper on Holy Thursday, which is April 2 in 2026. Many Anglican, Lutheran, Methodist and Reformed churches run it through Holy Saturday, April 4. Easter Sunday is April 5, and none of the sources checked for this page counts Lent as reaching that far.",
           "Eastern churches answer differently again. Eastern Orthodox, Eastern Catholic and Oriental Orthodox churches keep Great Lent as a continuous forty days that starts on Clean Monday and ends on Lazarus Saturday, before Holy Week begins. That is a separate season with its own start, not a variation of the Western one."
         ]
       },
@@ -13203,14 +13203,14 @@ export const guides: Guide[] = [
         "body": [
           "The Universal Norms on the Liturgical Year, the document behind the Roman Catholic calendar, put it in section 28: the forty days of Lent run from Ash Wednesday up to, but not including, the Mass of the Lord's Supper. That Mass is held on the evening of Holy Thursday and opens the three-day Easter Triduum. On the Catholic calendar, Lent is therefore over by Thursday evening, and Good Friday and Holy Saturday belong to the Triduum.",
           "Wikipedia's article on Ash Wednesday says Lent ends on Holy Saturday in the Moravian, Lutheran, Anglican, Methodist and Reformed churches, and its article on Lent says that depending on denomination and local custom Lent concludes either on the evening of Holy Thursday or at sundown on Holy Saturday. It adds that fasting observances are kept until the evening of Holy Saturday in either case. So the two answers are less far apart than they look. The disagreement is about what to call the last two days, and the fast is usually the same.",
-          "Some popular explainers put the end at Good Friday or even Easter. Neither the Catholic norms nor the Protestant practice described above supports that. Easter starts a separate season, and Lent has always been counted as the preparation before it."
+          "Neither the Catholic norms nor the Protestant practice described above carries Lent past Holy Saturday. Easter starts a separate season."
         ]
       },
       {
         "heading": "Forty days, forty-six days",
         "body": [
           "The number in the name and the number on the calendar do not match. From Ash Wednesday to Holy Saturday inclusive is 46 days, and six of them are Sundays. Wikipedia's Ash Wednesday article says Lent is forty days long not including Sundays, and its Lent article explains that Sundays, being the Lord's Day, are not regarded as fasting days. That is how 46 days on the calendar become the forty of the name.",
-          "That count is a Holy Saturday count. On the Catholic calendar the season stops on Thursday evening, so a Catholic parish is not literally keeping forty days of Lent from start to finish. It keeps the traditional forty inside a slightly shorter official season, with the last days absorbed into the Triduum. Nothing in the norms makes that a contradiction, though searches for \"how long is Lent\" do return answers that disagree."
+          "That count is a Holy Saturday count. On the Catholic calendar the season itself stops on Thursday evening, while Wikipedia's Lent article says fasting observances continue until Saturday evening either way. So searches for \"how long is Lent\" can return answers that differ by a day or two without any of them being wrong."
         ]
       },
       {
@@ -13223,8 +13223,8 @@ export const guides: Guide[] = [
       {
         "heading": "Eastern churches: Great Lent",
         "body": [
-          "In Eastern Orthodox, Eastern Catholic, Eastern Lutheran and Oriental Orthodox practice, Great Lent starts on Clean Monday, which falls on a Monday rather than a Wednesday, and ends on Lazarus Saturday, the day before Palm Sunday. Wikipedia describes it as observed continuously, without interruption, for forty days. Holy Week is then a separate period of its own.",
-          "Because these churches commonly celebrate Easter on a different Sunday from the Western date, Great Lent and Western Lent often start on different days. Anyone planning around a specific congregation should use that congregation's own calendar."
+          "In Eastern Orthodox, Eastern Catholic, Eastern Lutheran and Oriental Orthodox practice, Great Lent starts on Clean Monday, which falls on a Monday rather than a Wednesday, and ends on Lazarus Saturday, before Holy Week. Wikipedia describes it as observed continuously, without interruption, for forty days. Holy Week is then a separate period of its own.",
+          "Orthodox churches follow their own Easter date. In 2026 it falls on April 12, a week after the Western Easter on April 5, according to Wikipedia's list of dates for Easter, so Great Lent and Western Lent start on different days. Anyone planning around a specific congregation should use that congregation's own calendar."
         ]
       }
     ],
@@ -13243,7 +13243,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What day do you break the Lent fast?",
-        "answer": "According to Wikipedia, Western practice keeps the fast going until Saturday evening, even in churches that count the season as finished on Thursday. Parishes differ on the details, so a local church calendar decides."
+        "answer": "Per Wikipedia's description, Western practice keeps the fast going into the last hours of Holy Saturday, even in churches that count the season as finished on Thursday. Parishes differ on the details, so a local church calendar decides."
       },
       {
         "question": "When is Ash Wednesday in 2027?",
@@ -13255,7 +13255,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "When does Great Lent start for Orthodox Christians?",
-        "answer": "It opens on Clean Monday, the Monday that starts the Eastern season. The exact date follows the Eastern Easter, which frequently sits a week or more apart from Western Easter, so a local Orthodox calendar gives the start."
+        "answer": "It opens on Clean Monday, the Monday that starts the Eastern season. The exact date follows the Eastern Easter, which in 2026 lands on April 12, seven days later than in the West, so a local Orthodox calendar gives the start."
       }
     ],
     "sources": [
@@ -13276,8 +13276,8 @@ export const guides: Guide[] = [
         "url": "https://en.wikipedia.org/wiki/Ash_Wednesday"
       },
       {
-        "label": "timeanddate.com: Easter Sunday in the United States",
-        "url": "https://www.timeanddate.com/holidays/us/easter-sunday"
+        "label": "Wikipedia: List of dates for Easter",
+        "url": "https://en.wikipedia.org/wiki/List_of_dates_for_Easter"
       },
       {
         "label": "CalendarDate.com: Easter 2031",

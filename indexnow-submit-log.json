@@ -294,17 +294,23 @@
   "https://dayalmanac.com/january-birth-flower/": {
     "submitted_date": "2026-08-19",
     "last_submitted_date": "2026-08-19",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-09-29",
+    "verified_method": "bing_url_inspection"
   },
   "https://dayalmanac.com/movember/": {
     "submitted_date": "2026-08-19",
     "last_submitted_date": "2026-08-19",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-09-29",
+    "verified_method": "bing_url_inspection"
   },
   "https://dayalmanac.com/prostate-cancer-awareness-month/": {
     "submitted_date": "2026-08-19",
     "last_submitted_date": "2026-08-19",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "last_checked_date": "2026-09-29",
+    "verified_method": "bing_url_inspection"
   },
   "https://dayalmanac.com/world-smile-day/": {
     "submitted_date": "2026-08-20",

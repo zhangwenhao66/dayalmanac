@@ -961,7 +961,7 @@ export const guides: Guide[] = [
         "body": [
           "The most common error about this date is a paraphrase that drops Labor Day entirely and calls it the first Sunday in September. It appears in calendar listings, school newsletters, and greeting-card marketing. It is not a minor rewording. It produces a different date in most years, and the gap is always exactly one week.",
           "The arithmetic is easy to check. The first Sunday in September falls somewhere between September 1 and September 7. The statutory date falls between September 7 and September 13. The two ranges overlap at a single point, September 7, and they only meet there when September 1 happens to be a Monday. In that case Labor Day is September 1, the Sunday after it is September 7, and the first Sunday of the month is also September 7. September 1 fell on a Monday in 2025, and will next in 2031.",
-          "In every other year the paraphrase is off by seven days. Take 2026: Labor Day is Monday, September 7, so National Grandparents Day is Sunday, September 13. The first Sunday in September 2026 is the 6th, a full week earlier and the day before Labor Day itself. The same seven-day gap holds for 2027, 2028, 2029 and 2030. If you have seen an early-September date for this observance and September 1 that year was not a Monday, you were looking at the wrong rule. [National Adoption Day](/national-adoption-day/) has the same problem: two sites list the wrong date for 2026."
+          "In every other year the paraphrase is off by seven days. Take 2026: Labor Day is Monday, September 7, so National Grandparents Day is Sunday, September 13. The first Sunday in September 2026 is the 6th, a full week earlier and the day before Labor Day itself. The same seven-day gap holds for 2027, 2028, 2029 and 2030. If you have seen an early-September date for this observance and September 1 that year was not a Monday, you were looking at the wrong rule. [National Adoption Day](/national-adoption-day/) shows a similar slip: two calendar sites list Sunday, November 22, 2026, while the organizers give Saturday, November 21."
         ]
       },
       {
@@ -995,27 +995,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "Is Grandparents Day the first Sunday in September?",
-        "answer": "No. Under 36 U.S.C. § 125 the rule is the first Sunday in September after Labor Day, which is a different day in most years. Labor Day is the first Monday in September, so National Grandparents Day always falls between September 7 and September 13, while the first Sunday of the month falls between September 1 and September 7. The two dates coincide only in years when September 1 is a Monday, such as 2025 and 2031. In 2026 through 2030 the popular paraphrase is off by exactly one week."
+        "answer": "No. Federal law (36 U.S.C. § 125) sets it on the Sunday that comes after Labor Day, and not on the month's opening Sunday, so the two differ in most years. Labor Day always takes the first Monday of September, which puts the observance in the September 7 to 13 window, while the month's opening Sunday sits in the September 1 to 7 window. The two line up just in years where September 1 falls on a Monday, such as 2025 and 2031. From 2026 through 2030 the popular shorthand is off by exactly one week."
       },
       {
         "question": "How do I work out the date for any given year?",
-        "answer": "Find the first Monday in September, which is Labor Day under 5 U.S.C. § 6103(a), then take the next Sunday, six days later. For example, if Labor Day is Monday, September 7, National Grandparents Day is Sunday, September 13. The result is always a Sunday between September 7 and September 13 inclusive."
+        "answer": "Start with Labor Day, the September Monday that the federal holiday statute names, and count six days forward to that week's Sunday. In 2026, for instance, Labor Day comes on the 7th, which puts the observance on the 13th. The result is always a Sunday from September 7 through 13 inclusive."
       },
       {
         "question": "Is National Grandparents Day a federal holiday in the United States?",
-        "answer": "No. It is a designated observance, not a legal public holiday. The federal holidays are listed in 5 U.S.C. § 6103(a) and National Grandparents Day is not among them. The day always falls on a Sunday, so no federal office schedule is affected either way, no paid leave attaches to it, and the statute only requests that the President issue an annual proclamation marking it."
+        "answer": "No. It is a designated observance, not a statutory day off. The statutory list of federal holidays leaves this one out. Being a Sunday observance every year, it leaves federal office schedules untouched, no paid leave attaches, and the statute merely asks the President to issue a yearly proclamation."
       },
       {
         "question": "Who started National Grandparents Day?",
-        "answer": "Marian McQuade of Oak Hill, West Virginia, who was elected vice-chairman of the West Virginia Committee on Aging in 1971, campaigned through the 1970s for an official day honoring grandparents. West Virginia recognized one before the federal designation, when Governor Arch Moore proclaimed the state's first observance in 1973. The exact date often attached to that proclamation, and the claim that West Virginia was the first state in the country, come from an archive finding aid adapted from Wikipedia and are not stated as fact here. Her campaign papers are held at the West Virginia & Regional History Center at West Virginia University."
+        "answer": "Marian McQuade, from Oak Hill in West Virginia, spent the 1970s campaigning for an official observance for grandparents; in 1971 she took the vice-chair post on the state's Committee on Aging. The state itself honored grandparents ahead of the national designation, with the governor, Arch Moore, issuing the state's first proclamation in 1973. The exact date often attached to that proclamation, and the claim that it beat every other state to it, come from an archive finding aid that itself drew on Wikipedia, so neither is stated as fact here. Her papers from the campaign are kept at the regional history center at WVU."
       },
       {
         "question": "When did National Grandparents Day become official at the federal level?",
-        "answer": "In two stages. President Jimmy Carter signed Proclamation 4580 on August 3, 1978, designating September 10, 1978 as National Grandparents Day for that year only. Congress then made it annual through H.J. Res. 244, approved September 6, 1979 as Public Law 96-62, which set the first Sunday in September after Labor Day as the recurring date. That provision is now codified at 36 U.S.C. § 125. Accounts that describe Carter signing the annual legislation in 1978 conflate the two steps."
+        "answer": "In two stages. First came Jimmy Carter's Proclamation 4580 (August 3, 1978), which named the tenth of September 1978 for that year alone. After that, Congress made it yearly through House Joint Resolution 244, which became Public Law 96-62 in early September 1979 (the 6th) and fixed the recurring date on the Sunday after Labor Day. That provision is now codified at 36 U.S.C. § 125. Accounts that have Carter signing the recurring-date law back in 1978 blur the two steps together."
       },
       {
         "question": "Do other countries observe Grandparents Day on the same date?",
-        "answer": "No. There is no international standard, though the Canadian and American dates happen to coincide most years. Italy observes the Festa nazionale dei nonni on October 2 every year under Law 159 of 31 July 2005. Canada marks Grandparents Day on the second Sunday in September, which coincides with the American date in most years and falls a week later in the rest. In Australia, New South Wales runs a state-organised Grandparents Day in late October, held on October 26 in 2025."
+        "answer": "No. There is no international standard, though the Canadian and American dates happen to coincide most years. Italy marks October 2 every year with a nationwide festival for grandparents under a 2005 law (No. 159, dated 31 July). In Canada the day is marked on September's second Sunday, which matches the U.S. date in most years and lands a week later in the rest. In Australia, New South Wales has its own state-organised Grandparents Day, held in the last part of October (October 26 in 2025)."
       }
     ],
     "sources": [
@@ -1395,7 +1395,7 @@ export const guides: Guide[] = [
     "description": "National Dog Day falls on August 26, founded in 2004 by Colleen Paige. Her own organization's website gives two different, unreconciled reasons for why the day exists.",
     "published": "2026-08-04",
     "updated": "2026-08-17",
-    "coreSummary": "National Dog Day is a US observance held every August 26, founded in 2004 by pet lifestyle expert Colleen Paige. The founder's own organization gives two different reasons for it: her personal account says the date marks a childhood shelter adoption, while a 2013 New York State Senate resolution reproduced on the same website says the day was created over the uncredited service of search-and-rescue dogs at Ground Zero. Neither telling mentions the other.",
+    "coreSummary": "National Dog Day is a US observance held every August 26, founded in 2004 by pet lifestyle expert Colleen Paige. The founder's organization gives two different reasons for it: her personal account says the date marks a childhood shelter adoption, while a 2013 New York State Senate resolution reproduced on the same website says the day was created over the uncredited service of search-and-rescue dogs at Ground Zero. Neither telling mentions the other.",
     "dateRule": {
       "kind": "fixed",
       "text": "August 26 every year in the United States. The date does not shift for weekends or weekdays.",
@@ -1429,7 +1429,7 @@ export const guides: Guide[] = [
           "weekday": "Tuesday"
         }
       ],
-      "caveat": "Every source found agrees on August 26, including the founder's own site, a 2013 New York State Senate resolution, and every third-party calendar page checked. One brief outlier existed: Wikipedia's own International Dog Day article listed August 26 in its infobox but, for a period including this page's original publication, stated in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog,\" an internal contradiction inside a single article, not evidence that August 14 was used anywhere else. A Wikipedia editor corrected that line to read August 26 on August 8, 2026, so the two sections now agree. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year rather than staying fixed."
+      "caveat": "Every source found agrees on August 26, including the founder's site, a 2013 New York State Senate resolution, and every third-party calendar page checked. One brief outlier existed: the Wikipedia article on International Dog Day listed August 26 in its infobox but, for a period including this page's original publication, stated in its history section that \"the date, August 14, was chosen to mark the day her family adopted their first dog,\" an internal contradiction inside a single article, not evidence that August 14 was used anywhere else. A Wikipedia editor corrected that line to read August 26 on August 8, 2026, so the two sections now agree. Readers should treat August 26 as settled. Separately, \"National Dog Day\" is not the only dog-themed observance on the calendar: National Rescue Dog Day falls on May 20, and World Dog Day, founded in 2016 by the Vanderpump Dog Foundation, is held on a date in May that moves from year to year."
     },
     "founding": {
       "status": "documented",
@@ -1444,14 +1444,14 @@ export const guides: Guide[] = [
         "heading": "What National Dog Day is",
         "body": [
           "National Dog Day is a US observance held on August 26, built around adopting shelter dogs, supporting rescue organizations, and appreciating the dogs people already have. It carries no legal status: no federal law recognizes it, government offices and banks run their normal schedule, and no time off is attached to it. In 2026 it falls on a Wednesday.",
-          "It spreads mainly through social media posts, pet-brand marketing, and shelter adoption drives rather than through any civic institution. A New York State Senate resolution gave it a brief moment of formal government attention in 2013, but that recognition stopped at the state legislative level and was never picked up federally."
+          "It spreads mainly through social media posts, pet-brand marketing, and shelter adoption drives, not through any civic institution. A New York State Senate resolution gave it a brief moment of formal government attention in 2013, but that recognition stopped at the state legislative level and was never picked up federally."
         ]
       },
       {
         "heading": "The date: August 26, with one source confusing itself",
         "body": [
-          "August 26 is fixed and does not move for weekends. The founder's own site gives that date, a 2013 New York State Senate resolution names that date, and every general calendar and pet-brand page checked for this article agrees.",
-          "The one inconsistency found sat inside a single Wikipedia article, and it has since been fixed. At the time this page was first published, Wikipedia's \"International Dog Day\" page used that date, August 26, in its infobox, but its history section stated that \"the date, August 14, was chosen to mark the day her family adopted their first dog.\" No other source anywhere repeated August 14; it read as a copy-editing slip inside one article rather than a second date in circulation. A Wikipedia editor corrected the line to read August 26 on August 8, 2026, four days after this page went up, and the infobox and history section have agreed ever since. It is included here only because catching exactly this kind of quiet inconsistency, rather than repeating whichever number a source happens to print first, is the point of this calendar. Not every observance on this calendar holds still the way this one does: [this site's Banned Books Week page](/banned-books-week/) tracks a date that has actually shifted from late September into October in three of the last four years."
+          "August 26 is fixed and does not move for weekends. The founder's site gives that date, a 2013 New York State Senate resolution names that date, and every general calendar and pet-brand page checked for this article agrees.",
+          "The one inconsistency found sat inside a single Wikipedia article, and it has since been fixed. At the time this page was first published, Wikipedia's \"International Dog Day\" page used that date, August 26, in its infobox, but its history section stated that \"the date, August 14, was chosen to mark the day her family adopted their first dog.\" No other source anywhere repeated August 14; it read as a copy-editing slip inside one article, not a second date in circulation. A Wikipedia editor corrected the line to read August 26 on August 8, 2026, four days after this page went up, and the infobox and history section have agreed ever since. It is included here only because catching exactly this kind of quiet inconsistency, and not repeating whichever number a source happens to print first, is the point of this calendar. Not every observance on this calendar holds still the way this one does: [this site's Banned Books Week page](/banned-books-week/) tracks a date that has actually shifted from late September into October in three of the last four years."
         ]
       },
       {
@@ -1459,7 +1459,7 @@ export const guides: Guide[] = [
         "body": [
           "The founder is not in dispute: Colleen Paige, a pet and family lifestyle expert, created National Dog Day in 2004. What is unusual is that her own organization's website presents two different, non-overlapping explanations for it, on two different pages, with neither one mentioning the other.",
           "The version that spreads furthest is personal. National Dog Day's About page states that Paige chose August 26 because it is the day her family adopted her first dog, a Sheltie, from a local animal shelter, when she was ten years old. AlphaPaw, UPI, and most general calendar sites repeat this account, sometimes word for word.",
-          "The second version comes from New York State Senate Resolution J2656, sponsored by Senator Terry Gipson and adopted June 20, 2013, commemorating August 26, 2013 as National Dog Day statewide. Its text, which is reproduced in full on National Dog Day's own legislation page, states that the observance \"was created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero.\" That is a civic, tribute-driven motivation with no connection to a childhood pet. The resolution credits Paige and the 2004 founding date, so it is describing the same observance, but it gives no explanation at all for why August 26 was the date chosen, and it never references the Sheltie story that appears one click away on the same organization's site.",
+          "The second version comes from New York State Senate Resolution J2656, sponsored by Senator Terry Gipson and adopted June 20, 2013, commemorating August 26, 2013 as National Dog Day statewide. Its text, which is reproduced in full on the legislation page of that same site, states that the observance \"was created in response to a lack of acknowledgement about the selfless service of search and rescue dogs at Ground Zero.\" That is a civic, tribute-driven motivation with no connection to a childhood pet. The resolution credits Paige and the 2004 founding date, so it is describing the same observance, but it gives no explanation at all for why August 26 was the date chosen, and it never references the Sheltie story that appears one click away on the same organization's site.",
           "Both accounts could be true at once; a founder can have more than one reason for starting something. What is notable is that the organization itself has never reconciled them into one story, and that almost every outside source that covers National Dog Day repeats only the personal account, leaving the resolution's Ground Zero framing to sit unread on a legislation page most visitors never open. [This site's Galentine's Day page](/galentines-day/) settles its own origin more cleanly than this one does, tracing the whole February 13 observance to a single 2010 episode of Parks and Recreation rather than to two unreconciled accounts."
         ]
       },
@@ -1467,21 +1467,21 @@ export const guides: Guide[] = [
         "heading": "A trademark that was applied for, then abandoned",
         "body": [
           "The National Dog Day website displays the phrase \"National Dog Day™\" with a trademark symbol and a copyright notice reading \"©2004-2026 National Dog Day. All Rights Reserved.\" That presentation reads as an active, registered trademark.",
-          "The U.S. Patent and Trademark Office's own record tells a different story. Colleen M. Paige filed a federal trademark application for NATIONAL DOG DAY, serial number 78631456, on May 17, 2005, for \"charitable fundraising services for promoting adoption, compassion education and public awareness of homeless dogs.\" The application drew office actions in December 2005 and May 2006, received a final refusal in November 2006, and was recorded as abandoned for failure to respond on June 7, 2007. There is no record of a later, successful application replacing it.",
-          "That means the ™ symbol on the site today represents what trademark law calls a common-law claim, an assertion of use rather than a government-granted registration. It is a real and legally meaningful distinction, and it is the kind of detail that a page built from the organization's own promotional copy would never surface on its own. A similar gap between appearance and actual government action runs through [this site's National First Responders Day page](/national-first-responders-day/): eleven bills introduced in Congress across a decade, and still no statute behind the October 28 date most calendars print without comment."
+          "The federal trademark database tells a different story. Colleen M. Paige filed a federal trademark application for NATIONAL DOG DAY, serial number 78631456, on May 17, 2005, for \"charitable fundraising services for promoting adoption, compassion education and public awareness of homeless dogs.\" The application drew office actions in December 2005 and May 2006, received a final refusal in November 2006, and was recorded as abandoned for failure to respond on June 7, 2007. There is no record of a later, successful application replacing it.",
+          "That means the ™ symbol on the site today represents what trademark law calls a common-law claim, an assertion of use rather than a government-granted registration. It is a real and legally meaningful distinction, and it is the kind of detail that a page built from the organization's promotional copy would never surface on its own. A similar gap between appearance and actual government action runs through [this site's National First Responders Day page](/national-first-responders-day/): eleven bills introduced in Congress across a decade, and still no statute behind the October 28 date most calendars print without comment."
         ]
       },
       {
         "heading": "National, international, or something else entirely",
         "body": [
-          "\"National Dog Day\" and \"International Dog Day\" are not two different holidays the way National Cat Day and International Cat Day are. They are the same August 26 event, founded by the same person in the same year, referred to by two different names. Wikipedia's own article opens by defining them as interchangeable: \"International Dog Day or National Dog Day is an annual observance held on August 26.\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \"International\" version of Dog Day. The word appears to be a rebrand applied by some sites, not a second observance.",
-          "Real distinct dog-themed observances do exist elsewhere on the calendar. World Dog Day, founded in 2016 by the Vanderpump Dog Foundation in West Hollywood, California, is held in May on a date that moves year to year (Saturday, May 17 in 2025) rather than staying fixed, and it centers specifically on discouraging purchases from breeders in favor of shelter adoption. National Rescue Dog Day falls on May 20. International Homeless Animals Day, run by a different set of animal welfare organizations, falls on the third Saturday in August, close enough to National Dog Day on the calendar that the two get confused despite having separate founders and separate purposes."
+          "\"National Dog Day\" and \"International Dog Day\" are not two different holidays the way National Cat Day and International Cat Day are. They are the same August 26 event, founded by the same person in the same year, referred to by two different names. The Wikipedia article opens by defining them as interchangeable: \"International Dog Day or National Dog Day is an annual observance held on August 26.\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \"International\" version of Dog Day. The word appears to be a rebrand applied by some sites, not a second observance.",
+          "Real distinct dog-themed observances do exist elsewhere on the calendar. World Dog Day, founded in 2016 by the Vanderpump Dog Foundation in West Hollywood, California, is held in May on a date that moves year to year (Saturday, May 17 in 2025), and it centers specifically on discouraging purchases from breeders in favor of shelter adoption. National Rescue Dog Day falls on May 20. International Homeless Animals Day, run by a different set of animal welfare organizations, falls on the third Saturday in August, close enough to National Dog Day on the calendar that the two get confused despite having separate founders and separate purposes."
         ]
       },
       {
         "heading": "The shelter numbers behind the adoption push",
         "body": [
-          "New York's 2013 resolution states that \"approximately one million dogs have been saved through adoptions nationwide\" since National Dog Day's 2004 founding. No source is cited for that figure inside the resolution, and no independent count of adoptions attributable specifically to this observance appears to exist anywhere; it reads as a promotional estimate rather than a measured statistic.",
+          "New York's 2013 resolution states that \"approximately one million dogs have been saved through adoptions nationwide\" since National Dog Day's 2004 founding. No source is cited for that figure inside the resolution, and no independent count of adoptions attributable specifically to this observance appears to exist anywhere; it reads as a promotional estimate, not a measured statistic.",
           "For a current, sourced number, the ASPCA's own shelter statistics, current as of 2025, report that 2.8 million dogs entered US shelters and rescues that year, about 2 million were adopted, and approximately 320,000 were euthanized. Those figures come from an organization that publishes and updates its methodology, which is more than can be said for the resolution's decade-plus-old round number. The same caution about unattributed statistics applies to the shelter figures cited on [National Cat Day](/national-cat-day/): a specific, sourced number from an organization that shows its work is worth more than a bigger number nobody can trace."
         ]
       }
@@ -1489,27 +1489,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Dog Day in 2026?",
-        "answer": "Wednesday, August 26, 2026. The date is fixed at August 26 every year and does not shift for weekends."
+        "answer": "Wednesday, August 26, 2026. The date stays put every year, weekends included."
       },
       {
         "question": "Who founded National Dog Day?",
-        "answer": "Colleen Paige, a pet and family lifestyle expert, founded it in 2004. Her organization's own website gives two different, unreconciled reasons for it: a personal account that August 26 marks the day her family adopted a shelter dog when she was ten, and a 2013 New York State Senate resolution stating the day was created to recognize search-and-rescue dogs at Ground Zero. Neither document mentions the other."
+        "answer": "Colleen Paige started it in 2004; she works as a pet-lifestyle expert. The site she runs offers two explanations that were never reconciled: a personal account that August 26 is when her family took in a shelter dog while she was ten, and a resolution the state senate passed in 2013 saying the day honors the search dogs who served at Ground Zero. Each leaves the other out."
       },
       {
         "question": "Is National Dog Day trademarked?",
-        "answer": "The organization's website displays a ™ symbol, but U.S. Patent and Trademark Office records show the federal application (Serial No. 78631456), filed in 2005, received a final refusal in 2006 and was abandoned in 2007 for failure to respond. No later successful application has been found, so the ™ reflects a common-law claim rather than a granted federal registration."
+        "answer": "The website displays a ™ symbol, but federal trademark records show an application (serial 78631456), filed in 2005, was finally refused in 2006 and was dropped in 2007 because nobody answered the office. No later approved filing has been found, so the ™ amounts to a claim from use alone, and no registration from the federal government."
       },
       {
         "question": "Is National Dog Day the same as International Dog Day?",
-        "answer": "Effectively yes. Both names refer to the same August 26 observance founded by Colleen Paige in 2004; Wikipedia's own article defines them as interchangeable. This differs from International Cat Day, which has a separate founding history through the International Fund for Animal Welfare."
+        "answer": "Effectively yes. Both names describe a single August 26 observance that Colleen Paige kicked off in 2004; the Wikipedia entry treats the two names as interchangeable. This differs from the global cat observance in August, which has a separate founding history through IFAW."
       },
       {
         "question": "What's the difference between National Dog Day, World Dog Day, and National Rescue Dog Day?",
-        "answer": "All three promote dog adoption but are separate observances. National Dog Day is August 26, founded 2004 by Colleen Paige. World Dog Day falls in May on a date that moves year to year, founded in 2016 by the Vanderpump Dog Foundation. National Rescue Dog Day falls on May 20. A fourth, International Homeless Animals Day, falls on the third Saturday in August under different organizers."
+        "answer": "All three promote dog adoption but are separate observances. The August 26 one, National Dog Day, was created by Colleen Paige in 2004. World Dog Day lands in May, moving from year to year; the Vanderpump group launched it in 2016. Rescue Dog Day lands on May 20. A fourth, the homeless-animals day run by other groups, comes on the August Saturday that is third in the month."
       },
       {
         "question": "How many dogs are in US shelters right now?",
-        "answer": "According to the ASPCA's current shelter statistics, 2.8 million dogs entered US shelters and rescues in 2025, about 2 million were adopted, and approximately 320,000 were euthanized. A 2013 New York State resolution's claim of \"approximately one million dogs saved through adoptions\" since 2004 is not tied to any cited source."
+        "answer": "The ASPCA's current shelter data put 2025 intake at about 2.8 million dogs arriving in the country's shelters and with rescue groups, of which roughly 2 million were placed in homes and about 320,000 dogs were euthanized. A 2013 resolution from the New York Senate credits the day with \"one million dogs\" placed via adoption since 2004, and that figure is not tied to any cited source."
       },
       {
         "question": "Do dogs cry at the end of life?",
@@ -5590,31 +5590,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National First Responders Day in 2026?",
-        "answer": "Wednesday, October 28, 2026. It falls on the same calendar date every year, though no federal statute fixes that date; it persists through a decade of congressional resolutions that consistently named October 28 and, since 2022, presidential proclamations naming the same date."
+        "answer": "Wednesday, October 28, 2026. The date is the same every year although federal law never set it; what keeps it steady is a decade of resolutions in Congress that all picked October 28, plus White House proclamations since 2022 that name it too."
       },
       {
         "question": "Is National First Responders Day a federal holiday?",
-        "answer": "No. No bill establishing it has ever passed both chambers of Congress, so there is no statute behind it. Government offices, schools, and banks run a normal schedule on October 28."
+        "answer": "No. No bill creating it ever cleared both the House and the Senate, so no statute stands behind it. Federal offices, schools, and banks keep their usual hours on October 28."
       },
       {
         "question": "Who started National First Responders Day?",
-        "answer": "Andrew Collier, whose brother, MIT police officer Sean Collier, was killed by the Boston Marathon bombers on April 18, 2013. Andrew launched a petition and public campaign later that year, joined in later years by the nonprofit All Clear Foundation."
+        "answer": "The founder is Andrew Collier; his brother Sean, an MIT police officer, died in April 2013 (the 18th) at the hands of the two men behind the 2013 Boston bombing. Andrew started a petition and public campaign later that year, and in later years a nonprofit called All Clear lent its support."
       },
       {
         "question": "Did Congress ever pass a law creating National First Responders Day?",
-        "answer": "No. Eleven separate bills and resolutions were introduced between 2014 and 2023. A Senate resolution naming October 28 passed the full Senate twice, in 2017 and 2019, but a matching House resolution never received a floor vote in either year, and no version of the bill has ever become law."
+        "answer": "No. Lawmakers filed eleven measures from 2014 through 2023. The full Senate passed a resolution naming October 28 two times, once in 2017 and again in 2019, yet the House companion got no vote either time, and no version has become law."
       },
       {
         "question": "Did the House of Representatives pass a National First Responders Day resolution in 2019?",
-        "answer": "No, despite that claim appearing in some trade-press accounts. The House version, H.Con.Res.37, was voted out of committee on October 29, 2019, and advocates publicized that vote in a December 2019 press release, but the resolution never received a full House floor vote, and it died when that Congress ended in January 2021."
+        "answer": "No, whatever some trade articles claim. H.Con.Res.37, the House version, left committee in late October 2019; advocates announced that in a December 2019 press release, but the full House never voted on it, and it expired unvoted when the Congress wound up in January 2021."
       },
       {
         "question": "Has a president ever issued a proclamation for National First Responders Day?",
-        "answer": "Yes. President Biden issued proclamations naming October 28 National First Responders Day in 2022, 2023, and 2024. This calendar could not find a matching proclamation for 2025 as of this page's research."
+        "answer": "Yes. Biden issued proclamations in each of 2022, 2023 and 2024 that named October 28 as the day. No matching 2025 proclamation turned up at the time of writing."
       },
       {
         "question": "Is National First Responders Day the same as National First Responder Month?",
-        "answer": "No. National First Responder Month is a separate proposal for the month of May; a 2024 House resolution, H.Res.1185, sought to designate it but was introduced and died in committee without a vote, the same pattern as most of the October 28 attempts."
+        "answer": "No. The month-long version, First Responder Month, is a separate May proposal; a 2024 House resolution, H.Res.1185, sought to designate it but stalled in committee and was never voted on, the same fate as most October 28 attempts."
       }
     ],
     "sources": [
@@ -8320,7 +8320,7 @@ export const guides: Guide[] = [
     "description": "National Guacamole Day falls every September 16, deliberately timed to Mexican Independence Day, but no founder or registration has ever been traced to it.",
     "published": "2026-08-23",
     "updated": "2026-08-23",
-    "coreSummary": "National Guacamole Day falls every September 16 in the United States, a date that deliberately overlaps with Mexican Independence Day rather than marking anything about guacamole's own history. Unlike National Avocado Day (July 31), which National Day Calendar's own proclamation credits to the meal-delivery company Model Meals in 2017, no comparable founding record for Guacamole Day turned up in National Day Calendar's catalog or anywhere else searched. It appears to have spread through restaurant promotions and social media rather than a documented registration.",
+    "coreSummary": "National Guacamole Day falls every September 16 in the United States, a date that deliberately overlaps with Mexican Independence Day and marks nothing about the history of guacamole itself. Unlike National Avocado Day (July 31), which a National Day Calendar proclamation credits to the meal-delivery company Model Meals in 2017, no comparable founding record for Guacamole Day turned up in National Day Calendar's catalog or anywhere else searched. It appears to have spread through restaurant promotions and social media rather than a documented registration.",
     "dateRule": {
       "kind": "fixed",
       "text": "National Guacamole Day is observed every September 16, the same fixed date each year. It carries no legal or governmental status; the date is simply the one that calendar sites and restaurant chains have consistently used since the observance began circulating.",
@@ -8337,7 +8337,7 @@ export const guides: Guide[] = [
         { "date": "2030-09-16", "weekday": "Monday" },
         { "date": "2031-09-16", "weekday": "Tuesday" }
       ],
-      "caveat": "Two other food days get confused with this one. National Avocado Day falls earlier, on July 31, and celebrates the fruit rather than the dip. National Spicy Guacamole Day falls later, on November 14, as a separate observance with its own listing on the major calendar sites. September 16 is the one that shares its date with Mexican Independence Day, and that overlap is deliberate, not incidental."
+      "caveat": "Two other food days get confused with this one. National Avocado Day falls earlier, on July 31, and celebrates the fruit, not the dip. National Spicy Guacamole Day falls later, on November 14, as a separate observance with its own listing on the major calendar sites. September 16 is the one that shares its date with Mexican Independence Day, and that overlap is deliberate, not incidental."
     },
     "founding": {
       "status": "unverified",
@@ -8347,7 +8347,7 @@ export const guides: Guide[] = [
       {
         "heading": "Fixed to a date that already belonged to someone else",
         "body": [
-          "National Guacamole Day lands on September 16 every year, and that date isn't an accident. It's the same day as [Mexican Independence Day](/mexican-independence-day/), the anniversary of Miguel Hidalgo's 1810 call to revolt against Spanish rule. A dip built from an ingredient central to Mexican cooking landed its own calendar day on the one date already guaranteed to put Mexican food on people's minds, rather than on a date of its own.",
+          "National Guacamole Day lands on September 16 every year, and that date isn't an accident. It's the same day as [Mexican Independence Day](/mexican-independence-day/), the anniversary of Miguel Hidalgo's 1810 call to revolt against Spanish rule. A dip built from an ingredient central to Mexican cooking landed its own calendar day on the one date already guaranteed to put Mexican food on people's minds.",
           "The word itself predates any calendar entry by centuries. Guacamole comes from the Classical Nahuatl āhuacamōlli, a compound of āhuacatl (avocado) and mōlli (sauce), literally \"avocado sauce.\" Spanish colonizers adapted the pronunciation into guacamole, and the name has carried through largely unchanged since."
         ]
       },
@@ -8355,7 +8355,7 @@ export const guides: Guide[] = [
         "heading": "What the Aztecs made, and what an English pirate wrote down",
         "body": [
           "Guacamole itself is far older than any national day. Aztec cooks in central Mexico were mashing ripe avocados with a stone mortar and pestle, called a molcajete and tejolote, before the Spanish conquest of the 16th century, working the fruit down with salt and, over time, additions like chile and tomato that are native to the same region.",
-          "The earliest written description of anything resembling it in English comes from an unlikely source: William Dampier, an English privateer, in his 1697 book A New Voyage Round the World. Writing about an island near Panama, Dampier recorded that the avocado-pear \"has no taste of itself, and therefore it is usually mixed with sugar and lime-juice and beaten together in a plate; and this is an excellent dish,\" adding that \"the ordinary way is to eat it with a little salt and a roasted plantain.\" It isn't guacamole in the Aztec sense; Dampier's version has no chile, tomato, or onion, and he was describing a Spanish-colonial preparation outside Mexico rather than the Nahua dish itself. But it's the earliest known English-language account of avocados being deliberately mashed and seasoned into a dish, more than a century before the word \"guacamole\" appears in English at all."
+          "The earliest written description of anything resembling it in English comes from an unlikely source: William Dampier, an English privateer, in his 1697 book A New Voyage Round the World. Writing about an island near Panama, Dampier recorded that the avocado-pear \"has no taste of itself, and therefore it is usually mixed with sugar and lime-juice and beaten together in a plate; and this is an excellent dish,\" adding that \"the ordinary way is to eat it with a little salt and a roasted plantain.\" It isn't guacamole in the Aztec sense; Dampier's version has no chile, tomato, or onion, and he was describing a Spanish-colonial preparation outside Mexico, not the Nahua dish itself. But it's the earliest known English-language account of avocados being deliberately mashed and seasoned into a dish, more than a century before the word \"guacamole\" appears in English at all."
         ]
       },
       {
@@ -8368,7 +8368,7 @@ export const guides: Guide[] = [
       {
         "heading": "The other avocado day has a name attached; this one doesn't",
         "body": [
-          "National Day Calendar's own archive draws a sharp line between its two avocado-adjacent observances. For National Avocado Day, July 31, the site published a full \"New Day Proclamation\" crediting Model Meals, a meal-delivery company founded in 2015 by Camille May and Danika Brysha, with registering the date in 2017 at the peak of California's avocado season. The proclamation names the company, the year, and the reasoning behind the date.",
+          "The National Day Calendar archive draws a sharp line between its two avocado-adjacent observances. For National Avocado Day, July 31, the site published a full \"New Day Proclamation\" crediting Model Meals, a meal-delivery company founded in 2015 by Camille May and Danika Brysha, with registering the date in 2017 at the peak of California's avocado season. The proclamation names the company, the year, and the reasoning behind the date.",
           "No matching document exists for National Guacamole Day. The date appears on National Day Calendar's own yearly listings, alongside a cluster of other September 16 observances, but nothing in the site's proclamation archive attributes it to anyone. Checkiday's and TRVST's own writeups of the day describe the same gap in different words: no company, no individual, no filing, just a date that circulated through restaurant marketing and social sharing until it stuck. A great many of the branded \"national days\" that clutter this calendar trace back to a specific person or business looking for attention. This one doesn't, and nobody can show who started it."
         ]
       },
@@ -8383,31 +8383,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "When is National Guacamole Day?",
-        "answer": "Every September 16, a fixed date that doesn't move from year to year. It carries no legal or governmental status."
+        "answer": "September 16 each year, with no shifting. No law or government body stands behind the day."
       },
       {
         "question": "Why does National Guacamole Day fall on the same date as Mexican Independence Day?",
-        "answer": "Calendar sites that track both observances describe the overlap as deliberate: a dip built from an ingredient central to Mexican cooking was placed on the one date already tied to Mexican national pride. No formal statement links the two dates, but the pairing is consistent across every source checked."
+        "answer": "Sites that follow both observances call the overlap deliberate: a dish whose main ingredient anchors Mexican cooking got slotted onto a day already loaded with Mexican national pride. No formal statement links the two dates, but every source checked pairs them the same way."
       },
       {
         "question": "Who founded National Guacamole Day?",
-        "answer": "No source checked for this page could name one. National Day Calendar publishes a detailed proclamation for its sibling observance, National Avocado Day, crediting the company Model Meals in 2017, but no equivalent document exists for Guacamole Day despite the site listing the date every year. It appears to have spread through restaurant marketing and social media rather than a formal registration."
+        "answer": "No source checked for this page could name one. The calendar site that lists it each year carries a full proclamation for Avocado Day, guacamole's sibling observance, which names Model Meals as the 2017 founder, yet holds no equivalent document for Guacamole Day even though it lists the date yearly. It looks as if restaurant deals and posts on social feeds carried the day along, with no formal registration behind it."
       },
       {
         "question": "Is National Guacamole Day the same as National Avocado Day?",
-        "answer": "No. National Avocado Day falls on July 31 and has a documented 2017 founding credited to the company Model Meals. National Guacamole Day falls on September 16 and has no comparable founding record."
+        "answer": "No. Avocado Day is July 31 and has a documented 2017 founding credited to Model Meals; Guacamole Day is September 16 and lacks any similar founding record."
       },
       {
         "question": "Is National Guacamole Day the same as National Spicy Guacamole Day?",
-        "answer": "No. National Spicy Guacamole Day is a separate observance listed on November 14, roughly two months after National Guacamole Day."
+        "answer": "No. The spicy version is its own observance, listed for November 14, about two months after the September one."
       },
       {
         "question": "Where does the word \"guacamole\" come from?",
-        "answer": "From the Classical Nahuatl āhuacamōlli, combining āhuacatl (avocado) and mōlli (sauce), literally \"avocado sauce.\" Spanish colonizers adapted the pronunciation into guacamole."
+        "answer": "The source is the Nahuatl word āhuacamōlli. It joins āhuacatl for avocado with mōlli for sauce, so the literal meaning is \"avocado sauce\"; the Spanish who colonized the region then reshaped how it sounded, giving guacamole."
       },
       {
         "question": "Did guacamole originate with the Aztecs?",
-        "answer": "The dish did: Aztec cooks were mashing avocados with salt, chile, and tomato in a stone molcajete before the 16th-century Spanish conquest. Separately, the earliest known English-language account of avocados being mashed into a dish comes from the English privateer William Dampier's 1697 book, describing avocado mixed with sugar and lime outside Mexico, a different, non-Aztec preparation that predates the English word \"guacamole\" itself by more than a century."
+        "answer": "The dish itself is older. Aztec cooks mashed avocados with salt, chile, and tomato in a stone molcajete, well ahead of Spain's conquest in the 1500s. The oldest English-language mention of mashed avocado is a separate thing: the English privateer William Dampier's 1697 book described the fruit, sugar and lime juice beaten together outside Mexico, a non-Aztec preparation written down over a hundred years ahead of the English word \"guacamole\"."
       }
     ],
     "sources": [
@@ -10594,7 +10594,7 @@ export const guides: Guide[] = [
     "description": "Twenty-six of October's national days, sorted by how solid the founding story is, from a 1934 federal proclamation to a farmers' holiday four sources can't agree on.",
     "published": "2026-08-28",
     "updated": "2026-09-24",
-    "coreSummary": "October carries at least twenty-six national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution of the United Nations Food and Agriculture Organization's own member conference. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
+    "coreSummary": "October carries at least twenty-six national days and awareness observances on the U.S. calendar, and the paper trail behind them varies enormously. Columbus Day traces to a 1934 congressional joint resolution and Franklin Roosevelt's proclamation, later made a true paid federal holiday by the 1968 Uniform Monday Holiday Act. World Food Day traces to a November 1979 resolution passed at a member conference of the United Nations Food and Agriculture Organization. World Animal Day traces to a named organizer, Heinrich Zimmermann, and a 1931 international ratification in Florence. National Farmers Day, which lands on the same October 12 as Columbus Day in 2026, has no single documented origin at all: different sites credit a 1919 Woodrow Wilson proclamation for a differently named holiday, an uncorroborated 1940 Roosevelt resolution, or a \"federal holiday since 1970\" claim that no closed bank or post office ever confirms.",
     "sections": [
       {
         "heading": "Twenty-six observances, one calendar, wildly different paper trails",
@@ -10606,16 +10606,16 @@ export const guides: Guide[] = [
       {
         "heading": "Ten observances that claim the whole month",
         "body": [
-          "October holds at least ten awareness designations that run the entire month rather than a single day, and this site has checked the founding paper trail on each. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traces to 1985, though sources disagree on the precise founding story: the American Cancer Society's own materials credit 1985 without naming a corporate co-founder, while other accounts date it to 1984 and name a pharmaceutical company as a founding partner. No permanent federal law renews the designation automatically each year. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) was designated by Congress for 1989 by name, renewed once more for 1991, and no comparable law has renewed that designation since. [ADHD Awareness Month](/adhd-awareness-month/) has a Senate that approved a single September day five years running, 2004 through 2008, then stopped, and the Senate never approved the full October month at all. [National Bullying Prevention Month](/bullying-prevention-month/) was founded by the nonprofit PACER in 2006 and has never been proclaimed by a sitting president.",
+          "October holds at least ten awareness designations that run the entire month rather than a single day, and this site has checked the founding paper trail on each. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traces to 1985, though sources disagree on the precise founding story: the American Cancer Society's materials credit 1985 without naming a corporate co-founder, while other accounts date it to 1984 and name a pharmaceutical company as a founding partner. No permanent federal law renews the designation automatically each year. [Domestic Violence Awareness Month](/domestic-violence-awareness-month/) was designated by Congress for 1989 by name, renewed once more for 1991, and no comparable law has renewed that designation since. [ADHD Awareness Month](/adhd-awareness-month/) has a Senate that approved a single September day five years running, 2004 through 2008, then stopped, and the Senate never approved the full October month at all. [National Bullying Prevention Month](/bullying-prevention-month/) was founded by the nonprofit PACER in 2006 and has never been proclaimed by a sitting president.",
           "Six more claim the same whole-month scope without a dedicated page here yet. National Disability Employment Awareness Month traces furthest back of any of them: Congress created a one-week version in 1945, National Employ the Physically Handicapped Week, then expanded it into today's full month and current name through Public Law 100-630 in 1988. Down Syndrome Awareness Month grew out of the National Down Syndrome Society, founded in 1979, and reached federal recognition when President Reagan signed a resolution on September 28, 1984 proclaiming that October as National Down Syndrome Month. LGBTQ+ History Month has a single named founder: Missouri high-school teacher Rodney Wilson started it in 1994, choosing October partly because the month already held the anniversaries of the 1979 and 1987 Marches on Washington. National Cybersecurity Awareness Month launched in October 2004, a joint effort between the Department of Homeland Security and the nonprofit National Cyber Security Alliance, fourteen years before the federal agency that now co-leads it, CISA, was created in 2018. Health Literacy Month has the smallest founding story of the group: educator Helen Osborne started it in 1999 after polling a health-literacy mailing list about the idea and getting roughly 50 encouraging replies back. Filipino American History Month traces to a single organization's board vote: the Filipino American National Historical Society proposed it in 1991 for a first observance the following October, picking the month to mark the October 18, 1587 landing of the first recorded Filipinos in what is now Morro Bay, California; Congress did not formally recognize the observance until 2009."
         ]
       },
       {
         "heading": "Documented: a named party, a real date, a source that holds up",
         "body": [
-          "World Vegetarian Day, October 1, is worth naming carefully because the search term most people use for it, \"national vegetarian day,\" is not its real name. The North American Vegetarian Society founded it in 1977 as World Vegetarian Day, and the International Vegetarian Union endorsed it the following year, 1978. It opens Vegetarian Awareness Month, NAVS's own month-long follow-on campaign.",
+          "World Vegetarian Day, October 1, is worth naming carefully because the search term most people use for it, \"national vegetarian day,\" is not its real name. The North American Vegetarian Society founded it in 1977 as World Vegetarian Day, and the International Vegetarian Union endorsed it the following year, 1978. It opens Vegetarian Awareness Month, a month-long follow-on campaign run by NAVS.",
           "World Animal Day, October 4, has an unusually well-documented founder. Cynologist Heinrich Zimmermann organized the first observance in Berlin on March 24, 1925, drawing roughly 5,000 attendees. He had originally wanted October 4 for the date, aligning with the feast day of Francis of Assisi, the Catholic patron saint of animals and ecology, but the Berlin venue was not available that day in 1925. The event first ran on October 4 in 1929, and in May 1931, a congress of international animal-protection organizations meeting in Florence, Italy unanimously adopted Zimmermann's proposal to make October 4 the observance's permanent, universal date.",
-          "World Food Day, October 16, traces to the founding of its sponsoring body rather than to any individual. The United Nations Food and Agriculture Organization held its first meeting in Quebec City, Canada on October 16, 1945, and adopted its founding constitution there. Member nations at the FAO's own twentieth conference session picked that anniversary date for World Food Day in a resolution passed in November 1979, and the observance was first held in 1981."
+          "World Food Day, October 16, traces to the founding of its sponsoring body rather than to any individual. The United Nations Food and Agriculture Organization held its first meeting in Quebec City, Canada on October 16, 1945, and adopted its founding constitution there. Member nations at the FAO's twentieth conference session picked that anniversary date for World Food Day in a resolution passed in November 1979, and the observance was first held in 1981."
         ]
       },
       {
@@ -10629,7 +10629,7 @@ export const guides: Guide[] = [
       {
         "heading": "Sweetest Day: a real 1921 event, a founder whose exact role is disputed",
         "body": [
-          "Sweetest Day falls on the third Saturday of October, which is October 17 in 2026. Unlike National Farmers Day, this one has a real, dated, contemporaneously covered origin: the first Sweetest Day was observed on October 10, 1921, in Cleveland, planned by a committee of 12 confectioners chaired by candymaker C. C. Hartzell, calling themselves the \"Sweetest Day in the Year\" committee. The Cleveland Plain Dealer's own account of the event, published October 8, 1922, put the candy distributed to newsboys, orphans, older residents, and the poor at more than 20,000 boxes, with silent-film stars including Theda Bara and Ann Pennington helping hand it out.",
+          "Sweetest Day falls on the third Saturday of October, which is October 17 in 2026. Unlike National Farmers Day, this one has a real, dated, contemporaneously covered origin: the first Sweetest Day was observed on October 10, 1921, in Cleveland, planned by a committee of 12 confectioners chaired by candymaker C. C. Hartzell, calling themselves the \"Sweetest Day in the Year\" committee. The Cleveland Plain Dealer's account of the event, published October 8, 1922, put the candy distributed to newsboys, orphans, older residents, and the poor at more than 20,000 boxes, with silent-film stars including Theda Bara and Ann Pennington helping hand it out.",
           "What's disputed is the individual credit. Herbert Birch Kingston is the name most often attached to Sweetest Day, described by some sources as a Cleveland advertising executive who reinvented an earlier, similar \"Candy Day\" concept into the new holiday, and by others simply as a member of the candy-makers' committee itself. This page found sources disagreeing on which of those Kingston actually was, and treats the event's date and existence as documented while flagging the founder's precise role as unresolved rather than picking one version to repeat as settled fact."
         ]
       },
@@ -10645,35 +10645,35 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "How many national days are in October?",
-        "answer": "This site counts at least twenty-six October observances across its keyword research, including ten monthlong awareness designations and roughly sixteen single-day or single-week ones. That is a partial count limited to observances with meaningful search interest and a checkable founding story, not every minor \"national day\" claimed by calendar sites; some sites list several dozen more low-traffic ones for October that this page does not attempt to verify."
+        "answer": "This site counts twenty-six or more entries for the month across its keyword research, including ten that run the full month and roughly sixteen single-day or single-week ones. That is a partial count limited to observances with meaningful search interest and a checkable founding story, not every minor \"national day\" claimed by calendar sites; some sites list several dozen more low-traffic ones for October that this page does not attempt to verify."
       },
       {
         "question": "What are the awareness months observed in October?",
-        "answer": "At least ten: Breast Cancer Awareness Month, Domestic Violence Awareness Month, ADHD Awareness Month, National Bullying Prevention Month, National Disability Employment Awareness Month, Down Syndrome Awareness Month, LGBTQ+ History Month, National Cybersecurity Awareness Month, Health Literacy Month, and Filipino American History Month. National Disability Employment Awareness Month has the oldest paper trail among them, a 1945 act of Congress; LGBTQ+ History Month has the newest, a single teacher's 1994 initiative. None of the ten shares a common origin or sponsor with any other."
+        "answer": "At least ten: Breast Cancer, Domestic Violence, ADHD, Bullying-Prevention, Employment of People with Disabilities, Down Syndrome, LGBTQ+ History, Cybersecurity, Health Literacy, and Filipino-American History, each with \"Awareness\" or \"Month\" in its name. The employment-focused month has the oldest paper trail of the group, a 1945 act of Congress, while the newest belongs to the LGBTQ+ observance, one teacher's 1994 initiative. No two of the ten share an origin or sponsor."
       },
       {
         "question": "Is National Farmers Day an official U.S. federal holiday?",
-        "answer": "No. Despite a commonly repeated claim that it became a federal holiday in 1970, banks, the U.S. Postal Service, and federal offices all remain open on October 12 for National Farmers Day, which is what an actual federal holiday would close for. This page found no single, verifiable primary source for the holiday's founding at all, only conflicting and uncorroborated claims across different sites."
+        "answer": "No. One popular claim says it became a federal holiday in 1970, yet post offices, banks, and government agencies all stay open on October 12, which a genuine federal holiday would shut. This page found no verifiable primary source for its founding, only conflicting claims that sites copy from one another."
       },
       {
         "question": "What is the difference between Columbus Day and Indigenous Peoples' Day?",
-        "answer": "They share the same date, the second Monday of October, rather than competing for two different ones. Columbus Day is the older federal holiday, made statutory by the 1968 Uniform Monday Holiday Act after a 1934 congressional resolution and Roosevelt proclamation first established it as an annual observance. Indigenous Peoples' Day grew out of a 1977 United Nations conference proposal and was first officially adopted by Berkeley, California in 1992; it is not a federal statute in its own right, but is now recognized by more than a dozen states and over a hundred U.S. cities, and recent presidents have proclaimed it alongside Columbus Day on the same date."
+        "answer": "They share a date, the month's second Monday, instead of sitting on two separate ones. Columbus Day is the older federal holiday, made statutory by the 1968 law that moved several holidays to Mondays after Congress and President Roosevelt first set it up in 1934 as an annual observance. The holiday honoring Indigenous peoples grew out of a proposal at a UN conference in 1977, and the city of Berkeley adopted it first, in 1992. No federal statute backs it, yet a dozen-plus states and well over a hundred cities recognize it, and presidents have lately proclaimed it next to Columbus Day."
       },
       {
         "question": "Is October 12, 2026 really both Columbus Day and National Farmers Day?",
-        "answer": "Yes, both land on October 12, 2026, the second Monday of the month, though for very different reasons. Columbus Day is fixed to the second Monday by federal statute. National Farmers Day is conventionally kept on the fixed calendar date of October 12 regardless of weekday, and 2026 happens to be a year where that fixed date and Columbus Day's floating Monday formula coincide."
+        "answer": "Yes, both land on October 12, 2026, which is also that month's second Monday, though for very different reasons. Federal statute pins Columbus Day to that Monday. The farmers' observance sticks to the calendar date, October 12, whatever the weekday, and 2026 happens to line the two up."
       },
       {
         "question": "Which October observance on this list has the strongest documented origin?",
-        "answer": "World Animal Day and World Food Day both have unusually clean paper trails: World Animal Day to organizer Heinrich Zimmermann's 1925 event and its 1931 international ratification in Florence, and World Food Day to a dated November 1979 resolution of the UN Food and Agriculture Organization's own member conference. Columbus Day's federal-statute history, via the 1968 Uniform Monday Holiday Act, is comparably solid but reflects government legislation rather than a single founder."
+        "answer": "World Animal Day and World Food Day both have unusually clean paper trails: World Animal Day to Zimmermann's 1925 event and a 1931 ratification by an international congress in Florence, and World Food Day to a dated resolution of November 1979 from a UN food agency member conference. The federal-statute history of Columbus Day, which runs through a 1968 statute, is comparably solid but reflects government legislation, with no single founder behind it."
       },
       {
         "question": "Is Sweetest Day a real historical event or just a greeting-card holiday?",
-        "answer": "Both, in a sense that most \"just a greeting-card holiday\" dismissals miss. The first Sweetest Day was a real, dated event on October 10, 1921, organized by a 12-member committee of Cleveland confectioners and covered by the Cleveland Plain Dealer the following year, with actresses helping distribute more than 20,000 boxes of candy to orphans, older residents, and the poor. What is unresolved is the exact role of Herbert Birch Kingston, the individual most often credited as its founder: sources disagree on whether he was an outside advertising figure or a member of the candy-makers' committee itself."
+        "answer": "Both, in a sense that most \"just a greeting-card holiday\" dismissals miss. The original Sweetest Day was a real, dated event held in Cleveland in 1921, organized by twelve local confectioners and covered by a Cleveland newspaper a year later, with actresses helping hand out upwards of 20,000 candy boxes to orphans, elderly residents, and poor families. What is unresolved is the exact role of Herbert B. Kingston, the individual most often credited as its founder: sources split on whether he was an outside advertising figure or one of the candymakers on the committee."
       },
       {
         "question": "Why is October 28 a special day?",
-        "answer": "It's National First Responders Day, honoring police officers, firefighters, EMTs, paramedics, and 911 dispatchers. Congress introduced eleven separate bills to establish it between 2014 and 2023, and the Senate passed two of them, but the House never passed one, so no federal statute names the day; recent presidents have filled that gap with their own proclamations instead."
+        "answer": "It's the first-responders observance, a date for police, firefighters, EMTs, paramedics, and 911 dispatchers. Congress introduced eleven separate bills to establish it between 2014 and 2023, and the Senate passed two of them, but none cleared the House, so no federal statute names the day; presidents have filled that gap with their own proclamations instead."
       }
     ],
     "sources": [

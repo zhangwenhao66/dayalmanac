@@ -207,5 +207,24 @@
       "https://dayalmanac.com/veterans-day-date/"
     ],
     "method": "SubmitUrlBatch"
+  },
+  {
+    "date": "2026-09-29",
+    "site": "dayalmanac.com",
+    "action": "submitted",
+    "submitted_urls": [
+      "https://dayalmanac.com/how-we-work/",
+      "https://dayalmanac.com/when-does-lent-start-and-end/"
+    ],
+    "method": "SubmitUrlBatch"
+  },
+  {
+    "date": "2026-09-30",
+    "site": "dayalmanac.com",
+    "action": "submitted",
+    "submitted_urls": [
+      "https://dayalmanac.com/october-14-zodiac/"
+    ],
+    "method": "SubmitUrl"
   }
 ]

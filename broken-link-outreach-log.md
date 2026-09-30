@@ -442,3 +442,6 @@ DayAlmanac断链置换战术累计已发送8封pitch；已验证`not_replaced` 5
 ### 遗留待办
 
 下轮核实顺序：adoptmidtn.com（08-31，16天）→ writeshop.com/beardsleyzoo.org（09-02，14天）。
+
+## 2026-09-30 运行（选站：11-30位曝光第2，414；GSC同期前10位2781曝光仅7点击）
+第0步：adoptmidtn.com（08-31发出，30天）curl ?cb复查 HTTP 200，kids-alliance.org死链原样保留，无dayalmanac字样，外链明细（dataforseo backlinks dayalmanac.com，仅3条，均为taco-day页）无该域名，gmail全账号 from:adoptmidtn.com 为空。判定 not_replaced；已远超跟进窗口，不跟进。writeshop.com/beardsleyzoo.org下轮按序核实。新挖掘：节日/观察日教师资源页与LibGuide，扫描11页（DISD LibGuide、ADL、Childhood101、WeAreTeachers类、Teach Starter、123homeschool4me、Saving Talents、PTO Today等），DEAD均为误报或无关（DISD页为 http://https:// 写法错误，PTO Today为站内sitemap和亚马逊商品）。未发送。累计口径：已发送8封 / 到手0条 / 0%；已验证not_replaced 6条。

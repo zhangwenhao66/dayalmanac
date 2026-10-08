@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Remembrance Sunday 2026 to 2031 against Armistice Day, November 11, and the date the 1946 wording would have given</title>
+  <desc id="desc">2026: November 11 is a Wednesday, Remembrance Sunday is November 8, three days before; the 1946 wording gives the same date. 2027: Thursday, November 14, three days after; the 1946 wording would give November 7. 2028: Saturday, November 12, one day after; same. 2029: Sunday, November 11, the same day; same. 2030: Monday, November 10, one day before; same. 2031: Tuesday, November 9, two days before; same.</desc>
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#2b2118">The 11th stays put while Remembrance Sunday moves around it.</text>
+  <text x="60" y="118" font-family="Georgia, serif" font-size="22" fill="#5a4a3a">Since 1956 the rule is the second Sunday in November, always between the 8th and the 14th.</text>
+  <rect x="60" y="150" width="1080" height="56" fill="#2b2118"/>
+  <g font-family="Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">
+    <text x="84" y="186">Year</text><text x="200" y="186">Nov. 11 is a</text><text x="410" y="186">Remembrance Sunday</text><text x="720" y="186">Against the 11th</text><text x="960" y="186">1946 wording</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="24" fill="#2b2118">
+    <rect x="60" y="206" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="244">2026</text><text x="200" y="244">Wednesday</text><text x="410" y="244" font-weight="700">Sun., Nov. 8</text><text x="720" y="244">3 days before</text><text x="960" y="244">Nov. 8</text>
+    <rect x="60" y="264" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="302">2027</text><text x="200" y="302">Thursday</text><text x="410" y="302" font-weight="700">Sun., Nov. 14</text><text x="720" y="302">3 days after</text><text x="960" y="302" font-weight="700" fill="#b5482f">Nov. 7</text>
+    <rect x="60" y="322" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="360">2028</text><text x="200" y="360">Saturday</text><text x="410" y="360" font-weight="700">Sun., Nov. 12</text><text x="720" y="360">1 day after</text><text x="960" y="360">Nov. 12</text>
+    <rect x="60" y="380" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="418">2029</text><text x="200" y="418">Sunday</text><text x="410" y="418" font-weight="700">Sun., Nov. 11</text><text x="720" y="418">same day</text><text x="960" y="418">Nov. 11</text>
+    <rect x="60" y="438" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="476">2030</text><text x="200" y="476">Monday</text><text x="410" y="476" font-weight="700">Sun., Nov. 10</text><text x="720" y="476">1 day before</text><text x="960" y="476">Nov. 10</text>
+    <rect x="60" y="496" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="534">2031</text><text x="200" y="534">Tuesday</text><text x="410" y="534" font-weight="700">Sun., Nov. 9</text><text x="720" y="534">2 days before</text><text x="960" y="534">Nov. 9</text>
+  </g>
+  <text x="60" y="590" font-family="Georgia, serif" font-size="19" fill="#5a4a3a">1946 wording: the Sunday before Nov. 11, unless the 11th or 12th was a Sunday. Source: Hansard, HC Deb 13 Feb 1958. Last column is our reading of it.</text>
+</svg>

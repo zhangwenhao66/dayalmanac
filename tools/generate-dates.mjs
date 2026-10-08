@@ -160,6 +160,11 @@ export const RULES = {
 	usColumbusDay: { kind: 'nth-weekday', month: 10, weekday: 'Monday', nth: 2 },
 	// 5 U.S.C. §6103(a) — "Veterans Day, November 11." A fixed date; it never moves to a Monday.
 	usVeteransDay: { kind: 'fixed', month: 11, day: 11 },
+	// UK Remembrance Sunday — "the second Sunday in November". Announced by Sir Anthony Eden in 1956
+	// (HC Deb 13 February 1958, vol 582 cc568-9, Home Secretary's answer). A government announcement,
+	// not a statute we could find. Replaced the 1946 wording "the Sunday before 11th November, unless
+	// the 11th or 12th of November were a Sunday".
+	ukRemembranceSunday: { kind: 'nth-weekday', month: 11, weekday: 'Sunday', nth: 2 },
 	// 5 U.S.C. §6103 — "the third Monday in January".
 	usMlkDay: { kind: 'nth-weekday', month: 1, weekday: 'Monday', nth: 3 },
 	// 36 U.S.C. §125 — "the first Sunday in September after Labor Day".

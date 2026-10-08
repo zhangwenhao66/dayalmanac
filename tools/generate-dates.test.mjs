@@ -115,6 +115,17 @@ test('Veterans Day is fixed on November 11, whatever weekday that is', () => {
 	assert.deepEqual(got.map((o) => o.weekday), ['Wednesday', 'Thursday', 'Saturday', 'Sunday', 'Monday', 'Tuesday']);
 });
 
+test('UK Remembrance Sunday is the second Sunday in November', () => {
+	// GOV.UK national service pages are titled "Sunday 13 November 2022" and "Sunday 9 November 2025";
+	// local Remembrance Sunday 2026 programmes (e.g. Newton Abbot Town Council) give Sunday 8 November.
+	// Range 2022-2026 includes 2022 (11 Nov a Friday) and 2026 (11 Nov a Wednesday).
+	const got = expand(RULES.ukRemembranceSunday, 2022, 5);
+	assert.equal(got[0].date, '2022-11-13');
+	assert.equal(got[3].date, '2025-11-09');
+	assert.equal(got[4].date, '2026-11-08');
+	assert.ok(got.every((o) => o.weekday === 'Sunday'));
+});
+
 // ---------------------------------------------------------------------------
 // Offset rules
 // ---------------------------------------------------------------------------

@@ -13036,7 +13036,7 @@ export const guides: Guide[] = [
         "heading": "From Armistice Day to Veterans Day",
         "body": [
           "November 11 marks the 1918 armistice that ended fighting in World War I. An act approved May 13, 1938 (52 Stat. 351) made the date a legal holiday to be known as Armistice Day, dedicated to world peace, and it was primarily a day for veterans of the first world war.",
-          "After World War II and the Korean War, veterans' organizations pushed to widen it. Public Law 83-380, approved June 1, 1954, changed the name to Veterans Day. Eisenhower's Proclamation 3071 followed on October 8, 1954 and called on the country to honor veterans of all its wars. Armistice Day is still a national holiday in many other countries, according to the National Archives."
+          "After World War II and the Korean War, veterans' organizations pushed to widen it. Public Law 83-380, approved June 1, 1954, changed the name to Veterans Day. Eisenhower's Proclamation 3071 followed on October 8, 1954 and called on the country to honor veterans of all its wars. Armistice Day is still a national holiday in many other countries, according to the National Archives. Britain adds a Sunday observance of its own: [Remembrance Sunday 2026](/remembrance-sunday-date/) is November 8, the second Sunday of the month."
         ]
       },
       {
@@ -13286,5 +13286,160 @@ export const guides: Guide[] = [
     ],
     "image": "/images/when-does-lent-start-and-end-timeline.svg",
     "imageAlt": "Timeline of the 2026 Lent season from Ash Wednesday on February 18 to Easter Sunday on April 5, showing where Catholic and Protestant practice end Lent"
+  },
+  {
+    "slug": "remembrance-sunday-date",
+    "category": "Observances",
+    "title": "Remembrance Sunday 2026: Date and Why It Moves",
+    "description": "Remembrance Sunday 2026 is Sunday, November 8. The UK holds it on the second Sunday in November, so it can fall before, on or after the 11th. Dates to 2031.",
+    "published": "2026-10-08",
+    "updated": "2026-10-08",
+    "coreSummary": "Remembrance Sunday 2026 is Sunday, November 8. The UK holds it on the second Sunday in November, a rule announced in 1956, so it always lands between the 8th and the 14th and can fall before, on or after Armistice Day on the 11th: the 8th in 2026, the 14th in 2027 and the 11th itself in 2029. The 1946 wording, the Sunday before the 11th, would have put 2022's service on November 6 instead of the 13th. The national service at the Cenotaph in London starts at 11am with a two-minute silence.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The second Sunday in November, every year. Sir Anthony Eden announced the fixed rule in 1956, and the Home Secretary restated it to the Commons on 13 February 1958.",
+      "source": {
+        "label": "Hansard: Remembrance Day, HC Deb 13 February 1958, vol 582 cc568-9",
+        "url": "https://api.parliament.uk/historic-hansard/commons/1958/feb/13/remembrance-day"
+      },
+      "occurrences": [
+        {
+          "date": "2026-11-08",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2027-11-14",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-11-12",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2029-11-11",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2030-11-10",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2031-11-09",
+          "weekday": "Sunday"
+        }
+      ],
+      "caveat": "The rule comes from a government announcement, and no Act of Parliament setting it turned up in the checks for this page. GOV.UK's bank holiday list does not include Remembrance Sunday, so it is a Sunday observance with no extra day off. Some sources describe it as the Sunday nearest to November 11. For November the two readings give the same date every year, because the second Sunday always falls between the 8th and the 14th. Armistice Day on November 11 is a separate date, and other countries' remembrance days follow their own rules, which were not checked."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The current Sunday rule traces to a government decision announced after the Second World War. Lord Attlee announced on 19 June 1946 that the King had approved holding it on the Sunday before 11 November, unless the 11th or 12th was itself a Sunday. A 1958 Commons answer says the date was considered in 1945 and 1946 with the churches, the British Legion and Commonwealth governments.",
+      "source": {
+        "label": "Hansard: Remembrance Day, HC Deb 13 February 1958",
+        "url": "https://api.parliament.uk/historic-hansard/commons/1958/feb/13/remembrance-day"
+      }
+    },
+    "sections": [
+      {
+        "heading": "Remembrance Sunday 2026 at a glance",
+        "body": [
+          "Remembrance Sunday 2026 is Sunday, November 8. Armistice Day, November 11, follows three days later on a Wednesday. Because the day is a Sunday, no one gets an extra day off for it, and GOV.UK's list of bank holidays does not mention it or Armistice Day.",
+          "The National Service of Remembrance is held at the Cenotaph on Whitehall in London. GOV.UK had not posted a 2026 page when this one was written. Its page for 9 November 2025, published on 7 October 2025, said no tickets were needed and that the two-minute silence at 11:00 is marked by guns fired by the King's Troop on Horse Guards Parade, with the Cenotaph Service finishing at 11:25. Expect the 2026 programme to follow that shape, and check GOV.UK for the real one."
+        ],
+        "image": {
+          "src": "/images/remembrance-sunday-date-table.svg",
+          "alt": "Table of Remembrance Sunday from 2026 to 2031 against November 11, showing the date moving between the 8th and the 14th, and the one year in this range, 2027, where the 1946 wording would give November 7."
+        }
+      },
+      {
+        "heading": "Why the date moves",
+        "body": [
+          "November 11 is fixed. Remembrance Sunday is tied to a weekday, so it slides around it. The second Sunday of a month can only be the 8th, 9th, 10th, 11th, 12th, 13th or 14th, which means the service is never more than three days from the 11th. In 2026 it comes three days before. In 2027 it comes three days after, on November 14. In 2029 the 11th is itself a Sunday, so the two coincide.",
+          "That answers the question most people type: it is not always after the 11th, and not always before it either."
+        ]
+      },
+      {
+        "heading": "What the rule used to be",
+        "body": [
+          "The first postwar rule was looser. In the Commons answer of 13 February 1958, the Home Secretary said Lord Attlee had announced on 19 June 1946 that Remembrance Sunday would be held on the Sunday before 11 November, unless the 11th or 12th of November were a Sunday. In 1956, he added, Sir Anthony Eden announced a change so that it would always be the second Sunday in November. The stated reason was to avoid inconvenience.",
+          "Worked through, the two versions agree in most years and split when November 11 falls on a Thursday or a Friday. Our reading of the 1946 wording gives November 7 for 2027, where the second-Sunday rule gives November 14. The same split happened in 2022: November 11 was a Friday, the 1946 wording points to November 6, and GOV.UK's national service page is dated Sunday 13 November 2022.",
+          "The 1958 answer was a reply to an MP who asked for the national day to move from November to May, when the war in Europe ended. The Home Secretary declined, saying many strong associations tie the day to November and that the date should only change with great care."
+        ]
+      },
+      {
+        "heading": "How the day is marked",
+        "body": [
+          "The Cenotaph on Whitehall was unveiled by George V in 1920, according to the Royal Family's website, and every monarch since has laid a wreath on Remembrance Sunday. As Big Ben strikes eleven, a gun is fired and two minutes of silence follow, according to the same page. The King, political leaders, serving and former members of the Armed Forces and Commonwealth High Commissioners gather at its foot, and wreaths of poppies are laid.",
+          "Poppies come from the Royal British Legion's appeal. A GOV.UK statement on the Prime Minister's yearly donation calls it a tradition dating back to 1921. Armistice Day itself recalls the 1918 armistice that ended fighting in the First World War, a date the National Archives traces in its piece on the road from Armistice to Veterans Day."
+        ]
+      },
+      {
+        "heading": "Remembrance Sunday and Veterans Day",
+        "body": [
+          "Both grew from November 11, but they now work in opposite ways. The US federal holiday is fixed to the 11th by statute, as [Veterans Day 2026](/veterans-day-date/) explains, and only the day off moves when the 11th lands on a weekend. The British observance is fixed to a Sunday and lets the date float. In 2026 the two fall three days apart, and in 2029 they land on the same day."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Remembrance Sunday always after 11th?",
+        "answer": "No. The day tracks a weekday, so it lands anywhere from the 8th to the 14th. Count 2026 (the 8th) as early, 2027 (the 14th) as late, and 2029 as dead on the 11th."
+      },
+      {
+        "question": "When is Remembrance Sunday in 2026?",
+        "answer": "Sunday, November 8, 2026. Armistice Day is the Wednesday after, November 11."
+      },
+      {
+        "question": "Does America do Remembrance Sunday?",
+        "answer": "Americans mark Veterans Day on November 11, a federal holiday named in 5 U.S.C. §6103. The Sunday rule covered on this page is a British one, announced by Attlee in 1946 and Eden in 1956."
+      },
+      {
+        "question": "Is Remembrance Sunday a bank holiday?",
+        "answer": "No. It is missing from the UK's official bank holiday dates, and a Sunday gives nobody an extra day off."
+      },
+      {
+        "question": "What time is the silence on Remembrance Sunday?",
+        "answer": "11am. Going by the 2025 programme, the guns fire at 11:00 and the ceremony finishes at 11:25. A 2026 programme had not been issued yet."
+      },
+      {
+        "question": "Why did the rule change in 1956?",
+        "answer": "Hansard offers a single reason, avoiding inconvenience, and says no more. From 1956 the day was always the second Sunday."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hansard: Remembrance Day, HC Deb 13 February 1958 (the 1946 and 1956 rules)",
+        "url": "https://api.parliament.uk/historic-hansard/commons/1958/feb/13/remembrance-day"
+      },
+      {
+        "label": "GOV.UK: National Service of Remembrance, Sunday 13 November 2022",
+        "url": "https://www.gov.uk/guidance/national-service-of-remembrance-sunday-13-november"
+      },
+      {
+        "label": "GOV.UK: National Service of Remembrance, Sunday 9 November 2025",
+        "url": "https://www.gov.uk/guidance/national-service-of-remembrance-sunday-9-november-2025"
+      },
+      {
+        "label": "GOV.UK: Bank holidays in the UK",
+        "url": "https://www.gov.uk/bank-holidays"
+      },
+      {
+        "label": "The Royal Family: Remembrance events",
+        "url": "https://www.royal.uk/remembrance-events"
+      },
+      {
+        "label": "GOV.UK: PM statement on the launch of the Royal British Legion's Poppy Appeal",
+        "url": "https://www.gov.uk/government/news/pm-statement-on-the-launch-of-the-royal-british-legions-poppy-appeal"
+      },
+      {
+        "label": "National Archives, Pieces of History: From Armistice to Veterans Day",
+        "url": "https://prologue.blogs.archives.gov/2018/11/09/from-armistice-to-veterans-day/"
+      },
+      {
+        "label": "5 U.S.C. §6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      }
+    ],
+    "image": "/images/remembrance-sunday-date-table.svg",
+    "imageAlt": "Table of Remembrance Sunday from 2026 to 2031 against November 11, with the date moving between the 8th and the 14th"
   }
 ];

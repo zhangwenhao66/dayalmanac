@@ -331,17 +331,20 @@
   "https://dayalmanac.com/world-teachers-day/": {
     "submitted_date": "2026-08-20",
     "last_submitted_date": "2026-08-20",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "verified_date": "2026-10-08"
   },
   "https://dayalmanac.com/june-birth-flower/": {
     "submitted_date": "2026-08-21",
     "last_submitted_date": "2026-08-21",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "verified_date": "2026-10-08"
   },
   "https://dayalmanac.com/march-birth-flower/": {
     "submitted_date": "2026-08-21",
     "last_submitted_date": "2026-08-21",
-    "verified_status": "pending"
+    "verified_status": "verified_indexed",
+    "verified_date": "2026-10-08"
   },
   "https://dayalmanac.com/may-birth-flower/": {
     "submitted_date": "2026-08-21",

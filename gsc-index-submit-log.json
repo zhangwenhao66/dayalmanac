@@ -498,5 +498,15 @@
   ],
   "quota_exceeded_attempted": [],
   "quota_used": "0"
+ },
+ {
+  "date": "2026-10-08",
+  "note": "unindexed_pages.py 老页未收录巡检结果优先；URL Inspection后请求索引，成功",
+  "submitted_urls": [
+   "https://dayalmanac.com/remembrance-sunday-date/"
+  ],
+  "status_before": "URL is unknown to Google",
+  "quota_exceeded_attempted": [],
+  "quota_used": "1"
  }
 ]

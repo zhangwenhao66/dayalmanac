@@ -76,3 +76,13 @@
 ## 2026-09-03 复查：O层/deadline日历仍未上线，跳过理由维持
 
 实地检查`dayalmanac/src/data/guides.ts`当前76篇文章的category分布：Observances 45、Birth Flowers 13、Birthstones 10、Chinese Zodiac 4、Zodiac Dates 2、Anniversaries 2——仍是N层（法定/知名节日）与W层（生辰石/生肖/星座），O层（awareness月）和deadline日历尚未上线，08-04记录的"若上线O层/deadline日历需重新纳入排查"这个触发条件本次未达成，故继续跳过。
+
+
+<!-- run:20261009T141607+0800 -->
+## 2026-10-09 近期样本实查
+
+当前核查以词条修订和本站实际内容为准，历史站龄门槛、缺作者页或计算器一律禁止的推断不沿用。本轮是近期样本筛查，非全站穷尽审计；不推进最后有效提交日期。
+
+- DayAlmanac：本站 `remembrance-sunday-date`；维基条目 [Remembrance Sunday](https://en.wikipedia.org/w/index.php?oldid=1379003206)，修订 1379003206。结论：整页more citations标签不自动构成日期缺口，第二个11月周日已有上游。合格引用建议0、Talk留言0、新提交0、公开上线0。
+
+参考来源资格与外部资源价值分别判断；本站来源更详尽本身不构成可靠来源资格。独立审查已完成，无对外草稿，英文写作链不适用。未编辑维基正文、未新增机会键或虚构回执。证据：`/Users/zhangwh/.codex/automation-runtime/runs/trafficsite-wikipedia-outreach/20261009T141607+0800/screening-results.json`、`/Users/zhangwh/.codex/automation-runtime/runs/trafficsite-wikipedia-outreach/20261009T141607+0800/wiki-current.json`、`/Users/zhangwh/.codex/automation-runtime/runs/trafficsite-wikipedia-outreach/20261009T141607+0800/followup-20261009T1515-receipt.json`。

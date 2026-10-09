@@ -445,3 +445,10 @@ DayAlmanac断链置换战术累计已发送8封pitch；已验证`not_replaced` 5
 
 ## 2026-09-30 运行（选站：11-30位曝光第2，414；GSC同期前10位2781曝光仅7点击）
 第0步：adoptmidtn.com（08-31发出，30天）curl ?cb复查 HTTP 200，kids-alliance.org死链原样保留，无dayalmanac字样，外链明细（dataforseo backlinks dayalmanac.com，仅3条，均为taco-day页）无该域名，gmail全账号 from:adoptmidtn.com 为空。判定 not_replaced；已远超跟进窗口，不跟进。writeshop.com/beardsleyzoo.org下轮按序核实。新挖掘：节日/观察日教师资源页与LibGuide，扫描11页（DISD LibGuide、ADL、Childhood101、WeAreTeachers类、Teach Starter、123homeschool4me、Saving Talents、PTO Today等），DEAD均为误报或无关（DISD页为 http://https:// 写法错误，PTO Today为站内sitemap和亚马逊商品）。未发送。累计口径：已发送8封 / 到手0条 / 0%；已验证not_replaced 6条。
+
+
+## 2026-10-09 Codex正式运行（run-id: 20261009T2100）
+
+原任务源码SHA 0ba445bbeffccdc04fdb2129ec95cd04b96e56ce31153b420a2dd4a2e89ca61c，完整覆盖1–176行。先查旧账及全账号Gmail，再复查来源页HTTP200、未出现本站替换链接；DataForSEO未找到对应来源域名外链。本次0发送、0新提交、0获链。原十站累计原账口径79封/0确认获链（不同站日志计数存在历史ID差异，非新增投递）。成本全轮$0.1221。证据：/Users/zhangwh/.codex/automation-runtime/runs/trafficsite-broken-link-building/20261009T2100/old-review.json、dayalmanac-backlinks.txt。
+旧信超过14天窗口，不补发跟进；本轮仅完成到期核实，后续30天复查队列已登记。
+17站今日已确认新提交2/102、缺口100（alpha1、gamma1，其余0）；本专项0。公开上线本轮未重新验证，未检查不算完成。完整逐站表：/Users/zhangwh/.codex/automation-runtime/runs/trafficsite-broken-link-building/20261009T2100/17站当日覆盖.md。外链范围最新覆盖17站，但专项仅真实适配子集；主执行器补缺。低转化79/0已登记原统一待办，不重复新增策略告警。

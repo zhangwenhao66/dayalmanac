@@ -13256,6 +13256,10 @@ export const guides: Guide[] = [
       {
         "question": "When does Great Lent start for Orthodox Christians?",
         "answer": "It opens on Clean Monday, the Monday that starts the Eastern season. The exact date follows the Eastern Easter, which in 2026 lands on April 12, seven days later than in the West, so a local Orthodox calendar gives the start."
+      },
+      {
+        "question": "What are the three rules of Lent?",
+        "answer": "Catholics are encouraged to pray, give alms and fast. USCCB calls these the three pillars of the season. Almsgiving includes donating goods or money to people in need, along with other charitable acts."
       }
     ],
     "sources": [

@@ -1,0 +1,64 @@
+---
+import { guides } from '../data/guides';
+const records = guides.filter(g => ['Observances', 'Public Holidays'].includes(g.category)).map(g => ({slug:g.slug,title:g.title,category:g.category,dateRule:g.dateRule}));
+---
+<section class="nearby panel" aria-labelledby="nearby-heading" data-nearby-tool>
+  <h2 id="nearby-heading" class="font-display">Find observances near a date</h2>
+  <p>Choose a date to see entries before, on and after it. Each link opens the article with its date rule and sources.</p>
+  <label for="observance-date">Calendar date</label>
+  <input id="observance-date" type="date" aria-describedby="nearby-note" />
+  <p id="nearby-note">This lookup covers dated observances in DayAlmanac, not every holiday. Month-long and multi-day entries appear on the start dates recorded in their articles.</p>
+  <div aria-live="polite" data-nearby-results></div>
+  <noscript>Enable JavaScript to use the date lookup. You can also browse the calendar below.</noscript>
+  <script type="application/json" data-nearby-data set:html={JSON.stringify(records, null, 2).replace(/</g, '\\u003c')} />
+</section>
+<script>
+  import { nearestObservances, validCalendarDate } from '../lib/nearestObservances';
+  document.querySelectorAll<HTMLElement>('[data-nearby-tool]').forEach(root => {
+    const input = root.querySelector<HTMLInputElement>('input')!;
+    const results = root.querySelector<HTMLElement>('[data-nearby-results]')!;
+    const records = JSON.parse(root.querySelector('[data-nearby-data]')!.textContent!);
+    const local = new Date();
+    input.value = `${local.getFullYear()}-${String(local.getMonth()+1).padStart(2,'0')}-${String(local.getDate()).padStart(2,'0')}`;
+    function render() {
+      results.replaceChildren();
+      if (!validCalendarDate(input.value)) {
+        results.textContent = 'Choose a valid calendar date.';
+        return;
+      }
+      const found = nearestObservances(input.value, records);
+      const caption = document.createElement('p');
+      caption.textContent = `Entries around ${input.value}`;
+      results.append(caption);
+      for (const [heading, rows] of [['Before',found.before],['On this date',found.on],['After',found.after]] as const) {
+        const h = document.createElement('h3'); h.textContent = heading; results.append(h);
+        if (!rows.length) {
+          const p=document.createElement('p'); p.textContent='No entries in the available date tables.'; results.append(p);
+          continue;
+        }
+        const list=document.createElement('ul');
+        for (const row of rows) {
+          const item=document.createElement('li');
+          const time=document.createElement('time'); time.dateTime=row.date; time.textContent=`${row.weekday}, ${row.date}: `;
+          const link=document.createElement('a'); link.href=`/${encodeURIComponent(row.slug)}/`; link.textContent=row.title;
+          item.append(time,link); list.append(item);
+        }
+        results.append(list);
+      }
+      if (!found.firstDate || input.value < found.firstDate || input.value > found.lastDate!) {
+        const p=document.createElement('p'); p.textContent='The selected date is outside the available tables. Nearby entries may be far from this date.'; results.append(p);
+      }
+    }
+    input.addEventListener('input',render);
+    input.addEventListener('change',render);
+    render();
+  });
+</script>
+<style>
+  .nearby { margin: 2.5rem auto; max-width: 760px; padding: 1.25rem; border-top: 3px solid var(--flag); }
+  h2 { margin-top: 0; font-size: 1.35rem; }
+  label { display:block; margin-bottom:.4rem; font-weight:600; }
+  input { padding:.5rem; border:1px solid var(--rule); background:var(--paper); color:var(--ink); max-width:100%; }
+  input:focus-visible { outline:2px solid var(--flag); outline-offset:3px; }
+  #nearby-note { font-size:.85rem; color:var(--ink); opacity:.75; }
+</style>

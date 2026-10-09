@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import NearestObservanceTool from '../components/NearestObservanceTool.astro';
 import WebSite from '../../vendor/site-toolkit/packages/schema/src/WebSite.astro';
 import { guides, categorySlug, formatOccurrence, type Guide, type Occurrence } from '../data/guides';
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_ORIGIN } from '../consts';
@@ -103,6 +104,8 @@ function blockParts(date: string) {
 			proclamation where one exists, and said plainly where nobody can find one.
 		</p>
 	</section>
+
+	<NearestObservanceTool />
 
 	{dated.length > 0 && (
 		<section class="mt-12">

@@ -1,0 +1,68 @@
+{
+  "automation_id": "dayalmanac-content-publishing",
+  "run_id": "20261010T133500+0800",
+  "planned_window": "2026-10-10T13:35:00+08:00",
+  "finished_at": "2026-10-10T13:47:26.756638+08:00",
+  "status": "skipped_no_admitted_topic",
+  "published_articles": 0,
+  "upgraded_articles": 0,
+  "deployment_attempts": 0,
+  "random_rest": {
+    "draw": 17,
+    "rest": false,
+    "first_draw_preserved_no_reroll": true
+  },
+  "source": {
+    "sha": "b2bb9eceaa7a42aab0bbc58462a00eea421d901679b612a3fae7a8e9ed515990",
+    "coverage": "1-464"
+  },
+  "policy": "all-site-article-admission-20261009",
+  "free_pool_size": 4281,
+  "ready_before": 0,
+  "ready_after": 0,
+  "new_ready": 0,
+  "ready_unit_cost": null,
+  "ready_unit_cost_reason": "本轮新增ready为0，不能除以0或用累计库存替代",
+  "fresh_serp_queries": 10,
+  "fresh_serp_cost_usd": 0.04,
+  "cached_serp_queries": 6,
+  "bing_rows_screened": 100,
+  "bing_candidate_decisions": 28,
+  "decisions": {
+    "total": 44,
+    "rejected": 40,
+    "unchecked": 4,
+    "scope": "16个Google候选与28个Bing候选；4281候选池未全量完成最终准入"
+  },
+  "refresh_screen": {
+    "expected": 88,
+    "checked": 88,
+    "not_checked": 0,
+    "due_4_8_weeks_updated_over_60_days": 0
+  },
+  "admission": {
+    "attempted": 16,
+    "pass": 0,
+    "author_and_intent_completion": "部分作者未核；JSON保留null而非编造PASS。竞争/红线拒绝依据见decisions.json。"
+  },
+  "quality_chain": "无稿件，写作/双humanizer/独审/构建/发布检查未启动；不报告通过",
+  "outbound": {
+    "email": 0,
+    "contact_forms": 0,
+    "private_messages": 0
+  },
+  "dashboard": "本轮未更新/构建/发布，按最新work-progress记录",
+  "evidence": [
+    "/Users/zhangwh/.codex/automation-runtime/runs/dayalmanac-content-publishing/20261010T133500+0800/decisions.json",
+    "/Users/zhangwh/.codex/automation-runtime/runs/dayalmanac-content-publishing/20261010T133500+0800/admission-results.json",
+    "/Users/zhangwh/.codex/automation-runtime/runs/dayalmanac-content-publishing/20261010T133500+0800/refresh-screen.json",
+    "/Users/zhangwh/.codex/automation-runtime/runs/dayalmanac-content-publishing/20261010T133500+0800/random-rest.json"
+  ],
+  "next": "下一个原定13:35允许窗口复用拒绝记录，从未核实的开放观察日问题继续；不补跑本窗口、不自动新建或扩预算",
+  "limitations": [
+    "未核完全部候选，不能声明全池无机会",
+    "4条身份/独立价值未核候选保持unchecked并留2026-10-17复查日期",
+    "无新稿，不把未写成稿说成已通过信息增量审核",
+    "Git直连75秒连接失败；系统代理替代fetch成功，仅日志集成本地main，不触发内容部署"
+  ]
+}

@@ -3930,7 +3930,7 @@ export const guides: Guide[] = [
     "title": "Birthstones by Month: The Full Chart, and Where They Disagree",
     "description": "All twelve official birthstones in one chart, checked against Jewelers of America, GIA, and the American Gem Society, plus where their current pages disagree.",
     "published": "2026-08-11",
-    "updated": "2026-09-12",
+    "updated": "2026-10-11",
     "coreSummary": "Jewelers of America's current buying guide names one stone for seven months and two or three for the rest, but its live chart is narrower than GIA's and the American Gem Society's for two months specifically: March (JA lists aquamarine alone; GIA and AGS both still add bloodstone) and August (JA lists peridot and spinel; GIA and AGS both still add sardonyx, the month's original stone). Britain's separate trade list, last revised in 2013, adds a further stone to September that the US chart has never carried in that slot.",
     "sections": [
       {
@@ -3944,7 +3944,7 @@ export const guides: Guide[] = [
         "heading": "One 1912 meeting, three later revisions",
         "body": [
           "Jewelers of America itself dates to 1906, when it organized under an earlier name to represent retail jewelers as a trade. The birthstone list came six years later: in 1912, that organization, then called the American National Retail Jewelers Association, met in Kansas City and adopted a single standardized chart, replacing the tangle of regional and folk birthstone traditions retailers had been drawing on until then.",
-          "The chart has been revised three times since, and each revision landed on different months. A 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December. Trade histories disagree on whether Jewelers of America's predecessor carried that revision out or whether a separate body, the Jewelry Industry Council of America, did it instead, and this page did not find a document that settles the question either way. Tanzanite joined December's roster in 2002, added by the American Gem Trade Association. Spinel followed for August in 2016, this time a joint announcement from the American Gem Trade Association and Jewelers of America together. No revision since 1912 has touched January, February, March, April, May, July, or September. Jewelers of America's chart for March has stood at aquamarine alone the entire time, even though the American Gem Society and GIA currently pair it with bloodstone."
+          "The chart has been revised three times since, and the later rounds changed selected months, with December appearing in both 1952 and 2002. A 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December. Trade histories disagree on whether Jewelers of America's predecessor carried that revision out or whether a separate body, the Jewelry Industry Council of America, did it instead, and this page did not find a document that settles the question either way. Tanzanite joined December's roster in 2002, added by the American Gem Trade Association. Spinel followed for August in 2016, this time a joint announcement from the American Gem Trade Association and Jewelers of America together. No revision since 1912 has touched January, February, March, April, May, July, or September. Jewelers of America's chart for March has stood at aquamarine alone the entire time, even though the American Gem Society and GIA currently pair it with bloodstone."
         ]
       },
       {
@@ -4363,8 +4363,8 @@ export const guides: Guide[] = [
     "title": "June Birth Flower: Rose and Honeysuckle, and Rose's Missing Parent",
     "description": "June's birth flowers are rose and honeysuckle, but the cut rose sold at florists traces to one 1867 hybrid whose own parentage is still disputed.",
     "published": "2026-08-21",
-    "updated": "2026-08-21",
-    "coreSummary": "June's birth flowers are rose and honeysuckle. The tall, single-stem rose sold at florists isn't the ancient flower most birth-flower pages imply; it traces to 'La France,' a pink hybrid tea rose bred in Lyon, France in 1867 by Jean-Baptiste André Guillot, whose own parentage is still disputed among rosarians. Honeysuckle carries two unrelated names: its scientific name, Lonicera, honors 16th-century German botanist Adam Lonicer, while the English word traces to Old English for 'honey-suck' and originally referred to clover, not the vine, before shifting meaning around 1400. The honeysuckle photographed on many birth-flower pages is often Lonicera japonica, an East Asian species now classified as a noxious weed in 46 US states.",
+    "updated": "2026-10-11",
+    "coreSummary": "June's birth flowers are rose and honeysuckle. The tall, single-stem rose sold at florists isn't the ancient flower most birth-flower pages imply; it traces to 'La France,' a pink hybrid tea rose bred in Lyon, France in 1867 by Jean-Baptiste André Guillot, whose parentage is still disputed among rosarians. Honeysuckle carries two unrelated names: its scientific name, Lonicera, honors 16th-century German botanist Adam Lonicer, while the English word traces to Old English for 'honey-suck' and originally referred to clover, not the vine, before shifting meaning around 1400. The honeysuckle photographed on many birth-flower pages is often Lonicera japonica, an invasive East Asian species subject to state restrictions, including Indiana and Connecticut.",
     "sections": [
       {
         "heading": "Rose and honeysuckle, and a gap already found on this site",
@@ -4377,7 +4377,7 @@ export const guides: Guide[] = [
         "body": [
           "Wikipedia's entry on the rose counts genus Rosa at over three hundred wild species and tens of thousands of cultivars, most native to Asia, with smaller numbers in Europe, North America, and northwest Africa. Roses of some kind have carried symbolic weight for millennia. What most birth-flower photo galleries actually picture, though, the tall, high-centered rose sold one stem at a time in flower shops, traces to a single and comparatively recent cross.",
           "In 1867, in Lyon, France, nurseryman and rose breeder Jean-Baptiste André Guillot introduced a pink cultivar he named 'La France.' Per Wikipedia's entry on the cultivar, it's \"generally accepted to be the first hybrid tea rose,\" a class not formally recognized until the 1880s, and its introduction \"is therefore also considered the birth of the modern rose,\" the point where roses split away from older garden classes into the repeat-blooming, long-stemmed type that still dominates the cut-flower trade.",
-          "Even Guillot's rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the record for the plant: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even settled agreement on whether it had one parent or two."
+          "Even Guillot's rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the record for the plant: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even a documented pollen parent distinguishing an open-pollinated seedling from a planned cross."
         ],
         "image": {
           "src": "/images/june-birth-flower-rose.jpg",
@@ -4397,11 +4397,11 @@ export const guides: Guide[] = [
         "body": [
           "Honeysuckle's scientific name and its English common name come from two entirely separate sources, a split most birth-flower copy glosses over by treating \"Lonicera\" as though it simply meant honeysuckle in Latin. It doesn't. Wikipedia's entry on the genus explains that \"the name Lonicera stems from Adam Lonicer, a Renaissance botanist,\" specifically Adam Lonicer (1528-1586), a German physician whose 1557 herbal, the Kräuterbuch, Wikipedia's biographical entry on him credits as his major work. Carl Linnaeus attached Lonicer's name to the genus more than a century and a half after Lonicer's death.",
           "The English name has nothing to do with Lonicer. Etymonline dates \"honeysuckle\" to around 1300, and the earliest recorded sense isn't even the vine: the word first meant clover, specifically red clover, with the climbing-vine sense not attested until roughly a century later, around 1400. Both senses trace to Old English hunigsuge, literally \"honey-suck,\" a description of the practice of drawing nectar directly from a flower. Two names, from two unrelated sources, that happened to land on the same genus of roughly 158 species (Wikipedia's count) native across North America, Eurasia, and North Africa.",
-          "The species question matters more than most galleries let on. Among those 158 species, Wikipedia singles out Lonicera japonica, Japanese honeysuckle, as \"an aggressive generalist species\" and one of the most widely planted ornamental honeysuckles worldwide. Introduced to the US from Japan in the early 1800s, it's now classified as a noxious weed in 46 states; it's prohibited for sale in Connecticut, Illinois, Massachusetts, and Vermont, and banned outright in Indiana and New Hampshire, per Wikipedia's entry on the species. Its older stems are often hollow inside, per the same entry. A native alternative, Lonicera sempervirens, trumpet or coral honeysuckle, native to the eastern US, is among the species Wikipedia's genus entry lists as a particular draw for North American hummingbirds. Most stock photography attached to \"June birth flower\" pages doesn't name which species is pictured, and given how much more common Japanese honeysuckle is along roadsides and in home gardens across the eastern and central US, there's a real chance the vine illustrating a US reader's birth flower is a species their own state prohibits them from planting. [This site's July birth flower page](/july-birth-flower/) covers a comparable case of mistaken botanical identity: what most guides describe as Egypt's sacred lotus is, botanically, a water lily, not a true lotus at all."
+          "The species question matters more than most galleries let on. Among those 158 species, Wikipedia singles out Lonicera japonica, Japanese honeysuckle, as \"an aggressive generalist species\" and one of the most widely planted ornamental honeysuckles worldwide. Introduced to the US from Japan in the early 1800s, the US Forest Service identifies it as invasive and notes state-level sale restrictions. Current Indiana rules prohibit selling, giving, transporting or introducing it; Connecticut law also restricts its sale, purchase, cultivation and distribution. Those are specific state rules, not evidence for a nationwide count of legal noxious-weed listings. Its older stems are often hollow inside, per the same entry. A native alternative, Lonicera sempervirens, trumpet or coral honeysuckle, native to the eastern US, is among the species Wikipedia's genus entry lists as a particular draw for North American hummingbirds. Most stock photography attached to \"June birth flower\" pages doesn't name which species is pictured, and given how much more common Japanese honeysuckle is along roadsides and in home gardens across the eastern and central US, there's a real chance the vine illustrating a US reader's birth flower is a species their own state prohibits them from planting. [This site's July birth flower page](/july-birth-flower/) covers a comparable case of mistaken botanical identity: what most guides describe as Egypt's sacred lotus is, botanically, a water lily, not a true lotus at all."
         ],
         "image": {
           "src": "/images/june-birth-flower-honeysuckle.jpg",
-          "alt": "Lonicera japonica (Japanese honeysuckle) in bloom, an East Asian species introduced to the US as an ornamental in the early 1800s and now classified as a noxious weed in 46 states",
+          "alt": "Lonicera japonica (Japanese honeysuckle) in bloom, an East Asian species introduced to the US as an ornamental in the early 1800s and regulated as invasive in states including Indiana and Connecticut",
           "credit": "Photo by Cbaile19, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_2021-06-11,_Banksville,_01.jpg), CC0"
         }
       },
@@ -4433,7 +4433,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is the honeysuckle pictured on birth-flower lists always the same species?",
-        "answer": "Not necessarily. Photos often show the Japanese species (L. japonica), which 46 US states treat as a noxious weed and banned for sale in several. A native, non-invasive option is the coral honeysuckle (L. sempervirens), also sold as trumpet honeysuckle."
+        "answer": "Not necessarily. Photos often show L. japonica, the invasive Japanese species. Indiana bars sale and introduction; Connecticut restricts sale and cultivation as well. Local rules need checking before planting. A native, non-invasive option is the coral honeysuckle (L. sempervirens), also sold as trumpet honeysuckle."
       },
       {
         "question": "Where does the word \"honeysuckle\" come from?",
@@ -4449,6 +4449,9 @@ export const guides: Guide[] = [
       }
     ],
     "sources": [
+      {"label": "US Forest Service: Japanese honeysuckle assessment", "url": "https://research.fs.usda.gov/treesearch/49736"},
+      {"label": "Indiana DNR: Terrestrial Plant Rule", "url": "https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants"},
+      {"label": "Connecticut 2026 laws: Invasive plants", "url": "https://prdext2.cga.ct.gov/2026/sup/chap_446i.htm"},
       {
         "label": "The Old Farmer's Almanac: June Birth Flowers: Rose and Honeysuckle",
         "url": "https://www.almanac.com/june-birth-flowers"
@@ -4500,7 +4503,7 @@ export const guides: Guide[] = [
     "title": "March Birth Flower: Daffodil, and a Species Name Most Guides Get Wrong",
     "description": "March's birth flower is the daffodil on The Old Farmer's Almanac chart, but the taxonomists who study the genus have never agreed on how many species it actually contains.",
     "published": "2026-08-21",
-    "updated": "2026-08-21",
+    "updated": "2026-10-11",
     "coreSummary": "March's birth flower is the daffodil, and The Old Farmer's Almanac names only that one flower for the month, unlike most months on its chart, which carry a primary and a secondary bloom. A separate, unrelated publication, Farmers' Almanac, adds jonquil and cherry blossom as alternatives, though jonquil is not a synonym for daffodil; it names one specific species, Narcissus jonquilla, distinct in leaf shape, stem structure, flowers per stem, and scent. The genus itself resists a stable count: taxonomists have proposed anywhere from 6 species (Linnaeus, 1753) to 87 (the International Daffodil Register, 2006), with a 2008 genetic study cutting that back to 36 and the Royal Horticultural Society's December 2017 register landing at 83. The bulbs are also genuinely toxic; a 2012 cluster of 11 people in Bristol, UK were sickened after eating daffodils sold next to vegetables at a supermarket.",
     "sections": [
       {
@@ -4550,7 +4553,7 @@ export const guides: Guide[] = [
         "heading": "The toxicity isn't theoretical",
         "body": [
           "Daffodil bulbs contain lycorine, an alkaloid that causes vomiting and gastrointestinal cramping, and the danger has produced a documented poisoning case, not just a warning label. In February 2012, UK health investigators, in a report now archived by the UK Health Security Agency, identified 11 people in Bristol, ages 5 to 60, who were sickened after eating daffodils bought at a supermarket that had displayed pre-bloom daffodil stalks next to the vegetables, unmarked as inedible. All 11 developed vomiting within 12 hours; none required hospitalization.",
-          "The Bristol case wasn't an isolated incident. Trade publication The Grocer reported that Public Health England, writing to major UK retailers in 2015 to warn them off displaying daffodils near produce, disclosed that the agency had logged 63 inquiries over the previous six years from people who had mistaken daffodil bulbs for onions or the stems for a vegetable, including 27 cases in the single year before that letter went out. April's birth flower carries a comparable, commonly overstated toxicity claim: [this site's April birth flower page](/april-birth-flower/) found the sweet pea's toxin causes a narrower disease than the famine-era illness most sites call lathyrism."
+          "The Bristol case wasn't an isolated incident. Trade publication The Grocer reported that Public Health England, writing to major UK retailers in 2015 to warn them off displaying daffodils near produce, disclosed that the agency had logged 63 inquiries over the previous six years from people who had mistaken daffodil bulbs for onions or the stems for a vegetable, including 27 cases in the single year before that letter went out. April's birth flower raises a comparable need to distinguish the evidence: [this site's April birth flower page](/april-birth-flower/) describes sweet-pea seed effects studied in experimental animals, separately from the human famine illness caused by grass pea."
         ]
       },
       {
@@ -6395,10 +6398,10 @@ export const guides: Guide[] = [
     "slug": "april-birth-flower",
     "category": "Birth Flowers",
     "title": "April Birth Flower: Daisy and Sweet Pea, a Mislabeled Poison",
-    "description": "April's birth flowers are daisy and sweet pea, but the sweet pea's toxin causes a narrower disease than the famine-era illness most sites call lathyrism.",
+    "description": "April's birth flowers are daisy and sweet pea, but sweet-pea seed experiments concern connective tissue, a different effect from the human famine illness caused by grass pea.",
     "published": "2026-08-18",
-    "updated": "2026-08-18",
-    "coreSummary": "April's birth flowers are the daisy, whose Old English name dæges éage (\"day's eye\") describes how its petals close at night and reopen with the sun, and the sweet pea, first sent from a Sicilian monastery to English and Dutch gardens in 1699 by the monk Francesco Cupani. The petal-pulling \"he loves me, he loves me not\" game most people associate with the word \"daisy\" actually runs on a different species, the oxeye daisy, not the Bellis perennis that birth-flower charts name for April. And the toxin in sweet pea seeds causes a real condition called osteolathyrism, first studied in rats in 1952, a distinct type of lathyrism from neurolathyrism, the historic famine disease caused by a different toxin in the grass pea, a crop people actually ate during famines.",
+    "updated": "2026-10-11",
+    "coreSummary": "April's birth flowers are the daisy, whose Old English name dæges éage (\"day's eye\") describes how its petals close at night and reopen with the sun, and the sweet pea, first sent from a Sicilian monastery to English and Dutch gardens in 1699 by the monk Francesco Cupani. The petal-pulling \"he loves me, he loves me not\" game most people associate with the word \"daisy\" actually runs on a different species, the oxeye daisy, not the Bellis perennis that birth-flower charts name for April. And sweet-pea seed feeding caused a condition called osteolathyrism in experimental rats, studied by Ponseti and Baird in 1952, a distinct type of lathyrism from neurolathyrism, the historic famine disease caused by a different toxin in the grass pea, a crop people actually ate during famines.",
     "sections": [
       {
         "heading": "Daisy and sweet pea, the same gap as every other month",
@@ -6442,7 +6445,7 @@ export const guides: Guide[] = [
         "heading": "A real toxin, attached to the wrong disease name",
         "body": [
           "Kate Greenaway's Language of Flowers, an 1884 floriography guide still cited as a standard reference, lists sweet pea as blissful pleasure, delicate pleasure, and departure, the source of the flower's common use today as a goodbye or thank-you gift rather than a romantic one.",
-          "Sweet pea seed does carry a real toxin, beta-aminopropionitrile (BAPN), which disrupts collagen cross-linking and can produce a bone-and-connective-tissue condition called osteolathyrism, also known as odoratism, first characterized in a 1952 study by Ponseti and Baird that fed the toxin to rats via Lathyrus odoratus seed meal. \"Lathyrism\" itself is an umbrella term for three related but distinct conditions, and the historic human illness, the one recorded since Hippocrates and tied to famines across South Asia and East Africa, is specifically neurolathyrism: motor-neuron damage and leg paralysis caused by a different toxin, ODAP, from overconsumption of Lathyrus sativus, the grass pea grown and eaten as a famine food, per Wikipedia's article on lathyrism. Ornamental sweet peas were never a food crop the way the grass pea was, and ODAP and BAPN are chemically different compounds that damage different tissue; florist and gardening sites that invoke \"lathyrism\" for sweet-pea toxicity without naming which type fold a narrower, well-characterized garden hazard into a famine disease it isn't.",
+          "Sweet pea seed does carry a real toxin, beta-aminopropionitrile (BAPN), which disrupts collagen cross-linking and can produce, in experimental animals, a bone-and-connective-tissue condition called osteolathyrism, also known as odoratism, first characterized in a 1952 study by Ponseti and Baird that fed the toxin to rats via Lathyrus odoratus seed meal. \"Lathyrism\" itself is an umbrella term for three related but distinct conditions, and the historic human illness, the one recorded since Hippocrates and tied to famines across South Asia and East Africa, is specifically neurolathyrism: motor-neuron damage and leg paralysis caused by a different toxin, ODAP, from overconsumption of Lathyrus sativus, the grass pea grown and eaten as a famine food, per Wikipedia's article on lathyrism. Ornamental sweet peas were never a food crop the way the grass pea was, and ODAP and BAPN are chemically different compounds that damage different tissue; florist and gardening sites that invoke \"lathyrism\" for sweet-pea toxicity without naming which type fold a narrower, well-characterized garden hazard into a famine disease it isn't.",
           "The sweet pea's name also has nothing to do with the vegetable garden pea people eat, Pisum sativum, which sits in a different genus of the same family, Fabaceae."
         ]
       },
@@ -6477,7 +6480,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Are sweet peas actually poisonous?",
-        "answer": "The seeds contain a toxin, BAPN, that interferes with how collagen fibers link together, leaving bones and connective tissue affected; the condition goes by two names, osteolathyrism or odoratism, first written up by researchers Ponseti and Baird after a 1952 rat feeding trial. That condition is unrelated to the famine-era nerve disease people usually mean when they say \"lathyrism,\" which comes from a separate toxin, ODAP, in the grass pea crop, Lathyrus sativus. \"Lathyrism\" covers several related conditions, and pages that reach for the word to describe a sweet-pea reaction, skipping that distinction, are talking about a real but narrower hazard, not the famine disease."
+        "answer": "Sweet-pea seeds contain BAPN. In animal experiments it interferes with collagen cross-links, damaging skeletal and other connective tissues: osteolathyrism, also called odoratism. Ponseti and Baird reported a rat feeding study in 1952. The human famine disease usually meant by lathyrism is neurolathyrism, linked to the grass pea (Lathyrus sativus) and its different toxin, ODAP. Both names sit under the lathyrism umbrella; a garden-plant warning should specify which plant, toxin and evidence it concerns."
       },
       {
         "question": "Is the sweet pea related to the peas people eat?",
@@ -6485,6 +6488,7 @@ export const guides: Guide[] = [
       }
     ],
     "sources": [
+      {"label": "PubMed: Lathyrism, experimental and human effects (1984)", "url": "https://pubmed.ncbi.nlm.nih.gov/6422318/"},
       {
         "label": "The Old Farmer's Almanac: April Birth Flowers: Daisy and Sweet Pea Meanings & Symbolism",
         "url": "https://www.almanac.com/content/april-birth-flowers"
@@ -11984,13 +11988,13 @@ export const guides: Guide[] = [
     "title": "November Birthstone: Topaz and Citrine, Forty Years Apart",
     "description": "Topaz has stood for November since the 1912 trade list; citrine joined forty years later. Most sold under either name isn't quite what it looks like.",
     "published": "2026-09-03",
-    "updated": "2026-09-03",
+    "updated": "2026-10-11",
     "coreSummary": "November carries two official birthstones, topaz and citrine, assigned forty years apart: topaz was part of the original 1912 US trade list, citrine followed in a 1952 revision. Neither stone is sold today the way its name suggests. Most \"blue topaz\" on the market is colorless topaz that's been irradiated and heat-treated, and most \"citrine\" is heat-treated amethyst, not the rare natural stone.",
     "sections": [
       {
         "heading": "November's two official birthstones",
         "body": [
-          "Jewelers of America, the US trade group that has maintained the modern birthstone list since 1912, names two official stones for November: topaz and citrine. Per [DayAlmanac's own month-by-month breakdown of that list](/birthstones-by-month/), the two months on either side of November, October and December, each also carry a pair, so a shopper assuming \"the\" November birthstone is one specific gem is already working from the wrong premise.",
+          "Jewelers of America, the US trade group that has maintained the modern birthstone list since 1912, names two official stones for November: topaz and citrine. Per [DayAlmanac's own month-by-month breakdown of that list](/birthstones-by-month/), the two months on either side of November, October and December, carry two and three stones respectively, so a shopper assuming \"the\" November birthstone is one specific gem is already working from the wrong premise.",
           "The two aren't close relatives. Topaz is a silicate mineral, aluminum combined with fluorine and hydroxyl, that forms as an 8 on the Mohs hardness scale. Citrine is a variety of ordinary quartz, silicon dioxide, at 7 on the same scale. That one-point gap looks like it settles which stone holds up better in daily wear; it doesn't, for reasons that only show up once cleavage enters the picture."
         ]
       },
@@ -12106,9 +12110,9 @@ export const guides: Guide[] = [
     "slug": "april-birthstone",
     "category": "Birthstones",
     "title": "April Birthstone: Diamond, Unchanged Since the 1912 List",
-    "description": "Diamond is the one 1912 birthstone assignment none of three later revisions touched, from Golconda and Brazil to a 2025 split in how diamonds get graded.",
+    "description": "Diamond is among the 1912 birthstone assignments none of three later revisions touched, from Golconda and Brazil to a 2025 split in how diamonds get graded.",
     "published": "2026-09-10",
-    "updated": "2026-09-10",
+    "updated": "2026-10-11",
     "coreSummary": "Diamond is the sole modern birthstone for April, and unlike five other months, it has never been added to or changed since the original 1912 trade chart. Diamond's much older trade history runs from fourth-century-BCE India through Brazil and Kimberley, South Africa, where Cecil Rhodes built De Beers into a company that, in 2025, closed its lab-grown diamond brand after wholesale prices for factory-made stones fell 90 percent.",
     "sections": [
       {

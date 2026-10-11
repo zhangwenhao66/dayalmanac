@@ -3930,7 +3930,7 @@ export const guides: Guide[] = [
     "title": "Birthstones by Month: The Full Chart, and Where They Disagree",
     "description": "All twelve official birthstones in one chart, checked against Jewelers of America, GIA, and the American Gem Society, plus where their current pages disagree.",
     "published": "2026-08-11",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "Jewelers of America's current buying guide names one stone for seven months and two or three for the rest, but its live chart is narrower than GIA's and the American Gem Society's for two months specifically: March (JA lists aquamarine alone; GIA and AGS both still add bloodstone) and August (JA lists peridot and spinel; GIA and AGS both still add sardonyx, the month's original stone). Britain's separate trade list, last revised in 2013, adds a further stone to September that the US chart has never carried in that slot.",
     "sections": [
       {
@@ -3944,7 +3944,7 @@ export const guides: Guide[] = [
         "heading": "One 1912 meeting, three later revisions",
         "body": [
           "Jewelers of America itself dates to 1906, when it organized under an earlier name to represent retail jewelers as a trade. The birthstone list came six years later: in 1912, that organization, then called the American National Retail Jewelers Association, met in Kansas City and adopted a single standardized chart, replacing the tangle of regional and folk birthstone traditions retailers had been drawing on until then.",
-          "The chart has been revised three times since, and the later rounds changed selected months, with December appearing in both 1952 and 2002. A 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December. Trade histories disagree on whether Jewelers of America's predecessor carried that revision out or whether a separate body, the Jewelry Industry Council of America, did it instead, and this page did not find a document that settles the question either way. Tanzanite joined December's roster in 2002, added by the American Gem Trade Association. Spinel followed for August in 2016, this time a joint announcement from the American Gem Trade Association and Jewelers of America together. No revision since 1912 has touched January, February, March, April, May, July, or September. Jewelers of America's chart for March has stood at aquamarine alone the entire time, even though the American Gem Society and GIA currently pair it with bloodstone."
+          "The chart has been revised three times since, and the later rounds changed selected months, with December appearing in both 1952 and 2002. A 1952 update added alexandrite to June, citrine to November and specified pink tourmaline for October, where tourmaline was already an alternate in the 1912 chart; it also replaced December’s lapis lazuli with zircon and switched March’s primary and alternate stones. Trade histories disagree on whether Jewelers of America's predecessor carried that revision out or whether a separate body, the Jewelry Industry Council of America, did it instead, and this page did not find a document that settles the question either way. Tanzanite joined December's roster in 2002, added by the American Gem Trade Association. Spinel followed for August in 2016, this time a joint announcement from the American Gem Trade Association and Jewelers of America together. The cited revisions did not change January, February, April, May, July or September. March needs a historical qualification: Kunz’s 1913 reproduction of the adopted list names bloodstone first and aquamarine as its alternate; the 1952 account describes their priority being reversed. JA’s present one-stone March entry should not be read backward as the original chart."
         ]
       },
       {
@@ -3973,7 +3973,7 @@ export const guides: Guide[] = [
       {
         "heading": "Why the charts don't converge",
         "body": [
-          "There's no single body with the authority to force Jewelers of America, GIA, the American Gem Trade Association, the American Gem Society, and Britain's National Association of Goldsmiths onto one chart. Each maintains and revises its own list on its own schedule, the same way [this calendar's Cat Day page](/national-cat-day/) found four differently named, differently founded observances that get confused with one another. A shopper who checks two of these sites for March or August, or checks a US site against a UK one for September, isn't finding a mistake on either page; both are accurately reporting what their organization currently says.",
+          "There's no single body with the authority to force Jewelers of America, GIA, the American Gem Trade Association, the American Gem Society, and Britain's National Association of Goldsmiths onto one chart. Their published charts differ. [This calendar's Cat Day page](/national-cat-day/) documents a comparable naming problem: four observances with different founders and dates are easily confused. That comparison concerns labels, rather than a shared process for revising lists. A shopper who checks two of these sites for March or August, or checks a US site against a UK one for September, isn't finding a mistake on either page; both are accurately reporting what their organization currently says.",
           "A birth-month stone and a zodiac-sign stone are also not the same tradition, even when they land on the same gem by coincidence. [This calendar's page on Virgo's date range](/virgo-dates/) already found that astrology sites can't agree among sapphire, peridot, or carnelian for Virgo's stone, with no trade group behind any of the three claims. That's a separate and considerably less settled question than which stone belongs to whichever birth month a Virgo happens to be born in."
         ]
       }
@@ -4005,6 +4005,7 @@ export const guides: Guide[] = [
       }
     ],
     "sources": [
+      {"label":"Kunz 1913: original 1912 chart, pp.319–320 (checked 2026-10-12)","url":"https://www.gutenberg.org/cache/epub/57978/pg57978-images.html"},
       {
         "label": "Jewelers of America: Birthstones Buying Guide",
         "url": "https://www.jewelers.org/buying-jewelry/jewelry-buying-guides/birthstones"
@@ -5875,7 +5876,7 @@ export const guides: Guide[] = [
     "description": "November's birth flowers are chrysanthemum and peony, but in France and much of Catholic Europe, chrysanthemums are graveside flowers, not gifts.",
     "published": "2026-08-17",
     "updated": "2026-10-12",
-    "coreSummary": "November's birth flowers are the chrysanthemum, whose Greek name literally means \"golden flower\" even though only a handful of modern cultivars are actually gold, and the peony, named for Paeon, physician to the Greek gods. The chrysanthemum carries two separate identities that rarely appear together: Japan's Imperial Seal and highest civilian honor on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other. The peony spent much of its taxonomic history grouped near the buttercup family before molecular studies in the late 1980s moved it into a family of its own, in an order unrelated to buttercups.",
+    "coreSummary": "November's birth flowers are the chrysanthemum, whose Greek name literally means \"golden flower\" even though only a handful of modern cultivars are actually gold, and the peony, named for Paeon, physician to the Greek gods. The chrysanthemum carries two separate identities that rarely appear together: Japan's Imperial Seal and highest decoration on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other. The peony spent much of its taxonomic history grouped near the buttercup family before molecular studies in the late 1980s moved it into a family of its own, in an order unrelated to buttercups.",
     "sections": [
       {
         "heading": "Chrysanthemum and peony, filling the same gap as every other month",
@@ -5888,7 +5889,7 @@ export const guides: Guide[] = [
         "heading": "Chrysanthemum: a name for gold, on a flower that mostly isn't",
         "body": [
           "Chrysanthemum comes from the Greek khrysanthemon, built from khrysos (\"gold\") and anthemon (\"a flower\"), by way of Latin, according to the Online Etymology Dictionary. The name arrived in English around the 1550s, originally describing a golden-flowered plant related to what English speakers now call the marigold. The irony, as the same source notes, is that the label stuck to a much wider genus, and only a small share of modern chrysanthemum cultivars actually bloom gold; breeders have pushed the color range out to white, purple, pink, orange, and red.",
-          "The flower's other identity has nothing to do with color. During Japan's Kamakura period (1185 to 1333), Emperor Go-Toba adopted a stylized chrysanthemum as his personal seal, and custom gradually turned that choice into the emblem of the entire Imperial House, according to Wikipedia's account of the Imperial Seal of Japan. No law ever made it official; it became the imperial crest the same way a habit becomes a tradition, by repetition rather than decree. Emperor Meiji formalized a related honor in 1876, the Supreme Order of the Chrysanthemum, which remains Japan's highest possible award for a private citizen."
+          "The flower's other identity has nothing to do with color. During Japan's Kamakura period (1185 to 1333), Emperor Go-Toba adopted a stylized chrysanthemum as his personal seal, and custom gradually turned that choice into the emblem of the entire Imperial House, according to Wikipedia's account of the Imperial Seal of Japan. No law ever made it official; it became the imperial crest the same way a habit becomes a tradition, by repetition rather than decree. Emperor Meiji formalized a related honor in 1876, the Supreme Order of the Chrysanthemum, which remains Japan's highest decoration."
         ],
         "image": {
           "src": "/images/november-birth-flower-chrysanthemum.jpg",
@@ -6012,14 +6013,14 @@ export const guides: Guide[] = [
     "title": "October Birth Flower: Marigold and Cosmos, Borrowed Names",
     "description": "October's birth flowers are marigold and cosmos, but the marigold's English name already belonged to a different, unrelated European flower first.",
     "published": "2026-08-17",
-    "updated": "2026-08-17",
+    "updated": "2026-10-12",
     "coreSummary": "October's birth flowers are marigold and cosmos, per The Old Farmer's Almanac. The English word marigold originally named a different, unrelated European plant, Calendula officinalis, tied to medieval offerings at Virgin Mary shrines; Spanish explorers in Mexico later applied the same name to the visually similar Tagetes, which eclipsed Calendula in everyday English use after reaching England in the late 1500s. Two of the marigold's own common names, French marigold and African marigold, are geographic misnomers for a plant native only to Mexico and Central America. Cosmos was named in 1791 by Spanish botanist Antonio José Cavanilles, from the Greek kosmos for order and ornament, describing a flower also native to Mexico.",
     "sections": [
       {
-        "heading": "Marigold and cosmos, and why October needed two",
+        "heading": "Marigold and cosmos, two names with separate histories",
         "body": [
-          "October's flowers, per The Old Farmer's Almanac, are marigold and cosmos. July, August, September, and November, the other months already covered on this site, each carry two flowers apiece rather than one, and the reason keeps repeating: unlike birthstones, which the American jewelry trade standardized in a single 1912 list, no single body ever settled birth flowers. Competing 19th-century floriography guides assigned different blooms to the same month, and the trade lists that survived kept more than one entry instead of picking a winner.",
-          "Neither flower's own backstory follows from that gap, though, and both marigold and cosmos turn out to carry a specific twist that a florist's caption tends to leave out. Start with the word \"marigold\" itself: it was, technically, already taken."
+          "The Old Farmer's Almanac pairs marigold with cosmos for October. Several neighboring months also carry two names. Nineteenth-century flower dictionaries provide background for the broader symbolism fashion, but the references examined do not establish that competing dictionaries caused these modern monthly pairings. The documented 1912 US gemstone convention is a different kind of record.",
+          "Neither flower's individual history follows simply from its place on a calendar, and both marigold and cosmos turn out to carry a specific twist that a florist's caption tends to leave out. Start with the word \"marigold\" itself: it was, technically, already taken."
         ]
       },
       {
@@ -6072,31 +6073,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is October's birth flower?",
-        "answer": "Marigold and cosmos, per The Old Farmer's Almanac. October is one of several months on this site's calendar with two flowers instead of one, a gap that traces back to competing 19th-century floriography guides that never agreed on a single list."
+        "answer": "Almanac.com assigns cosmos and marigold to October. The paired format appears in other months too, but the examined references do not trace this particular combination back to rival Victorian books."
       },
       {
         "question": "What does the marigold mean as a birth flower?",
-        "answer": "Stubbornness and determination in general, with its bright color read as warmth, passion, and creativity, per The Old Farmer's Almanac. It's also central to Día de los Muertos, decorating gravesites and home altars across Mexico."
+        "answer": "The almanac associates marigolds with determination alongside stubbornness, and their vivid coloring with warmth, passionate feeling and creativity. In Mexico, the flowers also decorate home altars and burial places for Día de los Muertos."
       },
       {
         "question": "Is \"marigold\" originally the name of a different flower?",
-        "answer": "Yes. The English word marigold, a contraction of \"Mary's gold,\" originally named Calendula officinalis, a European flower tied to medieval offerings at Virgin Mary shrines. Spanish explorers later applied the same name to the visually similar Tagetes they found in Mexico, and Tagetes eventually eclipsed Calendula in everyday use of the word after reaching England in the late 1500s."
+        "answer": "Yes. Mary’s gold originally referred to the European C. officinalis. Medieval worshippers offered its golden blooms at shrines to the Virgin. The similar-looking Mexican Tagetes later acquired that English label. Its arrival in England during the late sixteenth century helped it become the flower most English speakers now mean by marigold."
       },
       {
         "question": "Why are French marigold and African marigold not actually from France or Africa?",
-        "answer": "Both Tagetes patula (French marigold) and Tagetes erecta (African marigold) are native to Mexico and Central America, per Wikipedia. The African name is generally traced to the plant's path into European cultivation by way of North Africa, not to any wild population there; the French name reflects a similar accident of how the plant spread through Europe rather than where it grows."
+        "answer": "The labels concern cultivation rather than native geography. T. patula is called French; T. erecta is called African. Both originate in Mexico and neighboring Central-American regions. Cultivation routes via northern Africa are the usual explanation for the African label. France likewise supplied a cultivation association, not the plants’ original home."
       },
       {
         "question": "What is the connection between marigolds and Día de los Muertos?",
-        "answer": "Marigolds, called cempasúchil in Spanish, are a prominent fixture of the holiday, used to decorate gravesites and build home altars. Families commonly describe the flower's scent and color as a way of guiding the spirits of the dead back to the offerings left for them. The flower's ceremonial use in Mexico predates the modern holiday, appearing throughout chronicles of ancient Mexico under its Nahuatl name, cempoalxóchitl."
+        "answer": "Mexican families use cempasúchil to decorate graves and domestic altars. In the living holiday tradition, its smell and bright hue help souls return to the offerings. The plant’s older ceremonial roles appear in chronicles under the Nahuatl name cempoalxóchitl, though that record does not prove every modern belief is pre-Hispanic."
       },
       {
         "question": "What does the cosmos flower mean, and where does its name come from?",
-        "answer": "The Old Farmer's Almanac reads cosmos as order, balance, peace, and innocence, with a secondary association with luck. The name comes from the Greek kosmos, meaning order or ornament, chosen in 1791 by Spanish botanist Antonio José Cavanilles, likely for the flower's evenly spaced, symmetrical ray florets."
+        "answer": "Cosmos represents peaceful balance, order and an innocent character in the almanac’s reading, with good luck a further association. Cavanilles, a Spanish botanist, published the genus in 1791. Greek kosmos means orderly arrangement or ornament; the symmetry of the ray florets is the usual explanation for the choice."
       },
       {
         "question": "I was born in early October. Is my zodiac sign Libra or Scorpio?",
-        "answer": "Likely Libra, which runs from roughly September 23 to October 22 in Western tropical astrology. Scorpio picks up around October 23. Readers born close to that boundary can check this site's Scorpio dates page, since the exact day shifts depending on the year and reference used."
+        "answer": "A birth before the usual October 22–23 transition normally falls in tropical Libra, whose approximate opening is September 23. Near the change to Scorpio, the birth year and reference matter; this site’s Scorpio guide explains the moving boundary."
       }
     ],
     "sources": [
@@ -6275,13 +6276,13 @@ export const guides: Guide[] = [
     "title": "Anniversary Gifts by Year: Two Lists That Never Agreed",
     "description": "Two anniversary gift lists, a materials list and a jointly endorsed gemstone list, disagree on nearly every year from 1 through 24, then start matching at 25.",
     "published": "2026-08-17",
-    "updated": "2026-08-17",
-    "coreSummary": "Anniversary gifts run on two separate systems that were never built to reconcile: a materials list assembled piecemeal since the 1500s and filled in by a jewelers' trade group in 1937, and a gemstone list several jewelry associations jointly endorse but none of them solely owns. Checked side by side against each list's current source, the two disagree on nearly every year from 1 through 24, then start matching at 25 because the traditional list had already assigned precious metals and gems to its milestone years.",
+    "updated": "2026-10-12",
+    "coreSummary": "Anniversary gifts run on two separately documented systems with different assignments: a materials list assembled piecemeal since the 1500s and filled in by a jewelers' trade group in 1937, and a gemstone list several jewelry associations jointly endorse but none of them solely owns. Checked side by side against each list's current source, the two disagree on nearly every year from 1 through 24, then share several milestones from 25 onward, where the material chart already names precious metals or gems.",
     "sections": [
       {
         "heading": "Two lists, not one, and they don't answer the same question",
         "body": [
-          "Look up \"anniversary gifts by year\" on ten different sites and most present a single tidy chart, no footnote about where it came from, as if one committee somewhere assigned a lifetime of household objects to a lifetime of marriages. There are actually two separate charts in wide circulation, built for different purposes by different people, and they were never meant to reconcile. One is a list of materials: paper, cotton, leather, wood, tin, climbing eventually to silver, gold, and diamond. The other is a list of gemstones: garnet, sapphire, ruby, emerald, assigned to the same years but chosen for an entirely different reason. Nothing forces the two into agreement, and for most of the first two and a half decades of marriage, they don't agree at all.",
+          "Look up \"anniversary gifts by year\" on ten different sites and most present a single tidy chart, no footnote about where it came from, as if one committee somewhere assigned a lifetime of household objects to a lifetime of marriages. There are actually two separate charts in wide circulation, built for different purposes by different people, with different assignments and no shared author identified by the sources examined. One is a list of materials: paper, cotton, leather, wood, tin, climbing eventually to silver, gold, and diamond. The other is a list of gemstones: garnet, sapphire, ruby, emerald, assigned to the same years but chosen for an entirely different reason. Nothing forces the two into agreement, and for most of the first two and a half decades of marriage, they don't agree at all.",
           "A third, shorter list assigns a flower to each year instead. It only covers years up to the fiftieth and gets far less attention than the other two, sourced by florist and lifestyle publications rather than any jewelry trade group. It exists for the same underlying reason the other two do: nobody publishing these lists claims sole authority over them, and nothing stops a new version from appearing tomorrow."
         ]
       },
@@ -6296,7 +6297,7 @@ export const guides: Guide[] = [
         "heading": "1937: a jewelers' trade group fills in what was left blank",
         "body": [
           "Before 1937, only eight anniversaries carried any generally recognized material: the first, fifth, tenth, fifteenth, twentieth, twenty-fifth, fiftieth, and seventy-fifth. That year, the American National Retail Jewelers Association, the trade group that later merged into what is now Jewelers of America, published an expanded list assigning a material to every year from the first through the twentieth and then to every fifth year after that, according to the compiled history behind Wikipedia's sourced entry on the custom. Jewelers of America's current \"About\" page confirms the organization was founded in 1906, though its present materials don't revisit the 1937 expansion by name.",
-          "The motive wasn't sentimental. A trade association filling in a gift list, one purchasable item at a time, for an occasion that recurs every single year of a marriage, is by definition a commercial project. That doesn't make the resulting list fake or the customs built on it meaningless. It does mean the list was never handed down by a government body, a religious authority, or a single named founder, the same gap [this calendar's page on National Boyfriend Day](/national-boyfriend-day/) found behind a different kind of unofficial calendar entry."
+          "A retail trade association expanded the gift list, one purchasable item at a time, for an occasion that recurs every single year of a marriage. That is a commercial setting, although the sources examined do not document every participant’s motive. That doesn't make the resulting list fake or the customs built on it meaningless. It is a trade convention rather than a government holiday. That distinction between a convention and official recognition also matters on [this calendar's page on National Boyfriend Day](/national-boyfriend-day/), which discusses an unofficial observance with no verified founder; the gift list, by contrast, has a named trade-association expansion."
         ]
       },
       {
@@ -6317,13 +6318,13 @@ export const guides: Guide[] = [
         "heading": "Where the two lists suddenly agree",
         "body": [
           "The disagreement doesn't hold at every year. Checked side by side, Jewelers of America's gemstone chart and the traditional materials list actually match at the twenty-fifth (silver), thirtieth (pearl), fortieth (ruby), forty-fifth (sapphire), fiftieth (gold), and sixtieth (diamond) anniversaries. They diverge again at the thirty-fifth, where the traditional list calls for coral and the gemstone list calls for emerald, and at the fifty-fifth, where the traditional list calls for emerald and the gemstone list moves to alexandrite instead. Emerald itself doesn't disappear between the two lists; it simply moves from the fifty-fifth year on the traditional list to the thirty-fifth year on the gemstone list, arriving twenty years earlier.",
-          "The pattern isn't a coincidence so much as an artifact of how the two lists were built. The traditional list had already assigned precious metals and gemstones to most of its milestone years, silver at 25, gold at 50, diamond at 60, because those were genuinely the most valuable materials a 19th-century household could imagine giving. When a 20th-century jewelry trade built a gemstone list decades later, it had no reason to replace a milestone year that was already a gemstone. The two systems only visibly compete in the earlier years, where the traditional list was still assigning paper, wood, and tin and the newer list substituted a gem regardless of what came before it."
+          "The pattern is compatible with the traditional list’s earlier gemstone milestones, although the current jewelry guide does not document the designers’ reasoning. The traditional list had already assigned precious metals and gemstones to most of its milestone years, silver at 25, gold at 50, diamond at 60, while earlier annual entries used materials such as paper and wood. It is plausible that a later jewelry chart retained familiar milestone materials; that is an interpretation of the overlap, not a recorded design decision. The two systems only visibly compete in the earlier years, where the traditional list was still assigning paper, wood, and tin and the newer list substituted a gem regardless of what came before it."
         ]
       },
       {
         "heading": "The one recognition that's genuinely official, and it isn't a gift",
         "body": [
-          "None of the lists above carry any government backing. The recognition that does exist works completely differently, and starts on its own separate schedule. Buckingham Palace's Anniversaries Office, continuing what its own page describes as a tradition dating to 1917, sends a message from the monarch for diamond (60th), 65th, and 70th wedding anniversaries and every year after that, to citizens of the Commonwealth realms. Australia's Governor-General sends a message starting at the 50th anniversary and again at the 60th, 65th, 70th, and every subsequent year, per the Governor-General's current page. Canada's Governor-General sends one starting at 50 years married, on a five-year cadence through the 65th, then every year starting at the 70th, per the Governor-General's site. In the United States, the White House's own current greeting request form, checked directly for this page, offers three wedding-anniversary categories, 25th, 50th, and 51+, with the exact number of years married entered separately, and that 25th-anniversary option is earlier than the 50th-anniversary threshold commonly repeated online. That's a genuine government program, closer in kind to the actual congressional resolutions [this calendar's page on Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traced through several specific years than to anything on the gift lists above.",
+          "None of the lists above carry any government backing. The recognition that does exist works completely differently, and starts on its own separate schedule. Buckingham Palace's Anniversaries Office, continuing what its own page describes as a tradition dating to 1917, sends a message from the monarch for diamond (60th), 65th, and 70th wedding anniversaries and every year after that, on application to current citizens of Commonwealth realms or UK Overseas Territories. Australia's Governor-General sends a message starting at the 50th anniversary and again at the 60th, 65th, 70th, and every subsequent year, per the Governor-General's current page. Canada's Governor-General sends one starting at 50 years married, on a five-year cadence through the 65th, then every year starting at the 70th, per the Governor-General's site. In the United States, the White House's own current greeting request form, checked directly for this page, offers three wedding-anniversary categories, 25th, 50th, and 51+, with the exact number of years married entered separately, and that 25th-anniversary option is earlier than the 50th-anniversary threshold commonly repeated online. That's a genuine government program, closer in kind to the actual congressional resolutions [this calendar's page on Breast Cancer Awareness Month](/breast-cancer-awareness-month/) traced through several specific years than to anything on the gift lists above.",
           "That timing gap is still real even counting the earliest of these. A couple's first anniversary already has an assigned material (paper), an assigned gemstone (gold jewelry), and, depending which chart is consulted, an assigned flower (the carnation). The earliest formal government recognition found for this page, the White House's 25th-anniversary greeting category, doesn't arrive for another 24 years. The UK, Australian, and Canadian programs run decades later still. The lists that assign something to year one were built by an almanac, a trade association, and a handful of florist and lifestyle publications. The recognition that eventually arrives comes from a completely different, much slower-moving set of institutions."
         ]
       }
@@ -6335,7 +6336,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who decided the anniversary gift list?",
-        "answer": "No government body or single founder did. The materials list traces to a German wreath custom documented since the 1500s, was picked up piecemeal by English speakers over the following century, and was filled in for most years by an industry group in that same decade, the direct predecessor of today's leading jewelers' trade association. That gem-based system came later from the jewelry trade and carries a joint endorsement spanning that same association plus a handful of unnamed peers, not one named author."
+        "answer": "The custom has several stages rather than one founder. German communities recorded silver and gold wreath celebrations during the sixteenth century. English-language gift lists spread in the nineteenth; retail jewelers expanded the material choices in 1937. Today’s jewelry chart carries endorsement from JA and other industry bodies, without a sole author identified on that page."
       },
       {
         "question": "Is the UK anniversary gift list the same as the US list?",
@@ -6343,11 +6344,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "What's the difference between the traditional and modern anniversary gift?",
-        "answer": "The older chart assigns a material, paper, cotton, wood, tin, and so on, and dates to the 19th century and earlier. The newer one assigns a gemstone instead and was popularized decades later by the jewelry trade. Held next to what the modern gemstone guide currently shows, agreement between the two starts at the 25th anniversary; anywhere earlier than that, years 1 through 24, each list gives a different answer."
+        "answer": "One system suggests materials such as wood or paper; the other recommends jewelry, usually a particular gem. On the versions compared here, early annual choices differ through year 24. Silver at year 25 is their first shared milestone, followed by several later matches and some continuing disagreements."
       },
       {
         "question": "When do you get a card from the King or Queen for a wedding anniversary?",
-        "answer": "Buckingham Palace runs its own royal-message tradition starting at the diamond (60th) wedding anniversary, picks up again at 65 and at 70, and then continues annually beyond that, for married couples across Commonwealth realm nations. The office behind it traces the practice back to 1917 on its own site."
+        "answer": "Buckingham Palace runs its own royal-message tradition starting at the diamond (60th) wedding anniversary, picks up again at 65 and at 70, and then continues annually beyond that. Recipients must apply and hold citizenship in a Commonwealth realm or a British Overseas Territory. The palace dates this message tradition to 1917."
       },
       {
         "question": "Does the US president send a card for wedding anniversaries?",
@@ -6355,11 +6356,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Are the milestone colors, like silver and gold, from the traditional list or the gemstone list?",
-        "answer": "Both, which is why they don't conflict. Silver at 25 years and gold at 50 were locked into the older materials chart back in the 19th century, well before any gemstone chart existed. Decades later, when the gem-based version came together, it left those two milestones as the same metals instead of swapping in a stone, which is why the two lists still agree at 25 and 50 even though they disagree almost everywhere else."
+        "answer": "Both charts recommend those metals: silver for a quarter-century and gold for half a century. These choices appeared in the older marriage custom before the jewelry chart. Their survival in the newer chart is consistent with retaining familiar milestones. The JA page gives no explanation for that choice. Early annual assignments still differ between the two systems."
       },
       {
         "question": "What is 100 years of marriage called?",
-        "answer": "There's no consensus answer the way there is for the 25th (silver) or 50th (gold). Neither the older household-object chart nor the jewelry trade's own gem-based chart, the two systems compared above through year 60 and beyond, defines a 100th-year gift or name. Some retailers market it as a \"water anniversary\" or suggest platinum, but those labels don't trace to the sourced US/UK comparison used for the other milestone years, and no chart currently published by any jeweler association reaches that far."
+        "answer": "There's no consensus answer the way there is for the 25th (silver) or 50th (gold). Neither the older household-object chart nor the jewelry trade's own gem-based chart, the two systems compared above through year 60 and beyond, defines a 100th-year gift or name. Some retailers market it as a \"water anniversary\" or suggest platinum, but those labels don't trace to the sourced US/UK comparison used for the other milestone years, and the JA jewelry chart examined here ends at year 60."
       }
     ],
     "sources": [
@@ -7787,28 +7788,28 @@ export const guides: Guide[] = [
     "title": "Birth Flowers by Month: The Full Chart, and Where It Runs Short",
     "description": "All twelve birth flowers in one chart, checked against The Old Farmer's Almanac and Farmers' Almanac, plus two months where the Almanac's list runs short.",
     "published": "2026-08-22",
-    "updated": "2026-08-22",
-    "coreSummary": "The Old Farmer's Almanac's current chart names one or two flowers for every month except two, where its own page is the narrow one: March, where it names the daffodil alone and explains that \"jonquil\" is just another name for the same flower, while Farmers' Almanac's chart adds jonquil as a second flower and Farmers' Almanac's dedicated March page adds a third, cherry blossom; and November, where the Almanac names chrysanthemum alone while Farmers' Almanac's chart pairs it with peony. A third source, Wikipedia's own September article, cites a 2013 gem-resource site for a flower neither almanac carries at all: forget-me-not.",
+    "updated": "2026-10-12",
+    "coreSummary": "The Old Farmer's Almanac's current chart names one or two flowers for every month except two, where its own page is the narrow one: March, where it names the daffodil alone and uses daffodil as a broad category that includes jonquil, while Farmers' Almanac's chart adds jonquil as a second flower and Farmers' Almanac's dedicated March page adds a third, cherry blossom; and November, where the Almanac names chrysanthemum alone while Farmers' Almanac's chart pairs it with peony. A third source, Wikipedia's own September article, cites a 2013 gem-resource site for a flower neither almanac carries at all: forget-me-not.",
     "sections": [
       {
         "heading": "The current chart, checked directly, not assembled from a dozen retail blogs",
         "body": [
-          "This calendar has now published a separate page for all twelve months' birth flowers, one at a time, over the course of several weeks. Laid out together instead, checked against The Old Farmer's Almanac's current chart the week this page went up, the full run reads: January is carnation and snowdrop. February is violet and primrose. March is daffodil, styled on the Almanac's page as \"Daffodil & Jonquil\" even though the text calls jonquil just another name for the same flower rather than a second bloom. April is daisy and sweet pea. May is lily of the valley and hawthorn. June is rose and honeysuckle. July is larkspur and water lily. August is gladiolus and poppy. September is aster and morning glory. October is marigold and cosmos. November is chrysanthemum alone, with no second flower on the page. December is narcissus, most often the paperwhite, and holly.",
-          "Ten of the twelve months carry a clear pair under that current framing, and two carry a single flower: March, where the second name turns out to describe the same plant, and November, where nothing on the page names a second flower at all. [This calendar's page on birthstones by month](/birthstones-by-month/) found a parallel shape in the gem trade's chart, where two different months turned out to be the ones a trade group's current list ran short on."
+          "This calendar has now published a separate page for all twelve months' birth flowers, one at a time, over the course of several weeks. Laid out together instead, checked against The Old Farmer's Almanac's current chart the week this page went up, the full run reads: January is carnation and snowdrop. February is violet and primrose. March is daffodil, styled on the Almanac's page as \"Daffodil & Jonquil\" with jonquil nested within the broader daffodil category rather than standing outside it. April is daisy and sweet pea. May is lily of the valley and hawthorn. June is rose and honeysuckle. July is larkspur and water lily. August is gladiolus and poppy. September is aster and morning glory. October is marigold and cosmos. November is chrysanthemum alone, with no second flower on the page. December is narcissus, most often the paperwhite, and holly.",
+          "Ten months have two separately named flower categories. March combines the broad daffodil category with jonquil, a particular daffodil species, while November names chrysanthemum alone. Counting names is not the same as counting non-overlapping botanical groups. [This calendar's page on birthstones by month](/birthstones-by-month/) found a parallel shape in the gem trade's chart, where two different months turned out to be the ones a trade group's current list ran short on."
         ]
       },
       {
         "heading": "No 1912 meeting behind this one",
         "body": [
-          "Birthstones trace to a specific date: a 1912 Kansas City meeting where a US retail jewelers' trade group adopted a standard chart, later revised on the record three more times. Birth flowers have no equivalent founding meeting. Wikipedia's article on the broader tradition, floriography, traces the modern \"language of flowers\" fashion to Ottoman Constantinople's 18th-century tulip culture, reaching Britain through the poet and traveler Mary Wortley Montagu after her stay there in the 1710s. The first published dictionary attaching fixed meanings to individual flowers, per that same article, was Joseph Hammer-Purgstall's Dictionnaire du langage des fleurs in 1809; the first true floriography dictionary followed in 1819, written by Louise Cortambert under the pen name Madame Charlotte de la Tour. The English writer Robert Tyas added his own version in 1836.",
-          "None of those three books is a birth-flower chart specifically, and none of them is the document any current almanac cites as its chart's origin. The modern month-by-month birth-flower list appears to be a later distillation of that general Victorian flower-meaning fashion, assembled by almanacs and florists rather than adopted at any single meeting a source names. That absence of a founding date is itself the difference from birthstones worth stating plainly; papering over it with a vague \"since Victorian times\" is what many calendar pages do instead."
+          "Birthstones trace to a specific date: a 1912 Kansas City meeting where a US retail jewelers' trade group adopted a standard chart, later revised on the record three more times. The flower references examined identify no equivalent founding meeting. Wikipedia's article on the broader tradition, floriography, traces the modern \"language of flowers\" fashion to Ottoman Constantinople's 18th-century tulip culture, reaching Britain through the poet and traveler Mary Wortley Montagu after her stay there in the 1710s. The first published dictionary attaching fixed meanings to individual flowers, per that same article, was Joseph Hammer-Purgstall's Dictionnaire du langage des fleurs in 1809; the first true floriography dictionary followed in 1819, written by Louise Cortambert under the pen name Madame Charlotte de la Tour. The English writer Robert Tyas added his own version in 1836.",
+          "None of those three books is a birth-flower chart specifically, and none of them is the document any current almanac cites as its chart's origin. Those books document a broad flower-symbolism fashion; the references examined do not establish a direct chain from their entries to every modern monthly pairing. Modern almanacs and florists publish charts, but these sources identify no single adoption event. That absence of a founding date is itself the difference from birthstones worth stating plainly; papering over it with a vague \"since Victorian times\" is what many calendar pages do instead."
         ]
       },
       {
         "heading": "March and November break the pattern",
         "body": [
           "Checking The Old Farmer's Almanac's current page against Farmers' Almanac's current page, flower by flower, turns up two months where the two disagree, and on both of them the Almanac carries fewer flowers than its counterpart.",
-          "March is the more tangled case. The Old Farmer's Almanac heads the month \"Daffodil & Jonquil,\" but its body text says the March birth flower \"is the daffodil, referred to as the jonquil (which is simply a type of daffodil)\": one flower under two names, not two flowers. Farmers' Almanac's current chart lists March as \"Daffodil and Jonquil\" without that caveat, treating jonquil as a second, distinct bloom (it is in fact a specific species, Narcissus jonquilla, not a synonym for daffodil in general). Farmers' Almanac's dedicated March lore page goes a step further still, naming one other flower: cherry blossom, which its text says \"is sometimes considered the March birth month flower,\" particularly in Japanese culture. Farmers' Almanac's chart page and its lore page don't agree with each other on whether March has two flowers or three.",
+          "March is the more tangled case. The Old Farmer's Almanac heads the month \"Daffodil & Jonquil,\" but its body text says the March birth flower \"is the daffodil, referred to as the jonquil (which is simply a type of daffodil)\": a broad flower category and a type within it, not two unrelated flowers. Farmers' Almanac's current chart lists March as \"Daffodil and Jonquil\" without that caveat, giving jonquil a separate entry (Narcissus jonquilla is a particular species within the broader daffodil category, rather than a synonym for every daffodil). Farmers' Almanac's dedicated March lore page goes a step further still, naming one other flower: cherry blossom, which its text says \"is sometimes considered the March birth month flower,\" particularly in Japanese culture. Farmers' Almanac's chart page and its lore page don't agree with each other on whether March has two flowers or three.",
           "November is the cleaner case. The Old Farmer's Almanac's current chart, on both its roundup page and its dedicated November page, names only the chrysanthemum; neither page mentions a second flower anywhere. Farmers' Almanac's current chart pairs the same chrysanthemum with a second flower, peony. A shopper checking one Almanac page for November's birth flower gets one answer; checking the other gets two."
         ]
       },
@@ -7823,7 +7824,7 @@ export const guides: Guide[] = [
         "heading": "Why one flower can have two names and two histories",
         "body": [
           "A recurring shape across this calendar's twelve individual birth-flower pages is a plant carrying two unconnected names, one botanical and one common, each with its own separate origin. [Rose and honeysuckle, June's pair](/june-birth-flower/), split that way: honeysuckle's genus name Lonicera honors a 16th-century German botanist who had nothing to do with the plant, while the English word \"honeysuckle\" comes from an unrelated Old English phrase that originally described clover. [Larkspur, one of July's two flowers](/july-birth-flower/), does it from the opposite direction: its scientific name Delphinium describes the shape of its nectary, not the lark's spur its English name refers to.",
-          "A second recurring shape is a flower whose species count keeps moving. [March's daffodil](/march-birth-flower/) has been counted anywhere from 6 species by Linnaeus in 1753 to 87 by one modern registry, depending on how narrowly \"species\" is drawn. [November's chrysanthemum](/november-birth-flower/) carries a split identity of its own: Japan's Imperial Seal and highest civilian honor on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other, the same bloom read as opposite things by two different cultures rather than by two different trade groups. No single body has ever had the standing to settle any of this the way a court can settle a legal question. Each source, checked on its own current page, is accurately reporting what it currently says. The chart above is what those pages currently say; the two months flagged are where they currently don't agree, and this page will note it if a future revision closes either gap."
+          "A second recurring shape is a flower whose species count keeps moving. [March's daffodil](/march-birth-flower/) has been counted anywhere from 6 species by Linnaeus in 1753 to 87 by one modern registry, depending on how narrowly \"species\" is drawn. [November's chrysanthemum](/november-birth-flower/) carries a split identity of its own: Japan's Imperial Seal and highest decoration on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other, the same bloom read as opposite things by two different cultures rather than by two different trade groups. The sources compared here identify no shared authority that settles every flower assignment. Each source, checked on its own current page, is accurately reporting what it currently says. The chart above is what those pages currently say; the two months flagged are where they currently don't agree, and this page will note it if a future revision closes either gap."
         ]
       }
     ],
@@ -7834,7 +7835,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is jonquil a second birth flower for March, or another name for daffodil?",
-        "answer": "It depends which page is checked: the Almanac's text treats it as a single plant that goes by two names, not a separate bloom. Farmers' Almanac, on its current chart, lists jonquil alongside daffodil as two separate flowers; jonquil is actually its own separate species rather than a synonym daffodil goes by, so the two words point at two different plants, not one."
+        "answer": "Almanac.com uses daffodil as an umbrella category, with jonquil a kind within it. The other almanac lists the two names separately. N. jonquilla is a daffodil species, so the general label and the species label cover overlapping plants; chart layout alone cannot make them unrelated."
       },
       {
         "question": "Does November have one birth flower or two?",
@@ -7850,7 +7851,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why don't birth-flower charts trace to one official source the way birthstones do?",
-        "answer": "Birthstones have a documented origin point, a 1912 US trade convention. Birth flowers never had a comparable founding event; they descend from the broader Victorian flower-symbolism trend, whose earliest known flower-meaning dictionaries date to 1809 and 1819, and today's month-by-month chart looks like something the flower-and-catalog trade pieced together on its own over time, not a single formally adopted standard."
+        "answer": "The jewelry chart has a recorded US adoption in 1912. The examined flower references name no equivalent event. Books about flower meanings appeared in 1809 and 1819, but their existence does not document the origin of every monthly pairing or show who assembled the modern calendar."
       }
     ],
     "sources": [
@@ -8457,16 +8458,16 @@ export const guides: Guide[] = [
     "slug": "gemini-birthstone",
     "category": "Birthstones",
     "title": "Gemini Birthstone: Pearl and Alexandrite, Not 1913's Agate",
-    "description": "Pearl and alexandrite are sold as Gemini's birthstones, but that's June's list. The zodiac table those claims trace to actually names agate for Gemini.",
+    "description": "Pearl and alexandrite are sold as Gemini's birthstones, but that's June's list. A documented 1913 zodiac table instead assigns agate to Gemini.",
     "published": "2026-08-24",
-    "updated": "2026-08-24",
-    "coreSummary": "Pearl, alexandrite, and moonstone are June's three official birthstones under the modern Jewelers of America chart, and retailers market the first two as \"Gemini's birthstones\" simply because Gemini's date range falls mostly inside June. The historical zodiac-stone table traced to gemologist George Kunz's 1913 research, reproduced on Wikipedia, assigns Gemini a different stone entirely: agate.",
+    "updated": "2026-10-12",
+    "coreSummary": "Pearl, alexandrite, and moonstone are June's three official birthstones under the modern Jewelers of America chart, and retailers market the first two as \"Gemini's birthstones\" in a date range that overlaps much of June. The historical zodiac-stone table traced to gemologist George Kunz's 1913 research, reproduced on Wikipedia, assigns Gemini a different stone entirely: agate.",
     "sections": [
       {
         "heading": "June's three birthstones, relabeled for Gemini",
         "body": [
           "Jewelers of America's current chart lists three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own breakdown of that chart](/birthstones-by-month/), June ties only with December for the most stones on Jewelers of America's list; most other months carry just one or two. Pearl is the original entry, dating to the first standardized US list adopted at the 1912 Kansas City meeting. Alexandrite was added in 1952, in a revision of that original list that Wikipedia credits to the Jewelry Industry Council of America (sources disagree on whether it was that group or a Jewelers of America predecessor). [This site's November birthstone page](/november-birthstone/) tracks a similar gap on a different month, where citrine joined topaz forty years after that 1912 original, in the same 1952 batch that brought in alexandrite.",
-          "Gemini's date range runs May 21 to June 20, so most of the sign sits inside June rather than May. Jewelry retailers and astrology-adjacent sites take that overlap and simply relabel June's month stones \"Gemini's birthstones,\" and pearl and alexandrite show up on page after page under that heading. That's a marketing shortcut built on the calendar, not a separate zodiac-specific stone tradition. The stone that actual zodiac-stone research assigns to Gemini, covered further down this page, is a different mineral altogether. (June babies also have [a birth flower of their own](/june-birth-flower/), tracked separately from birthstones.)"
+          "Gemini's date range runs May 21 to June 20, so most of the sign sits inside June rather than May. Jewelry retailers and astrology-adjacent sites market those same month stones as \"Gemini's birthstones,\" and pearl and alexandrite show up on page after page under that heading. The calendar overlap may explain the marketing, but the sources examined do not establish its origin or exclude every other zodiac tradition. The stone that actual zodiac-stone research assigns to Gemini, covered further down this page, is a different mineral altogether. (June babies also have [a birth flower of their own](/june-birth-flower/), tracked separately from birthstones.)"
         ]
       },
       {
@@ -8499,9 +8500,9 @@ export const guides: Guide[] = [
       {
         "heading": "The actual 1913 zodiac table says agate, not any of June's three stones",
         "body": [
-          "None of the three stones above come from a dedicated zodiac-stone tradition; they're June's month stones, borrowed instead. The documented zodiac-stone table traces to gemologist George Frederick Kunz's 1913 research, which pairs each tropical-zodiac sign with a single stone and a date range; Wikipedia's Birthstone article reproduces that table directly. For Gemini, spanning May 21 to June 20, Kunz's table names a single stone: agate, matching none of June's three month stones.",
+          "The three stones above belong to June’s modern monthly list; none matches Gemini’s entry in the specific historical zodiac table examined here. The documented zodiac-stone table traces to gemologist George Frederick Kunz's 1913 research, which pairs each tropical-zodiac sign with a single stone and a date range; Wikipedia's Birthstone article reproduces that table directly. For Gemini, spanning May 21 to June 20, Kunz's table names a single stone: agate, matching none of June's three month stones.",
           "That mismatch follows a pattern this site has already documented twice. [January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat. Gemini's entry follows the same shape: a century-old, documented primary source and the version that circulates on retail pages simply don't match, and most pages selling \"Gemini birthstone\" jewelry never mention the table exists.",
-          "Agate itself is a banded variety of chalcedony, a microcrystalline form of quartz. It forms when silica-rich groundwater seeps into gas cavities left behind in cooling volcanic rock, crystallizing in layers that read as bands once the stone is cut and polished. Structurally and historically, it has nothing in common with pearl, alexandrite, or moonstone. It belongs to a separate tradition that most modern \"Gemini birthstone\" content leaves out entirely."
+          "Agate itself is a banded variety of chalcedony, a microcrystalline form of quartz. It forms when silica-rich groundwater seeps into gas cavities left behind in cooling volcanic rock, crystallizing in layers that read as bands once the stone is cut and polished. It differs mineralogically from pearl, alexandrite and moonstone, and has a separate assignment in this historical table. It belongs to a separate tradition that most modern \"Gemini birthstone\" content leaves out entirely."
         ]
       }
     ],
@@ -8512,7 +8513,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why do jewelry sites call pearl and alexandrite \"Gemini's birthstones\"?",
-        "answer": "The sign begins on May 21 and ends June 20, which puts the bulk of it in June, and retailers just rebrand the June birthstone list; nothing in the zodiac-stone record backs it up."
+        "answer": "The usual tropical range begins May 21 and lasts through June 20, leaving the larger share in June. Gems assigned to that month are also sold for Gemini. The shared calendar dates suggest an explanation, rather than evidence identifying the practice’s originator. The particular zodiac table compiled by Kunz instead gives the sign agate."
       },
       {
         "question": "What does the actual zodiac birthstone table say Gemini's stone is?",
@@ -8575,7 +8576,7 @@ export const guides: Guide[] = [
     "title": "June Birthstone: Pearl, Moonstone, and a 1952 Latecomer",
     "description": "June ties December for the most official birthstones on Jewelers of America's list: pearl and moonstone from 1912, alexandrite added forty years later.",
     "published": "2026-09-02",
-    "updated": "2026-09-02",
+    "updated": "2026-10-12",
     "coreSummary": "June is one of only two months, along with December, assigned three official birthstones on Jewelers of America's modern list: pearl and moonstone from the original 1912 standardization, and alexandrite added in a 1952 revision. The three have almost nothing in common structurally: pearl is the only birthstone grown inside a living creature, moonstone's glow comes from layered feldspar, and alexandrite is prized for changing color under different light.",
     "sections": [
       {
@@ -8630,7 +8631,7 @@ export const guides: Guide[] = [
         "heading": "Choosing among June's three stones",
         "body": [
           "Hardness is the most practical difference between the three, and it matters more for June than for most other months because the gap here is unusually wide. Pearl sits at 2.5 to 4.5 on the Mohs scale, soft enough that it can be scratched by ordinary dust or a knock against a ring on the same hand; it suits a strand, pendant, or earrings kept away from daily abrasion far better than a ring worn every day. Moonstone runs 6 to 6.5, tougher than pearl but still soft enough to chip along its internal cleavage plane if struck hard. Alexandrite, as a variety of chrysoberyl, comes in at 8.5, hard enough for a ring meant to be worn without much thought about protecting it.",
-          "Price follows a similar spread, for different reasons. Fine natural alexandrite is scarce enough to command prices well above the other two; moonstone is comparatively abundant and inexpensive even in good quality; pearl's price depends heavily on type; a cultured akoya strand, a Tahitian black pearl, or a South Sea pearl can differ by an order of magnitude even though all three qualify as the same birthstone. None of that pricing logic has anything to do with the zodiac-stone claims that circulate separately online: [Gemini's popularly marketed birthstones are pearl and alexandrite](/gemini-birthstone/), borrowed from June's calendar overlap rather than from any dedicated zodiac-stone tradition, and the documented historical zodiac table actually assigns Gemini a different stone, agate, entirely. Pearl also shows up outside the birthstone calendar altogether: on the gemstone anniversary chart covered in [DayAlmanac's anniversary-gift breakdown](/anniversary-gifts-by-year/), pearl marks the third and thirtieth wedding anniversaries, and alexandrite marks the fifty-fifth, independent of anyone's birth month."
+          "Price follows a similar spread, for different reasons. Fine natural alexandrite is scarce enough to command prices well above the other two; moonstone is comparatively abundant and inexpensive even in good quality; pearl's price depends heavily on type; a cultured akoya strand, a Tahitian black pearl, or a South Sea pearl can differ by an order of magnitude even though all three qualify as the same birthstone. None of that pricing logic has anything to do with the zodiac-stone claims that circulate separately online: [Gemini's popularly marketed birthstones are pearl and alexandrite](/gemini-birthstone/), matching stones on June’s monthly chart but not the particular historical zodiac table discussed here, and the documented historical zodiac table actually assigns Gemini a different stone, agate, entirely. Pearl also shows up outside the birthstone calendar altogether: on the gemstone anniversary chart covered in [DayAlmanac's anniversary-gift breakdown](/anniversary-gifts-by-year/), pearl marks the third and thirtieth wedding anniversaries, and alexandrite marks the fifty-fifth, independent of anyone's birth month."
         ]
       }
     ],
@@ -8825,30 +8826,30 @@ export const guides: Guide[] = [
   {
     "slug": "11th-anniversary-gift",
     "category": "Anniversaries",
-    "title": "11th Anniversary Gift: Steel in the US, Nothing in the UK",
+    "title": "11th Anniversary Gift: Steel in the US, Blank in a UK Reference",
     "description": "The US traditional list gives the 11th anniversary steel, while the separate UK reference list, cited on the same page, leaves the 11th year blank entirely.",
     "published": "2026-08-24",
-    "updated": "2026-08-24",
-    "coreSummary": "America's traditional anniversary list assigns steel to year eleven, added when a jewelers' trade group filled out the chart through the twentieth year back in 1937. Britain's older gift list, compiled independently, simply has nothing listed for that year. A newer gemstone chart, now kept up by an industry trade group, names turquoise for year eleven, a stone that needs far more careful handling than a steel gift ever would.",
+    "updated": "2026-10-12",
+    "coreSummary": "America's traditional anniversary list assigns steel to year eleven, added when a jewelers' trade group filled out the chart through the twentieth year back in 1937. The cited 1978–79 British reference list has no entry for that year; that does not describe every present-day UK gift guide. A newer gemstone chart, now kept up by an industry trade group, names turquoise for year eleven, a stone that needs far more careful handling than a steel gift ever would.",
     "sections": [
       {
         "heading": "One list has a gift here. The other has a blank cell.",
         "body": [
           "Search \"11th anniversary gift\" and nearly every result states the same thing without qualification: steel. That's accurate for the US traditional materials list, [tracked in full on this calendar's comparison of the two lists](/anniversary-gifts-by-year/), but it isn't the only list in circulation, and it isn't even universal within English-speaking countries. Wikipedia's sourced comparison table sets a US column against a UK column, the US drawn from a Chicago Public Library reference compilation and the UK from the 1978-79 edition of Pears Cyclopaedia, and at the 11th row the US cell reads \"Steel\" while the UK cell is simply empty.",
-          "That gap isn't a formatting accident carried over from an old scan. The UK list does assign something to most of the surrounding years, including the 10th (tin) and the 12th (silk and fine linen); it skips straight over the 11th and picks back up after it. A reader relying on a UK source for gift ideas at year 11 would find nothing there to work from at all, which is a stranger position to be in than simply preferring a different material."
+          "That gap isn't a formatting accident carried over from an old scan. The UK list does assign something to most of the surrounding years, including the 10th (tin) and the 12th (silk and fine linen); it skips straight over the 11th and picks back up after it. A reader relying on that particular British reference for gift ideas at year 11 would find no material assigned there, which is a stranger position to be in than simply preferring a different material."
         ]
       },
       {
         "heading": "Steel arrived in 1937, as part of a trade group's patch job",
         "body": [
           "Before the 20th century, only a handful of anniversaries carried any generally recognized material at all: paper for the first, wood for the fifth, tin for the tenth, and a few others scattered by the early 1900s. The 11th year wasn't among them. In 1937, the American National Retail Jewelers Association, the group that later became Jewelers of America, published an expanded list covering every year from the first through the twentieth, filling in gaps including the 11th, according to the sourcing behind Wikipedia's account of the custom's history.",
-          "That timing means steel's status as the \"traditional\" 11th-year material is really a 1937 trade-group addition dressed in older language, the same pattern [this calendar's page on the full anniversary-gift comparison](/anniversary-gifts-by-year/) already traces across the rest of the list. It's also strictly a US convention: the UK list, compiled independently and never merged with the American one, simply never picked up an 11th-year entry when its edition was compiled."
+          "That timing means steel's status as the \"traditional\" 11th-year material is really a 1937 trade-group addition dressed in older language, the same pattern [this calendar's page on the full anniversary-gift comparison](/anniversary-gifts-by-year/) already traces across the rest of the list. The cited comparison is edition-specific: its British column leaves year eleven empty, without establishing what every later British guide recommends."
         ]
       },
       {
         "heading": "The gemstone list disagrees too, and names turquoise",
         "body": [
-          "A second system, built later and by different organizations, assigns a gemstone rather than a household material to each anniversary year. Checked directly against Jewelers of America's current buying guide for this page, that chart names turquoise for the 11th anniversary, a completely different answer from either the US or UK materials list. At year 11 specifically, one system names a metal-based household object and the other a soft blue-green mineral, with no overlap between the two.",
+          "A second system, published separately and endorsed by JA alongside other jewelry organizations, assigns a gemstone rather than a household material to each anniversary year. Checked directly against Jewelers of America's current buying guide for this page, that chart names turquoise for the 11th anniversary, a completely different answer from either the US or UK materials list. At year 11 specifically, one system names a metal-based household object and the other a soft blue-green mineral, with no overlap between the two.",
           "Turquoise itself carries a long, separate history as a birthstone rather than an anniversary gift, running from ancient Egyptian tomb jewelry through Persian palace decoration to the silver-and-turquoise style associated with Navajo artisans since the 1880s. [This calendar's page on December's birthstones](/december-birthstone/) covers that history in full, since turquoise sits on that month's official list as well as on the 11th-anniversary gemstone chart."
         ],
         "image": {
@@ -8880,11 +8881,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Does the UK have an 11th anniversary gift?",
-        "answer": "Not on its traditional list. The 1978-79 Pears Cyclopaedia leaves a blank UK cell at year 11 — a genuine gap rather than a scanning error, since it fills in the birthdays on either side, assigning tin to year 10 and silk to year 12."
+        "answer": "The British reference used here has no entry for eleven years married. That 1978–79 Pears edition does supply tin for ten and fine linen or silk for twelve. Its blank cell cannot establish that every current British gift guide omits steel."
       },
       {
         "question": "What is the 11th anniversary gemstone?",
-        "answer": "Turquoise. A separate gemstone-by-year chart, kept by a different trade group and checked directly for this page, names a gem where the other charts name an everyday material, and that pick doesn't match either materials list for year 11."
+        "answer": "JA’s current anniversary guide assigns turquoise to year eleven. It publishes a jewelry roster endorsed alongside other organizations, distinct from the older material chart even though both belong to the jewelry trade."
       },
       {
         "question": "Is fashion jewelry really the modern 11th anniversary gift?",
@@ -8896,7 +8897,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why don't the traditional and gemstone lists agree on a gift for year 11?",
-        "answer": "Because the two lists were put together decades apart by separate groups with different goals — one a household-materials tradition dating to the 1930s, the other a jewelry-industry gemstone chart. [The year-by-year breakdown on this calendar](/anniversary-gifts-by-year/) finds the same split across nearly every year from 1 through 24: the two only start lining up consistently at the 25th anniversary."
+        "answer": "These are separate material and jewelry conventions, rather than interchangeable versions of one chart. The [year-by-year comparison](/anniversary-gifts-by-year/) records differing early choices through year 24, then several matching milestones from 25 onward. The current jewelry guide does not identify an original publication date that would establish the precise interval between the two systems."
       }
     ],
     "sources": [

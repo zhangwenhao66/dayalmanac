@@ -48,3 +48,10 @@ Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011
 - All eight articles: prose gate exit0, bridge --verify exit0, separate npm build exit0. Final records supersede intermediate draft failures. Full English humanizer then avoid-ai-writing sources were read and applied; hashes/draft/final spans retained.
 - Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b5-checks.json; day-b5-semantic.json; day-b5-official-evidence.json; notes/day-b5/. Independent review by root; writer did not push.
 - Rebased the six b1–b4 commits onto latest committed main 6cd070c without touching original checkout; old/new SHA mapping is day-chain-rebased-manifest.json. Retained all existing audit/Bing logs.
+
+
+## 2026-10-12 Day B6
+
+8 sources: october-birth-flower, birth-flowers-by-month, june-birthstone, gemini-birthstone, anniversary-gifts-by-year, 11th-anniversary-gift; narrow followups birthstones-by-month and november-birth-flower. Source and all FAQ read, eleven unique candidate targets and FAQ read; final thirteen candidates with exact current target quotations. FAQ information retained; Victorian-chart cause and chart-designer motives scoped to evidence; Royal application/territory eligibility checked; Kunz 1913 original 1912 primary/alternate chart verifies March and October historical corrections. Humanizer → avoid-ai-writing unique kit hashes and drafts in external receipt. Eight per-article prose/bridge--verify/build sets all exit0, including changed-article reruns. Original checkout untouched, no push.
+
+Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b6-semantic.json; /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b6-official-evidence.json; /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b6-checks.json; /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/notes/day-b6.

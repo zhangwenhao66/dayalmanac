@@ -715,7 +715,7 @@ export const guides: Guide[] = [
     "title": "National Coffee Day: September 29 in the United States",
     "description": "National Coffee Day falls on September 29 in the US every year. Its origin is undocumented. International Coffee Day is a separate day, October 1.",
     "published": "2026-08-02",
-    "updated": "2026-08-03",
+    "updated": "2026-10-11",
     "image": "/images/national-coffee-day.jpg",
     "imageAlt": "A black cup of coffee on a saucer",
     "imageCredit": "Photo by [Ross Parmly](https://unsplash.com/@rparmly) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_coffee_cup_(Unsplash).jpg), CC0",

@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Timeline of World Kindness Day, 1997 to 2017</title>
-  <desc id="desc">1997: A Tokyo conference, convened around Japan's Small Kindness Movement, forms the World Kindness Movement coalition; the same year, Singapore separately registers its own Singapore Kindness Movement, an unrelated national body. 1998: The World Kindness Movement holds the first World Kindness Day on November 13. 2003 to 2012: The Singapore Kindness Movement serves as the World Kindness Movement's secretariat, though Wikipedia dates Singapore's own first observance of the day to 2009. 2012: Australia places World Kindness Day on its National School Calendar after a Ministerial Declaration of Support. 2017: The Slovenian volunteer organization Humanitarček brings the day to Slovenia as part of its Randomised Kindness project.</desc>
+  <desc id="desc">1997: A Tokyo conference, convened around Japan's Small Kindness Movement, forms the World Kindness Movement coalition; the same year, Singapore separately registers its own Singapore Kindness Movement, an unrelated national body. 1998: The World Kindness Movement holds the first World Kindness Day on November 13. 2003 to 2012: The Singapore Kindness Movement serves as the World Kindness Movement's secretariat, though Wikipedia dates Singapore's own first observance of the day to 2009. 2012: Secondary accounts report Australian school-calendar inclusion and ministerial support, not independently verified here. 2017: The Slovenian volunteer organization Humanitarček brings the day to Slovenia as part of its Randomised Kindness project.</desc>
   <rect width="1200" height="620" fill="#faf7f0" />
 
   <text x="600" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#1f1d1a">World Kindness Day: two 1997 foundings, one shared year</text>
@@ -62,9 +62,9 @@
   <circle cx="960" cy="200" r="8" fill="#7a3b3b" />
   <text x="960" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">2012</text>
   <text x="960" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1f1d1a" opacity="0.75">
-    <tspan x="960" dy="0">Australia adds it to the</tspan>
+    <tspan x="960" dy="0">Australian listing reported:</tspan>
     <tspan x="960" dy="16">National School Calendar,</tspan>
-    <tspan x="960" dy="16">9,000+ schools</tspan>
+    <tspan x="960" dy="16">9,000+ schools claimed</tspan>
   </text>
 
   <!-- 2017 Slovenia -->
@@ -78,6 +78,6 @@
 
   <text x="600" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">
     <tspan x="600" dy="0">Navy marks the international coalition and its November 13 day. Tan marks Singapore's separate civic body, founded the</tspan>
-    <tspan x="600" dy="20">same year, which later hosted the coalition's secretariat for nearly a decade before Singapore observed the day itself.</tspan>
+    <tspan x="600" dy="20">same year, which later hosted the coalition's secretariat for 2003 to 2012; the cited secondary account places Singapore’s first observance in 2009.</tspan>
   </text>
 </svg>

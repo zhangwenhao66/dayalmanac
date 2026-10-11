@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Timeline of National Taco Day, 1968 to 2026</title>
-  <desc id="desc">1968: Congress recognizes a different National Taco Day, May 3, tied to a San Antonio civic group. 2000: Chuy's Tex-Mex trademark bid for June 12 is rejected. 2009: Del Taco's press release popularizes October 4. 2013: National Day Calendar formally registers October 4. 2024: Taco Bell and National Day Calendar move the date to the first Tuesday of October. 2026: Both October 4 and the first-Tuesday date still circulate online.</desc>
+  <desc id="desc">1968: Gonzalez describes a different National Taco Day in House remarks, May 3, tied to a San Antonio civic group. 2000: Chuy's Tex-Mex trademark bid for June 12 is rejected. 2009: Del Taco's press release popularizes October 4. 2013: National Day Calendar formally registers October 4. 2024: Taco Bell and National Day Calendar move the date to the first Tuesday of October. 2026: Both October 4 and the first-Tuesday date still circulate online.</desc>
   <rect width="1000" height="320" fill="#faf7f0" />
 
   <line x1="60" y1="160" x2="940" y2="160" stroke="#e2dbcc" stroke-width="2" />
@@ -9,7 +9,7 @@
   <circle cx="100" cy="160" r="7" fill="#2f4858" />
   <text x="100" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1f1d1a">1968</text>
   <text x="100" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1f1d1a" opacity="0.75">
-    <tspan x="100" dy="0">Congress names a</tspan>
+    <tspan x="100" dy="0">Gonzalez describes a</tspan>
     <tspan x="100" dy="15">different Taco Day,</tspan>
     <tspan x="100" dy="15">May 3 — later abandoned</tspan>
   </text>

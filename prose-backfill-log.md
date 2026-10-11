@@ -23,3 +23,11 @@ Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011
 - Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b2-checks.json; day-b2-semantic.json; day-b2-usno-1975-2100.json; notes/day-b2/.
 - English humanizer then avoid-ai-writing unique kit sources read in full and applied; hashes retained in semantic evidence. Independent review delegated to root; no push by writer.
 - Expansion findings: May22 earlier/later error, December historical lapis inconsistency, October universal pre1829 absence claim recorded for next same-site batch; no unrelated checkout modified.
+
+## 2026-10-11 Day b3
+- Scope: may-22-zodiac, december-birthstone, october-birthstone, scorpio-dates, january-birthstone; plus march-birthstone source-attribution repair from b2 (six existing guides).
+- Preserved FAQ questions/counts and substantive information. Rewrote all eight October and six Scorpio answers; clarified December 1912 lapis/1952 zircon substitution, fixed May22 later/earlier direction, repaired January target link to the actual Kunz discussion.
+- AGS current full opal history has early1800s princess story, not a 50-percent sales figure; GIA names1829AnneofGeierstein. Kept the repeated figure as an unsubstantiated retelling, removed universal historical absence claim. Corrected Elijah/Hannibal identity using MaineHistoricalSociety.
+- Every guide both gates and separate build passed; 18 current candidates backed by full target reads and concrete notes.
+- Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b3-checks.json; day-b3-semantic.json; notes/day-b3/. English unique writing-chain source hashes retained in semantic record.
+- Independent audit by root; writer did not push. Expansion findings April 'one unchanged assignment', November December stonecount, monthchart 'differentmonths' recorded for next same-site batch.

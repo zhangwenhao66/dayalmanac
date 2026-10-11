@@ -1614,7 +1614,7 @@ export const guides: Guide[] = [
         "body": [
           "The US birthstone list traces back to a single meeting: in 1912, the American National Retail Jewelers Association (the organization now known as Jewelers of America) met in Kansas City and adopted a standardized list, aiming to settle the many competing folk birthstone traditions that had accumulated across centuries into one list retailers could use consistently. The historical chart paired turquoise with lapis lazuli for December. Turquoise continued its older association, while the lapis entry would later be replaced.",
           "The list has been revised only a handful of times since. In 1952, a trade-industry update replaced December’s lapis with zircon and added stones for three other months. In 2002, the American Gem Trade Association added tanzanite to December, the list's first change to any month in fifty years. Most recently, in 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August, showing that the same small set of trade groups is still actively willing to revise the list rather than treating it as fixed. October’s revision specified pink tourmaline, while the broader tourmaline entry was already an alternate in 1912. Opal, the other October stone, carries its own debunkable reputation: [this site's October birthstone page](/october-birthstone/) compares the American Gem Society's account of opal's changed reputation with GIA's identification of an 1829 novel.",
-          "Blue topaz has never gone through that process. It shows up in retailer catalogs because it happens to look the part, not because any trade group ever voted it onto the list. That's a different kind of gap from the unreconciled accounts behind observance days on this calendar: [National Dog Day](/national-dog-day/) has two accounts on its founder’s site, one explaining the date and the other describing a motive, while December's birthstone list, by contrast, has a dated, attributable paper trail for almost every change made to it. The one piece that's murky is who exactly carried out the 1952 revision; everything else about who added what, and when, is on the record. A different kind of borrowed-stone problem turns up off the monthly list entirely: [this site's Libra birthstone page](/libra-birthstone/) found sapphire and opal marketed for that zodiac sign match the neighboring monthly assignments, while the specific 1913 zodiac table gives Libra chrysolite."
+          "Blue topaz has never gone through that process. It shows up in retailer catalogs because it happens to look the part, not because any trade group ever voted it onto the list. For comparison, consider the founder evidence behind observance days on this calendar: [National Dog Day](/national-dog-day/) has two accounts on its founder’s site, one explaining the date and the other describing a motive, while December's birthstone list, by contrast, has a dated, attributable paper trail for almost every change made to it. The one piece that's murky is who exactly carried out the 1952 revision; everything else about who added what, and when, is on the record. A different kind of borrowed-stone problem turns up off the monthly list entirely: [this site's Libra birthstone page](/libra-birthstone/) found sapphire and opal marketed for that zodiac sign match the neighboring monthly assignments, while the specific 1913 zodiac table gives Libra chrysolite."
         ]
       },
       {
@@ -1702,7 +1702,7 @@ export const guides: Guide[] = [
     "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23 to September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year. Vedic sidereal astrology, built on a different reference point, puts Virgo roughly a month later, around September 17 to October 16. The actual astronomical constellation the sign borrows its name from holds the Sun longer still, from about September 16 to October 30. All three ranges are correctly stated by their own rules; there is no single authority whose ruling overrides the other two.",
     "sections": [
       {
@@ -1786,7 +1786,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the Virgo birthstone?",
-        "answer": "There's no single official answer. This site's [birthstones-by-month page](/birthstones-by-month/) documents the current monthly list: peridot for August, sapphire for September. The sign straddles both, with only 9 of its days falling in August against 22 in September. The trade group behind that monthly list has never published a separate zodiac-sign chart, so retailers filling the gap most often name sapphire as 'the' Virgo stone, with peridot, carnelian, and moss agate offered as alternates depending on the site."
+        "answer": "There's no single official answer. This site's [birthstones-by-month page](/birthstones-by-month/) documents the current monthly list: peridot for August, sapphire for September. The sign straddles both, with only 9 of its days falling in August against 22 in September. The consulted materials from that monthly-list trade group do not supply a separate zodiac-sign chart, so retailers filling the gap most often name sapphire as 'the' Virgo stone, with peridot, carnelian, and moss agate offered as alternates depending on the site."
       },
       {
         "question": "Who is Virgo most compatible with, and who's the toughest match?",
@@ -1853,7 +1853,7 @@ export const guides: Guide[] = [
     "title": "June 22 Zodiac: Cancer, Despite the Cusp Claims",
     "description": "June 22 falls under Cancer by every mainstream tropical chart. Wikipedia's astrology entry still manages to give two different start dates for the sign, a day apart.",
     "published": "2026-09-11",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "June 22 is Cancer under the Western tropical zodiac, the system behind most horoscope columns, which AstroStyle and Farmers' Almanac both place at June 21 to July 22. The boundary itself is set by the June solstice, not a fixed calendar date, and U.S. Naval Observatory data shows no June 22 solstice in UTC after 1975 through 2100. Local clocks can still put that instant on June 22, so a birth near the boundary requires its year, time and time zone.",
     "sections": [
       {
@@ -1930,7 +1930,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the June 22 zodiac's birthstone?",
-        "answer": "No astrology group has ever published one. What circulates instead is the calendar-month list from the jewelry trade, which this calendar covers separately under its own June entry."
+        "answer": "No governing zodiac-stone chart was identified in the sources consulted. What circulates instead is the calendar-month list from the jewelry trade, which this calendar covers separately under its own June entry."
       },
       {
         "question": "Is July 22 a Cancer or a Leo?",
@@ -1991,9 +1991,9 @@ export const guides: Guide[] = [
     "slug": "may-22-zodiac",
     "category": "Zodiac Dates",
     "title": "May 22 Zodiac: Gemini, by One Contested Day",
-    "description": "May 22 falls under Gemini by every mainstream account. Wikipedia's own entry starts the sign a day earlier than AstroStyle or Farmers' Almanac do.",
+    "description": "May 22 falls under Gemini by every mainstream account. Wikipedia's own entry starts the sign a day later than AstroStyle or Farmers' Almanac do.",
     "published": "2026-09-13",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "May 22 is Gemini under the Western tropical zodiac that AstroStyle and Farmers' Almanac both place at May 21 to June 20, making the day the sign's second, not its first. Wikipedia's own entry states the transit begins about May 22, a full day later, and published ephemeris data for 2024 through 2028 shows the Sun's actual crossing landing only on May 20 or May 21, matching neither publisher's wording exactly and never once reaching May 22 itself.",
     "sections": [
       {
@@ -2073,7 +2073,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the May 22 zodiac's birthstone?",
-        "answer": "No trade group has ever assigned one to the sign itself. What gets sold under that name is really borrowed from the following month's gem list, a substitution this site's dedicated birthstone page for the sign unpacks in full, including the very different stone an older reference table names instead."
+        "answer": "The consulted trade materials do not establish a gem for this zodiac sign. What gets sold under that name is really borrowed from the following month's gem list, a substitution this site's dedicated birthstone page for the sign unpacks in full, including the very different stone an older reference table names instead."
       },
       {
         "question": "What is a Gemini's personality like, and what do Geminis crave?",
@@ -2305,7 +2305,7 @@ export const guides: Guide[] = [
         "body": [
           "Since the lists disagree, the practical approach is to know what's actually being offered before buying. Aquamarine is the pricier, more widely available option in fine jewelry, easy to find faceted into rings, pendants, and earrings. Bloodstone is inexpensive, historically distinct, and shows up more often in cabochons, carved seals, or vintage-style signet rings than in mainstream engagement jewelry. Neither is a wrong choice; they're simply answering to different lists.",
           "March isn't the only month where the record is this tangled. [December's three official birthstones](/december-birthstone/) came from three separate revisions spread across ninety years, and even that settled list gets padded out in stores by blue topaz, a stone no trade group has ever actually adopted. The same pattern of \"looks fixed, isn't\" shows up outside birthstones, too: [Virgo's date range](/virgo-dates/) can shift by a day between years and local time zones as the Sun’s entry into the sign falls at a different instant.",
-          "None of this makes aquamarine the \"real\" March birthstone and bloodstone a pretender, or the other way around. It means the birthstone list was never handed down complete and permanent. It's been edited in pieces by a handful of trade groups over more than a century, the same way plenty of claims repeated as settled fact online, like [National Dog Day's founding story](/national-dog-day/), turn out to have more than one version once the primary source gets checked instead of the retelling."
+          "None of this makes aquamarine the \"real\" March birthstone and bloodstone a pretender, or the other way around. It means the birthstone list was never handed down complete and permanent. It's been edited in pieces by a handful of trade groups over more than a century, the same way plenty of claims repeated as settled fact online, like [National Dog Day's founding story](/national-dog-day/), require checking what each account establishes. The founder’s site describes both a reason for the date and a founding motive; those are different details, not necessarily incompatible versions."
         ]
       }
     ],
@@ -2388,7 +2388,7 @@ export const guides: Guide[] = [
     "title": "September Birthstone: Sapphire, Unchanged Since 1912",
     "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912, though the UK trade list still adds a second stone, lapis lazuli.",
     "published": "2026-08-05",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912. The trade-group updates in 1952, 2002 and 2016 affected other months. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
     "sections": [
       {
@@ -2434,7 +2434,7 @@ export const guides: Guide[] = [
       {
         "heading": "A separate mismatch: the zodiac stone for Virgo isn't sapphire either",
         "body": [
-          "September birthdays mostly fall under Virgo, and it's common to see gemstone sites claim sapphire as \"the\" Virgo zodiac stone, on top of it being the September birthstone. [This calendar's Virgo dates page](/virgo-dates/) already flagged that retailers can't agree among sapphire, peridot, or carnelian for Virgo's stone, without a governing body behind any of the claims. Kunz's 1913 zodiacal table, the same one behind the \"chrysolite\" note above, actually assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead. Whatever a modern astrology blog says, the older documented Western tradition and the modern monthly birthstone list simply agree on sapphire by coincidence, not because one system was built from the other. The rest of DayAlmanac's [Birthstones hub](/topics/birthstones/) covers the other eleven months, including March and June."
+          "September birthdays mostly fall under Virgo, and it's common to see gemstone sites claim sapphire as \"the\" Virgo zodiac stone, on top of it being the September birthstone. [This calendar's Virgo dates page](/virgo-dates/) already flagged that retailers can't agree among sapphire, peridot, or carnelian for Virgo's stone, without a governing body behind any of the claims. Kunz's 1913 zodiacal table, the same one behind the \"chrysolite\" note above, actually assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead. These assignments differ: the modern monthly chart gives September sapphire, while this specific older zodiac table gives Virgo carnelian and Taurus sapphire. Shared references to sapphire do not establish that the monthly and zodiac systems were built from each other. The rest of DayAlmanac's [Birthstones hub](/topics/birthstones/) covers the other eleven months, including March and June."
         ]
       }
     ],
@@ -2688,7 +2688,7 @@ export const guides: Guide[] = [
       {
         "heading": "Aquarius or Capricorn? The zodiac table disagrees with most retail sites",
         "body": [
-          "Plenty of modern jewelry and astrology sites state flatly that Capricorn's zodiac birthstone is garnet. Checking that claim against the actual historical source, the 1913 Kunz zodiac table also discussed in [the September birthstone guide](/september-birthstone/), tells a different story. That table assigns garnet to Aquarius (January 20 to February 18), not Capricorn. Capricorn (December 22 to January 19), in the same table, gets ruby instead.",
+          "Plenty of modern jewelry and astrology sites state flatly that Capricorn's zodiac birthstone is garnet. Checking that claim against the actual historical source, the 1913 Kunz zodiac table also discussed in [the September birthstone guide](/september-birthstone/), tells a different story. That guide distinguishes September’s monthly sapphire from Virgo’s carnelian in the zodiac table. That table assigns garnet to Aquarius (January 20 to February 18), not Capricorn. Capricorn (December 22 to January 19), in the same table, gets ruby instead.",
           "It's the same pattern this site has already run into: Libra's marketed sapphire and opal differ from the chrysolite named in Kunz's table, and Britannica's Scorpio start date turns out to sit a day off from every other reference on an unrelated question of tropical-zodiac dates. These are differences between modern retail assignments and the historical table. They do not establish which source a retailer copied or whether it intended to follow Kunz."
         ]
       }

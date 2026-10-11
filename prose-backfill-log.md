@@ -31,3 +31,11 @@ Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011
 - Every guide both gates and separate build passed; 18 current candidates backed by full target reads and concrete notes.
 - Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b3-checks.json; day-b3-semantic.json; notes/day-b3/. English unique writing-chain source hashes retained in semantic record.
 - Independent audit by root; writer did not push. Expansion findings April 'one unchanged assignment', November December stonecount, monthchart 'differentmonths' recorded for next same-site batch.
+
+## 2026-10-11 Day b4
+- Scope: april-birthstone, november-birthstone, birthstones-by-month, june-birth-flower, march-birth-flower; plus april-birth-flower animal-study scope repair (six existing guides).
+- Repaired April false unique unchanged assignment, November wrong December two-stone count, and monthchart false different-month revision claim.
+- Japanese honeysuckle current legal claims use verified Indiana/Connecticut official rules; unverified46-state legal designation count removed, native alternative retained. LaFrance parentage now distinguishes known/open-pollinated origin from unidentified pollen parent.
+- Sweet-pea effects explicitly scoped to experimental animals; the related human grass-pea illness remains separate. March bridge now states that distinction, with historicalBristol11-case paper checked against original abstract.
+- FAQ counts/questions preserved. Both gates and separate npm build for all six guides passed. Ten bridge candidates bound to full local targets and concrete quotations.
+- Evidence: /Users/zhangwh/.codex/automation-runtime/runs/matrix-backfill-20261011/day_wage/day-b4-checks.json; day-b4-semantic.json; day-b4-official-evidence.json; notes/day-b4/. English unique-chain source hashes retained. Independent review by root; no writer push.

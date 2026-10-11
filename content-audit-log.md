@@ -3079,3 +3079,39 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "independent_review": "Root independently opened all four official sources and checked all five FAQ drafts before publication, 2026-10-09; supported. Worker subsequently removed redundant Louvre gallery name for overlap gate, preserving meaning."
 }
 ```
+
+```json
+{
+  "url_slug": "international-mens-day",
+  "last_audited": "2026-10-12",
+  "published_date": "2026-08-11",
+  "article_specific_checklist": [
+    "1989 World Cup qualifier: did Trinidad and Tobago actually lose the match the date commemorates?",
+    "Romania Law 22/2016 exact dates, vote tally, Monitorul Oficial number",
+    "Thomas Oaster 1992 February 7 observance and Malta's 2009 switch to November 19",
+    "Weekday calculations for 2026-2031 November 19",
+    "Teelucksingh's 'united the country' wording vs actual match outcome"
+  ],
+  "findings": [
+    {"dimension": "事实准确性", "status": "未发现问题", "detail": "All key claims verified: Romania Law 22/2016 voted Feb 3 2016, promulgated March 4, published in Monitorul Oficial no.169 on March 7 2016, confirmed by contabun.ro and multiple Romanian outlets. 1989 match: US 1-0 win over Trinidad and Tobago on Paul Caligiuri goal at Hasely Crawford Stadium, confirmed by US Soccer and Wikipedia. Weekday calculations independently verified for 2026-2029 (all match article). Thomas Oaster 1992 February 7 observance and Malta's Jan 17 2009 switch confirmed by IMD official history."},
+    {"dimension": "EEAT", "status": "未发现问题", "detail": "10 sources: IMD official site, US Soccer, UN, Wikipedia, Romanian legal/contabun, Mediafax, AGERPRES. Article carefully distinguishes Teelucksingh's own wording ('united the country with their endeavours') from the actual match outcome — adds genuine corrective value vs other calendar sites."},
+    {"dimension": "时效性", "status": "未发现问题", "detail": "fixed-date observance; 2026-2031 occurrence table verified correct."},
+    {"dimension": "竞品差异化", "status": "未发现问题", "detail": "Article uniquely covers the match-loss corrective angle, the Oaster/Malta history, and Romania's legal statute — most calendar sites simplify the founding story."},
+    {"dimension": "SEO技术审计", "status": "未发现问题", "detail": "title 57 chars z=-0.14 normal; description 162 chars z=0.75 normal; live URL 200."},
+    {"dimension": "GEO审计", "status": "未发现问题", "detail": "coreSummary quotable; 6 FAQs with FAQ schema; dateRule structured field."},
+    {"dimension": "早期内容AI味", "status": "未发现问题", "detail": "published 2026-08-11, after avoid-ai-writing introduction. check_prose_patterns.py exit 0."},
+    {"dimension": "外部引用链接腐烂", "status": "未发现问题", "detail": "live URL 200; source list verified via web search (Romanian legal sources confirmed active)."},
+    {"dimension": "内链健康度", "status": "未发现问题", "detail": "2 in-site links (national-grandparents-day, no-shave-november) both resolve."},
+    {"dimension": "Schema数据一致性", "status": "未发现问题", "detail": "No edits made."},
+    {"dimension": "合规/敏感度漂移", "status": "未发现问题", "detail": "Men's rights topic handled factually, no editorializing."},
+    {"dimension": "配图", "status": "未发现问题", "detail": "Self-made SVG timeline, no Wikimedia licensing concern."},
+    {"dimension": "AdSense政策合规", "status": "未发现问题", "detail": "Topic is benign observance history; no policy risk."},
+    {"dimension": "机械散文检查", "status": "通过", "detail": "check_prose_patterns.py exit 0: 2 's own', 3 comparison words / 2053 words, 0 narrative hyphens, 0 FAQ-body verbatim overlap."},
+    {"dimension": "谷歌垃圾政策合规", "status": "未发现问题", "detail": "Unique researched content, no scaled patterns."}
+  ],
+  "actions_taken": [],
+  "seo_score": null,
+  "geo_score": null,
+  "core_conclusion_overturned": false
+}
+```

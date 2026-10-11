@@ -5385,7 +5385,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "documented",
-      "text": "The part of this history that is fully checkable against primary legislative documents turns out to be larger than a single resolution. On June 7, 2004, Senator Maria Cantwell of Washington, joined by Senator Richard Durbin of Illinois, introduced Senate Resolution 370 in the 108th Congress. It was referred to the Senate Judiciary Committee the same day, reported out without amendment by Committee Chairman Orrin Hatch on June 18, 2004, and agreed to by the full Senate, by unanimous consent, on July 6, 2004. Its text designates a single date, September 7, 2004, as \"National Attention Deficit Disorder Awareness Day,\" recognizes AD/HD as a major public health concern, and, uniquely among the five resolutions described below, requests that the President issue a proclamation calling on federal, state, and local administrators to observe the day. The Attention Deficit Disorder Association (ADDA) served as the resolution's sponsoring organization, and according to ADDA's contemporaneous press release, worked directly with Cantwell's office on its drafting. David Giwerc, ADDA's president at the time, called the designation \"a monumental first step,\" adding, \"It is our hope that September 7, 2004 will be the beginning of a nationwide awareness leading to greater understanding and acceptance of AD/HD.\"\n\nWhat this calendar did not expect, and found only by searching Congress's own bill database beyond the 2004 resolution, is that the Senate repeated this exact act four more times. Cantwell and Durbin returned the following year with Senate Resolution 201, designating September 14, 2005, agreed to July 27, 2005. Cantwell returned again with Senate Resolution 544, designating September 20, 2006, agreed to July 28, 2006. In 2007, Cantwell submitted Senate Resolution 295 alone, without a co-sponsor, designating September 19, 2007, agreed to the same day it was submitted. In 2008, Cantwell was joined by Senator Gordon Smith of Oregon for Senate Resolution 649, designating September 18, 2008, agreed to September 8, 2008. All five were simple resolutions, all five passed without a recorded vote, and all five named a single calendar date for that year only, never a recurring day and never a month. One consistent change across the five: starting with the 2005 resolution, the text dropped the clause asking the President for a proclamation that the 2004 original had included, replacing it with language that only \"calls on Federal, State and local administrators and the people of the United States to observe the day.\" This calendar could not find a stated reason for that change, or a record of whether a proclamation was ever issued in response to the 2004 request.\n\nThe consulted set contains those five measures. This calendar searched Congress's bill database for any resolution matching this same title after 2008, and for any using the shorter \"ADHD Awareness\" phrasing in place of \"Attention Deficit Disorder,\" and found nothing: no sixth matching Senate resolution, House companion or presidential proclamation among the records consulted. The current month-long campaign is run by an advocacy coalition. The same organizations behind the Senate pushes, ADDA together with CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder) and the ADHD Coaches Organization (ACO), kept the campaign going on their own, past the single September date, into a longer observance that today runs every October under the shared site ADHDAwarenessMonth.org. ADDA's history page states that \"ADHD Awareness has grown from one day each year in 2004 to a full month, the month of October,\" without giving a specific year for that particular shift, and this calendar could not independently verify one, so no exact date for the week-to-month transition is claimed here.\n\nThe distinction that matters for a reader planning around this observance is not whether Congress ever acted, it did, five years running, but whether that action ever became permanent. It did not. Compare that to [American Diabetes Month](/diabetes-awareness-month/), where a year-specific 1982 joint-resolution law was accompanied by a proclamation, with another documented proclamation in 1985 and later presidential examples. The five checked Senate documents approved particular September days. The coalition’s current October campaign has a different scope, and the consulted history does not specify when the month-wide change occurred or prove an end to federal activity after 2008.",
+      "text": "The part of this history that is fully checkable against primary legislative documents turns out to be larger than a single resolution. On June 7, 2004, Senator Maria Cantwell of Washington, joined by Senator Richard Durbin of Illinois, introduced Senate Resolution 370 in the 108th Congress. It was referred to the Senate Judiciary Committee the same day, reported out without amendment by Committee Chairman Orrin Hatch on June 18, 2004, and agreed to by the full Senate, by unanimous consent, on July 6, 2004. Its text designates a single date, September 7, 2004, as \"National Attention Deficit Disorder Awareness Day,\" recognizes AD/HD as a major public health concern, and, uniquely among the five resolutions described below, requests that the President issue a proclamation calling on federal, state, and local administrators to observe the day. The Attention Deficit Disorder Association (ADDA) served as the resolution's sponsoring organization, and according to ADDA's contemporaneous press release, worked directly with Cantwell's office on its drafting. David Giwerc, ADDA's president at the time, called the designation \"a monumental first step,\" adding, \"It is our hope that September 7, 2004 will be the beginning of a nationwide awareness leading to greater understanding and acceptance of AD/HD.\"\n\nWhat this calendar did not expect, and found only by searching Congress's own bill database beyond the 2004 resolution, is that the Senate repeated this exact act four more times. Cantwell and Durbin returned the following year with Senate Resolution 201, designating September 14, 2005, agreed to July 27, 2005. Cantwell returned again with Senate Resolution 544, designating September 20, 2006, agreed to July 28, 2006. In 2007, Cantwell submitted Senate Resolution 295 alone, without a co-sponsor, designating September 19, 2007, agreed to the same day it was submitted. In 2008, Cantwell was joined by Senator Gordon Smith of Oregon for Senate Resolution 649, designating September 18, 2008, agreed to September 8, 2008. All five were simple resolutions, all five passed without a recorded vote, and all five named a single calendar date for that year only, never a recurring day and never a month. One consistent change across the five: starting with the 2005 resolution, the text dropped the clause asking the President for a proclamation that the 2004 original had included, replacing it with language that only \"calls on Federal, State and local administrators and the people of the United States to observe the day.\" This calendar could not find a stated reason for that change, or a record of whether a proclamation was ever issued in response to the 2004 request.\n\nThe consulted set contains those five measures. This calendar searched Congress's bill database for any resolution matching this same title after 2008, and for any using the shorter \"ADHD Awareness\" phrasing in place of \"Attention Deficit Disorder,\" and found nothing: no sixth matching Senate resolution, House companion or presidential proclamation among the records consulted. The current month-long campaign is run by an advocacy coalition. The same organizations behind the Senate pushes, ADDA together with CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder) and the ADHD Coaches Organization (ACO), kept the campaign going on their own, past the single September date, into a longer observance that today runs every October under the shared site ADHDAwarenessMonth.org. ADDA's history page states that \"ADHD Awareness has grown from one day each year in 2004 to a full month, the month of October,\" without giving a specific year for that particular shift, and this calendar could not independently verify one, so no exact date for the week-to-month transition is claimed here.\n\nThe five checked Senate measures establish recognition for particular September dates. They do not provide a recurring statutory rule for the current October month-long campaign. Compare that to [American Diabetes Month](/diabetes-awareness-month/), where a year-specific 1982 joint-resolution law was accompanied by a proclamation, with another documented proclamation in 1985 and later presidential examples. The five checked Senate documents approved particular September days. The coalition’s current October campaign has a different scope, and the consulted history does not specify when the month-wide change occurred or prove an end to federal activity after 2008.",
       "source": {
         "label": "S.Res.370: 108th Congress, designating September 7, 2004, as \"National Attention Deficit Disorder Awareness Day\" (GovInfo.gov, official bill text)",
         "url": "https://www.govinfo.gov/content/pkg/BILLS-108sres370ats/html/BILLS-108sres370ats.htm"
@@ -5447,7 +5447,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is ADHD Awareness Month the same as ADHD Awareness Week?",
-        "answer": "The labels refer to the same coalition campaign. ADDA describes a progression from the 2004 single-day event to the current October-wide observance. Its account does not date that expansion precisely, and no dated founding record for the change was located in this guide’s consulted sources."
+        "answer": "These names describe stages of the coalition’s awareness effort. ADDA traces its development from a one-day occasion in 2004 into a campaign spanning October. Its account supplies no precise date for that expansion; the founding records consulted likewise did not establish when the change occurred."
       },
       {
         "question": "How common is ADHD, according to the CDC?",
@@ -7184,7 +7184,7 @@ export const guides: Guide[] = [
         "body": [
           "Since Bush's 2003 proclamation put the name back on September, the presidential examples cited here have marked the month there, though the format has shifted. Obama proclaimed it formally in at least 2011 and 2015. Biden issued a full proclamation in 2022, published in the Federal Register the following month. Trump's first administration issued a statement in 2017 focused on falling incidence and mortality rates; his second administration issued a September 2, 2025 presidential message, a different document format than a proclamation, stating that \"every year, more than 300,000 men are diagnosed with prostate cancer, and more than 35,000 die from the disease.\" Congress has added its own layer on top of the executive branch's: the Senate passed non-binding resolutions naming specific years in 2021 (S.Res.378) and 2022 (S.Res.776), and the House introduced a matching resolution for 2025 (H.Res.675). The cited measures and presidential announcements document those particular years, without supplying a standing renewal law or verifying every intervening year.",
           "The American Cancer Society's most recent estimate, for 2026, puts the numbers higher than the 2025 presidential message: about 333,830 new diagnoses and 36,320 deaths, with roughly 1 in 8 men expected to be diagnosed with prostate cancer at some point in their lives. The two figures are not contradictory; they come from different years and different estimating methods, and both describe a disease whose count of new cases has been rising by about 3 percent a year since 2014, according to the ACS. Prostate Cancer Awareness Month carries no legal holiday status. The observance itself does not require federal-office closures or create a right to paid leave; what happens instead is decentralized, through screening events, the light blue awareness ribbon, and campaigns run by hospitals, advocacy groups, and employers throughout the month.",
-          "September's observance sits alongside two other awareness months on this calendar built the same way, a professional or advocacy organization starts it, a President later proclaims it, and Congress occasionally adds a resolution without ever making it permanent. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) falls in October; its guide identifies year-specific public laws in the early 1990s, a different instrument from the cited Senate prostate-cancer resolutions. [Movember](/movember/), which raises money for prostate and testicular cancer research every November, took a different route entirely: its official history begins with a private Melbourne moustache challenge, rather than a government founding instrument identified in that guide. [International Men's Day](/international-mens-day/), each November 19, covers men's health as one part of a broader observance rather than as its whole focus."
+          "Two neighboring campaigns on this calendar have different founding histories and forms of recognition, so their instruments should be read individually. [Breast Cancer Awareness Month](/breast-cancer-awareness-month/) falls in October; its guide identifies year-specific public laws in the early 1990s, a different instrument from the cited Senate prostate-cancer resolutions. [Movember](/movember/), which raises money for prostate and testicular cancer research every November, took a different route entirely: its official history begins with a private Melbourne moustache challenge, rather than a government founding instrument identified in that guide. [International Men's Day](/international-mens-day/), each November 19, covers men's health as one part of a broader observance rather than as its whole focus."
         ]
       }
     ],
@@ -7901,8 +7901,8 @@ export const guides: Guide[] = [
     "title": "Mexican Independence Day: The Cry Came in 1810, the Treaty in 1821",
     "description": "Mexico's Independence Day falls every September 16, marking Hidalgo's 1810 call to revolt, not the sovereignty the country didn't secure for another 11 years.",
     "published": "2026-08-22",
-    "updated": "2026-08-22",
-    "coreSummary": "Mexican Independence Day falls every September 16, fixed as a mandatory paid rest day under Article 74 of Mexico's Federal Labor Law. The date marks Miguel Hidalgo's 1810 call to revolt against Spain, the Grito de Dolores, not the moment Mexico actually became sovereign, which took another 11 years and a treaty Spain itself didn't ratify until 1836. The loudest celebrations happen the night before, when Mexico's president reenacts Hidalgo's bell-ringing from the National Palace balcony using the original bell from his parish church.",
+    "updated": "2026-10-12",
+    "coreSummary": "Mexican Independence Day falls every September 16, fixed as a mandatory paid rest day under Article 74 of Mexico's Federal Labor Law. The date marks Miguel Hidalgo's 1810 call to revolt against Spain, the Grito de Dolores, not the moment Mexico actually became sovereign, which came eleven years later in 1821. Spain rejected the 1821 Treaty of Córdoba and formally recognized Mexican independence under a different treaty in 1836. The loudest celebrations happen the night before, when Mexico's president reenacts Hidalgo's bell-ringing from the National Palace balcony using the original bell from his parish church.",
     "dateRule": {
       "kind": "fixed",
       "text": "Mexican Independence Day falls on September 16 every year. Article 74 of Mexico's Federal Labor Law (Ley Federal del Trabajo) names the date directly among the country's mandatory paid rest days, alongside dates like May 1 and the third Monday of November. It's a fixed calendar date rather than a weekday-based rule, so unlike several U.S. observances on this calendar, it never shifts.",
@@ -7952,28 +7952,28 @@ export const guides: Guide[] = [
         "heading": "Why the party starts the night before",
         "body": [
           "The loudest part of the holiday happens the evening before the date it marks. Each year on the night of September 15, the president of Mexico steps onto the balcony of the National Palace, rings a bell, calls out the names of the independence movement's most celebrated figures, and closes by shouting \"¡Viva México!\" three times. Towns and cities across the country repeat a smaller version of the same ceremony in their own main squares.",
-          "The bell the president rings isn't a replica. It's the actual bell from Hidalgo's parish church in Dolores, moved to the National Palace by President Porfirio Díaz and mounted in a niche above the balcony, where it stays year-round except for that one night. September 16 itself is the quieter of the two days by comparison, marked mainly by a military parade through Mexico City's Zócalo, a tradition dating back to the late 19th century."
+          "The bell the president rings isn't a replica. It's the actual bell from Hidalgo's parish church in Dolores, moved to the National Palace by President Porfirio Díaz and mounted in a niche above the balcony, where it remains mounted for the annual ceremony. September 16 itself is the quieter of the two days by comparison, marked mainly by a military parade through Mexico City's Zócalo, a tradition dating back to the late 19th century."
         ]
       },
       {
         "heading": "Not Cinco de Mayo",
         "body": [
           "Mexican Independence Day gets confused, mostly by people outside Mexico, with Cinco de Mayo, and the two mark entirely different events 52 years apart. Cinco de Mayo, May 5, commemorates a single battle, the Mexican army's 1862 victory over French forces at Puebla; within Mexico it's a modest regional observance, celebrated with real weight mainly in Puebla state itself. Its outsized profile in the United States came later, pushed by Mexican-American activists in the 1960s who connected the battle to their own civil rights movement, then promoted from the 1980s on by beverage companies marketing it as a drinking holiday.",
-          "September 16, by contrast, is Mexico's actual independence anniversary, the one that closes schools, banks, and government offices for the day. A search that turns up a date in May for \"Mexican Independence Day\" has found Cinco de Mayo's marketing footprint, not the holiday itself."
+          "September 16, by contrast, is Mexico's actual independence anniversary, a statutory rest day when many schools, banks and government offices close, although required staffing and essential services can continue. A search that turns up a date in May for \"Mexican Independence Day\" has found Cinco de Mayo's marketing footprint, not the holiday itself."
         ]
       },
       {
         "heading": "One date, inside a longer regional window",
         "body": [
           "September 16 doesn't stand alone on the calendar. It falls on day two of [National Hispanic Heritage Month](/national-hispanic-heritage-month/), the federally designated U.S. observance that runs September 15 through October 15 specifically because that window brackets a cluster of Latin American independence days: five Central American countries share September 15 itself, Mexico follows on the 16th, and Chile's independence day lands on the 18th.",
-          "That overlap means September 16 shows up in two different contexts depending on which country's calendar a reader is checking. In Mexico, it's a national legal holiday tied to the founding of the country. In the United States, it's one day inside a [monthlong federal observance](/national-hispanic-heritage-month/) recognizing Hispanic and Latino heritage broadly, not a U.S. public holiday in its own right; U.S. federal offices stay open."
+          "That overlap means September 16 shows up in two different contexts depending on which country's calendar a reader is checking. In Mexico, it's a national legal holiday tied to the founding of the country. In the United States, it's one day inside a [monthlong federal observance](/national-hispanic-heritage-month/) recognizing Hispanic and Latino heritage broadly, not a U.S. public holiday in its own right; that designation does not itself require U.S. federal closures."
         ]
       }
     ],
     "faq": [
       {
         "question": "When is Mexican Independence Day?",
-        "answer": "Every September 16. Mexican labor law (Article 74) makes it a compulsory day off with pay, and because it sits on a fixed calendar square it never slides to a Monday the way some U.S. holidays do."
+        "answer": "The date remains September 16 instead of automatically shifting to Monday. Mexico’s labor statute guarantees a paid rest entitlement that day. When employees are required to work, their holiday payment is supplemented by twice the ordinary wage for their service: three times the usual daily pay in total."
       },
       {
         "question": "Is Mexican Independence Day the same holiday as Cinco de Mayo?",
@@ -7997,7 +7997,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is Mexican Independence Day a public holiday in the United States?",
-        "answer": "No. It falls within the U.S. heritage month for Latino and Hispanic Americans, which runs from mid-September to mid-October, but American federal offices and most workplaces stay open on the 16th. It's a legal holiday in Mexico only."
+        "answer": "No. It falls within the U.S. heritage month for Latino and Hispanic Americans, which runs from mid-September to mid-October, but it does not itself create an American federal day off. Mexico’s September 16 statutory rest rule has a different legal effect, and other local holidays or employer policies can still affect schedules."
       },
       {
         "question": "Is September 15th a holiday in Mexico?",
@@ -8036,7 +8036,8 @@ export const guides: Guide[] = [
       {
         "label": "File: El cura D. Miguel Hidalgo proclama la Independencia Nacional en Dolores (1910 postcard, Adrián Unzueta): Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:El_cura_D._Miguel_Hidalgo_proclama_la_Independencia_Nacional_en_Dolores,_a_la_madrugada_del_16_de_septiembre_de_1810,_no_obstante_que_no_ten%C3%ADa_terminados_a%C3%BAn_los_preparativos_para_la_revoluci%C3%B3n.jpg"
-      }
+      } ,
+      {"label": "Chamber of Deputies: current Federal Labor Law, Articles 74–75", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"}
     ],
     "image": "/images/mexican-independence-day.jpg",
     "imageAlt": "The original Bell of Dolores, moved from Hidalgo's parish church to Mexico City's National Palace, where the president rings it each September 15",
@@ -10792,13 +10793,13 @@ export const guides: Guide[] = [
     "slug": "national-burrito-day",
     "category": "Observances",
     "title": "National Burrito Day: First Thursday of April, No Named Founder",
-    "description": "National Burrito Day moves with the calendar, always the first Thursday of April, but no person, company, or filing has ever been tied to starting it.",
+    "description": "National Burrito Day moves with the calendar, always the first Thursday of April, but the sources examined identify no founding person, company or filing.",
     "published": "2026-08-28",
-    "updated": "2026-08-28",
-    "coreSummary": "National Burrito Day falls on the first Thursday of April each year (April 2 in 2026), a moving date, not a fixed one, and no founder, company, or registration has ever been traced to it. The burrito itself is far older than the day: a Scottish traveler described eating tortillas called burros in Michoacán as early as 1843, more than fifty years before the word's first appearance in a Mexican dictionary in 1895.",
+    "updated": "2026-10-12",
+    "coreSummary": "National Burrito Day falls on the first Thursday of April each year (April 2 in 2026), a moving date, not a fixed one, and no founder, company or registration is identified in the consulted histories. The burrito itself is far older than the day: a Scottish traveler described eating tortillas called burros in Michoacán as early as 1843, more than fifty years before the 1895 Mexican dictionary entry for the distinct word burrito cited here.",
     "dateRule": {
       "kind": "nth-weekday",
-      "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar and does not stay fixed from year to year. It carries no legal or governmental status. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
+      "text": "National Burrito Day is observed on the first Thursday of April, a date that moves with the calendar and does not stay fixed from year to year. No government founding instrument was identified in the consulted sources. National Day Calendar and other observance-tracking sites list it consistently on that weekday, but nothing beyond that shared practice establishes it as an official recurring rule.",
       "status": "conventional",
       "source": {
         "label": "National Burrito Day, First Thursday of April: National Day Calendar",
@@ -10815,35 +10816,35 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "No founder, company, or filing has ever been traced to National Burrito Day. Unlike some of National Day Calendar's other food observances, which the site backs with a dated \"New Day Proclamation\" naming whoever registered them, no such document exists in its archive for this one. Coverage of the day describes it as having spread organically through restaurant marketing and social media in the mid-2010s rather than through a documented registration, and chains including Chipotle, Qdoba, and Moe's Southwest Grill now build annual promotions around it without any of them claiming to have started it."
+      "text": "The consulted histories identify no founder, company or founding filing for National Burrito Day. Unlike some of National Day Calendar's other food observances, which the site backs with a dated \"New Day Proclamation\" naming whoever registered them, no such document for this observance was identified in the archive materials examined. Coverage of the day describes it as having spread organically through restaurant marketing and social media in the mid-2010s rather than through a documented registration, and chains including Chipotle, Qdoba, and Moe's Southwest Grill now build annual promotions around it without any of them claiming to have started it."
     },
     "sections": [
       {
         "heading": "A moving date nobody claims to have set",
         "body": [
-          "National Burrito Day doesn't sit on a fixed square of the calendar the way [National Taco Day](/national-taco-day/) does. It's pegged to a weekday, the first Thursday of April, which means the date itself shifts every year: April 2 in 2026, April 1 in 2027, April 6 in 2028. That's an unusual choice for a food holiday, and it looks deliberate: a weekday date, unlike a weekend one, gives restaurant chains a guaranteed Thursday to run a promotion and spares them from gambling on which day of the week a fixed date falls.",
-          "What's missing is any record of who made that choice. National Day Calendar lists the observance every year, but its archive holds no proclamation crediting a person or company with registering it, in contrast to sibling entries on the same site that do name a founder and a year. Chipotle's 2026 promotion alone put more than $2 million in prizes behind a \"Burrito Vault\" game for the day, and Qdoba and Moe's Southwest Grill run their own deals alongside it, a lot of annual marketing weight resting on a date nobody has stepped forward to claim."
+          "National Burrito Day follows a weekday rule, as [National Taco Day](/national-taco-day/) now does after its 2024 move from October 4 to the first Tuesday in October. It's pegged to a weekday, the first Thursday of April, which means the date itself shifts every year: April 2 in 2026, April 1 in 2027, April 6 in 2028. The rule gives restaurant chains a predictable Thursday for promotions. That practical consequence does not establish who chose the rule or why.",
+          "What's missing is any record of who made that choice. National Day Calendar lists the observance every year, but the archive materials examined supply no proclamation crediting a person or company with registering it, in contrast to sibling entries on the same site that do name a founder and a year. Chipotle's 2026 promotion alone put more than $2 million in prizes behind a \"Burrito Vault\" game for the day, and Qdoba and Moe's Southwest Grill run their own deals alongside it, a lot of annual marketing weight resting on a date nobody has stepped forward to claim."
         ]
       },
       {
         "heading": "The word is older than the holiday by a century",
         "body": [
-          "The burrito itself predates its national day by well over a hundred years, and even the food's own written history turns out to be older than the source most commonly cited for it. Search results and food-history roundups routinely point to the 1895 Diccionario de Mejicanismos as the earliest written mention of \"burrito.\" It isn't. In her 1843 travel memoir Life in Mexico, the Scottish-born writer Frances Erskine Inglis (published as Madame Calderón de la Barca) describes being offered food on the road in Michoacán: a local gentleman asked if she would like \"to eat a burro in the mean time,\" and, knowing burro meant donkey, she was \"rather startled at the proposition\" until the dish arrived as hot tortillas filled with cheese, which she found \"particularly good.\" That account predates the dictionary entry by 52 years.",
-          "The 1895 Diccionario de Mejicanismos is still notable, just not for being first: it's the earliest dictionary definition, describing \"burrito\" as a regional Guanajuato term for a rolled tortilla with meat or other filling inside, the same thing other parts of Mexico called a coçito (Yucatán) or a taco (Mexico City and Cuernavaca). That regional pattern held for decades. Later dictionaries recorded the same word doing the same job in Guerrero, Michoacán, and Sinaloa, and central and southern Mexico still call the dish tacos de harina, \"wheat-flour tacos,\" rather than burritos. The idea of the burrito as a food category distinct from the taco is largely an American development, not a Mexican one."
+          "The burrito itself predates its national day by well over a hundred years, and even the food's own written history turns out to be older than the source most commonly cited for it. Food-history roundups commonly cite the 1895 Diccionario de Mejicanismos entry for \"burrito.\" An earlier account describes a related preparation under the different name \"burro,\" rather than documenting that exact word. In her 1843 travel memoir Life in Mexico, the Scottish-born writer Frances Erskine Inglis (published as Madame Calderón de la Barca) describes being offered food on the road in Michoacán: a local gentleman asked if she would like \"to eat a burro in the mean time,\" and, knowing burro meant donkey, she was \"rather startled at the proposition\" until the dish arrived as hot tortillas filled with cheese, which she found \"particularly good.\" That account predates the dictionary entry by 52 years.",
+          "The cited 1895 Diccionario de Mejicanismos entry is still notable as a dictionary definition, describing \"burrito\" as a regional Guanajuato term for a rolled tortilla with meat or other filling inside, the same thing other parts of Mexico called a coçito (Yucatán) or a taco (Mexico City and Cuernavaca). That regional pattern held for decades. Later dictionaries recorded the same word doing the same job in Guerrero, Michoacán, and Sinaloa, and central and southern Mexico still call the dish tacos de harina, \"wheat-flour tacos,\" rather than burritos. The idea of the burrito as a food category distinct from the taco is largely an American development, not a Mexican one."
         ]
       },
       {
         "heading": "Two rival stories for \"little donkey,\" and one that's just folklore",
         "body": [
           "\"Burrito\" is the diminutive of burro, Spanish for donkey, but sources don't agree on why the food got that name, and at least one of the popular explanations is folklore, not documented history. The Sonoran historian Horacio Sobarzo Díaz, writing in his 1966 Vocabulario Sonorense, offered a specific and unflattering theory: he traced the name to food stalls in Sonora that were suspected of substituting cheap donkey meat for beef, and argued that customers began calling the dish \"burro\" as a sly dig at what might really be inside it.",
-          "A second, more benign theory holds that the name is a visual comparison rather than an accusation: a rolled, stuffed tortilla resembles the bedrolls and packs a donkey would carry, making \"little donkey\" a case of naming a food after what it looks like being hauled, not what might be in it. A third story circulates constantly online and deserves to be labeled clearly as folklore and not fact: that a street vendor named Juan Méndez, selling food from a donkey cart in Ciudad Juárez during the Mexican Revolution (1910 to 1921), inspired the name because customers started asking for \"the little donkey's food.\" It's a good story, but no contemporary record of Méndez has turned up to confirm it, and it should be read as the same kind of retrofitted origin tale that surrounds plenty of other foods, not as settled history."
+          "A second, more benign theory holds that the name is a visual comparison rather than an accusation: a rolled, stuffed tortilla resembles the bedrolls and packs a donkey would carry, making \"little donkey\" a case of naming a food after what it looks like being hauled, not what might be in it. A third story circulates constantly online and deserves to be labeled clearly as folklore and not fact: that a street vendor named Juan Méndez, selling food from a donkey cart in Ciudad Juárez during the Mexican Revolution (1910 to 1921), inspired the name because customers started asking for \"the little donkey's food.\" It's a good story, but no contemporary record confirming Méndez’s story was identified in the accounts examined, and it should be read as the same kind of retrofitted origin tale that surrounds plenty of other foods, not as settled history."
         ]
       },
       {
         "heading": "How a regional word became an American restaurant category",
         "body": [
           "The burrito's move from a Mexican regionalism to a fixture of American menus has a clearer paper trail than its name does. Alejandro and Rosa Borquez opened the Sonora Cafe in Los Angeles in 1923; a customer's caricature drawing in 1925 led them to rename it El Cholo, and the restaurant is credited with putting the first restaurant-style burritos on a U.S. menu sometime in the 1930s. The word reached U.S. print not long after: historian Erna Fergusson's 1934 Mexican Cookbook, a collection of New Mexican regional recipes, is cited as its first appearance in American media.",
-          "From there the burrito moved from restaurant plate to freezer aisle. In 1956, Duane Roberts developed the first frozen burrito in Southern California, a step that did more than any single restaurant to put the dish within reach of people who'd never eaten Mexican food at all. A heavier, more elaborate lineage of burrito was taking shape around the same years in San Francisco. For another Mexican-rooted food with a shaky calendar entry, [National Guacamole Day](/national-guacamole-day/) on this site has no founder on record either."
+          "From there the burrito moved from restaurant plate to freezer aisle. In 1956, Duane Roberts developed the first frozen burrito in Southern California, a step that did more than any single restaurant to put the dish within reach of people who'd never eaten Mexican food at all. A heavier, more elaborate lineage of burrito was taking shape around the same years in San Francisco. For another Mexican-rooted food with a shaky calendar entry, [National Guacamole Day](/national-guacamole-day/) on this site has no founder identified in that guide’s consulted sources either."
         ]
       },
       {
@@ -10861,19 +10862,19 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who founded National Burrito Day?",
-        "answer": "Nobody has been identified. The calendar registry that lists the day each year carries no proclamation that names any individual or business, though it does credit founders for some other food days."
+        "answer": "No originator is named in the histories examined. The reviewed archive entries give no founding declaration naming a person or business, though it does credit founders for some other food days."
       },
       {
         "question": "Does National Burrito Day have any official or government status?",
-        "answer": "No. No law backs it. It is a marketing and calendar-site convention, listed the same way across tracking sites, and no government body has designated it."
+        "answer": "Calendar publishers list a food-themed occasion, with no law establishing it identified in the material examined. It adds no entitlement to a federal day off or paid leave."
       },
       {
         "question": "Why is a burrito called a \"burrito\"?",
-        "answer": "The name means \"little donkey\" in Spanish, and the reason is disputed. A 1966 Sonoran vocabulary attributes it to food stalls accused of passing off donkey meat as beef. Another reading says a rolled tortilla looks like a donkey's load. A story about a street seller called Juan Méndez in Ciudad Juárez is repeated widely but rests on nothing written at the time, so treat it as folklore."
+        "answer": "Burrito is Spanish for a small donkey. The explanations for the food name disagree. A Sonoran vocabulary published in 1966 links it to accusations that vendors sold meat from donkeys as supposed beef. Another explanation compares the rolled food to a load carried by that animal. The popular Juan Méndez street-vendor account from Ciudad Juárez lacks a contemporary document in the material checked and remains folklore."
       },
       {
         "question": "What's the earliest written record of a burrito?",
-        "answer": "Not the 1895 dictionary, though that is the entry usually quoted. An 1843 travel book by a Scottish author describes tortillas with cheese offered as a \"burro\" in Michoacán, 52 years ahead of the dictionary."
+        "answer": "The dictionary example commonly cited dates to 1895 and uses burrito. A memoir written in 1843 recounts a cheese-filled tortilla meal in Michoacán. Its Scottish author calls the food burro. That account precedes the dictionary by 52 years; it does not attest the identical word."
       },
       {
         "question": "Did the burrito originate in the United States or Mexico?",
@@ -11073,8 +11074,8 @@ export const guides: Guide[] = [
     "title": "Corn Moon: The Date, and Why It Isn't Always the Harvest Moon",
     "description": "September's full moon is called the Corn Moon every year, and it's usually the Harvest Moon too, but the two titles split about once every three years, next in 2028.",
     "published": "2026-08-29",
-    "updated": "2026-08-29",
-    "coreSummary": "September's full moon is the Corn Moon every year; in 2026 it falls on Saturday, September 26, at 12:49 p.m. Eastern time, according to the U.S. Naval Observatory. It also carries the separate Harvest Moon title in 2026, but the two names split about once every three years, most recently due in 2028, when the Harvest Moon shifts to October and September's full moon keeps only the Corn Moon name.",
+    "updated": "2026-10-12",
+    "coreSummary": "September's full moon is the Corn Moon every year; in 2026 it falls on Saturday, September 26, at 12:49 p.m. Eastern time, according to the U.S. Naval Observatory. It also carries the separate Harvest Moon title in 2026, but the two names split about once every three years, next due in 2028, when the Harvest Moon shifts to October and September's full moon keeps only the Corn Moon name.",
     "dateRule": {
       "kind": "table",
       "text": "September's full moon, every year. The exact date moves with the lunar cycle, not a fixed calendar day.",
@@ -11134,7 +11135,7 @@ export const guides: Guide[] = [
         "heading": "Where the name comes from",
         "body": [
           "No single person is credited with naming September's full moon the Corn Moon, and the earliest written record doesn't get much more specific than that. Jonathan Carver's 1778 travel book, Travels Through the Interior Parts of North-America, lists September as \"Corn Moon\" in a table of month names he attributed to Native peoples he had traveled among roughly a decade earlier, on a trip he dates in the book's own title to 1766 through 1768. Carver doesn't identify which of the Dakota, Ojibwe, or Ho-Chunk communities he stayed with actually used that name, and historians researching the list note his habit of crediting customs to \"the Indians\" generally rather than to a named nation or individual.",
-          "There's also a common misconception built into how the name gets described. According to History.com's account of the record, Native nations of that period generally didn't name individual full moons; they named the lunar months themselves, each one running from new moon to full moon, and each month's name described what was happening across that stretch of the seasonal cycle, corn ripening, leaves turning, ice forming. Carver's list, and the modern full-moon names built on it, map those month names onto the single night of the full moon instead, a workable adaptation but not quite how the original naming worked.",
+          "There's also a common misconception built into how the name gets described. History.com describes applying the names to lunar months, not just individual full moons, with names for seasonal activity such as corn ripening, leaves turning and ice forming. For the astronomical interval, NASA explains that one new moon to the next takes about 29.5 days; new moon to full moon covers only part of that cycle. Carver's list, and the modern full-moon names built on it, map those month names onto the single night of the full moon instead, a workable adaptation but not quite how the original naming worked.",
           "Names that don't trace back to Carver's list confirm the same month mattered elsewhere for the same reason. The Old Farmer's Almanac separately records the Western Abenaki calling it the Corn Maker Moon and the Dakota calling it the Corn Harvest Moon, both landing independently on corn as the defining feature of the month without either being a translation of Carver's English phrase."
         ]
       },
@@ -11171,7 +11172,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Does the Corn Moon actually look bigger or more orange than other full moons?",
-        "answer": "No more than any other full moon does. EarthSky traces the big, orange appearance to the moon illusion, a documented visual effect that happens whenever the moon sits low near the horizon, which is simply when people are most likely to be looking for it, shortly after sunset. It isn't a property of the Corn Moon or Harvest Moon specifically."
+        "answer": "Neither effect belongs specifically to this September name. Apparent enlargement near the horizon is the Moon illusion, whose precise explanation remains debated. NASA distinguishes the orange hue: light travels through more atmosphere near the horizon, which scatters away more blue wavelengths. Dust and pollution can deepen the reddish color."
       },
       {
         "question": "Will there be a Buck Moon in 2026?",
@@ -11183,7 +11184,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the rarest kind of full moon?",
-        "answer": "By frequency, a Blue Moon (a season's third full moon of four, or a calendar month's second) is the best-known \"rare\" moon, landing on average about once every 2.7 years, per NASA's figures. A Black Moon, the new-moon counterpart, is rarer still. The rarest event isn't a special full moon at all. It's the near-total absence of one, when a short February falls entirely between two full moons and gets none of its own, something that has happened only four times in the 21st century, all in February: 2018, 2037, 2067, and 2094."
+        "answer": "There is no single ranking across all definitions. A Blue Moon (a season's third full moon of four, or a calendar month's second) is a familiar \"rare\" label. The British Astronomical Association estimates the seasonal extra-full-moon pattern at about once every 2.7 years. Black Moon names new-moon calendar patterns, with frequency depending on the definition. A less frequent calendar case is February having no full moon: a 2001 astronomy newsletter hosted by NASA lists 2018, 2037, 2067 and 2094 for this century, with the latter three still future dates. Month-boundary assignments can differ by time zone; this list does not establish the rarest possible lunar event."
       }
     ],
     "sources": [
@@ -11210,7 +11211,11 @@ export const guides: Guide[] = [
       {
         "label": "MoonPhase.Today: Harvest Moon Calendar 2026 to 2030",
         "url": "https://moonphase.today/harvest-moon-calendar/"
-      }
+      } ,
+      {"label": "NASA: Moon phases and the 29.5-day cycle", "url": "https://science.nasa.gov/moon/moon-phases/"},
+      {"label": "NASA: Moon illusion and atmospheric color", "url": "https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/"},
+      {"label": "Solar Eclipse Newsletter, December 2001, pp. 15–16 (NASA-hosted)", "url": "https://eclipse.gsfc.nasa.gov/SENL/SENL200112.pdf"},
+      {"label": "British Astronomical Association: Blue Moon frequency", "url": "https://britastro.org/event/blue-moon"}
     ],
     "image": "/images/corn-moon.jpg",
     "imageAlt": "A large full moon rising orange above Blanca Peak, seen from Great Sand Dunes National Park and Preserve",
@@ -12800,10 +12805,10 @@ export const guides: Guide[] = [
     "slug": "columbus-day-whats-open",
     "category": "Observances",
     "title": "Is Mail Delivered on Columbus Day? What's Open",
-    "description": "Regular mail is not expected on Columbus Day 2026. Post offices and the Fed close, the NYSE trades, and Chase's commercial-banking notice says its branches stay open.",
+    "description": "USPS confirmed no regular mail on Columbus Day 2026. Post offices and the Fed close, the NYSE trades, and Chase's commercial-banking notice says its branches stay open.",
     "published": "2026-09-24",
-    "updated": "2026-09-24",
-    "coreSummary": "Regular mail is not expected to be delivered on Columbus Day, Monday, October 12, 2026. USPS lists the date as a 2026 holiday, and its notice for the 2025 holiday said only Priority Mail Express is delivered. Federal offices and the Federal Reserve Banks close, SIFMA recommends the bond market close, the New York Stock Exchange trades normally, and Chase's commercial-banking notice says its branches will be open.",
+    "updated": "2026-10-12",
+    "coreSummary": "USPS’s October 5, 2026 notice confirms Post Office closures for Monday, October 12 and regular mail resuming October 13. Its 2025 notice specifically limited holiday delivery to Priority Mail Express; the 2026 announcement does not repeat that exception. Federal offices and the Federal Reserve Banks close, SIFMA recommends the bond market close, the New York Stock Exchange trades normally, and Chase's commercial-banking notice says its branches will be open.",
     "dateRule": {
       "kind": "nth-weekday",
       "text": "The second Monday in October, every year, as written in the list of legal public holidays in 5 U.S.C. §6103(a).",
@@ -12851,8 +12856,8 @@ export const guides: Guide[] = [
       {
         "heading": "The short answer for October 12, 2026",
         "body": [
-          "Columbus Day falls on Monday, October 12, 2026. Regular mail is not expected to be delivered and Post Offices should be closed, since the Postal Service lists October 12 among its 2026 holidays and handled the 2025 holiday that way. Delivery and retail service resume the next day, Tuesday, October 13.",
-          "Banks are where the answers conflict. The Federal Reserve Banks close, and Fed payment services such as FedACH pause. Individual bank branches decide for themselves. Chase's commercial-banking notice says its branches stay open. The New York Stock Exchange also trades a full session, while the bond market does not."
+          "Columbus Day falls on Monday, October 12, 2026. USPS’s October 5 announcement confirms Post Offices will close and regular delivery will pause for the 2026 holiday. Delivery and retail service resume the next day, Tuesday, October 13.",
+          "Banks are where the answers conflict. The Federal Reserve Banks close, and Fed payment services such as FedACH pause. Individual bank branches decide for themselves. Chase's commercial-banking notice says its branches stay open. The New York Stock Exchange also trades a full session, while SIFMA recommends a bond-market closure."
         ],
         "image": {
           "src": "/images/columbus-day-whats-open.svg",
@@ -12862,7 +12867,7 @@ export const guides: Guide[] = [
       {
         "heading": "Mail, post offices and packages",
         "body": [
-          "The Postal Service's events page shows Monday, October 12 in its list of 2026 holidays. The most recent USPS notice on this holiday, issued for Columbus Day 2025, spelled out what that means in practice: Post Office locations are closed, only Priority Mail Express items are delivered, and regular mail delivery and retail services resume the next day. The 2026 list confirms the date, and that notice is the best evidence of the pattern, so expect the same handling on October 12.",
+          "The Postal Service's events page shows Monday, October 12 in its list of 2026 holidays. The October 5, 2026 USPS announcement says all Post Office locations will close and regular mail delivery and retail services will resume Tuesday, October 13. The 2025 notice additionally said only Priority Mail Express would be delivered; that explicit delivery exception is not repeated in the 2026 announcement.",
           "USPS's Priority Mail Express page describes Sunday and holiday delivery as available in many major markets for an additional fee. That is not a guarantee for every address, so the tracking page matters more than the calendar for anything time-sensitive.",
           "The same 2025 notice pointed customers to self-service kiosks in some Post Office lobbies, which print postage for Priority Mail, Priority Mail Express and international shipping, sell stamps, and weigh packages. Those kiosks sit in select lobbies rather than every Post Office.",
           "This page did not verify UPS, FedEx or retailer hours against their own pages, so it makes no claim about them. Check the carrier's holiday schedule before planning around a pickup."
@@ -12887,15 +12892,15 @@ export const guides: Guide[] = [
       {
         "heading": "Government offices, schools and everything else",
         "body": [
-          "Federal offices close because Columbus Day is one of the eleven legal public holidays in 5 U.S.C. §6103(a), which words it as \"the second Monday in October.\"",
+          "Most federal offices close because Columbus Day is one of the eleven legal public holidays in 5 U.S.C. §6103(a), which words it as \"the second Monday in October.\"",
           "State and local calendars are where the answer stops being uniform. Some state offices, courts, DMVs and public schools close on the day; others stay open, and some states and cities use the name Indigenous Peoples' Day instead. This page did not compile a state-by-state list, because those calendars change by statute and by proclamation and a copied list would go stale. The holiday page of the state or city in question is the source to use.",
-          "Not every date that sounds official is a day off. [National Boss's Day](/national-bosses-day/) on October 16 and [National First Responders Day](/national-first-responders-day/) on October 28 are both observances with no federal holiday status, so federal offices are not closed for either."
+          "Not every date that sounds official is a day off. [National Boss's Day](/national-bosses-day/) on October 16 and [National First Responders Day](/national-first-responders-day/) on October 28 are both observances with no federal holiday status, so neither designation itself requires federal closures."
         ]
       },
       {
         "heading": "Planning around the closure",
         "body": [
-          "The practical effect is that Monday, October 12 does not count as a business day for the Federal Reserve or the Postal Service's regular mail, SIFMA recommends bonds treat it the same way, and it does count for stocks. Anything that promises delivery or posting in a set number of business days skips the holiday. A payment sent on Thursday, October 8 with a three-business-day window counts Friday the 9th, Tuesday the 13th and Wednesday the 14th, so it lands on the 14th and not the 13th.",
+          "The practical effect is that Monday, October 12 does not count as a business day for the Federal Reserve or the Postal Service's regular mail, SIFMA recommends bonds treat it the same way, and it does count for stocks. The provider’s definition of a business day controls a delivery or posting estimate. Under a schedule excluding weekends and this holiday, a payment sent on Thursday, October 8 with a three-business-day window counts Friday the 9th, Tuesday the 13th and Wednesday the 14th, so it lands on the 14th and not the 13th.",
           "Regular mail and parcel delivery are not expected on the holiday itself, and only Priority Mail Express was delivered on the 2025 holiday. For payments, the Chase notice treats the holiday as a non-processing day for online activity even when a branch is open. For anyone working from one bank's app, the bank's holiday page is the tie-breaker when this page and a bank disagree."
         ]
       },
@@ -12910,11 +12915,11 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "Will there be mail delivery on Monday, October 12, 2026?",
-        "answer": "Not regular mail. October 12 sits on USPS's 2026 holiday calendar, and the agency's 2025 notice limited delivery to the premium express service. Everything else waited until the following day."
+        "answer": "The October 5 USPS release confirms that ordinary delivery stops on October 12 and restarts the following morning. Its notice for 2025 singled out premium express service for holiday delivery, but that earlier detail is not restated in the new release."
       },
       {
         "question": "Do banks close on Columbus Day?",
-        "answer": "The Reserve Banks shut, which pauses interbank payments until FedACH restarts that evening. Whether a branch lobby opens depends on the bank. Chase, for one, keeps branches open but handles online transfers as it would on a holiday, so postings can slip to Tuesday."
+        "answer": "The Reserve Banks observe the holiday and ACH processing takes a break before restarting that evening; instant transfers using FedNow continue through holidays. Whether a branch lobby opens depends on the bank. Chase, for one, keeps branches open but handles online transfers as it would on a holiday, so postings can slip to Tuesday."
       },
       {
         "question": "Is Chase Bank closed on Columbus Day?",
@@ -12981,7 +12986,9 @@ export const guides: Guide[] = [
       {
         "label": "The White House: Columbus Day, 2025 (proclamation)",
         "url": "https://www.whitehouse.gov/presidential-actions/2025/10/columbus-day-2025/"
-      }
+      } ,
+      {"label": "USPS: October 5, 2026 Columbus Day closure notice", "url": "https://about.usps.com/newsroom/national-releases/2026/1005-usps-will-be-closed-in-observance-of-columbus-day-october-12.htm"},
+      {"label": "Federal Reserve: FedNow operating hours", "url": "https://www.frbservices.org/resources/financial-services/fednow-service-resources/fednow-service-operating-hours/"}
     ],
     "image": "/images/columbus-day-whats-open.svg",
     "imageAlt": "Two-column board of what is closed and what is open on Columbus Day, Monday October 12, 2026"
@@ -12992,7 +12999,7 @@ export const guides: Guide[] = [
     "title": "Veterans Day 2026: Date and What's Closed",
     "description": "Veterans Day 2026 is Wednesday, November 11. The date never moves to a Monday, though the day off can. See what closes and how weekends shift it through 2031.",
     "published": "2026-09-26",
-    "updated": "2026-09-26",
+    "updated": "2026-10-12",
     "coreSummary": "Veterans Day 2026 falls on Wednesday, November 11, and it will fall on November 11 every year, because federal law names the date itself and not a weekday. Congress did try moving it to a Monday from 1971, then reversed course in 1975 and restored November 11 starting in 1978. When the 11th lands on a weekend, only the day off moves: in 2028 federal employees take Friday, November 10, and in 2029 they take Monday, November 12. Federal offices and the Federal Reserve Banks close, the Postal Service closed its Post Offices for the 2025 holiday, and the New York Stock Exchange lists no closure.",
     "dateRule": {
       "kind": "fixed",
@@ -13041,7 +13048,7 @@ export const guides: Guide[] = [
       {
         "heading": "Veterans Day 2026 at a glance",
         "body": [
-          "Veterans Day 2026 is Wednesday, November 11. Federal offices are closed. The Federal Reserve's holiday table lists November 11 as a Reserve Bank holiday in 2026, and its FedACH notice shows processing stopping at 11:30 p.m. Eastern on Tuesday, November 10 and restarting at 5:30 p.m. Eastern on the holiday itself. The New York Stock Exchange publishes a holiday calendar for 2026, 2027 and 2028, and Veterans Day is not among its listed closures, so the exchange is not scheduled to close.",
+          "Veterans Day 2026 is Wednesday, November 11. Most federal offices close; essential operations and alternative work schedules can differ. The Federal Reserve's holiday table lists November 11 as a Reserve Bank holiday in 2026, and its FedACH notice shows processing stopping at 11:30 p.m. Eastern on Tuesday, November 10 and restarting at 5:30 p.m. Eastern on the holiday itself. The New York Stock Exchange publishes a holiday calendar for 2026, 2027 and 2028, and Veterans Day is not among its listed closures, so the exchange is not scheduled to close.",
           "Mail depends on a notice that has not come out yet. The Postal Service's events page lists Wednesday, November 11 among its 2026 holidays, but the detailed service notice for 2026 was not out when this page was written. The 2025 notice, for Tuesday, November 11, said all Post Office locations would be closed, only Priority Mail Express would be delivered, and regular service would resume the next day."
         ],
         "image": {
@@ -13067,7 +13074,7 @@ export const guides: Guide[] = [
         "heading": "When November 11 lands on a weekend",
         "body": [
           "The statute names the date, so the date does not move. What moves is the day off. Under 5 U.S.C. §6103(b), a holiday on a Saturday becomes a Friday holiday for most federal employees, and OPM applies the Monday rule for Sundays under Executive Order 11582. The table above shows the practical result. In 2028, November 11 is a Saturday and federal employees are off Friday, November 10. In 2029, it is a Sunday and they are off Monday, November 12.",
-          "The Federal Reserve does not mirror that on the Saturday side. Its schedule says that for holidays falling on a Saturday the Banks are open the preceding Friday, and for holidays on a Sunday they close the following Monday. So on Friday, November 10, 2028 a federal office can be shut while the Reserve Banks run a normal day, and on Monday, November 12, 2029 both are closed. The Reserve's published table runs through 2030, so its 2031 treatment is not yet known."
+          "The Federal Reserve does not mirror that on the Saturday side. Its schedule says that for holidays falling on a Saturday the Banks are open the preceding Friday, and for holidays on a Sunday they close the following Monday. So on Friday, November 10, 2028 a federal office can be shut while the Reserve Banks run a normal day, and on Monday, November 12, 2029 both are closed. The Reserve's published table runs through 2030, so no 2031 row was checked. Since November 11, 2031 is a Tuesday, the stated weekend-shift rules do not change that date."
         ]
       },
       {
@@ -13085,7 +13092,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Are banks closed on Veterans Day?",
-        "answer": "The Reserve Banks shut, so interbank payments pause until FedACH restarts that evening. A branch's hours are the bank's own call, and its holiday notice is the answer that counts."
+        "answer": "The Reserve Banks observe the holiday, and ACH processing stops before restarting that evening. That does not suspend every payment system: FedNow operates through holidays. A branch's hours are the bank's own call, and its holiday notice is the answer that counts."
       },
       {
         "question": "Is the post office open on Veterans Day 2026?",
@@ -13140,7 +13147,8 @@ export const guides: Guide[] = [
       {
         "label": "USPS Newsroom: U.S. Postal Service To Observe Veterans Day Holiday, Nov. 11 (2025 notice)",
         "url": "https://about.usps.com/newsroom/national-releases/2025/1029-usps-to-close-for-veterans-day-on-nov-11.htm"
-      }
+      } ,
+      {"label": "Federal Reserve: FedNow operating hours", "url": "https://www.frbservices.org/resources/financial-services/fednow-service-resources/fednow-service-operating-hours/"}
     ],
     "image": "/images/veterans-day-2026-weekend-shift.svg",
     "imageAlt": "Table of where November 11 lands from 2026 to 2031 and which day off federal employees and the Federal Reserve Banks take"
@@ -13321,7 +13329,7 @@ export const guides: Guide[] = [
     "title": "Remembrance Sunday 2026: Date and Why It Moves",
     "description": "Remembrance Sunday 2026 is Sunday, November 8. The UK holds it on the second Sunday in November, so it can fall before, on or after the 11th. Dates to 2031.",
     "published": "2026-10-08",
-    "updated": "2026-10-08",
+    "updated": "2026-10-12",
     "coreSummary": "Remembrance Sunday 2026 is Sunday, November 8. The UK holds it on the second Sunday in November, a rule announced in 1956, so it always lands between the 8th and the 14th and can fall before, on or after Armistice Day on the 11th: the 8th in 2026, the 14th in 2027 and the 11th itself in 2029. The 1946 wording, the Sunday before the 11th, would have put 2022's service on November 6 instead of the 13th. The national service at the Cenotaph in London starts at 11am with a two-minute silence.",
     "dateRule": {
       "kind": "nth-weekday",
@@ -13370,7 +13378,7 @@ export const guides: Guide[] = [
       {
         "heading": "Remembrance Sunday 2026 at a glance",
         "body": [
-          "Remembrance Sunday 2026 is Sunday, November 8. Armistice Day, November 11, follows three days later on a Wednesday. Because the day is a Sunday, no one gets an extra day off for it, and GOV.UK's list of bank holidays does not mention it or Armistice Day.",
+          "Remembrance Sunday 2026 is Sunday, November 8. Armistice Day, November 11, follows three days later on a Wednesday. The observance creates no additional statutory bank holiday, and GOV.UK's list of bank holidays does not mention it or Armistice Day.",
           "The National Service of Remembrance is held at the Cenotaph on Whitehall in London. GOV.UK had not posted a 2026 page when this one was written. Its page for 9 November 2025, published on 7 October 2025, said no tickets were needed and that the two-minute silence at 11:00 is marked by guns fired by the King's Troop on Horse Guards Parade, with the Cenotaph Service finishing at 11:25. Expect the 2026 programme to follow that shape, and check GOV.UK for the real one."
         ],
         "image": {
@@ -13422,11 +13430,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is Remembrance Sunday a bank holiday?",
-        "answer": "No. It is missing from the UK's official bank holiday dates, and a Sunday gives nobody an extra day off."
+        "answer": "It is absent from the published UK bank-holiday calendar. Marking the occasion on a Sunday adds no statutory holiday entitlement, although an employer’s own leave arrangements can differ."
       },
       {
         "question": "What time is the silence on Remembrance Sunday?",
-        "answer": "11am. Going by the 2025 programme, the guns fire at 11:00 and the ceremony finishes at 11:25. A 2026 programme had not been issued yet."
+        "answer": "11am. Going by the 2025 programme, the guns fire at 11:00 and the ceremony finishes at 11:25. No 2026 programme was identified when this page was written on October 8; consult the official event notice before attending."
       },
       {
         "question": "Why did the rule change in 1956?",

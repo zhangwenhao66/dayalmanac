@@ -175,8 +175,8 @@ export const guides: Guide[] = [
     "title": "National Boyfriend Day: October 3, and Its Unverified Origin",
     "description": "National Boyfriend Day falls on October 3 every year. The date is consistent across sources, but no founder, registration, or proclamation can be verified.",
     "published": "2026-08-02",
-    "updated": "2026-08-04",
-    "coreSummary": "National Boyfriend Day is an unofficial observance held on October 3 every year, most visible as a social media hashtag. No founder, registering organization, or government proclamation has ever been documented for it.",
+    "updated": "2026-10-12",
+    "coreSummary": "National Boyfriend Day is an unofficial observance held on October 3 every year, most visible as a social media hashtag. The sources examined identify no founder, registering organization or government proclamation for it.",
     "dateRule": {
       "kind": "fixed",
       "text": "October 3 every year. The date does not shift for weekends or weekdays.",
@@ -214,7 +214,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "Nobody can show who started National Boyfriend Day. No founder has been named. No company or organization registered it, and it appears in neither the congressional record nor any presidential proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles, none of them contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
+      "text": "The consulted accounts identify no founder, registration or government designation for National Boyfriend Day. That finding describes these materials, not an exhaustive history of every filing or proclamation. National Day Calendar, the closest thing the United States has to a registrar for observances like this, does not credit anyone and says the origin \"remains a bit of a mystery.\" Two incompatible origin stories circulate. Dictionary.com dates it to October 3, 2012 and attributes it to a group of Twitter users, naming no individual. National Today says the earliest reference it could find was to \"Boyfriend Day,\" probably dated October 4, 2014, and states outright that no single source is credited with starting it. Those two accounts are two years apart and have never been reconciled. Wikipedia carries the 2014 version, hedged as \"thought to have originated,\" citing lifestyle articles, none of them contemporaneous. Until a dated original post, a registration, or a proclamation surfaces, the honest answer is that the origin is untraceable.",
       "source": {
         "label": "National Day Calendar: National Boyfriend Day (history section)",
         "url": "https://nationaldaycalendar.com/celebrations/national-boyfriend-day-october-3"
@@ -224,29 +224,29 @@ export const guides: Guide[] = [
       {
         "heading": "What National Boyfriend Day is",
         "body": [
-          "National Boyfriend Day is an unofficial observance on October 3 set aside for acknowledging a romantic partner. Nothing organizes it and nothing is scheduled; the customs, such as they are, formed by imitation. In practice it works as a prompt for a social media post and as a slot on brand marketing calendars. September holds a different kind of naming quirk too: [this site's Corn Moon page](/corn-moon/) found that month's full moon name splits from the more familiar Harvest Moon in about one year out of three, next in 2028.",
-          "The word \"National\" in the name is honorific and carries no legal weight. Holiday Insights, which tracks this category of observance, reports finding no congressional record and no presidential proclamation behind it. That places National Boyfriend Day alongside the several thousand other \"national days\" circulating online: named by someone at some point, kept alive by repetition, recognized by no official body.",
+          "National Boyfriend Day is an unofficial observance on October 3 set aside for acknowledging a romantic partner. The sources examined describe social media posts rather than a centrally scheduled program. In practice it works as a prompt for a social media post and as a slot on brand marketing calendars. September holds a different kind of naming quirk too: [this site's Corn Moon page](/corn-moon/) found that month's full moon name splits from the more familiar Harvest Moon in about one year out of three, next in 2028.",
+          "The word \"National\" in the name is honorific and carries no legal weight. Holiday Insights, which tracks this category of observance, reports finding no congressional record and no presidential proclamation behind it. That places National Boyfriend Day alongside the several thousand other \"national days\" circulating online: named by someone at some point, kept alive by repetition, without an official designation identified in these accounts.",
           "It is often described as the counterpart to National Girlfriend Day on August 1, but that pairing is contested. National Today and National Day Calendar both define the August date as a celebration of female friendship, not of romantic partners, and Bustle states directly that there is no equivalent day for women in relationships. Only Holiday Insights treats the two as a romantic pair."
         ]
       },
       {
         "heading": "The date: October 3, every year",
         "body": [
-          "October 3 is fixed. It does not move to the nearest weekend and does not shift by weekday. National Day Calendar, National Today, Sprout Social and Wikipedia all give October 3. Holiday Insights gives October 3 as well but notes that it found a small number of references putting the day on October 4, which is the only dissent anyone has recorded. For an observance with this little documentation behind it, the date itself is unusually stable.",
-          "The name appears in three spellings: National Boyfriend Day, National Boyfriend’s Day, and National Boyfriends Day. Holiday Insights uses the plural form, most other sources use the singular. They all describe the same October 3 observance. No source was found that assigns a different date to any spelling variant.",
+          "October 3 is fixed. It does not move to the nearest weekend and does not shift by weekday. National Day Calendar, National Today, Sprout Social and Wikipedia all give October 3. Holiday Insights gives October 3 as well but notes that it found a small number of references putting the day on October 4, the only conflicting date identified in the consulted set. For an observance with this little documentation behind it, the date itself is unusually stable.",
+          "The name appears in three spellings: National Boyfriend Day, National Boyfriend’s Day, and National Boyfriends Day. Holiday Insights uses the plural form, most other sources use the singular. They all describe the same October 3 observance. No consulted source assigns a different date to any spelling variant.",
           "October 3 is a crowded date. It is also Mean Girls Day, another unofficial internet observance, which comes from a line in the 2004 film in which Cady Heron is asked what day it is and answers that it is October 3. Mean Girls Day has been marked online since around 2011, which makes it older than either proposed origin date for National Boyfriend Day. October 3 is additionally German Unity Day, an actual public holiday in Germany marking the 1990 reunification.",
           "Dictionary.com argues that the Mean Girls overlap is why boyfriend appreciation posts landed on October 3 rather than some other day: the date was already a fixture in the same corner of social media. That is a plausible reading of the timing, but it is an interpretation offered after the fact, not a documented decision by anyone."
         ]
       },
       {
-        "heading": "Nobody can show who started it",
+        "heading": "What the consulted origin accounts establish",
         "body": [
           "This is the part most calendar sites smooth over, so it is worth being specific about what does and does not exist.",
           "National Day Calendar does not credit a founder. Its entry says the exact origin \"remains a bit of a mystery\" and that the site is \"still digging for the full story.\" That matters because when a day has been registered with them by a company, a trade group, or an individual, National Day Calendar normally names that party in the history section. Here there is nobody to name.",
           "Two origin claims circulate, and they do not agree. Dictionary.com’s pop culture entry says the day began on October 3, 2012, started by a group of Twitter users writing appreciation posts about their boyfriends, and embeds a tweet from that date as an illustration. It identifies no originator. National Today gives a different account: the earliest reference it found was to \"Boyfriend Day,\" probably dated October 4, 2014, and the page states plainly that no sole source is credited with initiating it. The word \"probably\" is National Today’s own.",
           "The 2014 version is the one that spread. Wikipedia repeats it as something the day is thought to have originated from, and its citations are mostly lifestyle roundups published years later, not contemporaneous coverage. Repetition across dozens of calendar pages has hardened a hedged guess into a stated fact. Sprout Social, writing about the same observance, says flatly that it is unclear why the internet chose October at all.",
           "One frequently repeated statistic deserves a flag. Many pages, Wikipedia included, state that the day gained traction in March 2016 with more than 46,000 tweets. The same figure appears on National Today with no underlying data and no statement of what was counted or how; Wikipedia sources it to a 2023 news article rather than to any original measurement. March is also seven months away from the date the day is observed, which makes the number hard to interpret even if it is accurate. It gets copied anyway.",
-          "What would actually settle the question is a dated original post, a registration with a calendar registrar, or a proclamation. None of those has surfaced. An observance emerging from a hashtag without a founder is ordinary and not suspicious in itself. The difference here is that the sources presenting a confident origin date are presenting someone else’s guess. [National Pasta Day](/national-pasta-day/) makes a good comparison here: the October 17 date gets an undocumented 1995 founding story bolted onto it constantly, while the real World Pasta Day sits eight days later, October 25, with an actual institutional history behind it instead."
+          "What would actually settle the question is a dated original post, a registration with a calendar registrar, or a proclamation. None was identified in the consulted set. An observance emerging from a hashtag without a founder is ordinary and not suspicious in itself. The difference here is that the sources presenting a confident origin date are presenting someone else’s guess. [National Pasta Day](/national-pasta-day/) makes a good comparison here: the October 17 date gets an undocumented 1995 founding story bolted onto it constantly, while the real World Pasta Day sits eight days later, October 25, with an actual institutional history behind it instead."
         ]
       },
       {
@@ -254,7 +254,7 @@ export const guides: Guide[] = [
         "body": [
           "Marketers who build content calendars around \"National\" days run into this same problem regularly, and not always with a day this obscure. Deb Szabo, a marketing strategist, described planning a campaign around Cabernet Day and stopping to check the date first because two different observances were being listed online under similar names. The research showed they weren't the same thing at all: National Cabernet Sauvignon Day fell on August 27, while International Cabernet Sauvignon Day was September 3 in 2026, and several calendar sites had blurred the two names and dates together.",
           "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;That is why I now verify the source before building a campaign around a &lsquo;National Day&rsquo;. A date can be a useful content prompt, but the campaign still needs a genuine business message behind it.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">Deb Szabo, marketing strategist, on the Cabernet Day mix-up</p></div>",
-          "The pattern is the same one this page documents for National Boyfriend Day: a name that sounds official, a date that gets repeated without anyone checking the source, and multiple similarly-named observances that get flattened into one by sites copying each other. It's a reason to verify a specific date and origin before publishing, not just for boyfriend-related content but for any \"National [Something] Day\" a content calendar is built around. [National Adoption Day](/national-adoption-day/) is a current example, with two sites listing the wrong 2026 date.",
+          "The pattern is the same one this page documents for National Boyfriend Day: a name that sounds official, a date that gets repeated without anyone checking the source, and multiple similarly-named observances that get flattened into one by sites copying each other. It's a reason to verify a specific date and origin before publishing, not just for boyfriend-related content but for any \"National [Something] Day\" a content calendar is built around. [National Adoption Day](/national-adoption-day/) provides a dated example: its October 12 check found National Day Calendar showing the organizers’ November 21, 2026 date, while National Today still showed November 22.",
           "Tabitha Naylor, a fractional marketing leader who builds content calendars for B2B and financial services clients, points to National Boyfriend Day's own companion observance as the clearest example of the pattern. \"National Boyfriend Day isn't the exception, it's the rule. Look at National Girlfriend Day on August 1. No named founder, no documented first observance, no primary source. It exists because enough brands and posts repeated it until it felt official. That's not a holiday. It's a rumor with good SEO,\" she said.",
           "<div style=\"margin:12px 0;padding:18px 20px;background:#f8fafc;border-left:4px solid #4a5568;border-radius:8px;\"><p style=\"margin:0;font-size:1.05rem;font-style:italic;color:#1e293b;line-height:1.6;\">&ldquo;Build a campaign on a &lsquo;fact&rsquo; that falls apart the second someone checks, and you've spent credibility to save five minutes of research. Before a &lsquo;national day&rsquo; goes on the calendar, it has to survive one honest search. If I can't find a real origin, I can still ride the moment, I just frame it as a fun internet thing, not a piece of history.&rdquo;</p><p style=\"margin:8px 0 0;font-size:0.8125rem;color:#64748b;\">Tabitha Naylor, fractional marketing leader</p></div>"
         ]
@@ -262,7 +262,7 @@ export const guides: Guide[] = [
       {
         "heading": "How people mark it",
         "body": [
-          "Almost entirely by posting. The standard form is a photo of a partner with a short caption and the hashtag #NationalBoyfriendDay. There is no gift convention, no card industry, and no expected spend attached to the day, which separates it from Valentine’s Day and its $29.1 billion in [tracked annual spending](/holiday-spending-statistics/).",
+          "Almost entirely by posting. The standard form is a photo of a partner with a short caption and the hashtag #NationalBoyfriendDay. There is no gift convention, no card industry, and no expected spend attached to the day, which separates it from Valentine’s Day and its $29.1 billion in [forecast consumer spending for 2026](/holiday-spending-statistics/).",
           "A counter-tradition runs alongside the sincere posts and has proven durable. Covering the day on October 3, 2017, Bustle documented people responding by naming fictional characters, celebrities, pets and food as their boyfriends in place of real partners. That joke now accounts for a substantial share of what actually circulates on October 3, and it has been a recurring feature of the day for years, not a one-off.",
           "Brands treat the date as a scheduled opportunity. Sprout Social lists National Boyfriend Day in its social media holiday calendar and suggests that businesses post customer photos, run discounts, and build hashtag campaigns around it. This is worth knowing if you are wondering why the day appears in your feed from accounts that have no obvious connection to it."
         ]
@@ -270,8 +270,8 @@ export const guides: Guide[] = [
       {
         "heading": "Official status",
         "body": [
-          "National Boyfriend Day is not a public holiday in the United States or anywhere else. It closes nothing and confers no time off, and it has no standing in law. Federal holidays in the US are created by statute, and this is not one of them.",
-          "Many awareness observances that lack federal holiday status still have a presidential proclamation or a state resolution behind them, which gives them a traceable paper trail. National Boyfriend Day has neither. Holiday Insights specifically notes finding no documentation confirming it as a \"national\" day at all. It's one of the roughly sixteen single-day or single-week October observances this site's [National Days in October](/national-days-in-october/) page sorts by evidence, where it's flagged the same way it is here: a consistent date but no verifiable founder or registration behind it at all."
+          "National Boyfriend Day is absent from the US federal holiday list. Its name does not require closures or paid leave; local holidays and workplace policies can still affect schedules. The consulted origin accounts identify no designation instrument.",
+          "Many awareness observances that lack federal holiday status still have a presidential proclamation or a state resolution behind them, which gives them a traceable paper trail. Neither was identified for National Boyfriend Day in the consulted materials. Holiday Insights specifically notes finding no documentation confirming it as a \"national\" day at all. It's one of the nine individually covered single-day or single-week October observances this site's [National Days in October](/national-days-in-october/) page sorts by evidence, where it's flagged the same way it is here: a consistent date but no founder or registration identified in that guide’s consulted sources."
         ]
       }
     ],
@@ -286,11 +286,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who created National Boyfriend Day?",
-        "answer": "Nobody can say, and neither a founder, registrar nor proclamation has turned up. The biggest day-registry site calls the origin a mystery it is still digging into. Two other accounts point to different starting points: Dictionary.com says unnamed Twitter users began it in October 2012, while National Today's earliest find is a probable October 4, 2014 mention. Neither names a person."
+        "answer": "The cited research names no originator and supplies no filing or official declaration. The biggest day-registry site calls the origin a mystery it is still digging into. Two other accounts point to different starting points: Dictionary.com says unnamed Twitter users began it in October 2012, and the earliest mention National Today reports is probably from October 4, 2014. Neither names a person."
       },
       {
         "question": "Is National Boyfriend Day an official holiday?",
-        "answer": "No. Nothing closes, nobody gets the day off, and neither a statute nor any act of Congress or presidential decree backs it. \"National\" here is just part of the name, and no government body granted it."
+        "answer": "The federal calendar of statutory holidays does not include it. The reviewed origin accounts supply no governmental instrument, and calling a day \"National\" does not establish one. Closures and time off depend on other holidays and local or employer policies."
       },
       {
         "question": "Is National Boyfriend’s Day the same as National Boyfriend Day?",
@@ -298,7 +298,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why is National Boyfriend Day on October 3?",
-        "answer": "Nobody recorded a reason. Dictionary.com's guess is that October 3 was already claimed by Mean Girls Day, a joke from a 2004 movie that has circulated online since about 2011, so boyfriend posts piled onto it. That reading came afterward and is not a documented choice. Sprout Social calls the pick of October unexplained."
+        "answer": "No account reviewed supplies a decision recorded at the time that explains why October 3 was chosen. Dictionary.com's guess is that October 3 was already claimed by Mean Girls Day, a joke from a 2004 movie that has circulated online since about 2011, so boyfriend posts piled onto it. That reading came afterward and is not a documented choice. Sprout Social calls the pick of October unexplained."
       },
       {
         "question": "Is there a National Girlfriend Day?",
@@ -353,8 +353,8 @@ export const guides: Guide[] = [
     "title": "National Daughters Day: Date, Origin, and Why Sources Disagree",
     "description": "National Daughters Day falls on September 25 in the US, but other calendars use the fourth Sunday in September. Here is which is which, and who says what.",
     "published": "2026-08-02",
-    "updated": "2026-09-22",
-    "coreSummary": "In the United States, National Daughters Day is observed on September 25 each year. A separate observance, International Daughters Day, falls on the fourth Sunday in September and is the date used in India. The two are separate observances and are frequently conflated. Neither is an official US holiday, and no verifiable founder has ever been identified for the September 25 date.",
+    "updated": "2026-10-12",
+    "coreSummary": "In the United States, National Daughters Day is observed on September 25 each year. A separate observance, International Daughters Day, falls on the fourth Sunday in September and is the date used in India. The two are separate observances and are frequently conflated. Neither is an official US holiday, and no founder is identified in the consulted sources for the September 25 date.",
     "dateRule": {
       "kind": "fixed",
       "text": "September 25 every year",
@@ -392,7 +392,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "No one has produced a founder, a registration, or a proclamation for the September 25 observance. National Day Calendar, the largest US registrar of these days, says on its own entry that it \"continues researching the origins of this family holiday.\" Snopes, which searched newspaper archives in 2021, concluded that the exact origins of a late-September National Daughters Day are unclear. The claim repeated across most listicle sites, that the Indian greeting card company Archies Limited created the day in 2007, is a real claim with a real interview behind it, but it describes the Indian observance on the fourth Sunday in September rather than the American September 25 date, and in that 2007 interview the company's managing director took only partial credit for the idea. The oldest American records point somewhere else again: a 1932 newspaper mention of a Daughters of Union Veterans event, and a 1950 congressional bill for a date in April.",
+      "text": "The sources examined identify no founder, registration or proclamation for the September 25 observance. National Day Calendar, the largest US registrar of these days, says on its own entry that it \"continues researching the origins of this family holiday.\" Snopes, which searched newspaper archives in 2021, concluded that the exact origins of a late-September National Daughters Day are unclear. The claim repeated across most listicle sites, that the Indian greeting card company Archies Limited created the day in 2007, is a real claim with a real interview behind it, but it describes the Indian observance on the fourth Sunday in September rather than the American September 25 date, and in that 2007 interview the company's managing director took only partial credit for the idea. The oldest American records point somewhere else again: a 1932 newspaper mention of a Daughters of Union Veterans event, and a 1950 congressional bill for a date in April.",
       "source": {
         "label": "Snopes: fact check on the origins of National Daughters Day (2021)",
         "url": "https://www.snopes.com/fact-check/national-daughters-day-privacy/"
@@ -403,8 +403,8 @@ export const guides: Guide[] = [
         "heading": "What National Daughters Day is",
         "body": [
           "National Daughters Day is an informal observance in which parents, grandparents, and other relatives mark the daughters in their lives, most visibly by posting about them on social media. In the United States it is kept on September 25.",
-          "It carries no official status. There is no presidential proclamation and no act of Congress behind it, which puts it in a different category from Mother's Day, designated by Congress in 1914. Snopes, reviewing the day in 2021, described it plainly as not an officially designated special day in the United States. That is not a knock on it. Most of the days on any given calendar are unofficial, kept because enough people decided to keep them. But it does mean there is no authority to appeal to when sources disagree about the date, which is exactly what has happened here.",
-          "No single body organizes the day, and nothing has been registered or incorporated around it. What it has is a hashtag and a widely shared date. [This site's National Pepperoni Pizza Day page](/national-pepperoni-pizza-day/) documents the same kind of blank: National Day Calendar registers that date too, while saying plainly it is still researching who actually started it."
+          "The consulted records identify no presidential proclamation or enacted designation for the September 25 observance, which puts it in a different category from Mother's Day, designated by Congress in 1914. Snopes, reviewing the day in 2021, described it plainly as not an officially designated special day in the United States. That is not a knock on it. Most of the days on any given calendar are unofficial, kept because enough people decided to keep them. But it does mean there is no authority to appeal to when sources disagree about the date, which is exactly what has happened here.",
+          "The consulted accounts identify no central organizer or founding registration. What it has is a hashtag and a widely shared date. [This site's National Pepperoni Pizza Day page](/national-pepperoni-pizza-day/) documents the same kind of blank: National Day Calendar lists that date too, while saying plainly it is still researching who actually started it."
         ]
       },
       {
@@ -423,7 +423,7 @@ export const guides: Guide[] = [
           "Nearly every page about this day tells the same origin story: the Indian greeting card company Archies Limited created Daughters Day in 2007 to counter the stigma attached to having a daughter rather than a son. Unusually for a widely copied claim, there is something real underneath it. In a 2007 interview quoted by Snopes, Archies managing director Anil Moolchandani discussed the company's push behind the occasion, framing it as an effort to counter gender discrimination and to make the case that a daughter is no lesser than a son. He described the idea growing out of a conversation with census officials about the situation of the girl child, followed by the company canvassing parents and members of the public.",
           "Two things get lost when that story is compressed into a one-line origin. The first is that Moolchandani claimed partial responsibility, not authorship. The second, and more consequential, is that the observance he was describing is the Indian one on the fourth Sunday in September. Using it to explain the American September 25 date quietly merges two observances that the same sources otherwise keep apart. A greeting card company promoting a card-buying occasion also has an obvious commercial interest in being remembered as its originator, which is worth holding in mind without treating it as disqualifying.",
           "The older American thread runs somewhere else entirely. Snopes found the earliest reference to a National Daughters Day in a December 1932 news article about a celebration run by a Vermont chapter of the Daughters of Union Veterans, with scattered mentions following in 1939, 1940, and 1949. Then, in the spring of 1950, the idea reached Congress. The Congressional Record for March 31, 1950 shows Representative Tom Steed of Oklahoma introducing, by request, \"H. R. 7938. A bill designating the second Sunday in April as National Daughter's Day,\" referred to the Committee on the Judiciary. It died there. The phrase \"by request\" is a standing congressional convention indicating that a member is introducing a measure on someone else's behalf rather than championing it, so even this record does not name the person behind the idea.",
-          "After the 1950s the day drops out of American archives almost entirely, and does not reappear until scattered social media mentions in the 2010s. Snopes traced its modern spread to posts by prominent celebrities from 2015 onward rather than to any organization or campaign. So the honest position is that the September 25 observance has no traceable founder. What can be documented is a failed 1950 bill for a different date, and an Indian observance on a different date whose promoter took partial credit. [This site's National Wildlife Day page](/national-wildlife-day/) runs into a related but different problem: a founder is actually named there, Colleen Paige, yet sources can't agree on whether she started it in 2005 or 2006."
+          "Snopes’s 2021 archival search reported few mentions after the 1950s before the social media references it found in the 2010s. That search does not establish an absence from all American records. Snopes traced its modern spread to posts by prominent celebrities from 2015 onward rather than to any organization or campaign. So the honest position is that the September 25 observance has no traceable founder. What can be documented is a failed 1950 bill for a different date, and an Indian observance on a different date whose promoter took partial credit. [This site's National Wildlife Day page](/national-wildlife-day/) runs into a related but different problem: a founder is actually named there, Colleen Paige, yet sources can't agree on whether she started it in 2005 or 2006."
         ]
       },
       {
@@ -440,7 +440,7 @@ export const guides: Guide[] = [
           "International Daughters Day, the fourth Sunday in September, is the closest neighbor and the source of most of the date confusion. It is a separate listing with a separate history, not an alternative name for the September 25 day.",
           "National Son's and Daughter's Day falls on August 11 and covers children of both sexes. Its own origins are similarly murky. National Day Calendar traces an August 11 observance back to a 1988 Canadian newspaper mention and describes earlier, unrelated efforts, including a 1936 push by J. Henry Dusenberry in Missouri and a 1970s congressional request that proposed the last Sunday in January. Like National Daughters Day, it never became official.",
           "The International Day of the Girl Child, October 11, is the one observance in this cluster with unambiguous provenance. The United Nations General Assembly adopted resolution 66/170 on December 19, 2011 to establish it. If you want a date in this territory that is documented, not inferred, that is the one.",
-          "Take Our Daughters to Work Day, which began in 1992 and later expanded to include sons, is sometimes cited as a precursor. Snopes notes it as a separate development that ran during the decades when National Daughters Day itself had vanished from American records. Food-themed observances run into an identical gap: [this site's National Nachos Day page](/national-nachos-day/) can document exactly when the dish itself was invented, 1943, while still finding no founder on record for the November 6 observance built around it."
+          "Take Our Daughters to Work Day, conceived in 1992 and first observed in 1993 before later expanding to include sons, is sometimes cited as a precursor. Snopes notes it as a separate development that ran during the decades for which its own search found few National Daughters Day references. Food-themed observances run into an identical gap: [this site's National Nachos Day page](/national-nachos-day/) can document exactly when the dish itself was invented, 1943, while still finding no founder on record for the November 6 observance built around it."
         ]
       }
     ],
@@ -467,11 +467,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who created National Daughters Day?",
-        "answer": "Nobody has documented a founder. The registry itself admits its research into the origin is still ongoing, and Snopes reached the same conclusion in its 2021 review. The story that gets repeated everywhere, crediting Archies, an Indian greeting-card company, with starting the day in 2007, actually describes the fourth-Sunday India observance, and in that same 2007 interview, the company's own director claimed only part of the credit."
+        "answer": "No originator is named in the materials reviewed. The registry itself admits its research into the origin is still ongoing, and Snopes reached the same conclusion in its 2021 review. The story that gets repeated everywhere, crediting Archies, an Indian greeting-card company, with starting the day in 2007, actually describes the fourth-Sunday India observance, and in that same 2007 interview, the company's own director claimed only part of the credit."
       },
       {
         "question": "Is National Daughters Day an official US holiday?",
-        "answer": "No. Congress has never passed anything establishing it, and no president has proclaimed it, so it carries no federal status. Businesses stay open and nobody gets time off. It came closest to becoming official back in March 1950, when Tom Steed, an Oklahoma congressman, put forward H.R. 7938, proposing April's second Sunday as the date instead. The House Judiciary Committee received the bill and let it die there."
+        "answer": "The American occasion on September’s 25th is not a statutory federal day off. The records examined supply no government instrument establishing that date, and this observance does not require closures or leave. A separate proposal appeared in March 1950, when Tom Steed, an Oklahoma congressman, put forward H.R. 7938, proposing April's second Sunday as the date instead. The House Judiciary Committee received the bill and let it die there."
       },
       {
         "question": "Why do some websites say the fourth Sunday in September?",
@@ -479,11 +479,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "How is National Daughters Day different from National Son's and Daughter's Day?",
-        "answer": "Different date, different scope. The August version, kept on the 11th, includes sons alongside daughters, while the September 25 one is specific to daughters. Neither carries any official recognition, and neither has a documented founder."
+        "answer": "Different date, different scope. The August version, kept on the 11th, includes sons alongside daughters, while the September 25 one is specific to daughters. For those two dates, the accounts reviewed give no named creator or governmental founding document."
       },
       {
         "question": "Is there two Daughters Day?",
-        "answer": "Actually three, not two. The US date sits on September 25. The India-originated version tracks to September's fourth Sunday. And an older, broader occasion covering both sons and daughters sits on the 11th of August. All three get merged in casual use because their names overlap and their dates sit within weeks of each other."
+        "answer": "Actually three, not two. The American occasion is dated the 25th of September. The India-linked event follows September's fourth Sunday. And an older, broader occasion covering both sons and daughters sits on the 11th of August. All three get merged in casual use because their names overlap and their dates sit within weeks of each other."
       }
     ],
     "sources": [
@@ -518,6 +518,10 @@ export const guides: Guide[] = [
       {
         "label": "National Today: National Daughters Day (September 25; describes origins as obscure)",
         "url": "https://nationaltoday.com/national-daughters-day/"
+      },
+      {
+        "label": "Ms. Foundation: 1993 Take Our Daughters to Work milestone",
+        "url": "https://forwomen.org/highlights-milestones/"
       }
     ],
     "image": "/images/national-daughters-day.jpg",
@@ -530,11 +534,11 @@ export const guides: Guide[] = [
     "title": "National Sons Day: March 4, and Why September 28 Keeps Showing Up",
     "description": "National Sons Day is listed on March 4 by the registries that track it. September 28 circulates widely online but has no traceable origin. Here is the evidence.",
     "published": "2026-08-02",
-    "updated": "2026-09-16",
+    "updated": "2026-10-12",
     "image": "/images/national-sons-day.jpg",
     "imageAlt": "A father and son together outdoors",
     "imageCredit": "Photo by [Clem Onojeghuo](https://unsplash.com/@clemono2) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_father_and_son_on_a_ride_(Unsplash).jpg), CC0",
-    "coreSummary": "National Sons Day is observed on March 4, the date created by Jill Nico in 2018 and listed by National Day Calendar and Checkiday. A second date, September 28, is repeated by many calendar sites and by most social media posts about the day, but no source has produced a founder, a registration, or a first observance for it.",
+    "coreSummary": "National Sons Day is observed on March 4, the date created by Jill Nico in 2018 and listed by National Day Calendar and Checkiday. A second date, September 28, is repeated by many calendar sites and by most social media posts about the day, but the sources examined identify no founder, registration or first observance for it.",
     "dateRule": {
       "kind": "fixed",
       "text": "March 4 every year. The date is fixed and does not move for weekends.",
@@ -572,7 +576,7 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "documented",
-      "text": "The March 4 observance has a named founder. Jill Nico created National Sons Day in 2018, and National Day Calendar credits her by name in its history section for the day. Checkiday also credits her and dates annual observance from 2019. The September 28 date has no comparable provenance: nobody has produced a founder, an organizing body, a registration, or a documented first observance for it, and the researcher who looked hardest at it concluded there is nothing there to find.",
+      "text": "The March 4 observance has a named founder. Jill Nico created National Sons Day in 2018, and National Day Calendar credits her by name in its history section for the day. Checkiday also credits her and dates annual observance from 2019. The September 28 date has no comparable provenance: the consulted sources identify no founder, organizing body, registration or first observance for it; Checkiday’s 2022 researcher likewise reported finding no origin for that date.",
       "source": {
         "label": "National Day Calendar - National Sons Day history",
         "url": "https://www.nationaldaycalendar.com/national-day/national-sons-day-march-4"
@@ -584,7 +588,7 @@ export const guides: Guide[] = [
         "body": [
           "Search for National Sons Day and you will get two answers. March 4 is the date held by the sources that document where observances come from. National Day Calendar lists it on March 4 and names its founder. Checkiday lists it on March 4. Days of the Year lists it on March 4. All three trace the day to the same person and the same year.",
           "September 28 is held by a different kind of source. Aggregator calendars such as WinCalendar place it at the end of September. Calendarr lists both dates and describes the situation as unsettled. Most of the volume, though, is not calendar sites at all: it is social posts, seasonal roundups, and quote lists that appear every year in late September, plus press coverage that follows the posts more than it leads them. WinCalendar's own entry says only that the day is typically celebrated around the end of September. It gives no founder and no year.",
-          "Neither date is a federal holiday. Coverage that has looked into it, including a USA Today piece syndicated widely, describes National Sons Day as a quasi-holiday: real in the sense that people observe it, unofficial in the sense that no government body established it. [National Wife Appreciation Day](/national-wife-appreciation-day/) carries the same quasi-holiday label for a different reason: its date is agreed on, the third Sunday in September, but it moves every year and nobody has ever put a name to who set it."
+          "Neither date is a federal holiday. Coverage that has looked into it, including a USA Today piece syndicated widely, describes National Sons Day as a quasi-holiday: real in the sense that people observe it, unofficial in the sense that no government designation was identified in the consulted accounts. [National Wife Appreciation Day](/national-wife-appreciation-day/) carries the same quasi-holiday label for a different reason: its date is agreed on, the third Sunday in September, but it moves every year and the materials examined for that guide identify no founder for the date."
         ]
       },
       {
@@ -592,7 +596,7 @@ export const guides: Guide[] = [
         "body": [
           "Jill Nico created National Sons Day in 2018. Her stated reason was straightforward: a day for daughters already existed and there was no equivalent for sons. National Day Calendar's National Daughter's Day sits on September 25, and Nico positioned her day as its counterpart.",
           "The explanations for why she picked March 4 specifically do not fully agree across sources, which is worth being honest about. National Day Calendar says there is no single reason, and reports the founder's account that spring seemed right, that the date carries momentum when it is spoken aloud, and that many sons play spring sports. Days of the Year gives a different pair of reasons: that March sits opposite National Daughter's Day on the calendar, and that the number four is personally significant to the founder. A third explanation circulating on smaller sites reads the date as the pun march forth. Only the first two trace back to the founder in any direct way, and they were written up by different editors, so the date-choice story should be treated as loose rather than settled.",
-          "What is not loose is the attribution itself. A named person created the day in a known year, submitted it, and maintains a public page for it. That is more documentation than most informal observances of this size can offer. [National Wildlife Day](/national-wildlife-day/) has a named founder too, Colleen Paige, but even her own record is looser than Nico's: sources can't settle on whether she started it in 2005 or the year after."
+          "What is not loose is the attribution itself. A named person created the day in a known year, submitted it, and maintains a public page for it. That is more documentation than most informal observances of this size can offer. [National Wildlife Day](/national-wildlife-day/) has a named founder too, Colleen Paige, but the secondary accounts cited in that guide disagree between 2005 and 2006; its attempted current founder-site verification did not resolve the discrepancy."
         ]
       },
       {
@@ -607,7 +611,7 @@ export const guides: Guide[] = [
         "heading": "One observance or two?",
         "body": [
           "Some sites present the two dates as two separate observances with different lineages: September 28 as the older date inherited from the 1990s workplace effort, and March 4 as a modern revival by Nico. The reading is tidy, and it is the one most likely to be repeated back at you.",
-          "The problem is that the 1990s effort never observed September 28. Its events were in May. Handing September the older lineage gives it a provenance the archives do not support. The better-supported reading is that there is one documented observance, March 4, plus a second date that spread on its own and now has real usage behind it but no origin behind it.",
+          "The cited archival account records May events for the 1990s effort and supplies no connection to September 28. Handing September the older lineage gives it a provenance the archives do not support. The better-supported reading is that there is one documented observance, March 4, plus a second date that spread on its own and now has real usage behind it but no origin behind it.",
           "That distinction matters less to families than to anyone publishing a calendar. If you are a parent posting a photo in late September, you are participating in something genuine regardless of where the date came from. If you are printing a school newsletter or scheduling a program, the difference between a date with a founder and a date without one is the whole question."
         ]
       },
@@ -616,7 +620,7 @@ export const guides: Guide[] = [
         "body": [
           "Nothing about National Sons Day is transactional: no gift convention formed around it, and greeting-card publishers have left it alone. In practice it is a social media day. Parents post photographs with the hashtag, write a few lines about a son, and that is the extent of it for most people.",
           "National Day Calendar's suggestions for the day lean practical rather than sentimental: teach a son a specific skill he will need, such as changing a tire or handling a bank account; find or become a mentor for boys without a male role model in their lives; pass along something your own father taught you; take a photograph with all the sons together. Organizations that mentor boys tend to see the day as a low-cost hook for recruitment posts, not a fundraising moment.",
-          "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is the April workplace program once called Take Our Daughters and Sons to Work Day: Junior Achievement took it over in 2024 and now runs it each spring as Take a Child to Work Day and Beyond, a scheduled program with participating employers rather than a hashtag. [National Nachos Day](/national-nachos-day/) is observed in much the same hashtag-and-photo way, even though the dish behind it has an unusually solid paper trail: a documented 1943 invention that the observance itself, on November 6, has never been tied to a founder or a registration."
+          "Because the day is unofficial, schools and workplaces rarely mark it. The one adjacent observance that does have institutional traction is the April workplace program once called Take Our Daughters and Sons to Work Day: Junior Achievement’s January 2025 announcement said it had assumed leadership and would hold the renamed Take a Child to Work Day and Beyond on April 24, 2025, a scheduled program with participating employers rather than a hashtag. [National Nachos Day](/national-nachos-day/) is observed in much the same hashtag-and-photo way, even though the dish behind it has an unusually solid paper trail: a documented 1943 invention that the observance itself, on November 6, has no founding person or registration identified in the sources consulted for that guide."
         ]
       },
       {
@@ -624,7 +628,7 @@ export const guides: Guide[] = [
         "body": [
           "If you need one date and you need to defend it, use March 4. It is the date with a named founder, a registry listing, and a documented year of creation. Anything published on a school calendar, a newsletter, or a client-facing schedule should use it.",
           "If your audience lives on social media, expect the traffic in late September anyway, and there is nothing dishonest about acknowledging that. Marking the day in September because that is when the people around you mark it is fine. Stating that September 28 is the official date is not, because there is no evidence for it and there is direct evidence against it from the people who research these dates for a living.",
-          "The safest phrasing, if you have to write one line about it: National Sons Day is observed on March 4, and also widely marked on September 28. [National Burrito Day](/national-burrito-day/) needs no such hedge on the date itself, the first Thursday of every April, but it shares this page's other gap: no person, company, or filing has ever been tied to starting it."
+          "The safest phrasing, if you have to write one line about it: National Sons Day is observed on March 4, and also widely marked on September 28. [National Burrito Day](/national-burrito-day/) needs no such hedge on the date itself, the first Thursday of every April, but it shares this page's other gap: no person, company or founding filing was identified in that guide’s examined sources."
         ]
       }
     ],
@@ -639,15 +643,15 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who created National Sons Day?",
-        "answer": "The March 4 date traces to Jill Nico, who submitted the observance in 2018. That March 4 credit comes directly from the site that lists her history with the day, and Checkiday backs it up independently. Nobody has ever identified a founder for the September 28 version."
+        "answer": "The March 4 date traces to Jill Nico, who submitted the observance in 2018. That March 4 credit comes directly from the site that lists her history with the day, and Checkiday backs it up independently. For the late-September version, the reviewed accounts provide no named creator."
       },
       {
         "question": "Is National Sons Day an official or federal holiday?",
-        "answer": "No. Neither date has federal status, and nothing closes for it. Press coverage sometimes calls this a quasi-holiday: people genuinely mark the day, but no official agency, state or federal, ever put it on the books."
+        "answer": "Neither date is on the US federal holiday list, and observing it does not require closures or paid leave. Press coverage calls it a quasi-holiday because people mark it informally; the origin accounts examined do not supply an official founding instrument."
       },
       {
         "question": "Is National Sons Day the same as Take Our Sons to Work Day?",
-        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization by the same name in 1996, holding its own workplace-visit event once a year, early May, always a Thursday. A few aggregators put the founding two years later, in 1998. That 2003 merger with the daughters' program became a joint workplace-visit day, since renamed again after a national youth-education nonprofit stepped in to run it starting 2024. The modern March 4 date is unrelated: Jill Nico came up with it independently in 2018."
+        "answer": "No, though the two are historically tangled. A group of New Jersey students founded an organization by the same name in 1996, holding its own workplace-visit event once a year, early May, always a Thursday. A few aggregators put the founding two years later, in 1998. That 2003 merger with the daughters' program became a joint workplace-visit day, renamed after Junior Achievement assumed leadership, as announced in January 2025 for the April 24 event that year. The modern March 4 date is unrelated: Jill Nico came up with it independently in 2018."
       },
       {
         "question": "Is there a National Daughters Day as well?",
@@ -655,7 +659,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is March 4, 2026 National Sons Day?",
-        "answer": "Yes. This one doesn't move: March 4, no matter what day of the week it lands on. Why the founder picked that exact date isn't fully settled: one registry attributes to Jill Nico the idea that spring felt like the right season and that the date has an energetic ring when said out loud, while other sites gloss that same idea as the pun \"march forth,\" a phrasing that has never been traced back to Nico directly. A second, unofficial version of the day is also widely observed on September 28, but neither date carries government recognition."
+        "answer": "Yes. This one doesn't move: March 4, no matter what day of the week it lands on. Why the founder picked that exact date isn't fully settled: one registry attributes to Jill Nico the idea that spring felt like the right season and that the date has an energetic ring when said out loud, while other sites gloss that same idea as the pun \"march forth,\" a phrasing that has never been traced back to Nico directly. A second, unofficial version of the day is also widely observed on September 28, but the records reviewed supply no governmental declaration creating either occasion."
       },
       {
         "question": "When is National Sons Day in 2027?",
@@ -899,7 +903,7 @@ export const guides: Guide[] = [
     "title": "National Grandparents Day: The Date Rule in US Federal Law",
     "description": "National Grandparents Day falls on the first Sunday in September after Labor Day, not the first Sunday in September. The statutory rule, explained.",
     "published": "2026-08-02",
-    "updated": "2026-08-09",
+    "updated": "2026-10-12",
     "image": "/images/national-grandparents-day.jpg",
     "imageAlt": "Grandparents holding two young grandchildren outdoors",
     "imageCredit": "Photo by sylviebliss via [Pixabay](https://pixabay.com/en/grandparents-grandmother-people-1969824/) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grandparents-1969824.jpg), CC0",
@@ -961,7 +965,7 @@ export const guides: Guide[] = [
         "body": [
           "The most common error about this date is a paraphrase that drops Labor Day entirely and calls it the first Sunday in September. It appears in calendar listings, school newsletters, and greeting-card marketing. It is not a minor rewording. It produces a different date in most years, and the gap is always exactly one week.",
           "The arithmetic is easy to check. The first Sunday in September falls somewhere between September 1 and September 7. The statutory date falls between September 7 and September 13. The two ranges overlap at a single point, September 7, and they only meet there when September 1 happens to be a Monday. In that case Labor Day is September 1, the Sunday after it is September 7, and the first Sunday of the month is also September 7. September 1 fell on a Monday in 2025, and will next in 2031.",
-          "In every other year the paraphrase is off by seven days. Take 2026: Labor Day is Monday, September 7, so National Grandparents Day is Sunday, September 13. The first Sunday in September 2026 is the 6th, a full week earlier and the day before Labor Day itself. The same seven-day gap holds for 2027, 2028, 2029 and 2030. If you have seen an early-September date for this observance and September 1 that year was not a Monday, you were looking at the wrong rule. [National Adoption Day](/national-adoption-day/) shows a similar slip: two calendar sites list Sunday, November 22, 2026, while the organizers give Saturday, November 21."
+          "In every other year the paraphrase is off by seven days. Take 2026: Labor Day is Monday, September 7, so National Grandparents Day is Sunday, September 13. The first Sunday in September 2026 is the 6th, a full week earlier and the day before Labor Day itself. The same seven-day gap holds for 2027, 2028, 2029 and 2030. If you have seen an early-September date for this observance and September 1 that year was not a Monday, you were looking at the wrong rule. [National Adoption Day](/national-adoption-day/) shows why a listing needs a dated check: on October 12, 2026, that guide found National Day Calendar giving the organizers’ Saturday, November 21 date, while National Today still listed Sunday, November 22."
         ]
       },
       {
@@ -971,13 +975,13 @@ export const guides: Guide[] = [
           "The first step was a one-year proclamation. On August 3, 1978, President Jimmy Carter signed Proclamation 4580, which designated \"Sunday, September 10, 1978, as 'National Grandparents Day.'\" That proclamation set no ongoing rule and cited no act of Congress. It covered a single date in a single year.",
           "The second step created the recurring observance. H.J. Res. 244 passed the House on July 27, 1979 and the Senate on August 3, 1979, and was approved on September 6, 1979 as Public Law 96-62 (93 Stat. 410). Its operative text reads that \"the President is authorized and requested to issue a proclamation designating the first Sunday of September after Labor Day as 'National Grandparents Day', and calling upon the people of the United States and interested groups and organizations to observe such day with appropriate ceremonies and activities.\" The wording shifted as it moved: the resolution's caption says annually and following Labor Day of each year, the operative sentence says neither, and the codified version at 36 U.S.C. § 125 says each year. All three refer to the same observance. Carter issued the matching proclamation, number 4679, the same day, naming \"Sunday, September 9, 1979 and the first Sunday following Labor Day in each succeeding year\" as the observance.",
           "That 1979 resolution was codified as 36 U.S.C. § 142b. When Congress reorganized Title 36 in 1998 under Pub. L. 105-225, the provision was restated without substantive change at its current address, 36 U.S.C. § 125. The Historical and Revision Notes printed with § 125 still trace it back to the September 6, 1979 statute.",
-          "A caution on sources: many otherwise careful accounts, including some archival and encyclopedia entries, say that Carter signed the grandparents legislation in 1978. The Statutes at Large do not support that. The 1978 item is a proclamation covering one day, and the annual statute is dated 1979. Public Law 95-276, occasionally cited for this observance, is unrelated; it is a May 10, 1978 joint resolution appointing a citizen regent to the Smithsonian Board of Regents. Not every calendar date comes with this much paperwork: this site's [National Apple Day page](/national-apple-day/) found one of the few observances with an equally well-documented founder, Britain's Common Ground charity in 1990, on a calendar otherwise dominated by untraceable origins."
+          "A caution on sources: many otherwise careful accounts, including some archival and encyclopedia entries, say that Carter signed the grandparents legislation in 1978. The Statutes at Large do not support that. The 1978 item is a proclamation covering one day, and the annual statute is dated 1979. Public Law 95-276, occasionally cited for this observance, is unrelated; it is a May 10, 1978 joint resolution appointing a citizen regent to the Smithsonian Board of Regents. Not every calendar date comes with this much paperwork: this site's [National Apple Day page](/national-apple-day/) found one of the few observances with an equally well-documented founder, Britain's Common Ground charity in 1990, alongside entries whose consulted sources identify no founder."
         ]
       },
       {
         "heading": "What the designation does and does not do",
         "body": [
-          "National Grandparents Day is an observance, not a federal holiday. The list of legal public holidays in 5 U.S.C. § 6103(a) runs from New Year's Day to Christmas Day and does not include it. No federal offices close, no employees receive paid leave, and no pay or leave rules attach to the date.",
+          "National Grandparents Day is an observance, not a federal holiday. The list of legal public holidays in 5 U.S.C. § 6103(a) runs from New Year's Day to Christmas Day and does not include it. Section 125 supplies no office-closure, pay or leave entitlement. Separate holiday rules and workplace policies can still affect schedules.",
           "The statute is also unusually indirect in its drafting. It does not declare the day itself. It requests that the President issue a proclamation each year doing so, which is standard construction for observances in Title 36 and is why a fresh presidential proclamation typically appears each September. The underlying date rule does not depend on whether a given proclamation is issued.",
           "One practical consequence of the rule is that the observance always falls on a Sunday, and always on the Sunday of the weekend following the Labor Day long weekend. Schools and community organizations that schedule events around it are working with a date that shifts by up to six days between years, which is the usual reason listings drift out of sync."
         ]
@@ -1003,7 +1007,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Grandparents Day a federal holiday in the United States?",
-        "answer": "No. It is a designated observance, not a statutory day off. The statutory list of federal holidays leaves this one out. Being a Sunday observance every year, it leaves federal office schedules untouched, no paid leave attaches, and the statute merely asks the President to issue a yearly proclamation."
+        "answer": "No. It is a designated observance, not a statutory day off. The statutory list of federal holidays leaves this one out. Being a Sunday observance every year, its designation creates no federal closure or paid-leave entitlement, and the statute merely asks the President to issue a yearly proclamation."
       },
       {
         "question": "Who started National Grandparents Day?",
@@ -1079,8 +1083,8 @@ export const guides: Guide[] = [
     "title": "National Boss's Day: October 16, and the Rule Nobody Signed Off On",
     "description": "National Boss's Day falls on October 16 every year, registered by Patricia Bays Haroski in 1958. The weekend-shift rule widely repeated for it has no traceable source.",
     "published": "2026-08-02",
-    "updated": "2026-09-29",
-    "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation is available to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
+    "updated": "2026-10-12",
+    "coreSummary": "National Boss's Day is observed on October 16 in the United States, a date Patricia Bays Haroski registered with the U.S. Chamber of Commerce in 1958 and Illinois Governor Otto Kerner proclaimed in 1962. Calendar sites, Hallmark, and Wikipedia's infobox all state that the observance moves to the nearest working day when October 16 falls on a weekend, but no primary record of the 1958 registration or the 1962 proclamation was located in the consulted set to confirm that the weekend shift was ever part of the original rule rather than a later convenience.",
     "dateRule": {
       "kind": "fixed",
       "text": "October 16 every year in the United States, the date Patricia Bays Haroski chose in 1958 because it was her father's birthday. The calendar date itself does not move.",
@@ -1114,11 +1118,11 @@ export const guides: Guide[] = [
           "weekday": "Thursday"
         }
       ],
-      "caveat": "Hallmark's corporate site, Wikipedia's infobox, and the calendar site Digital Hygge all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day: Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski's 1958 Chamber of Commerce registration nor Governor Kerner's 1962 proclamation is available online to confirm whether a weekend-shift clause belonged to the original rule or was added later as a convenience, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
+      "caveat": "Hallmark's corporate site, Wikipedia's infobox, and the calendar site Digital Hygge all state that when October 16 falls on a Saturday or Sunday, workplace observance moves to the nearest working day: Friday for a Saturday, Monday for a Sunday. That convention is repeated consistently, but it is not attached to any primary document: neither Haroski’s 1958 Chamber of Commerce registration nor Governor Kerner’s 1962 proclamation was located in the online sources examined to confirm whether a weekend-shift clause belonged to the original rule or was added later as a convenience, and Wikipedia's own account of the underlying origin story carries an unresolved citation-needed tag. This page lists October 16 itself for every year; readers whose office follows the nearest-working-day convention should apply it themselves for 2027 (shifts to Friday the 15th) and 2032 (a Saturday, shifting to Friday the 15th)."
     },
     "founding": {
       "status": "documented",
-      "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday (he was also her boss at the time), and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and the calendar site Digital Hygge, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and no scan turns up a reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation. Every account, including this one, repeats a secondhand telling; none of them point at the primary document.",
+      "text": "Patricia Bays Haroski, a secretary at State Farm Insurance Company in Deerfield, Illinois, registered \"National Boss' Day\" with the U.S. Chamber of Commerce in 1958. She picked October 16 because it was her father's birthday (he was also her boss at the time), and said her goal was to encourage better understanding between employees and supervisors. Illinois Governor Otto Kerner backed the registration with a state proclamation four years later, in 1962. The story is repeated consistently across Hallmark's corporate site, Wikipedia, and the calendar site Digital Hygge, with the same name, employer, city, and reason for the date each time, which is more than most \"national day\" origins on this calendar can show. It falls short of fully documented, though: Wikipedia flags the founding sentence itself with a citation-needed tag, and the consulted set supplies no reproduction of the actual 1958 registration filing or the 1962 gubernatorial proclamation. Every account, including this one, repeats a secondhand telling; none of them point at the primary document.",
       "source": {
         "label": "Hallmark Corporate: National Boss Day",
         "url": "https://corporate.hallmark.com/holidays-occasions/national-boss-day/"
@@ -1128,7 +1132,7 @@ export const guides: Guide[] = [
       {
         "heading": "What National Boss's Day is",
         "body": [
-          "National Boss's Day is an informal US observance held on October 16, aimed at employees thanking supervisors for fair and supportive management over the year. It is not a public holiday: no federal or state law requires it, government offices and banks operate on a normal schedule, and there is no day off attached to it. In 2026 it falls on a Friday.",
+          "National Boss's Day is an informal US observance held on October 16, aimed at employees thanking supervisors for fair and supportive management over the year. It is not a public holiday: it is not on the federal holiday list, and the materials examined identify no statute requiring its observance. Other holidays and workplace policies can affect closures or leave. In 2026 it falls on a Friday.",
           "The day works mainly through workplace gestures (cards, small gifts, a team lunch) rather than through any organized civic or religious observance. Hallmark's own history of the day, and its slow initial rollout of Boss's Day cards, is the clearest evidence of how commercial the day's growth has been, not how official its founding was."
         ]
       },
@@ -1148,7 +1152,7 @@ export const guides: Guide[] = [
         "heading": "Does the date actually move on a weekend?",
         "body": [
           "This is the question this page exists to answer honestly, because most calendar sites answer it without showing their work. Hallmark's corporate site states plainly that \"if the holiday falls on a weekend, it is celebrated on the closest work day,\" and Wikipedia's infobox lists the date as \"October 16 (or nearest working day),\" a formulation Digital Hygge repeats as well.",
-          "The trouble is tracing that clause back to anything. Haroski's 1958 registration and Kerner's 1962 proclamation are the only two events anyone points to as the founding record, and neither is available online to check whether a weekend adjustment was part of the original design or added later by convenience. It is entirely plausible that the shift is just an obvious practical accommodation (thanking a boss on a Saturday when nobody is in the office makes little sense) that calendar sites adopted independently of one another and that has since hardened into an assumed rule.",
+          "The trouble is tracing that clause back to anything. Haroski's 1958 registration and Kerner's 1962 proclamation are the only two events anyone points to as the founding record, and neither was located in the consulted sources to check whether a weekend adjustment was part of the original design or added later by convenience. It is entirely plausible that the shift is just an obvious practical accommodation (thanking a boss on a Saturday when nobody is in the office makes little sense) that calendar sites adopted independently of one another and that has since hardened into an assumed rule.",
           "Because that clause cannot be attributed to a primary source, this page's date table lists October 16 itself in every year, including the years it lands on a weekend (2027 and 2032). Readers whose workplace follows the nearest-working-day convention can apply it themselves: in 2027, October 16 is a Saturday, so the office observance under that convention would move to Friday, October 15."
         ]
       },
@@ -1157,7 +1161,7 @@ export const guides: Guide[] = [
         "body": [
           "Hallmark did not move quickly on National Boss's Day. Its own corporate history states that the company did not put a Boss's Day card on shelves until 1979, 21 years after Haroski's original registration. From there the line grew steadily: reporting from 2008 noted Hallmark had expanded its National Boss' Day card offering by 28 percent the year before, a sign the day had become commercially significant enough to warrant it.",
           "The commercial growth has drawn its own pushback. Writing in U.S. News & World Report, Alison Green argued that traditional office etiquette runs from boss to employee, not the other way around, and that expecting subordinates to buy gifts for people who hold power over their employment sits awkwardly next to that norm. SHRM has covered the same tension without settling it: Cord Himelstein, an HR-recognition executive quoted in its piece, argued that companies should take the pressure off front-line employees by recognizing the day officially themselves, while psychologist Paul White pushed back that appreciation \"needs to be personal rather than organizational\" and loses meaning as a top-down program.",
-          "Boss's Day is not the only observance on this calendar that spread through private registration, not legislation. [National Sons Day](/national-sons-day/) has an even messier paper trail: a documented March 4 date from a named 2018 founder, and a second, undocumented September 28 date that circulates just as widely on social media: a reminder that \"National ___ Day\" branding is no guarantee that only one date, or one founder, is in circulation."
+          "Boss's Day is not the only observance on this calendar that spread through private registration, not legislation. [National Sons Day](/national-sons-day/) has an even messier paper trail: a documented March 4 date from a named 2018 founder, and a second September 28 date circulating on social media whose origin the consulted sources do not establish: a reminder that \"National ___ Day\" branding is no guarantee that only one date, or one founder, is in circulation."
         ]
       },
       {
@@ -1179,7 +1183,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Does National Boss's Day move to a different day when October 16 falls on a weekend?",
-        "answer": "Yes, according to Hallmark and Wikipedia, which both describe the same shift: the workday moves earlier or later depending on whether October 16 lands on a Saturday or a Sunday. This rule shows up on every calendar site that mentions the day, but it doesn't trace back to anything concrete: the founder's 1958 filing paperwork and the 1962 state-level endorsement, the two events usually cited as its origin, aren't available to check. This calendar keeps the fixed date on the table year-round and leaves it to individual offices running on that custom to shift the date on their own."
+        "answer": "Yes, according to Hallmark and Wikipedia, which both describe the same shift: the workday moves earlier or later depending on whether October 16 lands on a Saturday or a Sunday. The consulted calendar accounts describe this rule, but it doesn't trace back to anything concrete: the founder's 1958 filing paperwork and the 1962 state-level endorsement, the two events usually cited as its origin, aren't available to check. This calendar keeps the fixed date on the table year-round and leaves it to individual offices running on that custom to shift the date on their own."
       },
       {
         "question": "Who started National Boss's Day?",
@@ -1187,7 +1191,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Boss's Day a federal holiday?",
-        "answer": "No. Neither the federal government nor any state gives this day legal status: government offices, banks, and most businesses run their normal schedule on October 16, and no time off is attached to the day."
+        "answer": "No. The statutory federal days off do not include this occasion. Hallmark attributes an official endorsement in 1962 from Otto Kerner, who governed Illinois at the time, an endorsement at state level, which does not make the occasion a federal day off. An employer’s leave policy or a separate holiday can still change opening hours."
       },
       {
         "question": "Why do some people criticize Boss's Day?",
@@ -11342,8 +11346,8 @@ export const guides: Guide[] = [
     "title": "National Mango Day: July 22, and a 1987 Story Nobody Can Source",
     "description": "National Mango Day falls on July 22 in the US and India. A widely repeated 1987 story traces to a real Delhi mango festival, not a decision to create this day.",
     "published": "2026-08-31",
-    "updated": "2026-08-31",
-    "coreSummary": "National Mango Day is observed on July 22 in both the United States and India. A founding story crediting India's National Horticulture Board in 1987 circulates across dozens of calendar sites, but no primary source connects that year to this specific date; 1987 is independently documented only as the founding year of Delhi's International Mango Festival, a separate event. The U.S. National Mango Board, a federal marketing order created in 2004, promotes July 22 without claiming to have started it.",
+    "updated": "2026-10-12",
+    "coreSummary": "National Mango Day is observed on July 22 in both the United States and India. A founding story crediting India's National Horticulture Board in 1987 circulates across dozens of calendar sites, but no primary source connects that year to this specific date; 1987 is independently documented only as the founding year of Delhi's International Mango Festival, a separate event. The U.S. National Mango Board, a body established under a federal marketing order effective in 2004, promotes July 22 without claiming to have started it.",
     "dateRule": {
       "kind": "fixed",
       "text": "July 22 every year, observed under the same name in both the United States and India. No source describes a weekend-shift convention or a differing regional date.",
@@ -11363,13 +11367,13 @@ export const guides: Guide[] = [
     },
     "founding": {
       "status": "unverified",
-      "text": "No source names a person, agency, or decision that set National Mango Day on July 22. A specific claim keeps circulating anyway: that India's National Horticulture Board designated the date in 1987. It appears, worded almost identically, on several secondary calendar and lifestyle sites, but none of them cite a gazette notification, a Board announcement, or any other primary document, and the National Horticulture Board's website carries no page describing it. The one verifiable 1987 event connecting mangoes and India is a different thing: the International Mango Festival, a mango exhibition first held that year in Delhi and organized by the Delhi Tourism and Transportation Development Corporation together with national horticulture and export-promotion agencies. National Today, a major calendar aggregator, keeps the two separate in its published history for the day: the 1987 entry in its timeline credits India's tourism board with the Mango Festival specifically, not a national-day declaration, and it never explains why July 22 became the date. In the United States, the National Mango Board promotes the date every year but has never claimed to have created it; the Board itself was not established until 2004, well after July 22 was already in circulation as National Mango Day."
+      "text": "No consulted source names a person, agency or decision that set National Mango Day on July 22. A specific claim keeps circulating anyway: that India's National Horticulture Board designated the date in 1987. It appears, worded almost identically, on several secondary calendar and lifestyle sites, but none of them cite a gazette notification, a Board announcement, or any other primary document, and no page describing it was identified in the National Horticulture Board materials examined. The one verifiable 1987 event connecting mangoes and India is a different thing: the International Mango Festival, a mango exhibition first held that year in Delhi and organized by the Delhi Tourism and Transportation Development Corporation together with national horticulture and export-promotion agencies. National Today, a major calendar aggregator, keeps the two separate in its published history for the day: the 1987 entry in its timeline credits India's tourism board with the Mango Festival specifically, not a national-day declaration, and it never explains why July 22 became the date. In the United States, the National Mango Board promotes the date every year but makes no creation claim in the examined posts; the Board itself was not established until 2004, without establishing when July 22 first circulated as National Mango Day."
     },
     "sections": [
       {
         "heading": "What National Mango Day is",
         "body": [
-          "National Mango Day is an unofficial food observance held on July 22 in the United States, with a longer-running observance under the same name in India. Neither version carries legal status. No law in either country recognizes the day, and government offices, banks, and postal services run their ordinary schedule regardless of the date. In 2026 it falls on a Wednesday.",
+          "National Mango Day is an unofficial food observance held on July 22 in the United States, with a longer-running observance under the same name in India. The sources examined identify no statutory designation for the July 22 observance in either country. Its name does not require closures or paid leave; other holidays and local policies can affect schedules. In 2026 it falls on a Wednesday.",
           "In practice, the day works the way [National Coffee Day](/national-coffee-day/) does: a recurring slot on food-brand and retail marketing calendars rather than a civic or religious occasion. The U.S. National Mango Board runs an annual #AlwaysMangoSZN social media campaign around the date, and grocery chains, yogurt brands, and juice makers use it each July to promote mango-flavored products.",
           "The Board also promotes a second, easily confused date: National Mango Month, which falls in June, not July. \"Mango has popped up in different applications from soft drinks to hard seltzers to new menu offerings, so National Mango Month comes at the perfect time to highlight where it all starts, fresh whole mango,\" the Board's executive director, Manuel Michel, said in a June 2021 trade-press release about that separate June observance. The same release cited a 93% rise in U.S. mango consumption per person, from 1.88 pounds in 2005 to 3.63 pounds in 2020."
         ]
@@ -11377,16 +11381,16 @@ export const guides: Guide[] = [
       {
         "heading": "The 1987 story nobody can source",
         "body": [
-          "Search for who started National Mango Day and the same claim turns up, worded almost identically, across a cluster of calendar and lifestyle sites: India's National Horticulture Board designated July 22 in 1987. None of those sites cite a gazette notification, a Board press release, or any other document to back it, and the National Horticulture Board's website has no page describing such a designation. A gazette notification is the normal way an Indian government body records a decision like this, and a direct search turned up none.",
+          "Search for who started National Mango Day and the same claim turns up, worded almost identically, across a cluster of calendar and lifestyle sites: India's National Horticulture Board designated July 22 in 1987. None of those sites cite a gazette notification, a Board press release, or any other document to back it, and no designation page was identified in the National Horticulture Board materials examined. A gazette notification is the normal way an Indian government body records a decision like this, and a direct search turned up none.",
           "There is a well-documented 1987 event tied to mangoes and India, but it is a different thing: the International Mango Festival, a mango exhibition first held that year in Delhi and organized by the Delhi Tourism and Transportation Development Corporation together with the country's horticulture board and export-promotion agency. It has run most years since, usually as a two-day event at a Delhi venue built around mango varieties and cultivation, not a July 22 observance. Even National Today, a major calendar aggregator with an obvious incentive to have a founding story on file, keeps the two apart in its published history for the day: the 1987 entry in its timeline names India's tourism board and the Mango Festival specifically, and stops there, without saying why July 22 got attached to the fruit.",
-          "The likeliest reading is that the National Horticulture Board claim has no documented source anywhere, and grew out of a garbled retelling of the Mango Festival's real founding year, not an actual decision to name July 22 as a national day."
+          "The likeliest reading is that the National Horticulture Board claim is not supported by the documents examined, and may reflect a garbled retelling of the Mango Festival's real founding year, not an actual decision to name July 22 as a national day."
         ]
       },
       {
-        "heading": "A federal marketing order that inherited the date, not one that invented it",
+        "heading": "The Board’s 2004 marketing order and its promotion of July 22",
         "body": [
           "The organization most associated with National Mango Day today, the National Mango Board, has a founding that is fully documented and considerably more recent than 1987. The U.S. Department of Agriculture's Agricultural Marketing Service opened a proposed rule and comment period on August 26, 2002, then held an industry referendum on creating a mango research and promotion program; growers and importers approved it with 77% support. The resulting Mango Promotion, Research and Information Order, authorized under the Commodity Promotion, Research and Information Act of 1996, took effect November 3, 2004, and the 18-member Board began operating under it.",
-          "That timeline puts the Board's creation seventeen years after the 1987 date already attached to National Mango Day elsewhere. Mango.org marks July 22 every year with recipes and a social media push, but its posts state only that the date exists; they do not claim the Board created it, name a founder, or repeat the National Horticulture Board story at all. The Board built a marketing moment on a date that was already circulating, a pattern [National Taco Day](/national-taco-day/) follows too, once its own founding gets traced back past the brands that later adopted it."
+          "The Board’s creation was seventeen years after the unsubstantiated day-origin year of 1987, which the consulted records do not establish for July 22. Mango.org marks July 22 every year with recipes and a social media push, but its posts state only that the date exists; they do not claim the Board created it, name a founder, or repeat the National Horticulture Board story at all. The Board promotes the date without claiming in the examined posts to have set it, a pattern [National Taco Day](/national-taco-day/) follows too, once its own founding gets traced back past the brands that later adopted it."
         ]
       },
       {
@@ -11414,11 +11418,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is the 1987 founding story true?",
-        "answer": "There is no way to check it. The line gets copied from one calendar site to the next without a citation attached, and the aggregator with the most detailed timeline on the subject, National Today, ties 1987 specifically to Delhi's mango festival, run by that city's tourism office, rather than to a decision naming July 22."
+        "answer": "The consulted sources do not verify it. The line gets copied from one calendar site to the next without a citation attached, and the aggregator with the most detailed timeline on the subject, National Today, ties 1987 specifically to Delhi's mango festival, run by that city's tourism office, rather than to a decision naming July 22."
       },
       {
         "question": "Did the National Mango Board start National Mango Day?",
-        "answer": "No. Its origin is on the record and dated far later: a USDA marketing order effective November 3, 2004, following an industry vote to create it. Seventeen years separate that founding from 1987, when the date was reportedly already in use. The board simply built a promotional push around a date that predates it."
+        "answer": "The Board’s posts reviewed here advertise the July occasion but do not take credit for creating it. Following the industry vote, the USDA order establishing the Board became effective on the third of November 2004. There are seventeen years between 1987, the alleged origin year, and the 2004 order, but an unverified origin story cannot prove the observance predates the Board."
       },
       {
         "question": "Which country grows the most mangoes?",
@@ -11426,7 +11430,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is National Mango Day a federal holiday?",
-        "answer": "No, it carries no legal weight anywhere. Businesses, government agencies, and mail carriers in the U.S. and India both operate on an unchanged, ordinary July 22."
+        "answer": "It is not on the US federal holiday list. No enactment establishing this occasion in either country appears among the documents reviewed; calling it a national day does not create a closure requirement, and other holidays or local schedules can still affect hours."
       },
       {
         "question": "Which US state grows the most mangoes?",
@@ -12252,7 +12256,7 @@ export const guides: Guide[] = [
     "title": "National Pasta Day: An Origin No One Can Source",
     "description": "The '1995 National Pasta Association' story behind October 17 has no source. What is documented: National Pasta Month, and the real World Pasta Day, October 25.",
     "published": "2026-09-12",
-    "updated": "2026-09-12",
+    "updated": "2026-10-12",
     "coreSummary": "National Pasta Day falls on the fixed date of October 17 every year, a Saturday in 2026. The claim that the National Pasta Association designated this date in 1995 circulates across nearly every calendar site, but this page could not find that claim documented anywhere in the association's published materials, and National Day Calendar's page for the holiday states outright that it is still researching the day's origins. What the National Pasta Association has verifiably put its name to is different: National Pasta Month, promoted every October through its Share the Pasta consumer program, and published figures on how much pasta Americans actually eat (about 20 pounds a year per person, the country's sixth-highest per-capita food category, per a National Pasta Association fact sheet). A separate, well-documented observance, World Pasta Day, falls eight days later on October 25, tracing to the first World Pasta Congress held in Rome in 1995 and celebrated annually since 1998. In 2026 only, October 17 also happens to coincide with Sweetest Day, a floating, unrelated 1921 Cleveland observance.",
     "dateRule": {
       "kind": "fixed",
@@ -12316,7 +12320,7 @@ export const guides: Guide[] = [
       {
         "heading": "Why the 1995 story keeps circulating anyway",
         "body": [
-          "The 1995 claim likely persists because it reads like a real citation without being one: it names an actual organization, attaches a specific year, and mimics the structure of holidays that were, in fact, registered this way. [National Boss's Day](/national-bosses-day/), for one, really was registered by a named individual, Patricia Bays Haroski, back in 1958. Once a sentence with that shape appears on one calendar site, later sites tend to copy its structure rather than check it, and nothing published by the trade group, or by National Day Calendar in its admitted uncertainty, ever catches up to correct it. The result is a claim that reads as sourced without ever actually having been sourced."
+          "The 1995 claim likely persists because it reads like a real citation without being one: it names an actual organization, attaches a specific year, and mimics the structure of holidays that were, in fact, registered this way. [National Boss's Day](/national-bosses-day/), for one, is attributed by Hallmark and other cited secondary accounts to Patricia Bays Haroski’s 1958 registration; that guide did not locate the original filing. Once a sentence with that shape appears on one calendar site, later sites tend to copy its structure rather than check it, and nothing published by the trade group, or by National Day Calendar in its admitted uncertainty, ever catches up to correct it. The result is a claim that reads as sourced without ever actually having been sourced."
         ]
       },
       {
@@ -12333,7 +12337,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Who founded National Pasta Day, and when?",
-        "answer": "This page couldn't confirm anyone. A story tying the trade group to a decision to pick October 17 in 1995 shows up across a number of calendar sites, but no document from that trade group repeats the claim, and the top result for this search term openly admits it hasn't tracked down where the date came from."
+        "answer": "This page couldn't confirm anyone. A story tying the trade group to a decision to pick October 17 in 1995 shows up across a number of calendar sites, but no document in the examined trade-group materials repeats the claim, and the top result for this search term openly admits it hasn't tracked down where the date came from."
       },
       {
         "question": "Is National Pasta Day the same as World Pasta Day?",
@@ -12353,7 +12357,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Does Olive Garden do anything for October 17 specifically?",
-        "answer": "Nothing tied to that exact date by name, but the timing usually overlaps. Olive Garden's Never-Ending Pasta Bowl returned nationwide on August 31, 2026, priced at $14.99 with unlimited pasta, sauce, and toppings, and ran through November 22, a window wide enough to cover mid-October even though the chain has never referenced this particular observance in its own marketing."
+        "answer": "The chain’s July 13 announcement scheduled its 2026 Never-Ending Pasta Bowl from August 31 through November 22, starting at $14.99 with unlimited pasta refills. That announced window covers October 17, but the release does not name the October 17 observance as its reason."
       },
       {
         "question": "Is there a separate holiday for Italian food generally?",
@@ -12400,6 +12404,10 @@ export const guides: Guide[] = [
       {
         "label": "This site: National Boss's Day (Patricia Bays Haroski's 1958 registration)",
         "url": "https://dayalmanac.com/national-bosses-day/"
+      },
+      {
+        "label": "Olive Garden: July 13, 2026 announcement, August 31–November 22 Bowl schedule and starting price",
+        "url": "https://www.prnewswire.com/news-releases/olive-garden-announces-the-return-of-its-iconic-never-ending-pasta-pass-302823110.html"
       }
     ],
     "image": "/images/national-pasta-day-october-comparison.svg",

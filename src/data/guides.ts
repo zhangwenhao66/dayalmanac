@@ -4214,7 +4214,7 @@ export const guides: Guide[] = [
     "title": "May Birth Flower: Lily of the Valley, and an Unconfirmed Legend",
     "description": "May's birth flowers are lily of the valley and hawthorn, but the legend behind the French custom and an old hawthorn proverb are both shakier than they look.",
     "published": "2026-08-21",
-    "updated": "2026-08-21",
+    "updated": "2026-10-12",
     "coreSummary": "May's birth flowers are lily of the valley and hawthorn, and unlike March, both The Old Farmer's Almanac and Farmers' Almanac agree on the pairing. The agreement stops there. Lily of the valley's scientific name traces to a Latin Vulgate Bible phrase, not to a description of the plant itself, and the plant has moved through four different plant families, starting in the lily family and landing most recently in Asparagaceae. The French custom of giving it away every May 1 is usually credited to King Charles IX in 1561, a story French Wikipedia itself labels a legend and reports only in the conditional tense; documented practice dates to the early 20th century instead. Hawthorn, meanwhile, carries a species count that has swung from 1,000-plus down to roughly 200, a folk name of \"May\" that predates Britain's 1752 calendar reform, and a floral scent built on the same chemical compound released by decaying flesh.",
     "sections": [
       {
@@ -4228,7 +4228,7 @@ export const guides: Guide[] = [
         "heading": "The French gift-giving custom is usually dated to 1561. The documented version starts well over three centuries later.",
         "body": [
           "Search for why lily of the valley gets given away in France on May 1 and the answer nearly every site repeats is the same: in 1561, King Charles IX received a sprig as a good-luck charm, liked it enough to start handing bouquets to the women of his court, and the custom took root from there. Farmers' Almanac's flower-lore page tells the story the same way, as settled history.",
-          "French Wikipedia's article on May 1 tells it differently. Its \"Traditions et superstitions\" section introduces the Charles IX story with \"selon une légende,\" according to a legend, and describes his actions throughout in the conditional tense, \"aurait initié,\" \"aurait décidé,\" would have initiated, would have decided, the grammatical marker French uses for a claim it isn't prepared to state as fact. The same entry places the custom's actual merger with the modern May 1 holiday at the start of the 20th century, not the 16th, more than three hundred years after the king Charles IX allegedly instructed. English Wikipedia's article on lily of the valley lands on a similar timeline without mentioning Charles IX at all: it dates the tax-exempt street sale of the flower, the version of the custom still practiced today, to \"the beginning of the 20th century.\" A more specific, independently sourced date backs that window up: French lifestyle outlet The Good Life France dates the custom's modern revival to a single documented event, Paris fashion houses handing lily of the valley to female clients and employees on May 1, 1900, a full 339 years after the king it's usually credited to."
+          "French Wikipedia's article on May 1 tells it differently. Its \"Traditions et superstitions\" section introduces the Charles IX story with \"selon une légende,\" according to a legend, and describes his actions throughout in the conditional tense, \"aurait initié,\" \"aurait décidé,\" would have initiated, would have decided, the grammatical marker French uses for a claim it isn't prepared to state as fact. The same entry places the custom's actual merger with the modern May 1 holiday at the start of the 20th century, not the 16th, more than three hundred years after the episode attributed to Charles IX. English Wikipedia's article on lily of the valley lands on a similar timeline without mentioning Charles IX at all: it dates the tax-exempt street sale of the flower, the version of the custom still practiced today, to \"the beginning of the 20th century.\" A more specific, independently sourced date backs that window up: French lifestyle outlet The Good Life France dates the custom's modern revival to a single documented event, Paris fashion houses handing lily of the valley to female clients and employees on May 1, 1900, a full 339 years after the king it's usually credited to."
         ],
         "image": {
           "src": "/images/may-birth-flower-lily.jpg",
@@ -4308,6 +4308,7 @@ export const guides: Guide[] = [
       }
     ],
     "sources": [
+      {"label": "California Poison Control System: naturally occurring cardiac glycosides (checked 2026-10-12)", "url": "https://calpoison.org/content/naturally-occurring-cardiac-glycoside-poisoning"},
       {
         "label": "The Old Farmer's Almanac: May Birth Flowers: Lily of the Valley and Hawthorn",
         "url": "https://www.almanac.com/content/may-birth-flowers"
@@ -4646,14 +4647,14 @@ export const guides: Guide[] = [
     "title": "August Birth Flower: Gladiolus, and a Poppy Species Left Out",
     "description": "August's birth flowers are gladiolus and poppy, but almost no guide names the poppy species: the same field poppy behind World War I's remembrance symbol.",
     "published": "2026-08-11",
-    "updated": "2026-08-11",
-    "coreSummary": "August's birth flowers are gladiolus, named by the Roman naturalist Pliny for its sword-shaped leaves, not for gladiators, and poppy, specifically the corn poppy (Papaver rhoeas), the wild field species behind World War I's remembrance poppy rather than the ornamental Oriental poppy most florist photos show. Unlike birthstones, which trace to a documented 1912 US trade convention, no single body ever fixed one official birth-flower list.",
+    "updated": "2026-10-12",
+    "coreSummary": "August's birth flowers are gladiolus, named by the Roman naturalist Pliny for its sword-shaped leaves, not for gladiators, and poppy, specifically the corn poppy (Papaver rhoeas), the wild field species behind World War I's remembrance poppy rather than the ornamental Oriental poppy most florist photos show. Unlike birthstones, which trace to a documented 1912 US trade convention, the references examined do not identify a single authority adopting an official birth-flower list.",
     "sections": [
       {
         "heading": "Two flowers, and only one gets debated",
         "body": [
           "The Old Farmer's Almanac and the florist trade lists that follow it agree on August's pair: gladiolus and poppy. Gladiolus, the Almanac says, symbolizes strength, integrity, and honor, its height and color reading as a last burst of color before summer ends. Poppy stands for remembrance and imagination, and a beauty that, in the Almanac's phrasing, doesn't cling to permanence.",
-          "Two flowers in one month isn't unusual; most months on [a modern birth-flower list](/birth-flowers-by-month/) carry a primary and a secondary. Unlike birthstones (this site's [birthstones by month](/birthstones-by-month/) page traced that series to a documented 1912 US trade convention), no equivalent meeting ever forced birth flowers into one agreed list, a gap this page comes back to below. What August has, more than the symbolism itself, is a real gap between the two names on that list and what a shopper actually gets handed at a flower counter."
+          "Two flowers in one month isn't unusual; most months on [a modern birth-flower list](/birth-flowers-by-month/) carry a primary and a secondary. Unlike birthstones (this site's [birthstones by month](/birthstones-by-month/) page traced that series to a documented 1912 US trade convention), the references examined identify no equivalent founding meeting for a shared birth-flower chart, a gap this page comes back to below. What August has, more than the symbolism itself, is a real gap between the two names on that list and what a shopper actually gets handed at a flower counter."
         ]
       },
       {
@@ -4676,14 +4677,14 @@ export const guides: Guide[] = [
         "body": [
           "Almost no florist page naming poppy as August's birth flower says which poppy. The species carrying the actual symbolic weight, remembrance in particular, is Papaver rhoeas: the corn poppy, field poppy, or Flanders poppy, native across North Africa and temperate Eurasia and, per Wikipedia's entry on the plant, \"used in the Commonwealth as a symbol of remembrance for fallen soldiers\" since World War I, because it commonly grew in fields disturbed by the fighting.",
           "That symbolism traces to a specific poem. Canadian physician John McCrae wrote \"In Flanders Fields\" on May 3, 1915, after presiding over a fellow soldier's funeral near Ypres; it was first published that December in the London magazine Punch. Wikipedia's account of the poem describes how its image of red poppies over soldiers' graves made the remembrance poppy one of the most recognized memorial symbols in the world. American professor Moina Michael read the poem and began wearing a poppy in response; the artificial poppies sold for veterans' charities today, in Commonwealth countries especially, descend from the campaign she and French fundraiser Anna Guérin built around it near the end of the war.",
-          "The showy perennial most florists actually carry as a cut flower is a different plant. Oriental poppy, Papaver orientale, is native to the Caucasus, northeastern Turkey, and northern Iran, an entirely separate range from the corn poppy's Mediterranean and North African home, with no documented tie to the remembrance tradition. It's the bigger, more photogenic bloom, so it's what shows up in most \"August birth flower\" photo galleries. The flower actually carrying the meaning most of those galleries describe is the smaller red field poppy most of them never picture."
+          "The showy perennial most florists actually carry as a cut flower is a different plant. Oriental poppy, Papaver orientale, is native to the Caucasus, northeastern Turkey, and northern Iran, a native range that differs from, but need not be wholly separate from, the corn poppy's wider temperate Eurasian distribution, with no documented tie to the remembrance tradition. It's the bigger, more photogenic bloom, so it's what shows up in most \"August birth flower\" photo galleries. The flower actually carrying the meaning most of those galleries describe is the smaller red field poppy most of them never picture."
         ]
       },
       {
         "heading": "Why birth flowers never got their own 1912",
         "body": [
-          "This site's own [birthstones by month](/birthstones-by-month/) page found a specific event behind that series: the American National Retail Jewelers Association met in Kansas City in August 1912 and adopted the first standardized US birthstone list. Birth flowers have no equivalent meeting on record. Cornell University Library's exhibit on Victorian floriography traces the modern tradition instead to a wave of competing 19th-century French and British dictionaries, whose authors, in the library's description, \"linked flowers with classical mythology, folklore, heraldry, fortune-telling, and birthdays\" as the fashion for flower symbolism spread through the newly prosperous middle classes of Britain, France, and the US.",
-          "No single one of those books became the standard the way the 1912 jewelers' meeting did for gemstones. That's the practical reason August, and most other months, ended up with two flowers rather than one: different 19th-century compilers reached different answers, and later florist trade lists absorbed both rather than picking a winner. May's own birth-flower page runs into the same kind of unverified backstory from a different angle: [this site's May birth flower page](/may-birth-flower/) checks a French lily-of-the-valley custom and an old hawthorn proverb that both turn out shakier than the florist copy suggests."
+          "This site's own [birthstones by month](/birthstones-by-month/) page found a specific event behind that series: the American National Retail Jewelers Association met in Kansas City in August 1912 and adopted the first standardized US birthstone list. The references examined identify no comparable flower-chart adoption event. Cornell University Library's exhibit on Victorian floriography describes the broader flower-symbolism fashion through competing 19th-century French and British dictionaries, whose authors, in the library's description, \"linked flowers with classical mythology, folklore, heraldry, fortune-telling, and birthdays\" as the fashion for flower symbolism spread through the newly prosperous middle classes of Britain, France, and the US.",
+          "Those books document the variety of nineteenth-century flower symbolism. The sources examined do not establish that their competing monthly assignments caused modern charts to retain two flowers. May's own birth-flower page runs into the same kind of unverified backstory from a different angle: [this site's May birth flower page](/may-birth-flower/) checks a French lily-of-the-valley custom and an old hawthorn proverb that both turn out shakier than the florist copy suggests."
         ]
       },
       {
@@ -4696,7 +4697,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is August's birth flower?",
-        "answer": "The Almanac's pairing for August is gladiolus paired with poppy, the same two names florist catalogs echo. Like most months on a typical birth-flower chart, August carries two blooms instead of one."
+        "answer": "The chart used here assigns a poppy and a gladiolus to August. Many flower calendars give two names per month, although the sources do not establish a single historical reason for that format."
       },
       {
         "question": "What does the gladiolus mean as a birth flower?",
@@ -4708,7 +4709,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why does August have two birth flowers instead of one?",
-        "answer": "Because nothing comparable to the industry meeting that fixed a birthstone list in 1912 ever settled on one flower standard. Rival 19th-century flower-symbolism dictionaries assigned different blooms to the same months, and later lists kept both instead of picking one."
+        "answer": "The almanac chart supplies two August flowers. Victorian books show differing flower meanings, without documenting that rival calendars created today's pair. The jewelry industry adopted its US gemstone roster in 1912; these flower references identify no corresponding adoption event."
       },
       {
         "question": "Is the Oriental poppy sold by florists the same as the remembrance poppy?",
@@ -4771,13 +4772,13 @@ export const guides: Guide[] = [
     "title": "September Birth Flower: Aster and Morning Glory, Reclassified",
     "description": "September's birth flowers are aster and morning glory, but most New World asters haven't technically been genus Aster since a 1990s reclassification.",
     "published": "2026-08-12",
-    "updated": "2026-08-12",
+    "updated": "2026-10-12",
     "coreSummary": "September's birth flowers are aster, named from the Greek word for star, and morning glory, whose scientific name Ipomoea literally means \"worm-resembling\" and has nothing to do with the bloom. Most asters native to North America, including the New England aster common on US birth-flower lists, were reclassified out of genus Aster into Symphyotrichum by botanist Guy Nesom in the mid-1990s. Morning glory carries a second, separate history: the garden vine sold under that name, Ipomoea purpurea, is a different species from the morning glory relatives Aztec priests used in ritual divination.",
     "sections": [
       {
         "heading": "Aster and morning glory, and one gap already covered",
         "body": [
-          "The Old Farmer's Almanac, the trade source behind [most modern birth-flower lists](/birth-flowers-by-month/), names aster and morning glory as September's pair. This site's [August birth flower](/august-birth-flower/) page found why no single body ever fixed one official birth-flower list, unlike birthstones, which trace to a documented 1912 trade convention: competing 19th-century floriography dictionaries assigned different flowers to the same months, and later trade lists absorbed more than one rather than picking a winner. That gap holds for September's pair too. [February's birth-flower entry](/february-birth-flower/), built around violet and primrose, inherited the identical split from those same overlapping Victorian dictionaries.",
+          "The Old Farmer's Almanac names aster and morning glory as September's pair. [The August flower guide](/august-birth-flower/) compares modern flower lists with the documented 1912 birthstone convention, while distinguishing Victorian flower symbolism from proof of the monthly chart's origins. [February's entry](/february-birth-flower/) also lists two plants, violet and primrose; that shared format does not establish that the two months inherited an identical historical split.",
           "What follows here goes past that argument, into the two plants themselves, which carry more specific history than \"aster\" and \"morning glory\" suggest on their own. December runs into the identical split: [this site's December birth flower page](/december-birth-flower/) pairs holly with narcissus rather than settling on a single bloom."
         ]
       },
@@ -4824,27 +4825,27 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is September's birth flower?",
-        "answer": "Aster and morning glory, per The Old Farmer's Almanac and the florist trade lists that follow it. Like most months on a modern birth-flower list, September carries two flowers rather than one."
+        "answer": "The September entry on Almanac.com names morning glory alongside aster. The same pair appears in retail calendars based on that source."
       },
       {
         "question": "What does aster mean as a birth flower?",
-        "answer": "Love, wisdom, patience, beauty, faith, friendship, and purity, in the Old Farmer's Almanac's framing, with narrower meanings tied to color: purple for royalty and wisdom, white for innocence, red for devotion and passion, pink for love and kindness. The name itself comes from the Greek word for star, a reference to the shape of its ray petals."
+        "answer": "Asters represent affection, patience, good judgment, beauty, trust, friendship and purity in the almanac tradition. Purple suggests wisdom or royal status; white suggests an innocent character; red conveys passionate devotion; pink conveys kindness and love. Their star-shaped petals explain the Greek name."
       },
       {
         "question": "Are all asters still classified in the genus Aster?",
-        "answer": "No. Most asters native to North America, including the New England aster common on US birth-flower lists, were reclassified into the genus Symphyotrichum by botanist Guy Nesom starting in the mid-1990s. Old World species like Aster amellus kept the original genus name; \"aster\" still works as a common name across both groups, but the scientific name no longer does."
+        "answer": "For many North American species, the botanical genus has changed even though gardeners still call them asters. Guy Nesom's revision in the middle of the 1990s placed New England aster in Symphyotrichum. The European species A. amellus retains the older Aster classification."
       },
       {
         "question": "What does morning glory mean as a birth flower?",
-        "answer": "The Old Farmer's Almanac frames it around love, specifically unrequited love, tied to a flower that opens at dawn and closes again the same afternoon. Other florist sources instead read it as a symbol of affection and a fresh start; the two readings don't fully agree."
+        "answer": "In the almanac account, a bloom that opens in the morning and shuts that afternoon suggests love that is not returned. Some retail flower guides give morning glory a happier association with affection or starting anew, so those symbolic readings differ."
       },
       {
         "question": "Is the morning glory sold at nurseries the same plant Aztec priests used in rituals?",
-        "answer": "No. The garden vine sold as September's birth flower is usually Ipomoea purpurea, the common morning glory. The plants tied to Aztec ritual divination, ololiuqui and tlitliltzin, are classified as different species: Ipomoea corymbosa and, per one contested identification, Ipomoea tricolor."
+        "answer": "No. The familiar garden plant is I. purpurea. Colonial accounts describe other relatives in Aztec divination: ololiuqui refers to I. corymbosa, while the identification of tlitliltzin as I. tricolor remains contested."
       },
       {
         "question": "I was born in late September. Is my zodiac sign Virgo or Libra?",
-        "answer": "Depends on the exact date. In Western tropical astrology, Virgo runs through September 22; Libra starts September 23. This site's Virgo dates page checks that boundary against three separate date systems."
+        "answer": "On the broad Western chart, Virgo ends on September 22 and Libra begins the next day. A transition-day birth needs its year, time and local zone. This site’s Virgo guide compares that tropical convention with the star-based sidereal dates and the constellation's physical sky boundaries."
       }
     ],
     "sources": [
@@ -4899,8 +4900,8 @@ export const guides: Guide[] = [
     "title": "July Birth Flower: Larkspur and Water Lily, Egypt's Other Lotus",
     "description": "July's birth flowers are larkspur and water lily, but the plant behind ancient Egypt's 'lotus' myth is a water lily, and only distantly related to a true lotus.",
     "published": "2026-08-12",
-    "updated": "2026-08-12",
-    "coreSummary": "July's birth flowers are larkspur, whose scientific name Delphinium comes from a Greek word for dolphin describing the shape of its nectary rather than the lark's-claw spur its English name describes, and water lily, the flower behind ancient Egypt's 'lotus' creation myth. The larkspur sold at flower shops, Delphinium elatum, is a Eurasian hybrid; a separate wild North American species, Delphinium bicolor, is the one a documented Kainai (Blackfoot Confederacy) tradition used for blue dye and medicine. The water lily's Egyptian 'lotus' association is also a naming leftover: the true lotus, Nelumbo nucifera, is only distantly related to water lilies, with sycamore trees among its closer living relatives.",
+    "updated": "2026-10-12",
+    "coreSummary": "July's birth flowers are larkspur, whose scientific name Delphinium comes from a Greek word for dolphin describing the shape of its nectary rather than the lark's-claw spur its English name describes, and water lily, the flower behind ancient Egypt's 'lotus' creation myth. Florists commonly sell cultivated delphiniums descended from Eurasian Delphinium elatum and other species. The plant in a documented Kainai (Blackfoot Confederacy) dye-and-medicine tradition is different: Delphinium bicolor, a wild North American species. The water lily's Egyptian 'lotus' association is also a naming leftover: the true lotus, Nelumbo nucifera, is only distantly related to water lilies, with sycamore trees among its closer living relatives.",
     "sections": [
       {
         "heading": "Larkspur and water lily, and two names apiece",
@@ -4913,13 +4914,13 @@ export const guides: Guide[] = [
         "heading": "Larkspur: a dolphin-shaped name, and a different larkspur behind the older uses",
         "body": [
           "Delphinium comes from the Greek delphínion, itself built on delphís, \"dolphin\"; Dictionary.com's etymology entry dates the English borrowing to the mid-17th century and attributes the name to the shape of the flower's nectary, not to any dolphin-colored bloom. \"Larkspur,\" the separate English common name, comes from an unrelated comparison: Wiktionary traces it to lark plus spur, describing the flower's backward-pointing spur as a match for the hind toe of a lark.",
-          "The plant sold at florists under either name is usually Delphinium elatum, a tall hybrid, 3 to 5 feet at bloom, native across Europe and northern and central Asia, according to the Missouri Botanical Garden's plant records. It is toxic if ingested, a warning the Almanac repeats alongside the symbolism.",
+          "The plant sold at florists under either name is commonly a tall garden cultivar derived from Delphinium elatum and other species, with shorter varieties reaching 3 to 5 feet and taller ones exceeding 6 feet, according to [North Carolina Extension](https://plants.ces.ncsu.edu/plants/delphinium-elatum/). [Kew](https://powo.science.kew.org/taxon/710585-1) accepts D. elatum as a species native from the European mountains to Mongolia. It is toxic if ingested, a warning the Almanac repeats alongside the symbolism.",
           "That garden plant isn't the species behind the dye-and-medicine tradition many florist pages attribute to \"Native Americans\" without saying which nation or which plant. The Galileo Educational Network's Kainai Plants and Culture project, built with the Kainai (Blood Tribe) of the Blackfoot Confederacy in Alberta, documents that specific use for Delphinium bicolor, or little larkspur: a wild prairie and foothill species under 16 inches tall, native to a range from British Columbia to South Dakota, a different continent from the Eurasian species sold as cut flowers. Per that record, a weak tea from the flowers was used for children with severe diarrhea and for fainting spells, a stronger tea dyed arrow quills blue, and a third preparation was used on a woman's hair to make it shine and lie straight. The same source is explicit that only someone taught the correct dose by an elder should prepare any of it, since the plant, especially its seed, is poisonous.",
           "Color carries its own meaning on the Almanac's chart: blue, rare among flowers, for dignity and grace; pink for fickleness; white for happiness and joy; purple for first love. The Almanac also traces a separate, older origin story back to Greek mythology, where larkspur is said to have grown from the spilled blood of the warrior Ajax after the Battle of Troy, and records a later English folk belief that scattering the flower in bathwater warded off ghosts. Neither claim is the kind of thing a botanist could verify; both simply show how much unrelated symbolism has attached itself to one plant name over the centuries, alongside the specific, documented Kainai use above."
         ],
         "image": {
           "src": "/images/july-birth-flower-larkspur.jpg",
-          "alt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than the Eurasian hybrid sold at florists",
+          "alt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than cultivated florist delphiniums derived from Eurasian species",
           "credit": "Photo by Matt Lavin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delphinium_bicolor_(3625586495).jpg), CC BY-SA 2.0"
         }
       },
@@ -4946,7 +4947,7 @@ export const guides: Guide[] = [
       {
         "heading": "July's other reference points",
         "body": [
-          "For the gemstone side of a July birthday, as opposed to the flower side, this site's [birthstones by month](/birthstones-by-month/) page lists July's current official stone as ruby alone, per Jewelers of America's live buying guide, with no second stone the way June or December carry three. And for why birth flowers, unlike birthstones, never settled on one standardized list in the first place, this site's [August birth flower](/august-birth-flower/) page traces that gap to a wave of competing 19th-century flower dictionaries that never had their own version of the single 1912 trade meeting that fixed the birthstone chart. The full twelve-month comparison behind that gap, checking The Old Farmer's Almanac's current chart against Farmers' Almanac's competing one month by month, runs on this site's [birth flowers by month](/birth-flowers-by-month/) page, alongside the two months, March and November, where the two sources still don't agree."
+          "For the gemstone side of a July birthday, as opposed to the flower side, this site's [birthstones by month](/birthstones-by-month/) page lists July's current official stone as ruby alone, per Jewelers of America's live buying guide, with no second stone the way June or December carry three. For a comparison between modern flower calendars and the standardized gemstone chart, this site's [August birth flower](/august-birth-flower/) page distinguishes nineteenth-century flower-symbolism books from the documented 1912 gemstone convention; the references do not identify an equivalent founding event for the flower chart. The full twelve-month comparison behind that gap, checking The Old Farmer's Almanac's current chart against Farmers' Almanac's competing one month by month, runs on this site's [birth flowers by month](/birth-flowers-by-month/) page, alongside the two months, March and November, where the two sources still don't agree."
         ]
       }
     ],
@@ -4961,7 +4962,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is the larkspur used in Native American dye traditions the same plant sold at florists?",
-        "answer": "Not usually. Florists mostly sell the tall hybrid D. elatum, bred from species native to Europe and Siberia. The dye and medicinal tea uses documented among the Kainai, part of the Blackfoot nations, concern little larkspur (D. bicolor), a smaller wild species of western North America, so it is a separate plant from another part of the world."
+        "answer": "Not usually. Tall florist forms descend mainly from D. elatum, whose home range lies in Europe and Asia, with additional species contributing to cultivated lines; D. elatum is itself a species, not a hybrid. Kainai records of dye and medicinal teas concern D. bicolor, the smaller wild little larkspur of western North America. That documented tradition concerns a different plant, rather than every delphinium sold as a cut flower."
       },
       {
         "question": "What does water lily mean as a birth flower?",
@@ -5019,7 +5020,7 @@ export const guides: Guide[] = [
       }
     ],
     "image": "/images/july-birth-flower-larkspur.jpg",
-    "imageAlt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than the Eurasian hybrid sold at florists",
+    "imageAlt": "Delphinium bicolor (little larkspur) blooming in open, rocky prairie habitat, the wild North American species documented in Kainai ethnobotanical tradition rather than cultivated florist delphiniums derived from Eurasian species",
     "imageCredit": "Photo by Matt Lavin, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delphinium_bicolor_(3625586495).jpg), CC BY-SA 2.0"
   },
   {
@@ -5873,14 +5874,14 @@ export const guides: Guide[] = [
     "title": "November Birth Flower: Chrysanthemum and Peony, a Gift Mistake",
     "description": "November's birth flowers are chrysanthemum and peony, but in France and much of Catholic Europe, chrysanthemums are graveside flowers, not gifts.",
     "published": "2026-08-17",
-    "updated": "2026-08-17",
+    "updated": "2026-10-12",
     "coreSummary": "November's birth flowers are the chrysanthemum, whose Greek name literally means \"golden flower\" even though only a handful of modern cultivars are actually gold, and the peony, named for Paeon, physician to the Greek gods. The chrysanthemum carries two separate identities that rarely appear together: Japan's Imperial Seal and highest civilian honor on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other. The peony spent much of its taxonomic history grouped near the buttercup family before molecular studies in the late 1980s moved it into a family of its own, in an order unrelated to buttercups.",
     "sections": [
       {
         "heading": "Chrysanthemum and peony, filling the same gap as every other month",
         "body": [
-          "Farmers' Almanac's current chart names chrysanthemum and peony as November's flowers. The Old Farmer's Almanac's own current page, which matches that pairing for August, July, and September, is narrower here: it lists chrysanthemum alone, with no second flower anywhere on the page. This site's [birth flowers by month](/birth-flowers-by-month/) chart covers that same gap alongside a similar one for March. This site's [August birth flower](/august-birth-flower/) page traced why a page like this one keeps landing on two flowers instead of one: unlike birthstones, which the jewelry trade standardized in a single 1912 convention, birth flowers never had one body settle the question. Rival 19th-century floriography guides couldn't agree with each other, and rather than pick a winner, the trade lists that followed kept both.",
-          "That gap explains why November has a pair. It doesn't explain much about either flower on its own, and both have more going on than a florist's caption usually mentions. [This site's May birth flower page](/may-birth-flower/) goes through a similar exercise for a different month, pulling apart a French lily-of-the-valley tradition and an old hawthorn saying that don't hold up quite as well as the usual florist copy claims."
+          "Farmers' Almanac's current chart names chrysanthemum and peony as November's flowers. The Old Farmer's Almanac's own current page, which matches that pairing for August, July, and September, is narrower here: it lists chrysanthemum alone, with no second flower anywhere on the page. This site's [birth flowers by month](/birth-flowers-by-month/) chart covers that same gap alongside a similar one for March. [The August flower guide](/august-birth-flower/) compares a documented 1912 birthstone convention with flower sources that identify no equivalent adoption event. Flower-meaning dictionaries are historical background, without proving how these two modern November assignments developed.",
+          "The comparison establishes that the two current lists differ; it does not establish how the difference arose. It doesn't explain much about either flower on its own, and both have more going on than a florist's caption usually mentions. [This site's May birth flower page](/may-birth-flower/) goes through a similar exercise for a different month, pulling apart a French lily-of-the-valley tradition and an old hawthorn saying that don't hold up quite as well as the usual florist copy claims."
         ]
       },
       {
@@ -5891,7 +5892,7 @@ export const guides: Guide[] = [
         ],
         "image": {
           "src": "/images/november-birth-flower-chrysanthemum.jpg",
-          "alt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, none of them gold despite the flower's Greek name meaning \"golden flower\"",
+          "alt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, illustrating the range of modern colors despite the flower's Greek name meaning \"golden flower\"",
           "credit": "Photo by KENPEI, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_cvs2.jpg), CC BY-SA 3.0"
         }
       },
@@ -5932,31 +5933,31 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is November's birth flower?",
-        "answer": "Chrysanthemum and peony, per Farmers' Almanac's current chart. The Old Farmer's Almanac's own current page names chrysanthemum alone, with no second flower listed. As with most months on a modern birth-flower list, November carries two flowers on most charts, because no single trade body ever issued one official calendar."
+        "answer": "Farmers' Almanac gives two November choices, peony and chrysanthemum. Almanac.com gives the latter alone. That difference can be checked directly, but its historical origin has not been established by these sources."
       },
       {
         "question": "What does the chrysanthemum mean as a birth flower?",
-        "answer": "Loyalty, friendship, and joy in general, with narrower meanings by color: red for true love, white for innocence and honesty, yellow for a wounded heart or neglected love, per The Old Farmer's Almanac."
+        "answer": "The almanac gives the flower associations with faithful friendship and happiness. Under its color scheme, a red bloom conveys genuine love, white conveys honest innocence and yellow suggests love that has been neglected or hurt."
       },
       {
         "question": "Why is the chrysanthemum connected to Japan's imperial family?",
-        "answer": "Emperor Go-Toba adopted a stylized chrysanthemum as his personal seal during the Kamakura period (1185-1333), and custom turned it into the emblem of the Imperial House. Emperor Meiji formalized the Supreme Order of the Chrysanthemum in 1876, still Japan's highest honor for a private citizen."
+        "answer": "Go-Toba used the chrysanthemum as a personal crest during the Kamakura era, 1185–1333. Later custom made it an emblem of Japan's imperial household. Meiji created the Supreme Order in 1876; it is the country's highest order."
       },
       {
         "question": "Is it true chrysanthemums are a bad gift in parts of Europe?",
-        "answer": "In France, Belgium, Poland, and several other Catholic European countries, yes. The flower is the customary bloom for graves on All Saints' Day, November 1, and giving one as a bouquet to a living host counts as a breach of etiquette, not a minor quirk."
+        "answer": "It can be an awkward gift in Catholic-European traditions found in France, Belgium and Poland. People place chrysanthemums at relatives' graves for the All Saints observance on November 1. A host may therefore read a bouquet very differently from an American birthday recipient."
       },
       {
         "question": "What does the peony mean as a birth flower?",
-        "answer": "Honor, wealth, romance, and compassion in most modern florist readings, and prosperity and high status specifically in Chinese symbolism, where the flower held the honorary title \"king of flowers\" during the Tang dynasty. The name itself comes from Paeon, physician to the gods in Greek mythology."
+        "answer": "Modern gift guides commonly attach romance, compassion, wealth and honor to peonies. Chinese symbolism particularly emphasizes prosperity and status; “king of flowers” was an honorary Tang-era title. The Greek name is linked to Paeon, the gods' physician."
       },
       {
         "question": "Is the peony really related to buttercups?",
-        "answer": "No, not closely. Botanists grouped peonies near the buttercup family, Ranunculaceae, for much of the 19th and 20th centuries based on shared physical traits, but molecular studies by the late 1980s showed the relationship didn't hold up. Peonies now sit in their own family, Paeoniaceae, within the order Saxifragales, unrelated to the order that contains buttercups."
+        "answer": "Modern classification separates the families: peonies belong to Paeoniaceae in Saxifragales, while buttercups belong to Ranunculaceae in a different order. Older systems placed the groups together because of physical similarities; molecular work in the late 1980s helped overturn that arrangement."
       },
       {
         "question": "I was born in late November. Is my zodiac sign Scorpio or Sagittarius?",
-        "answer": "Depends on the exact date. Scorpio runs through around November 21 in Western tropical astrology, and Sagittarius starts the following day, though the precise boundary can shift by a day depending on the year. This site's Scorpio dates page walks through why."
+        "answer": "The usual tropical chart changes from Scorpio to Sagittarius around November 21–22. Exact transitions depend on the year and the local clock. This site’s Scorpio date guide explains that timing and compares other zodiac systems."
       }
     ],
     "sources": [
@@ -6002,7 +6003,7 @@ export const guides: Guide[] = [
       }
     ],
     "image": "/images/november-birth-flower-chrysanthemum.jpg",
-    "imageAlt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, none of them gold despite the flower's Greek name meaning \"golden flower\"",
+    "imageAlt": "Rows of cultivated chrysanthemums in white, yellow, and pink at a Japanese flower show, illustrating the range of modern colors despite the flower's Greek name meaning \"golden flower\"",
     "imageCredit": "Photo by KENPEI, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_cvs2.jpg), CC BY-SA 3.0"
   },
   {
@@ -6542,27 +6543,27 @@ export const guides: Guide[] = [
     "slug": "december-birth-flower",
     "category": "Birth Flowers",
     "title": "December Birth Flower: Holly and Narcissus, a 1948 King",
-    "description": "December's birth flowers are holly and narcissus, but the \"ancient\" Holly King is a 1948 invention, and the paperwhite is also China's New Year flower.",
+    "description": "December's birth flowers are holly and narcissus, but the \"ancient\" Holly King is a 1948 invention, and a related narcissus carries China's New Year symbolism.",
     "published": "2026-08-18",
-    "updated": "2026-08-18",
-    "coreSummary": "December's birth flowers are holly, whose plants grow flowers that produce fruit and flowers that produce pollen on separate plants, so that only female holly bushes with a male nearby ever produce the familiar red berries, and narcissus, specifically the paperwhite (Narcissus tazetta). The \"Holly King,\" a figure many lifestyle sites present as ancient Celtic belief, actually traces to a 1948 book by the poet Robert Graves, built from his own comparisons to older myths rather than any surviving Celtic source. And the same paperwhite species forced into bloom on US windowsills each December is, in a different subspecies grown for Lunar New Year, China's \"Chinese Sacred Lily,\" a symbol of prosperity with no link at all to the vanity myth behind its Western name.",
+    "updated": "2026-10-12",
+    "coreSummary": "December's birth flowers are holly, whose plants grow flowers that produce fruit and flowers that produce pollen on separate plants, so that female bushes usually need a male pollinator for the familiar red berries, with self-fertile cultivar exceptions, and narcissus, represented by paperwhite narcissus, which the Almanac calls Narcissus tazetta; Kew separately accepts N. papyraceus as a species. The \"Holly King,\" a figure many lifestyle sites present as ancient Celtic belief, actually traces to a 1948 book by the poet Robert Graves, built from his own comparisons to older myths rather than any surviving Celtic source. And a related narcissus grown for Lunar New Year is China's \"Chinese Sacred Lily,\" a symbol of prosperity, contrasting with the vanity myth associated with its Western name.",
     "sections": [
       {
         "heading": "Holly and narcissus, the same two-flower pattern",
         "body": [
-          "The Old Farmer's Almanac, the same trade source behind the pairs this site has already covered for July through November, names holly and narcissus, specifically the paperwhite, as December's flowers. This site's [August birth flower](/august-birth-flower/) page traced why birth-flower lists keep landing on two names, not a single settled favorite: birthstones got a single 1912 trade convention to settle the chart, and birth flowers never had an equivalent meeting, so competing 19th-century flower dictionaries went uncorrected and the modern lists that followed absorbed more than one nominee per month.",
-          "December's pair carries an unusual amount of misinformation for two flowers this common. One has a real ancient Roman gift-giving custom attached to it, plus a much newer addition that regularly gets presented as if it were the same kind of ancient. The other is the same bulb behind two separate midwinter traditions, on opposite sides of the world, that landed on opposite meanings."
+          "The Old Farmer's Almanac lists holly and narcissus, with paperwhite representing narcissus for this month. [The August flower guide](/august-birth-flower/) compares these calendars with the jewelry trade's documented 1912 chart. Nineteenth-century flower dictionaries are relevant background, but the references do not establish how they produced each modern two-flower pairing.",
+          "December's pair carries an unusual amount of misinformation for two flowers this common. One has a real ancient Roman gift-giving custom attached to it, plus a much newer addition that regularly gets presented as if it were the same kind of ancient. The other links related bulbs with two midwinter traditions, on opposite sides of the world, that carry different meanings."
         ]
       },
       {
         "heading": "Holly: only the female plants grow berries",
         "body": [
-          "Holly is usually dioecious, meaning an individual plant carries either the flowers that produce pollen or the flowers that produce fruit, rarely both, according to Wikipedia's entry on Ilex aquifolium, the European holly most associated with Christmas decoration. Only female plants grow the familiar red drupes, and only when a male plant grows close enough to fertilize them; a solitary holly bush, however healthy, can go its whole life without producing a single berry. The Old Farmer's Almanac states the practical version of the same fact more plainly: hollies are male and female, and gardeners generally need one of each to get the berries most people associate with the plant. Berries and leaves alike are also mildly toxic to dogs, cats, and horses, per the ASPCA, typically causing vomiting and diarrhea rather than anything more severe.",
+          "Holly is usually dioecious, meaning an individual plant carries either the flowers that produce pollen or the flowers that produce fruit, rarely both, according to Wikipedia's entry on Ilex aquifolium, the European holly most associated with Christmas decoration. Female plants produce the familiar red drupes and usually need a male pollinator; the RHS identifies self-fertile cultivars such as J.C. van Tol that can bear berries alone; a solitary holly bush, however healthy, can go its whole life without producing a single berry. The Old Farmer's Almanac states the practical version of the same fact more plainly: hollies are male and female, and gardeners generally need one of each to get the berries most people associate with the plant. Berries and leaves alike are also mildly toxic to dogs, cats, and horses, per the ASPCA, typically causing vomiting and diarrhea rather than anything more severe.",
           "The species name doesn't come from water, despite its visual resemblance to \"aqua.\" Aquifolium is Botanical Latin built from acus, needle, and folia, leaf, a description of the plant's spiny leaf margins rather than anything to do with moisture, per Wikipedia. The English common name has a separate, older root: \"holly\" is a shortened form of the Old English holegn or holen, recorded well before the Latin binomial existed."
         ],
         "image": {
           "src": "/images/december-birth-flower-holly.jpg",
-          "alt": "Glossy holly leaves and bright red berries, which only grow on female Ilex aquifolium plants pollinated by a nearby male",
+          "alt": "Glossy holly leaves and bright red berries on a fruit-bearing Ilex aquifolium plant",
           "credit": "Photo by Balise42, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holly_berries_and_leaves.jpg), CC BY-SA 4.0"
         }
       },
@@ -6576,9 +6577,9 @@ export const guides: Guide[] = [
       {
         "heading": "Narcissus: a myth, and a name that may mean \"numb\"",
         "body": [
-          "The narcissus flower's name comes from Ovid's Metamorphoses, where the youth Narcissus rejects the nymph Echo, then falls for his own reflection in a still pool and can't look away, wasting there until a white-and-yellow flower grows in his place, per Wikipedia's account of the myth. That same story is also the source of \"narcissism\" as a term for excessive self-regard, borrowed from the flower's name centuries later.",
-          "The flower's own name may run deeper than the myth. Wikipedia's entry on the Narcissus genus notes that the word's exact origin is unknown, but it's often linked to the ancient Greek narkō, to make numb, the same root behind the English word narcotic. That's not just wordplay: every Narcissus species contains the alkaloid lycorine, concentrated most heavily in the bulb, and ingesting it produces numbness followed by more serious neurological symptoms in poisoning cases, the kind of effect the name may describe directly rather than by coincidence.",
-          "The Old Farmer's Almanac states plainly that every part of the paperwhite is poisonous, with the bulb the most toxic part, worth flagging for a bulb that gets forced into bloom on a kitchen windowsill every December, often within reach of pets or small children. That guidance doesn't hold evenly across the whole genus, though: research on the related species Narcissus papyraceus found roughly five times more alkaloid concentrated in the stem than in the bulb, according to Wikipedia's entry on the genus, a reminder that \"the bulb is the toxic part\" is closer to a rule of thumb than a fixed rule."
+          "Ovid's Metamorphoses recounts the myth associated with the narcissus flower:  the youth Narcissus rejects the nymph Echo, then falls for his own reflection in a still pool and can't look away, wasting there until a white-and-yellow flower grows in his place, per Wikipedia's account of the myth. That same story is also the source of \"narcissism\" as a term for excessive self-regard, borrowed from the flower's name centuries later.",
+          "The botanical word may run deeper than the myth. Wikipedia's entry on the Narcissus genus notes that the word's exact origin is unknown, but it's often linked to the ancient Greek narkō, to make numb, the same root behind the English word narcotic. That's not just wordplay: every Narcissus species contains the alkaloid lycorine, concentrated most heavily in the bulb, and ingestion can cause nausea, vomiting and abdominal pain, according to National Capital Poison Center. These effects do not prove the proposed etymology or a universal symptom sequence beginning with numbness.",
+          "The Old Farmer's Almanac states plainly that every part of the paperwhite is poisonous, with the bulb the most toxic part, worth flagging for a bulb that gets forced into bloom on a kitchen windowsill every December, often within reach of pets or small children. That guidance doesn't hold evenly across the whole genus, though: research on Narcissus papyraceus, accepted by Kew as a separate paperwhite species, found roughly five times more alkaloid concentrated in the stem than in the bulb, according to Wikipedia's entry on the genus, a reminder that \"the bulb is the toxic part\" is closer to a rule of thumb than a fixed rule."
         ],
         "image": {
           "src": "/images/december-birth-flower-narcissus.jpg",
@@ -6587,47 +6588,50 @@ export const guides: Guide[] = [
         }
       },
       {
-        "heading": "The same bulb, opposite meanings, on opposite sides of the world",
+        "heading": "Related bulbs, different meanings, on opposite sides of the world",
         "body": [
-          "The Old Farmer's Almanac's own page on the paperwhite adds a detail most florist copy skips: the flower is \"sometimes associated with the Chinese Lunar New Year.\" That's an understatement. The species behind the December paperwhite, Narcissus tazetta, reached China as early as 690 CE according to historical records, per Cornell Botanic Gardens, and the subspecies grown there today, sold and gifted as the \"Chinese Sacred Lily,\" is one of the most favored flowers of Lunar New Year tradition, forced into bloom in a shallow dish of water and pebbles, the same method used to force Western Christmas paperwhites. A narcissus that opens exactly on New Year's Day is considered a sign of good fortune for the year ahead.",
-          "The two traditions share a bulb and a forcing method but nothing else. The Western meaning runs through Ovid's myth, a warning about vanity and fatal self-absorption. The Chinese meaning, attached to a close relative of the same species, is prosperity and renewal, with no shared lineage connecting the two interpretations. Two cultures independently decided the same midwinter bulb meant something, and landed on opposite answers."
+          "The Old Farmer's Almanac's own page on the paperwhite adds a detail most florist copy skips: the flower is \"sometimes associated with the Chinese Lunar New Year.\" That's an understatement. Narcissus tazetta, the species associated with the Chinese Sacred Lily, reached China as early as 690 CE according to historical records, per Cornell Botanic Gardens, and the subspecies grown there today, sold and gifted as the \"Chinese Sacred Lily,\" is one of the most favored flowers of Lunar New Year tradition, forced into bloom in a shallow dish of water and pebbles, a method also used for Western Christmas paperwhites. The Almanac labels paperwhites N. tazetta, but Kew accepts N. papyraceus separately and places older tazetta paperwhite names among its synonyms. The two traditions should not be presented as proof that every bulb sold under these common names is the same species. A narcissus that opens exactly on New Year's Day is considered a sign of good fortune for the year ahead.",
+          "The traditions involve related narcissus plants and a similar forcing method, with different symbolic readings in the sources described here. The Western meaning runs through Ovid's myth, a warning about vanity and fatal self-absorption. The Chinese meaning, attached to the Chinese Sacred Lily, is prosperity and renewal. The cited accounts do not document a shared lineage for these interpretations. These accounts attach different meanings to related midwinter flowers; they do not establish an independent origin or rule out historical contact between the cultures."
         ]
       },
       {
         "heading": "December's other reference points",
         "body": [
           "For the gemstone side of a December birthday, this site's [December birthstone](/december-birthstone/) page covers the month's three official stones, turquoise, zircon, and tanzanite, and why blue topaz, despite heavy retail marketing, isn't actually one of them.",
-          "And for why birth-flower lists, unlike birthstone lists, tend to run in pairs and skip a single settled choice, this site's [November birth flower](/november-birth-flower/) page traces that gap back to the same absent 1912-style trade convention this page opened with. December's own pair shows up in a smaller wrinkle on the consolidated view: this site's [birth flowers by month](/birth-flowers-by-month/) page notes that The Old Farmer's Almanac's dedicated December page and its own roundup page don't even agree with each other on which of the two, holly or narcissus, comes first."
+          "For an example of differing assignments on two flower calendars, this site's [November birth flower](/november-birth-flower/) page documents a difference between the two modern almanacs, without establishing that the absence of a convention caused it. December's pair shows up in a smaller wrinkle on the consolidated view: this site's [birth flowers by month](/birth-flowers-by-month/) page notes that The Old Farmer's Almanac's dedicated December page and its own roundup page don't even agree with each other on which of the two, holly or narcissus, comes first."
         ]
       }
     ],
     "faq": [
       {
         "question": "What is December's birth flower?",
-        "answer": "Holly, plus narcissus in its paperwhite form, is the pairing the Almanac lists for December. Like most months on a modern birth-flower list, December carries two flowers because no single trade body ever settled on one official calendar the way the jewelry trade did for birthstones."
+        "answer": "The almanac names narcissus, usually represented by a paperwhite, together with holly. The sources used here do not identify a shared authority that adopted a single birth-flower calendar, or demonstrate that Victorian dictionaries caused this particular pair."
       },
       {
         "question": "Why do some holly bushes never grow berries?",
-        "answer": "Holly plants typically carry pollen flowers and fruit flowers on separate individuals, rarely both on one plant. It takes a female specimen to set the red berries, and even then a male has to be near enough to do the pollinating, per Wikipedia's plant profile."
+        "answer": "Usually, fruit forms on a female holly after pollen arrives from a male. Some cultivars work differently: J.C. van Tol can bear fruit by itself, according to RHS guidance. Its example means a second bush is not an absolute requirement for every variety."
       },
       {
         "question": "Is the \"Holly King\" an ancient Celtic tradition?",
-        "answer": "No. The pairing comes from a 1948 book written by Robert Graves, who built it out of parallels he drew to older mythological pairs, not from any real ancient Celtic text. A pair of Wiccan authors wove the figure into their own ritual writing a few decades afterward, in the early 1980s."
+        "answer": "The king pairing appears in the cited account of Graves's 1948 volume The White Goddess and was incorporated into seasonal rituals by two Wiccan writers in 1981. That source does not provide a surviving Celtic text from antiquity containing this particular pair."
       },
       {
         "question": "Where does the name \"narcissus\" come from?",
-        "answer": "The name comes from a myth the Roman poet Ovid recorded: a vain youth becomes so transfixed by his own image in a pool of water that he cannot pull away, and slowly withers into the flower that now bears his name. Nobody has settled the word's actual origin, though a Greek root meaning \"to make numb,\" narkō, is a common guess; \"narcotic\" descends from that same root."
+        "answer": "The Roman poet Ovid tells of a youth who becomes unable to leave his reflection and is transformed into a flower. It recounts the Narcissus transformation; it does not show where the plant’s name began. A suggested Greek root means to make numb and also underlies narcotic, but the flower word’s derivation remains unsettled."
       },
       {
         "question": "Are paperwhite narcissus bulbs poisonous?",
-        "answer": "Yes. The Almanac lists the whole paperwhite plant as toxic and singles out the bulb as generally carrying the heaviest concentration. Toxin distribution varies across the genus, though: one close relative packs a fivefold-greater share of the toxin into its stem than into its bulb, per Wikipedia."
+        "answer": "Paperwhites are toxic throughout, with the bulb commonly singled out. Researchers studying N. papyraceus found that stem samples held about fivefold the bulb’s alkaloid level. Poison Control reports stomach pain and vomiting after narcissus is eaten; symptoms cannot settle the plant name's etymology."
       },
       {
         "question": "Is the December paperwhite connected to Chinese New Year?",
-        "answer": "Yes. This flower has been grown in China since around the seventh century CE too, and a Chinese-grown subspecies known as the Chinese Sacred Lily is thought to bring good fortune when it flowers around Lunar New Year, coaxed into bloom using the same forcing method growers in the West use on Christmas bulbs, but carrying an entirely separate meaning."
+        "answer": "Yes. Cornell dates narcissus cultivation in China to the seventh century. For the New Year celebration, growers bring the sacred-lily form into bloom using pebbles and shallow water. A bloom on the holiday signals good fortune; that reading differs from the Western tale of a young man consumed by his own reflection. The common names cover related plants and should not imply that every paperwhite is botanically identical."
       }
     ],
     "sources": [
+      {"label": "Kew POWO: accepted Narcissus papyraceus and tazetta synonyms (checked 2026-10-12)", "url": "https://powo.science.kew.org/taxon/66149-1"},
+      {"label": "RHS: holly berry pollination and self-fertile cultivars (checked 2026-10-12)", "url": "https://www.rhs.org.uk/plants/hollies/how-to-grow-hollies"},
+      {"label": "National Capital Poison Center: daffodil lycorine symptoms (checked 2026-10-12)", "url": "https://www.poison.org/articles/daffodils"},
       {
         "label": "The Old Farmer's Almanac: December Birth Flowers: Holly and Narcissus",
         "url": "https://www.almanac.com/content/december-birth-flowers"
@@ -6662,7 +6666,7 @@ export const guides: Guide[] = [
       }
     ],
     "image": "/images/december-birth-flower-holly.jpg",
-    "imageAlt": "Glossy holly leaves and bright red berries, which only grow on female Ilex aquifolium plants pollinated by a nearby male",
+    "imageAlt": "Glossy holly leaves and bright red berries on a fruit-bearing Ilex aquifolium plant",
     "imageCredit": "Photo by Balise42, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holly_berries_and_leaves.jpg), CC BY-SA 4.0"
   },
   {
@@ -6671,14 +6675,14 @@ export const guides: Guide[] = [
     "title": "February Birth Flower: Violet and Primrose, Plus Two Name-Alikes",
     "description": "February's birth flowers are violet and primrose, but the African violet and evening primrose sold under similar names belong to entirely different plant families.",
     "published": "2026-08-18",
-    "updated": "2026-08-18",
+    "updated": "2026-10-12",
     "coreSummary": "February's birth flowers are the violet (Viola odorata, family Violaceae) and the primrose (Primula vulgaris, family Primulaceae), per The Old Farmer's Almanac. Two of the most common houseplants sold under near-identical names are not related to either one: the African violet, now classified as Streptocarpus sect. Saintpaulia, belongs to the Gesneriaceae family, and the evening primrose, genus Oenothera, belongs to the Onagraceae family and is native to the Americas rather than Eurasia. Violets carry a documented political history as Napoleon Bonaparte's secret 1814-1815 symbol, and the real UK observance called Primrose Day, honoring Benjamin Disraeli, gets one detail wrong on The Old Farmer's Almanac's own February birth-flower page.",
     "sections": [
       {
         "heading": "Violet and primrose, the same gap as every other month",
         "body": [
-          "The Old Farmer's Almanac, the same source behind the pairs this site has already covered for July through December and April, lists violet and primrose as February's flowers. This site's [August birth flower](/august-birth-flower/) page traced why these lists keep landing on two flowers instead of one: the jewelry trade settled birthstones with a single 1912 convention, and birth flowers never had an equivalent body step in. Competing 19th-century flower dictionaries disagreed with each other, and the modern lists that followed kept both nominees, never settling on a single winner.",
-          "That explains the pair. It says nothing about either flower on its own, and both share their common name with an unrelated houseplant sold in every grocery-store flower aisle."
+          "The Old Farmer's Almanac lists violet and primrose for this month. [The August flower guide](/august-birth-flower/) compares these calendars with the jewelry trade's documented 1912 chart. The older symbolism dictionaries explain a wider fashion, without documenting how February acquired this specific pair.",
+          "That identifies the list used here. It says nothing about either flower on its own, and both share their common name with an unrelated houseplant sold in every grocery-store flower aisle."
         ]
       },
       {
@@ -6731,7 +6735,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is February's birth flower?",
-        "answer": "The Almanac pairs the violet with the primrose. Like most months on today's flower calendars, February carries two flowers because no single trade body ever settled on one official list the way the jewelry trade did for birthstones."
+        "answer": "The calendar on Almanac.com gives February a violet and a primrose. Old books about flower meanings provide historical background, but no reference examined proves that competing Victorian month assignments created this pair."
       },
       {
         "question": "Is the African violet the same plant as February's birth flower?",
@@ -6806,14 +6810,14 @@ export const guides: Guide[] = [
     "title": "January Birth Flower: Carnation and Snowdrop, a Color Myth",
     "description": "January's birth flowers are carnation and snowdrop, but the pink-carnation Mother's Day story most retailers tell doesn't match the documented 1908 record.",
     "published": "2026-08-19",
-    "updated": "2026-08-19",
+    "updated": "2026-10-12",
     "coreSummary": "January's birth flowers are the carnation (Dianthus caryophyllus) and the snowdrop (Galanthus nivalis), per The Old Farmer's Almanac. Etymologists have never settled on a single origin for the word \"carnation,\" and the widely repeated claim that pink carnations were the original 1907 Mother's Day flower doesn't match the documented record: Anna Jarvis chose white, and the pink-for-a-living-mother convention was a later florist invention. Snowdrop's genus name is Greek for \"milk flower,\" and it carries two contradictory identities at once, a Christian legend of hope and a still-reported British folk superstition that a single bloom indoors foretells a death.",
     "sections": [
       {
         "heading": "Carnation and snowdrop, the same two-flower pattern as every other month",
         "body": [
-          "The Old Farmer's Almanac lists carnation and snowdrop as January's birth flowers, continuing the same two-per-month pattern this site has documented for July through December and February. As explained on this site's [August birth flower](/august-birth-flower/) page, the jewelry trade settled birthstones with a single 1912 convention, while birth flowers never got an equivalent standard-setting body. Competing 19th-century flower dictionaries picked different favorites, and the modern lists that followed generally kept more than one candidate rather than forcing a choice.",
-          "That accounts for why there are two flowers. It doesn't explain either one, and both carry more disputed history than a typical florist blurb has room for."
+          "The Old Farmer's Almanac lists carnation and snowdrop for this month. [The August flower guide](/august-birth-flower/) compares these calendars with the jewelry trade's documented 1912 chart. Older flower-meaning books supply context; they do not document a historical decision pairing these particular January flowers.",
+          "That identifies the chart’s two names without claiming their historical origin is settled. It doesn't explain either one, and both carry more disputed history than a typical florist blurb has room for."
         ]
       },
       {
@@ -6867,7 +6871,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is January's birth flower?",
-        "answer": "Two of them, the carnation plus the snowdrop, per the Almanac's roster. Like most months on a modern birth-flower list, January carries two flowers because no trade body ever standardized a single official calendar the way the jewelry industry did for birthstones in 1912."
+        "answer": "The almanac entry includes a snowdrop alongside a carnation. The sources examined do not identify a common standard-setting event for flower calendars, unlike the US jewelry trade's adoption of a gemstone chart in 1912."
       },
       {
         "question": "Where does the name \"carnation\" come from?",

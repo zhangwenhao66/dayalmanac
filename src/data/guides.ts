@@ -6480,7 +6480,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Are sweet peas actually poisonous?",
-        "answer": "Sweet-pea seeds contain BAPN. In animal experiments it interferes with collagen cross-links, damaging skeletal and other connective tissues: osteolathyrism, also called odoratism. Ponseti and Baird reported a rat feeding study in 1952. The human famine disease usually meant by lathyrism is neurolathyrism, linked to the grass pea (Lathyrus sativus) and its different toxin, ODAP. Both names sit under the lathyrism umbrella; a garden-plant warning should specify which plant, toxin and evidence it concerns."
+        "answer": "Sweet-pea seeds contain BAPN. In animal experiments it prevents normal linking between collagen fibers, damaging skeletal and other connective tissues. This rat pathology is called odoratism (osteolathyrism). Ponseti and Baird reported a rat feeding study in 1952. The human nerve disorder follows excessive consumption of grass pea (Lathyrus sativus), with ODAP as its implicated toxin. The famine-associated form is named neurolathyrism. Both names sit under the lathyrism umbrella; a garden-plant warning should specify which plant, toxin and evidence it concerns."
       },
       {
         "question": "Is the sweet pea related to the peas people eat?",

@@ -1,10 +1,10 @@
 <svg viewBox="0 0 1200 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Timeline from India's 1962 Teachers' Day to the 1994 UNESCO proclamation of World Teachers' Day</title>
-  <desc id="desc">1962: India begins its own Teachers' Day on September 5, Dr. Sarvepalli Radhakrishnan's birthday, thirty-two years before World Teachers' Day existed. 1966: UNESCO and the ILO sign the Recommendation concerning the Status of Teachers at a special conference in Paris. 1985: China begins its own Teachers' Day on September 10, tied to the start of the school year, nine years before UNESCO's proclamation existed; the same year, the US National Education Association moves its own Teacher Day observance to May. 1994: UNESCO proclaims October 5 World Teachers' Day, commemorating the 1966 Recommendation. 2026: the sixtieth anniversary of the 1966 Recommendation.</desc>
+  <title id="title">Timeline from India's 1962 Teachers' Day to the 1994 UNESCO observance of World Teachers' Day</title>
+  <desc id="desc">1962: India begins its own Teachers' Day on September 5, Dr. Sarvepalli Radhakrishnan's birthday, thirty-two years before World Teachers' Day existed. 1966: A UNESCO/ILO special conference adopts the Recommendation concerning the Status of Teachers at a special conference in Paris. 1985: China begins its own Teachers' Day on September 10, tied to the start of the school year, nine years before UNESCO's observance existed; the same year, the US National Education Association moves its own Teacher Day observance to May. 1994: UNESCO begins observing October 5 World Teachers' Day, commemorating the 1966 Recommendation. 2026: the sixtieth anniversary of the 1966 Recommendation.</desc>
   <rect width="1200" height="560" fill="#faf7f0" />
 
-  <text x="600" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">One global proclamation, and national days decades older than it</text>
-  <text x="600" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">UNESCO's Oct 5 proclamation dates to 1994. India's own Teachers' Day predates it by 32 years.</text>
+  <text x="600" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1f1d1a">One global observance, and national days decades older than it</text>
+  <text x="600" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#1f1d1a" opacity="0.6">UNESCO's Oct 5 observance dates to 1994. India's own Teachers' Day predates it by 32 years.</text>
 
   <line x1="70" y1="230" x2="1140" y2="230" stroke="#d8e0e2" stroke-width="3" />
 
@@ -23,7 +23,7 @@
   <text x="370" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1966</text>
   <text x="370" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
     <tspan x="370" dy="0">UNESCO and ILO</tspan>
-    <tspan x="370" dy="15">sign the Status of</tspan>
+    <tspan x="370" dy="15">adopt the Status of</tspan>
     <tspan x="370" dy="15">Teachers Recom-</tspan>
     <tspan x="370" dy="15">mendation, Paris</tspan>
   </text>
@@ -42,7 +42,7 @@
   <circle cx="900" cy="230" r="10" fill="#2f4858" />
   <text x="900" y="195" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-weight="700" fill="#1f1d1a">1994</text>
   <text x="900" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.8">
-    <tspan x="900" dy="0">UNESCO proclaims</tspan>
+    <tspan x="900" dy="0">UNESCO observes</tspan>
     <tspan x="900" dy="15">Oct 5 World</tspan>
     <tspan x="900" dy="15">Teachers' Day,</tspan>
     <tspan x="900" dy="15">honoring 1966</tspan>
@@ -61,7 +61,7 @@
   <rect x="200" y="370" width="800" height="110" rx="10" fill="#fff" stroke="#c96a4f" stroke-width="1.5" />
   <text x="600" y="398" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" font-weight="700" fill="#7a3b3b">Not the same institution, not the same day</text>
   <text x="600" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">India's and China's national Teachers' Days were not created to mark October 5, and neither was</text>
-  <text x="600" y="443" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">renamed or moved after UNESCO's proclamation existed. All three run in parallel, on separate dates,</text>
+  <text x="600" y="443" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">renamed or moved after UNESCO's observance existed. All three run in parallel, on separate dates,</text>
   <text x="600" y="464" text-anchor="middle" font-family="Georgia, serif" font-size="12.5" fill="#1f1d1a" opacity="0.85">for separate reasons — none of them wrong, none of them each other.</text>
 
   <line x1="120" y1="255" x2="450" y2="365" stroke="#c9bba0" stroke-width="1.5" stroke-dasharray="4 4" />

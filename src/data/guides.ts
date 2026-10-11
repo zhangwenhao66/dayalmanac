@@ -1702,7 +1702,7 @@ export const guides: Guide[] = [
     "title": "Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree",
     "description": "Virgo runs August 23 to September 22 in Western tropical astrology. Sidereal astrology and the actual constellation boundaries each draw a different line.",
     "published": "2026-08-05",
-    "updated": "2026-09-13",
+    "updated": "2026-10-11",
     "coreSummary": "Western tropical astrology, the system behind virtually every horoscope column and app, places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year. Vedic sidereal astrology, built on a different reference point, puts Virgo roughly a month later, around September 17 to October 16. The actual astronomical constellation the sign borrows its name from holds the Sun longer still, from about September 16 to October 30. All three ranges are correctly stated by their own rules; there is no single authority whose ruling overrides the other two.",
     "sections": [
       {
@@ -1762,7 +1762,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the date range for Virgo?",
-        "answer": "The Western tropical calendar most horoscopes rely on puts Virgo's window at 30 days, opening August 23 and closing September 22. Two other systems draw different lines: Vedic astrology's sidereal calendar shifts the window about a month later, to roughly September 17–October 16, while the star pattern the sign is named for keeps the Sun overhead for a longer 44-day span, per EarthSky's mapping of where that star group actually sits in the sky."
+        "answer": "The Western tropical calendar most horoscopes rely on gives Virgo a 31-date inclusive window, opening August 23 and closing September 22. Two other systems draw different lines: Vedic astrology's sidereal calendar shifts the window about a month later, to roughly September 17–October 16, while the star pattern the sign is named for keeps the Sun overhead for a longer 44-day span, per EarthSky's mapping of where that star group actually sits in the sky."
       },
       {
         "question": "Why do some sources say Virgo starts on August 22 instead of August 23?",
@@ -1853,8 +1853,8 @@ export const guides: Guide[] = [
     "title": "June 22 Zodiac: Cancer, Despite the Cusp Claims",
     "description": "June 22 falls under Cancer by every mainstream tropical chart. Wikipedia's astrology entry still manages to give two different start dates for the sign, a day apart.",
     "published": "2026-09-11",
-    "updated": "2026-09-16",
-    "coreSummary": "June 22 is Cancer under the Western tropical zodiac, the system behind most horoscope columns, which AstroStyle and Farmers' Almanac both place at June 21 to July 22. The boundary itself is set by the June solstice, not a fixed calendar date, and U.S. Naval Observatory data shows that solstice hasn't landed on June 22 since 1975 and won't again through 2100, so the day carries none of the real year-to-year ambiguity that June 20 or 21 births do.",
+    "updated": "2026-10-11",
+    "coreSummary": "June 22 is Cancer under the Western tropical zodiac, the system behind most horoscope columns, which AstroStyle and Farmers' Almanac both place at June 21 to July 22. The boundary itself is set by the June solstice, not a fixed calendar date, and U.S. Naval Observatory data shows no June 22 solstice in UTC after 1975 through 2100. Local clocks can still put that instant on June 22, so a birth near the boundary requires its year, time and time zone.",
     "sections": [
       {
         "heading": "What sign is June 22, really",
@@ -1876,9 +1876,9 @@ export const guides: Guide[] = [
         "heading": "How far the wobble actually reaches",
         "body": [
           "Pop-astrology sites treat the Gemini-Cancer boundary as a wide, mysterious \"cusp.\" YourTango, for one, places the cusp window at June 16 through June 22, implying nearly a week of genuine ambiguity about which sign applies.",
-          "The Naval Observatory's actual solstice data doesn't support a window anywhere near that wide. Checked year by year against the agency's published data, the June solstice has landed only on June 20, 21, or 22, never earlier or later, and June 22 is the rare edge of that range: the tables show it hasn't happened since 1975, and it doesn't recur through 2100, the far limit of the agency's current calculator. For anyone born in the past half-century, or anyone who will be born through the end of this century, June 22 sits a full calendar day past where the solstice can plausibly fall, with no real chance the sign boundary crosses it. A month earlier on the calendar, a different sign boundary gets the same scrutiny: [this site's May 22 zodiac page](/may-22-zodiac/) checks five years of ephemeris records against the Taurus-Gemini line and finds the real crossing consistently a day or two ahead of schedule.",
-          "The birthdays where the tropical sign genuinely can't be read off a calendar are June 20 and June 21, the two dates the solstice actually moves between. A \"cusp\" defined the way YourTango and similar sites define it, spanning nearly a week, is describing a mood more than a measurable fact.",
-          "Settling a genuine June 20 or 21 birth takes more than any general-purpose date range. It takes an ephemeris, a table giving the Sun's exact position for a specific date, time, and location, checked against the birth's own local time zone. A calendar page like this one answers the question correctly for the overwhelming majority of Cancer births, June 22 comfortably among them, and has nothing useful to say about the small slice of people born within a day of the solstice itself, where the hour of birth, not just the date, decides which sign applies."
+          "The Naval Observatory's actual solstice data doesn't support a window anywhere near that wide. Checked year by year against the agency's published data, the June solstice has landed only on June 20, 21, or 22, never earlier or later, and June 22 is the rare edge of that range: the UTC tables show it last happened in 1975 and does not recur through 2100, the far limit of the calculator. That is a UTC result, not a guarantee for every local birthday. For example, the agency gives the 2023 solstice as June 21 at 14:58 UTC, which is June 22 at 04:58 in UTC+14. A local June 22 birth before that instant is still before the tropical Cancer boundary. A month earlier on the calendar, a different sign boundary gets the same scrutiny: [this site's May 22 zodiac page](/may-22-zodiac/) checks five years of ephemeris records against the Taurus-Gemini line and finds the crossing on May 20 or May 21, one or two days before May 22.",
+          "In UTC, the modern boundary moves between June 20 and June 21. A local calendar can place it on June 22, so the birthday alone does not settle a birth near the crossing. A \"cusp\" defined the way YourTango and similar sites define it, spanning nearly a week, is describing a mood more than a measurable fact.",
+          "Settling a genuine June 20 or 21 birth takes more than any general-purpose date range. It takes an ephemeris, a table giving the Sun's exact position for a specific date, time, and location, checked against the birth's own local time zone. A calendar page like this one answers the question correctly for the overwhelming majority of Cancer births, but has no exact sign determination for someone born within a day of the solstice itself, where the hour of birth, not just the date, decides which sign applies."
         ]
       },
       {
@@ -1899,14 +1899,14 @@ export const guides: Guide[] = [
         "heading": "What doesn't move: symbol, planet, and birthstone",
         "body": [
           "Whichever calendar sets the boundary, Cancer's traditional attributes stay fixed across every tropical source. It's a cardinal Water sign, ruled by the Moon, and represented by the crab, tracing to a Greek myth in which a crab that harassed Heracles during his fight with the Hydra was crushed underfoot and placed among the stars by Hera afterward.",
-          "One thing the tropical system doesn't supply is an official birthstone. This site's [June birthstone page](/june-birthstone/) documents the Jewelers of America chart: pearl and moonstone from the original 1912 list, with alexandrite added forty years later. There's no comparable trade-group chart assigning stones to zodiac signs, and readers a day or two over on the Gemini side run into a separate mismatch: this site's [Gemini birthstone page](/gemini-birthstone/) traces the \"pearl and alexandrite\" claim some retailers make for Gemini back to June's own monthly list, since the older zodiac birthstone table most of those retailers actually draw from names agate for Gemini instead."
+          "One thing the tropical system doesn't supply is an official birthstone. This site's [June birthstone page](/june-birthstone/) documents the Jewelers of America chart: pearl and moonstone from the original 1912 list, with alexandrite added forty years later. There's no comparable trade-group chart assigning stones to zodiac signs, and readers a day or two over on the Gemini side run into a separate mismatch: this site's [Gemini birthstone page](/gemini-birthstone/) traces the \"pearl and alexandrite\" claim some retailers make for Gemini back to June's own monthly list, while the older zodiac birthstone table discussed on that page names agate for Gemini instead."
         ]
       }
     ],
     "faq": [
       {
         "question": "What zodiac sign is June 22?",
-        "answer": "Cancer. The Western zodiac most horoscopes use marks the sign as running from around the June solstice through late July, and June 22 lands squarely inside that stretch rather than anywhere near an edge."
+        "answer": "Cancer on the broad Western date charts quoted here. Those charts describe a season beginning at the northern summer solstice. Anyone born close to the actual crossing should use the birth’s local clock and year, since farther-east local clocks may label the crossing as the 22nd."
       },
       {
         "question": "Why do some sources say Cancer starts on June 21 and others say June 22?",
@@ -1914,7 +1914,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is June 22 part of the Gemini-Cancer cusp?",
-        "answer": "Only under generous pop-astrology definitions that stretch a 'cusp' out to nearly a week. The real mechanism behind any cusp, official government solstice records, confines the swing to a two-day range that doesn't reach June 22 at all in the current era, making this date one of the more secure, non-ambiguous Cancer birthdays on the calendar."
+        "answer": "The broad weeklong windows used by popular astrology sites exceed the actual boundary’s calendar drift. In the UTC seasons record examined here, the last June 22 crossing was in 1975 and none follows through 2100. A local date can differ: early births on the 22nd in far-eastern zones may precede that year’s changeover. Exact timing settles the sign."
       },
       {
         "question": "What are Cancer's ruling planet, element, and symbol?",
@@ -2128,7 +2128,7 @@ export const guides: Guide[] = [
     "title": "October 14 Zodiac: Libra by Date, Virgo by Sky",
     "description": "October 14 is Libra on every mainstream tropical chart. The actual constellation and Vedic sidereal astrology both still place the Sun in Virgo on this date.",
     "published": "2026-09-16",
-    "updated": "2026-09-16",
+    "updated": "2026-10-11",
     "coreSummary": "October 14 falls solidly inside Libra under every mainstream tropical account, from AstroStyle and Farmers' Almanac's September 23-to-October 22 window to Wikipedia's own September 24-to-October 23 version, so it isn't a contested cusp date the way this site's May 22 or June 22 zodiac pages are. Two other systems disagree entirely: EarthSky's constellation-based boundaries keep the Sun in Virgo until October 30, and the Vedic sidereal calendar's Tula Sankranti doesn't move the Sun into Libra until October 17, 2026, three days after this date.",
     "sections": [
       {
@@ -2136,7 +2136,7 @@ export const guides: Guide[] = [
         "body": [
           "AstroStyle titles its Libra reference page \"Libra Dates: September 23 to October 22,\" and Farmers' Almanac states the same window directly in its own Libra coverage: \"If your birthday lands between September 23 and October 22, the Sun was passing through the house of Libra when you were born.\" On that count, October 14 is the sign's 22nd day, well past its opening and eight days from its close.",
           "Wikipedia's astrology entry gives a very slightly later window, stating the Sun \"transits this sign on average between September 24 and October 23.\" That's a day later on both ends than AstroStyle and Farmers' Almanac, the same kind of single-day rounding gap this site's May 22 and June 22 zodiac pages document for their own sign boundaries. But shifting the range by a day doesn't touch October 14 either way: it lands on the 21st day of Wikipedia's version, still comfortably inside the sign's middle stretch.",
-          "That's what sets this date apart from the two other zodiac-day pages on this site. May 22 and June 22 were picked because they sit close enough to a boundary that different publishers land on different signs. October 14 isn't a boundary date in the tropical system at all; every mainstream account checked here agrees without qualification that it's Libra."
+          "That's what sets this date apart from the two other zodiac-day pages on this site. May 22 and June 22 were picked because publishers differ about whether they are the opening or second day of their signs. October 14 isn't a boundary date in the tropical system at all; every mainstream account checked here agrees without qualification that it's Libra."
         ]
       },
       {
@@ -2151,7 +2151,7 @@ export const guides: Guide[] = [
         "heading": "A different calendar entirely: Vedic sidereal astrology",
         "body": [
           "Vedic, or Jyotish, astrology tracks the Sun against the fixed stars rather than the equinox-anchored tropical system, using a reference point called the Lahiri ayanamsha. Its sidereal calendar names each solar sign-change a Sankranti, and for 2026 the transition into Libra, called Tula Sankranti, is dated October 17, per the festival calendar published by Nakshatrica. The sign it replaces, Kanya (Virgo), runs from Kanya Sankranti on September 17 up to that date.",
-          "October 14 falls three days inside that Kanya window, not yet in Tula. A birth on this date is a sidereal Virgo, the same sign the actual constellation points to, and a tropical Libra at the same time, since neither the Vedic calendar nor the physical sky has caught up with the tropical zodiac's math yet. The gap between the tropical and sidereal versions traces to axial precession, the same roughly 25,800-year wobble that separates the tropical dates from the real constellations, currently running the two calendars about 24 degrees, or most of a sign, apart."
+          "October 14 falls three days before that Kanya window ends, not yet in Tula. A birth on this date is a sidereal Virgo, the same sign the actual constellation points to, and a tropical Libra at the same time, since neither the Vedic calendar nor the physical sky has caught up with the tropical zodiac's math yet. The gap between the tropical and sidereal versions traces to axial precession, the same roughly 25,800-year wobble that separates the tropical dates from the real constellations, currently running the two calendars about 24 degrees, or most of a sign, apart."
         ]
       },
       {
@@ -2178,7 +2178,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is October 14th a Libra or Scorpio?",
-        "answer": "Libra, clearly. Scorpio doesn't begin until October 22 at the earliest of the accounts checked here, so this date sits more than a week before that boundary even starts to matter."
+        "answer": "Libra, clearly. Scorpio begins after October 22 at the earliest of the accounts checked here, so this date sits more than a week before that boundary even starts to matter."
       },
       {
         "question": "Does the actual constellation Libra match October 14?",
@@ -2186,7 +2186,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the Vedic or sidereal zodiac sign for October 14?",
-        "answer": "Kanya, the sidereal name for Virgo. Nakshatrica's 2026 festival calendar dates the Sun's Vedic-calendar crossing into the following sign to October 17, just short of a week later, so a chart cast on this day still sits in the earlier sign."
+        "answer": "Kanya, the sidereal name for Virgo. Nakshatrica's 2026 festival calendar dates the Sun's Vedic-calendar crossing into the following sign to October 17, three days later, so a chart cast on this day still sits in the earlier sign."
       },
       {
         "question": "What is Libra's ruling planet and element?",
@@ -2245,7 +2245,7 @@ export const guides: Guide[] = [
     "title": "March Birthstone: Aquamarine and Bloodstone",
     "description": "March's birthstone is aquamarine on Jewelers of America's current chart. GIA and the American Gem Society both also list bloodstone as a second option.",
     "published": "2026-08-05",
-    "updated": "2026-08-05",
+    "updated": "2026-10-11",
     "coreSummary": "March is commonly described as having two birthstones, aquamarine and bloodstone, and GIA and the American Gem Society both present it that way, but Jewelers of America's own current chart names only aquamarine. The two stones swapped which one was listed as primary in a 1952 revision to the list Jewelers of America's predecessor created in 1912.",
     "sections": [
       {
@@ -2270,7 +2270,7 @@ export const guides: Guide[] = [
         "body": [
           "In August 1912, the American National Retail Jewelers Association, the organization now known as Jewelers of America, met in Kansas City and adopted the first standardized U.S. birthstone list. For March, that original list named bloodstone as the primary stone and aquamarine as the listed alternate, per the same Wikipedia table.",
           "The list didn't stay fixed after that. A 1952 revision, credited by Wikipedia to a group called the Jewelry Industry Council of America, added alexandrite to June, citrine to November, and pink tourmaline to October, and replaced December's lapis lazuli with zircon. That same revision is described as having also flipped March's internal order, moving aquamarine into the primary spot it has held ever since.",
-          "As with the other stones touched by that 1952 update, sources don't agree on exactly which organization carried it out. Some accounts credit Jewelers of America's own predecessor association directly; Wikipedia's account names the separate Jewelry Industry Council of America. This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here without confirmation. The list has been revised only a handful of times since: the American Gem Trade Association added tanzanite to December in 2002, and the American Gem Trade Association and Jewelers of America jointly added spinel to August in 2016, showing the same small set of trade groups still revises the list and has never treated it as closed. October ends up with a similar split: a 1952-vintage stone, tourmaline, paired with a far older one, opal, whose reputation for bad luck is younger than it looks, tracing to one 1829 novel and not to genuine folklore, the case [this site's October birthstone page](/october-birthstone/) lays out in full."
+          "As with the other stones touched by that 1952 update, sources don't agree on exactly which organization carried it out. Some accounts credit Jewelers of America's own predecessor association directly; Wikipedia's account names the separate Jewelry Industry Council of America. This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here without confirmation. The list has been revised only a handful of times since: the American Gem Trade Association added tanzanite to December in 2002, and the American Gem Trade Association and Jewelers of America jointly added spinel to August in 2016, showing the same small set of trade groups still revises the list and has never treated it as closed. October ends up with a similar split: a 1952-vintage stone, tourmaline, paired with a far older one, opal, whose modern bad-luck reputation the American Gem Society attributes to Walter Scott's 1829 novel, an account [this site's October birthstone page](/october-birthstone/) lays out in full."
         ]
       },
       {
@@ -2387,13 +2387,13 @@ export const guides: Guide[] = [
     "title": "September Birthstone: Sapphire, Unchanged Since 1912",
     "description": "Sapphire is September's only official birthstone, one of the few never revised since 1912, though the UK trade list still adds a second stone, lapis lazuli.",
     "published": "2026-08-05",
-    "updated": "2026-09-03",
-    "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912. The three trade-group updates since then (1952, 2002, 2016) each touched a different month. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's own 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
+    "updated": "2026-10-11",
+    "coreSummary": "September has exactly one official birthstone, sapphire, and it is one of the few entries on the Jewelers of America list that has never been revised since the list was first adopted in 1912. The trade-group updates in 1952, 2002 and 2016 affected other months. The stone itself is broader than its reputation: any color of corundum except red counts as sapphire, and the UK's 2013 trade list still differs from the US one by naming a second official stone, lapis lazuli.",
     "sections": [
       {
         "heading": "September's one official birthstone",
         "body": [
-          "Jewelers of America's current birthstone chart lists exactly one stone for September: sapphire. There's no equivalent here to the argument this calendar had to untangle for [December](/december-birthstone/) (three stones, plus a widely marketed fourth that isn't official) or [March](/march-birthstone/) (two stones with a disputed primary/alternate order). September is one of the rare months where the trade association's own list and popular usage actually agree on how many stones belong.",
+          "Jewelers of America's current birthstone chart lists exactly one stone for September: sapphire. There's no equivalent here to the argument this calendar had to untangle for [December](/december-birthstone/) (three stones, plus a widely marketed fourth that isn't official) or [March](/march-birthstone/) (two stones with a disputed primary/alternate order). September is one of the rare months where the trade association's list and popular usage actually agree on how many stones belong.",
           "Where September does have a gap is color, not count. Sapphire is best known as a deep blue stone, but the term covers any color of the mineral corundum except red; red corundum is classified as ruby, its own separate birthstone for July. According to the American Gem Society, sapphires occur in white, pink, orange, yellow, green, violet, purple, brown, and black, and a pinkish-orange variety called padparadscha, named for a Sinhala word for lotus flower, can sell for more than a blue stone of similar size and clarity. A page or a retailer that treats \"the September birthstone\" as meaning specifically blue sapphire is narrower than the actual definition."
         ]
       },
@@ -2401,20 +2401,20 @@ export const guides: Guide[] = [
         "heading": "Revised three times since 1912, never for September",
         "body": [
           "The US birthstone list traces to a single 1912 meeting in Kansas City, where the American National Retail Jewelers Association, the organization now known as Jewelers of America, adopted a standardized list to replace the patchwork of regional folk traditions retailers had been drawing on. September's slot went to sapphire at that meeting.",
-          "The list has been revised three times since, and each revision landed on a different month. In 1952, a trade-industry update added alexandrite to June, citrine to November, pink tourmaline to October, and zircon to December (sources disagree on whether that specific revision was carried out by Jewelers of America's own predecessor or a separate body, the Jewelry Industry Council of America, the same unresolved attribution this calendar noted on [December's birthstone page](/december-birthstone/)). In 2002, the American Gem Trade Association added tanzanite to December. In 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August. None of the three touched September. The organization's live chart today still shows the single stone it named in 1912."
+          "The three revisions discussed here affected other months. In 1952, a trade-industry update added alexandrite to June, citrine to November, pink tourmaline to October, and zircon to December (sources disagree on whether that specific revision was carried out by Jewelers of America's predecessor or a separate body, the Jewelry Industry Council of America, the same unresolved attribution this calendar noted on [December's birthstone page](/december-birthstone/)). In 2002, the American Gem Trade Association added tanzanite to December. In 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August. None of the three touched September. The organization's live chart today still shows the single stone it named in 1912."
         ]
       },
       {
         "heading": "What came before 1912 is less settled than most pages let on",
         "body": [
-          "Sites that describe a \"traditional\" birthstone list alongside the modern one don't always agree with each other about what that traditional list actually said for September. Wikipedia's birthstone chart, citing gemologist George Frederick Kunz's 1913 compilation of older European folk traditions, lists September's pre-1912 stone as chrysolite, an archaic name that, by multiple accounts, was applied inconsistently to what would now be called either peridot or topaz, since older mineral names tracked color rather than composition. The International Gem Society's own \"traditional birthstone list,\" published on its site, instead names sapphire for September on both the traditional and modern columns, treating them as the same stone all along.",
+          "Sites that describe a \"traditional\" birthstone list alongside the modern one don't always agree with each other about what that traditional list actually said for September. Wikipedia's birthstone chart, citing gemologist George Frederick Kunz's 1913 compilation of older European folk traditions, lists September's pre-1912 stone as chrysolite, an archaic name that, by multiple accounts, was applied inconsistently to what would now be called either peridot or topaz, since older mineral names tracked color rather than composition. The International Gem Society's \"traditional birthstone list,\" published on its site, instead names sapphire for September on both the traditional and modern columns, treating them as the same stone all along.",
           "Both pages are citing real sources; they just aren't citing the same one. That's a smaller-scale version of the same problem this calendar keeps running into with observance origins: a single word like \"traditional\" gets applied to more than one actual document, and a reader has no way to tell which document a given page means unless it says so."
         ]
       },
       {
-        "heading": "The UK's own list still isn't the same as the US one",
+        "heading": "The UK's list still isn't the same as the US one",
         "body": [
-          "Jewelers of America's list isn't the only current, active trade-group standard. Britain's own jewelry trade group, the National Association of Goldsmiths, published its own birthstone list in 1937 and revised its chart in 2013, giving September a second official stone: lapis lazuli, alongside sapphire. That revision predates the organization's 2015 merger with the British Jewellers' Association into the National Association of Jewellers, so the 2013 change belongs to the original association, not the merged one that exists today. The US list does not currently include lapis lazuli for September; in the American tradition that stone belongs to December instead. A shopper checking the UK trade list and a shopper checking the US one currently get different, both-correct answers to \"how many official September birthstones are there.\""
+          "Jewelers of America's list isn't the only current, active trade-group standard. Britain's jewelry trade group, the National Association of Goldsmiths, published a birthstone list in 1937 and revised its chart in 2013, giving September a second official stone: lapis lazuli, alongside sapphire. That revision predates the organization's 2015 merger with the British Jewellers' Association into the National Association of Jewellers, so the 2013 change belongs to the original association, not the merged one that exists today. The US list does not currently include lapis lazuli for September; in the historical American list it belonged to December before zircon replaced it in 1952. A shopper checking the UK trade list and a shopper checking the US one currently get different, both-correct answers to \"how many official September birthstones are there.\""
         ]
       },
       {
@@ -2433,46 +2433,46 @@ export const guides: Guide[] = [
       {
         "heading": "A separate mismatch: the zodiac stone for Virgo isn't sapphire either",
         "body": [
-          "September birthdays mostly fall under Virgo, and it's common to see gemstone sites claim sapphire as \"the\" Virgo zodiac stone, on top of it being the September birthstone. [This calendar's own Virgo dates page](/virgo-dates/) already flagged that retailers can't agree among sapphire, peridot, or carnelian for Virgo's stone, without a governing body behind any of the claims. Kunz's 1913 zodiacal table, the same one behind the \"chrysolite\" note above, actually assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead. Whatever a modern astrology blog says, the older documented Western tradition and the modern monthly birthstone list simply agree on sapphire by coincidence, not because one system was built from the other. The rest of DayAlmanac's [Birthstones hub](/topics/birthstones/) covers the other eleven months, including March and June."
+          "September birthdays mostly fall under Virgo, and it's common to see gemstone sites claim sapphire as \"the\" Virgo zodiac stone, on top of it being the September birthstone. [This calendar's Virgo dates page](/virgo-dates/) already flagged that retailers can't agree among sapphire, peridot, or carnelian for Virgo's stone, without a governing body behind any of the claims. Kunz's 1913 zodiacal table, the same one behind the \"chrysolite\" note above, actually assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead. Whatever a modern astrology blog says, the older documented Western tradition and the modern monthly birthstone list simply agree on sapphire by coincidence, not because one system was built from the other. The rest of DayAlmanac's [Birthstones hub](/topics/birthstones/) covers the other eleven months, including March and June."
         ]
       }
     ],
     "faq": [
       {
         "question": "What is the official September birthstone?",
-        "answer": "Sapphire, the only stone on Jewelers of America's current birthstone list for September, unchanged since the list was first adopted in 1912."
+        "answer": "The American trade chart names sapphire alone for September. It has held that place since the 1912 standardization, with no later change to this month."
       },
       {
         "question": "What is September's birth flower, alongside its birthstone?",
-        "answer": "Sapphire is the birthstone. The birth flowers are aster and morning glory, per the Old Farmer's Almanac list most modern trade sources draw from. Neither pairing traces to the same governing body: the birthstone list dates to a documented 1912 trade meeting, while the flower pairing comes from 19th-century floriography dictionaries that were never consolidated into one official standard. See [this calendar's September birth flower page](/september-birth-flower/) for how aster and morning glory got their names."
+        "answer": "The gem is sapphire; the flowers are aster and morning glory in the Old Farmer's Almanac account. The two lists have different histories: the gem roster came from the 1912 jewelers' meeting, while flower meanings circulated through nineteenth-century dictionaries without a single authority consolidating them. The [September flower guide](/september-birth-flower/) explains the names of both flowers."
       },
       {
         "question": "Does the September birthstone have to be blue?",
-        "answer": "No. Sapphire covers any color of corundum except red, which is classified as ruby instead. The American Gem Society lists white, pink, orange, yellow, green, violet, purple, and black sapphires as equally valid, along with the rare pinkish-orange padparadscha variety."
+        "answer": "No. Corundum of any color other than red can be sapphire; the red variety is ruby. AGS includes shades from white and black through green, brown, pink, purple, violet, orange and yellow. Padparadscha is the unusual pink-orange variety."
       },
       {
         "question": "Has September's birthstone ever changed?",
-        "answer": "Not on the US list. The three revisions since 1912 (1952, 2002, and 2016) added stones to June, November, October, December, and August at various points, but none of them touched September."
+        "answer": "The American roster has kept September intact. Other months changed in the rounds dated 1952, then 2002 and 2016: June, November, October, December and August."
       },
       {
         "question": "Is there a different September birthstone in the UK?",
-        "answer": "Yes. Britain's jewelry trade list, revised in 2013, names both sapphire and lapis lazuli for September. The US Jewelers of America list has never included lapis lazuli for September; that stone belongs to December in the American tradition."
+        "answer": "Yes in the British chart revised during 2013: sapphire shares September with lapis lazuli there. The American chart contains no September lapis entry. Its former American assignment was December; the 1952 revision exchanged lapis for zircon."
       },
       {
         "question": "What is padparadscha sapphire?",
-        "answer": "A rare pinkish-orange variety of sapphire, named after a Sinhala word for lotus flower. Because of its rarity, a padparadscha can sell for more than a blue sapphire of comparable size and clarity."
+        "answer": "Padparadscha is an uncommon sapphire combining pink and orange. Its name comes from the Sinhala name of the lotus. A specimen may cost more than blue sapphire of the same size and clarity because the variety is scarce."
       },
       {
         "question": "Is sapphire durable enough for an everyday ring?",
-        "answer": "Yes. It ranks 9 on the Mohs hardness scale, second only to diamond among natural minerals, and has no cleavage, meaning it resists chipping under normal wear."
+        "answer": "Yes for normal jewelry use: its Mohs rating is 9, below diamond's 10, and the crystal lacks cleavage planes that readily split. That helps it resist everyday chipping, although treatment methods affect which cleaning methods are appropriate."
       },
       {
         "question": "What are the two birthstones for September?",
-        "answer": "On the US list, September has just one, sapphire. The \"two birthstones\" version comes from Britain's separate jewelry-trade list, revised in 2013, which pairs sapphire with lapis lazuli. Jewelers of America's US chart has never included lapis lazuli for September; that stone belongs to December in the American tradition."
+        "answer": "The one-stone answer follows the American chart, which names sapphire. Britain's two-stone version, revised in 2013, names sapphire together with lapis. The American September roster never acquired lapis; that gem was historically a December entry."
       },
       {
         "question": "Is sapphire one of the rarest birthstones?",
-        "answer": "Not as a whole. Buying guides that rank birthstone rarity usually put alexandrite (June's birthstone) first, with tanzanite and ruby named ahead of sapphire too, since blue sapphire is comparatively easy to source. The padparadscha variety is the exception, and the FAQ above already covers why that particular stone commands a premium."
+        "answer": "Ordinary blue sapphire is readily sourced and does not usually lead buying guides' rarity lists. Those guides often put alexandrite first and also name tanzanite and ruby above it. There is no single agreed ranking. The scarce pink-orange padparadscha variety is an exception within sapphire, which is why it can carry a premium."
       }
     ],
     "sources": [

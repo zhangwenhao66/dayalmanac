@@ -1564,7 +1564,7 @@ export const guides: Guide[] = [
     "title": "December Birthstone: Turquoise, Zircon, and Tanzanite",
     "description": "December's three official birthstones are turquoise, blue zircon, and tanzanite, not blue topaz, despite how often retailers market it as one.",
     "published": "2026-08-04",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "December's three official birthstones (turquoise, blue zircon, and tanzanite) were assembled by trade organizations across three separate revisions: the 1912 American chart paired turquoise with lapis lazuli; its 1952 revision exchanged lapis for zircon, and tanzanite joined the two remaining stones in 2002. Blue topaz is heavily marketed by jewelry retailers as a fourth December birthstone, but the current Jewelers of America list has never included it.",
     "sections": [
       {
@@ -1613,14 +1613,14 @@ export const guides: Guide[] = [
         "heading": "Where the official list actually came from",
         "body": [
           "The US birthstone list traces back to a single meeting: in 1912, the American National Retail Jewelers Association (the organization now known as Jewelers of America) met in Kansas City and adopted a standardized list, aiming to settle the many competing folk birthstone traditions that had accumulated across centuries into one list retailers could use consistently. The historical chart paired turquoise with lapis lazuli for December. Turquoise continued its older association, while the lapis entry would later be replaced.",
-          "The list has been revised only a handful of times since. In 1952, a trade-industry update replaced December’s lapis with zircon and added stones for three other months. In 2002, the American Gem Trade Association added tanzanite to December, the list's first change to any month in fifty years. Most recently, in 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August, showing that the same small set of trade groups is still actively willing to revise the list rather than treating it as fixed. One of those other Octobers added that year, tourmaline, shares its month with a much older stone carrying its own debunkable reputation: [this site's October birthstone page](/october-birthstone/) compares the American Gem Society's account of opal's changed reputation with GIA's identification of an 1829 novel.",
-          "Blue topaz has never gone through that process. It shows up in retailer catalogs because it happens to look the part, not because any trade group ever voted it onto the list. That's a different kind of gap from the disputed founding stories behind observance days on this calendar: [National Dog Day](/national-dog-day/)'s origin comes down to one person's word against her own organization's paperwork, while December's birthstone list, by contrast, has a dated, attributable paper trail for almost every change made to it. The one piece that's murky is who exactly carried out the 1952 revision; everything else about who added what, and when, is on the record. A different kind of borrowed-stone problem turns up off the monthly list entirely: [this site's Libra birthstone page](/libra-birthstone/) found sapphire and opal marketed for that zodiac sign are simply borrowed from September and October's monthly stones, not from the actual 1913 zodiac-stone table."
+          "The list has been revised only a handful of times since. In 1952, a trade-industry update replaced December’s lapis with zircon and added stones for three other months. In 2002, the American Gem Trade Association added tanzanite to December, the list's first change to any month in fifty years. Most recently, in 2016, the American Gem Trade Association and Jewelers of America jointly added spinel to August, showing that the same small set of trade groups is still actively willing to revise the list rather than treating it as fixed. October’s revision specified pink tourmaline, while the broader tourmaline entry was already an alternate in 1912. Opal, the other October stone, carries its own debunkable reputation: [this site's October birthstone page](/october-birthstone/) compares the American Gem Society's account of opal's changed reputation with GIA's identification of an 1829 novel.",
+          "Blue topaz has never gone through that process. It shows up in retailer catalogs because it happens to look the part, not because any trade group ever voted it onto the list. That's a different kind of gap from the unreconciled accounts behind observance days on this calendar: [National Dog Day](/national-dog-day/) has two accounts on its founder’s site, one explaining the date and the other describing a motive, while December's birthstone list, by contrast, has a dated, attributable paper trail for almost every change made to it. The one piece that's murky is who exactly carried out the 1952 revision; everything else about who added what, and when, is on the record. A different kind of borrowed-stone problem turns up off the monthly list entirely: [this site's Libra birthstone page](/libra-birthstone/) found sapphire and opal marketed for that zodiac sign match the neighboring monthly assignments, while the specific 1913 zodiac table gives Libra chrysolite."
         ]
       },
       {
         "heading": "Choosing among three real options",
         "body": [
-          "For anyone shopping by birth month rather than by observance (the same instinct that drives gift-giving around a manufactured single day like [National Boyfriend Day](/national-boyfriend-day/)), December actually offers three legitimately different official stones, not one default choice. Turquoise is the most widely available and least expensive of the three, and the only one with a documented history stretching back thousands of years. Zircon offers a diamond-rivaling brilliance at a fraction of the cost, though nearly all of the blue supply traces back to that single Cambodian province. Tanzanite is the rarest and priciest of the three, and the only one where the entire world's known supply comes from one hillside in Tanzania. Checking which of the three a piece of jewelry actually is, rather than assuming \"blue stone in December\" automatically means birthstone-correct, is worth doing before a birthday purchase, the same way it's worth checking whether an occasion like [National Grandparents Day](/national-grandparents-day/) has a real founding story behind it or just a marketing one."
+          "For anyone shopping by birth month rather than by observance (as with gift-giving around an unofficial occasion like [National Boyfriend Day](/national-boyfriend-day/)), December actually offers three legitimately different official stones, not one default choice. Turquoise is the most widely available and least expensive of the three, and the only one with a documented history stretching back thousands of years. Zircon offers a diamond-rivaling brilliance at a fraction of the cost, though nearly all of the blue supply traces back to that single Cambodian province. Tanzanite is the rarest and priciest of the three, and the only one where the entire world's known supply comes from one hillside in Tanzania. Checking which of the three a piece of jewelry actually is, rather than assuming \"blue stone in December\" automatically means birthstone-correct, is worth doing before a birthday purchase, the same way it's worth checking whether an occasion like [National Grandparents Day](/national-grandparents-day/) has a real founding story behind it or just a marketing one."
         ]
       }
     ],
@@ -2245,7 +2245,7 @@ export const guides: Guide[] = [
     "title": "March Birthstone: Aquamarine and Bloodstone",
     "description": "March's birthstone is aquamarine on Jewelers of America's current chart. GIA and the American Gem Society both also list bloodstone as a second option.",
     "published": "2026-08-05",
-    "updated": "2026-10-11",
+    "updated": "2026-10-12",
     "coreSummary": "March is commonly described as having two birthstones, aquamarine and bloodstone, and GIA and the American Gem Society both present it that way, but Jewelers of America's own current chart names only aquamarine. The two stones swapped which one was listed as primary in a 1952 revision to the list Jewelers of America's predecessor created in 1912.",
     "sections": [
       {
@@ -2254,7 +2254,7 @@ export const guides: Guide[] = [
           "Ask which birthstones belong to March and most sources give the same two-word answer: aquamarine and bloodstone. The Gemological Institute of America's page on the subject opens by describing \"Aquamarine and bloodstone, March's two birthstones.\" The American Gem Society covers both stones in comparable depth on its own site, under the heading \"March Birthstones: Aquamarine and Bloodstone.\"",
           "Jewelers of America tells a narrower story. The organization is the direct descendant of the 1912 meeting that created the official U.S. birthstone list, and its own current chart of monthly birthstones names exactly one stone for March: aquamarine. Bloodstone doesn't appear on that chart at all, not as a second choice and not as a footnote.",
           "That's not a case of the chart listing one stone per month across the board, so a reader shouldn't assume March is simply being treated like every other month. The same page lists three stones for June (pearl, moonstone, and alexandrite), two for August (peridot and spinel), and three for December (turquoise, tanzanite, and blue zircon). March's single-stone entry stands out against that pattern.",
-          "The International Gem Society splits the difference by calling aquamarine the \"modern\" birthstone and bloodstone the \"traditional\" one, treating both as legitimate but rooted in different eras of the list. That framing tracks with how the list actually took shape, which is a longer story than any single chart shows. That same modern-versus-traditional confusion shows up one rung further out, on the zodiac-sign side, not the calendar-month side: [this site's Libra birthstone page](/libra-birthstone/) found sapphire and opal sold under that sign's name are just September and October's monthly stones relabeled, not the stone an actual 1913 zodiac table assigns to Libra."
+          "The International Gem Society splits the difference by calling aquamarine the \"modern\" birthstone and bloodstone the \"traditional\" one, treating both as legitimate but rooted in different eras of the list. That framing tracks with how the list actually took shape, which is a longer story than any single chart shows. That same modern-versus-traditional confusion shows up one rung further out, on the zodiac-sign side, not the calendar-month side: [this site's Libra birthstone page](/libra-birthstone/) found that sapphire and opal marketed for the sign match the neighboring monthly assignments, while Kunz’s specific 1913 table assigns Libra chrysolite instead."
         ]
       },
       {
@@ -2270,7 +2270,7 @@ export const guides: Guide[] = [
         "body": [
           "In August 1912, the American National Retail Jewelers Association, the organization now known as Jewelers of America, met in Kansas City and adopted the first standardized U.S. birthstone list. For March, that original list named bloodstone as the primary stone and aquamarine as the listed alternate, per the same Wikipedia table.",
           "The list didn't stay fixed after that. A 1952 revision, credited by Wikipedia to a group called the Jewelry Industry Council of America, added alexandrite to June, citrine to November, and pink tourmaline to October, and replaced December's lapis lazuli with zircon. That same revision is described as having also flipped March's internal order, moving aquamarine into the primary spot it has held ever since.",
-          "As with the other stones touched by that 1952 update, sources don't agree on exactly which organization carried it out. Some accounts credit Jewelers of America's own predecessor association directly; Wikipedia's account names the separate Jewelry Industry Council of America. This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here without confirmation. The list has been revised only a handful of times since: the American Gem Trade Association added tanzanite to December in 2002, and the American Gem Trade Association and Jewelers of America jointly added spinel to August in 2016, showing the same small set of trade groups still revises the list and has never treated it as closed. October ends up with a similar split: a 1952-vintage stone, tourmaline, paired with a far older one, opal, whose modern bad-luck reputation the American Gem Society connects to an early nineteenth-century story that GIA identifies as Walter Scott's 1829 novel, an account [this site's October birthstone page](/october-birthstone/) lays out in full."
+          "As with the other stones touched by that 1952 update, sources don't agree on exactly which organization carried it out. Some accounts credit Jewelers of America's own predecessor association directly; Wikipedia's account names the separate Jewelry Industry Council of America. This piece did not find a primary document from 1952 itself that settles which is correct, so the attribution is reported here without confirmation. The list has been revised only a handful of times since: the American Gem Trade Association added tanzanite to December in 2002, and the American Gem Trade Association and Jewelers of America jointly added spinel to August in 2016, showing the same small set of trade groups still revises the list and has never treated it as closed. October ends up with a similar split: tourmaline, already listed as a 1912 alternate and specified as pink in 1952, paired with opal, whose modern bad-luck reputation the American Gem Society connects to an early nineteenth-century story that GIA identifies as Walter Scott's 1829 novel, an account [this site's October birthstone page](/october-birthstone/) lays out in full."
         ]
       },
       {
@@ -2304,7 +2304,7 @@ export const guides: Guide[] = [
         "heading": "Which one to buy, and why the disagreement isn't unique to March",
         "body": [
           "Since the lists disagree, the practical approach is to know what's actually being offered before buying. Aquamarine is the pricier, more widely available option in fine jewelry, easy to find faceted into rings, pendants, and earrings. Bloodstone is inexpensive, historically distinct, and shows up more often in cabochons, carved seals, or vintage-style signet rings than in mainstream engagement jewelry. Neither is a wrong choice; they're simply answering to different lists.",
-          "March isn't the only month where the record is this tangled. [December's three official birthstones](/december-birthstone/) came from three separate revisions spread across ninety years, and even that settled list gets padded out in stores by blue topaz, a stone no trade group has ever actually adopted. The same pattern of \"looks fixed, isn't\" shows up outside birthstones, too: [Virgo's date range](/virgo-dates/) shifts by a day in some years because the equinox lands at a different clock time each year and the time zone doing the counting matters.",
+          "March isn't the only month where the record is this tangled. [December's three official birthstones](/december-birthstone/) came from three separate revisions spread across ninety years, and even that settled list gets padded out in stores by blue topaz, a stone no trade group has ever actually adopted. The same pattern of \"looks fixed, isn't\" shows up outside birthstones, too: [Virgo's date range](/virgo-dates/) can shift by a day between years and local time zones as the Sun’s entry into the sign falls at a different instant.",
           "None of this makes aquamarine the \"real\" March birthstone and bloodstone a pretender, or the other way around. It means the birthstone list was never handed down complete and permanent. It's been edited in pieces by a handful of trade groups over more than a century, the same way plenty of claims repeated as settled fact online, like [National Dog Day's founding story](/national-dog-day/), turn out to have more than one version once the primary source gets checked instead of the retelling."
         ]
       }
@@ -4363,27 +4363,27 @@ export const guides: Guide[] = [
     "slug": "june-birth-flower",
     "category": "Birth Flowers",
     "title": "June Birth Flower: Rose and Honeysuckle, and Rose's Missing Parent",
-    "description": "June's birth flowers are rose and honeysuckle, but the cut rose sold at florists traces to one 1867 hybrid whose own parentage is still disputed.",
+    "description": "June's birth flowers are rose and honeysuckle, but the hybrid tea class is commonly dated to an 1867 cultivar whose own parentage is disputed.",
     "published": "2026-08-21",
-    "updated": "2026-10-11",
-    "coreSummary": "June's birth flowers are rose and honeysuckle. The tall, single-stem rose sold at florists isn't the ancient flower most birth-flower pages imply; it traces to 'La France,' a pink hybrid tea rose bred in Lyon, France in 1867 by Jean-Baptiste André Guillot, whose parentage is still disputed among rosarians. Honeysuckle carries two unrelated names: its scientific name, Lonicera, honors 16th-century German botanist Adam Lonicer, while the English word traces to Old English for 'honey-suck' and originally referred to clover, not the vine, before shifting meaning around 1400. The honeysuckle photographed on many birth-flower pages is often Lonicera japonica, an invasive East Asian species subject to state restrictions, including Indiana and Connecticut.",
+    "updated": "2026-10-12",
+    "coreSummary": "June's birth flowers are rose and honeysuckle. The modern hybrid tea class, familiar from long-stemmed cut roses, is commonly dated to 'La France,' a pink cultivar introduced in Lyon, France in 1867 by Jean-Baptiste André Guillot. Its parentage is disputed; that milestone does not make it the proven ancestor of every florist rose. Honeysuckle carries two unrelated names: its scientific name, Lonicera, honors 16th-century German botanist Adam Lonicer, while the English word traces to Old English for 'honey-suck' and originally referred to clover, not the vine, before shifting meaning around 1400. The honeysuckle photographed on many birth-flower pages is often Lonicera japonica, an invasive East Asian species subject to state restrictions, including Indiana and Connecticut.",
     "sections": [
       {
         "heading": "Rose and honeysuckle, and a gap already found on this site",
         "body": [
-          "The Old Farmer's Almanac names rose and honeysuckle as June's pair, the trade source [most modern birth-flower lists](/birth-flowers-by-month/) draw from. This site's [August birth flower](/august-birth-flower/) page traced why most months carry two flowers rather than one back to a single missing event: unlike birthstones, which trace to a documented 1912 US trade convention, no equivalent meeting ever forced birth flowers onto one agreed list. That absence explains why June has two names on its chart. It doesn't explain what's underneath either name, and for June specifically, both plants turn out to hide more contested and more recent history than the \"ancient symbol of love\" framing most birth-flower pages settle for."
+          "The Old Farmer's Almanac names rose and honeysuckle as June's pair, the trade source [most modern birth-flower lists](/birth-flowers-by-month/) draw from. [The August flower guide](/august-birth-flower/) compares the documented 1912 US birthstone convention with flower references that name no comparable adoption event. That evidence does not establish why the modern June chart pairs two flowers. It doesn't explain what's underneath either name, and for June specifically, both plants turn out to hide more contested and more recent history than the \"ancient symbol of love\" framing most birth-flower pages settle for."
         ]
       },
       {
-        "heading": "The rose sold at florists isn't ancient. It's an 1867 hybrid with a disputed family tree.",
+        "heading": "An 1867 cultivar marks a modern class, with a disputed family tree.",
         "body": [
-          "Wikipedia's entry on the rose counts genus Rosa at over three hundred wild species and tens of thousands of cultivars, most native to Asia, with smaller numbers in Europe, North America, and northwest Africa. Roses of some kind have carried symbolic weight for millennia. What most birth-flower photo galleries actually picture, though, the tall, high-centered rose sold one stem at a time in flower shops, traces to a single and comparatively recent cross.",
+          "Wikipedia's entry on the rose counts genus Rosa at over three hundred wild species and tens of thousands of cultivars, most native to Asia, with smaller numbers in Europe, North America, and northwest Africa. Roses of some kind have carried symbolic weight for millennia. What most birth-flower photo galleries actually picture, though, the tall, high-centered rose sold one stem at a time in flower shops, belongs to modern cultivated classes. The RHS identifies 'La France' as the cultivar commonly marking the divide between older rose classes and modern ones, rather than as proof of every cut rose’s pedigree.",
           "In 1867, in Lyon, France, nurseryman and rose breeder Jean-Baptiste André Guillot introduced a pink cultivar he named 'La France.' Per Wikipedia's entry on the cultivar, it's \"generally accepted to be the first hybrid tea rose,\" a class not formally recognized until the 1880s, and its introduction \"is therefore also considered the birth of the modern rose,\" the point where roses split away from older garden classes into the repeat-blooming, long-stemmed type that still dominates the cut-flower trade.",
-          "Even Guillot's rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the record for the plant: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. The single rose most responsible for the shape of the modern cut-flower industry doesn't have settled parentage, or even a documented pollen parent distinguishing an open-pollinated seedling from a planned cross."
+          "Even Guillot's rose keeps a gap in its record. Wikipedia notes that 'La France' \"was not systematically bred,\" so its hybrid parentage \"can only be speculated.\" The one candidate parent Wikipedia names, citing rosarian Peter Beales, is the tea rose 'Madame Falcot,' and even that comes with a question mark attached in the record for the plant: 'La France' may simply be an open-pollinated seedling of that one rose, not the deliberate cross between two named parents that most modern hybrid teas are. This cultivar used as a historical milestone lacks settled parentage, including a documented pollen parent that could distinguish an open-pollinated seedling from a planned cross."
         ],
         "image": {
           "src": "/images/june-birth-flower-rose.jpg",
-          "alt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot in Lyon, France, generally credited as the first hybrid tea rose and the ancestor type behind most cut roses sold today",
+          "alt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot in Lyon, France, commonly regarded as the first hybrid tea rose and used as a historical marker for modern rose classes",
           "credit": "Photo by Arashiyama, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_%27La_France%27.jpg), CC BY-SA 3.0"
         }
       },
@@ -4416,7 +4416,7 @@ export const guides: Guide[] = [
       {
         "heading": "June's other unusual number: three birthstones, not one",
         "body": [
-          "The flower chart isn't the only place June breaks from a typical month. This site's own [birthstones by month](/birthstones-by-month/) page found that Jewelers of America's current chart gives June three official birthstones at once, pearl, moonstone, and alexandrite, a count only December also carries. Alexandrite wasn't part of the original 1912 chart; that page traces its addition to a 1952 revision, the same update that added tourmaline to October, citrine to November, and zircon to December. Whatever kept June's flower pairing from settling into one plant, the month's separate gemstone chart didn't settle into one stone either, for an unrelated reason documented four decades later."
+          "The flower chart isn't the only place June breaks from a typical month. This site's own [birthstones by month](/birthstones-by-month/) page found that Jewelers of America's current chart gives June three official birthstones at once, pearl, moonstone, and alexandrite, a count only December also carries. Alexandrite wasn't part of the original 1912 chart; that page traces its addition to a 1952 revision, the same update that specified pink tourmaline for October, added citrine to November and replaced December’s lapis lazuli with zircon. The gem list has a documented revision history. The flower references do not establish an equivalent history for June’s pairing, so the two charts should not be assigned the same cause."
         ]
       }
     ],
@@ -4427,7 +4427,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is the rose sold at florists an ancient flower?",
-        "answer": "The rose genus is far older and spans more than 300 wild species. The long-stemmed cut rose in a florist's bucket traces to a 19th-century hybrid, 'La France,' raised by the nurseryman Guillot in Lyon in 1867, and usually named the earliest hybrid tea."
+        "answer": "Wikipedia counts more than 300 wild roses, whereas florist stems are cultivated roses. Rosarians commonly date the hybrid tea category to a pink cultivar, 'La France', released by Guillot in 1867 at Lyon. That date marks a modern rose category; it is not proof that all present cut roses descend from this plant."
       },
       {
         "question": "What does the rose mean as a birth flower?",
@@ -4447,10 +4447,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "Why does June have two birth flowers?",
-        "answer": "Birthstones got settled by a single US trade meeting in 1912, but nothing equivalent ever happened for birth flowers. Nineteenth-century flower-language guides didn't all agree with each other, and rather than pick a winner, the almanac and florist lists built later simply kept both candidates for most months. June's rose-and-honeysuckle pairing is a product of that unresolved history, not a deliberate two-flower design."
+        "answer": "A US jewelry convention adopted a standard list during 1912. The floral sources consulted identify no corresponding event, and Victorian books about floral meanings do not by themselves show how June acquired its present pair. Neither a disagreement between those books nor a deliberate two-flower design has been established as its origin."
       }
     ],
     "sources": [
+      {"label":"RHS: La France and the 1867 rose-class boundary (checked 2026-10-12)","url":"https://www.rhs.org.uk/garden-inspiration/plants-we-love/future-of-roses"},
       {"label": "US Forest Service: Japanese honeysuckle assessment", "url": "https://research.fs.usda.gov/treesearch/49736"},
       {"label": "Indiana DNR: Terrestrial Plant Rule", "url": "https://www.in.gov/dnr/rules-and-regulations/invasive-species/terrestrial-invasive-species-plants"},
       {"label": "Connecticut 2026 laws: Invasive plants", "url": "https://prdext2.cga.ct.gov/2026/sup/chap_446i.htm"},
@@ -4496,7 +4497,7 @@ export const guides: Guide[] = [
       }
     ],
     "image": "/images/june-birth-flower-rose.jpg",
-    "imageAlt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot, generally credited as the ancestor type behind most cut roses sold as June's birth flower today",
+    "imageAlt": "Rosa 'La France', the pink 1867 hybrid tea rose bred by Jean-Baptiste André Guillot, commonly used as a historical marker for the modern hybrid tea class",
     "imageCredit": "Photo by Arashiyama, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_%27La_France%27.jpg), CC BY-SA 3.0"
   },
   {
@@ -10916,8 +10917,8 @@ export const guides: Guide[] = [
     "title": "October Birthstone: Opal and Tourmaline",
     "description": "October has two official birthstones, opal and tourmaline, and GIA connects opal's bad-luck reputation with the 1829 novel Anne of Geierstein.",
     "published": "2026-08-29",
-    "updated": "2026-10-11",
-    "coreSummary": "Jewelers of America's current chart lists two official October birthstones: opal, carried over from the trade group's original 1912 list, and tourmaline, added in a 1952 revision. The American Gem Society describes opal's reputation changing after an early nineteenth-century princess story; GIA identifies the book as Sir Walter Scott's 1829 Anne of Geierstein. Older retellings report European sales falling by half within a year, but the current AGS history does not document that figure.",
+    "updated": "2026-10-12",
+    "coreSummary": "Jewelers of America's current chart lists two official October birthstones: opal and tourmaline, both present in the original 1912 list, with tourmaline then listed as an alternate and pink tourmaline specified in 1952. The American Gem Society describes opal's reputation changing after an early nineteenth-century princess story; GIA identifies the book as Sir Walter Scott's 1829 Anne of Geierstein. Older retellings report European sales falling by half within a year, but the current AGS history does not document that figure.",
     "sections": [
       {
         "heading": "October's two official birthstones",
@@ -10954,9 +10955,9 @@ export const guides: Guide[] = [
         ]
       },
       {
-        "heading": "Tourmaline: discovered in Maine by two students, then mistaken for other gems for centuries",
+        "heading": "Tourmaline: an early US mine and centuries of mistaken identity",
         "body": [
-          "Tourmaline has none of opal's ancient pedigree, but its own origin story is unusually well documented for a gemstone. According to accounts drawn from Augustus Choate Hamlin's 1895 book History of Mount Mica, two students with an interest in mineralogy, Elijah Hamlin and Ezekiel Holmes, were descending Mount Mica in Paris, Maine in 1820 when a flash of green near the roots of an uprooted tree caught Hamlin's eye. The crystal they picked up was later identified as tourmaline by Yale professor Benjamin Silliman, marking what's usually described as the first gemstone mining operation in the United States. Elijah was the older brother of the future US vice president Hannibal Hamlin; the mine he stumbled onto as a student still intermittently produces tourmaline today.",
+          "Tourmaline’s early US mining history includes a documented Maine discovery, rather than the stone’s first discovery anywhere in the world. According to accounts drawn from Augustus Choate Hamlin's 1895 book History of Mount Mica, two students with an interest in mineralogy, Elijah Hamlin and Ezekiel Holmes, were descending Mount Mica in Paris, Maine in 1820 when a flash of green near the roots of an uprooted tree caught Hamlin's eye. The crystal they picked up was later identified as tourmaline by Yale professor Benjamin Silliman, marking what's usually described as the first gemstone mining operation in the United States. Elijah was the older brother of the future US vice president Hannibal Hamlin; the mine he stumbled onto as a student still intermittently produces tourmaline today.",
           "Before scientists formally recognized tourmaline as its own distinct mineral species in the 1800s, its wide range of natural colors repeatedly got it mistaken for other gems. GIA notes that a pendant in the Russian crown jewels known as the \"Caesar's Ruby\" is actually a red tourmaline (a variety called rubellite), and that a 16th-century Spanish conquistador found green tourmaline in Brazil and mistook it for emerald. The name itself comes from the Sinhalese word toramalli, \"stone with mixed colors,\" a fitting label for a mineral whose color range caused so much historical confusion.",
           "Tourmaline's most valuable modern variety was discovered comparatively recently. In the late 1980s, gem-quality tourmaline showing electric green, blue, and violet colors began coming out of pegmatites in Brazil's Paraíba state. Scientists traced the unusually intense color to trace amounts of copper, a coloring agent not previously documented in any other tourmaline. Similar copper-bearing \"Paraíba-type\" material later turned up in Mozambique and Nigeria in the early 2000s, but stones from the original Brazilian locality still command the highest prices of any tourmaline variety."
         ],
@@ -10967,10 +10968,10 @@ export const guides: Guide[] = [
         }
       },
       {
-        "heading": "When tourmaline joined the official list, and who exactly added it",
+        "heading": "Tourmaline in 1912, pink tourmaline in 1952",
         "body": [
-          "Opal has held its place on the birthstone chart since the modern US list was first adopted in 1912, when the American National Retail Jewelers Association, now Jewelers of America, met in Kansas City to standardize the many competing folk lists then in circulation. Tourmaline is a later addition, folded into the same 1952 revision that added zircon to December, citrine to November, and alexandrite to June.",
-          "As with December's 1952 addition of zircon, this piece did not find a primary document that definitively settles which body carried out October's 1952 revision. Some accounts describe it as an update by Jewelers of America's predecessor association; others attribute the broader 1952 changes to a separate industry group of the era. What's well documented is the outcome, not the exact committee: tourmaline has appeared as October's second official stone, alongside opal, ever since. Diamond took a different path from October's two-stone split entirely: [this site's April birthstone page](/april-birthstone/) found it's an unchanged 1912 assignment that none of the three later revisions, the 1952 round included, ever touched."
+          "Opal has held its place on the birthstone chart since the modern US list was first adopted in 1912, when the American National Retail Jewelers Association, now Jewelers of America, met in Kansas City to standardize the many competing folk lists then in circulation. Kunz’s 1913 reproduction of the adopted list already names tourmaline as October’s alternate. The later 1952 revision specified pink tourmaline; that round also replaced December’s lapis lazuli with zircon and added citrine to November and alexandrite to June.",
+          "As with December's 1952 addition of zircon, this piece did not find a primary document that definitively settles which body carried out October's 1952 revision. Some accounts describe it as an update by Jewelers of America's predecessor association; others attribute the broader 1952 changes to a separate industry group of the era. What's well documented is the outcome, not the exact committee: tourmaline appeared alongside opal in the original adopted chart, while the later account specifies its pink variety. Diamond took a different path from October's two-stone split entirely: [this site's April birthstone page](/april-birthstone/) found it's an unchanged 1912 assignment that none of the three later revisions, the 1952 round included, ever touched."
         ]
       },
       {
@@ -10984,7 +10985,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What are October's official birthstones?",
-        "answer": "The trade chart names both tourmaline and opal for October. The latter survived from the American roster adopted during 1912; the former entered with the mid-century update of 1952."
+        "answer": "Both gems appear in the American chart adopted during 1912, with opal the first choice and tourmaline an alternative. The mid-century revision narrowed the latter entry to its pink variety; today’s JA chart uses tourmaline without that color restriction."
       },
       {
         "question": "Is opal really bad luck?",
@@ -10992,7 +10993,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Which is the older October birthstone, opal or tourmaline?",
-        "answer": "Opal predates the newer option: the American chart adopted in 1912 already included it. The mid-century revision of 1952 brought tourmaline to October while also changing June, November and December."
+        "answer": "The two names were already paired in the original trade roster, though tourmaline occupied its alternative column. Pink was specified for that gem in the 1952 account, a revision that also affected March, June, November and December."
       },
       {
         "question": "What color is the October birthstone?",
@@ -11631,23 +11632,23 @@ export const guides: Guide[] = [
     "slug": "libra-birthstone",
     "category": "Birthstones",
     "title": "Libra Birthstone: Sapphire and Opal, Not 1913's Chrysolite",
-    "description": "Sapphire and opal get marketed as Libra birthstones, borrowed from September and October lists. The 1913 zodiac table names a stone too archaic to pin down.",
+    "description": "Sapphire and opal get marketed as Libra birthstones, matching September and October lists. The 1913 zodiac table names a stone too archaic to pin down.",
     "published": "2026-09-01",
-    "updated": "2026-09-01",
-    "coreSummary": "Sapphire and opal are the two stones marketed as \"Libra's birthstones,\" borrowed from Jewelers of America's September and October lists because Libra's date range straddles both months. Gemologist George Frederick Kunz's 1913 zodiac-stone table assigns Libra a different stone: chrysolite, a name so archaic that Wikipedia's reproduction of that table links it to a disambiguation page rather than to one mineral article, the only sign in the whole table treated that way.",
+    "updated": "2026-10-12",
+    "coreSummary": "Sapphire and opal are the two stones marketed as \"Libra's birthstones,\" also named on Jewelers of America's September and October lists, the months overlapping Libra’s usual date range. Gemologist George Frederick Kunz's 1913 zodiac-stone table assigns Libra a different stone: chrysolite, a name so archaic that Wikipedia's reproduction of that table links it to a disambiguation page rather than to one mineral article, the only sign in the whole table treated that way.",
     "sections": [
       {
         "heading": "Two calendar months' birthstones, relabeled for one zodiac sign",
         "body": [
-          "Jewelers of America's current chart names exactly one official stone for September, sapphire, and two for October, opal and tourmaline. Libra's date range runs September 23 to October 22, a 30-day span with 8 days in September and the remaining 22 in October, so jewelry retailers marketing \"Libra birthstones\" borrow from both calendar lists instead of drawing on any dedicated zodiac tradition: opal, the majority-month stone, usually gets billed as primary, with sapphire as a secondary stone for Libras born in the season's first week.",
-          "Two details from DayAlmanac's own coverage of those calendar months are worth carrying over here rather than re-explaining in full. [The September page](/september-birthstone/) covers why sapphire isn't only blue, but any color of corundum except red, with red corundum classified separately as ruby. [The October page](/october-birthstone/) covers why opal's reputation as an unlucky stone doesn't trace to old folklore at all: it comes from a single 1829 novel, Sir Walter Scott's Anne of Geierstein, after which, per the American Gem Society, European opal sales fell by half within a year."
+          "Jewelers of America's current chart names exactly one official stone for September, sapphire, and two for October, opal and tourmaline. Libra's date range runs September 23 to October 22, a 30-day span with 8 days in September and the remaining 22 in October, and jewelry retailers market stones matching both calendar lists under the sign’s name: opal, the majority-month stone, usually gets billed as primary, with sapphire as a secondary stone for Libras born in the season's first week.",
+          "Two details from DayAlmanac's own coverage of those calendar months are worth carrying over here rather than re-explaining in full. [The September page](/september-birthstone/) covers why sapphire isn't only blue, but any color of corundum except red, with red corundum classified separately as ruby. [The October page](/october-birthstone/) compares AGS’s account of a nineteenth-century story with GIA’s identification of Sir Walter Scott’s 1829 Anne of Geierstein. The current AGS page does not substantiate the repeated figure of European sales falling 50 percent, nor does the novel explain every opal superstition."
         ]
       },
       {
         "heading": "Sapphire's older reputation: a sky myth, not a jewelry brand",
         "body": [
           "Long before any 1912 trade meeting standardized September's birthstone, sapphire already carried a reputation built on cosmology, not commerce. Ancient Persians believed the entire earth rested on a giant sapphire, and that the stone's color was the reason the sky itself appeared blue, according to GIA's account of the stone's history and lore. Ancient Greeks and Romans wore sapphire believing it protected them from harm and envy, and clerics of the Middle Ages wore it, per GIA, because it symbolized Heaven.",
-          "Medieval Europeans went further, crediting the stone with direct healing powers: sapphire was thought to cure plague boils and diseases of the eye, and to work as an antidote to poison. None of that folklore was tied to September specifically; the stone had no calendar-month assignment until the trade-list era began in 1912. The name itself predates all of it, tracing to the Greek sappheiros, and sapphire's ranking second only to diamond in hardness on the Mohs scale is one of the few claims about the stone that ancient believers and modern gemologists both happen to agree on, for entirely different reasons."
+          "Medieval Europeans went further, crediting the stone with direct healing powers: sapphire was thought to cure plague boils and diseases of the eye, and to work as an antidote to poison. None of that folklore was tied to September specifically; these examples of folklore do not establish when its calendar assignment began. The name itself predates all of it, tracing to the Greek sappheiros, and sapphire's ranking second only to diamond in hardness on the Mohs scale is one of the few claims about the stone that ancient believers and modern gemologists both happen to agree on, for entirely different reasons."
         ]
       },
       {
@@ -11665,8 +11666,8 @@ export const guides: Guide[] = [
       {
         "heading": "What the 1913 zodiac table actually says, and why even Wikipedia won't commit to one gem",
         "body": [
-          "None of the above comes from a dedicated zodiac-stone tradition. The documented historical table pairing each sign with one stone traces to gemologist George Frederick Kunz's 1913 research, published as The Curious Lore of Precious Stones, and Wikipedia's Birthstone article reproduces it directly. For Libra, spanning September 23 to October 22, that table names a single stone: chrysolite. This site's coverage of September already ran into two of that same table's other entries: Kunz assigns sapphire to Taurus, not Virgo or Libra, and gives Virgo carnelian instead, so the documented zodiac tradition and the modern month-list overlap don't share a single stone across this stretch of the calendar.",
-          "Chrysolite is where Kunz's table gets unusually messy, and it shows up in Wikipedia's markup, not just its prose. Every other sign in the table links to one specific mineral article: Bloodstone for Aries, Sapphire for Taurus, Agate for Gemini, and on through Pisces' Amethyst. Libra is the single exception. Its entry links instead to a disambiguation page, Wikipedia's own acknowledgment that the word doesn't resolve to one gem.",
+          "Neither stone matches Libra’s entry in the specific historical zodiac table examined here. The documented historical table pairing each sign with one stone traces to gemologist George Frederick Kunz's 1913 research, published as The Curious Lore of Precious Stones, and Wikipedia's Birthstone article reproduces it directly. For Libra, spanning September 23 to October 22, that table names a single stone: chrysolite. This site's coverage of September already ran into two of that same table's other entries: Kunz assigns sapphire to Taurus, not Virgo or Libra, and gives Virgo carnelian instead, so the documented zodiac tradition and the modern month-list overlap don't share a single stone across this stretch of the calendar.",
+          "Chrysolite is where Kunz's table gets unusually messy, and it shows up in Wikipedia's markup, not just its prose. Every other sign in the table links to one specific mineral article: Bloodstone for Aries, Sapphire for Taurus, Agate for Gemini, and on through Pisces' Amethyst. Libra is the single exception. Its entry links instead to a disambiguation page, a link that presents multiple meanings rather than naming one mineral; the markup does not establish an editor’s intent.",
           "The 1911 Encyclopædia Britannica, published two years before Kunz's book, explains why. Chrysolite means \"golden stone\" in Greek, and the name was historically applied to whatever yellowish gem a given writer had in mind, including topaz, several varieties of beryl, and chrysoberyl. The encyclopedia calls the \"true chrysolite of the modern mineralogist\" a magnesium silicate belonging to the species olivine, and recommends the name specifically for the lighter, yellow-leaning stones in that species, reserving \"peridot\" for the darker green ones, a distinction almost nobody keeps today. Modern references, Britannica's current entry included, now treat chrysolite mostly as an old name for peridot.",
           "Read that way, Kunz's table would assign Libra a stone that belongs to neither of the two calendar months retailers already draw from for \"Libra birthstones.\" Peridot is one of Jewelers of America's two current stones for August, alongside spinel, a month with no overlap in Libra's date range at all. Between the two-month retail mashup and the archaic zodiac table, there is no single documented or marketed answer to what Libra's birthstone actually is."
         ]
@@ -11675,11 +11676,11 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is Libra's birthstone?",
-        "answer": "Retailers most often market opal, October's official birthstone, as Libra's main stone, with sapphire, September's stone, treated as a backup for anyone born in Libra's opening week. Both are simply the picks that one same trade association makes for those overlapping months, not a stone chosen for the zodiac sign itself."
+        "answer": "Retailers most often market opal, October's official birthstone, as Libra's main stone, with sapphire, September's stone, treated as a backup for anyone born in Libra's opening week. They match stones on the overlapping monthly roster. That overlap does not prove how the retail convention started; Kunz’s particular zodiac table assigns a different gem."
       },
       {
         "question": "Why does Libra have two birthstones instead of one?",
-        "answer": "Because its date range crosses a calendar-month boundary: 8 of Libra's 30 days sit in September, whose birthstone is sapphire, and the other 22 sit in October, which lists two stones of its own, tourmaline alongside opal. Jewelry sellers draw from each month's chart instead of using one dedicated to the sign."
+        "answer": "Its usual date range crosses a monthly boundary: 8 of Libra's 30 days sit in September, whose birthstone is sapphire, and the other 22 sit in October, which lists two stones of its own, tourmaline alongside opal. These monthly assignments coincide with the retail recommendations, while Kunz’s historical sign-based table names chrysolite. The date overlap suggests a possible explanation rather than documenting the marketing’s origin."
       },
       {
         "question": "What does the actual 1913 zodiac-stone table say Libra's birthstone is?",
@@ -11691,7 +11692,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is chrysolite the same as peridot?",
-        "answer": "That's the modern default reading; today's Britannica entry leans toward treating the word as outdated shorthand for peridot. But the Wikipedia table's Libra row points to a page listing several possible gems rather than a single Peridot article, the only row treated that way out of the twelve signs, which reads as Wikipedia's way of flagging that the word still doesn't settle on one gem."
+        "answer": "That's the modern default reading; today's Britannica entry leans toward treating the word as outdated shorthand for peridot. But the Wikipedia table's Libra row points to a page listing several possible gems rather than a single Peridot article, the only row treated that way out of the twelve signs, which gives readers several meanings without documenting why an editor chose that link."
       },
       {
         "question": "Is opal durable enough for everyday jewelry?",
@@ -11699,7 +11700,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What wedding anniversaries are associated with Libra's two birthstones?",
-        "answer": "Sapphire, September's stone, is associated with the 5th and 45th wedding anniversaries. Opal, October's stone, is associated with the 14th. Both traditions come from separate gemstone-anniversary lists, not the birth-month lists, and predate any zodiac connection."
+        "answer": "Sapphire, September's stone, is associated with the 5th and 45th wedding anniversaries. Opal, October's stone, is associated with the 14th. These are anniversary recommendations, a separate convention from either monthly or sign-based gem assignments; the available evidence does not date the first Libra association of either gem."
       }
     ],
     "sources": [
@@ -12117,14 +12118,14 @@ export const guides: Guide[] = [
     "title": "April Birthstone: Diamond, Unchanged Since the 1912 List",
     "description": "Diamond is among the 1912 birthstone assignments none of three later revisions touched, from Golconda and Brazil to a 2025 split in how diamonds get graded.",
     "published": "2026-09-10",
-    "updated": "2026-10-11",
-    "coreSummary": "Diamond is the sole modern birthstone for April, and unlike five other months, it has never been added to or changed since the original 1912 trade chart. Diamond's much older trade history runs from fourth-century-BCE India through Brazil and Kimberley, South Africa, where Cecil Rhodes built De Beers into a company that, in 2025, closed its lab-grown diamond brand after wholesale prices for factory-made stones fell 90 percent.",
+    "updated": "2026-10-12",
+    "coreSummary": "Diamond is the sole modern birthstone for April, and unlike six other months, it has never been added to or changed since the original 1912 trade chart. Diamond's much older trade history runs from fourth-century-BCE India through Brazil and Kimberley, South Africa, where Cecil Rhodes built De Beers into a company that, in 2025, closed its lab-grown diamond brand after wholesale prices for factory-made stones fell 90 percent.",
     "sections": [
       {
         "heading": "One birthstone, never touched since 1912",
         "body": [
-          "Diamond is the only birthstone the Jewelers of America trade chart assigns to April, and it has held that spot since the chart existed. The group, then called the American National Retail Jewelers Association, standardized a twelve-month birthstone list in 1912. According to [DayAlmanac's month-by-month breakdown of that chart](/birthstones-by-month/), it has been revised three separate times since: a 1952 update added alexandrite to June, citrine to November, tourmaline to October, and zircon to December; tanzanite joined December's list again in 2002; spinel joined August in 2016. None of those three rounds touched April. Along with January, February, March, May, July, and September, April has kept the exact stone it started with.",
-          "That is the modern list. A separate traditional list, which the International Gem Society traces to Poland between the 16th and 18th centuries and which predates the 1912 trade convention entirely, also lands on diamond for April. That agreement is not universal across the calendar: October is the clearest mismatch, since the modern list names tourmaline while the traditional list names opal, and a shopper who trusts only one source can end up buying the wrong stone for a month that never settled on one answer. April's birth flowers, daisy and sweet pea, never got the modern list's kind of single-body standardization either; [DayAlmanac's April birth flower page](/april-birth-flower/) covers why that pairing stayed split between competing 19th-century sources instead of converging the way birthstones did."
+          "Diamond is the only birthstone the Jewelers of America trade chart assigns to April, and it has held that spot since the chart existed. The group, then called the American National Retail Jewelers Association, standardized a twelve-month birthstone list in 1912. According to [DayAlmanac's month-by-month breakdown of that chart](/birthstones-by-month/), it has been revised three separate times since: a 1952 update added alexandrite to June and citrine to November, specified pink tourmaline for October and replaced December’s lapis lazuli with zircon; tanzanite joined December's list again in 2002; spinel joined August in 2016. None of those three rounds touched April. Along with January, February, May, July, and September, April retained its original assignment through these revisions. March’s primary and alternate changed order in the 1952 account.",
+          "That is the modern list. A separate traditional list, which the International Gem Society traces to Poland between the 16th and 18th centuries and which predates the 1912 trade convention entirely, also lands on diamond for April. That agreement is not universal across the calendar. October illustrates a difference in options: today’s modern chart gives opal and tourmaline, while the traditional list cited by IGS gives opal alone. A stone on either list need not be a wrong purchase; the source determines the available choices. April's birth flowers, daisy and sweet pea, never got the modern list's kind of single-body standardization either; [DayAlmanac's April birth flower page](/april-birth-flower/) covers the modern pair and the limits of the historical evidence for its origin, without treating Victorian dictionaries as proof of the pairing’s cause."
         ]
       },
       {

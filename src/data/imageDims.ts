@@ -447,6 +447,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1608,
   "w": 1600
  },
+ "/images/kwanzaa-dates-seven-days.svg": {
+  "h": 630,
+  "w": 1200
+ },
  "/images/libra-birthstone-opal-coober-pedy.avif": {
   "h": 528,
   "w": 1190
@@ -958,6 +962,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
  "/images/red-ribbon-week-camarena.webp": {
   "h": 1200,
   "w": 800
+ },
+ "/images/remembrance-sunday-date-table.svg": {
+  "h": 630,
+  "w": 1200
  },
  "/images/responsive/11th-anniversary-gift-turquoise-sm.avif": {
   "h": 531,

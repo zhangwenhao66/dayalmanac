@@ -2859,7 +2859,7 @@ export const guides: Guide[] = [
         "heading": "How Red Ribbon Week is observed",
         "body": [
           "Observance is informal and decentralized: there is no legal requirement to participate, and the DEA and NFP both describe it as a voluntary pledge campaign with no general attendance requirement. Specific optional awards, such as the scout patch, do have activity and reporting requirements. Participants wear red ribbons, and schools, workplaces, and community groups build their own activities around the week: essay and poster contests, drug-free pledges, parades, and buildings decorated in red. The DEA and Broward County Public Schools both put annual participation above 80 million people nationwide, though this is the organizers’ participation estimate, not an independently measured count.",
-          "Each year's observance also carries a fresh, student-submitted theme, chosen through NFP's annual contest. The 2026 winning slogan urges people to make a difference, act as heroes and remain drug-free. It was submitted by Ava Tackett, a Connecticut middle-school student; her school and the exact contest wording appear in the FAQ. Red Ribbon Week is not a federal public holiday and does not itself require office closures or paid leave, unlike the small number of dates covered by 5 U.S.C. § 6103. Its closest relatives on this calendar are other observances with a documented, named founding organization behind an informal date: [National Boss's Day](/national-bosses-day/) is one, registered by a private citizen; [National Daughters Day](/national-daughters-day/) is another, where competing origin stories are common enough that sorting out which one holds up is most of the point; and [National Grandparents Day](/national-grandparents-day/) is a third, whose recurring date took a presidential proclamation and a separate act of Congress, a year apart, to establish. [Banned Books Week](/banned-books-week/) fits the same mold from a different angle: a clearly documented sponsoring coalition, and seven cited congressional attempts, including an ongoing 119th-Congress proposal whose introduction is not evidence of final failure. This site’s [National Days in October](/national-days-in-october/) guide includes the campaign’s fixed dates and NFP sponsorship among its other October observances."
+          "Each year's observance also carries a fresh, student-submitted theme, chosen through NFP's annual contest. The 2026 winning slogan urges people to make a difference, act as heroes and remain drug-free. It was submitted by Ava Tackett, a Connecticut middle-school student; her school and the exact contest wording appear in the FAQ. Red Ribbon Week is not a federal public holiday and does not itself require office closures or paid leave, unlike the small number of dates covered by 5 U.S.C. § 6103. Its closest relatives on this calendar are other observances with a documented, named founding organization behind an informal date: [National Boss's Day](/national-bosses-day/) is one, registered by a private citizen; [National Daughters Day](/national-daughters-day/) is another, where competing origin stories are common enough that sorting out which one holds up is most of the point; and [National Grandparents Day](/national-grandparents-day/) is a third, whose recurring date took a presidential proclamation and a separate act of Congress, a year apart, to establish. [Banned Books Week](/banned-books-week/) fits the same mold from a different angle: a clearly documented sponsoring coalition, and seven cited congressional attempts, including an ongoing 119th-Congress proposal whose introduction is not evidence of final failure. This site’s [National Days in October](/national-days-in-october/) guide includes the campaign’s fixed dates and NFP sponsorship among its other October observances. The same shape appears at a larger scale in [Kwanzaa](/kwanzaa-dates/), whose December 26 to January 1 dates were set by a named founder and rest on no statute."
         ]
       }
     ],
@@ -13477,5 +13477,194 @@ export const guides: Guide[] = [
     ],
     "image": "/images/remembrance-sunday-date-table.svg",
     "imageAlt": "Table of Remembrance Sunday from 2026 to 2031 against November 11, with the date moving between the 8th and the 14th"
+  },
+  {
+    "slug": "kwanzaa-dates",
+    "category": "Observances",
+    "title": "Is Kwanzaa a Religion? Dates and Who Started It",
+    "description": "Kwanzaa is not a religion. It is a seven-day African American cultural holiday that runs December 26 to January 1, created in 1966 by Maulana Karenga.",
+    "published": "2026-10-12",
+    "updated": "2026-10-12",
+    "coreSummary": "Kwanzaa is not a religion. It is a seven-day African American and Pan-African cultural holiday observed from December 26 through January 1, created in 1966 by Dr. Maulana Karenga and the Organization Us, and organized around seven values called the Nguzo Saba, one for each of its days.",
+    "dateRule": {
+      "kind": "fixed",
+      "text": "December 26 through January 1 every year, a fixed seven-day span that does not shift. The dates come from the holiday's founder; Kwanzaa.org, the resource site that publishes Karenga's material, states the December 26 start and the January 1 close, and the Official Kwanzaa Website puts the last day on January 1. The table below lists December 26, the first day, for each year; the observance runs through January 1 in every case.",
+      "source": {
+        "label": "Kwanzaa.org: Learn About Kwanzaa (a seven-day holiday celebrated between December 26 and January 1)",
+        "url": "https://www.kwanzaa.org/learn.html"
+      },
+      "occurrences": [
+        {
+          "date": "2026-12-26",
+          "weekday": "Saturday"
+        },
+        {
+          "date": "2027-12-26",
+          "weekday": "Sunday"
+        },
+        {
+          "date": "2028-12-26",
+          "weekday": "Tuesday"
+        },
+        {
+          "date": "2029-12-26",
+          "weekday": "Wednesday"
+        },
+        {
+          "date": "2030-12-26",
+          "weekday": "Thursday"
+        },
+        {
+          "date": "2031-12-26",
+          "weekday": "Friday"
+        }
+      ],
+      "caveat": "No competing date range turned up in the sources consulted. The founder's site, Kwanzaa.org and the reference and calendar pages checked all place Kwanzaa on December 26 through January 1, and the holiday does not move with a lunar or ecclesiastical calendar the way Easter and the Jewish and Islamic holidays do. One adjacent detail does circulate in two forms: the first observance is written both as 1966 and as 1966 to 1967. Those describe the same event, because a Kwanzaa that opened on December 26, 1966 closed on January 1, 1967. The creation year is not in dispute."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "Dr. Maulana Karenga, a professor of Africana Studies who chaired that department at California State University, Long Beach, created Kwanzaa in 1966 with the Organization Us, the Black cultural organization he led in Los Angeles. The name comes from the Swahili phrase matunda ya kwanza, meaning first fruits. The Official Kwanzaa Website, which publishes his writing from that 2008 book, dates the holiday to 1966. The fuller origin account published by Kwanzaa.org traces the idea to a December 1965 discussion among Us members and places the first celebration in Los Angeles in the 1966 holiday season.",
+      "source": {
+        "label": "Official Kwanzaa Website: Kwanzaa, Roots and Branches (Maulana Karenga)",
+        "url": "https://www.officialkwanzaawebsite.org/roots-and-branches.html"
+      }
+    },
+    "sections": [
+      {
+        "heading": "What Kwanzaa is",
+        "body": [
+          "Kwanzaa is a seven-day African American and Pan-African cultural holiday. It begins on December 26 and ends on January 1, the same dates every year. Dr. Maulana Karenga created it in 1966 with the Organization Us, the Black cultural organization he led in Los Angeles, and the holiday is organized around seven communitarian values called the Nguzo Saba, one for each of its days.",
+          "It is not a public holiday in the United States, and no government body administers it. The name comes from the Swahili phrase matunda ya kwanza, which means first fruits, and the holiday is modeled on African first-fruits harvest celebrations rather than on any single national tradition."
+        ]
+      },
+      {
+        "heading": "Is Kwanzaa a religion?",
+        "body": [
+          "No. The Official Kwanzaa Website, which publishes Karenga's writing on the holiday, draws the line in those words: \"Kwanzaa is a cultural choice as distinct from a religious one.\" The same page calls it not a religious holiday but a cultural one with what it describes as an inherent spiritual quality. The site separates spirituality, meaning an appreciation of the transcendent, from religion, which it ties to formal structures and doctrines.",
+          "That source also says Africans of all faiths observe Kwanzaa and names Muslims, Christians, Black Hebrews, Jews, Buddhists, Bahai and Hindus among them. It describes the holiday as a shared cultural ground and states that it is not offered as a substitute for anyone's faith.",
+          "So Kwanzaa carries no religion of its own, the way Christmas carries Christianity. Observances that do sit on a church calendar, such as [Lent](/when-does-lent-start-and-end/), move from year to year with it. Kwanzaa does not."
+        ]
+      },
+      {
+        "heading": "Seven days, one principle each",
+        "body": [
+          "Each day carries one principle. December 26 opens with Umoja (Unity). The sequence then runs Kujichagulia (Self-Determination) on December 27, Ujima (Collective Work and Responsibility) on December 28, Ujamaa (Cooperative Economics) on December 29, Nia (Purpose) on December 30, Kuumba (Creativity) on December 31, and Imani (Faith) on January 1, the closing day.",
+          "The candle holder is the kinara, and it holds seven candles, the mishumaa saba. One is black, three are red and three are green. The black candle stands in the center and is lit first, on December 26. The red candles stand to its left and the green ones to its right, and they are lit on the nights that follow. The founder's site gives the colors their meanings: black for the people, red for their struggle, and green for the future that comes out of that struggle.",
+          "The dates are fixed by rule, so the span always opens on December 26 and closes on January 1. Other multi-day observances on this calendar are set the same way, among them [Red Ribbon Week](/red-ribbon-week/) and [National Hispanic Heritage Month](/national-hispanic-heritage-month/), both of which run on fixed ranges that ignore weekday and month boundaries.",
+          "The founder's site gives two reasons the holiday runs seven days. One is authenticity: it is modeled on African first-fruits celebrations, and the Umkhosi of Zululand lasts seven days. The other is the principles, since seven values needed seven days to carry them."
+        ],
+        "image": {
+          "src": "/images/kwanzaa-dates-seven-days.svg",
+          "alt": "The seven days of Kwanzaa from December 26 to January 1, each labeled with its Swahili principle, its English meaning and the color of the candle lit that night"
+        }
+      },
+      {
+        "heading": "Who started it, and when",
+        "body": [
+          "Kwanzaa was created in 1966 by Dr. Maulana Karenga, a professor of Africana Studies who chaired that department at California State University, Long Beach, together with the Organization Us. The holiday came out of the Black Freedom Movement of the 1960s, and Karenga has described it as an act of cultural recovery and reconstruction.",
+          "The origin account published by Kwanzaa.org, which draws on Karenga's 2008 book Kwanzaa: A Celebration of Family, Community and Culture, dates the idea to December 1965, when members of Us were arguing over which December holidays to keep and a ten-year-old named Kinamo Damu asked what Africans did. A research committee led by George Subira then spent several months in Los Angeles public libraries studying African harvest celebrations, and Karenga chose the name. The first celebration is placed in Los Angeles in the 1966 holiday season.",
+          "The spelling has its own history. Kwanzaa comes from matunda ya kwanza, first fruits, and the founder's site says the extra a was added in the early days of Us: seven children each wanted to represent a letter, kwanza has only six, so a seventh letter was added to the word."
+        ]
+      },
+      {
+        "heading": "What sits on the mat",
+        "body": [
+          "The founder's site lists seven primary symbols and two supplemental ones. The primary set is Mazao (the crops), Mkeka (the mat), Kinara (the candle holder), Muhindi (the corn), Kikombe cha Umoja (the unity cup), Mishumaa Saba (the seven candles) and Zawadi (the gifts). The supplemental symbols are the Bendera, a flag in black, red and green, and a poster of the seven principles.",
+          "Gifts, or zawadi, go mainly to children. The founder's site is specific about what they must contain: every gift should include a book and a heritage symbol, the book to emphasize the African tradition of learning and the symbol to reinforce a commitment to history. Community Kwanzaa guides add that presents can be handed over one a day or on January 1, and that handmade or modest ones suit the holiday better than expensive ones."
+        ]
+      },
+      {
+        "heading": "The greeting, and the last day",
+        "body": [
+          "Kwanzaa has a greeting of its own, in Swahili: Habari gani? The answer is the principle of that day, so a household replies Umoja on December 26 and Imani on January 1. The founder's site explains why Swahili was chosen, describing it as a Pan-African language picked to point at the whole of Africa instead of one ethnic or national tradition.",
+          "January 1 carries a name of its own: the Day of Meditation, or Siku ya Taamuli. The founder's site describes it as a day of sober assessment and self-reflection, and lists the questions it is meant to prompt: who am I, am I really who I say I am, and am I all I ought to be. It traces the practice to the Akan first-fruits harvest, where J. B. Danquah recorded a day set aside for quiet reflection and for keeping a calm and humble attitude toward oneself and one's neighbors."
+        ]
+      },
+      {
+        "heading": "Nobody has a reliable count",
+        "body": [
+          "There is no official count. A 2009 estimate put the number of Americans celebrating Kwanzaa at between 500,000 and 2,000,000. That figure comes from Keith Mayes, a University of Minnesota historian of the holiday, who gave it to the Associated Press, and he has also said exact figures are difficult to establish and that the same problem applies to the other main African American holidays.",
+          "Surveys that do state a method have landed elsewhere. A Public Policy Polling survey in December 2012 put Kwanzaa at 4 percent of respondents, against 87 percent for Christmas and 3 percent for Hanukkah. Four percent of the country is a far larger population than the historian's upper bound, so the two figures sit a long way apart."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What religion is Kwanzaa?",
+        "answer": "None. Kwanzaa is not tied to any faith tradition. Its organizers describe it as a cultural observance with a spiritual quality, and people of any faith, or of none, can take part."
+      },
+      {
+        "question": "Who created Kwanzaa?",
+        "answer": "It was the work of Maulana Karenga, who founded the holiday in 1966 with Us, the Los Angeles group he led at the time. He later chaired the Africana Studies department at Cal State Long Beach."
+      },
+      {
+        "question": "What are the seven principles of Kwanzaa?",
+        "answer": "They are the Nguzo Saba, the seven values the holiday is built on. In order they are umoja, kujichagulia, ujima, ujamaa, nia, kuumba and imani, which mean unity, self-determination, collective responsibility, economic cooperation, purpose, creativity and faith."
+      },
+      {
+        "question": "When does Kwanzaa start and end?",
+        "answer": "It always runs from the day after Christmas to New Year's Day, seven days in all. Kwanzaa keeps to the same Gregorian dates every year, so nothing about it shifts the way Easter does."
+      },
+      {
+        "question": "What are Kwanzaa gifts?",
+        "answer": "Gifts are called zawadi, and children are the main recipients. The official guidance is that a book and something tied to heritage should be among them, and community organizers suggest keeping the rest modest or handmade."
+      },
+      {
+        "question": "Is Kwanzaa a federal holiday in the United States?",
+        "answer": "No. Kwanzaa is not on any federal holiday list and nothing closes for it. No statute or proclamation gives it federal holiday status."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Maulana Karenga: Bio Sketch (Africana Studies, California State University, Long Beach)",
+        "url": "https://maulanakarenga.org/bio-sketch/"
+      },
+      {
+        "label": "Official Kwanzaa Website: Kwanzaa, Roots and Branches (Maulana Karenga)",
+        "url": "https://www.officialkwanzaawebsite.org/roots-and-branches.html"
+      },
+      {
+        "label": "Official Kwanzaa Website: The Symbols of Kwanzaa",
+        "url": "https://www.officialkwanzaawebsite.org/the-symbols.html"
+      },
+      {
+        "label": "Official Kwanzaa Website: The Greetings (greetings, gifts, colors)",
+        "url": "https://www.officialkwanzaawebsite.org/the-greetings.html"
+      },
+      {
+        "label": "Official Kwanzaa Website: The Day of Meditation (Siku ya Taamuli)",
+        "url": "https://www.officialkwanzaawebsite.org/the-meditation.html"
+      },
+      {
+        "label": "Official Kwanzaa Website: Frequently Asked Questions (an interview with Maulana Karenga)",
+        "url": "https://www.officialkwanzaawebsite.org/faq.html"
+      },
+      {
+        "label": "Official Kwanzaa Website: The Celebration",
+        "url": "https://www.officialkwanzaawebsite.org/the-celebration.html"
+      },
+      {
+        "label": "Kwanzaa.org: Learn About Kwanzaa",
+        "url": "https://www.kwanzaa.org/learn.html"
+      },
+      {
+        "label": "Kwanzaa.org: Kwanzaa Creators",
+        "url": "https://www.kwanzaa.org/kwanzaa-creators.html"
+      },
+      {
+        "label": "Wikipedia: Kwanzaa",
+        "url": "https://en.wikipedia.org/wiki/Kwanzaa"
+      },
+      {
+        "label": "DC Kwanzaa Planning Committee: How to Celebrate Kwanzaa",
+        "url": "https://kwanzaadc.org/how-to-celebrate-kwanzaa/"
+      },
+      {
+        "label": "Observer: Poll Shows Almost Half of Americans Believe There Is a 'War on Christmas' (Public Policy Polling, December 2012)",
+        "url": "https://observer.com/2012/12/poll-shows-almost-half-of-americans-believe-there-is-a-war-on-christmas/"
+      }
+    ],
+    "image": "/images/kwanzaa-dates-seven-days.svg",
+    "imageAlt": "Seven columns for December 26 to January 1, each with a candle bar and the Kwanzaa principle for that day"
   }
 ];

@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The seven days of Kwanzaa, December 26 to January 1, each with its principle and its candle color</title>
+  <desc id="desc">Dec. 26: Umoja (Unity), black candle. Dec. 27: Kujichagulia (Self-Determination), red candle. Dec. 28: Ujima (Collective Work and Responsibility), green candle. Dec. 29: Ujamaa (Cooperative Economics), red candle. Dec. 30: Nia (Purpose), green candle. Dec. 31: Kuumba (Creativity), red candle. Jan. 1: Imani (Faith), green candle.</desc>
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <text x="60" y="76" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#2b2118">Seven fixed days, seven principles, seven candles.</text>
+  <text x="60" y="114" font-family="Georgia, serif" font-size="21" fill="#5a4a3a">December 26 to January 1 every year. The black candle is lit first, then the red and green ones.</text>
+  <rect x="60" y="150" width="140" height="380" fill="#ffffff"/>
+  <text x="130" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 26</text>
+  <rect x="116" y="222" width="28" height="132" fill="#2b2118"/>
+  <text x="130" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Umoja</text>
+  <text x="130" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Unity</text>
+  <text x="130" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">black candle</text>
+  <rect x="214" y="150" width="140" height="380" fill="#efe7d6"/>
+  <text x="284" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 27</text>
+  <rect x="270" y="222" width="28" height="132" fill="#b5482f"/>
+  <text x="284" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Kujichagulia</text>
+  <text x="284" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Self-</text>
+  <text x="284" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Determination</text>
+  <text x="284" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">red candle</text>
+  <rect x="368" y="150" width="140" height="380" fill="#ffffff"/>
+  <text x="438" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 28</text>
+  <rect x="424" y="222" width="28" height="132" fill="#5b6d45"/>
+  <text x="438" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Ujima</text>
+  <text x="438" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Collective Work</text>
+  <text x="438" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">and Responsibility</text>
+  <text x="438" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">green candle</text>
+  <rect x="522" y="150" width="140" height="380" fill="#efe7d6"/>
+  <text x="592" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 29</text>
+  <rect x="578" y="222" width="28" height="132" fill="#b5482f"/>
+  <text x="592" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Ujamaa</text>
+  <text x="592" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Cooperative</text>
+  <text x="592" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Economics</text>
+  <text x="592" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">red candle</text>
+  <rect x="676" y="150" width="140" height="380" fill="#ffffff"/>
+  <text x="746" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 30</text>
+  <rect x="732" y="222" width="28" height="132" fill="#5b6d45"/>
+  <text x="746" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Nia</text>
+  <text x="746" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Purpose</text>
+  <text x="746" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">green candle</text>
+  <rect x="830" y="150" width="140" height="380" fill="#efe7d6"/>
+  <text x="900" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Dec. 31</text>
+  <rect x="886" y="222" width="28" height="132" fill="#b5482f"/>
+  <text x="900" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Kuumba</text>
+  <text x="900" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Creativity</text>
+  <text x="900" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">red candle</text>
+  <rect x="984" y="150" width="140" height="380" fill="#ffffff"/>
+  <text x="1054" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="700" fill="#2b2118">Jan. 1</text>
+  <rect x="1040" y="222" width="28" height="132" fill="#5b6d45"/>
+  <text x="1054" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2b2118">Imani</text>
+  <text x="1054" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Faith</text>
+  <text x="1054" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a7a68">green candle</text>
+  <text x="60" y="580" font-family="Georgia, serif" font-size="17" fill="#5a4a3a">Candle colors and their order follow the Official Kwanzaa Website; the day-to-principle sequence follows Kwanzaa.org.</text>
+</svg>

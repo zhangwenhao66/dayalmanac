@@ -992,7 +992,7 @@ export const guides: Guide[] = [
           "The American date rule is specific to the United States, and other countries that keep a grandparents observance set it independently. There is no shared international date.",
           "Italy fixes its observance to a calendar day rather than a weekday. Law 159 of 31 July 2005, \"Istituzione della Festa nazionale dei nonni,\" establishes the Festa nazionale dei nonni and states at Article 1(3) that it falls on October 2 of each year. The same provision specifies that the day carries none of the civil effects of Italy's public holiday law, so it is an observance rather than a day off.",
           "Canada uses the second Sunday in September, which lands on the same day as the American date in most years. The two separate only when September 1 is a Monday, and then the Canadian date is a week later, not earlier: 2025 and 2031 are the near-term cases. The date entered federal debate through a private member's bill, C-274, given first reading in the House of Commons on September 27, 1994, whose sponsor described designating \"the second Sunday in September every year as national grandparents' day, as we do in many provinces and cities in the country.\"",
-          "In Australia, the observance is run at state level rather than nationally. New South Wales holds an official Grandparents Day organised by its Department of Communities and Justice, scheduled in late October; the 2025 edition was held on Sunday, October 26."
+          "In Australia, the observance is run at state level rather than nationally. New South Wales holds an official Grandparents Day organized by its Department of Communities and Justice, scheduled in late October; the 2025 edition was held on Sunday, October 26."
         ]
       }
     ],
@@ -1019,7 +1019,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Do other countries observe Grandparents Day on the same date?",
-        "answer": "No. There is no international standard, though the Canadian and American dates happen to coincide most years. Italy marks October 2 every year with a nationwide festival for grandparents under a 2005 law (No. 159, dated 31 July). In Canada the day is marked on September's second Sunday, which matches the U.S. date in most years and lands a week later in the rest. In Australia, New South Wales has its own state-organised Grandparents Day, held in the last part of October (October 26 in 2025)."
+        "answer": "No. There is no international standard, though the Canadian and American dates happen to coincide most years. Italy marks October 2 every year with a nationwide festival for grandparents under a 2005 law (No. 159, dated 31 July). In Canada the day is marked on September's second Sunday, which matches the U.S. date in most years and lands a week later in the rest. In Australia, New South Wales has its own state-organized Grandparents Day, held in the last part of October (October 26 in 2025)."
       }
     ],
     "sources": [

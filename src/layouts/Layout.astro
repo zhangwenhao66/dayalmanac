@@ -146,6 +146,7 @@ const ogImageURL = new URL(ogImage, Astro.site);
 		<!-- 品牌实体（2026-09-10）：publisher 级 Organization，sameAs 来自 consts.BRAND_SAME_AS -->
 		<!-- 2026-09-13：补 description/contactPoint/knowsAbout，参考鸭老师《SEO的完整总结》实体信号一节 -->
 		<Organization
+			id={`${SITE_ORIGIN}/#organization`}
 			name={SITE_TITLE}
 			url={`${SITE_ORIGIN}/`}
 			logo={`${SITE_ORIGIN}/logo-512.png`}

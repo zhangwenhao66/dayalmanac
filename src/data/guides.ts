@@ -12507,7 +12507,7 @@ export const guides: Guide[] = [
       {
         "heading": "How to cite this page",
         "body": [
-          "Cite this page as: DayAlmanac Editorial Team, “Holiday Spending Statistics 2026, All Sourced,” DayAlmanac, published September 13, 2026, https://dayalmanac.com/holiday-spending-statistics/.",
+          "Cite this page as: DayAlmanac, “Holiday Spending Statistics 2026, All Sourced,” DayAlmanac, published September 13, 2026, https://dayalmanac.com/holiday-spending-statistics/.",
           "Every figure above is credited to the research organization that produced it, NRF, PwC, or LendingTree, both inline and in the sources list below; this page compiles their published numbers rather than generating new research. Planned budgets, forecasts and reported borrowing are different measures; the amounts are nominal dollars, not inflation-adjusted comparisons. The appropriate reverification points are new releases from those organizations, most notably NRF's Halloween and winter-holiday releases each fall and its Valentine's Day, Easter, Mother's Day, and Father's Day releases through the following spring."
         ]
       }

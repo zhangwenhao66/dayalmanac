@@ -11,6 +11,7 @@
 // an embed left sitting on someone else's page indefinitely.
 import '../../styles/global.css';
 import CountdownWidget from '../../components/CountdownWidget.astro';
+import { countdownLabel } from '../../lib/guideLabel';
 import { guides, type Guide } from '../../data/guides';
 import { SITE_ORIGIN } from '../../consts';
 
@@ -42,6 +43,6 @@ const pageUrl = `${SITE_ORIGIN}/${guide.slug}/`;
 		<meta name="robots" content="noindex, follow" />
 	</head>
 	<body style="background:transparent;margin:0;padding:0.4rem">
-		<CountdownWidget title={guide.title} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} embed />
+		<CountdownWidget title={countdownLabel(guide.title)} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} embed />
 	</body>
 </html>

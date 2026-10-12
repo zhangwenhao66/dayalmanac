@@ -5,10 +5,11 @@ import BreadcrumbList from '../../vendor/site-toolkit/packages/schema/src/Breadc
 import FAQPage from '../../vendor/site-toolkit/packages/schema/src/FAQPage.astro';
 import { pickRelatedGuides } from '../../vendor/site-toolkit/packages/related-guides/src/index.ts';
 import CountdownWidget from '../components/CountdownWidget.astro';
+import { countdownLabel } from '../lib/guideLabel';
 import DateTable from '../components/DateTable.astro';
 import AmazonPicks from '../components/AmazonPicks.astro';
 import { guides, categorySlug, type Guide } from '../data/guides';
-import { AUTHOR_NAME, SITE_ORIGIN } from '../consts';
+import { AUTHOR_NAME, SITE_ORIGIN, SITE_TITLE } from '../consts';
 
 export function getStaticPaths() {
 	return guides.map((guide) => ({
@@ -133,6 +134,10 @@ const heroAvifMobile = (() => {
 		dateModified={toISO(guide.updated)}
 		authorName={AUTHOR_NAME}
 		authorUrl={`${SITE_ORIGIN}/about/`}
+		publisherName={SITE_TITLE}
+		publisherId={`${SITE_ORIGIN}/#organization`}
+		publisherUrl={`${SITE_ORIGIN}/`}
+		publisherLogo={`${SITE_ORIGIN}/logo-512.png`}
 		image={heroImage}
 		imageWidth={imgDims(heroImage)?.w}
 		imageHeight={imgDims(heroImage)?.h}
@@ -170,7 +175,7 @@ const heroAvifMobile = (() => {
 
 		{countdownEligible && (
 			<div class="mx-auto mt-6 max-w-[320px]">
-				<CountdownWidget title={guide.title} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} />
+				<CountdownWidget title={countdownLabel(guide.title)} occurrences={guide.dateRule!.occurrences} pageUrl={pageUrl} />
 			</div>
 		)}
 
@@ -393,7 +398,7 @@ const heroAvifMobile = (() => {
 		</div>
 
 		<div class="mx-auto mt-14 max-w-[680px] border-t border-[var(--rule)] pt-5 text-sm text-[var(--ink)]/55">
-			<p class="m-0">Written and edited by the <a href="/about/" class="text-[var(--ink)]/70 no-underline hover:text-[var(--ink)] hover:underline">{AUTHOR_NAME}</a></p>
+			<p class="m-0">Published by <a href="/about/" class="text-[var(--ink)]/70 no-underline hover:text-[var(--ink)] hover:underline">{AUTHOR_NAME}</a></p>
 		</div>
 	</div>
 </Layout>

@@ -5,9 +5,12 @@ export const SITE_ORIGIN = 'https://dayalmanac.com';
 // 2026-08-25：原为个人署名 'Owen Zhang'，10 站共用同一 Person 实体，构成可被任意第三方
 // 5 分钟连出整张网的公开指纹，且「同一人是区号/薪资/神话/军事史专家」本身不符合 E-E-A-T。
 // 改为站点自身作为 Organization 署名（真实、不虚构人物）。详见 独立站/网络指纹排查_20260825.md
-// 2026-09-01：从裸站名升级为"编辑部"署名——内容发布确实有独立审核环节，不是无中生有；
-// 仍是 Organization 实体、每站独立措辞，不共用同一名字，不违反 8/25 的反指纹原则。
-export const AUTHOR_NAME = 'DayAlmanac Editorial Team';
+// 2026-09-01：一度改为"DayAlmanac Editorial Team"，理由是发布流程里确实有独立审核环节。
+// 2026-10-12 改回裸站名（Owen 决定）："Editorial Team" 在读者和算法看来都是"有一支人类编辑部在写和
+// 审"的声明，而本站内容由 AI 撰写、审核也是自动化的，这个措辞属于 R-writing-04 明确禁止的
+// "团队背景 / reviewed by our editors" 一类不可核实声明。署名回落到发布方本身（Organization 实体），
+// 既不虚构人类团队，也不引入新的对外披露口径；反指纹原则（8/25）继续满足。
+export const AUTHOR_NAME = 'DayAlmanac';
 export const ADSENSE_PUBLISHER_ID = 'pub-5245502795720653';
 export const GA4_ID = 'G-8DXH1M0D1B';
 export const CLARITY_ID = 'y150714gwp';

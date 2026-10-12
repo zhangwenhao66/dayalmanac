@@ -2890,7 +2890,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "What is the theme for World Drug Day in 2026?",
-        "answer": "The UN’s drug-abuse and trafficking observance is on June 26, outside this October campaign. UNODC leads that international effort. A joint UNODC–NDLEA briefing in June 2026 gives its theme as “The World Drug Problem: Persisting Issues, New Challenges, Innovative Responses”. NFP and DEA have separate roles in the US ribbon campaign."
+        "answer": "The UN’s drug-abuse and trafficking observance is on June 26, outside this October campaign. UNODC leads that international effort. A joint UNODC and NDLEA briefing in June 2026 gives its theme as “The World Drug Problem: Persisting Issues, New Challenges, Innovative Responses”. NFP and DEA have separate roles in the US ribbon campaign."
       }
     ],
     "sources": [
@@ -4713,7 +4713,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Which poppy is August's actual birth flower?",
-        "answer": "The corn poppy, Papaver rhoeas, also called the field poppy or Flanders poppy: the species tied to World War I remembrance through a poem a Canadian army doctor wrote near Ypres in May 1915. It's a different plant from Papaver orientale — the showier bloom most flower shops actually stock."
+        "answer": "The corn poppy, Papaver rhoeas, also called the field poppy or Flanders poppy: the species tied to World War I remembrance through a poem a Canadian army doctor wrote near Ypres in May 1915. It's a different plant from Papaver orientale, the showier bloom most flower shops actually stock."
       },
       {
         "question": "Why does August have two birth flowers instead of one?",
@@ -4721,7 +4721,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is the Oriental poppy sold by florists the same as the remembrance poppy?",
-        "answer": "No. Oriental poppy (Papaver orientale) comes from the Caucasus region, Turkey's northeast, and Iran; nothing on record connects it to World War I remembrance. Papaver rhoeas — the corn poppy, which grows wild across the Mediterranean basin — is the one behind that symbolism."
+        "answer": "No. Oriental poppy (Papaver orientale) comes from the Caucasus region, Turkey's northeast, and Iran; nothing on record connects it to World War I remembrance. Papaver rhoeas, the corn poppy, which grows wild across the Mediterranean basin, is the one behind that symbolism."
       },
       {
         "question": "I was born in late August. Is my zodiac sign Leo or Virgo?",
@@ -5582,7 +5582,7 @@ export const guides: Guide[] = [
       {
         "heading": "The claim that overstates what happened in 2019",
         "body": [
-          "Several trade-press accounts of the day's history, including at least one syndicated across multiple public-safety news sites, describe 2019 as the year \"National First Responders Day became a reality,\" naming Cummings and DeLauro as having \"sponsored the bill that passed in the U.S. House.\" Checked against the primary record, that description does not hold up on two points. First, H.Con.Res.37's actual lead sponsor was Representative Mark Meadows; Cummings and DeLauro were among its original cosponsors, a real distinction in how congressional resolutions are credited. Second, and more importantly, the resolution never passed the House at all. A December 12, 2019, press release from the advocacy group All Clear Foundation, announcing that H.Con.Res.37 had just been \"advanced\" by passing out of the House Transportation and Infrastructure Committee, quotes the foundation's own president asking lawmakers to \"bring HR37 to a House floor vote following December's recess\" — language that only makes sense if the floor vote had not yet happened. It never did; GovTrack's record for H.Con.Res.37 confirms the resolution was still pending when the 116th Congress ended in January 2021 and, under congressional rules, died with it.",
+          "Several trade-press accounts of the day's history, including at least one syndicated across multiple public-safety news sites, describe 2019 as the year \"National First Responders Day became a reality,\" naming Cummings and DeLauro as having \"sponsored the bill that passed in the U.S. House.\" Checked against the primary record, that description does not hold up on two points. First, H.Con.Res.37's actual lead sponsor was Representative Mark Meadows; Cummings and DeLauro were among its original cosponsors, a real distinction in how congressional resolutions are credited. Second, and more importantly, the resolution never passed the House at all. A December 12, 2019, press release from the advocacy group All Clear Foundation, announcing that H.Con.Res.37 had just been \"advanced\" by passing out of the House Transportation and Infrastructure Committee, quotes the foundation's own president asking lawmakers to \"bring HR37 to a House floor vote following December's recess\"; language that only makes sense if the floor vote had not yet happened. It never did; GovTrack's record for H.Con.Res.37 confirms the resolution was still pending when the 116th Congress ended in January 2021 and, under congressional rules, died with it.",
           "The distinction matters for a reader trying to understand what actually backs the date. Passing a committee markup is a real step, and 2019's House committee vote was further than any earlier House attempt had gotten, but it is not the same thing as the resolution becoming law, or even the same thing as the House going on record with a floor vote. No source this calendar checked shows a House floor vote on National First Responders Day ever taking place, in 2019 or in any other year."
         ]
       },
@@ -6186,7 +6186,7 @@ export const guides: Guide[] = [
       {
         "heading": "An NGO coalition sets this date, not a government",
         "body": [
-          "World Kindness Day did not arrive through an act of any national legislature or a United Nations resolution. It exists because a group of nongovernmental kindness organizations, meeting in Tokyo in 1997, agreed to hold one, and then did — for the first time on November 13, 1998. That origin sets it apart from observances this calendar has covered that trace to a specific statute, such as [National Grandparents Day](/national-grandparents-day/), which exists because Congress passed Public Law 96-62 in 1979.",
+          "World Kindness Day did not arrive through an act of any national legislature or a United Nations resolution. It exists because a group of nongovernmental kindness organizations, meeting in Tokyo in 1997, agreed to hold one, and then did (for the first time on November 13, 1998). That origin sets it apart from observances this calendar has covered that trace to a specific statute, such as [National Grandparents Day](/national-grandparents-day/), which exists because Congress passed Public Law 96-62 in 1979.",
           "That difference matters for what the date can and cannot claim. The sources examined identify no statute fixing November 13 comparable to the US grandparents rule in 36 U.S.C. § 125. The date holds because the World Kindness Movement and its member organizations have kept observing it every year since 1998, and because schools, charities and, in a few cases, national governments have chosen to adopt it. It is a convention with three decades of consistent use behind it, not a legal designation."
         ]
       },
@@ -7689,8 +7689,8 @@ export const guides: Guide[] = [
       {
         "heading": "The 1966 Recommendation the date comes from",
         "body": [
-          "UNESCO's World Teachers' Day page states the anniversary directly: October 5, 1966 is when a special intergovernmental conference, convened by UNESCO in Paris in cooperation with the ILO, adopted the Recommendation concerning the Status of Teachers. The document set out international benchmarks for how teachers should be recruited and initially trained, how their continuing education should work, and what employment conditions, rights, and responsibilities they should have — the kind of professional-status framework that, in 1966, did not exist at an international level for the teaching workforce.",
-          "UNESCO’s annual observance began in 1994, twenty-eight years later. A related, narrower recommendation extending similar standards to higher-education teaching staff followed in 1997, and UNESCO has used World Teachers' Day in some years since to mark that document's anniversaries as well — the 2017 edition, for instance, marked twenty years since the 1997 Recommendation rather than the 1966 one."
+          "UNESCO's World Teachers' Day page states the anniversary directly: October 5, 1966 is when a special intergovernmental conference, convened by UNESCO in Paris in cooperation with the ILO, adopted the Recommendation concerning the Status of Teachers. The document set out international benchmarks for how teachers should be recruited and initially trained, how their continuing education should work, and what employment conditions, rights, and responsibilities they should have, the kind of professional-status framework that, in 1966, did not exist at an international level for the teaching workforce.",
+          "UNESCO’s annual observance began in 1994, twenty-eight years later. A related, narrower recommendation extending similar standards to higher-education teaching staff followed in 1997, and UNESCO has used World Teachers' Day in some years since to mark that document's anniversaries as well: the 2017 edition, for instance, marked twenty years since the 1997 Recommendation rather than the 1966 one."
         ],
         "image": {
           "src": "/images/world-teachers-day-timeline.svg",
@@ -7700,25 +7700,25 @@ export const guides: Guide[] = [
       {
         "heading": "Four teachers' days, four separate histories",
         "body": [
-          "The single biggest source of confusion around this observance is that \"Teachers' Day\" is not one holiday with one history — it is a name several countries independently attached to their own, older traditions, several decades before UNESCO's October 5 existed to compete with them.",
-          "India’s September 5 observance dates to 1962; the earlier US advocacy campaign is a different milestone from adoption of a recurring date. When Dr. Sarvepalli Radhakrishnan, a philosopher who had taught at universities in India and abroad, took office as President of India in 1962, his former students wanted to celebrate his birthday, September 5, in his honor. He asked them to mark the date instead as a tribute to teachers generally, and September 5 has been India's Teachers' Day every year since — thirty-two years before UNESCO’s 1994 observance existed, and for a reason that has nothing to do with the 1966 Recommendation.",
+          "The single biggest source of confusion around this observance is that \"Teachers' Day\" is not one holiday with one history; it is a name several countries independently attached to their own, older traditions, several decades before UNESCO's October 5 existed to compete with them.",
+          "India’s September 5 observance dates to 1962; the earlier US advocacy campaign is a different milestone from adoption of a recurring date. When Dr. Sarvepalli Radhakrishnan, a philosopher who had taught at universities in India and abroad, took office as President of India in 1962, his former students wanted to celebrate his birthday, September 5, in his honor. He asked them to mark the date instead as a tribute to teachers generally, and September 5 has been India's Teachers' Day every year since, thirty-two years before UNESCO’s 1994 observance existed, and for a reason that has nothing to do with the 1966 Recommendation.",
           "China's September 10 dates to a January 21, 1985 decision by the Standing Committee of the 6th National People's Congress, approving a State Council proposal to designate the day, timed to the start of the academic year and not tied to any person's birthday. China had marked a June 6 Teachers' Day under the pre-1949 Republic of China government and later folded teacher recognition into the general May 1 Labour Day, before the 1985 decision created a dedicated date; the first observance followed that September in Beijing.",
           "The United States traces its observance to a 1944 letter-writing campaign by Mattie Whyte Woodridge, an Arkansas teacher, which reached First Lady Eleanor Roosevelt and eventually the 81st Congress (1949–1951), which Roosevelt’s 1953 column says passed a joint resolution for the first Tuesday of March. It took decades more for an actual annual proclamation to stick: a single-year declaration on March 7, 1980, then a 1984 National PTA-created Teacher Appreciation Week in May, then a 1985 NEA vote moving National Teacher Day into that week, where it remains, on a Tuesday, distinct from UNESCO's fixed October 5.",
-          "Australia is the odd case among the four: it keeps UNESCO's name and its underlying rationale, but not the October 5 date itself, because that date usually lands during Australian school holidays. New South Wales's education department confirms the workaround directly — Australian states and territories instead mark World Teachers' Day on the last Friday of October, which is October 30 in 2026."
+          "Australia is the odd case among the four: it keeps UNESCO's name and its underlying rationale, but not the October 5 date itself, because that date usually lands during Australian school holidays. New South Wales's education department confirms the workaround directly; Australian states and territories instead mark World Teachers' Day on the last Friday of October, which is October 30 in 2026."
         ]
       },
       {
         "heading": "A resolution two to four years older than the column that gets cited for it",
         "body": [
           "Several secondary sources found in researching this page date the joint resolution described by Roosevelt for National Teachers Day to 1953, attributing it to the 81st Congress. That pairing does not hold up: the 81st Congress served from January 1949 to January 1951, ending two years before 1953 even begins, so it could not have passed anything in that year.",
-          "Eleanor Roosevelt's \"My Day\" column, syndicated nationally and dated January 14, 1953, resolves the mismatch. She writes that \"the 81st Congress of the United States passed a joint resolution designating the first Tuesday of March of each year as National Teachers Day\" — describing the resolution as an already-completed act by the time she was writing — and adds that \"last year\" (1952), the National Teachers Day Committee had called on the President to actually proclaim the day. Read against Roosevelt's timeline, the resolution she describes belongs to the 81st Congress's 1949–1951 term, while 1953 dates her column. Its statutory identifier has not been established here, so the passage should be read as Roosevelt’s account rather than independent verification of enactment. The secondary sources appear to have compressed those two separate facts, the resolution's real date and Roosevelt's column date, into one."
+          "Eleanor Roosevelt's \"My Day\" column, syndicated nationally and dated January 14, 1953, resolves the mismatch. She writes that \"the 81st Congress of the United States passed a joint resolution designating the first Tuesday of March of each year as National Teachers Day\" (describing the resolution as an already-completed act by the time she was writing) and adds that \"last year\" (1952), the National Teachers Day Committee had called on the President to actually proclaim the day. Read against Roosevelt's timeline, the resolution she describes belongs to the 81st Congress's 1949–1951 term, while 1953 dates her column. Its statutory identifier has not been established here, so the passage should be read as Roosevelt’s account rather than independent verification of enactment. The secondary sources appear to have compressed those two separate facts, the resolution's real date and Roosevelt's column date, into one."
         ]
       },
       {
         "heading": "What the pattern says about \"awareness day\" origin stories generally",
         "body": [
           "Several entries on this calendar distinguish early advocacy, an adopted observance date and later institutional recognition. Each milestone needs its own supporting record and date. [National Grandparents Day](/national-grandparents-day/) sits at one end of that spectrum, with its date locked into actual US federal statute, 36 U.S.C. § 125, instead of an annual proclamation that could lapse. World Teachers' Day sits closer to the other end: UNESCO’s annual event is a recurring institutional commitment, backed by four international organizations, but it carries no force of law, and it arrived decades after at least three national teachers' days it now nominally sits alongside.",
-          "That same gap between founding and formal recognition shows up on [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), whose ACS account dates a campaign to 1985, before the year-specific congressional designation in 1990, and on [World Kindness Day](/world-kindness-day/), a civil-society observance that, unlike World Teachers' Day, has no UN designation identified in the references examined for that page. World Teachers' Day is the more institutionally anchored of the pair — UNESCO is itself a UN specialized agency — but its national predecessors are the clearest reminder on this page that \"UNESCO's day\" and \"the world's only teachers' day\" are not the same claim. Another October observance with a documented founding, [World Mental Health Day](/world-mental-health-day/) on October 10, traces to a 1992 founder. It's one of nine single-day or single-week October observances this site has mapped individually, gathered together with a documentation ranking on this site's [National Days in October](/national-days-in-october/) page."
+          "That same gap between founding and formal recognition shows up on [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), whose ACS account dates a campaign to 1985, before the year-specific congressional designation in 1990, and on [World Kindness Day](/world-kindness-day/), a civil-society observance that, unlike World Teachers' Day, has no UN designation identified in the references examined for that page. World Teachers' Day is the more institutionally anchored of the pair: UNESCO is itself a UN specialized agency, but its national predecessors are the clearest reminder on this page that \"UNESCO's day\" and \"the world's only teachers' day\" are not the same claim. Another October observance with a documented founding, [World Mental Health Day](/world-mental-health-day/) on October 10, traces to a 1992 founder. It's one of nine single-day or single-week October observances this site has mapped individually, gathered together with a documentation ranking on this site's [National Days in October](/national-days-in-october/) page."
         ]
       }
     ],
@@ -8098,11 +8098,11 @@ export const guides: Guide[] = [
       },
       {
         "question": "What if I was born in January 1994?",
-        "answer": "Everyone born before the February 10, 1994 cutoff — meaning any birthday from that January onward up to it — carries the prior zodiac year, Gui-You, Water Rooster, per the Observatory's 1993 chart, not the Wood Dog."
+        "answer": "Everyone born before the February 10, 1994 cutoff (meaning any birthday from that January onward up to it) carries the prior zodiac year, Gui-You, Water Rooster, per the Observatory's 1993 chart, not the Wood Dog."
       },
       {
         "question": "Why is 1994 called the \"Wood\" Dog instead of just \"the Dog\"?",
-        "answer": "The traditional system tags every year with two labels at once — one animal from a 12-position cycle and one element from a 5-way rotation that covers each element across two straight years. 1994 draws wood; other Dog years land on different elements, like the Earth Dog of 1958 or the Fire Dog of 2006."
+        "answer": "The traditional system tags every year with two labels at once: one animal from a 12-position cycle and one element from a 5-way rotation that covers each element across two straight years. 1994 draws wood; other Dog years land on different elements, like the Earth Dog of 1958 or the Fire Dog of 2006."
       },
       {
         "question": "When is the next Wood Dog year?",
@@ -8759,7 +8759,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What Chinese zodiac sign is 1987?",
-        "answer": "Fire Rabbit — though that label doesn't kick in until January 29, 1987. Hong Kong's official calendar authority identifies that date as when Ding-mao, the lunar year in question, begins, and it doesn't close out until mid-February of the following year."
+        "answer": "Fire Rabbit, though that label doesn't kick in until January 29, 1987. Hong Kong's official calendar authority identifies that date as when Ding-mao, the lunar year in question, begins, and it doesn't close out until mid-February of the following year."
       },
       {
         "question": "Was Naya Rivera really born in the Year of the Rabbit?",
@@ -8886,7 +8886,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What is the traditional 11th anniversary gift?",
-        "answer": "Steel — that's the standard answer, but only on the US side. Britain's list, drawn from a different 1970s reference, skips year 11 without any substitute entry."
+        "answer": "Steel: that's the standard answer, but only on the US side. Britain's list, drawn from a different 1970s reference, skips year 11 without any substitute entry."
       },
       {
         "question": "Does the UK have an 11th anniversary gift?",
@@ -8898,7 +8898,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is fashion jewelry really the modern 11th anniversary gift?",
-        "answer": "That claim circulates widely on online gift guides, sometimes credited loosely to a group of mid-century Chicago retailers, yet no page repeating it offers an attributable name, a citable publication, or any record that anyone could go verify — unlike the two documented lists above, each of which points back to one identifiable, checkable source."
+        "answer": "That claim circulates widely on online gift guides, sometimes credited loosely to a group of mid-century Chicago retailers, yet no page repeating it offers an attributable name, a citable publication, or any record that anyone could go verify; unlike the two documented lists above, each of which points back to one identifiable, checkable source."
       },
       {
         "question": "How durable is turquoise for everyday jewelry?",
@@ -8993,7 +8993,7 @@ export const guides: Guide[] = [
       {
         "heading": "A presidential week, then a nonprofit's month",
         "body": [
-          "The observance's federal history began with President Clinton's Proclamation 7120, issued September 12, 1998, which named September 13 through 19 of that year National Ovarian Cancer Awareness Week — a single week, not a month, and a real government document recorded in the U.S. Statutes at Large. The advocacy behind it was not new, though: the National Ovarian Cancer Coalition (NOCC) had already been working on the disease's behalf for seven years by then, since its founding as a grassroots group in Boca Raton, Florida, in 1991, and its 1995 incorporation as the country's first national ovarian-cancer nonprofit.",
+          "The observance's federal history began with President Clinton's Proclamation 7120, issued September 12, 1998, which named September 13 through 19 of that year National Ovarian Cancer Awareness Week, a single week, not a month, and a real government document recorded in the U.S. Statutes at Large. The advocacy behind it was not new, though: the National Ovarian Cancer Coalition (NOCC) had already been working on the disease's behalf for seven years by then, since its founding as a grassroots group in Boca Raton, Florida, in 1991, and its 1995 incorporation as the country's first national ovarian-cancer nonprofit.",
           "NOCC is the organization that turned that single week into an annual, month-long campaign. NOCC’s materials date the expansion to 2000, two years after Clinton's proclamation, and describe the goal plainly: a single week of federal attention was not enough time to reach patients, families, and physicians with information about a cancer that, at the time, had far lower public visibility than breast cancer."
         ],
         "image": {
@@ -9005,7 +9005,7 @@ export const guides: Guide[] = [
         "heading": "The confirmed 2001 and 2002 proclamations",
         "body": [
           "NOCC’s 2001 account is supported by the official Bush presidential archive. The announcement was released August 31,2001, while the signature clause dates it August 30. It names September as the full awareness month, one year after NOCC’s reported 2000 expansion. The 2002 proclamation discussed below is therefore not the earliest confirmed full-month document.",
-          "What can be confirmed directly, through a Federal Register filing with its own document number, is Proclamation 7587, issued for September 2002. That proclamation estimated more than 23,000 American women would be diagnosed with ovarian cancer in 2002 and almost 14,000 would die from it, and it stated that ovarian cancer caught at its earliest, localized stage carries a 95 percent five-year survival rate — a figure meant to make the case for awareness and early detection, not a general survival statistic for every diagnosis regardless of stage.",
+          "What can be confirmed directly, through a Federal Register filing with its own document number, is Proclamation 7587, issued for September 2002. That proclamation estimated more than 23,000 American women would be diagnosed with ovarian cancer in 2002 and almost 14,000 would die from it, and it stated that ovarian cancer caught at its earliest, localized stage carries a 95 percent five-year survival rate, a figure meant to make the case for awareness and early detection, not a general survival statistic for every diagnosis regardless of stage.",
           "The cited later proclamations do not form a complete annual series: confirmed documents exist for 2002, 2013, 2014, 2016, 2021, 2023, and 2024, each a separately numbered proclamation. September 2025 broke the specific format, if not necessarily the tradition: the White House issued a \"Presidential Message\" that year as distinct from a numbered proclamation, the only year on this list where that happened."
         ]
       },
@@ -9013,7 +9013,7 @@ export const guides: Guide[] = [
         "heading": "House support and later proposed resolutions",
         "body": [
           "The congressional records consulted did not identify a standing statutory designation for Ovarian Cancer Awareness Month. The House approved [H.Res.444 in 2005](https://www.govinfo.gov/content/pkg/BILLS-109hres444eh/html/BILLS-109hres444eh.htm), expressing support for the month’s goals without creating a statute. The recent examples below are other House resolutions naming specific Septembers: H.Res.746 for 2023, H.Res.1508 for 2024, and H.Res.775 for 2025.",
-          "These are simple House resolutions: even passage would express the House’s position, without requiring Senate agreement or becoming a law. GovTrack.us’s tracking shows H.Res.1508, the 2024 resolution, never received a vote after being referred to committee — the ordinary fate of a \"supporting the designation of\" resolution in the modern House. No Senate companion resolution for any of these specific years was confirmed to have passed during research for this page, and no standing designation law bearing this name was identified in the documents examined. [Lung Cancer Awareness Month](/lung-cancer-awareness-month/) at least secured one unanimous Senate resolution, in 2020; the ovarian-cancer record includes a House-approved 2005 expression of support, as well as the recent proposals listed above. Those are different instruments, with no recurring statutory designation identified in either guide’s consulted set."
+          "These are simple House resolutions: even passage would express the House’s position, without requiring Senate agreement or becoming a law. GovTrack.us’s tracking shows H.Res.1508, the 2024 resolution, never received a vote after being referred to committee, the ordinary fate of a \"supporting the designation of\" resolution in the modern House. No Senate companion resolution for any of these specific years was confirmed to have passed during research for this page, and no standing designation law bearing this name was identified in the documents examined. [Lung Cancer Awareness Month](/lung-cancer-awareness-month/) at least secured one unanimous Senate resolution, in 2020; the ovarian-cancer record includes a House-approved 2005 expression of support, as well as the recent proposals listed above. Those are different instruments, with no recurring statutory designation identified in either guide’s consulted set."
         ]
       },
       {
@@ -9027,14 +9027,14 @@ export const guides: Guide[] = [
         "heading": "Why 'silent killer' is a contested label",
         "body": [
           "Ovarian cancer is commonly described as a silent killer, and the label has real statistics behind the underlying concern even where advocates and researchers dispute the word \"silent\" itself. The American Cancer Society estimates roughly 21,010 new U.S. diagnoses and about 12,450 deaths for 2026, a lifetime risk of about 1 in 91 for being diagnosed and about 1 in 143 for dying of the disease. For invasive epithelial cancer of the ovary diagnosed in 2015–2021, the ACS’s five-year relative survival estimate across all SEER stages is 51 percent, but that figure hides an enormous range by how early the cancer is caught: 92 percent for cancer still localized to the ovary, 71 percent once it has reached nearby structures or lymph nodes, and 32 percent once it has spread further.",
-          "The reason so many cases are caught late is the actual substance of the \"silent killer\" debate. No screening test has been shown effective enough for general use — the U.S. Preventive Services Task Force gave ovarian-cancer screening a Grade D recommendation in 2018, applying to asymptomatic women without a known high-risk hereditary cancer syndrome, because large trials failed to demonstrate a net benefit. Roughly 70 percent of cases are still diagnosed at an advanced stage. Symptoms do exist, though, and are not truly absent: bloating, pelvic or abdominal pain, feeling full quickly after eating, and increased urinary frequency or urgency are the most commonly reported, and a 2000 survey of 1,725 women with the disease found 95 percent reported noticing at least one such symptom at some point before their diagnosis. Several researchers, writing for outlets including The Conversation, have argued the \"silent killer\" framing is itself part of the problem: the symptoms are real and reported, just vague enough to be mistaken for digestive issues, which delays diagnosis more through misattribution than through any true absence of warning signs."
+          "The reason so many cases are caught late is the actual substance of the \"silent killer\" debate. No screening test has been shown effective enough for general use; the U.S. Preventive Services Task Force gave ovarian-cancer screening a Grade D recommendation in 2018, applying to asymptomatic women without a known high-risk hereditary cancer syndrome, because large trials failed to demonstrate a net benefit. Roughly 70 percent of cases are still diagnosed at an advanced stage. Symptoms do exist, though, and are not truly absent: bloating, pelvic or abdominal pain, feeling full quickly after eating, and increased urinary frequency or urgency are the most commonly reported, and a 2000 survey of 1,725 women with the disease found 95 percent reported noticing at least one such symptom at some point before their diagnosis. Several researchers, writing for outlets including The Conversation, have argued the \"silent killer\" framing is itself part of the problem: the symptoms are real and reported, just vague enough to be mistaken for digestive issues, which delays diagnosis more through misattribution than through any true absence of warning signs."
         ]
       },
       {
         "heading": "Not the only ovarian cancer date on the calendar",
         "body": [
           "Two other observances get confused with the U.S. September month, and neither is the same thing. World Ovarian Cancer Day falls on May 8 every year, an international observance launched in 2013 by international ovarian-cancer advocacy leaders and now promoted by the WOCC, the international ovarian-cancer coalition, which was established in 2016, a partnership now including more than 200 advocacy organizations, with a focus on earlier diagnosis, research and equitable access to care as distinct from the U.S. federal-proclamation history documented above.",
-          "The United Kingdom runs a separate, differently timed campaign entirely. Target Ovarian Cancer, Ovarian Cancer Action, Macmillan Cancer Support, and The Eve Appeal mark Ovarian Cancer Awareness Month in March, citing over 7,000 UK diagnoses a year and noting that roughly two-thirds are still caught at a late stage — the same core early-detection problem documented above, tracked by a different set of charities on a different month entirely.",
+          "The United Kingdom runs a separate, differently timed campaign entirely. Target Ovarian Cancer, Ovarian Cancer Action, Macmillan Cancer Support, and The Eve Appeal mark Ovarian Cancer Awareness Month in March, citing over 7,000 UK diagnoses a year and noting that roughly two-thirds are still caught at a late stage, the same core early-detection problem documented above, tracked by a different set of charities on a different month entirely.",
           "This calendar has now covered several observances built around the same basic pattern: a nonprofit or a single advocacy campaign builds public attention first, and federal government recognition, where it exists at all, follows on its own separate and often much later timeline, without ever quite becoming a standing law. [The breast-cancer awareness month](/breast-cancer-awareness-month/) is documented through year-specific public laws passed in the early 1990s; [the lung-cancer observance](/lung-cancer-awareness-month/) has a documented passed 2020 Senate month-designation, alongside earlier federal proposals and broader lung-cancer action; [Suicide Prevention Month](/suicide-prevention-month/), observed the same September, has a separate history, including Senate measures requesting recognition of specific Septembers. The linked guides distinguish year-specific laws, simple resolutions and presidential announcements. Their cited records do not support ranking these campaigns by overall government recognition."
         ]
       }
@@ -9050,7 +9050,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Has Congress passed a law making Ovarian Cancer Awareness Month official?",
-        "answer": "The sources examined for this article yielded no statutory rule that renews the designation each year. During 2005, representatives agreed to H.Res.444, endorsing the campaign’s aims, but a resolution confined to one chamber cannot create statutory obligations. Three later proposals—H.Res.746, H.Res.1508 and H.Res.775—concern 2023, 2024 and 2025. The 2024 proposal received no vote in the cited record; that status should not be extended to every earlier measure."
+        "answer": "The sources examined for this article yielded no statutory rule that renews the designation each year. During 2005, representatives agreed to H.Res.444, endorsing the campaign’s aims, but a resolution confined to one chamber cannot create statutory obligations. Three later proposals: H.Res.746, H.Res.1508 and H.Res.775, concern 2023, 2024 and 2025. The 2024 proposal received no vote in the cited record; that status should not be extended to every earlier measure."
       },
       {
         "question": "Is Ovarian Cancer Awareness Month a federal holiday?",
@@ -9062,7 +9062,7 @@ export const guides: Guide[] = [
       },
       {
         "question": "Is this the same as World Ovarian Cancer Day?",
-        "answer": "No. International advocacy leaders launched the May 8 event in 2013. WOCC—the international coalition whose full name appears above—now promotes the day. It formed three years after the first observance, in 2016. Britain’s March campaign is another separate observance; the American campaign still takes place in September."
+        "answer": "No. International advocacy leaders launched the May 8 event in 2013. WOCC (the international coalition whose full name appears above) now promotes the day. It formed three years after the first observance, in 2016. Britain’s March campaign is another separate observance; the American campaign still takes place in September."
       },
       {
         "question": "Why is ovarian cancer called a 'silent killer,' and is that accurate?",
@@ -11268,7 +11268,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What Chinese zodiac sign is 1988?",
-        "answer": "Earth Dragon — though that label doesn't kick in until February 17, 1988. Hong Kong's official calendar authority identifies that date as when Wu-chen, the lunar year in question, begins, and it doesn't close out until early February of the following year."
+        "answer": "Earth Dragon, though that label doesn't kick in until February 17, 1988. Hong Kong's official calendar authority identifies that date as when Wu-chen, the lunar year in question, begins, and it doesn't close out until early February of the following year."
       },
       {
         "question": "Was Skrillex really born in the Year of the Dragon?",

@@ -2,26 +2,26 @@
   "https://dayalmanac.com/national-bosses-day/": {
     "submitted_date": "2026-08-02",
     "verified_status": "stale_not_indexed",
-    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
+    "note": "new publish; Bing 200 / Yandex 202. Note: an unrelated concurrent commit (2e00126) swept up the pre-fix draft and pushed it before review fixes landed; corrected content pushed in 5cffc45 and confirmed live before this submission. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-bosses-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection",
-    "last_submitted_date": "2026-09-29"
+    "last_submitted_date": "2026-10-12"
   },
   "https://dayalmanac.com/national-boyfriend-day/": {
     "submitted_date": "2026-08-03",
     "verified_status": "stale_not_indexed",
-    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale",
-    "last_submitted_date": "2026-09-23",
+    "note": "content-quality-audit update (not new publish); Bing 200 / Yandex 202. Fixed missing hero image (og:image/twitter:image previously fell back to favicon.svg) and softened an overstated FAQ claim about National Girlfriend Day's origin. | 2026-08-17: Discovered but not crawled，discovered 02 Aug 2026，账龄15天，超过14天阈值判定为stale | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-boyfriend-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
+    "last_submitted_date": "2026-10-12",
     "last_checked_date": "2026-08-17",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/national-cat-day/": {
     "submitted_date": "2026-08-03",
     "verified_status": "verified_indexed",
-    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查 | discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold",
+    "note": "new publish; Bing 200 / Yandex 202. N-layer, Oct 29, 87-day pre-launch window. Documented founding (Colleen Paige, 2005); disambiguates against 3 other cat observances; corrects inconsistent shelter stats vs ASPCA 2025 data. | 2026-08-17: Discovered but not crawled，discovered 03 Aug 2026，账龄14天，接近阈值下次运行需重点复查 | discovered 04 Aug, account age exactly 14 days, boundary — near stale threshold | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-cat-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-08-20",
     "verified_method": "bwt_url_inspection",
-    "last_submitted_date": "2026-08-10"
+    "last_submitted_date": "2026-10-12"
   },
   "https://dayalmanac.com/national-coffee-day/": {
     "submitted_date": "2026-08-03",
@@ -33,11 +33,11 @@
   },
   "https://dayalmanac.com/national-dog-day/": {
     "submitted_date": "2026-08-03",
-    "last_submitted_date": "2026-08-17",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-08-18",
     "verified_method": "bwt_url_inspection",
-    "note": "Indexed successfully, 2 SEO/GEO issues (Title too long, Meta Description too long or too short)"
+    "note": "Indexed successfully, 2 SEO/GEO issues (Title too long, Meta Description too long or too short) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-dog-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/december-birthstone/": {
     "submitted_date": "2026-08-04",
@@ -65,11 +65,11 @@
   },
   "https://dayalmanac.com/march-birthstone/": {
     "submitted_date": "2026-08-04",
-    "last_submitted_date": "2026-08-04",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天 | 2026-08-28: Discovered but not crawled，discovered 07 Aug，账龄21天"
+    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 07 Aug账龄17天 | 2026-08-28: Discovered but not crawled，discovered 07 Aug，账龄21天 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/march-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/september-birthstone/": {
     "submitted_date": "2026-08-05",
@@ -81,19 +81,19 @@
   },
   "https://dayalmanac.com/scorpio-dates/": {
     "submitted_date": "2026-08-05",
-    "last_submitted_date": "2026-09-03",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
+    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/scorpio-dates/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/january-birthstone/": {
     "submitted_date": "2026-08-05",
-    "last_submitted_date": "2026-08-24",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 08 Aug账龄16天 | 2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
+    "note": "2026-08-24: 仍为 Blocked（has issues preventing indexation），discovered 08 Aug账龄16天 | 2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/january-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-sons-day/": {
     "submitted_date": "2026-08-05",
@@ -104,8 +104,9 @@
   },
   "https://dayalmanac.com/red-ribbon-week/": {
     "submitted_date": "2026-08-06",
-    "last_submitted_date": "2026-08-06",
-    "verified_status": "stale_not_indexed"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "stale_not_indexed",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/red-ribbon-week/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/true-or-false/": {
     "submitted_date": "2026-08-06",
@@ -120,8 +121,9 @@
   },
   "https://dayalmanac.com/national-grandparents-day/": {
     "submitted_date": "2026-08-09",
-    "last_submitted_date": "2026-09-23",
-    "verified_status": "stale_not_indexed"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "stale_not_indexed",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-grandparents-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-taco-day/": {
     "submitted_date": "2026-08-09",
@@ -146,10 +148,11 @@
   },
   "https://dayalmanac.com/breast-cancer-awareness-month/": {
     "submitted_date": "2026-08-10",
-    "last_submitted_date": "2026-09-01",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-02",
-    "verified_method": "bwt_url_inspection"
+    "verified_method": "bwt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/breast-cancer-awareness-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/diabetes-awareness-month/": {
     "submitted_date": "2026-08-10",
@@ -167,25 +170,27 @@
   },
   "https://dayalmanac.com/birthstones-by-month/": {
     "submitted_date": "2026-08-11",
-    "last_submitted_date": "2026-09-18",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-02",
     "verified_method": "bwt_url_inspection",
-    "note": "resubmit after fixing double-domain-prefix bug (2026-09-18)"
+    "note": "resubmit after fixing double-domain-prefix bug (2026-09-18) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/birthstones-by-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/international-mens-day/": {
     "submitted_date": "2026-08-11",
-    "last_submitted_date": "2026-08-11",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-02",
-    "verified_method": "bwt_url_inspection"
+    "verified_method": "bwt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/international-mens-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/august-birth-flower/": {
     "submitted_date": "2026-08-11",
-    "last_submitted_date": "2026-08-11",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-02",
-    "verified_method": "bwt_url_inspection"
+    "verified_method": "bwt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/august-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/september-birth-flower/": {
     "submitted_date": "2026-08-12",
@@ -196,18 +201,19 @@
   },
   "https://dayalmanac.com/july-birth-flower/": {
     "submitted_date": "2026-08-12",
-    "last_submitted_date": "2026-08-12",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-09",
-    "verified_method": "bwt_url_inspection"
+    "verified_method": "bwt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/july-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/talk-like-a-pirate-day/": {
     "submitted_date": "2026-08-12",
-    "last_submitted_date": "2026-08-12",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-12",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-09-12: discovered 16 Aug（submitted 08-12），discovered but not crawled"
+    "note": "2026-09-12: discovered 16 Aug（submitted 08-12），discovered but not crawled | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/talk-like-a-pirate-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/epilepsy-awareness-month/": {
     "submitted_date": "2026-08-13",
@@ -234,69 +240,75 @@
   },
   "https://dayalmanac.com/suicide-prevention-month/": {
     "submitted_date": "2026-08-16",
-    "last_submitted_date": "2026-09-18",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-15",
     "verified_method": "bing_url_inspection",
-    "note": "resubmit after fixing double-domain-prefix bug (2026-09-18)"
+    "note": "resubmit after fixing double-domain-prefix bug (2026-09-18) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/suicide-prevention-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/november-birth-flower/": {
     "submitted_date": "2026-08-16",
-    "last_submitted_date": "2026-08-22",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-15",
-    "verified_method": "bing_url_inspection"
+    "verified_method": "bing_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/november-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/october-birth-flower/": {
     "submitted_date": "2026-08-17",
-    "last_submitted_date": "2026-08-17",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-16",
-    "verified_method": "bing_wmt_url_inspection"
+    "verified_method": "bing_wmt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/october-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/world-kindness-day/": {
     "submitted_date": "2026-08-17",
-    "last_submitted_date": "2026-08-17",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-16",
-    "verified_method": "bing_wmt_url_inspection"
+    "verified_method": "bing_wmt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-kindness-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/anniversary-gifts-by-year/": {
     "submitted_date": "2026-08-17",
-    "last_submitted_date": "2026-08-17",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-16",
-    "verified_method": "bing_wmt_url_inspection"
+    "verified_method": "bing_wmt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/anniversary-gifts-by-year/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/april-birth-flower/": {
     "submitted_date": "2026-08-18",
-    "last_submitted_date": "2026-08-18",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-23",
     "verified_method": "bwt_url_inspection",
-    "note": " | 2026-09-23: Blocked - issues preventing serving to users; curl绕缓存复核HTTP 200正常"
+    "note": " | 2026-09-23: Blocked - issues preventing serving to users; curl绕缓存复核HTTP 200正常 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/april-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/december-birth-flower/": {
     "submitted_date": "2026-08-18",
-    "last_submitted_date": "2026-08-18",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-23",
-    "verified_method": "bwt_url_inspection"
+    "verified_method": "bwt_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/december-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/february-birth-flower/": {
     "submitted_date": "2026-08-18",
-    "last_submitted_date": "2026-08-18",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-09-23",
     "verified_method": "bwt_url_inspection",
-    "note": " | 2026-09-23: Blocked - issues preventing serving to users"
+    "note": " | 2026-09-23: Blocked - issues preventing serving to users | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/february-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/january-birth-flower/": {
     "submitted_date": "2026-08-19",
-    "last_submitted_date": "2026-08-19",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-29",
-    "verified_method": "bing_url_inspection"
+    "verified_method": "bing_url_inspection",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/january-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/movember/": {
     "submitted_date": "2026-08-19",
@@ -314,37 +326,40 @@
   },
   "https://dayalmanac.com/world-smile-day/": {
     "submitted_date": "2026-08-20",
-    "last_submitted_date": "2026-08-20",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
-    "note": "Indexed successfully",
+    "note": "Indexed successfully | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-smile-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-09-30",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/lung-cancer-awareness-month/": {
     "submitted_date": "2026-08-20",
-    "last_submitted_date": "2026-08-20",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "stale_not_indexed",
-    "note": "Discovered but not crawled (提交 08-20，>14天)",
+    "note": "Discovered but not crawled (提交 08-20，>14天) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/lung-cancer-awareness-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-09-30",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/world-teachers-day/": {
     "submitted_date": "2026-08-20",
-    "last_submitted_date": "2026-08-20",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
-    "verified_date": "2026-10-08"
+    "verified_date": "2026-10-08",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-teachers-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/june-birth-flower/": {
     "submitted_date": "2026-08-21",
-    "last_submitted_date": "2026-08-21",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
-    "verified_date": "2026-10-08"
+    "verified_date": "2026-10-08",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/june-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/march-birth-flower/": {
     "submitted_date": "2026-08-21",
-    "last_submitted_date": "2026-08-21",
+    "last_submitted_date": "2026-10-12",
     "verified_status": "verified_indexed",
-    "verified_date": "2026-10-08"
+    "verified_date": "2026-10-08",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/march-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/may-birth-flower/": {
     "submitted_date": "2026-08-21",
@@ -353,8 +368,9 @@
   },
   "https://dayalmanac.com/birth-flowers-by-month/": {
     "submitted_date": "2026-08-22",
-    "last_submitted_date": "2026-08-22",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/birth-flowers-by-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/mexican-independence-day/": {
     "submitted_date": "2026-08-22",
@@ -363,13 +379,15 @@
   },
   "https://dayalmanac.com/1994-chinese-zodiac/": {
     "submitted_date": "2026-08-23",
-    "last_submitted_date": "2026-08-23",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1994-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/world-mental-health-day/": {
     "submitted_date": "2026-08-23",
-    "last_submitted_date": "2026-08-23",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-mental-health-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-guacamole-day/": {
     "submitted_date": "2026-08-23",
@@ -378,8 +396,9 @@
   },
   "https://dayalmanac.com/gemini-birthstone/": {
     "submitted_date": "2026-08-24",
-    "last_submitted_date": "2026-08-24",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/gemini-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/1987-chinese-zodiac/": {
     "submitted_date": "2026-08-24",
@@ -388,8 +407,9 @@
   },
   "https://dayalmanac.com/11th-anniversary-gift/": {
     "submitted_date": "2026-08-24",
-    "last_submitted_date": "2026-08-24",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/11th-anniversary-gift/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/ovarian-cancer-awareness-month/": {
     "submitted_date": "2026-08-25",
@@ -403,8 +423,9 @@
   },
   "https://dayalmanac.com/galentines-day/": {
     "submitted_date": "2026-08-25",
-    "last_submitted_date": "2026-08-25",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/galentines-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/banned-books-week/": {
     "submitted_date": "2026-08-26",
@@ -413,8 +434,9 @@
   },
   "https://dayalmanac.com/national-adoption-day/": {
     "submitted_date": "2026-08-26",
-    "last_submitted_date": "2026-08-26",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-adoption-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/bullying-prevention-month/": {
     "submitted_date": "2026-08-26",
@@ -423,8 +445,9 @@
   },
   "https://dayalmanac.com/national-pepperoni-pizza-day/": {
     "submitted_date": "2026-08-27",
-    "last_submitted_date": "2026-08-27",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-pepperoni-pizza-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-wife-appreciation-day/": {
     "submitted_date": "2026-08-27",
@@ -464,13 +487,15 @@
   },
   "https://dayalmanac.com/1988-chinese-zodiac/": {
     "submitted_date": "2026-08-30",
-    "last_submitted_date": "2026-08-30",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1988-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-mango-day/": {
     "submitted_date": "2026-08-31",
-    "last_submitted_date": "2026-08-31",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/national-mango-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-apple-day/": {
     "submitted_date": "2026-08-31",
@@ -479,13 +504,15 @@
   },
   "https://dayalmanac.com/libra-birthstone/": {
     "submitted_date": "2026-09-01",
-    "last_submitted_date": "2026-09-01",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/1991-chinese-zodiac/": {
     "submitted_date": "2026-09-02",
-    "last_submitted_date": "2026-09-18",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1991-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/june-birthstone/": {
     "submitted_date": "2026-09-02",
@@ -499,18 +526,21 @@
   },
   "https://dayalmanac.com/1992-chinese-zodiac/": {
     "submitted_date": "2026-09-04",
-    "last_submitted_date": "2026-09-04",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1992-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/april-birthstone/": {
     "submitted_date": "2026-09-10",
-    "last_submitted_date": "2026-09-10",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/april-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/june-22-zodiac/": {
     "submitted_date": "2026-09-11",
-    "last_submitted_date": "2026-09-11",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/june-22-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-pasta-day/": {
     "submitted_date": "2026-09-12",
@@ -519,8 +549,9 @@
   },
   "https://dayalmanac.com/may-22-zodiac/": {
     "submitted_date": "2026-09-13",
-    "last_submitted_date": "2026-09-13",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/holiday-spending-statistics/": {
     "submitted_date": "2026-09-13",
@@ -529,8 +560,9 @@
   },
   "https://dayalmanac.com/october-14-zodiac/": {
     "submitted_date": "2026-09-16",
-    "last_submitted_date": "2026-09-16",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/october-14-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/dayalmanac": {
     "submitted_date": "2026-09-16",
@@ -554,7 +586,8 @@
   },
   "https://dayalmanac.com/when-does-lent-start-and-end/": {
     "submitted_date": "2026-09-29",
-    "last_submitted_date": "2026-09-29",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-12",
+    "verified_status": "pending",
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/when-does-lent-start-and-end/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   }
 }

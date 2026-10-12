@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "That same gap between founding and formal recognition shows up on [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), whose ACS account dates a campaign to 1985, before the year-specific congressional designation in 1990, and on [World Kindness Day](/world-kindness-day/), a civil-society observance that, unlike World Teachers' Day, has no UN designation identified in the references examined for that page.",
+    "target_slug": "breast-cancer-awareness-month",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "That same gap between founding and formal recognition shows up on [Breast Cancer Awareness Month](/breast-cancer-awareness-month/), whose ACS account dates a campaign to 1985, before the year-specific congressional designation in 1990, and on [World Kindness Day](/world-kindness-day/), a civil-society observance that, unlike World Teachers' Day, has no UN designation identified in the references examined for that page.",
+    "target_slug": "world-kindness-day",
+    "target_found": true
+  }
+]

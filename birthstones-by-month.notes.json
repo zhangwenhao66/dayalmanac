@@ -2,6 +2,7 @@
   {
     "index": 1,
     "verdict": "CONFIRMED",
-    "note": "原桥接句写'multiple organizations each claiming to have started the same day'与目标文章不符（目标文章national-cat-day实际是四个不同名称、不同创始人、不同日期的'猫节'，彼此容易混淆，不是'多个组织争抢同一天的创办权'）；已改写为'found four differently named, differently founded observances that get confused with one another'，与目标文章核心内容（'Cat day' is not one observance; it is a name loosely shared by at least four of them...founded by Colleen Paige/IFAW/Wayne H. Morris/Cats Protection'）精确吻合，同站另一处桥接句（Virgo's dates页）用几乎相同措辞'four differently named, differently founded observances'描述同一目标文章，可交叉印证用词准确。"
+    "note": "Claim checked: the bridge links to /national-cat-day/. Target guide title: National Cat Day: October 29, and Which Cat Holiday You Mean. Matching target body/FAQ passage: “National Cat Day is a US observance held on October 29, encouraging people to adopt shelter cats, support rescue organizations, and spend extra time with the cats they already have. No statutory holiday designation was identified in the sources consulted. The occasion itself does not require leave or closures; local schedules and other holidays still govern opening hours. In 2026 it falls on a Thursday.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[This calendar's Cat Day page](/national-cat-day/) documents a comparable naming problem: four observances with different founders and dates are easily confused."
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /world-mental-health-day/. Target guide title: World Mental Health Day: October 10, and Its 1992 Founder. Matching target body/FAQ passage: “World Mental Health Day is an annual observance held every October 10, organized around a theme the World Federation for Mental Health (WFMH) sets each year. WFMH is the sponsoring body; the World Health Organization (WHO) supports the day by raising awareness through its relationships with health ministries and civil-society organizations around the world, and by developing technical and communication material, without being the day's founding organization itself.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "Later the same month, [World Mental Health Day](/world-mental-health-day/) falls on October 10."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /world-teachers-day/. Target guide title: World Teachers' Day: October 5, and the National Days It Isn't. Matching target body/FAQ passage: “World Teachers' Day is an international observance held every October 5, co-convened by UNESCO, the International Labour Organization, UNICEF, and Education International, the global federation of teachers' unions. It exists to mark the 1966 adoption of the \\\"Recommendation concerning the Status of Teachers,\\\" a standard-setting document covering how teachers should be recruited, trained, employed, and treated, and to give governments, schools, and the public a yearly occasion to focus on the st” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A comparable compression runs through the record behind [this site's World Teachers' Day page](/world-teachers-day/), which distinguishes Eleanor Roosevelt’s 1953 column from the earlier 81st Congress that her column names."
+  }
+]

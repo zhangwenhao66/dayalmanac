@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /may-22-zodiac/. Target guide title: May 22 Zodiac: Gemini, by One Contested Day. Matching target body/FAQ passage: “Only under the loosest definitions. One widely shared cusp window runs a full week and swallows this date with room to spare; a rival version ties the cusp to an exact degree on a birth chart and cuts off two days sooner. Solar ingress records spanning five recent years back the tighter version, landing consistently a day or two before this date.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A month earlier on the calendar, a different sign boundary gets the same scrutiny: [this site's May 22 zodiac page](/may-22-zodiac/) checks five years of ephemeris records against the Taurus-Gemini line and finds the crossing on May 20 or May 21, one or two days before May 22."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /october-14-zodiac/. Target guide title: October 14 Zodiac: Libra by Date, Virgo by Sky. Matching target body/FAQ passage: “Wikipedia's astrology entry (checked 12 October 2026) gives a very slightly later window, stating the Sun \\\"transits this sign on average between September 24 and October 23.\\\" That's a day later on both ends than AstroStyle and Farmers' Almanac, the same kind of single-day rounding gap this site's May 22 and June 22 zodiac pages document for their own sign boundaries. But shifting the range by a day doesn't touch October 14 either way: it lands on the 21st day of Wikipedia's version (checked 12” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A much wider version of that same tropical-versus-sidereal gap turns up in mid-autumn: [this site's October 14 zodiac page](/october-14-zodiac/) finds a date that's solidly tropical Libra while the Vedic sidereal calendar and the actual constellation the Sun sits in front of both still read Virgo."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /gemini-birthstone/. Target guide title: Gemini Birthstone: Pearl and Alexandrite, Not 1913's Agate. Matching target body/FAQ passage: “Jewelers of America's current chart lists three official birthstones for June: pearl, moonstone, and alexandrite. Per [DayAlmanac's own breakdown of that chart](/birthstones-by-month/), June ties only with December for the most stones on Jewelers of America's list; most other months carry just one or two. Pearl is the original entry, dating to the first standardized US list adopted at the 1912 Kansas City meeting. Alexandrite was added in 1952, in a revision of that original list that Wikipedia ” The comparison in the bridge is supported by that target passage.",
+    "sentence": "There's no comparable trade-group chart assigning stones to zodiac signs, and readers a day or two over on the Gemini side run into a separate mismatch: this site's [Gemini birthstone page](/gemini-birthstone/) traces the \\\"pearl and alexandrite\\\" claim some retailers make for Gemini back to June's own monthly list, while the older zodiac birthstone table discussed on that page names agate for Gemini instead."
+  }
+]

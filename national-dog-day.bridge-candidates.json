@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "A similar gap between appearance and actual government action runs through [this site's National First Responders Day page](/national-first-responders-day/): its cited set contains eleven measures from 2014 through 2023, including Senate approval in 2017 and 2019 without matching House passage.",
+    "target_slug": "national-first-responders-day",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "The Wikipedia article (checked 12 October 2026) opens by defining them as interchangeable: \\\"International Dog Day or National Dog Day is an annual observance held on August 26.\\\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \\\"International\\\" version of Dog Day.",
+    "target_slug": "national-cat-day",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "The same caution about unattributed statistics applies to the shelter figures cited on [National Cat Day](/national-cat-day/): a specific, sourced number from an organization that shows its work is worth more than a bigger number nobody can trace.",
+    "target_slug": "national-cat-day",
+    "target_found": true
+  }
+]

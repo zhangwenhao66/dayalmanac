@@ -2,16 +2,13 @@
   {
     "index": 1,
     "verdict": "CONFIRMED",
-    "note": "桥接句称1991-chinese-zodiac页面讲的是Metal Goat配对、cutoff落在2月15日。目标文章coreSummary原文：'1991 is the Year of the Metal Goat, running from February 15, 1991 through February 3, 1992' —— 动物Metal Goat与cutoff日期2月15日均与桥接句断言一致。"
+    "note": "Claim checked: the bridge links to /1991-chinese-zodiac/. Target guide title: 1991 Chinese Zodiac: Metal Goat, But Only After February 15. Matching target body/FAQ passage: “A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1991 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1991, the government reference for converting between the two calendars, labels the relevant lunar year Xin-wei (辛未) and marks February 15, 1991 as the first day of its first lunar month, the actual start of the new year. Everyone born earlier that winter, Janua” The comparison in the bridge is supported by that target passage.",
+    "sentence": "This calendar's [1991 Chinese Zodiac page](/1991-chinese-zodiac/) runs the same boundary check for a different pairing, Metal Goat, where the cutoff instead lands on February 15."
   },
   {
     "index": 2,
     "verdict": "CONFIRMED",
-    "note": "桥接句称本站对birthstones-by-month同样套用'直接核对权威现行来源'的标准。目标文章第一节body原文：'This one was checked directly, cross-referenced with Jewelers of America's live buying guide the week this page was published' —— 证实该文确实是直接核对JA/GIA/AGS现行页面而非转抄旧清单，与桥接句所称的标准一致。"
-  },
-  {
-    "index": 3,
-    "verdict": "CONFIRMED",
-    "note": "桥接句称Virgo日期范围'barely shifts'（几乎不变）。目标文章virgo-dates的coreSummary原文：'places Virgo from August 23 to September 22, though the exact boundary can land a day earlier or later depending on the year' —— 边界每年最多漂移约一天，对比中国新年可漂移近一个月，'barely shifts'的表述成立。"
+    "note": "Claim checked: the bridge links to /virgo-dates/. Target guide title: Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree. Matching target body/FAQ passage: “There's no single official answer. This site's [birthstones-by-month page](/birthstones-by-month/) documents the current monthly list: peridot for August, sapphire for September. The sign straddles both, with only 9 of its days falling in August against 22 in September. The consulted materials from that monthly-list trade group do not supply a separate zodiac-sign chart, so retailers filling the gap most often name sapphire as 'the' Virgo stone, with peridot, carnelian, and moss agate offered as” The comparison in the bridge is supported by that target passage.",
+    "sentence": "Unlike a Western sign such as [Virgo](/virgo-dates/), whose date range barely shifts, the Chinese new year ranges between January 21 and February 20 depending on the lunar cycle. 1994's fell on February 10; 1993's landed January 23, both fixed by Hong Kong's official conversion charts for those years."
   }
 ]

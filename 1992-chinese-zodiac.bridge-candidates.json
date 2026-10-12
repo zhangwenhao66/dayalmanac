@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "Anyone born January 1 through February 3, 1992, that excluded stretch, falls before the boundary and belongs to the outgoing year instead, Xin-Wei (辛未), Metal Goat, the same year this site's [1991 Chinese Zodiac page](/1991-chinese-zodiac/) covers.",
+    "target_slug": "1991-chinese-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "The Western zodiac's [Scorpio](/scorpio-dates/) has nothing comparable; a Scorpio is a Scorpio regardless of which year they arrive in.",
+    "target_slug": "scorpio-dates",
+    "target_found": true
+  }
+]

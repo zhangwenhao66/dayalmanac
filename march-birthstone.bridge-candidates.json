@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "The same pattern of \\\"looks fixed, isn't\\\" shows up outside birthstones, too: [Virgo's date range](/virgo-dates/) can shift by a day between years and local time zones as the Sun’s entry into the sign falls at a different instant.",
+    "target_slug": "virgo-dates",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "It's been edited in pieces by a handful of trade groups over more than a century, the same way plenty of claims repeated as settled fact online, like [National Dog Day's founding story](/national-dog-day/), require checking what each account establishes.",
+    "target_slug": "national-dog-day",
+    "target_found": true
+  }
+]

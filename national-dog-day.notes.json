@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /national-first-responders-day/. Target guide title: National First Responders Day: Two Senate Passages in Eleven Measures. Matching target body/FAQ passage: “No. Lawmakers filed eleven measures from 2014 through 2023. The full Senate passed a resolution naming October 28 two times, once in 2017 and again in 2019, yet the House companion got no vote either time, and no version has become law.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A similar gap between appearance and actual government action runs through [this site's National First Responders Day page](/national-first-responders-day/): its cited set contains eleven measures from 2014 through 2023, including Senate approval in 2017 and 2019 without matching House passage."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /national-cat-day/. Target guide title: National Cat Day: October 29, and Which Cat Holiday You Mean. Matching target body/FAQ passage: “National Cat Day is a US observance held on October 29, encouraging people to adopt shelter cats, support rescue organizations, and spend extra time with the cats they already have. No statutory holiday designation was identified in the sources consulted. The occasion itself does not require leave or closures; local schedules and other holidays still govern opening hours. In 2026 it falls on a Thursday.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The Wikipedia article (checked 12 October 2026) opens by defining them as interchangeable: \\\"International Dog Day or National Dog Day is an annual observance held on August 26.\\\" Unlike [International Cat Day](/national-cat-day/), which has its own separate founding by the International Fund for Animal Welfare in 2002, there is no distinct international body behind an \\\"International\\\" version of Dog Day."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /national-cat-day/. Target guide title: National Cat Day: October 29, and Which Cat Holiday You Mean. Matching target body/FAQ passage: “National Cat Day is a US observance held on October 29, encouraging people to adopt shelter cats, support rescue organizations, and spend extra time with the cats they already have. No statutory holiday designation was identified in the sources consulted. The occasion itself does not require leave or closures; local schedules and other holidays still govern opening hours. In 2026 it falls on a Thursday.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The same caution about unattributed statistics applies to the shelter figures cited on [National Cat Day](/national-cat-day/): a specific, sourced number from an organization that shows its work is worth more than a bigger number nobody can trace."
+  }
+]

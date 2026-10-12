@@ -1,0 +1,32 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /virgo-dates/. Target guide title: Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree. Matching target body/FAQ passage: “Horoscope writers commonly describe Virgo, tied to Mercury and the sign's Mutable Earth classification, as detail-oriented and hardworking. The same writers list a recurring set of harder edges too: a tendency to over-analyze and criticize, trouble compromising once a plan is set, and a need for personal space a partner can mistake for distance. These traits get repeated often, the same way Virgo's compatibility pairings do, without any single source behind them.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[Virgo's date range](/virgo-dates/) has the same kind of single-day fuzziness at its boundary, where the publisher ranges and exact yearly ingress also need to be distinguished."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /may-22-zodiac/. Target guide title: May 22 Zodiac: Gemini, by One Contested Day. Matching target body/FAQ passage: “Wikipedia's entry (checked 12 October 2026) on Gemini (astrology) puts it differently, stating plainly that \\\"the sun transits this zodiac sign between about May 22 to June 21,\\\" which makes May 22 the very first day of the sign rather than the second. AstroStyle's site does acknowledge some year-to-year drift, noting that \\\"some years it starts May 20 or ends June 21,\\\" but even that acknowledged range stops at May 21. Nothing in AstroStyle's account pushes the starting edge as far as Wikipedia” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[This site's May 22 zodiac page](/may-22-zodiac/) traces the same mechanic through a different boundary, the Taurus-Gemini line, where published ephemeris tables put the actual crossing on May 20 or May 21, diverging from some horoscope date charts."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /june-22-zodiac/. Target guide title: June 22 Zodiac: Cancer, Despite the Cusp Claims. Matching target body/FAQ passage: “Cancer, on the same publishers already cited on this page, though it's the closing rather than the opening day. Both put the last day at July 22, with Leo opening the next day. The Wikipedia passage quoted above hedges the other direction, giving Cancer a range that runs through July 23 instead, a day later. As with the sign's opening date, the exact hour of the year's crossing shifts, so a birth on either date sits close enough to the edge that only that year's ephemeris settles it.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A solstice-anchored boundary runs into the same problem from a different direction, which is what [this site's June 22 zodiac page](/june-22-zodiac/) walks through for the Gemini-Cancer line."
+  },
+  {
+    "index": 4,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /national-boyfriend-day/. Target guide title: National Boyfriend Day: October 3, and Its Unverified Origin. Matching target body/FAQ passage: “National Boyfriend Day is an unofficial observance on October 3 set aside for acknowledging a romantic partner. The sources examined describe social media posts rather than a centrally scheduled program. In practice it works as a prompt for a social media post and as a slot on brand marketing calendars. September holds a different kind of naming quirk too: [this site's Corn Moon page](/corn-moon/) found that month's full moon name splits from the more familiar Harvest Moon in about one year out ” The comparison in the bridge is supported by that target passage.",
+    "sentence": "That history means Scorpio's dates have no founding moment, not even the contested kind an observance like [National Boyfriend Day](/national-boyfriend-day/) has: two competing origin stories, neither one settled."
+  },
+  {
+    "index": 5,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /december-birthstone/. Target guide title: December Birthstone: Turquoise, Zircon, and Tanzanite. Matching target body/FAQ passage: “Search for \\\"december birthstone\\\" anywhere online, though, and blue topaz shows up constantly, often presented as if it carries the same official standing as the other three. It doesn't. Blue topaz's cool, wintry tone happens to match the palette of December's real birthstones, and large retailers, including Blue Nile, Kay, JCPenney, and Gabriel & Co., have built entire product lines marketing it as \\\"the December birthstone.\\\" None of that marketing changes what is actually on Jewelers of Amer” The comparison in the bridge is supported by that target passage.",
+    "sentence": "Jewelry retailers commonly list topaz or citrine as \\\"the\\\" Scorpio stone, but that's simply borrowed from November's monthly birthstone list, the same list documented back to [Jewelers of America's 1912 meeting](/december-birthstone/) for December's entries, and repurposed here for a sign that happens to span late October into November."
+  }
+]

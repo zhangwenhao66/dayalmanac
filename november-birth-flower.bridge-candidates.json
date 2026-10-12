@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "This site's [birth flowers by month](/birth-flowers-by-month/) chart covers that same gap alongside a similar one for March.",
+    "target_slug": "birth-flowers-by-month",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[This site's May birth flower page](/may-birth-flower/) goes through a similar exercise for a different month, pulling apart a French lily-of-the-valley tradition and an old hawthorn saying that don't hold up quite as well as the usual florist copy claims.",
+    "target_slug": "may-birth-flower",
+    "target_found": true
+  }
+]

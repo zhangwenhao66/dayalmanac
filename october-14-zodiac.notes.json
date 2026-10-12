@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /virgo-dates/. Target guide title: Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree. Matching target body/FAQ passage: “What's missing is anything resembling the paper trail behind, say, [December's birthstone list](/december-birthstone/), which traces to a named trade group's 1912 meeting and two dated revisions after that. Nobody voted on Virgo's dates. No proclamation set them. They fall out of a mathematical definition: the tropical zodiac splits the solar year into twelve equal 30-degree arcs, starting from 0 degrees at the spring equinox, and Virgo is simply the sixth arc, running from 150 to 180 degrees of” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A reader who wants the Virgo side of this same three-calendar gap laid out in full can find it on [this site's Virgo dates page](/virgo-dates/), and a comparable single-day version of the tropical dispute, rather than the multi-week one covered here, runs through [this site's May 22 zodiac page](/may-22-zodiac/)."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /may-22-zodiac/. Target guide title: May 22 Zodiac: Gemini, by One Contested Day. Matching target body/FAQ passage: “Wikipedia's entry (checked 12 October 2026) on Gemini (astrology) puts it differently, stating plainly that \\\"the sun transits this zodiac sign between about May 22 to June 21,\\\" which makes May 22 the very first day of the sign rather than the second. AstroStyle's site does acknowledge some year-to-year drift, noting that \\\"some years it starts May 20 or ends June 21,\\\" but even that acknowledged range stops at May 21. Nothing in AstroStyle's account pushes the starting edge as far as Wikipedia” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A reader who wants the Virgo side of this same three-calendar gap laid out in full can find it on [this site's Virgo dates page](/virgo-dates/), and a comparable single-day version of the tropical dispute, rather than the multi-week one covered here, runs through [this site's May 22 zodiac page](/may-22-zodiac/)."
+  }
+]

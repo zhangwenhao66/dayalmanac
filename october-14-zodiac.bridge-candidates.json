@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "A reader who wants the Virgo side of this same three-calendar gap laid out in full can find it on [this site's Virgo dates page](/virgo-dates/), and a comparable single-day version of the tropical dispute, rather than the multi-week one covered here, runs through [this site's May 22 zodiac page](/may-22-zodiac/).",
+    "target_slug": "virgo-dates",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "A reader who wants the Virgo side of this same three-calendar gap laid out in full can find it on [this site's Virgo dates page](/virgo-dates/), and a comparable single-day version of the tropical dispute, rather than the multi-week one covered here, runs through [this site's May 22 zodiac page](/may-22-zodiac/).",
+    "target_slug": "may-22-zodiac",
+    "target_found": true
+  }
+]

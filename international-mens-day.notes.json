@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /national-grandparents-day/. Target guide title: National Grandparents Day: The Date Rule in US Federal Law. Matching target body/FAQ passage: “No. Federal law (36 U.S.C. § 125) sets it on the Sunday that comes after Labor Day, and not on the month's opening Sunday, so the two differ in most years. Labor Day always takes the first Monday of September, which puts the observance in the September 7 to 13 window, while the month's opening Sunday sits in the September 1 to 7 window. The two line up just in years where September 1 falls on a Monday, such as 2025 and 2031. From 2026 through 2030 the popular shorthand is off by exactly one week” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The law itself is narrow: it declares the date and permits local public authorities to organize events and state broadcasters to air related programming, but it does not create a paid public holiday or a day off work, similar to the distinction in [National Grandparents Day](/national-grandparents-day/): US federal law fixes that date by a formula (36 U.S.C. § 125) without making it a non-working holiday."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /no-shave-november/. Target guide title: No-Shave November: All of November, Not the Same as Movember. Matching target body/FAQ passage: “What sets this observance apart from most others on this calendar is not the date but the absence of any government behind it. Domestic Violence Awareness Month needed a joint resolution and a presidential proclamation. National Hispanic Heritage Month needed two separate acts of Congress a generation apart. The sources consulted did not identify either type of founding federal document for No-Shave November. It is, from 2009 to today, a campaign a private nonprofit runs on its own authority, an” The comparison in the bridge is supported by that target passage.",
+    "sentence": "That patchwork pattern, a fixed global date marked with wildly different levels of formality from one country to the next, is not unusual among the awareness observances on this calendar; [No-Shave November](/no-shave-november/) runs during the same month."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "[This calendar's page on birthstones by month](/birthstones-by-month/) found a parallel shape in the gem trade's chart, where two different months turned out to be the ones a trade group's current list ran short on.",
+    "target_slug": "birthstones-by-month",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[November's chrysanthemum](/november-birth-flower/) carries a split identity of its own: Japan's Imperial Seal and highest decoration on one side, a graveside flower tied to All Saints' Day across much of Catholic Europe on the other, the same bloom read as opposite things by two different cultures rather than by two different trade groups.",
+    "target_slug": "november-birth-flower",
+    "target_found": true
+  }
+]

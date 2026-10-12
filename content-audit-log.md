@@ -3079,3 +3079,78 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "independent_review": "Root independently opened all four official sources and checked all five FAQ drafts before publication, 2026-10-09; supported. Worker subsequently removed redundant Louvre gallery name for overlap gate, preserving meaning."
 }
 ```
+
+### 2026-10-12 DayAlmanac Wikipedia attribution backfill (partial; not complete)
+```json
+{
+  "type": "R-seo-29 Wikipedia attribution backlog",
+  "site": "DayAlmanac",
+  "status": "running",
+  "baseline_candidates": 194,
+  "classified_rows": 151,
+  "unchecked_rows": 43,
+  "latest_scan": {"all_candidates": 146, "all_slugs": 34, "narrow_candidates": 0, "narrow_exit_code": 0},
+  "modified_slugs": ["national-pepperoni-pizza-day", "june-birth-flower", "april-birth-flower", "november-birth-flower", "august-birth-flower", "world-teachers-day", "talk-like-a-pirate-day", "national-mango-day", "national-adoption-day", "1988-chinese-zodiac", "birth-flowers-by-month", "11th-anniversary-gift", "lung-cancer-awareness-month", "may-birth-flower"],
+  "candidate_review": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/review.json",
+  "raw_receipts": ["/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-assist-8b/", "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-assist-9/", "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-boss-day-current.txt", "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-mango-production-florida-current.txt", "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-gotcha-day-current.txt"],
+  "checks": "Per-slug run_checks is in progress; May birth flower has one unrelated bridge-template-reuse failure (cross-page bridge phrasing), and older receipts show unresolved 1988-zodiac, 11th-anniversary and Pepperoni failures. No completion is claimed.",
+  "publish": "not committed, not pushed, not deployed; online cache-bypass curl and IndexNow not run",
+  "expansion": "common issue; full matrix scope still outstanding; only DayAlmanac is in this batch",
+  "source_check": "curl -sS -m 40 https://en.wikipedia.org/w/index.php?title=<title>&action=raw, 2026-10-12; per-row URLs/status/quotes in review.json and raw files",
+  "quality_chain": "English edits followed humanizer then avoid-ai-writing; exact skill-read/application evidence is in task receipt; facts, names, URLs rechecked after edits.",
+  "work_journal_run_id": "20261012-codex-wikipedia-backlog"
+}
+```
+
+### 2026-10-12 DayAlmanac Wikipedia正文归因回溯（最终批次记录）
+```json
+{
+  "type": "R-seo-29 Wikipedia attribution backlog",
+  "site": "DayAlmanac",
+  "status": "rebase-complete; post-rebase-checks-complete; 3 structural failures retained",
+  "date": "2026-10-12",
+  "baseline_candidates": 194,
+  "classified_rows": 194,
+  "unchecked_rows": 0,
+  "unique_candidate_slugs": 48,
+  "classification": "逐条映射文章句子、guides.ts sources[] URL及Wikipedia action=raw正文；每行结论为仍在/漂移/未检查。未检查为0。最新99候选行逐条复核结果和raw证据见主review与raw目录。",
+  "commands": [
+    "python3 domains/seo/scripts/scripts/check_wikipedia_attribution_drift.py --all",
+    "python3 domains/seo/scripts/scripts/check_wikipedia_attribution_drift.py --all --narrow",
+    "python3 domains/seo/scripts/scripts/run_checks.py --guides src/data/guides.ts --slug <slug> --site ."
+  ],
+  "scan_date": "2026-10-12",
+  "final_drift_scan": {
+    "all": {"candidates": 0, "receipt": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/final-all-final-content.txt"},
+    "all_narrow": {"candidates": 0, "receipt": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/final-narrow-final-content.txt"}
+  },
+  "run_checks": {
+    "reviewed_slugs": 48,
+    "pass": 45,
+    "fail": 3,
+    "failures": {
+      "birthstones-by-month": "2 sister-page similarity blocks: shared 12-month chart/data presentation; resolving mechanically requires changing the repeated page structure/content outside the attribution-only redline.",
+      "national-boyfriend-day": "2 sister-page similarity blocks: repeated HTML card structures; resolving requires structural/template edits outside this batch's redline.",
+      "national-pepperoni-pizza-day": "3 sister-page similarity blocks: repeated HTML card structures; resolving requires structural/template edits outside this batch's redline."
+    },
+    "receipts": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/run-checks-post-rebase-summary.json and run-checks-post-rebase-<slug>.txt",
+    "single_run_unchecked": "Each post-rebase run_checks receipt preserves its 未检查 rows; these were not counted as pass. Single-guide unsupported checks, hero crop detection without resolved site context, and stale-1099 parameter mismatch remain unverified where indicated.",
+    "post_rebase_summary": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/run-checks-post-rebase-summary.json"
+  },
+  "matrix_scope": {
+    "sites_checked": 17,
+    "sites_expected": 17,
+    "dayalmanac_candidates_cleared": 0,
+    "other_sites_with_candidates": 8,
+    "other_sites_processed_in_this_batch": 0,
+    "receipt": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/matrix-scan-final.txt"
+  },
+  "review_receipt": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/review.json",
+  "raw_receipts": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-20261012/raw-assist-*/ and raw per-URL files; per-row evidence and URL/status/date are indexed in review.json",
+  "modified_slugs": "See git diff and bridge-candidates/notes JSON receipts in the DayAlmanac worktree; changes are limited to factual wording and sentence-level quality fixes plus verification notes.",
+  "quality_chain": "English wording changes were reviewed in humanizer then avoid-ai-writing order using the exact skill sources and hashes recorded in the receipt. Codex has no native Skill() invocation tool; source-based application is recorded without claiming a native call. Names, dates, numbers, quotations, and URLs were rechecked after edits.",
+  "expansion": "R-seo-29 issue is common; the full matrix was scanned (17/17), but only DayAlmanac was in this site batch. Eight other sites remain candidates for their own batches.",
+  "rebase": "Fetched origin/main, rebased branch onto 86156e8a9b62413d61360b8d0bfe8fa9c6d3dbfa, resolved guides.ts text conflicts while preserving attribution edits and upstream quality fixes; post-rebase all/narrow drift scans exit 0 with zero candidates.",
+  "deployment": "No commit, push, deployment, cache-bypass live verification, or IndexNow submission has occurred in this worktree."
+}
+```

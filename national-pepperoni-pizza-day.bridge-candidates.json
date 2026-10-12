@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "The gap resembles [National Coffee Day](/national-coffee-day/), another food observance with an unverified origin later that month, on September 29: promotions use a date whose founder was not identified in the references examined.",
+    "target_slug": "national-coffee-day",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "Home cooks and food media use the date as a prompt to post about pizza, a chain-driven marketing pattern similar to what [National Taco Day](/national-taco-day/) sees every fall, even though that observance's date has since become a weekday rule rather than a fixed calendar date.",
+    "target_slug": "national-taco-day",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "Nobody in Chicago, New York or anywhere ever used pepperoni!\\\" The claim has a notable gap, though: Massey's published company history, as posted on its own website, does not repeat or reference it at all, the same kind of thin, unrepeated origin story this calendar has flagged before on [National Boyfriend Day](/national-boyfriend-day/), where a hedged suggestion of a 2014 start gets repeated without documentation establishing it as the founding date.",
+    "target_slug": "national-boyfriend-day",
+    "target_found": true
+  }
+]

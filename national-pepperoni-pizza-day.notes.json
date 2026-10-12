@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "The National Coffee Day guide says its sources do not establish the September 29 observance’s founder or origin, matching the linked comparison’s limited claim about an unverified origin.",
+    "sentence": "The gap resembles [National Coffee Day](/national-coffee-day/), another food observance with an unverified origin later that month, on September 29: promotions use a date whose founder was not identified in the references examined."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "The National Taco Day guide states the date changed from a fixed October 4 to the first Tuesday of October in 2024, supporting the comparison that the observance now follows a weekday rule.",
+    "sentence": "Home cooks and food media use the date as a prompt to post about pizza, a chain-driven marketing pattern similar to what [National Taco Day](/national-taco-day/) sees every fall, even though that observance's date has since become a weekday rule rather than a fixed calendar date."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "The National Boyfriend Day guide says National Today gives a probably dated 2014 earliest reference but no single credited founder; this supports the bridge’s comparison to an origin repeated without primary documentation.",
+    "sentence": "Nobody in Chicago, New York or anywhere ever used pepperoni!\\\" The claim has a notable gap, though: Massey's published company history, as posted on its own website, does not repeat or reference it at all, the same kind of thin, unrepeated origin story this calendar has flagged before on [National Boyfriend Day](/national-boyfriend-day/), where a hedged suggestion of a 2014 start gets repeated without documentation establishing it as the founding date."
+  }
+]

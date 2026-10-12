@@ -1,0 +1,37 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "[Virgo's date range](/virgo-dates/) has the same kind of single-day fuzziness at its boundary, where the publisher ranges and exact yearly ingress also need to be distinguished.",
+    "target_slug": "virgo-dates",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "[This site's May 22 zodiac page](/may-22-zodiac/) traces the same mechanic through a different boundary, the Taurus-Gemini line, where published ephemeris tables put the actual crossing on May 20 or May 21, diverging from some horoscope date charts.",
+    "target_slug": "may-22-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "A solstice-anchored boundary runs into the same problem from a different direction, which is what [this site's June 22 zodiac page](/june-22-zodiac/) walks through for the Gemini-Cancer line.",
+    "target_slug": "june-22-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 4,
+    "source": "正文",
+    "sentence": "That history means Scorpio's dates have no founding moment, not even the contested kind an observance like [National Boyfriend Day](/national-boyfriend-day/) has: two competing origin stories, neither one settled.",
+    "target_slug": "national-boyfriend-day",
+    "target_found": true
+  },
+  {
+    "index": 5,
+    "source": "正文",
+    "sentence": "Jewelry retailers commonly list topaz or citrine as \\\"the\\\" Scorpio stone, but that's simply borrowed from November's monthly birthstone list, the same list documented back to [Jewelers of America's 1912 meeting](/december-birthstone/) for December's entries, and repurposed here for a sign that happens to span late October into November.",
+    "target_slug": "december-birthstone",
+    "target_found": true
+  }
+]

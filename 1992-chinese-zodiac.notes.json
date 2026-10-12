@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /1991-chinese-zodiac/. Target guide title: 1991 Chinese Zodiac: Metal Goat, But Only After February 15. Matching target body/FAQ passage: “A birth year alone doesn't fix a Chinese zodiac sign, because the zodiac calendar is lunar and a Gregorian year like 1991 spans parts of two different lunar years. The Hong Kong Observatory's Gregorian-Lunar Calendar Conversion Table for 1991, the government reference for converting between the two calendars, labels the relevant lunar year Xin-wei (辛未) and marks February 15, 1991 as the first day of its first lunar month, the actual start of the new year. Everyone born earlier that winter, Janua” The comparison in the bridge is supported by that target passage.",
+    "sentence": "Anyone born January 1 through February 3, 1992, that excluded stretch, falls before the boundary and belongs to the outgoing year instead, Xin-Wei (辛未), Metal Goat, the same year this site's [1991 Chinese Zodiac page](/1991-chinese-zodiac/) covers."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /scorpio-dates/. Target guide title: Scorpio Dates: October 23–November 21, or 24 to 22?. Matching target body/FAQ passage: “Ask an astrology publisher for Scorpio's start date and the answer is nearly unanimous: October 23. AstroStyle, Farmers' Almanac, Almanac.com, and the English Wikipedia entry (checked 12 October 2026) for Scorpio (astrology) all agree on that. The end date is where they split. AstroStyle and Farmers' Almanac both stop at November 21, and so does Wikipedia's prose description. Almanac.com runs a day longer, to November 22, in both its summary table and its body text. None of these sources cites a” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The Western zodiac's [Scorpio](/scorpio-dates/) has nothing comparable; a Scorpio is a Scorpio regardless of which year they arrive in."
+  }
+]

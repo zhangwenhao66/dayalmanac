@@ -1,4 +1,14 @@
 [
- {"index":1,"verdict":"CONFIRMED","note":"Claim: the Virgo page runs the same three-system comparison for another tropical sign. Target's coreSummary says 'Western tropical astrology ... places Virgo from August 23 to September 22', 'Vedic sidereal astrology ... puts Virgo roughly a month later' and 'The actual astronomical constellation ... holds the Sun longer still', so tropical, sidereal and constellation are all compared."},
- {"index":2,"verdict":"CONFIRMED","note":"Claim: June 22 has its own Wikipedia-versus-publisher one-day gap. Target says 'Wikipedia's entry on Cancer (astrology) opens by stating that \"the Sun transits this area between approximately June 22 and July 23,\"' while 'AstroStyle and Farmers' Almanac both give the sign's range as June 21 to July 22', a day apart."}
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /virgo-dates/. Target guide title: Virgo Dates: Aug 23–Sep 22, and Why Three Systems Disagree. Matching target body/FAQ passage: “What's missing is anything resembling the paper trail behind, say, [December's birthstone list](/december-birthstone/), which traces to a named trade group's 1912 meeting and two dated revisions after that. Nobody voted on Virgo's dates. No proclamation set them. They fall out of a mathematical definition: the tropical zodiac splits the solar year into twelve equal 30-degree arcs, starting from 0 degrees at the spring equinox, and Virgo is simply the sixth arc, running from 150 to 180 degrees of” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A reader curious how another tropical sign works through the same three-calendar comparison can find it laid out on this site's [Virgo dates page](/virgo-dates/), and June 22 runs into its own version of the same Wikipedia-versus-publisher date gap on [this site's June 22 zodiac page](/june-22-zodiac/)."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /june-22-zodiac/. Target guide title: June 22 Zodiac: Cancer, Despite the Cusp Claims. Matching target body/FAQ passage: “About four weeks behind the tropical version. India's sidereal calendar marks the shift with a named transit, Karka Sankranti, landing in mid-July rather than late June, so a tropical Cancer birthday in June can still fall under a different sidereal sign entirely.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "A reader curious how another tropical sign works through the same three-calendar comparison can find it laid out on this site's [Virgo dates page](/virgo-dates/), and June 22 runs into its own version of the same Wikipedia-versus-publisher date gap on [this site's June 22 zodiac page](/june-22-zodiac/)."
+  }
 ]

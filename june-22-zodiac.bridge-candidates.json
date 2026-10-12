@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "A month earlier on the calendar, a different sign boundary gets the same scrutiny: [this site's May 22 zodiac page](/may-22-zodiac/) checks five years of ephemeris records against the Taurus-Gemini line and finds the crossing on May 20 or May 21, one or two days before May 22.",
+    "target_slug": "may-22-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "A much wider version of that same tropical-versus-sidereal gap turns up in mid-autumn: [this site's October 14 zodiac page](/october-14-zodiac/) finds a date that's solidly tropical Libra while the Vedic sidereal calendar and the actual constellation the Sun sits in front of both still read Virgo.",
+    "target_slug": "october-14-zodiac",
+    "target_found": true
+  },
+  {
+    "index": 3,
+    "source": "正文",
+    "sentence": "There's no comparable trade-group chart assigning stones to zodiac signs, and readers a day or two over on the Gemini side run into a separate mismatch: this site's [Gemini birthstone page](/gemini-birthstone/) traces the \\\"pearl and alexandrite\\\" claim some retailers make for Gemini back to June's own monthly list, while the older zodiac birthstone table discussed on that page names agate for Gemini instead.",
+    "target_slug": "gemini-birthstone",
+    "target_found": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /banned-books-week/. Target guide title: Banned Books Week: A Moving Date, No Federal Law Behind It. Matching target body/FAQ passage: “The consulted documents do not identify a law setting a permanently recurring week. The seven measures listed here span Congress 117 (House 1392, Senate 838), the 118th (House 733, Senate 372 and 857), and the ongoing 119th (House 797, Senate 443). They address the awareness campaign or efforts to censor reading and were introduced as simple resolutions. Earlier tracking showed no passage; the two 2025 measures cannot yet be called expired failures. No proclamation was located in the presidentia” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[Banned Books Week](/banned-books-week/) fits the same mold from a different angle: a clearly documented sponsoring coalition, and seven cited congressional attempts, including an ongoing 119th-Congress proposal whose introduction is not evidence of final failure."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /kwanzaa-dates/. Target guide title: Is Kwanzaa a Religion? Dates and Who Started It. Matching target body/FAQ passage: “Kwanzaa does not appear on the federal employee holiday list established by 5 U.S.C. § 6103(a). The name comes from the Swahili phrase matunda ya kwanza, which means first fruits, and the holiday is modeled on African first-fruits harvest celebrations rather than on any single national tradition.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The same shape appears at a larger scale in [Kwanzaa](/kwanzaa-dates/), which its founder set for December 26 to January 1 and which is not among the legal public holidays listed in 5 U.S.C. § 6103(a)."
+  }
+]

@@ -5,5 +5,12 @@
     "sentence": "And for why birth-flower lists, unlike birthstone lists, tend to run in pairs rather than a single flower, this site's [November birth flower](/november-birth-flower/) page traces that gap back to competing 19th-century flower dictionaries that never got their own version of the single trade meeting that settled the birthstone chart.",
     "target_slug": "november-birth-flower",
     "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "That same gap shows up across the full calendar: this site's [birth flowers by month](/birth-flowers-by-month/) page lays out all twelve months side by side, including the two, March and November, where The Old Farmer's Almanac's own current chart and Farmers' Almanac's don't even agree with each other.",
+    "target_slug": "birth-flowers-by-month",
+    "target_found": true
   }
 ]

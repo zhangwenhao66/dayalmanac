@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "By contrast, the [birthstone chart’s documented history](/birthstones-by-month/) starts with a 1912 US trade convention; the flower references reviewed identify no equivalent founding meeting for a shared birth-flower chart.",
+    "target_slug": "birthstones-by-month",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "May's own birth-flower page runs into the same kind of unverified backstory from a different angle: [this site's May birth flower page](/may-birth-flower/) checks a French lily-of-the-valley custom and an old hawthorn proverb that both turn out shakier than the florist copy suggests.",
+    "target_slug": "may-birth-flower",
+    "target_found": true
+  }
+]

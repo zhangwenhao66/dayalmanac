@@ -2,16 +2,19 @@
   {
     "index": 1,
     "verdict": "CONFIRMED",
-    "note": "Original wording said citrine joined topaz forty years after 1912 'instead of landing in the same 1952 batch', which was a MISMATCH and has been rewritten. Target article's 'How November ended up with two stones' section says topaz was set at the August 1912 Kansas City meeting and 'Citrine followed in a 1952 revision, the same round that added alexandrite to June', so the corrected sentence (citrine joined forty years later, in the same 1952 batch that brought in alexandrite) now matches."
+    "note": "Claim checked: the bridge links to /november-birthstone/. Target guide title: November Birthstone: Topaz and Citrine, Forty Years Apart. Matching target body/FAQ passage: “Jewelers of America, the US trade group that has maintained the modern birthstone list since 1912, names two official stones for November: topaz and citrine. Per [DayAlmanac's own month-by-month breakdown of that list](/birthstones-by-month/), the two months on either side of November, October and December, carry two and three stones respectively, so a shopper assuming \\\"the\\\" November birthstone is one specific gem is already working from the wrong premise.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[This site's November birthstone page](/november-birthstone/) tracks a similar gap on a different month, where citrine joined topaz forty years after that 1912 original, in the same 1952 batch that brought in alexandrite."
   },
   {
     "index": 2,
     "verdict": "CONFIRMED",
-    "note": "Claim: January's popularly claimed Capricorn stone belongs to Aquarius in Kunz's actual zodiac table. Target article's section 'Aquarius or Capricorn? The zodiac table disagrees with most retail sites' states retail sites claim garnet for Capricorn but 'That table assigns garnet to Aquarius (January 20 to February 18), not Capricorn. Capricorn (December 22 to January 19), in the same table, gets ruby instead.'"
+    "note": "Claim checked: the bridge links to /january-birthstone/. Target guide title: January Birthstone: Garnet, Unchanged Since Before 1912. Matching target body/FAQ passage: “Wikipedia's comparison of birthstone lists (checked 12 October 2026) makes the point more sharply than a single source can. It tracks four separate lists side by side, spanning centuries and two countries: a 15th-to-20th-century tradition, the US list adopted in 1912, a UK revision from 2013, and a US update from 2019. Every other row in that table shows some disagreement somewhere. February's oldest column throws in hyacinth and pearl alongside amethyst. March swaps which stone counts as primar” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat."
   },
   {
     "index": 3,
     "verdict": "CONFIRMED",
-    "note": "Claim: in Kunz's table the Virgo stone is carnelian, not the sapphire shopping sites repeat. Target article's final section 'A separate mismatch: the zodiac stone for Virgo isn't sapphire either' states Kunz's 1913 zodiacal table 'assigns sapphire to a different sign entirely, Taurus, and gives Virgo carnelian instead.'"
+    "note": "Claim checked: the bridge links to /september-birthstone/. Target guide title: September Birthstone: Sapphire, Unchanged Since 1912. Matching target body/FAQ passage: “Where September does have a gap is color, not count. Sapphire is best known as a deep blue stone, but the term covers any color of the mineral corundum except red; red corundum is classified as ruby, its own separate birthstone for July. According to the American Gem Society, sapphires occur in white, pink, orange, yellow, green, violet, purple, brown, and black, and a pinkish-orange variety called padparadscha, named for a Sinhala word for lotus flower, can sell for more than a blue stone of si” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[January's popularly claimed Capricorn stone turns out, in Kunz's actual table, to belong to Aquarius instead](/january-birthstone/), and [the Virgo stone in that same table is carnelian, not the sapphire](/september-birthstone/) most shopping sites repeat."
   }
 ]

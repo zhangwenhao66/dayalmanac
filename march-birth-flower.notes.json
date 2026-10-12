@@ -1,0 +1,14 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /july-birth-flower/. Target guide title: July Birth Flower: Larkspur and Water Lily, Egypt's Other Lotus. Matching target body/FAQ passage: “Start with larkspur itself: it's not one plant. The Almanac's entry says the common name covers two closely related genera, annual Consolida and perennial Delphinium, and that Consolida is often folded into Delphinium as a subgroup. That's the smaller of the two naming problems this page runs into. January's listing has a naming puzzle too: the word carnation has three rival origin stories, laid out on [this site's January birth flower page](/january-birth-flower/).” The comparison in the bridge is supported by that target passage.",
+    "sentence": "[This site's July birth flower page](/july-birth-flower/) runs into a similar naming mix-up from a different angle: the plant most guides call Egypt's sacred lotus is actually a water lily, only distantly related to a true lotus."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /april-birth-flower/. Target guide title: April Birth Flower: Daisy and Sweet Pea, a Mislabeled Poison. Matching target body/FAQ passage: “Sweet-pea seeds contain BAPN. In animal experiments it prevents normal linking between collagen fibers, damaging skeletal and other connective tissues. This rat pathology is called odoratism (osteolathyrism). Ponseti and Baird reported a rat feeding study in 1952. The human nerve disorder follows excessive consumption of grass pea (Lathyrus sativus), with ODAP as its implicated toxin. The famine-associated form is named neurolathyrism. Both names sit under the lathyrism umbrella; a garden-plant ” The comparison in the bridge is supported by that target passage.",
+    "sentence": "April's birth flower raises a comparable need to distinguish the evidence: [this site's April birth flower page](/april-birth-flower/) describes sweet-pea seed effects studied in experimental animals, separately from the human famine illness caused by grass pea."
+  }
+]

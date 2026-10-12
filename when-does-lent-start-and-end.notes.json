@@ -1,0 +1,8 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "Claim checked: the bridge links to /corn-moon/. Target guide title: Corn Moon: The Date, and Why It Isn't Always the Harvest Moon. Matching target body/FAQ passage: “The full moon that lands in September carries the name Corn Moon every year, and in 2026 that night is Saturday, September 26. The U.S. Naval Observatory puts the moment of exact fullness at 12:49 p.m. Eastern time (16:49 UTC), a figure the Old Farmer's Almanac reports independently and matches to the minute. Like every full moon date, this one moves with the lunar cycle rather than sitting on a fixed spot on the calendar, so next year's date has to be checked rather than assumed.” The comparison in the bridge is supported by that target passage.",
+    "sentence": "The [Corn Moon](/corn-moon/) guide likewise checks published dates, using Naval Observatory data for a full moon."
+  }
+]

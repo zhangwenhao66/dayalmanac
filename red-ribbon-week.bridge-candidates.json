@@ -1,0 +1,16 @@
+[
+  {
+    "index": 1,
+    "source": "正文",
+    "sentence": "[Banned Books Week](/banned-books-week/) fits the same mold from a different angle: a clearly documented sponsoring coalition, and seven cited congressional attempts, including an ongoing 119th-Congress proposal whose introduction is not evidence of final failure.",
+    "target_slug": "banned-books-week",
+    "target_found": true
+  },
+  {
+    "index": 2,
+    "source": "正文",
+    "sentence": "The same shape appears at a larger scale in [Kwanzaa](/kwanzaa-dates/), which its founder set for December 26 to January 1 and which is not among the legal public holidays listed in 5 U.S.C. § 6103(a).",
+    "target_slug": "kwanzaa-dates",
+    "target_found": true
+  }
+]

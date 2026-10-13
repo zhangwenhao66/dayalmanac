@@ -1,0 +1,8 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "桥接句对目标页 columbus-day-whats-open 有三个具体断言：(1) 哥伦布日是 2026 年 10 月 12 日；(2) 美国把它定为十月第二个周一；(3) 两个节日今年落在同一个周一。逐条核对目标页原文：其 dateRule.occurrences 第一条为 {\"date\":\"2026-10-12\",\"weekday\":\"Monday\"}，佐证(1)；dateRule.text 写 \"The second Monday in October, every year, as written in the list of legal public holidays in 5 U.S.C. 6103(a)\"，佐证(2)；日期相同且均为 Monday，佐证(3)。three项均成立。",
+    "sentence": "October 12, 2026 is also the date of [Columbus Day](/columbus-day-whats-open/), which the United States sets for the same second Monday in October, so the two North American holidays share a Monday this year."
+  }
+]

@@ -189,6 +189,13 @@ export const RULES = {
 		base: { kind: 'nth-weekday', month: 11, weekday: 'Thursday', nth: 4 },
 		offsetDays: -5,
 	},
+	// Canada — "the second Monday in October in each and every year", the wording of the
+	// Governor General's proclamation of 31 January 1957 (Vincent Massey), transcribed on the
+	// Manitoba Historical Society's page on the holiday's history. Before that date the day was
+	// proclaimed year by year. It is also a "general holiday" under the Canada Labour Code,
+	// R.S.C. 1985, c. L-2, s. 166. Note that the federal Holidays Act, R.S.C. 1985, c. H-5,
+	// names only Canada Day, Remembrance Day and Victoria Day — Thanksgiving is not in it.
+	caThanksgiving: { kind: 'nth-weekday', month: 10, weekday: 'Monday', nth: 2 },
 };
 
 /** CLI: node tools/generate-dates.mjs <ruleName|month/day> [startYear] [count] */

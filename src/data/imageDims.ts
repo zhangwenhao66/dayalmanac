@@ -203,6 +203,10 @@ export const IMAGE_DIMS: Record<string, { w: number; h: number }> = {
   "h": 1066,
   "w": 1600
  },
+ "/images/canadian-thanksgiving-date-45-days.svg": {
+  "h": 630,
+  "w": 1200
+ },
  "/images/columbus-day-whats-open.svg": {
   "h": 630,
   "w": 1200

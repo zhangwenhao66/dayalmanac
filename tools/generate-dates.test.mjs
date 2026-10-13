@@ -126,6 +126,26 @@ test('UK Remembrance Sunday is the second Sunday in November', () => {
 	assert.ok(got.every((o) => o.weekday === 'Sunday'));
 });
 
+test('Canadian Thanksgiving is the second Monday in October', () => {
+	// Dates transcribed from official government tables, not from this generator:
+	//   Alberta, "General holidays" — row "Thanksgiving Day | Second Monday in October |
+	//     October 12 | October 11 | October 9" for 2026, 2027, 2028.
+	//   B.C. Employment Standards, "Statutory holidays" — 2024 Oct 14, 2025 Oct 13,
+	//     2026 Oct 12, 2027 Oct 11.
+	//   Canada Revenue Agency, "Public holidays for 2026" — "Thanksgiving Day – Monday, October 12, 2026".
+	const got = expand(RULES.caThanksgiving, 2024, 5);
+	assert.deepEqual(got.map((o) => o.date), ['2024-10-14', '2025-10-13', '2026-10-12', '2027-10-11', '2028-10-09']);
+	assert.ok(got.every((o) => o.weekday === 'Monday'));
+});
+
+test('Canadian Thanksgiving always lands in the second full week of October', () => {
+	// The second Monday of any month can only be the 8th through the 14th. Worth pinning
+	// because a page that says "mid-October" should never be contradicted by its own table.
+	const got = expand(RULES.caThanksgiving, 2026, 40);
+	assert.ok(got.every((o) => o.date.slice(5, 7) === '10'));
+	assert.ok(got.every((o) => Number(o.date.slice(8)) >= 8 && Number(o.date.slice(8)) <= 14));
+});
+
 // ---------------------------------------------------------------------------
 // Offset rules
 // ---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Canadian and American Thanksgiving dates, 2026 to 2031, and the 45 days between them</title>
+  <desc id="desc">2026: Canada Monday, October 12, United States Thursday, November 26, 45 days apart. 2027: Canada October 11, United States November 25, 45 days. 2028: Canada October 9, United States November 23, 45 days. 2029: Canada October 8, United States November 22, 45 days. 2030: Canada October 14, United States November 28, 45 days. 2031: Canada October 13, United States November 27, 45 days. The gap is the same in every year.</desc>
+  <rect width="1200" height="630" fill="#f6f1e7"/>
+  <text x="60" y="78" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#2b2118">The two Thanksgivings are always 45 days apart.</text>
+  <text x="60" y="116" font-family="Georgia, serif" font-size="21" fill="#5a4a3a">Canada's date is a weekday rule, and so is the American one, so the distance between them never changes.</text>
+  <rect x="60" y="148" width="1080" height="56" fill="#2b2118"/>
+  <g font-family="Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">
+    <text x="84" y="184">Year</text>
+    <text x="250" y="184">Canada: 2nd Monday in October</text>
+    <text x="760" y="184">U.S.: 4th Thursday in November</text>
+    <text x="1060" y="184">Gap</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="24" fill="#2b2118">
+    <rect x="60" y="204" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="242">2026</text><text x="250" y="242" font-weight="700">Mon., Oct. 12</text><text x="760" y="242">Thu., Nov. 26</text><text x="1060" y="242">45 days</text>
+    <rect x="60" y="262" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="300">2027</text><text x="250" y="300" font-weight="700">Mon., Oct. 11</text><text x="760" y="300">Thu., Nov. 25</text><text x="1060" y="300">45 days</text>
+    <rect x="60" y="320" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="358">2028</text><text x="250" y="358" font-weight="700">Mon., Oct. 9</text><text x="760" y="358">Thu., Nov. 23</text><text x="1060" y="358">45 days</text>
+    <rect x="60" y="378" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="416">2029</text><text x="250" y="416" font-weight="700">Mon., Oct. 8</text><text x="760" y="416">Thu., Nov. 22</text><text x="1060" y="416">45 days</text>
+    <rect x="60" y="436" width="1080" height="58" fill="#ffffff"/>
+    <text x="84" y="474">2030</text><text x="250" y="474" font-weight="700">Mon., Oct. 14</text><text x="760" y="474">Thu., Nov. 28</text><text x="1060" y="474">45 days</text>
+    <rect x="60" y="494" width="1080" height="58" fill="#efe7d6"/>
+    <text x="84" y="532">2031</text><text x="250" y="532" font-weight="700">Mon., Oct. 13</text><text x="760" y="532">Thu., Nov. 27</text><text x="1060" y="532">45 days</text>
+  </g>
+  <text x="60" y="594" font-family="Georgia, serif" font-size="18" fill="#5a4a3a">Canadian dates follow the 1957 proclamation fixing the second Monday in October; American dates follow 5 U.S.C. 6103. The gap is worked out from those two rules.</text>
+</svg>

@@ -13079,7 +13079,8 @@ export const guides: Guide[] = [
         "heading": "From Armistice Day to Veterans Day",
         "body": [
           "November 11 marks the 1918 armistice that ended fighting in World War I. An act approved May 13, 1938 (52 Stat. 351) made the date a legal holiday to be known as Armistice Day, dedicated to world peace, and it was primarily a day for veterans of the first world war.",
-          "After World War II and the Korean War, veterans' organizations pushed to widen it. Public Law 83-380, approved June 1, 1954, changed the name to Veterans Day. Eisenhower's Proclamation 3071 followed on October 8, 1954 and called on the country to honor veterans of all its wars. Armistice Day is still a national holiday in many other countries, according to the National Archives. Britain adds a Sunday observance of its own: [Remembrance Sunday 2026](/remembrance-sunday-date/) is November 8, the second Sunday of the month."
+          "After World War II and the Korean War, veterans' organizations pushed to widen it. Public Law 83-380, approved June 1, 1954, changed the name to Veterans Day. Eisenhower's Proclamation 3071 followed on October 8, 1954 and called on the country to honor veterans of all its wars. Armistice Day is still a national holiday in many other countries, according to the National Archives. Britain adds a Sunday observance of its own: [Remembrance Sunday 2026](/remembrance-sunday-date/) is November 8, the second Sunday of the month.",
+          "Canada holds Remembrance Day on the same date. Canadian Thanksgiving held the same date for a decade, before the 1931 separation sent that holiday back to the autumn, a move [why Canada's Thanksgiving is in October](/canadian-thanksgiving-date/) documents."
         ]
       },
       {
@@ -13423,7 +13424,8 @@ export const guides: Guide[] = [
       {
         "heading": "Remembrance Sunday and Veterans Day",
         "body": [
-          "Both grew from November 11, but they now work in opposite ways. The US federal holiday is fixed to the 11th by statute, as [Veterans Day 2026](/veterans-day-date/) explains, and only the day off moves when the 11th lands on a weekend. The British observance is fixed to a Sunday and lets the date float. In 2026 the two fall three days apart, and in 2029 they land on the same day."
+          "Both grew from November 11, but they now work in opposite ways. The US federal holiday is fixed to the 11th by statute, as [Veterans Day 2026](/veterans-day-date/) explains, and only the day off moves when the 11th lands on a weekend. The British observance is fixed to a Sunday and lets the date float. In 2026 the two fall three days apart, and in 2029 they land on the same day.",
+          "Canada keeps the same armistice under the name Remembrance Day, on November 11. Its Thanksgiving was merged with Armistice Day from 1921 to 1931, when the day went back to October. [Canadian Thanksgiving](/canadian-thanksgiving-date/) sets out that stretch of the history."
         ]
       }
     ],
@@ -13678,5 +13680,211 @@ export const guides: Guide[] = [
     ],
     "image": "/images/kwanzaa-dates-seven-days.svg",
     "imageAlt": "Seven columns for December 26 to January 1, each with a candle bar and the Kwanzaa principle for that day"
+  },
+  {
+    "slug": "canadian-thanksgiving-date",
+    "category": "Observances",
+    "title": "Why Is Thanksgiving in Canada in October?",
+    "description": "Canadian Thanksgiving 2026 is Monday, October 12. The second-Monday rule dates from a 1957 proclamation, and the move out of November came in 1899 for sitting too close to Christmas.",
+    "published": "2026-10-13",
+    "updated": "2026-10-13",
+    "coreSummary": "Canadian Thanksgiving is in October because the November date was dropped in 1899 for falling too close to Christmas, and a proclamation of January 31, 1957 fixed it to the second Monday in October. In 2026 that is Monday, October 12, and the Canadian date sits exactly 45 days before the American one.",
+    "dateRule": {
+      "kind": "nth-weekday",
+      "text": "The second Monday in October, every year. The Governor General's proclamation of January 31, 1957 fixed it permanently; before that the date was proclaimed year by year and had moved between October and November for decades.",
+      "source": {
+        "label": "Proclamation of January 31, 1957 (Vincent Massey), transcribed by the Manitoba Historical Society",
+        "url": "https://www.mhs.mb.ca/docs/pageant/21/thanksgivinghistory.shtml"
+      },
+      "occurrences": [
+        {
+          "date": "2026-10-12",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2027-10-11",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2028-10-09",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2029-10-08",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2030-10-14",
+          "weekday": "Monday"
+        },
+        {
+          "date": "2031-10-13",
+          "weekday": "Monday"
+        }
+      ],
+      "caveat": "The dates themselves are not in dispute for any year on this page, and the rule has been stable since 1957. Two things around it are less settled. The reason for October is one: the 1957 proclamation states no rationale, so the earlier-harvest explanation that most pages give is an inference from the outcome, while the objection on the record is that the November date fell too close to Christmas. The statutory picture is the other: the federal Holidays Act does not name Thanksgiving, the Canada Labour Code does, and the provinces split, with the four Atlantic provinces not treating it as a paid statutory holiday. The Canadian Encyclopedia's summary lists three exceptions, not four."
+    },
+    "founding": {
+      "status": "documented",
+      "text": "The recurring date rests on a proclamation that Governor General Vincent Massey issued on January 31, 1957, appointing the second Monday in October for that year and every year after. The observance is older and has no single founder: a harvest thanksgiving proclaimed for 1859 is treated as the start of the holiday in Canada, and an 1879 proclamation set the first annual one. The 1957 document fixed the date; it did not create the day.",
+      "source": {
+        "label": "Proclamation of January 31, 1957 (Vincent Massey), transcribed by the Manitoba Historical Society",
+        "url": "https://www.mhs.mb.ca/docs/pageant/21/thanksgivinghistory.shtml"
+      }
+    },
+    "sections": [
+      {
+        "heading": "Canadian Thanksgiving 2026 at a glance",
+        "body": [
+          "Canadian Thanksgiving 2026 falls on Monday, October 12. The American Thanksgiving comes on Thursday, November 26, which puts the two 45 days apart. That distance is not a quirk of this year's calendar. Both holidays are pinned to a weekday instead of a date, Canada to the second Monday in October and the United States to the fourth Thursday in November, and the arithmetic between the two rules gives 45 days in every year from 2026 through 2031, and in every year from 2020 to 2060 as well.",
+          "October 12, 2026 is also the date of [Columbus Day](/columbus-day-whats-open/), which the United States sets for the same second Monday in October, so the two North American holidays share a Monday this year. October's other observances are gathered in [National Days in October](/national-days-in-october/)."
+        ],
+        "image": {
+          "src": "/images/canadian-thanksgiving-date-45-days.svg",
+          "alt": "Table of Canadian and American Thanksgiving dates from 2026 to 2031, showing the two holidays 45 days apart in every year"
+        }
+      },
+      {
+        "heading": "The rule, and the document that set it",
+        "body": [
+          "Canada's date does not come from an act of Parliament, though several reference works say Parliament set it. It comes from a proclamation that Governor General Vincent Massey issued at Government House in Ottawa on January 31, 1957, and the document says outright that the point was to stop settling the date year by year. The Manitoba Historical Society transcribes the operative sentence, which appoints \"the second Monday in October in each and every year as a day of general thanksgiving\" and then fixes it \"in the year of Our Lord one thousand nine hundred and fifty-seven and each year thereafter\".",
+          "Two things about that document matter more than they look. It is a proclamation rather than a statute, which is why a search of the federal statute book for a Thanksgiving statute comes up empty. And it settled the date, not the holiday. Thanksgivings had been proclaimed in Canada since 1859; what had never happened was a standing rule for when."
+        ]
+      },
+      {
+        "heading": "Why is Thanksgiving in Canada in October?",
+        "body": [
+          "The question has a paper trail, and it runs well before 1957. For most of the nineteenth century the day floated. A harvest thanksgiving proclaimed for November 3, 1859 is treated as the beginning of the holiday in Canada. An 1879 proclamation set November 6 as the first annual observance. By 1898 the federal proclamation had drifted to Thursday, November 24, the last Thursday of the month, which put Canada on the same date the United States was using.",
+          "That alignment did not survive. The Manitoba Historical Society's history of the holiday, drawing on Anne Foster's book on Canadian high days and holidays, records the objection in a single line: it was found to be too late and too near Christmas. In 1899 the observance moved to October. It went back to November for a decade from 1921, for a reason that had nothing to do with the harvest.",
+          "So the documented answer to why the date sits in October is that November lost on proximity to Christmas and October won as the harvest month that was still clear of December. The earlier-harvest explanation that most pages give describes why October suits the country, and it is a fair reading of the outcome, but the 1957 proclamation states no reason at all, which makes the harvest argument an inference from the result."
+        ]
+      },
+      {
+        "heading": "The years it spent in November anyway",
+        "body": [
+          "October was not the end of the moving. After the First World War the day was proclaimed for the Monday of the week containing November 11, and an act of 1921 merged Thanksgiving with Armistice Day outright. The two holidays stayed on the same date for the next decade. The Armistice Day Act was amended in 1931, the November observance was renamed Remembrance Day, and Thanksgiving went back to October. The 1975 Manitoba Pageant history names only 1921 and 1922 for the shared dates; the federal account and the Canadian War Museum both run the arrangement through to 1931, which is the reading followed here. [Remembrance Sunday](/remembrance-sunday-date/) is the modern British cousin of that November observance, kept on its own rule.",
+          "From September 12, 1931 the day was proclaimed for the second Monday of October for 26 consecutive years, with 1935 the single exception, when the proclamation was revoked because an election fell on the date. Then the 1957 proclamation removed the need to proclaim it at all. [Veterans Day](/veterans-day-date/) covers the November 11 observance on the American side, which follows a fixed date, not a weekday."
+        ]
+      },
+      {
+        "heading": "Is Thanksgiving a statutory holiday in Canada?",
+        "body": [
+          "Canada's federal statute book is oddly quiet about Thanksgiving. The Holidays Act, R.S.C. 1985, c. H-5, names three days: Canada Day, Remembrance Day and Victoria Day. Thanksgiving is not one of them. The Canada Labour Code, R.S.C. 1985, c. L-2, s. 166, does list it, inside a definition of \"general holiday\" that runs through New Year's Day, Good Friday, Victoria Day, Canada Day, Labour Day, the National Day for Truth and Reconciliation, Thanksgiving Day, Remembrance Day, Christmas Day and Boxing Day. That definition reaches federally regulated workplaces, which is to say banks, airlines, railways and telecoms.",
+          "For everyone else the answer depends on where they work. Nine of the thirteen provinces and territories give workers a paid statutory holiday that day. The four Atlantic provinces are the exception, and each handles it its own way, usually as a retail closing day rather than a paid day off. Newfoundland and Labrador's Labour Standards Act is explicit about its own list: section 14(1) defines a public holiday as New Year's Day, Good Friday, Remembrance Day, Memorial Day, Labour Day and Christmas Day, with a catch-all for days the Lieutenant-Governor in Council proclaims. Thanksgiving is not among them.",
+          "The labels are not interchangeable. The Holidays Act calls its three days legal holidays, the Canada Labour Code calls its list general holidays, and Alberta uses that same term for its own provincial list. British Columbia says statutory holiday, Nova Scotia says paid holiday, and the Newfoundland and Labrador statute says public holiday. Nova Scotia and New Brunswick shut retail on Thanksgiving under a separate mechanism, a retail closing day or a prescribed day of rest, which carries no pay.",
+          "One reference work reads the provincial picture slightly differently. The Canadian Encyclopedia summarizes the position as statutory in every province and territory except Prince Edward Island, New Brunswick and Nova Scotia, which leaves Newfoundland and Labrador off the exception list even though the province's own employment statute does not include the day."
+        ]
+      },
+      {
+        "heading": "Where the holiday came from",
+        "body": [
+          "No single person founded Canadian Thanksgiving, which is part of why the date wandered for so long. The strands are older than the country. Indigenous peoples across what is now Canada held communal harvest feasts long before any European arrived, and the Canadian Encyclopedia, drawing on the Smithsonian, describes First Nations ceremonies that sought to ensure a good harvest.",
+          "On the European record, Martin Frobisher's 1578 expedition held a service of thanks in the eastern Arctic, and the Canadian Encyclopedia counts it as the first European Thanksgiving in North America, forty-three years before the Plymouth colony's 1621 feast. That ranking is contested. Spanish expeditions held thanksgiving services further south years earlier, among them the mass at St. Augustine on September 8, 1565, so Frobisher's claim depends on where the boundary is drawn. Samuel de Champlain's Ordre de Bon Temps at Port Royal began feasting on November 14, 1606, partly to fight the scurvy that had wrecked the settlement at Ile Sainte-Croix. United Empire Loyalists carried the American harvest custom north after the revolution, and turkey, squash and pumpkin reached Nova Scotia in the 1750s.",
+          "The first official annual Thanksgiving was proclaimed for November 6, 1879. Everything before that was proclaimed ad hoc, for a harvest, a military victory or a royal recovery, which is the pattern the 1957 document finally ended."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Why are there two Thanksgivings?",
+        "answer": "Each country sets its own date. Canada's was fixed by a proclamation issued in 1957, and the American one by 5 U.S.C. 6103. They lined up twice, for a run of years in the 1890s and again from 1921 to 1931, when the two observances were combined. Neither arrangement lasted."
+      },
+      {
+        "question": "What country celebrated Thanksgiving first?",
+        "answer": "The earliest ceremony recorded by Europeans on what is now Canadian soil came in 1578, when an expedition led by Martin Frobisher gave thanks in the Arctic. That is more than four decades ahead of the Pilgrims' 1621 feast. It does not settle the wider question, since First Nations were marking the harvest long before either expedition landed. So Frobisher's service is the earliest one in what became Canada, not the first on the continent."
+      },
+      {
+        "question": "Is Canadian Thanksgiving a statutory holiday?",
+        "answer": "Federally, it is a general holiday in workplaces the federal government regulates. It is not named in the Holidays Act, which lists only three days. Most jurisdictions treat it as a paid day off. The Atlantic group does not, and in most of those the day closes retail stores."
+      },
+      {
+        "question": "When is Canadian Thanksgiving in 2027?",
+        "answer": "Monday, October 11, 2027. The rule pins the holiday to October's second Monday, so it moves between the 8th and the 14th of the month."
+      },
+      {
+        "question": "Why does Canada have Thanksgiving so early?",
+        "answer": "Canada did try the American slot in 1898 and gave it up the following year. October had been in use on and off since 1899, and it is also the month that suits a harvest festival. The 1957 rule made it permanent."
+      },
+      {
+        "question": "Is Thanksgiving always in October in Canada?",
+        "answer": "Since 1957, yes. The modern observance has never left October, and the rule keeps it inside the second week of the month. Earlier in the century the date wandered, including a decade sharing Armistice Day in November."
+      },
+      {
+        "question": "Why is Canadian Thanksgiving on a Monday?",
+        "answer": "A Monday makes a long weekend, and the founding document is what pinned it there. The same history says the shift off a Thursday and onto a Monday was probably made with the long weekend in mind, and presents that as its reading, not a recorded decision. Global News dates the change to 1908 and says railways lobbied for it, a detail that account does not carry."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Manitoba Historical Society, Manitoba Pageant: The History of Thanksgiving (transcribes the January 31, 1957 proclamation)",
+        "url": "https://www.mhs.mb.ca/docs/pageant/21/thanksgivinghistory.shtml"
+      },
+      {
+        "label": "Canada Labour Code, R.S.C. 1985, c. L-2, s. 166 (definition of \"general holiday\")",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/L-2/section-166.html"
+      },
+      {
+        "label": "5 U.S.C. 6103: Holidays (Legal Information Institute)",
+        "url": "https://www.law.cornell.edu/uscode/text/5/6103"
+      },
+      {
+        "label": "Holidays Act, R.S.C. 1985, c. H-5 (Canada Day, Remembrance Day, Victoria Day)",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/h-5/page-1.html"
+      },
+      {
+        "label": "Newfoundland and Labrador Labour Standards Act, RSNL1990, c. L-2, s. 14 (public holidays)",
+        "url": "https://assembly.nl.ca/legislation/sr/statutes/l02.htm"
+      },
+      {
+        "label": "Canada.ca: Remembrance Day history (Armistice and Thanksgiving held on the same date, 1921 to 1931)",
+        "url": "https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/remembrance-ceremony/2.html"
+      },
+      {
+        "label": "Alberta: General holidays (Thanksgiving Day, second Monday in October)",
+        "url": "https://www.alberta.ca/alberta-general-holidays"
+      },
+      {
+        "label": "Government of British Columbia: Statutory holidays",
+        "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/statutory-holidays"
+      },
+      {
+        "label": "Canada Revenue Agency: Public holidays for 2026",
+        "url": "https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html"
+      },
+      {
+        "label": "Canadian War Museum: Remembrance Day (the 1921 bill combined Armistice Day with Thanksgiving)",
+        "url": "https://www.warmuseum.ca/firstworldwar/history/after-the-war/remembrance/remembrance-day/"
+      },
+      {
+        "label": "PBS, Secrets of Spanish Florida: the 1565 St. Augustine mass",
+        "url": "https://www.pbs.org/wnet/secrets/secrets-spanish-florida-first-thanksgiving-actually-st-augustine/3659/"
+      },
+      {
+        "label": "The Canadian Encyclopedia: Thanksgiving in Canada",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/thanksgiving-day"
+      },
+      {
+        "label": "Canada's History: The History of Thanksgiving in Canada (Alison Nagy, October 4, 2018)",
+        "url": "https://www.canadashistory.ca/explore/arts-culture-society/the-history-of-thanksgiving-in-canada"
+      },
+      {
+        "label": "Global News: Why Canadian Thanksgiving falls on a different day than American Thanksgiving",
+        "url": "https://globalnews.ca/news/4683426/canadian-thanksgiving-different-american-thanksgiving/"
+      },
+      {
+        "label": "Nova Scotia: Paid holidays and designated retail closing days (Thanksgiving Day is a retail closing day, not a paid holiday)",
+        "url": "https://novascotia.ca/lae/employmentrights/holidaychart.asp"
+      },
+      {
+        "label": "New Brunswick: Employment standards, holidays and vacation (the eight paid public holidays listed do not include Thanksgiving Day)",
+        "url": "https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/holiday-vacation.html"
+      },
+      {
+        "label": "New Brunswick: Days of Rest Act FAQ (the prescribed days of rest carry no holiday pay)",
+        "url": "https://www2.gnb.ca/content/gnb/en/departments/elg/local_government/content/governance/content/days_of_rest_act/faq.html"
+      }
+    ],
+    "image": "/images/canadian-thanksgiving-date-45-days.svg",
+    "imageAlt": "Table of Canadian and American Thanksgiving dates from 2026 to 2031, showing the two holidays 45 days apart in every year"
   }
 ];

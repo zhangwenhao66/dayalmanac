@@ -8763,7 +8763,7 @@ export const guides: Guide[] = [
     "faq": [
       {
         "question": "What Chinese zodiac sign is 1987?",
-        "answer": "Fire Rabbit, though that label doesn't kick in until January 29, 1987. Hong Kong's official calendar authority identifies that date as when Ding-mao, the lunar year in question, begins, and it doesn't close out until mid-February of the following year."
+        "answer": "Fire Rabbit. Its stem-branch name is Ding-mao, and its lunar year opened late in January."
       },
       {
         "question": "Was Naya Rivera really born in the Year of the Rabbit?",

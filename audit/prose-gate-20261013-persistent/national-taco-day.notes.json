@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "候选精确句：The most-repeated fact about this observance, that Del Taco started it, compresses a murkier, undocumented handoff into something that sounds more certain than the record supports, the same kind of compression [National Boyfriend Day](/national-boyfriend-day/) suffers when a hedged 2014 guess gets repeated across calendar sites until it reads like settled fact.；锚文本：National Boyfriend Day；目标：national-boyfriend-day；全文和全部FAQ已核读，2012/2014竞争口径不构成已证founder；桥限定NationalToday probably2014如何被重复，不推测发明者。；实际目标引句：National Today gives a different account: the earliest reference it found was to \\\"Boyfriend Day,\\\" probably dated October 4, 2014, and the page states plainly that no sole source is credited with initiating it."
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "候选精确句：[The dog-day guide](/national-dog-day/) has a different record: Colleen Paige’s 2004 founding and August 26 date remain attached to the same named organizer.；锚文本：The dog-day guide；目标：national-dog-day；全文及全部FAQ核读，2004ColleenPaige+Aug26同一organizer成立；童年日期与GroundZero动机可共存；当前桥只稳定founder/date，不误作互斥。；实际目标引句：Colleen Paige, a pet and family lifestyle expert, founded National Dog Day in 2004."
+  }
+]

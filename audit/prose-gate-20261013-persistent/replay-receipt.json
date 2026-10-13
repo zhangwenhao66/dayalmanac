@@ -1,0 +1,740 @@
+{
+  "repository": "dayalmanac",
+  "data_path": "src/data/guides.ts",
+  "data_sha256": "b0e883f5f1c6e27e393c4a7bde0c5fa809e80b2a94213aa54be7249257e4dd7d",
+  "scripts_sha256": {
+    "check_prose_patterns.py": "839e4077688cbf644f8fbab26c27bcc9a18e8e9c508344cda996b1fa23631a37",
+    "check_bridge_sentences.py": "c6cb21d4d00fdfa46c2dd0106f92b2ded62f9bafb365ff46ab6c8b75c622734e"
+  },
+  "expected": 90,
+  "checked": 90,
+  "unexamined": 0,
+  "failed": 0,
+  "candidate_slugs": 64,
+  "candidate_sentences": 109,
+  "manifest_coverage_matches": true,
+  "stale_manifest_slugs": [],
+  "results": [
+    {
+      "slug": "national-boyfriend-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-daughters-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-sons-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-coffee-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-grandparents-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-bosses-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-cat-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-dog-day",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "december-birthstone",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "virgo-dates",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "june-22-zodiac",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "may-22-zodiac",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "october-14-zodiac",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "march-birthstone",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "september-birthstone",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "scorpio-dates",
+      "status": "passed",
+      "candidates": 5,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "january-birthstone",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "red-ribbon-week",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "domestic-violence-awareness-month",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-taco-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-hispanic-heritage-month",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "no-shave-november",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "breast-cancer-awareness-month",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "diabetes-awareness-month",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "birthstones-by-month",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "international-mens-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "may-birth-flower",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "june-birth-flower",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "march-birth-flower",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "august-birth-flower",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "september-birth-flower",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "july-birth-flower",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "talk-like-a-pirate-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "epilepsy-awareness-month",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "adhd-awareness-month",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-first-responders-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "suicide-prevention-month",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "november-birth-flower",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "october-birth-flower",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "world-kindness-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "anniversary-gifts-by-year",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "april-birth-flower",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "december-birth-flower",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "february-birth-flower",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "january-birth-flower",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "movember",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "prostate-cancer-awareness-month",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "world-smile-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "lung-cancer-awareness-month",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "world-teachers-day",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "birth-flowers-by-month",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "mexican-independence-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "1994-chinese-zodiac",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "world-mental-health-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-guacamole-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "gemini-birthstone",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "june-birthstone",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "1987-chinese-zodiac",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "11th-anniversary-gift",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "ovarian-cancer-awareness-month",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-quesadilla-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "galentines-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "banned-books-week",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-adoption-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "bullying-prevention-month",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-pepperoni-pizza-day",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-wife-appreciation-day",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-nachos-day",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-wildlife-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-days-in-october",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-burrito-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "october-birthstone",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "corn-moon",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "1988-chinese-zodiac",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "national-mango-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-apple-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "libra-birthstone",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "1991-chinese-zodiac",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "1992-chinese-zodiac",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "november-birthstone",
+      "status": "passed",
+      "candidates": 3,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "april-birthstone",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "national-pasta-day",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "holiday-spending-statistics",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "autism-awareness-month",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "columbus-day-whats-open",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "veterans-day-date",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "when-does-lent-start-and-end",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "remembrance-sunday-date",
+      "status": "passed",
+      "candidates": 0,
+      "prose_exit": 0,
+      "bridge_scan_exit": 0,
+      "bridge_verify": "not_required_zero_candidates"
+    },
+    {
+      "slug": "kwanzaa-dates",
+      "status": "passed",
+      "candidates": 2,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    },
+    {
+      "slug": "canadian-thanksgiving-date",
+      "status": "passed",
+      "candidates": 1,
+      "prose_exit": 0,
+      "bridge_scan_exit": 1,
+      "bridge_verify_exit": 0
+    }
+  ],
+  "source_commit": "74d39fe778c8127b41f7ecb99382c1da73b0087f"
+}

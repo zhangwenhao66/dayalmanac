@@ -1,0 +1,17 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "精确候选：It functions the way most food-calendar days do: restaurant chains, food bloggers, and grocery brands treat November 6 as a hook for deals and social posts, and aggregator sites such as National Day Calendar, Checkiday, and Calendarr list it alongside hundreds of similar days, a marketing use also described in [National Taco Day](/national-taco-day/) and [National Guacamole Day](/national-guacamole-day/), whose differing origin records should not be reduced to one shared founding mechanism.；锚文本：National Taco Day；目标：national-taco-day；本轮完整全文全部FAQ实读，Gomez1968remarks、现代promotion2009、NDC/TacoBell2024calendarchange不同milestone；新桥仅marketinguse，不同foundingmethod。；实际目标原文引句：In practice, the day functions as a marketing calendar slot for restaurant chains"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "精确候选：It functions the way most food-calendar days do: restaurant chains, food bloggers, and grocery brands treat November 6 as a hook for deals and social posts, and aggregator sites such as National Day Calendar, Checkiday, and Calendarr list it alongside hundreds of similar days, a marketing use also described in [National Taco Day](/national-taco-day/) and [National Guacamole Day](/national-guacamole-day/), whose differing origin records should not be reduced to one shared founding mechanism.；锚文本：National Guacamole Day；目标：national-guacamole-day；本轮完整全文全部FAQ实读，Sept16/ModelMeals2017另AvocadoJul31，缺guacfounder；仅推广用途桥不把其归纳所有品牌创设。；实际目标原文引句：Restaurant promotions and social posts show its circulation, without proving the original means of its spread."
+  },
+  {
+    "index": 3,
+    "verdict": "CONFIRMED",
+    "note": "精确候选：[National Quesadilla Day](/national-quesadilla-day/), a comparable food-brand observance, has a named founding company (V&V Supremo Foods), a named executive who appeared on live television the day it launched, and trade-press coverage from the days before the 2019 launch.；锚文本：National Quesadilla Day；目标：national-quesadilla-day；本轮完整全文全部FAQ实读，V&VSupremo/GilbertoII/ABC7Sept25/2019/DairyFoodsSept13支持精确桥，2020currentcompany误年不是创立证明。；实际目标原文引句：The first-ever observance ran on Wednesday, September 25, 2019: ABC7 Chicago covered it live that day, with Gilberto Villaseñor II"
+  }
+]

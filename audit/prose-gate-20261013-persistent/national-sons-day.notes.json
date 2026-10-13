@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "断言妻子日规则为9月第三周日、无创办人，属非官方日。目标dateRule写 'The third Sunday in September, every year'，founding写 'No individual, company, or organization has been documented as the source'。其caveat给一聚合站周一错误日期，故date agreed指主流weekday rule，非所有站一致。"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "断言Nachos活动靠促销/社交媒体，菜肴1943年起源有记录，11月6日观测日无创办人。目标正文 'restaurant chains, food bloggers, and grocery brands treat November 6 as a hook for deals and social posts'；下一节 'In 1943 ... Ignacio ... Anaya, improvised a dish'；founding 'No founder, company, or registration has ever been traced'逐项支持。"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "本批actualcandidate：What's missing is anything resembling the paper trail behind, say, [December's birthstone list](/december-birthstone/), which traces to a named trade group's 1912 meeting and two dated revisions after that.；锚：December's birthstone list；目标：december-birthstone；本批完整正文全部7FAQ实读。1912turquoise/lapis→1952zircon替换→2002tanzanite追加，1952agency争议保留，不误删lapis变成永恒turquoise。；目标原文：in 1912, the American National Retail Jewelers Association | In 1952, a trade-industry update replaced December’s lapis with zircon | In 2002, the American Gem Trade Association added tanzanite to December | Sources disagree on exactly which body carried out that 1952 revision"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "本批actualcandidate：The same single-day rounding gap shows up on the Cancer side of the calendar: [this site's June 22 zodiac page](/june-22-zodiac/) walks through why Wikipedia and the major horoscope publishers land a day apart on exactly when that sign opens.；锚：this site's June 22 zodiac page；目标：june-22-zodiac；本批完整正文全部10FAQ实读；Wiki内部June22/23 vs21/22真实一日词面差；UTC/local分开，不泛推所有当地birthday必Cancer。；目标原文：June 21 to July 22 | June 22 and July 23"
+  }
+]

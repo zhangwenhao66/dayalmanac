@@ -1,0 +1,12 @@
+[
+  {
+    "index": 1,
+    "verdict": "CONFIRMED",
+    "note": "精确候选：[World Mental Health Day](/world-mental-health-day/) sits inside a six-week stretch alongside two other mental-health dates founded by three entirely separate organizations in three separate years, easy to conflate but never the same observance.；锚：World Mental Health Day；目标：world-mental-health-day；B9全文所有FAQ真实读，当前exacthash未变；WFMH1992/NAMI1990/IASP-WHO2003，日期在六周范围，不把不同创始人推断无任何影响。；目标实引：Mental Illness Awareness Week (NAMI, 1990, United States only) and World Suicide Prevention Day (IASP and WHO, 2003, September 10) | October 10, 1992"
+  },
+  {
+    "index": 2,
+    "verdict": "CONFIRMED",
+    "note": "精确候选：[World Teachers' Day](/world-teachers-day/) shows the same shape again from a different angle: national and international teacher-honoring traditions with different dates and documented origins.；锚：World Teachers' Day；目标：world-teachers-day；B8全文全部FAQ真实读，当前exacthash未变；UNESCO1994/India1962/China1985等不同origin，旧none derived绝对因果已取消。；目标实引：India's September 5 (since 1962), China's September 10 (since 1985) | UNESCO since 1994"
+  }
+]

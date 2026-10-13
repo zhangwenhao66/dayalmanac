@@ -73,19 +73,19 @@
   },
   "https://dayalmanac.com/september-birthstone/": {
     "submitted_date": "2026-08-05",
-    "last_submitted_date": "2026-09-23",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天"
+    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天 | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/scorpio-dates/": {
     "submitted_date": "2026-08-05",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "stale_not_indexed",
     "last_checked_date": "2026-08-28",
     "verified_method": "bwt_url_inspection",
-    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/scorpio-dates/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "2026-08-28: Discovered but not crawled，discovered 08 Aug，账龄20天 | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/scorpio-dates/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/january-birthstone/": {
     "submitted_date": "2026-08-05",
@@ -201,11 +201,11 @@
   },
   "https://dayalmanac.com/july-birth-flower/": {
     "submitted_date": "2026-08-12",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-09",
     "verified_method": "bwt_url_inspection",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/july-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/july-birth-flower/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/talk-like-a-pirate-day/": {
     "submitted_date": "2026-08-12",
@@ -272,11 +272,11 @@
   },
   "https://dayalmanac.com/anniversary-gifts-by-year/": {
     "submitted_date": "2026-08-17",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-16",
     "verified_method": "bing_wmt_url_inspection",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/anniversary-gifts-by-year/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/anniversary-gifts-by-year/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/april-birth-flower/": {
     "submitted_date": "2026-08-18",
@@ -312,10 +312,11 @@
   },
   "https://dayalmanac.com/movember/": {
     "submitted_date": "2026-08-19",
-    "last_submitted_date": "2026-08-19",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "verified_indexed",
     "last_checked_date": "2026-09-29",
-    "verified_method": "bing_url_inspection"
+    "verified_method": "bing_url_inspection",
+    "note": "R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/prostate-cancer-awareness-month/": {
     "submitted_date": "2026-08-19",
@@ -326,17 +327,17 @@
   },
   "https://dayalmanac.com/world-smile-day/": {
     "submitted_date": "2026-08-20",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "verified_indexed",
-    "note": "Indexed successfully | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-smile-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
+    "note": "Indexed successfully | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/world-smile-day/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-09-30",
     "verified_method": "bwt_url_inspection"
   },
   "https://dayalmanac.com/lung-cancer-awareness-month/": {
     "submitted_date": "2026-08-20",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "stale_not_indexed",
-    "note": "Discovered but not crawled (提交 08-20，>14天) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/lung-cancer-awareness-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
+    "note": "Discovered but not crawled (提交 08-20，>14天) | Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/lung-cancer-awareness-month/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]",
     "last_checked_date": "2026-09-30",
     "verified_method": "bwt_url_inspection"
   },
@@ -407,9 +408,9 @@
   },
   "https://dayalmanac.com/11th-anniversary-gift/": {
     "submitted_date": "2026-08-24",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "pending",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/11th-anniversary-gift/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/11th-anniversary-gift/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/ovarian-cancer-awareness-month/": {
     "submitted_date": "2026-08-25",
@@ -487,9 +488,9 @@
   },
   "https://dayalmanac.com/1988-chinese-zodiac/": {
     "submitted_date": "2026-08-30",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "pending",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1988-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/1988-chinese-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/national-mango-day/": {
     "submitted_date": "2026-08-31",
@@ -499,14 +500,15 @@
   },
   "https://dayalmanac.com/national-apple-day/": {
     "submitted_date": "2026-08-31",
-    "last_submitted_date": "2026-08-31",
-    "verified_status": "pending"
+    "last_submitted_date": "2026-10-13",
+    "verified_status": "pending",
+    "note": "R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/libra-birthstone/": {
     "submitted_date": "2026-09-01",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "pending",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/1991-chinese-zodiac/": {
     "submitted_date": "2026-09-02",
@@ -549,9 +551,9 @@
   },
   "https://dayalmanac.com/may-22-zodiac/": {
     "submitted_date": "2026-09-13",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "pending",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/holiday-spending-statistics/": {
     "submitted_date": "2026-09-13",
@@ -560,9 +562,9 @@
   },
   "https://dayalmanac.com/october-14-zodiac/": {
     "submitted_date": "2026-09-16",
-    "last_submitted_date": "2026-10-12",
+    "last_submitted_date": "2026-10-13",
     "verified_status": "pending",
-    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/october-14-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
+    "note": "Wikipedia attribution reviewed 12 October 2026 | [{\"urls\":[\"https://dayalmanac.com/october-14-zodiac/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}] | R-seo-29 Wikipedia attribution recheck; pushed db758ad 2026-10-13 | [{\"urls\":[\"https://dayalmanac.com/may-22-zodiac/\",\"https://dayalmanac.com/october-14-zodiac/\",\"https://dayalmanac.com/september-birthstone/\",\"https://dayalmanac.com/scorpio-dates/\",\"https://dayalmanac.com/july-birth-flower/\",\"https://dayalmanac.com/anniversary-gifts-by-year/\",\"https://dayalmanac.com/movember/\",\"https://dayalmanac.com/world-smile-day/\",\"https://dayalmanac.com/lung-cancer-awareness-month/\",\"https://dayalmanac.com/11th-anniversary-gift/\",\"https://dayalmanac.com/1988-chinese-zodiac/\",\"https://dayalmanac.com/national-apple-day/\",\"https://dayalmanac.com/libra-birthstone/\"],\"results\":[{\"endpoint\":\"Bing\",\"accepted\":true,\"status\":200},{\"endpoint\":\"Yandex\",\"accepted\":false,\"status\":null,\"error\":\"timeout/error\"}]}]"
   },
   "https://dayalmanac.com/dayalmanac": {
     "submitted_date": "2026-09-16",

@@ -3154,3 +3154,22 @@ curl -s "https://dayalmanac.com/galentines-day/?cb=$RANDOM" | grep -o "Is Galent
   "deployment": "Task commit 24a98fd9881254acd2442eebdb6d1b80659598af was pushed to origin/main after rebase onto 86156e8a9b62413d61360b8d0bfe8fa9c6d3dbfa; DayAlmanac auto-deploy. After the required 120-second wait, cache-bypass curl checked all 47 changed slugs: HTTP 200 and the checked-date marker appeared on every page. Receipt live-cache-bypass-summary.json and per-slug live-*.html. IndexNow submitted each changed URL once: Bing accepted 47/47 (HTTP 200); Yandex accepted 0/47, timed out in the site script; bounded curl fallback to https://yandex.com/indexnow via configured proxy (HTTP/1.1, 10s connect/30s max) returned curl 52 Empty reply, HTTP 000. Yandex remains unverified and is not counted as pass. Receipts indexnow-summary.json, indexnow-yandex-proxy-probe.txt, yandex-curl-fallback.headers/.body."
 }
 ```
+
+### 2026-10-13 DayAlmanac 新检测族 Wikipedia 归因复核（R-seo-29 / L-1012-2）
+```json
+{
+  "type": "R-seo-29 Wikipedia attribution residual from expanded FAM_EN_SRC scanner",
+  "date": "2026-10-13",
+  "base": "origin/main be112aab961ce765cbd292248d83603a3fa2feb6",
+  "baseline": {"wide": "16处/13篇", "narrow": "0处/0篇"},
+  "classification": {"checked": 16, "still_present": 16, "drifted": 0, "unchecked": 0, "note": "其中 Lung Cancer Alliance 的1995说法仍在活页，但该段没有引用；页面措辞保留了uncited披露，没有借维基为事实背书。"},
+  "slugs": ["may-22-zodiac", "october-14-zodiac", "september-birthstone", "scorpio-dates", "july-birth-flower", "anniversary-gifts-by-year", "movember", "world-smile-day", "lung-cancer-awareness-month", "11th-anniversary-gift", "1988-chinese-zodiac", "national-apple-day", "libra-birthstone"],
+  "live_source_check": "2026-10-13通过有界curl抓取英文Wikipedia raw；全部13个目标条目HTTP 200。原文快照见 /Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-residual-20261013/raw/；逐条映射及结论见 review.tsv。",
+  "changes": "只在16个归因句/alt文案里加入 checked 13 October 2026；将National Apple Day FAQ改写以避免和正文重复；将Movember章节标题标明AUD；缩窄National Apple Day对两类来源缺口的概括。无URL、slug、标题或结构改动。",
+  "checks": "wide/narrow扫描0/0。13篇run_checks均已执行，具体逐项记录在checks/；检查器报告的bridge候选已用各页notes.json逐项核验（含september-birthstone.notes.json）并通过直接--verify模式。单篇runner仍报告该bridge项不通过，因为runner未向子检查传递notes.json；未将这项自检报告伪装成runner通过。其他未检查项是CHECKS.json未登记单篇模式，保留未检查。",
+  "quality_chain": "外文微调按已读取的 /Users/zhangwh/.claude/skills/humanizer/SKILL.md 与 /Users/zhangwh/.claude/skills/avoid-ai-writing/SKILL.md 顺序检查；保留中性来源说明，复核日期、地名、数字、源URL和不确定性。",
+  "matrix": "本轮准确远端快照在17/17站中发现DayAlmanac本批新检测族候选及UmberLore另一批待处理候选；其他15站0候选。UmberLore单独批次随后处理，不将未完成对象记为通过。",
+  "deployment": "内容提交 db758ad4af9dbb 推送 origin/main（2026-10-13）；13/13自定义域名URL带唯一?cb参数HTTP 200，13/13均含checked 13 October 2026；见receipt live/*.html与commit db758ad。IndexNow单次显式提交13个URL：Bing HTTP 200 accepted 13/13，Yandex timeout未确认；按未知结果不重放。运行receipt wikipedia:2026-10-13:indexnow:dayalmanac-residual。",
+  "receipt": "/Users/zhangwh/.codex/receipts/wikipedia-dayalmanac-residual-20261013/"
+}
+```

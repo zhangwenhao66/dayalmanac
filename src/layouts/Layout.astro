@@ -53,7 +53,7 @@ const ogImageURL = new URL(ogImage, Astro.site);
 				var stored = '';
 				try { stored = localStorage.getItem(KEY) || ''; } catch (e) {}
 				var gpc = !!navigator.globalPrivacyControl;
-				var state = stored || (gpc ? 'denied' : eea ? 'ask' : 'granted');
+				var state = gpc ? 'denied' : (stored || (eea ? 'ask' : 'granted'));
 				var root = document.documentElement;
 				var loaded = false;
 
@@ -104,6 +104,8 @@ const ogImageURL = new URL(ogImage, Astro.site);
 					loadAnalytics();
 				}
 				function choose(value) {
+					// 2026-10-13: GPC overrides saved grants and consent button actions.
+					if (gpc) value = 'denied';
 					try { localStorage.setItem(KEY, value); } catch (e) {}
 					var bar = document.getElementById('consent-bar');
 					if (bar) bar.hidden = true;

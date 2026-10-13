@@ -124,3 +124,15 @@ WebSearch `"dayalmanac.com" -site:dayalmanac.com` — 无结果引用本站。�
 **Step 3.5**: not re-evaluated — the asset is a single-URL statistics page (unlike the countdown-widget's 30+ embed routes), so it's a plausible Reddit/HN candidate in principle, but this round's time budget went to Step 3; a future run should evaluate r/personalfinance-type placement per the 2026-09-13 build-log's own "next run" note.
 
 **Distribution count**: `holiday-spending-statistics` now at 1 sent target (just started). `Days Until` countdown widget remains at 2 sent (8/29 guacamole pitches) — not revisited this round; time budget went entirely to the newer, higher-priority asset per the 09-18 addendum.
+
+## 2026-10-13 — distribution pass (capacity-concentration rule) — no qualified target this run
+
+**Site selection**: DayAlmanac ranked #3 of the non-suppressed sites this run (189 11-30-position impressions over 28 days, behind WageLark's 318 and level with UmberLore's 191).
+
+**Order of work**: distribution only. `holiday-spending-statistics` is the least-saturated asset (1/10 sent, wifitalents.com 9/22), so it took priority over the `Days Until` countdown widget (2/10, and its embed-function form has no standalone URL to pitch).
+
+**Search result — no qualified target**: looked for editorial pages that cover holiday spending but only for one occasion (a genuine gap against the asset's 12-occasion scope), and for library/resource guides on holiday consumer-spending data. Candidates found were all either stats-aggregator pages in the same category as the asset itself (passivesecrets, proholidaycheers, dontpayfull, axis-intelligence, worldmetrics — pitching a competing stats hub is unlikely to convert), or blocked to direct fetch (financebuzz.com, faruzo.com, capitalcounselor.com all returned 403 to curl, no verifiable contact). wifitalents.com was already contacted 9/22 for a related page and is inside the "single follow-up only, ≥60 days" window, so it was not re-approached. No pitch drafted, nothing sent.
+
+**Distribution count**: unchanged — `holiday-spending-statistics` 1/10, `Days Until` countdown widget 2/10.
+
+**Step 2 / 3.5**: not run this pass.
